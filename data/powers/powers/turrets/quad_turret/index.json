@@ -1,0 +1,22 @@
+{
+  "name": "Quad_Turret",
+  "display_name": "Quad Turret",
+  "display_fullname": "Turrets.Quad Turret",
+  "display_help": "Turrets",
+  "display_short_help": "Turrets",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TURRETS/QUAD_TURRET.POWERSETS",
+  "icon": "quad_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "Turrets.Quad_Turret.Quad_Cannon"
+  ],
+  "power_display_names": [
+    "Quad Cannon"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal"
+  ]
+}

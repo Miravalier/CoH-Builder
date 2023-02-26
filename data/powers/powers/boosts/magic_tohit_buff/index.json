@@ -1,0 +1,22 @@
+{
+  "name": "Magic_ToHit_Buff",
+  "display_name": "Magic ToHit Buff",
+  "display_fullname": "Boosts.Magic ToHit Buff",
+  "display_help": "Enhances the effectiveness of accuracy buffs.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_TOHIT_BUFF.POWERSETS",
+  "icon": "magic_tohit_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_ToHit_Buff.Magic_ToHit_Buff"
+  ],
+  "power_display_names": [
+    "Aim of Joule (ToHit Buff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit Buffs"
+  ]
+}

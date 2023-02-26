@@ -1,0 +1,30 @@
+{
+  "tag": "TeleHover",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.White Dwarf Step",
+      "peacebringer_defensive.luminous_aura.white_dwarf_step"
+    ],
+    [
+      "Redirects.Teleportation.Shadow Step",
+      "redirects.pool_teleportation.shadow_step"
+    ],
+    [
+      "Redirects.Teleportation.Shadow Step",
+      "redirects.pool_teleportation.shadow_step_lowend"
+    ],
+    [
+      "Redirects.Teleportation.Teleport",
+      "redirects.pool_teleportation.teleport"
+    ],
+    [
+      "Redirects.Teleportation.Teleport",
+      "redirects.pool_teleportation.teleport_lowend"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Black Dwarf Step",
+      "warshade_defensive.umbral_aura.black_dwarf_step"
+    ]
+  ],
+  "affects": []
+}

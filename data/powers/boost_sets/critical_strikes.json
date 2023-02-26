@@ -1,0 +1,351 @@
+{
+  "name": "Critical_Strikes",
+  "display_name": "Critical Strikes",
+  "group_name": "Scrapper Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Scrapper"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Critical_Strikes_A.Attuned_Critical_Strikes_A"
+    ],
+    [
+      "Boosts.Attuned_Critical_Strikes_B.Attuned_Critical_Strikes_B"
+    ],
+    [
+      "Boosts.Attuned_Critical_Strikes_C.Attuned_Critical_Strikes_C"
+    ],
+    [
+      "Boosts.Attuned_Critical_Strikes_D.Attuned_Critical_Strikes_D"
+    ],
+    [
+      "Boosts.Attuned_Critical_Strikes_E.Attuned_Critical_Strikes_E"
+    ],
+    [
+      "Boosts.Attuned_Critical_Strikes_F.Attuned_Critical_Strikes_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_3",
+          "Moderate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_4",
+          "Large Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_5",
+          "Huge Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_6",
+          "Gargantuan Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_6",
+          "Gargantuan Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_critical_strikes_ato.png",
+      "e_icon_critical_strikes_ato.png",
+      "e_icon_critical_strikes_ato.png",
+      "e_icon_critical_strikes_ato.png",
+      "e_icon_critical_strikes_ato.png",
+      "e_icon_critical_strikes_ato.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Critical Strikes: Accuracy/Damage"
+      ],
+      [
+        "Attuned Critical Strikes: Damage/Recharge"
+      ],
+      [
+        "Attuned Critical Strikes: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Critical Strikes: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Critical Strikes: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Critical Strikes: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_critical_strikes_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_critical_strikes_a.superior_attuned_superior_critical_strikes_a",
+          "Superior Critical Strikes: Accuracy/Damage (Scrapper)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Critical Strikes: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "critical_strikes",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_critical_strikes_ato.png"
+      },
+      "attuned_critical_strikes_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_critical_strikes_b.superior_attuned_superior_critical_strikes_b",
+          "Superior Critical Strikes: Damage/Recharge (Scrapper)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Critical Strikes: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "critical_strikes",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_critical_strikes_ato.png"
+      },
+      "attuned_critical_strikes_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_critical_strikes_c.superior_attuned_superior_critical_strikes_c",
+          "Superior Critical Strikes: Accuracy/Damage/Recharge (Scrapper)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Critical Strikes: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "critical_strikes",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_critical_strikes_ato.png"
+      },
+      "attuned_critical_strikes_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_critical_strikes_d.superior_attuned_superior_critical_strikes_d",
+          "Superior Critical Strikes: Damage/Endurance/Recharge (Scrapper)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Critical Strikes: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "critical_strikes",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_critical_strikes_ato.png"
+      },
+      "attuned_critical_strikes_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_critical_strikes_e.superior_attuned_superior_critical_strikes_e",
+          "Superior Critical Strikes: Accuracy/Damage/Endurance/Recharge (Scrapper)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Critical Strikes: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "critical_strikes",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_critical_strikes_ato.png"
+      },
+      "attuned_critical_strikes_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_critical_strikes_f.superior_attuned_superior_critical_strikes_f",
+          "Superior Critical Strikes: Recharge/+50% Critical Hit Chance Proc (Scrapper)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Critical Strikes: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "critical_strikes",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_critical_strikes_ato.png"
+      }
+    }
+  }
+}

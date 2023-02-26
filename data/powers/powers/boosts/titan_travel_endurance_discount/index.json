@@ -1,0 +1,22 @@
+{
+  "name": "Titan_Travel_Endurance_Discount",
+  "display_name": "Titan Travel Endurance Discount",
+  "display_fullname": "Boosts.Titan Travel Endurance Discount",
+  "display_help": "Increases the speed of a travel and reduces the endurance cost of a power.",
+  "display_short_help": "Titan (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TITAN_TRAVEL_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "titan_travel_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Titan_Travel_Endurance_Discount.Titan_Travel_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "Titan Selenite Shard (End/Fly/Jump/Run)"
+  ],
+  "power_short_helps": [
+    "Enhances Travel Speed and Reduces Endurance Cost"
+  ]
+}

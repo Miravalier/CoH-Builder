@@ -1,0 +1,42 @@
+{
+  "name": "Archon",
+  "display_name": "Archon",
+  "display_fullname": "Council.Archon",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ARCHON.POWERSETS",
+  "icon": "archon_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Archon.Resistance",
+    "Council.Archon.Power_Blast",
+    "Council.Archon.Explosive_Blast",
+    "Council.Archon.Whirling_Hands",
+    "Council.Archon.Stun",
+    "Council.Archon.Cybernetic_Blade"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Power Blast",
+    "Explosive Blast",
+    "Whirling Hands",
+    "Stun",
+    "Cybernetic Blade"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Targeted AoE), Moderate DMG(Smash/Energy), Foe Knockback",
+    "Disorient",
+    "Disorient",
+    "Melee Lethal"
+  ]
+}

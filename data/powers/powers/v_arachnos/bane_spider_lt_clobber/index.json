@@ -1,0 +1,22 @@
+{
+  "name": "Bane_Spider_Lt_Clobber",
+  "display_name": "Bane Spider Lt Clobber",
+  "display_fullname": "V Arachnos.Bane Spider Lt Clobber",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/BANE_SPIDER_LT_CLOBBER.POWERSETS",
+  "icon": "bane_spider_lt_clobber_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Bane_Spider_Lt_Clobber.Clobber"
+  ],
+  "power_display_names": [
+    "Clobber"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smash), Minor DoT(Toxic), Disorient"
+  ]
+}

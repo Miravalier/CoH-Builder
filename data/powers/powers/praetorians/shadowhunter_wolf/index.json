@@ -1,0 +1,34 @@
+{
+  "name": "Shadowhunter_Wolf",
+  "display_name": "Shadowhunter_Wolf",
+  "display_fullname": "Praetorians.Shadowhunter Wolf",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/SHADOWHUNTER_WOLF.POWERSETS",
+  "icon": "shadowhunter_wolf_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Shadowhunter_Wolf.Claw_Swipe",
+    "Praetorians.Shadowhunter_Wolf.Hurl",
+    "Praetorians.Shadowhunter_Wolf.Wolf_Jumping",
+    "Praetorians.Shadowhunter_Wolf.Resistance"
+  ],
+  "power_display_names": [
+    "Claw Swipe",
+    "Hurl",
+    "Wolf Jumping",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee(Cone) Heavy Lethal, +Knockback",
+    "Disorient",
+    "Self Auto, +Jump, +Speed",
+    "Auto Res(All Dam, Immobilization)"
+  ]
+}

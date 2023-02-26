@@ -1,0 +1,22 @@
+{
+  "name": "Lt_High",
+  "display_name": "Lt High",
+  "display_fullname": "V Luddites.Lt High",
+  "display_help": "Luddites",
+  "display_short_help": "Luddites",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LUDDITES/LT_HIGH.POWERSETS",
+  "icon": "lt_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Luddites.Lt_High.Fortitude"
+  ],
+  "power_display_names": [
+    "Fortitude"
+  ],
+  "power_short_helps": [
+    "Ally +DEF, +DMG, +ACC, +Res(Disorient, Hold, Sleep, Immobilize, Fear, Confuse), +Perception"
+  ]
+}

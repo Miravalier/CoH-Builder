@@ -1,0 +1,22 @@
+{
+  "name": "ResConfuse",
+  "display_name": "ResConfuse",
+  "display_fullname": "Objects.ResConfuse",
+  "display_help": "Safe Zone",
+  "display_short_help": "Safe Zone",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/RESCONFUSE.POWERSETS",
+  "icon": "resconfuse_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.ResConfuse.ResConfuse"
+  ],
+  "power_display_names": [
+    "ResConfuse"
+  ],
+  "power_short_helps": [
+    "Res(Confuse)"
+  ]
+}

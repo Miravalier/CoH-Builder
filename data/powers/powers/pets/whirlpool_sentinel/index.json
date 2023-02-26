@@ -1,0 +1,26 @@
+{
+  "name": "Whirlpool_Sentinel",
+  "display_name": "Whirlpool",
+  "display_fullname": "Pets.Whirlpool",
+  "display_help": "Water Blast",
+  "display_short_help": "Water Blast",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/WHIRLPOOL_SENTINEL.POWERSETS",
+  "icon": "whirlpool_sentinel_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Whirlpool_Sentinel.Whirlpool",
+    "Pets.Whirlpool_Sentinel.Avoid"
+  ],
+  "power_display_names": [
+    "Whirlpool",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), High DoT(Cold), -Speed, -Defense, Self +Tidal Power",
+    "Avoid"
+  ]
+}

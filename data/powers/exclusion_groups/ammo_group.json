@@ -1,0 +1,89 @@
+{
+  "group": "Ammo_Group",
+  "powers": [
+    [
+      "Blaster Ranged.Dual Pistols.Chemical Ammunition",
+      "blaster_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Cryo Ammunition",
+      "blaster_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Incendiary Ammunition",
+      "blaster_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Form of the Body",
+      "brute_melee.staff_fighting.form_of_the_body"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Form of the Mind",
+      "brute_melee.staff_fighting.form_of_the_mind"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Form of the Soul",
+      "brute_melee.staff_fighting.form_of_the_soul"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Chemical Ammunition",
+      "corruptor_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Cryo Ammunition",
+      "corruptor_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Incendiary Ammunition",
+      "corruptor_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Chemical Ammunition",
+      "defender_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Cryo Ammunition",
+      "defender_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Incendiary Ammunition",
+      "defender_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Form of the Body",
+      "scrapper_melee.staff_fighting.form_of_the_body"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Form of the Mind",
+      "scrapper_melee.staff_fighting.form_of_the_mind"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Form of the Soul",
+      "scrapper_melee.staff_fighting.form_of_the_soul"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Chemical Ammunition",
+      "sentinel_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Cryo Ammunition",
+      "sentinel_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Incendiary Ammunition",
+      "sentinel_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Form of the Body",
+      "tanker_melee.staff_fighting.form_of_the_body"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Form of the Mind",
+      "tanker_melee.staff_fighting.form_of_the_mind"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Form of the Soul",
+      "tanker_melee.staff_fighting.form_of_the_soul"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Chimera_Kama_Ninja",
+  "display_name": "Chimera_Kama_Ninja",
+  "display_fullname": "Praetorians.Chimera Kama Ninja",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/CHIMERA_KAMA_NINJA.POWERSETS",
+  "icon": "chimera_kama_ninja_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Chimera_Kama_Ninja.Kama",
+    "Praetorians.Chimera_Kama_Ninja.Brawl"
+  ],
+  "power_display_names": [
+    "Kama",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "Melee Smash"
+  ]
+}

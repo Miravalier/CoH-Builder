@@ -1,0 +1,38 @@
+{
+  "name": "Forbidden_Knowledge",
+  "display_name": "Forbidden Knowledge",
+  "display_fullname": "AnimusArcana.Forbidden Knowledge",
+  "display_help": "Animus Arcana",
+  "display_short_help": "Animus Arcana",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ANIMUSARCANA/FORBIDDEN_KNOWLEDGE.POWERSETS",
+  "icon": "forbidden_knowledge_set.png",
+  "requires": "",
+  "power_names": [
+    "AnimusArcana.Forbidden_Knowledge.Dark_Blast",
+    "AnimusArcana.Forbidden_Knowledge.Tenebrous_Tentacles",
+    "AnimusArcana.Forbidden_Knowledge.Torrent",
+    "AnimusArcana.Forbidden_Knowledge.Life_Drain",
+    "AnimusArcana.Forbidden_Knowledge.Gloom"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Tenebrous Tentacles",
+    "Torrent",
+    "Life Drain",
+    "Gloom"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Negative), -ToHit(Foe)",
+    "Ranged (Cone), Minor DMG(Negative Energy), Moderate DoT(Negative), Immobilize(Foe), -ToHit(Foe)",
+    "Ranged (Cone), Minor DMG(Negative), Knockback(Foe), -ToHit(Foe)",
+    "Ranged, Superior DMG(Negative Energy), Heal(Self), -ToHit(Foe)",
+    "Ranged, High DoT(Negative Energy), -ToHit(Foe)"
+  ]
+}

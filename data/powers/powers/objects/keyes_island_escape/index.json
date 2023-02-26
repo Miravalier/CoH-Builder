@@ -1,0 +1,22 @@
+{
+  "name": "Keyes_Island_Escape",
+  "display_name": "Keyes_Island_Escape",
+  "display_fullname": "Objects.Keyes Island Escape",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/KEYES_ISLAND_ESCAPE.POWERSETS",
+  "icon": "keyes_island_escape_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Keyes_Island_Escape.PatrolEscape"
+  ],
+  "power_display_names": [
+    "PatrolEscape"
+  ],
+  "power_short_helps": [
+    "Warworks Escaping!"
+  ]
+}

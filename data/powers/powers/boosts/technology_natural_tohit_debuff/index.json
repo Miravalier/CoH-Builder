@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_ToHit_DeBuff",
+  "display_name": "Technology Natural ToHit DeBuff",
+  "display_fullname": "Boosts.Technology Natural ToHit DeBuff",
+  "display_help": "Enhances the effectiveness of accuracy debuffs.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_TOHIT_DEBUFF.POWERSETS",
+  "icon": "technology_natural_tohit_debuff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_ToHit_DeBuff.Technology_Natural_ToHit_DeBuff"
+  ],
+  "power_display_names": [
+    "Blind Grenade (ToHit DeBuff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit DeBuffs"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Stalker_Melee",
+  "display_name": "Stalker Melee",
+  "display_fullname": "Redirects.Stalker Melee",
+  "display_help": "These powers are used by stalker redirect powers.",
+  "display_short_help": "Stalker Melee",
+  "available_level": [
+    0,
+    1
+  ],
+  "source_file": "DEFS/POWERS/REDIRECTS/STALKER_MELEE.POWERSETS",
+  "icon": "stalker_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Redirects.Stalker_Melee.Savage_Leap",
+    "Redirects.Stalker_Melee.Ablating_Strike_Sweep"
+  ],
+  "power_display_names": [
+    "Savage Leap",
+    "Ablating Sweep"
+  ],
+  "power_short_helps": [
+    "PBAoE, High DMG(Lethal), Foe Minor DoT(Lethal), +3 Blood Frenzy, Self Teleport",
+    "Melee, Minor DMG(Lethal), Foe -DEF"
+  ]
+}

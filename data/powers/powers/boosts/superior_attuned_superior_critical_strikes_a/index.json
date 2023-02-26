@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Critical_Strikes_A",
+  "display_name": "Superior Attuned Superior Critical Strikes A",
+  "display_fullname": "Boosts.Superior Attuned Critical Strikes A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Scrappers and may be slotted into any Scrapper damage power.",
+  "display_short_help": "Set: Superior Critical Strikes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_CRITICAL_STRIKES_A.POWERSETS",
+  "icon": "superior_attuned_superior_critical_strikes_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Critical_Strikes_A.Superior_Attuned_Superior_Critical_Strikes_A"
+  ],
+  "power_display_names": [
+    "Superior Critical Strikes: Accuracy/Damage (Scrapper)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

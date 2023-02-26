@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Undermined_Defenses_B",
+  "display_name": "Attuned Undermined Defenses B",
+  "display_fullname": "Boosts.Attuned Undermined Defenses B",
+  "display_help": "Enhances the defense debuff potential of a power by {Boost.Attrib.Defense.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Undermined Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNDERMINED_DEFENSES_B.POWERSETS",
+  "icon": "attuned_undermined_defenses_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Undermined_Defenses_B.Attuned_Undermined_Defenses_B"
+  ],
+  "power_display_names": [
+    "Undermined Defenses: Defense Debuff/Recharge"
+  ],
+  "power_short_helps": [
+    "+Defense Debuff, +Rech"
+  ]
+}

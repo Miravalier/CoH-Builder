@@ -1,0 +1,26 @@
+{
+  "name": "TPN_Technician",
+  "display_name": "TPN_Technician",
+  "display_fullname": "TPNCampus.TPN Technician",
+  "display_help": "Technicians",
+  "display_short_help": "Technicians",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/TPN_TECHNICIAN.POWERSETS",
+  "icon": "tpn_technician_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.TPN_Technician.Signal_Interference",
+    "TPNCampus.TPN_Technician.Impenetrable_Shielding"
+  ],
+  "power_display_names": [
+    "Signal Interference",
+    "Impenetrable Shielding"
+  ],
+  "power_short_helps": [
+    "Signal Interference",
+    "Impenetrable Shielding"
+  ]
+}

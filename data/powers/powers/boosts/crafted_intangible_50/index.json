@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Intangible_50",
+  "display_name": "Crafted Intangible 50",
+  "display_fullname": "Boosts.Crafted Intangible 50",
+  "display_help": "Increases intangible duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_INTANGIBLE_50.POWERSETS",
+  "icon": "crafted_intangible_50_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Intangible_50.Crafted_Intangible_50"
+  ],
+  "power_display_names": [
+    "Invention: Intangibility"
+  ],
+  "power_short_helps": [
+    "Enhances Intangibility Duration"
+  ]
+}

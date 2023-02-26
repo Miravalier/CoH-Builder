@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Res_Damage_Endurance_Discount",
+  "display_name": "Hydra Res Damage Endurance Discount",
+  "display_fullname": "Boosts.Hydra Res Damage Endurance Discount",
+  "display_help": "Enhances the damage resistance and reduces the endurance cost of a power.",
+  "display_short_help": "Hydra (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/HYDRA_RES_DAMAGE_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "hydra_res_damage_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Hydra_Res_Damage_Endurance_Discount.Hydra_Res_Damage_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "Electron Exposure (End/Res)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage Resistance and Reduces Endurance Cost"
+  ]
+}

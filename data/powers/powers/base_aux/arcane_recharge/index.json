@@ -1,0 +1,22 @@
+{
+  "name": "Arcane_Recharge",
+  "display_name": "Arcane Recharge",
+  "display_fullname": "Base Aux.Arcane Recharge",
+  "display_help": "Improves firing rate by 25%.",
+  "display_short_help": "Arcane",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_AUX/ARCANE_RECHARGE.POWERSETS",
+  "icon": "arcane_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Aux.Arcane_Recharge.Control_Rune"
+  ],
+  "power_display_names": [
+    "Control Rune"
+  ],
+  "power_short_helps": [
+    "Increases attack rate"
+  ]
+}

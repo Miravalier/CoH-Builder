@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Numinas_Convalesence_E",
+  "display_name": "Attuned Numina's Convalescence E",
+  "display_fullname": "Boosts.Attuned Numinas Convalesence E",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}%.",
+  "display_short_help": "Set: Numinas Convalescence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NUMINAS_CONVALESENCE_E.POWERSETS",
+  "icon": "attuned_numinas_convalesence_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Numinas_Convalesence_E.Attuned_Numinas_Convalesence_E"
+  ],
+  "power_display_names": [
+    "Numina's Convalescence: Healing/Absorb"
+  ],
+  "power_short_helps": [
+    "+Heal, +Absorb"
+  ]
+}

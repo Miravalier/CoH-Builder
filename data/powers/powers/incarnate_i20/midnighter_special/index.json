@@ -1,0 +1,30 @@
+{
+  "name": "Midnighter_Special",
+  "display_name": "Midnighter Special",
+  "display_fullname": "Incarnate I20.Midnighter Special",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/MIDNIGHTER_SPECIAL.POWERSETS",
+  "icon": "midnighter_special_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Midnighter_Special.Exorcist_Ow",
+    "Incarnate_I20.Midnighter_Special.Mercedes_Sheldon_Ow",
+    "Incarnate_I20.Midnighter_Special.Montague_Ow"
+  ],
+  "power_display_names": [
+    "Exorcist Ow",
+    "Mercedes Sheldon Ow",
+    "Montague Ow"
+  ],
+  "power_short_helps": [
+    "Kibbitz",
+    "Kibbitz",
+    "Kibbitz"
+  ]
+}

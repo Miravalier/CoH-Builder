@@ -1,0 +1,370 @@
+{
+  "name": "Smashing_Haymaker",
+  "display_name": "Smashing Haymaker",
+  "group_name": "Melee Damage",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Melee"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Smashing_Haymaker_A.Crafted_Smashing_Haymaker_A",
+      "Boosts.Attuned_Smashing_Haymaker_A.Attuned_Smashing_Haymaker_A"
+    ],
+    [
+      "Boosts.Crafted_Smashing_Haymaker_B.Crafted_Smashing_Haymaker_B",
+      "Boosts.Attuned_Smashing_Haymaker_B.Attuned_Smashing_Haymaker_B"
+    ],
+    [
+      "Boosts.Crafted_Smashing_Haymaker_C.Crafted_Smashing_Haymaker_C",
+      "Boosts.Attuned_Smashing_Haymaker_C.Attuned_Smashing_Haymaker_C"
+    ],
+    [
+      "Boosts.Crafted_Smashing_Haymaker_D.Crafted_Smashing_Haymaker_D",
+      "Boosts.Attuned_Smashing_Haymaker_D.Attuned_Smashing_Haymaker_D"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 35,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_lethal_smash_melee_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_1",
+          "Tiny Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_2",
+          "Small Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_lethal_smash_melee_def_2",
+          "Small Increased Lethal/Smashing/Melee Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png",
+      "e_icon_smashinghaymaker.png"
+    ],
+    "boosts": [
+      [
+        "Smashing Haymaker: Accuracy/Damage",
+        "Attuned Smashing Haymaker: Accuracy/Damage"
+      ],
+      [
+        "Smashing Haymaker: Damage/Endurance",
+        "Attuned Smashing Haymaker: Damage/Endurance"
+      ],
+      [
+        "Smashing Haymaker: Damage/Recharge",
+        "Attuned Smashing Haymaker: Damage/Recharge"
+      ],
+      [
+        "Smashing Haymaker: Damage/Endurance/Recharge",
+        "Attuned Smashing Haymaker: Damage/Endurance/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_smashing_haymaker_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_smashing_haymaker_a.attuned_smashing_haymaker_a",
+          "Smashing Haymaker: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Smashing Haymaker: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "attuned_smashing_haymaker_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 35,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Smashing Haymaker: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "crafted_smashing_haymaker_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_smashing_haymaker_b.attuned_smashing_haymaker_b",
+          "Smashing Haymaker: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Smashing Haymaker: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "attuned_smashing_haymaker_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 35,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Smashing Haymaker: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "crafted_smashing_haymaker_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_smashing_haymaker_c.attuned_smashing_haymaker_c",
+          "Smashing Haymaker: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Smashing Haymaker: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "attuned_smashing_haymaker_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 35,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Smashing Haymaker: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "crafted_smashing_haymaker_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_smashing_haymaker_d.attuned_smashing_haymaker_d",
+          "Smashing Haymaker: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Smashing Haymaker: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      },
+      "attuned_smashing_haymaker_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 35,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Smashing Haymaker: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "smashing_haymaker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_smashinghaymaker.png"
+      }
+    }
+  }
+}

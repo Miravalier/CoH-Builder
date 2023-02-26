@@ -1,0 +1,22 @@
+{
+  "name": "Challenge_Empowerment_3",
+  "display_name": "Challenge Empowerment III",
+  "display_fullname": "Challenge Empowerment.Challenge Empowerment III",
+  "display_help": "Challenge Empowerment III",
+  "display_short_help": "Challenge Empowerment III",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CHALLENGE_EMPOWERMENT/CHALLENGE_EMPOWERMENT_3.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Challenge_Empowerment.Challenge_Empowerment_3.Hard_Mode_3"
+  ],
+  "power_display_names": [
+    "Empowerment "
+  ],
+  "power_short_helps": [
+    "+DMG, +ToHit, +DEF, +RES, +Perception"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Harmonized_Healing_C",
+  "display_name": "Attuned Harmonized Healing C",
+  "display_fullname": "Boosts.Attuned Harmonized Healing C",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Harmonized Healing",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_HARMONIZED_HEALING_C.POWERSETS",
+  "icon": "attuned_harmonized_healing_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Harmonized_Healing_C.Attuned_Harmonized_Healing_C"
+  ],
+  "power_display_names": [
+    "Harmonized Healing: Healing/Absorb/Recharge"
+  ],
+  "power_short_helps": [
+    "+Heal, +Rech, +Absorb"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Tentacle_Death",
+  "display_name": "Tentacle Death",
+  "display_fullname": "Event.Tentacle Death",
+  "display_help": "Octopus",
+  "display_short_help": "Octopus",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/TENTACLE_DEATH.POWERSETS",
+  "icon": "tentacle_death_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Tentacle_Death.Tentacle_Death",
+    "Event.Tentacle_Death.Self_Destruct",
+    "Event.Tentacle_Death.Resistance"
+  ],
+  "power_display_names": [
+    "Tentacle Death",
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Post Death Special",
+    "Self Destruct",
+    "Resistance"
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "name": "Performance_Shifter",
+  "display_name": "Performance Shifter",
+  "group_name": "Endurance Modification",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Endurance Modification"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Performance_Shifter_A.Crafted_Performance_Shifter_A",
+      "Boosts.Attuned_Performance_Shifter_A.Attuned_Performance_Shifter_A"
+    ],
+    [
+      "Boosts.Crafted_Performance_Shifter_B.Crafted_Performance_Shifter_B",
+      "Boosts.Attuned_Performance_Shifter_B.Attuned_Performance_Shifter_B"
+    ],
+    [
+      "Boosts.Crafted_Performance_Shifter_C.Crafted_Performance_Shifter_C",
+      "Boosts.Attuned_Performance_Shifter_C.Attuned_Performance_Shifter_C"
+    ],
+    [
+      "Boosts.Crafted_Performance_Shifter_D.Crafted_Performance_Shifter_D",
+      "Boosts.Attuned_Performance_Shifter_D.Attuned_Performance_Shifter_D"
+    ],
+    [
+      "Boosts.Crafted_Performance_Shifter_E.Crafted_Performance_Shifter_E",
+      "Boosts.Attuned_Performance_Shifter_E.Attuned_Performance_Shifter_E"
+    ],
+    [
+      "Boosts.Crafted_Performance_Shifter_F.Crafted_Performance_Shifter_F",
+      "Boosts.Attuned_Performance_Shifter_F.Attuned_Performance_Shifter_F"
+    ]
+  ],
+  "min_level": 21,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification",
+      "Enhance Endurance Modification"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_4",
+          "Large Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_4",
+          "Large Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png",
+      "e_icon_performanceshifter.png"
+    ],
+    "boosts": [
+      [
+        "Performance Shifter: EndMod",
+        "Attuned Performance Shifter: EndMod"
+      ],
+      [
+        "Performance Shifter: EndMod/Recharge",
+        "Attuned Performance Shifter: EndMod/Recharge"
+      ],
+      [
+        "Performance Shifter: Accuracy/EndMod/Recharge",
+        "Attuned Performance Shifter: Accuracy/EndMod/Recharge"
+      ],
+      [
+        "Performance Shifter: Accuracy/Recharge",
+        "Attuned Performance Shifter: Accuracy/Recharge"
+      ],
+      [
+        "Performance Shifter: Accuracy/EndMod",
+        "Attuned Performance Shifter: Accuracy/EndMod"
+      ],
+      [
+        "Performance Shifter: Proc",
+        "Attuned Performance Shifter: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_performance_shifter_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_performance_shifter_a.attuned_performance_shifter_a",
+          "Performance Shifter: Endurance Modification"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Performance Shifter: EndMod",
+        "aspects": [
+          "EndMod"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "attuned_performance_shifter_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Performance Shifter: EndMod",
+        "aspects": [
+          "EndMod"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "crafted_performance_shifter_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_performance_shifter_b.attuned_performance_shifter_b",
+          "Performance Shifter: Endurance Modification/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Performance Shifter: EndMod/Recharge",
+        "aspects": [
+          "EndMod",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "attuned_performance_shifter_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Performance Shifter: EndMod/Recharge",
+        "aspects": [
+          "EndMod",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "crafted_performance_shifter_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_performance_shifter_c.attuned_performance_shifter_c",
+          "Performance Shifter: Endurance Modification/Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Performance Shifter: Accuracy/EndMod/Recharge",
+        "aspects": [
+          "Accuracy",
+          "EndMod",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "attuned_performance_shifter_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Performance Shifter: Accuracy/EndMod/Recharge",
+        "aspects": [
+          "Accuracy",
+          "EndMod",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "crafted_performance_shifter_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_performance_shifter_d.attuned_performance_shifter_d",
+          "Performance Shifter: Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Performance Shifter: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "attuned_performance_shifter_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Performance Shifter: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "crafted_performance_shifter_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_performance_shifter_e.attuned_performance_shifter_e",
+          "Performance Shifter: Endurance Modification/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Performance Shifter: Accuracy/EndMod",
+        "aspects": [
+          "Accuracy",
+          "EndMod"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "attuned_performance_shifter_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Performance Shifter: Accuracy/EndMod",
+        "aspects": [
+          "Accuracy",
+          "EndMod"
+        ],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "crafted_performance_shifter_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_performance_shifter_f.attuned_performance_shifter_f",
+          "Performance Shifter: Chance for +Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Performance Shifter: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      },
+      "attuned_performance_shifter_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Performance Shifter: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "performance_shifter",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Endurance Modification",
+        "icon": "e_icon_performanceshifter.png"
+      }
+    }
+  }
+}

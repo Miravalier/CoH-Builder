@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Debiliative_Action_F",
+  "display_name": "Attuned Debilitative Action F",
+  "display_fullname": "Boosts.Attuned Debiliative Action F",
+  "display_help": "Adds a chance to Disorient your foe. This effect will trigger roughly 3 times per minute.",
+  "display_short_help": "Set: Debilitative Action",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEBILIATIVE_ACTION_F.POWERSETS",
+  "icon": "attuned_debiliative_action_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Debiliative_Action_F.Attuned_Debiliative_Action_F"
+  ],
+  "power_display_names": [
+    "Debilitative Action: Disorient Bonus"
+  ],
+  "power_short_helps": [
+    "Adds Disorient Chance"
+  ]
+}

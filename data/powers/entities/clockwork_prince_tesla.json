@@ -1,0 +1,91 @@
+{
+  "name": "Clockwork_Prince_Tesla",
+  "gender": "GENDER_MALE",
+  "group_name": "Clockwork",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 11,
+    "max_level": 20,
+    "requires": "",
+    "spawn_limit": 2,
+    "spawn_limit_mission": 2,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Clockwork_Base",
+    "character_class_name": "boss_grunt",
+    "description": "The heirs apparent to the Clockwork King's throne, the Princes represent the pinnacle of the mad genius' creations. Although Tesla Princes sometimes seem almost human because of their advanced robotic brains, they possess the decidedly inhuman ability to imprison their foes in cages of electricity.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Clockwork.Clockwork_Prince_Inherent_Powers.Resistance",
+      "Clockwork.Clockwork_Prince_Inherent_Powers.Reassemble",
+      "Clockwork.Clockwork_Prince_Inherent_Powers.Charged_Bolts",
+      "Clockwork.Clockwork_Prince_Inherent_Powers.Charged_Brawl",
+      "Clockwork.Clockwork_Prince_Inherent_Powers.Pummel",
+      "Clockwork.Clockwork_Knight_Duke_Prince_Tesla.Tesla_Cage",
+      "Clockwork.Clockwork_Knight_Duke_Prince_Tesla.Lightning_Field"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Reassemble",
+      "Charged Bolts",
+      "Charged Brawl",
+      "Pummel",
+      "Tesla Cage",
+      "Lightning Field"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Clockwork",
+        "power_set": "Clockwork_Prince_Inherent_Powers",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Clockwork",
+        "power_set": "Clockwork_Knight_Duke_Prince_Tesla",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 11,
+      "max_level": 20,
+      "experience": 0,
+      "display_names": [
+        "Tesla Prince"
+      ],
+      "costumes": [
+        "Diesel_00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Knives_of_Artemis_Boss",
+  "display_name": "Knives_of_Artemis_Boss",
+  "display_fullname": "Malta.Knives of Artemis Boss",
+  "display_help": "Knives of Artemis",
+  "display_short_help": "Knives of Artemis",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/KNIVES_OF_ARTEMIS_BOSS.POWERSETS",
+  "icon": "knives_of_artemis_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Knives_of_Artemis_Boss.Stun_Grenades",
+    "Malta.Knives_of_Artemis_Boss.Whirling_Sword",
+    "Malta.Knives_of_Artemis_Boss.Exploding_Shuriken",
+    "Malta.Knives_of_Artemis_Boss.Head_Splitter",
+    "Malta.Knives_of_Artemis_Boss.Paralytic_Dart"
+  ],
+  "power_display_names": [
+    "Stun Grenades",
+    "Whirling Sword",
+    "Exploding Shuriken",
+    "Head Splitter",
+    "Paralytic Dart"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "-DEF",
+    "Ranged AoE Lethal, Medium Dam",
+    "-DEF",
+    "Hold"
+  ]
+}

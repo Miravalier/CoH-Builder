@@ -1,0 +1,275 @@
+{
+  "name": "Springfoot",
+  "display_name": "Springfoot",
+  "group_name": "Leaping & Sprints",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Leaping"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Springfoot_A.Crafted_Springfoot_A",
+      "Boosts.Attuned_Springfoot_A.Attuned_Springfoot_A"
+    ],
+    [
+      "Boosts.Crafted_Springfoot_B.Crafted_Springfoot_B",
+      "Boosts.Attuned_Springfoot_B.Attuned_Springfoot_B"
+    ],
+    [
+      "Boosts.Crafted_Springfoot_C.Crafted_Springfoot_C",
+      "Boosts.Attuned_Springfoot_C.Attuned_Springfoot_C"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_1",
+          "Tiny Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_1",
+          "Tiny Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_springfoot.png",
+      "e_icon_springfoot.png",
+      "e_icon_springfoot.png",
+      "e_icon_springfoot.png",
+      "e_icon_springfoot.png",
+      "e_icon_springfoot.png"
+    ],
+    "boosts": [
+      [
+        "Springfoot: Jumping",
+        "Attuned Springfoot: Jumping"
+      ],
+      [
+        "Springfoot: Endurance",
+        "Attuned Springfoot: Endurance"
+      ],
+      [
+        "Springfoot: Endurance/Jumping",
+        "Attuned Springfoot: Endurance/Jumping"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_springfoot_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_springfoot_a.attuned_springfoot_a",
+          "Springfoot: Jump"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Springfoot: Jumping",
+        "aspects": [
+          "Jumping"
+        ],
+        "superior_scales": false,
+        "boostset_name": "springfoot",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_springfoot.png"
+      },
+      "attuned_springfoot_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Springfoot: Jumping",
+        "aspects": [
+          "Jumping"
+        ],
+        "superior_scales": false,
+        "boostset_name": "springfoot",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_springfoot.png"
+      },
+      "crafted_springfoot_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_springfoot_b.attuned_springfoot_b",
+          "Springfoot: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Springfoot: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "springfoot",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_springfoot.png"
+      },
+      "attuned_springfoot_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Springfoot: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "springfoot",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_springfoot.png"
+      },
+      "crafted_springfoot_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_springfoot_c.attuned_springfoot_c",
+          "Springfoot: Endurance/Jump"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Springfoot: Endurance/Jumping",
+        "aspects": [
+          "Endurance",
+          "Jumping"
+        ],
+        "superior_scales": false,
+        "boostset_name": "springfoot",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_springfoot.png"
+      },
+      "attuned_springfoot_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Springfoot: Endurance/Jumping",
+        "aspects": [
+          "Endurance",
+          "Jumping"
+        ],
+        "superior_scales": false,
+        "boostset_name": "springfoot",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_springfoot.png"
+      }
+    }
+  }
+}

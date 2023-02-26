@@ -1,0 +1,115 @@
+{
+  "name": "GenericHeroes_Agent_X_NoXP",
+  "gender": "GENDER_MALE",
+  "group_name": "GenericHeroes",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "Agent X is a renowned Longbow super-spy. His technical skills are phenomenal, with a gadget or gizmo available for any occasion.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericHeroes.Energy_Tanker_Low.Barrage",
+      "V_GenericHeroes.Energy_Tanker_Low.Energy_Punch",
+      "V_GenericHeroes.Energy_Tanker_Low.Energy_Torrent",
+      "V_GenericHeroes.Energy_Tanker_Low.Resistance",
+      "V_GenericHeroes.Energy_Tanker_Mid.Laser_Beam_Eyes",
+      "V_GenericHeroes.Energy_Tanker_Mid.Unyielding"
+    ],
+    "power_display_names": [
+      "Barrage",
+      "Energy Punch",
+      "Energy Torrent",
+      "Resistance",
+      "Laser Beam Eyes",
+      "Unyielding"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Energy_Tanker_Low",
+        "power": "Barrage",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Energy_Tanker_Low",
+        "power": "Energy_Punch",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Energy_Tanker_Low",
+        "power": "Energy_Torrent",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Energy_Tanker_Low",
+        "power": "Resistance",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Energy_Tanker_Mid",
+        "power": "Laser_Beam_Eyes",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Energy_Tanker_Mid",
+        "power": "Unyielding",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Agent X"
+      ],
+      "costumes": [
+        "Model_Agent_X"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Spider_Web",
+  "display_name": "Spider Web",
+  "display_fullname": "Objects.Spider Web",
+  "display_help": "Spider Web",
+  "display_short_help": "Spider Web",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/SPIDER_WEB.POWERSETS",
+  "icon": "spider_web_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Spider_Web.Entangle"
+  ],
+  "power_display_names": [
+    "Entangle"
+  ],
+  "power_short_helps": [
+    "PBAoE, Foe Immobilize, -SPD"
+  ]
+}

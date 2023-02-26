@@ -1,0 +1,22 @@
+{
+  "name": "Crab_Spider_Suppression",
+  "display_name": "Crab_Spider_Suppression",
+  "display_fullname": "V Arachnos.Crab Spider Suppression",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/CRAB_SPIDER_SUPPRESSION.POWERSETS",
+  "icon": "crab_spider_suppression_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Crab_Spider_Suppression.Suppression"
+  ],
+  "power_display_names": [
+    "Suppression"
+  ],
+  "power_short_helps": [
+    "DoT(Energy)"
+  ]
+}

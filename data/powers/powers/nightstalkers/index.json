@@ -1,0 +1,29 @@
+{
+  "name": "Nightstalkers",
+  "display_name": "Nightstalkers",
+  "source_file": "DEFS/POWERS/NIGHTSTALKERS.CATEGORIES",
+  "archetypes": [
+    "boss_praetorianarchvillain",
+    "boss_praetoriangrunt",
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "nightstalkers.houndmaster",
+    "nightstalkers.resistances",
+    "nightstalkers.shadowwolfpet",
+    "nightstalkers.shadowwolf",
+    "nightstalkers.spirit_panther",
+    "nightstalkers.wodan"
+  ],
+  "powerset_display_names": [
+    "Houndmaster",
+    "Resistances",
+    "ShadowWolfPet",
+    "Shadowwolf",
+    "Spirit Panther",
+    "Wodan"
+  ],
+  "powersets_with_requirements": []
+}

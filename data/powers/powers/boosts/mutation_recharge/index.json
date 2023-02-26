@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Recharge",
+  "display_name": "Mutation Recharge",
+  "display_fullname": "Boosts.Mutation Recharge",
+  "display_help": "Increases the attack rate of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_RECHARGE.POWERSETS",
+  "icon": "mutation_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Recharge.Mutation_Recharge"
+  ],
+  "power_display_names": [
+    "Evolution: Reduced Recharge (Recharge)"
+  ],
+  "power_short_helps": [
+    "Increases Attack Rate"
+  ]
+}

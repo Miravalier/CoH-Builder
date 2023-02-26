@@ -1,0 +1,112 @@
+{
+  "name": "GenericHeroes_Mercenary",
+  "gender": "GENDER_MALE",
+  "group_name": "GenericHeroes",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "A man with a mysterious past, Mercenary has just as much reason to confront Infinity and his army of robots as you do.",
+    "group_description": "Companion",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "KnivesOfVengeance.DualPistol_BS.Hurricane_Shot",
+      "KnivesOfVengeance.DualPistol_BS.Paralytic_Shot",
+      "KnivesOfVengeance.DualPistol_LT.Piercing_Rounds",
+      "KnivesOfVengeance.DualPistol_LT.Weakening_Shot",
+      "KnivesOfVengeance.DualPistol_MN.Focused_Shot",
+      "KnivesOfVengeance.DualPistol_MN.Dual_Shot",
+      "KnivesOfVengeance.DualPistol_MN.Barrage",
+      "KnivesOfVengeance.DualPistol_MN.Storm_of_Bullets",
+      "Mission_Maker_Secondary.Willpower.High_Pain_Tolerance"
+    ],
+    "power_display_names": [
+      "Hurricane Shot",
+      "Paralytic Shot",
+      "Piercing Rounds",
+      "Weakening Shot",
+      "Focused Shot",
+      "Dual Shot",
+      "Barrage",
+      "Storm of Bullets",
+      "High Pain Tolerance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "KnivesOfVengeance",
+        "power_set": "DualPistol_BS",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "KnivesOfVengeance",
+        "power_set": "DualPistol_LT",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "KnivesOfVengeance",
+        "power_set": "DualPistol_MN",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Willpower",
+        "power": "High_Pain_Tolerance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Mercenary"
+      ],
+      "costumes": [
+        "Model_Trilogy_Mercenary"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "RainofFire",
+  "display_name": "Rain of Fire",
+  "display_fullname": "Pets.Rain of Fire",
+  "display_help": "Fire Blast",
+  "display_short_help": "Fire Blast",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RAINOFFIRE.POWERSETS",
+  "icon": "rainoffire_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.RainofFire.RainofFire",
+    "Pets.RainofFire.Avoid"
+  ],
+  "power_display_names": [
+    "RainofFire",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "Fire, DoT",
+    "Avoid"
+  ]
+}

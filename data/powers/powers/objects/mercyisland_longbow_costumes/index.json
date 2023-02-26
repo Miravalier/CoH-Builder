@@ -1,0 +1,22 @@
+{
+  "name": "MercyIsland_Longbow_Costumes",
+  "display_name": "MercyIsland_Longbow_Costumes",
+  "display_fullname": "Objects.MercyIsland Longbow Costumes",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/MERCYISLAND_LONGBOW_COSTUMES.POWERSETS",
+  "icon": "mercyisland_longbow_costumes_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.MercyIsland_Longbow_Costumes.Longbow_Disguise"
+  ],
+  "power_display_names": [
+    "Longbow Disguise"
+  ],
+  "power_short_helps": [
+    "Longbow Disguise"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Igneous",
+  "display_name": "Igneous",
+  "source_file": "DEFS/POWERS/IGNEOUS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "igneous.lava",
+    "igneous.magmites",
+    "igneous.magmites_lt_boss",
+    "igneous.pumicite",
+    "igneous.pumicite_lt_boss",
+    "igneous.pumicite_monster"
+  ],
+  "powerset_display_names": [
+    "Lava",
+    "Magmites",
+    "Magmites_Lt_Boss",
+    "Pumicite",
+    "Pumicite_Lt_Boss",
+    "Pumicite_Monster"
+  ],
+  "powersets_with_requirements": []
+}

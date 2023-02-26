@@ -1,0 +1,30 @@
+{
+  "name": "Outcast_Boss_Fire",
+  "display_name": "Outcast_Boss_Fire",
+  "display_fullname": "Outcasts.Outcast Boss Fire",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_BOSS_FIRE.POWERSETS",
+  "icon": "outcast_boss_fire_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Boss_Fire.Fire_Ball",
+    "Outcasts.Outcast_Boss_Fire.Fire_Imps",
+    "Outcasts.Outcast_Boss_Fire.Fire_Shield"
+  ],
+  "power_display_names": [
+    "Fire Ball",
+    "Fire Imps",
+    "Fire Shield"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Fire",
+    "Summon 4 Imps",
+    "Toggle: Self +Res(Fire, Lethal, Smash, Cold)"
+  ]
+}

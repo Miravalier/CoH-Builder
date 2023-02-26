@@ -1,0 +1,91 @@
+{
+  "name": "Shivan_Tutorial_Boss_Tutorial",
+  "gender": "GENDER_MALE",
+  "group_name": "Shivan_Tutorial",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 2,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": null,
+    "character_class_name": "boss_grunt",
+    "description": "These horrible things are an amalgamation of human corpses and some sort of weird sentient goo from the meteors crashing into Galaxy City. Some claim a mysterious interplanetary intelligence thought destroyed in the 1980s is the source of the Shivans, but if such a creature existed, 'Shiva', the Hindu name for the 'Destroyer of Worlds', was kept secret by the governments of earth.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Shivan.Shivan_Minion_Lt.Contaminated_Strike",
+      "V_Shivan.Shivan_Minion_Lt.Neutrino_Bolt",
+      "V_Shivan.Resistance.Resistance",
+      "Syndicate.Syndicate_Resistance.Resist_Knockaround"
+    ],
+    "power_display_names": [
+      "Contaminated Strike",
+      "Neutrino Bolt",
+      "Resistance",
+      "Incomparable Balance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Shivan",
+        "power_set": "Shivan_Minion_Lt",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Shivan",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Syndicate",
+        "power_set": "Syndicate_Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 2,
+      "experience": 0,
+      "display_names": [
+        "Shivan"
+      ],
+      "costumes": [
+        "Shivan_01",
+        "Shivan_03"
+      ]
+    }
+  ]
+}

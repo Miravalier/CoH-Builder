@@ -1,0 +1,26 @@
+{
+  "name": "Stasis_Tube_Arachnoid",
+  "display_name": "Stasis Tube Arachnoid",
+  "display_fullname": "Objects.Stasis Tube Arachnoid",
+  "display_help": "Arachnoid",
+  "display_short_help": "Arachnoid",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/STASIS_TUBE_ARACHNOID.POWERSETS",
+  "icon": "stasis_tube_arachnoid_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Stasis_Tube_Arachnoid.Stasis_Tube",
+    "Objects.Stasis_Tube_Arachnoid.Resistance"
+  ],
+  "power_display_names": [
+    "Stasis Tube",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon Arachnoids",
+    "Resistance"
+  ]
+}

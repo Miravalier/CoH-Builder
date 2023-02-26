@@ -1,0 +1,54 @@
+{
+  "name": "Willpower",
+  "display_name": "Willpower",
+  "display_fullname": "Mission Maker Secondary.Willpower",
+  "display_help": "You aren't Invulnerable. Bullets don't bounce off of you, and if you are cut, you bleed. You are, however, tough, grizzled and strong willed. It takes more than a little cut to keep you down! Willpower offers a strong balance of healing, damage resistance and defense. While you have no real vulnerabilities, you can't quite deal with 'alpha strikes' as well as some other protective powers.",
+  "display_short_help": "Willpower",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    25,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/WILLPOWER.POWERSETS",
+  "icon": "willpower_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Willpower.High_Pain_Tolerance",
+    "Mission_Maker_Secondary.Willpower.Mind_Over_Body",
+    "Mission_Maker_Secondary.Willpower.Fast_Healing",
+    "Mission_Maker_Secondary.Willpower.Indomitable_Will",
+    "Mission_Maker_Secondary.Willpower.Rise_to_the_Challenge",
+    "Mission_Maker_Secondary.Willpower.Quick_Recovery",
+    "Mission_Maker_Secondary.Willpower.Heightened_Senses",
+    "Mission_Maker_Secondary.Willpower.Resurgence",
+    "Mission_Maker_Secondary.Willpower.Strength_of_Will"
+  ],
+  "power_display_names": [
+    "High Pain Tolerance",
+    "Mind Over Body",
+    "Fast Healing",
+    "Indomitable Will",
+    "Rise to the Challenge",
+    "Quick Recovery",
+    "Heightened Senses",
+    "Resurgence",
+    "Strength of Will"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Res (All), +MaxHealth",
+    "Toggle: Self +Res(Smash, Lethal, Psionics)",
+    "Auto: Self +Regeneration",
+    "Toggle: Self Res (Disorient, Hold, Immobilize, Sleep, Fear, Confuse, Repel, Knockback). DEF(Psionics)",
+    "Toggle: Self +Regen, Foe -ACC",
+    "Auto: Self +Recovery",
+    "Toggle: Self +DEF(Smash, Lethal, Fire, Cold, Energy, Negative Energy), +Per",
+    "Self Rez, Special",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, Repel, Knockback, All DMG), +Recovery"
+  ]
+}

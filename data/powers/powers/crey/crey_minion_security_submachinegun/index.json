@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Minion_Security_SubmachineGun",
+  "display_name": "Crey_Minion_Security_SubmachineGun",
+  "display_fullname": "Crey.Crey Minion Security SubmachineGun",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_SECURITY_SUBMACHINEGUN.POWERSETS",
+  "icon": "crey_minion_security_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Security_SubmachineGun.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

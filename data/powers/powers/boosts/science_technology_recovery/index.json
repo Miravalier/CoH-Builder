@@ -1,0 +1,22 @@
+{
+  "name": "Science_Technology_Recovery",
+  "display_name": "Science Technology Endurance",
+  "display_fullname": "Boosts.Science Technology Recovery",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Invention (Science, Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_TECHNOLOGY_RECOVERY.POWERSETS",
+  "icon": "science_technology_recovery_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Technology_Recovery.Science_Technology_Recovery"
+  ],
+  "power_display_names": [
+    "Adrenal Modifier (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

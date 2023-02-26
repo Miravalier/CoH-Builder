@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Call_of_the_Sandman_B",
+  "display_name": "Attuned Call of the Sandman B",
+  "display_fullname": "Boosts.Attuned Call of the Sandman B",
+  "display_help": "Enhances the sleep duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Call of the Sandman",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CALL_OF_THE_SANDMAN_B.POWERSETS",
+  "icon": "attuned_call_of_the_sandman_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Call_of_the_Sandman_B.Attuned_Call_of_the_Sandman_B"
+  ],
+  "power_display_names": [
+    "Call of the Sandman: Endurance/Sleep"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Sleep"
+  ]
+}

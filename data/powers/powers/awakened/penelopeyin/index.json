@@ -1,0 +1,54 @@
+{
+  "name": "PenelopeYin",
+  "display_name": "PenelopeYin",
+  "display_fullname": "Awakened.PenelopeYin",
+  "display_help": "Penelope Mayhem",
+  "display_short_help": "Penelope Mayhem",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/PENELOPEYIN.POWERSETS",
+  "icon": "penelopeyin_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.PenelopeYin.Psionic_Blast",
+    "Awakened.PenelopeYin.Psionic_Crush",
+    "Awakened.PenelopeYin.Psionic_Torment",
+    "Awakened.PenelopeYin.Psionic_Drift",
+    "Awakened.PenelopeYin.Psionic_Burst",
+    "Awakened.PenelopeYin.Psionic_Blade",
+    "Awakened.PenelopeYin.Psionic_Thrust",
+    "Awakened.PenelopeYin.Psionic_Nexus",
+    "Awakened.PenelopeYin.Impenetrable_Mind"
+  ],
+  "power_display_names": [
+    "Psionic Blast",
+    "Psionic Crush",
+    "Psionic Torment",
+    "Psionic Drift",
+    "Psionic Burst",
+    "Psionic Blade",
+    "Psionic Thrust",
+    "Psionic Nexus",
+    "Impenetrable Mind"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG (Psionic), -Rech(Foe)",
+    "Ranged, DoT (Psionic), -Endurance(Foe), Hold(Foe)",
+    "Ranged, High DMG (Psionic), Minor DoT (Lethal), -Regen (Foe), -Rec (Foe), -Rech (Foe)",
+    "PBAoE, High DMG (Psionic), Minor DoT (Psionic), Stun/Fear/Confuse(Foe)",
+    "PBAoE, Moderate DMG (Psionic, Smashing), Knockup(Foe)",
+    "Melee, Moderate DMG(Psionic), Moderate DoT (Lethal), -Def(Foe, All)",
+    "Melee, High DMG (Psionic), Moderate DoT (Lethal), -Res(Foe, Psionic)",
+    "Summon",
+    "Psionic Affinity"
+  ]
+}

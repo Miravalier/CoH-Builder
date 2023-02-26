@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Edict_of_the_Master_E",
+  "display_name": "Attuned Edict of the Master E",
+  "display_fullname": "Boosts.Attuned Edict of the Master E",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Edict of the Master",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EDICT_OF_THE_MASTER_E.POWERSETS",
+  "icon": "attuned_edict_of_the_master_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Edict_of_the_Master_E.Attuned_Edict_of_the_Master_E"
+  ],
+  "power_display_names": [
+    "Edict of the Master: Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Damage"
+  ]
+}

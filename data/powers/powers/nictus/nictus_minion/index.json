@@ -1,0 +1,22 @@
+{
+  "name": "Nictus_Minion",
+  "display_name": "Nictus Minion",
+  "display_fullname": "Nictus.Nictus Minion",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/NICTUS_MINION.POWERSETS",
+  "icon": "nictus_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Nictus_Minion.Shadow_Bolt"
+  ],
+  "power_display_names": [
+    "Shadow Bolt"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD"
+  ]
+}

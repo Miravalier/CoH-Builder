@@ -1,0 +1,22 @@
+{
+  "name": "Air_Bomb",
+  "display_name": "Air_Bomb",
+  "display_fullname": "Pets.Air Bomb",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/AIR_BOMB.POWERSETS",
+  "icon": "air_bomb_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Air_Bomb.Air_Bomb"
+  ],
+  "power_display_names": [
+    "Air Bomb"
+  ],
+  "power_short_helps": [
+    "DoT (Fire), Knockback"
+  ]
+}

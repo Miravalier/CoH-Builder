@@ -1,0 +1,22 @@
+{
+  "name": "Sky_Raider_Castillo_Defense",
+  "display_name": "Sky_Raider_Castillo_Defense",
+  "display_fullname": "SkyRaiders.Sky Raider Castillo Defense",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_CASTILLO_DEFENSE.POWERSETS",
+  "icon": "sky_raider_castillo_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Castillo_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

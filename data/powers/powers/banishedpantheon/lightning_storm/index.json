@@ -1,0 +1,22 @@
+{
+  "name": "Lightning_Storm",
+  "display_name": "Lightning_Storm",
+  "display_fullname": "BanishedPantheon.Lightning Storm",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/LIGHTNING_STORM.POWERSETS",
+  "icon": "lightning_storm_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Lightning_Storm.Lightning_Storm"
+  ],
+  "power_display_names": [
+    "Lightning Storm"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Extreme DMG (Energy), -End (Foe), -Rec (Foe)"
+  ]
+}

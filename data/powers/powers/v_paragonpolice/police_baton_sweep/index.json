@@ -1,0 +1,22 @@
+{
+  "name": "Police_Baton_Sweep",
+  "display_name": "Police Baton Sweep",
+  "display_fullname": "V ParagonPolice.Police Baton Sweep",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/POLICE_BATON_SWEEP.POWERSETS",
+  "icon": "police_baton_sweep_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Police_Baton_Sweep.Riot_Baton_Sweep"
+  ],
+  "power_display_names": [
+    "Riot Baton Sweep"
+  ],
+  "power_short_helps": [
+    "Moderate Smash DAM, AoE Cone"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tag": "GenesisResistance",
+  "bears": [
+    [
+      "Incarnate.Socket.Reactive Socket",
+      "incarnate.socket.resistance_debuff"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ]
+  ]
+}

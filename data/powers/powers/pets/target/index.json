@@ -1,0 +1,22 @@
+{
+  "name": "Target",
+  "display_name": "Target",
+  "display_fullname": "Pets.Target",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TARGET.POWERSETS",
+  "icon": "target_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Target.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

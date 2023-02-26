@@ -1,0 +1,83 @@
+{
+  "tag": "ASCrit",
+  "bears": [
+    [
+      "Redirects.Stone Melee.Assassin's Smash",
+      "redirects.stone_melee.assassins_rockslide_quick"
+    ],
+    [
+      "Villain Pets.Broad Sword Assassins Strike.Assassin's Slash",
+      "villain_pets.broad_sword_assassins_strike.assassins_slash_quick"
+    ],
+    [
+      "Villain Pets.Claws Assassins Strike.Assassin's Claw",
+      "villain_pets.claws_assassins_strike.assassins_claw_quick"
+    ],
+    [
+      "Villain Pets.Dark Melee Assassins Strike.Assassin's Eclipse",
+      "villain_pets.dark_melee_assassins_strike.assassins_eclipse_quick"
+    ],
+    [
+      "Villain Pets.Dual Blades Assassins Strike.Assassin's Blades",
+      "villain_pets.dual_blades_assassins_strike.assassins_blades_quick"
+    ],
+    [
+      "Villain Pets.Electric Melee Assassins Strike.Assassin's Shock",
+      "villain_pets.electric_melee_assassins_strike.assassins_shock_quick"
+    ],
+    [
+      "Villain Pets.Energy Melee Assassins Strike.Assassins Strike Quick",
+      "villain_pets.energy_melee_assassins_strike.assassins_strike_quick"
+    ],
+    [
+      "Villain Pets.Fiery Melee Assassins Blaze.Assassin's Blaze",
+      "villain_pets.fiery_melee_assassins_blaze.assassins_blaze_quick"
+    ],
+    [
+      "Villain Pets.Ice Melee Assassins Frost.Assassin's Blades",
+      "villain_pets.ice_melee_assassins_frost.assassins_frost_quick"
+    ],
+    [
+      "Villain Pets.Kinetic Melee Assassins Strike.Assassin's Strike",
+      "villain_pets.kinetic_melee_assassins_strike.assassins_strike_quick"
+    ],
+    [
+      "Villain Pets.Martial Arts Assassins Strike.Assassin's Blow",
+      "villain_pets.martial_arts_assassins_strike.assassins_blow_quick"
+    ],
+    [
+      "Villain Pets.Ninja Blade Assassins Strike.Assassins Blade Quick",
+      "villain_pets.ninja_blade_assassins_strike.assassins_blade_quick"
+    ],
+    [
+      "Villain Pets.Psionic Melee Assassins Strike.Assassin's Psi Blade",
+      "villain_pets.psionic_melee_assassins_strike.assassins_psi_blade_quick"
+    ],
+    [
+      "Villain Pets.Radiation Melee Assassins Corruption.Assassins Strike Quick",
+      "villain_pets.radiation_melee_assassins_corruption.assassins_strike_quick"
+    ],
+    [
+      "Villain Pets.Savage Melee Assassins Strike.Assassin's Frenzy",
+      "villain_pets.savage_melee_assassins_strike.assassins_frenzy_quick"
+    ],
+    [
+      "Villain Pets.Spines Assassins Strike.Assassin's Impaler",
+      "villain_pets.spines_assassins_strike.assassins_impaler_quick"
+    ],
+    [
+      "Villain Pets.Staff Fighting Assassins Strike.Assassin's Staff",
+      "villain_pets.staff_fighting_assassins_strike.assassins_staff_quick"
+    ],
+    [
+      "Villain Pets.Street Justice Assassins Strike.Assassin's Strike",
+      "villain_pets.street_justice_assassins_strike.assassins_strike_quick"
+    ]
+  ],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.Assassin's Focus",
+      "temporary_powers.temporary_powers.assassins_focus"
+    ]
+  ]
+}

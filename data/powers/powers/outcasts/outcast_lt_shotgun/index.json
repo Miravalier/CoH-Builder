@@ -1,0 +1,22 @@
+{
+  "name": "Outcast_Lt_Shotgun",
+  "display_name": "Outcast_Lt_Shotgun",
+  "display_fullname": "Outcasts.Outcast Lt Shotgun",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_LT_SHOTGUN.POWERSETS",
+  "icon": "outcast_lt_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Lt_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

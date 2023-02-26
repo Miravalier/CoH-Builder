@@ -1,0 +1,30 @@
+{
+  "name": "Fireball",
+  "display_name": "Fireball",
+  "display_fullname": "AnimusArcana.Fireball",
+  "display_help": "Animus Arcana",
+  "display_short_help": "Animus Arcana",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ANIMUSARCANA/FIREBALL.POWERSETS",
+  "icon": "fireball_set.png",
+  "requires": "",
+  "power_names": [
+    "AnimusArcana.Fireball.Flares",
+    "AnimusArcana.Fireball.Fire_Blast",
+    "AnimusArcana.Fireball.Fire_Ball"
+  ],
+  "power_display_names": [
+    "Flares",
+    "Fire Blast",
+    "Fire Burst"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG (Fire)",
+    "Ranged, Superior DMG(Fire), Moderate DoT (Fire)",
+    "Ranged (Targeted AoE), High DMG(Smashing/Fire), Moderate DoT(Fire)"
+  ]
+}

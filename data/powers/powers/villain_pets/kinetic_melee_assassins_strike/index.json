@@ -1,0 +1,26 @@
+{
+  "name": "Kinetic_Melee_Assassins_Strike",
+  "display_name": "",
+  "display_fullname": "Villain Pets.Kinetic Melee Assassins Strike",
+  "display_help": "Kinetic Melee features a mix of fast light attacks and slow heavy attacks, including some with range. All attacks in this set except Assassin's Strike reduce the damage strength of enemies who are hit.",
+  "display_short_help": "Kinetic Melee",
+  "available_level": [
+    5,
+    5
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/KINETIC_MELEE_ASSASSINS_STRIKE.POWERSETS",
+  "icon": "kinetic_melee_assassins_strike_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Kinetic_Melee_Assassins_Strike.Assassins_Strike_Stealth",
+    "Villain_Pets.Kinetic_Melee_Assassins_Strike.Assassins_Strike_Quick"
+  ],
+  "power_display_names": [
+    "Assassin's Strike",
+    "Assassin's Strike"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Smashing, Energy)",
+    "Melee, Superior DMG(Smashing, Energy)"
+  ]
+}

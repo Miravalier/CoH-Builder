@@ -1,0 +1,50 @@
+{
+  "name": "Claws",
+  "display_name": "Claws",
+  "display_fullname": "Mission Maker Secondary.Claws",
+  "display_help": "Claws are bones or blades that extend from your hands and cause Lethal damage. The lightweight, natural feel of claws gives this power set a reduced Endurance cost and faster attack rate than other Scrapper melee sets. Like all scrapper powers, all Claw attacks can sometimes land a critical hit for double damage.",
+  "display_short_help": "Claws",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/CLAWS.POWERSETS",
+  "icon": "claws_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Claws.Swipe",
+    "Mission_Maker_Secondary.Claws.Strike",
+    "Mission_Maker_Secondary.Claws.Slash",
+    "Mission_Maker_Secondary.Claws.Spin",
+    "Mission_Maker_Secondary.Claws.Follow_Up",
+    "Mission_Maker_Secondary.Claws.Focus",
+    "Mission_Maker_Secondary.Claws.Eviscerate",
+    "Mission_Maker_Secondary.Claws.Shockwave"
+  ],
+  "power_display_names": [
+    "Swipe",
+    "Strike",
+    "Slash",
+    "Spin",
+    "Follow Up",
+    "Focus",
+    "Eviscerate",
+    "Shockwave"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Lethal)",
+    "Melee, Moderate DMG(Lethal)",
+    "Melee, Moderate DMG(Lethal), Foe -DEF",
+    "PBAoE Melee, Moderate DMG(Lethal)",
+    "Melee, Moderate DMG(Lethal), Self +DMG +To-hit",
+    "Ranged, High DMG(Lethal), Knockback",
+    "Melee (Cone), Superior DMG(Lethal), +Special",
+    "Melee (Cone), Moderate DMG(Lethal), Foe Knockback"
+  ]
+}

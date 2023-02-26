@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Brawl",
+  "display_name": "Minion Brawl",
+  "display_fullname": "V Luddites.Minion Brawl",
+  "display_help": "Luddites",
+  "display_short_help": "Luddites",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LUDDITES/MINION_BRAWL.POWERSETS",
+  "icon": "minion_brawl_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Luddites.Minion_Brawl.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

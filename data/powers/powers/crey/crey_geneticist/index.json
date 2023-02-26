@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Geneticist",
+  "display_name": "Crey_Geneticist",
+  "display_fullname": "Crey.Crey Geneticist",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_GENETICIST.POWERSETS",
+  "icon": "crey_geneticist_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Geneticist.Reanimate"
+  ],
+  "power_display_names": [
+    "Reanimate"
+  ],
+  "power_short_helps": [
+    "Ally Rez, Special"
+  ]
+}

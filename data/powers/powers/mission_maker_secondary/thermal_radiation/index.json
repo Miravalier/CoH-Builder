@@ -1,0 +1,46 @@
+{
+  "name": "Thermal_Radiation",
+  "display_name": "Thermal Radiation",
+  "display_fullname": "Mission Maker Secondary.Thermal Radiation",
+  "display_help": "You have the ability to control heat and Thermal Radiation. This allows you to protect allies from harm, heal them or increase their abilities. You can also weaken your enemies.",
+  "display_short_help": "Thermal Radiation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/THERMAL_RADIATION.POWERSETS",
+  "icon": "thermal_radiation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Thermal_Radiation.Warmth",
+    "Mission_Maker_Secondary.Thermal_Radiation.Fire_Shield",
+    "Mission_Maker_Secondary.Thermal_Radiation.Cauterize",
+    "Mission_Maker_Secondary.Thermal_Radiation.Thaw",
+    "Mission_Maker_Secondary.Thermal_Radiation.Forge",
+    "Mission_Maker_Secondary.Thermal_Radiation.Heat_Exhaustion",
+    "Mission_Maker_Secondary.Thermal_Radiation.Melt_Armor"
+  ],
+  "power_display_names": [
+    "Warmth",
+    "Thermal Shield",
+    "Cauterize",
+    "Thaw",
+    "Forge",
+    "Heat Exhaustion",
+    "Melt Armor"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +Heal",
+    "Ranged, Ally +Res(Fire, Lethal, Smash, Cold)",
+    "Ally Heal",
+    "Ally +Res(Disorient, Hold, Sleep, Immobilize, Confuse, Fear, Cold, Slow)",
+    "Ally +DMG, +To-hit",
+    "Ranged Foe -DMG, -END, -Recovery, -Regeneration",
+    "Ranged (Targeted AoE), Foe -Res, -DEF"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Blunt_Trauma",
+  "display_name": "Blunt Trauma",
+  "display_fullname": "NPC Pets.Blunt Trauma",
+  "display_help": "Blunt Trauma",
+  "display_short_help": "Blunt Trauma",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NPC_PETS/BLUNT_TRAUMA.POWERSETS",
+  "icon": "blunt_trauma_set.png",
+  "requires": "",
+  "power_names": [
+    "NPC_Pets.Blunt_Trauma.Jab",
+    "NPC_Pets.Blunt_Trauma.Punch",
+    "NPC_Pets.Blunt_Trauma.Haymaker",
+    "NPC_Pets.Blunt_Trauma.Hurl",
+    "NPC_Pets.Blunt_Trauma.Super_Leap"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Haymaker",
+    "Hurl",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "Self Travel"
+  ]
+}

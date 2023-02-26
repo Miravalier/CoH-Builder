@@ -1,0 +1,26 @@
+{
+  "name": "Blaster_BR_Snipe",
+  "display_name": "Beam Rifle",
+  "display_fullname": "Pets.Beam Rifle",
+  "display_help": "Beam Rifle",
+  "display_short_help": "Beam Rifle",
+  "available_level": [
+    17,
+    17
+  ],
+  "source_file": "DEFS/POWERS/PETS/BLASTER_BR_SNIPE.POWERSETS",
+  "icon": "blaster_br_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Blaster_BR_Snipe.Penetrating_Ray_Normal",
+    "Pets.Blaster_BR_Snipe.Penetrating_Ray_Quick"
+  ],
+  "power_display_names": [
+    "Penetrating Ray",
+    "Penetrating Ray"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy), Foe Knockdown, Special",
+    "Sniper, Extreme DMG(Energy), Foe Knockdown, Special"
+  ]
+}

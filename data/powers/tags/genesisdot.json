@@ -1,0 +1,51 @@
+{
+  "tag": "GenesisDoT",
+  "bears": [
+    [
+      "Incarnate.Socket.Cognitive Socket",
+      "incarnate.socket.dot_psionic"
+    ],
+    [
+      "Incarnate.Socket.Degenerative Socket",
+      "incarnate.socket.dot_toxic"
+    ],
+    [
+      "Incarnate.Socket.Preemptive Socket",
+      "incarnate.socket.dot_energy"
+    ],
+    [
+      "Incarnate.Socket.Reactive Socket",
+      "incarnate.socket.dot_debuff"
+    ],
+    [
+      "Incarnate.Socket.Spectral Socket",
+      "incarnate.socket.dot_negative"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Radial Genesis",
+      "incarnate.genesis.socket_total_radial_genesis"
+    ]
+  ]
+}

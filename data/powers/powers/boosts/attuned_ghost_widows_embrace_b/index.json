@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Ghost_Widows_Embrace_B",
+  "display_name": "Attuned Ghost Widows Embrace B",
+  "display_fullname": "Boosts.Attuned Ghost Widows Embrace B",
+  "display_help": "Enhances the hold duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Ghost Widows Embrace",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_GHOST_WIDOWS_EMBRACE_B.POWERSETS",
+  "icon": "attuned_ghost_widows_embrace_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Ghost_Widows_Embrace_B.Attuned_Ghost_Widows_Embrace_B"
+  ],
+  "power_display_names": [
+    "Ghost Widow's Embrace: Endurance/Hold"
+  ],
+  "power_short_helps": [
+    "+End, +Hold"
+  ]
+}

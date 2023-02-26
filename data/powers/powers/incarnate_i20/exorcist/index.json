@@ -1,0 +1,38 @@
+{
+  "name": "Exorcist",
+  "display_name": "Exorcist",
+  "display_fullname": "Incarnate I20.Exorcist",
+  "display_help": "Dark Melee allows you to focus the powers of the Netherworld to defeat your foes. The draining effects of most of these powers can reduce the target's Accuracy.",
+  "display_short_help": "Exorcist",
+  "available_level": [
+    0,
+    0,
+    0,
+    29,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/EXORCIST.POWERSETS",
+  "icon": "exorcist_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Exorcist.Shadow_Punch",
+    "Incarnate_I20.Exorcist.Smite",
+    "Incarnate_I20.Exorcist.Shadow_Maul",
+    "Incarnate_I20.Exorcist.Midnight_Grasp",
+    "Incarnate_I20.Exorcist.Torment"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite",
+    "Shadow Maul",
+    "Midnight Grasp",
+    "Torment"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG (Smash/Negative), Foe -To Hit",
+    "Melee, Moderate DMG (Smash/Negative), Foe -To Hit",
+    "Melee (Cone), High DoT(Smash/Negative), Foe -To Hit",
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit",
+    "Ally +DMG, Special Stun"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Rune_Blue",
+  "display_name": "Rune",
+  "display_fullname": "Objects.Rune",
+  "display_help": "Rune",
+  "display_short_help": "Rune",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/RUNE_BLUE.POWERSETS",
+  "icon": "rune_blue_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Rune_Blue.Uruz_Rune"
+  ],
+  "power_display_names": [
+    "Uruz Rune"
+  ],
+  "power_short_helps": [
+    "-End"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Captured_Hero_Grants",
+  "display_name": "Captured Hero Grants",
+  "display_fullname": "DilemmaDiabolique.Captured Hero Grants",
+  "display_help": "Diabolique",
+  "display_short_help": "Diabolique",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/CAPTURED_HERO_GRANTS.POWERSETS",
+  "icon": "captured_hero_grants_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_A",
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_B",
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_C",
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_D",
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_E",
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_F",
+    "DilemmaDiabolique.Captured_Hero_Grants.Grant_G"
+  ],
+  "power_display_names": [
+    "Consumed Essence",
+    "Consumed Essence",
+    "Consumed Essence",
+    "Consumed Essence",
+    "Consumed Essence",
+    "Consumed Essence",
+    "Consumed Essence"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special"
+  ]
+}

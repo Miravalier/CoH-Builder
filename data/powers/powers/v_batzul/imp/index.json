@@ -1,0 +1,26 @@
+{
+  "name": "Imp",
+  "display_name": "Imp",
+  "display_fullname": "V Batzul.Imp",
+  "display_help": "Bat'Zul",
+  "display_short_help": "Bat'Zul",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_BATZUL/IMP.POWERSETS",
+  "icon": "imp_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Batzul.Imp.Brawl",
+    "V_Batzul.Imp.Resist_Fire"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Resist Fire"
+  ],
+  "power_short_helps": [
+    "Melee Smash/Fire",
+    "Resist Fire"
+  ]
+}

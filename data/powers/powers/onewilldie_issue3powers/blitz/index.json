@@ -1,0 +1,22 @@
+{
+  "name": "Blitz",
+  "display_name": "Blitz",
+  "display_fullname": "OneWillDie Issue3Powers.Blitz",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE3POWERS/BLITZ.POWERSETS",
+  "icon": "blitz_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue3Powers.Blitz.Omega_Grenade"
+  ],
+  "power_display_names": [
+    "Omega Grenade"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

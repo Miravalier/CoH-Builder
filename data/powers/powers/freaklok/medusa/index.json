@@ -1,0 +1,38 @@
+{
+  "name": "MEDUSA",
+  "display_name": "MEDUSA",
+  "display_fullname": "Freaklok.MEDUSA",
+  "display_help": "MEDUSA",
+  "display_short_help": "MEDUSA",
+  "available_level": [
+    9,
+    0,
+    0,
+    0,
+    17
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/MEDUSA.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.MEDUSA.Burst_of_Speed",
+    "Freaklok.MEDUSA.Genetic_Contamination",
+    "Freaklok.MEDUSA.Spit",
+    "Freaklok.MEDUSA.Chum_Attack",
+    "Freaklok.MEDUSA.Breath_of_Fire"
+  ],
+  "power_display_names": [
+    "Burst of Speed",
+    "Genetic Corruption",
+    "Spit",
+    "Chum Attack",
+    "Breath of Fire"
+  ],
+  "power_short_helps": [
+    "Location AoE Moderate DMG (Smash), Self Teleport",
+    "Toggle: PBAoE, Minor DoT(Toxic), -Damage(All)",
+    "DoT(Toxic), -Fly",
+    "Ranged, Moderate DMG(Toxic)",
+    "Close (Cone) Moderate DoT(Fire)"
+  ]
+}

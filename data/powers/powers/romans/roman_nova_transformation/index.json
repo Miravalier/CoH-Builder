@@ -1,0 +1,26 @@
+{
+  "name": "Roman_Nova_Transformation",
+  "display_name": "Roman Nova Transformation",
+  "display_fullname": "Romans.Roman Nova Transformation",
+  "display_help": "Nova Transformation",
+  "display_short_help": "Nova Transformation",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/ROMAN_NOVA_TRANSFORMATION.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Roman_Nova_Transformation.Roman_Nova_Transform",
+    "Romans.Roman_Nova_Transformation.Roman_Nova_Form"
+  ],
+  "power_display_names": [
+    "Transformation",
+    "Transformation"
+  ],
+  "power_short_helps": [
+    "Transformation",
+    "Transformation"
+  ]
+}

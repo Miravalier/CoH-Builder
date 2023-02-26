@@ -1,0 +1,38 @@
+{
+  "name": "GunslingerDogsButch",
+  "display_name": "GunslingerDogsButch",
+  "display_fullname": "SummerEvent.GunslingerDogsButch",
+  "display_help": "McCain's Maulers",
+  "display_short_help": "McCain's Maulers",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/GUNSLINGERDOGSBUTCH.POWERSETS",
+  "icon": "gunslingerdogsbutch_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.GunslingerDogsButch.Vicious_Bite",
+    "SummerEvent.GunslingerDogsButch.Maiming_Bite",
+    "SummerEvent.GunslingerDogsButch.Throat_Bite",
+    "SummerEvent.GunslingerDogsButch.Growl",
+    "SummerEvent.GunslingerDogsButch.Grant_Deadly_Howl"
+  ],
+  "power_display_names": [
+    "Vicious Bite",
+    "Maiming Bite",
+    "Feral Charge",
+    "Growl",
+    "Grant Deadly Howl"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smashing), Minor DoT(Lethal)",
+    "Melee, Moderate DMG(Smashing/Lethal), Foe -Speed, -Def",
+    "Melee, High DMG(Smashing/Lethal), -DEF(Foe, All)",
+    "PBAoE, -DMG(Foe, All), -ToHit(Foe)",
+    "Special"
+  ]
+}

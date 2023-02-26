@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Soulbound_Allegiance_C",
+  "display_name": "Superior Attuned Soulbound Allegiance C",
+  "display_fullname": "Boosts.Superior Attuned Soulbound Allegiance C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Soulbound Allegiance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SOULBOUND_ALLEGIANCE_C.POWERSETS",
+  "icon": "superior_attuned_soulbound_allegiance_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Soulbound_Allegiance_C.Superior_Attuned_Soulbound_Allegiance_C"
+  ],
+  "power_display_names": [
+    "Soulbound Allegiance: Damage/Recharge/Accuracy"
+  ],
+  "power_short_helps": [
+    "+DMG, +ACC, +Rech"
+  ]
+}

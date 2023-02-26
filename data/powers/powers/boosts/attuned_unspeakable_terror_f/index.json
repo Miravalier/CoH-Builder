@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Unspeakable_Terror_F",
+  "display_name": "Attuned Unspeakable Terror F",
+  "display_fullname": "Boosts.Attuned Unspeakable Terror F",
+  "display_help": "Adds a chance to Disorient your foe. This effect will trigger roughly 3 times per minute.",
+  "display_short_help": "Set: Unspeakable Terror",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNSPEAKABLE_TERROR_F.POWERSETS",
+  "icon": "attuned_unspeakable_terror_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Unspeakable_Terror_F.Attuned_Unspeakable_Terror_F"
+  ],
+  "power_display_names": [
+    "Unspeakable Terror: Disorient Bonus"
+  ],
+  "power_short_helps": [
+    "Adds Disorient Chance"
+  ]
+}

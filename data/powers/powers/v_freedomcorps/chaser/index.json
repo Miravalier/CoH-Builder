@@ -1,0 +1,42 @@
+{
+  "name": "Chaser",
+  "display_name": "Chaser",
+  "display_fullname": "V FreedomCorps.Chaser",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/CHASER.POWERSETS",
+  "icon": "chaser_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Chaser.Missile_Launcher",
+    "V_FreedomCorps.Chaser.Incendiary_Rocket_Launcher",
+    "V_FreedomCorps.Chaser.Chain_Gun",
+    "V_FreedomCorps.Chaser.Armor_Plating",
+    "V_FreedomCorps.Chaser.Fly",
+    "V_FreedomCorps.Chaser.Fly_fx"
+  ],
+  "power_display_names": [
+    "Missile Launcher",
+    "Incendiary Rocket Launcher",
+    "Chain Gun",
+    "Armor Plating",
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Ranged AoE Fire/Lethal, +KB",
+    "Targeted AoE Lethal/Smashing, Knockback",
+    "-DEF",
+    "Resistance",
+    "Self Travel",
+    "Special"
+  ]
+}

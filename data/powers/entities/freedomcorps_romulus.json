@@ -1,0 +1,82 @@
+{
+  "name": "FreedomCorps_Romulus",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 36,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Romulus is Warshade working with Longbow in the Rogue Isles. He has a reputation for taking down a number of villains, and is the arch-nemesis of the psychic villain known as Psimon Omega.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.25,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomCorps.Romulus.Shadow_Blast",
+      "V_FreedomCorps.Romulus.Gravitic_Emanation",
+      "V_FreedomCorps.Romulus.Dark_Matter_Detonation",
+      "V_FreedomCorps.Romulus.Power_Drain",
+      "V_FreedomCorps.Romulus.Umbral_Shield"
+    ],
+    "power_display_names": [
+      "Shadow Blast",
+      "Gravitic Emanation",
+      "Dark Matter Detonation",
+      "Power Drain",
+      "Umbral Shield"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Romulus",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 36,
+      "experience": 0,
+      "display_names": [
+        "Romulus"
+      ],
+      "costumes": [
+        "Model_Romulus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Defiant_Barrage_A",
+  "display_name": "Attuned Defiant Barrage A",
+  "display_fullname": "Boosts.Attuned Defiant Barrage A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Blasters and may be slotted into any Blaster damage power.",
+  "display_short_help": "Set: Defiant Barrage",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEFIANT_BARRAGE_A.POWERSETS",
+  "icon": "attuned_defiant_barrage_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Defiant_Barrage_A.Attuned_Defiant_Barrage_A"
+  ],
+  "power_display_names": [
+    "Defiant Barrage: Accuracy/Damage (Blaster)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

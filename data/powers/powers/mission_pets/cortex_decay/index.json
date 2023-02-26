@@ -1,0 +1,26 @@
+{
+  "name": "Cortex_Decay",
+  "display_name": "Cortex_Decay",
+  "display_fullname": "Mission Pets.Cortex Decay",
+  "display_help": "Cortex_Decay",
+  "display_short_help": "Cortex_Decay",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/CORTEX_DECAY.POWERSETS",
+  "icon": "cortex_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.Cortex_Decay.Psi_Blade",
+    "Mission_Pets.Cortex_Decay.Greater_Psi_Blade"
+  ],
+  "power_display_names": [
+    "Psi Blade",
+    "Greater Psi Blade"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Psionic/Lethal), Foe -Rech, Self +Insight",
+    "Melee, Superior DMG(Psionic/Lethal), Foe -Rech, Hold; Self -Insight"
+  ]
+}

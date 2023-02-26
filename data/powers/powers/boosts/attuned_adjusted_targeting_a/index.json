@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Adjusted_Targeting_A",
+  "display_name": "Attuned Adjusted Targeting A",
+  "display_fullname": "Boosts.Attuned Adjusted Targeting A",
+  "display_help": "Enhances the to hit buff potential of a power by {Boost.Attrib.ToHit.Scale}%.",
+  "display_short_help": "Set: Adjusted Targeting",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ADJUSTED_TARGETING_A.POWERSETS",
+  "icon": "attuned_adjusted_targeting_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Adjusted_Targeting_A.Attuned_Adjusted_Targeting_A"
+  ],
+  "power_display_names": [
+    "Adjusted Targeting: To Hit Buff"
+  ],
+  "power_short_helps": [
+    "+To Hit Buff"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Maelstroms_Fury_A",
+  "display_name": "Crafted Maelstroms Fury A",
+  "display_fullname": "Boosts.Crafted Maelstroms Fury A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Maelstroms Fury",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_MAELSTROMS_FURY_A.POWERSETS",
+  "icon": "crafted_maelstroms_fury_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Maelstroms_Fury_A.Crafted_Maelstroms_Fury_A"
+  ],
+  "power_display_names": [
+    "Maelstrom's Fury: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

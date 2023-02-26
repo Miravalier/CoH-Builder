@@ -1,0 +1,34 @@
+{
+  "name": "Boss_Light_Low",
+  "display_name": "Boss Light Low",
+  "display_fullname": "V LegacyChain.Boss Light Low",
+  "display_help": "Legacy of Light",
+  "display_short_help": "Legacy of Light",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/BOSS_LIGHT_LOW.POWERSETS",
+  "icon": "boss_light_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Boss_Light_Low.Fist_of_Light",
+    "V_LegacyChain.Boss_Light_Low.Light_Blast",
+    "V_LegacyChain.Boss_Light_Low.Light_Explosion",
+    "V_LegacyChain.Boss_Light_Low.Resistance"
+  ],
+  "power_display_names": [
+    "Fist of Light",
+    "Light Blast",
+    "Light Explosion",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback",
+    "Auto Res Energy"
+  ]
+}

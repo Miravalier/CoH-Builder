@@ -1,0 +1,42 @@
+{
+  "name": "Diviner_Powers_Endgame",
+  "display_name": "Diviner Powers",
+  "display_fullname": "P Seers.Diviner Powers",
+  "display_help": "Diviner",
+  "display_short_help": "Diviner",
+  "available_level": [
+    0,
+    0,
+    0,
+    31,
+    20,
+    24
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/DIVINER_POWERS_ENDGAME.POWERSETS",
+  "icon": "diviner_powers_endgame_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Diviner_Powers_Endgame.Mental_Blast",
+    "P_Seers.Diviner_Powers_Endgame.Psionic_Slash",
+    "P_Seers.Diviner_Powers_Endgame.Dominate_Mind",
+    "P_Seers.Diviner_Powers_Endgame.Drain_Psyche",
+    "P_Seers.Diviner_Powers_Endgame.Summon_Reinforcements_Low",
+    "P_Seers.Diviner_Powers_Endgame.Summon_Reinforcements"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Psionic Slash",
+    "Dominate Mind",
+    "Drain Psyche",
+    "Summon Reinforcements Low",
+    "Summon Reinforcements"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "Melee, High DMG(Psionic), Target -Recharge",
+    "Melee, Moderate DMG(Psionic), Foe Hold",
+    "PBAoE Foe -Regen, -Recovery; Self +Regen, +Recovery",
+    "Summon Reinforcements",
+    "Summon Reinforcements"
+  ]
+}

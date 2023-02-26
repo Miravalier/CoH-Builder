@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Tesla",
+  "display_name": "Tech Tesla",
+  "display_fullname": "Base Traps.Tech Tesla",
+  "display_help": "The small device targets a tesla cage at those who come near.",
+  "display_short_help": "Base Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_TRAPS/TECH_TESLA.POWERSETS",
+  "icon": "tech_tesla_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Traps.Tech_Tesla.Tesla_Cage"
+  ],
+  "power_display_names": [
+    "Tesla Cage"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy), Foe Hold, -End"
+  ]
+}

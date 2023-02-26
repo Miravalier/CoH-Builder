@@ -1,0 +1,42 @@
+{
+  "name": "DragonFly",
+  "display_name": "DragonFly",
+  "display_fullname": "Tsoo.DragonFly",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/DRAGONFLY.POWERSETS",
+  "icon": "dragonfly_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.DragonFly.Thunder_Kick",
+    "Tsoo.DragonFly.Storm_Kick",
+    "Tsoo.DragonFly.Hurricane",
+    "Tsoo.DragonFly.Shuriken",
+    "Tsoo.DragonFly.Fly",
+    "Tsoo.DragonFly.Fly_fx"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Storm Kick",
+    "Hurricane",
+    "Shuriken",
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash",
+    "-Range, -ACC",
+    "Ranged Lethal, Low Dam",
+    "Self Travel",
+    "Special"
+  ]
+}

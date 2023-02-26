@@ -1,0 +1,54 @@
+{
+  "name": "Necromancy_Mastermind",
+  "display_name": "Necromancy Mastermind",
+  "display_fullname": "V GenericVillains.Necromancy Mastermind",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/NECROMANCY_MASTERMIND.POWERSETS",
+  "icon": "necromancy_mastermind_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Necromancy_Mastermind.Dark_Blast",
+    "V_GenericVillains.Necromancy_Mastermind.Gloom",
+    "V_GenericVillains.Necromancy_Mastermind.Life_Drain",
+    "V_GenericVillains.Necromancy_Mastermind.Zombie_Horde",
+    "V_GenericVillains.Necromancy_Mastermind.Grave_Knight",
+    "V_GenericVillains.Necromancy_Mastermind.Lich",
+    "V_GenericVillains.Necromancy_Mastermind.Alkaloid",
+    "V_GenericVillains.Necromancy_Mastermind.Neurotoxic_Breath",
+    "V_GenericVillains.Necromancy_Mastermind.Paralytic_Poison"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Gloom",
+    "Life Drain",
+    "Zombie Horde",
+    "Grave Knight",
+    "Lich",
+    "Alkaloid",
+    "Neurotoxic Breath",
+    "Paralytic Poison"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Negative), Foe -ACC",
+    "Ranged, High DoT(Negative), Foe -ACC",
+    "Ranged, Moderate DMG(Negative), Target -ACC, Self +HP",
+    "Summon Zombies",
+    "Summon Grave Knight",
+    "Summon Lich",
+    "Ally Heal, +Res(Toxic)",
+    "Ranged (Cone), Foe -SPD, -Recharge",
+    "Ranged Hold"
+  ]
+}

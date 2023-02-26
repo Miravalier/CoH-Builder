@@ -1,0 +1,22 @@
+{
+  "name": "Challenge_DeBuff",
+  "display_name": "Challenge_DeBuff",
+  "display_fullname": "Objects.Challenge DeBuff",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/CHALLENGE_DEBUFF.POWERSETS",
+  "icon": "challenge_debuff_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Challenge_DeBuff.Challenge_Debuff"
+  ],
+  "power_display_names": [
+    "Challenge Debuff"
+  ],
+  "power_short_helps": [
+    "-DMG, -ACC, -Res (Mez)"
+  ]
+}

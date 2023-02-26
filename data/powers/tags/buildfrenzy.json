@@ -1,0 +1,158 @@
+{
+  "tag": "BuildFrenzy",
+  "bears": [
+    [
+      "Brute Melee.Savage Melee.Maiming Slash",
+      "brute_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Brute Melee.Savage Melee.Savage Leap",
+      "brute_melee.savage_melee.savage_leap"
+    ],
+    [
+      "Brute Melee.Savage Melee.Savage Strike",
+      "brute_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Brute Melee.Savage Melee.Shred",
+      "brute_melee.savage_melee.shred"
+    ],
+    [
+      "Brute Melee.Savage Melee.Vicious Slash",
+      "brute_melee.savage_melee.vicious_slash"
+    ],
+    [
+      "Dominator Assault.Savage Assault.Call Swarm",
+      "dominator_assault.savage_assault.call_swarm"
+    ],
+    [
+      "Dominator Assault.Savage Assault.Feral Charge",
+      "dominator_assault.savage_assault.feral_charge"
+    ],
+    [
+      "Dominator Assault.Savage Assault.Maiming Slash",
+      "dominator_assault.savage_assault.maiming_slash"
+    ],
+    [
+      "Dominator Assault.Savage Assault.Unkindness",
+      "dominator_assault.savage_assault.call_ravens"
+    ],
+    [
+      "Dominator Assault.Savage Assault.Vicious Slash",
+      "dominator_assault.savage_assault.vicious_slash"
+    ],
+    [
+      "Freaklok.Cadaver Attacks.Maiming Slash",
+      "freaklok.cadaver_attacks.maiming_slash"
+    ],
+    [
+      "Freaklok.Cadaver Attacks.Savage Strike",
+      "freaklok.cadaver_attacks.savage_strike"
+    ],
+    [
+      "Freaklok.Ripper01.Maiming Slash",
+      "freaklok.ripper01.maiming_slash"
+    ],
+    [
+      "Freaklok.Ripper01.Savage Leap",
+      "freaklok.ripper01.savage_leap"
+    ],
+    [
+      "Mission Maker Attacks.Savage Assault.Call Swarm",
+      "mission_maker_attacks.savage_assault.call_swarm"
+    ],
+    [
+      "Mission Maker Attacks.Savage Assault.Feral Charge",
+      "mission_maker_attacks.savage_assault.feral_charge"
+    ],
+    [
+      "Mission Maker Attacks.Savage Assault.Maiming Slash",
+      "mission_maker_attacks.savage_assault.maiming_slash"
+    ],
+    [
+      "Mission Maker Attacks.Savage Assault.Unkindness",
+      "mission_maker_attacks.savage_assault.call_ravens"
+    ],
+    [
+      "Mission Maker Attacks.Savage Assault.Vicious Slash",
+      "mission_maker_attacks.savage_assault.vicious_slash"
+    ],
+    [
+      "Mission Maker Attacks.Savage Melee.Maiming Slash",
+      "mission_maker_attacks.savage_melee.maiming_slash"
+    ],
+    [
+      "Mission Maker Attacks.Savage Melee.Savage Leap",
+      "mission_maker_attacks.savage_melee.savage_leap"
+    ],
+    [
+      "Mission Maker Attacks.Savage Melee.Savage Strike",
+      "mission_maker_attacks.savage_melee.savage_strike"
+    ],
+    [
+      "Mission Maker Attacks.Savage Melee.Shred",
+      "mission_maker_attacks.savage_melee.shred"
+    ],
+    [
+      "Mission Maker Attacks.Savage Melee.Vicious Slash",
+      "mission_maker_attacks.savage_melee.vicious_slash"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Maiming Slash",
+      "scrapper_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Savage Leap",
+      "scrapper_melee.savage_melee.savage_leap"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Savage Strike",
+      "scrapper_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Shred",
+      "scrapper_melee.savage_melee.shred"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Vicious Slash",
+      "scrapper_melee.savage_melee.vicious_slash"
+    ],
+    [
+      "Stalker Melee.Savage Melee.Maiming Slash",
+      "stalker_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Stalker Melee.Savage Melee.Savage Leap",
+      "stalker_melee.savage_melee.savage_leap"
+    ],
+    [
+      "Stalker Melee.Savage Melee.Savage Strike",
+      "stalker_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Stalker Melee.Savage Melee.Shred",
+      "stalker_melee.savage_melee.shred"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Maiming Slash",
+      "tanker_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Savage Leap",
+      "tanker_melee.savage_melee.savage_leap"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Savage Strike",
+      "tanker_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Shred",
+      "tanker_melee.savage_melee.shred"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Vicious Slash",
+      "tanker_melee.savage_melee.vicious_slash"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Endgame_LT_Archer",
+  "display_name": "Endgame_LT_Archer",
+  "display_fullname": "Tsoo.Endgame LT Archer",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_LT_ARCHER.POWERSETS",
+  "icon": "endgame_lt_archer_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_LT_Archer.Snap_Shot",
+    "Tsoo.Endgame_LT_Archer.Aimed_Shot",
+    "Tsoo.Endgame_LT_Archer.Fistful_of_Arrows",
+    "Tsoo.Endgame_LT_Archer.Aim",
+    "Tsoo.Endgame_LT_Archer.Entangling_Arrow",
+    "Tsoo.Endgame_LT_Archer.Poison_Gas_Arrow"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "Aimed Shot",
+    "Fistful of Arrows",
+    "Aim",
+    "Entangling Arrow",
+    "Poison Gas Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal)",
+    "Ranged, High DMG(Lethal)",
+    "Ranged (Cone), Moderate DMG(Lethal), Minor DoT(Lethal)",
+    "Self +To-hit, +DMG",
+    "Ranged, Immobilize(Foe), -Fly(Foe), -Speed(Foe, All)",
+    "TAoE, -DMG(Foe, All), Chance for Hold(Foe)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impervious_Skin_E",
+  "display_name": "Attuned Impervious Skin E",
+  "display_fullname": "Boosts.Attuned Impervious Skin E",
+  "display_help": "Reduces the duration of status effects on you by 7.5% and increases your regeneration rate moderately. Regeneration rate bonus is unique.",
+  "display_short_help": "Set: Impervious Skin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPERVIOUS_SKIN_E.POWERSETS",
+  "icon": "attuned_impervious_skin_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impervious_Skin_E.Attuned_Impervious_Skin_E"
+  ],
+  "power_display_names": [
+    "Impervious Skin: Status Resistance/Regeneration"
+  ],
+  "power_short_helps": [
+    "+RES Status Effects, +Regeneration"
+  ]
+}

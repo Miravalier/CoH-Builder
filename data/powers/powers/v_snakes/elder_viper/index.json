@@ -1,0 +1,30 @@
+{
+  "name": "Elder_Viper",
+  "display_name": "Elder_Viper",
+  "display_fullname": "V Snakes.Elder Viper",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/ELDER_VIPER.POWERSETS",
+  "icon": "elder_viper_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Elder_Viper.Stab",
+    "V_Snakes.Elder_Viper.Venomous_Spit",
+    "V_Snakes.Elder_Viper.Poison_Bite"
+  ],
+  "power_display_names": [
+    "Stab",
+    "Venomous Spit",
+    "Poison Bite"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Toxic(DoT)",
+    "DoT(Toxic)",
+    "Melee Lethal/Toxic DoT"
+  ]
+}

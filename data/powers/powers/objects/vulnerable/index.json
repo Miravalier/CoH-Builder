@@ -1,0 +1,22 @@
+{
+  "name": "Vulnerable",
+  "display_name": "Vulnerable",
+  "display_fullname": "Objects.Vulnerable",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/VULNERABLE.POWERSETS",
+  "icon": "vulnerable_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Vulnerable.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Inherent"
+  ]
+}

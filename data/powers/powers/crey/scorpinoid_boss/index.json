@@ -1,0 +1,30 @@
+{
+  "name": "Scorpinoid_Boss",
+  "display_name": "Scorpinoid Boss",
+  "display_fullname": "Crey.Scorpinoid Boss",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/SCORPINOID_BOSS.POWERSETS",
+  "icon": "scorpinoid_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Scorpinoid_Boss.Tail_Blast",
+    "Crey.Scorpinoid_Boss.Tail_Sting",
+    "Crey.Scorpinoid_Boss.Arm_Blast"
+  ],
+  "power_display_names": [
+    "Tail Blast",
+    "Tail Sting",
+    "Arm Blast"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Smash/Energy, Knockback",
+    "Hold",
+    "Ranged Energy/Smash, Knockback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Expedient_Reinforcement_C",
+  "display_name": "Attuned Expedient Reinforcement C",
+  "display_fullname": "Boosts.Attuned Expedient Reinforcement C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Expedient Reinforcement",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EXPEDIENT_REINFORCEMENT_C.POWERSETS",
+  "icon": "attuned_expedient_reinforcement_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Expedient_Reinforcement_C.Attuned_Expedient_Reinforcement_C"
+  ],
+  "power_display_names": [
+    "Expedient Reinforcement: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "+DMG, -End Cost"
+  ]
+}

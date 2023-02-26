@@ -1,0 +1,22 @@
+{
+  "name": "Dominatrix_Lt_Boss",
+  "display_name": "Dominatrix_Lt_Boss",
+  "display_fullname": "Praetorians.Dominatrix Lt Boss",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/DOMINATRIX_LT_BOSS.POWERSETS",
+  "icon": "dominatrix_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Dominatrix_Lt_Boss.Submission"
+  ],
+  "power_display_names": [
+    "Submission"
+  ],
+  "power_short_helps": [
+    "DoT(Energy), Hold"
+  ]
+}

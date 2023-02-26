@@ -1,0 +1,42 @@
+{
+  "name": "Prestige_Sprints",
+  "display_name": "Prestige Sprints",
+  "display_fullname": "Prestige.Prestige Sprints",
+  "display_help": "Prestige Sprints",
+  "display_short_help": "Prestige Sprints",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRESTIGE/PRESTIGE_SPRINTS.POWERSETS",
+  "icon": "temporary_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Prestige.Prestige_Sprints.prestige_generic_Sprintp",
+    "Prestige.Prestige_Sprints.prestige_preorder_Sprintp",
+    "Prestige.Prestige_Sprints.prestige_BestBuy_Sprintp",
+    "Prestige.Prestige_Sprints.prestige_EB_Sprintp",
+    "Prestige.Prestige_Sprints.prestige_Gamestop_Sprintp",
+    "Prestige.Prestige_Sprints.prestige_DVD_Glidep"
+  ],
+  "power_display_names": [
+    "Prestige Power Surge",
+    "Sprint",
+    "Prestige Power Dash",
+    "Prestige Power Quick",
+    "Prestige Power Rush",
+    "Prestige Power Slide"
+  ],
+  "power_short_helps": [
+    "Boost Run SPD",
+    "Boost Run SPD",
+    "Boost Run SPD",
+    "Boost Run SPD",
+    "Boost Run SPD",
+    "Boost Run SPD"
+  ]
+}

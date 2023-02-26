@@ -1,0 +1,58 @@
+{
+  "name": "Endgame_TubCi",
+  "display_name": "Endgame_TubCi",
+  "display_fullname": "Tsoo.Endgame TubCi",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_TUBCI.POWERSETS",
+  "icon": "endgame_tubci_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_TubCi.Thunder_Kick",
+    "Tsoo.Endgame_TubCi.Storm_Kick",
+    "Tsoo.Endgame_TubCi.Cobra_Strike",
+    "Tsoo.Endgame_TubCi.Crane_Kick",
+    "Tsoo.Endgame_TubCi.Crippling_Axe_Kick",
+    "Tsoo.Endgame_TubCi.Eagles_Claw",
+    "Tsoo.Endgame_TubCi.Aimed_Shot",
+    "Tsoo.Endgame_TubCi.Fistful_of_Arrows",
+    "Tsoo.Endgame_TubCi.Blazing_Arrow",
+    "Tsoo.Endgame_TubCi.Explosive_Arrow"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Storm Kick",
+    "Cobra Strike",
+    "Crane Kick",
+    "Crippling Axe Kick",
+    "Eagles Claw",
+    "Aimed Shot",
+    "Fistful of Arrows",
+    "Blazing Arrow",
+    "Explosive Arrow"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash",
+    "Melee, Minor DMG(Smash), Foe Disorient",
+    "Melee Smash, High DMG, Knockback",
+    "Immobilize, -SPD",
+    "Disorient",
+    "Ranged, High DMG(Lethal)",
+    "Ranged (Cone), Moderate DMG(Lethal)",
+    "Ranged, Minor DMG(Lethal), Moderate DoT(Fire)",
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Fire), Knockback"
+  ]
+}

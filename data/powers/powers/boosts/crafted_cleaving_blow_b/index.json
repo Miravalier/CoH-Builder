@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Cleaving_Blow_B",
+  "display_name": "Crafted Cleaving Blow B",
+  "display_fullname": "Boosts.Crafted Cleaving Blow B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Cleaving Blow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_CLEAVING_BLOW_B.POWERSETS",
+  "icon": "crafted_cleaving_blow_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Cleaving_Blow_B.Crafted_Cleaving_Blow_B"
+  ],
+  "power_display_names": [
+    "Cleaving Blow: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

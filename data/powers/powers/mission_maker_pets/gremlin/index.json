@@ -1,0 +1,30 @@
+{
+  "name": "Gremlin",
+  "display_name": "Gremlin",
+  "display_fullname": "Mission Maker Pets.Gremlin",
+  "display_help": "Electric Control",
+  "display_short_help": "Electric Control",
+  "available_level": [
+    0,
+    5,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/GREMLIN.POWERSETS",
+  "icon": "gremlin_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Gremlin.Electric_Brawl",
+    "Mission_Maker_Pets.Gremlin.Jolting_Chain",
+    "Mission_Maker_Pets.Gremlin.Resist_Energy"
+  ],
+  "power_display_names": [
+    "Electric Brawl",
+    "Jolting Chain",
+    "Resist Energy"
+  ],
+  "power_short_helps": [
+    "Melee Smash/Energy",
+    "Ranged, High DMG(Energy), Foe -End",
+    "Resist Energy"
+  ]
+}

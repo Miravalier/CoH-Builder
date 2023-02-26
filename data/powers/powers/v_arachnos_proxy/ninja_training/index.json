@@ -1,0 +1,54 @@
+{
+  "name": "Ninja_Training",
+  "display_name": "Ninja Training",
+  "display_fullname": "V Arachnos Proxy.Ninja Training",
+  "display_help": "You compliment your abilities with training in the secret art of the Ninja. You have mastered valuable ninja tools, poisons and weapons, including the deadly Ninja Blade. You also mastered the harmonic powers of Kuji-In Toh, allowing you to regenerate and recover endurance at an accelerated rate.",
+  "display_short_help": "Ninja Training",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/NINJA_TRAINING.POWERSETS",
+  "icon": "ninja_training_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Ninja_Training.Immobilizing_Dart",
+    "V_Arachnos_Proxy.Ninja_Training.Sting_of_the_Wasp",
+    "V_Arachnos_Proxy.Ninja_Training.Choking_Powder",
+    "V_Arachnos_Proxy.Ninja_Training.Shinobi",
+    "V_Arachnos_Proxy.Ninja_Training.The_Lotus_Drops",
+    "V_Arachnos_Proxy.Ninja_Training.Kuji-In_Toh",
+    "V_Arachnos_Proxy.Ninja_Training.Smoke_Flash",
+    "V_Arachnos_Proxy.Ninja_Training.Blinding_Powder",
+    "V_Arachnos_Proxy.Ninja_Training.Golden_Dragonfly"
+  ],
+  "power_display_names": [
+    "Immobilizing Dart",
+    "Sting of the Wasp",
+    "Choking Powder",
+    "Shinobi",
+    "The Lotus Drops",
+    "Kuji-In Toh",
+    "Smoke Flash",
+    "Blinding Powder",
+    "Golden Dragonfly"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DoT(Toxic), Foe Immobilize",
+    "Melee, Moderate DMG(Lethal), Foe -Def",
+    "Ranged, Moderate DoT(Toxic), Foe Hold",
+    "Toggle: Self Self +DEF(All), +Stealth, +Special",
+    "PBAoE Melee, Moderate DMG(Lethal), Foe -Def",
+    "Self +Regen, +Recovery, Res(Psionic, Fear)",
+    "PBAoE, Foe Placate, -Res",
+    "Ranged (Cone), Foe -To Hit, Sleep, Confuse, -Perception",
+    "Melee, Extreme DMG(Lethal), Foe Knockback, -DEF"
+  ]
+}

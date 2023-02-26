@@ -1,0 +1,26 @@
+{
+  "name": "Rune_Inherent",
+  "display_name": "Rune",
+  "display_fullname": "Objects.Rune",
+  "display_help": "Rune",
+  "display_short_help": "Rune",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/RUNE_INHERENT.POWERSETS",
+  "icon": "rune_inherent_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Rune_Inherent.Self_Destruct",
+    "Objects.Rune_Inherent.Resistance"
+  ],
+  "power_display_names": [
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Self Destruct",
+    "Resistance"
+  ]
+}

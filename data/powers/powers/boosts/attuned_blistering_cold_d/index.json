@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Blistering_Cold_D",
+  "display_name": "Attuned Blistering Cold D",
+  "display_fullname": "Boosts.Attuned Blistering Cold D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Blistering Cold",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BLISTERING_COLD_D.POWERSETS",
+  "icon": "attuned_blistering_cold_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Blistering_Cold_D.Attuned_Blistering_Cold_D"
+  ],
+  "power_display_names": [
+    "Blistering Cold: Accuracy/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Damage and Reduces Endurance Cost"
+  ]
+}

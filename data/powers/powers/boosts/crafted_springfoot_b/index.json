@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Springfoot_B",
+  "display_name": "Crafted Springfoot B",
+  "display_fullname": "Boosts.Crafted Springfoot B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Springfoot",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_SPRINGFOOT_B.POWERSETS",
+  "icon": "crafted_springfoot_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Springfoot_B.Crafted_Springfoot_B"
+  ],
+  "power_display_names": [
+    "Springfoot: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

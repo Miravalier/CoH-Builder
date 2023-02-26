@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Drain_Endurance",
+  "display_name": "Technology Natural Endurance",
+  "display_fullname": "Boosts.Technology Natural Drain Endurance",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_DRAIN_ENDURANCE.POWERSETS",
+  "icon": "technology_natural_drain_endurance_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Drain_Endurance.Technology_Natural_Drain_Endurance"
+  ],
+  "power_display_names": [
+    "Endurance Modification Device (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

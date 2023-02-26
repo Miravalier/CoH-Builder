@@ -1,0 +1,30 @@
+{
+  "name": "Circle_Pink_Crystal",
+  "display_name": "Circle_Pink_Crystal",
+  "display_fullname": "CircleOfThorns.Circle Pink Crystal",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_PINK_CRYSTAL.POWERSETS",
+  "icon": "circle_pink_crystal_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Pink_Crystal.Immobile",
+    "CircleOfThorns.Circle_Pink_Crystal.Resistance",
+    "CircleOfThorns.Circle_Pink_Crystal.Dying_Burst"
+  ],
+  "power_display_names": [
+    "Immobile",
+    "Resistance",
+    "Dying Burst"
+  ],
+  "power_short_helps": [
+    "Immobilize",
+    "Resistance",
+    "Res(Psionic)"
+  ]
+}

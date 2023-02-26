@@ -1,0 +1,22 @@
+{
+  "name": "CoT_ArchMage",
+  "display_name": "CoT_ArchMage",
+  "display_fullname": "Rularuu.CoT ArchMage",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/COT_ARCHMAGE.POWERSETS",
+  "icon": "cot_archmage_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.CoT_ArchMage.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Inherent"
+  ]
+}

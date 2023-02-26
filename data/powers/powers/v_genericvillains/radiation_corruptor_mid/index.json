@@ -1,0 +1,26 @@
+{
+  "name": "Radiation_Corruptor_Mid",
+  "display_name": "Radiation Corruptor Mid",
+  "display_fullname": "V GenericVillains.Radiation Corruptor Mid",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/RADIATION_CORRUPTOR_MID.POWERSETS",
+  "icon": "radiation_corruptor_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Radiation_Corruptor_Mid.Choking_Cloud",
+    "V_GenericVillains.Radiation_Corruptor_Mid.Neutron_Bomb"
+  ],
+  "power_display_names": [
+    "Choking Cloud",
+    "Neutron Bomb"
+  ],
+  "power_short_helps": [
+    "Toggle: PBAoE, Foe Hold",
+    "Ranged (Targeted AoE), Moderate DMG(Energy), Foe -DEF"
+  ]
+}

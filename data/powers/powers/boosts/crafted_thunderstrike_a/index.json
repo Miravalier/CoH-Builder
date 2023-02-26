@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Thunderstrike_A",
+  "display_name": "Crafted Thunderstrike A",
+  "display_fullname": "Boosts.Crafted Thunderstrike A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Thunderstrike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_THUNDERSTRIKE_A.POWERSETS",
+  "icon": "crafted_thunderstrike_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Thunderstrike_A.Crafted_Thunderstrike_A"
+  ],
+  "power_display_names": [
+    "Thunderstrike: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

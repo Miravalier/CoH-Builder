@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impervium_Armor_D",
+  "display_name": "Attuned Impervium Armor D",
+  "display_fullname": "Boosts.Attuned Impervium Armor D",
+  "display_help": "Enhances the damage resistance of a power by {Boost.Attrib.Damage.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Impervium Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPERVIUM_ARMOR_D.POWERSETS",
+  "icon": "attuned_impervium_armor_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impervium_Armor_D.Attuned_Impervium_Armor_D"
+  ],
+  "power_display_names": [
+    "Impervium Armor: Resistance/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Resistance, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

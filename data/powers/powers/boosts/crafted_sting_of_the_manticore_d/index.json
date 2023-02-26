@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Sting_of_the_Manticore_D",
+  "display_name": "Crafted Sting of the Manticore D",
+  "display_fullname": "Boosts.Crafted Sting of the Manticore D",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, reduces interrupt time by {Boost.Attrib.InterruptTime.Scale}% and and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Sting of the Manticore",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_STING_OF_THE_MANTICORE_D.POWERSETS",
+  "icon": "crafted_sting_of_the_manticore_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Sting_of_the_Manticore_D.Crafted_Sting_of_the_Manticore_D"
+  ],
+  "power_display_names": [
+    "Sting of the Manticore: Damage/Interrupt/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Interrupt and Recharge Time"
+  ]
+}

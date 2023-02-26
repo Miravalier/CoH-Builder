@@ -1,0 +1,26 @@
+{
+  "name": "Fifth_Column_Minion_Soldier_Ranged",
+  "display_name": "Fifth_Column_Minion_Soldier_Ranged",
+  "display_fullname": "5thColumn.Fifth Column Minion Soldier Ranged",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_MINION_SOLDIER_RANGED.POWERSETS",
+  "icon": "fifth_column_minion_soldier_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Minion_Soldier_Ranged.Incendiary_Assault_Rifle",
+    "5thColumn.Fifth_Column_Minion_Soldier_Ranged.Cryonic_Assault_Rifle"
+  ],
+  "power_display_names": [
+    "Incendiary Assault Rifle",
+    "Cryonic Assault Rifle"
+  ],
+  "power_short_helps": [
+    "Minor DoT(Fire)",
+    "-Recharge, -SPD"
+  ]
+}

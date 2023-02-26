@@ -1,0 +1,38 @@
+{
+  "name": "Clockwork_Prince_Inherent_Powers",
+  "display_name": "Clockwork_Prince_Inherent_Powers",
+  "display_fullname": "Clockwork.Clockwork Prince Inherent Powers",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CLOCKWORK/CLOCKWORK_PRINCE_INHERENT_POWERS.POWERSETS",
+  "icon": "clockwork_prince_inherent_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Clockwork.Clockwork_Prince_Inherent_Powers.Resistance",
+    "Clockwork.Clockwork_Prince_Inherent_Powers.Reassemble",
+    "Clockwork.Clockwork_Prince_Inherent_Powers.Charged_Bolts",
+    "Clockwork.Clockwork_Prince_Inherent_Powers.Charged_Brawl",
+    "Clockwork.Clockwork_Prince_Inherent_Powers.Pummel"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Reassemble",
+    "Charged Bolts",
+    "Charged Brawl",
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Auto Res Knockback Lethal Disorient",
+    "Summon Clockwork",
+    "Ranged Energy, -End",
+    "Melee Smash, Energy",
+    "Melee Heavy Smash, Energy"
+  ]
+}

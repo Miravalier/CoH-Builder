@@ -1,0 +1,50 @@
+{
+  "name": "Archon_High",
+  "display_name": "Archon High",
+  "display_fullname": "Council.Archon High",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ARCHON_HIGH.POWERSETS",
+  "icon": "archon_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Archon_High.Power_Bolt",
+    "Council.Archon_High.Energy_Torrent",
+    "Council.Archon_High.Power_Burst",
+    "Council.Archon_High.Power_Thrust",
+    "Council.Archon_High.Energy_Punch",
+    "Council.Archon_High.Bone_Smasher",
+    "Council.Archon_High.Nova",
+    "Council.Archon_High.Total_Focus"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Energy Torrent",
+    "Power Burst",
+    "Power Thrust",
+    "Energy Punch",
+    "Bone Smasher",
+    "Nova",
+    "Total Focus"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Cone Energy/Smash, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback",
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback",
+    "Disorient",
+    "Disorient",
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Knockback, Self -Recovery",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient"
+  ]
+}

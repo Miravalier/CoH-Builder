@@ -1,0 +1,58 @@
+{
+  "name": "Warworks_Mk_6",
+  "display_name": "Warworks Mk 6",
+  "display_fullname": "PraetorianIDF.Warworks Mk 6",
+  "display_help": "Warworks",
+  "display_short_help": "Warworks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/WARWORKS_MK_6.POWERSETS",
+  "icon": "warworks_mk_6_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Warworks_Mk_6.Stealth",
+    "PraetorianIDF.Warworks_Mk_6.Swipe",
+    "PraetorianIDF.Warworks_Mk_6.Cross_Cut",
+    "PraetorianIDF.Warworks_Mk_6.Feint",
+    "PraetorianIDF.Warworks_Mk_6.Dance_of_Blades",
+    "PraetorianIDF.Warworks_Mk_6.Blade_Flurry",
+    "PraetorianIDF.Warworks_Mk_6.Placate",
+    "PraetorianIDF.Warworks_Mk_6.Plasma_Eye_Beams",
+    "PraetorianIDF.Warworks_Mk_6.Arm_Self-Destruct",
+    "PraetorianIDF.Warworks_Mk_6.Force_Barrier"
+  ],
+  "power_display_names": [
+    "Stealth",
+    "Swipe",
+    "Cross Cut",
+    "Feint",
+    "Dance of Blades",
+    "Blade Flurry",
+    "Placate",
+    "Plasma Eye Beams",
+    "Arm Self-Destruct",
+    "Force Barrier"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Stealth, +DEF",
+    "Melee, Minor DMG(Lethal/Energy), Foe -Def",
+    "Melee, Moderate DMG(Lethal/Energy), Foe -Def",
+    "Melee, Moderate DMG(Lethal), Self +Def(Lethal, Melee)",
+    "PBAoE Melee, Moderate DMG(Lethal/Energy), Foe -Def, Minor DoT(Lethal)",
+    "Melee (Cone), Superior DMG(Lethal/Energy), Foe Knockback, -Def",
+    "Ranged, Foe Placate, Self Stealth/Hide",
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Disorient",
+    "Self, +Def(All), +Regen"
+  ]
+}

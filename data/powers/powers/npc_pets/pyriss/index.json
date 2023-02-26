@@ -1,0 +1,46 @@
+{
+  "name": "Pyriss",
+  "display_name": "Pyriss",
+  "display_fullname": "NPC Pets.Pyriss",
+  "display_help": "Pyriss",
+  "display_short_help": "Pyriss",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+  ],
+  "source_file": "DEFS/POWERS/NPC_PETS/PYRISS.POWERSETS",
+  "icon": "pyriss_set.png",
+  "requires": "",
+  "power_names": [
+    "NPC_Pets.Pyriss.Scorch",
+    "NPC_Pets.Pyriss.Combustion",
+    "NPC_Pets.Pyriss.Incinerate",
+    "NPC_Pets.Pyriss.Flares",
+    "NPC_Pets.Pyriss.Fire_Breath",
+    "NPC_Pets.Pyriss.Fire_Blast",
+    "NPC_Pets.Pyriss.Fire_Ball"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Combustion",
+    "Incinerate",
+    "Flares",
+    "Fire Breath",
+    "Fire Blast",
+    "Fire Ball"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

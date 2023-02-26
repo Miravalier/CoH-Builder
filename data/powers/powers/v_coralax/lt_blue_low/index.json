@@ -1,0 +1,26 @@
+{
+  "name": "Lt_Blue_Low",
+  "display_name": "Lt Blue Low",
+  "display_fullname": "V Coralax.Lt Blue Low",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/LT_BLUE_LOW.POWERSETS",
+  "icon": "lt_blue_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Lt_Blue_Low.Heavy_Brawl",
+    "V_Coralax.Lt_Blue_Low.Urchin_Spray"
+  ],
+  "power_display_names": [
+    "Heavy Brawl",
+    "Urchin Spray"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "Cone Lethal, Knockback"
+  ]
+}

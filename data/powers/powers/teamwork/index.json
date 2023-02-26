@@ -1,0 +1,21 @@
+{
+  "name": "Teamwork",
+  "display_name": "Teamwork",
+  "source_file": "DEFS/POWERS/TEAMWORK.CATEGORIES",
+  "archetypes": [
+    "arachnos_widow"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "teamwork.fortunata_teamwork",
+    "teamwork.teamwork",
+    "teamwork.widow_teamwork"
+  ],
+  "powerset_display_names": [
+    "Fortunata Teamwork",
+    "Teamwork",
+    "Widow Teamwork"
+  ],
+  "powersets_with_requirements": []
+}

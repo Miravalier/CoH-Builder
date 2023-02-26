@@ -1,0 +1,26 @@
+{
+  "name": "DUST_LT",
+  "display_name": "DUST_LT",
+  "display_fullname": "PraetorianPolice.DUST LT",
+  "display_help": "Praetorian DUST",
+  "display_short_help": "Praetorian DUST",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/DUST_LT.POWERSETS",
+  "icon": "dust_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.DUST_LT.Toxic_Burst",
+    "PraetorianPolice.DUST_LT.Shockwave_Grenade"
+  ],
+  "power_display_names": [
+    "Toxic Burst",
+    "Shockwave Grenade"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Toxic, DoT (Toxic), -Regen, -End",
+    "Moderate DMG (Lethal/Smashing), DoT (Lethal), Knockback"
+  ]
+}

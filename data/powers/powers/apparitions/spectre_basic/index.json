@@ -1,0 +1,30 @@
+{
+  "name": "Spectre_Basic",
+  "display_name": "Spectre_Basic",
+  "display_fullname": "Apparitions.Spectre Basic",
+  "display_help": "Apparitions",
+  "display_short_help": "Apparitions",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/APPARITIONS/SPECTRE_BASIC.POWERSETS",
+  "icon": "spectre_basic_set.png",
+  "requires": "",
+  "power_names": [
+    "Apparitions.Spectre_Basic.Crushing_Hate",
+    "Apparitions.Spectre_Basic.Collective_Unconscious",
+    "Apparitions.Spectre_Basic.Dissipate"
+  ],
+  "power_display_names": [
+    "Crushing Hate",
+    "Collective Unconscious",
+    "Dissipate"
+  ],
+  "power_short_helps": [
+    "Moderate DMG(Negative Energy/Lethal), Foe Hold",
+    "PBAoE, +DMG, +ToHit",
+    "Special"
+  ]
+}

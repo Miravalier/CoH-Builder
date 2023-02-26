@@ -1,0 +1,332 @@
+{
+  "name": "Overwhelming_Force",
+  "display_name": "Overwhelming Force",
+  "group_name": "Universal Damage Sets",
+  "conversion_groups": [
+    "Category: Universal Damage"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Overwhelming_Force_A.Attuned_Overwhelming_Force_A"
+    ],
+    [
+      "Boosts.Attuned_Overwhelming_Force_B.Attuned_Overwhelming_Force_B"
+    ],
+    [
+      "Boosts.Attuned_Overwhelming_Force_C.Attuned_Overwhelming_Force_C"
+    ],
+    [
+      "Boosts.Attuned_Overwhelming_Force_D.Attuned_Overwhelming_Force_D"
+    ],
+    [
+      "Boosts.Attuned_Overwhelming_Force_E.Attuned_Overwhelming_Force_E"
+    ],
+    [
+      "Boosts.Attuned_Overwhelming_Force_F.Attuned_Overwhelming_Force_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_energy_neg_ranged_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.knockback_protection_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_5",
+          "Huge Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_5",
+          "Huge Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_energy_neg_ranged_def_3",
+          "Moderate Increased Energy/Negative Energy/Ranged Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.knockback_protection_3",
+          "Moderate Knockback Protection Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_summer_event.png",
+      "e_icon_summer_event.png",
+      "e_icon_summer_event.png",
+      "e_icon_summer_event.png",
+      "e_icon_summer_event.png",
+      "e_icon_summer_event.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Overwhelming Force: Accuracy/Damage"
+      ],
+      [
+        "Attuned Overwhelming Force: Endurance/Recharge"
+      ],
+      [
+        "Attuned Overwhelming Force: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Attuned Overwhelming Force: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Overwhelming Force: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Overwhelming Force: Damage/PowerChanceMod Debuff"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_overwhelming_force_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Overwhelming Force: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "overwhelming_force",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_summer_event.png"
+      },
+      "attuned_overwhelming_force_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Overwhelming Force: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "overwhelming_force",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_summer_event.png"
+      },
+      "attuned_overwhelming_force_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Overwhelming Force: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "overwhelming_force",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_summer_event.png"
+      },
+      "attuned_overwhelming_force_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Overwhelming Force: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "overwhelming_force",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_summer_event.png"
+      },
+      "attuned_overwhelming_force_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Overwhelming Force: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "overwhelming_force",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_summer_event.png"
+      },
+      "attuned_overwhelming_force_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Overwhelming Force: Damage/PowerChanceMod Debuff",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "overwhelming_force",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_summer_event.png"
+      }
+    }
+  }
+}

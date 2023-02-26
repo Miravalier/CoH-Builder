@@ -1,0 +1,87 @@
+{
+  "name": "Forlorn_Noble_Savage",
+  "gender": "GENDER_MALE",
+  "group_name": "Forlorn",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_elite",
+    "description": "Distraught over his transformation into a cybernetic monstrosity, the Noble Savage has teamed up with Demetrios Vasilikos to help those whose lives were also ruined by Praetor Berry's experiments. He sees himself as the defender of the defenseless, the sheriff of First Ward, and the protector of both the Forlorn and Ghouls alike. He will not rest until justice has been done, and Praetor Berry pays for his crimes against humanity. But one thing at a time, for now he has to concentrate on keeping his people safe.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "P_Ghouls.Noble_Savage.Jab",
+      "P_Ghouls.Noble_Savage.Punch",
+      "P_Ghouls.Noble_Savage.Haymaker",
+      "P_Ghouls.Noble_Savage.Hurl",
+      "P_Ghouls.Noble_Savage.Fast_Healing",
+      "P_Ghouls.Noble_Savage.Dull_Pain",
+      "P_Ghouls.Noble_Savage.Integration"
+    ],
+    "power_display_names": [
+      "Jab",
+      "Punch",
+      "Haymaker",
+      "Hurl",
+      "Fast Healing",
+      "Dull Pain",
+      "Integration"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "Noble_Savage",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Noble Savage"
+      ],
+      "costumes": [
+        "Signature_Noble_Savage_01"
+      ]
+    }
+  ]
+}

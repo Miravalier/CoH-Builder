@@ -1,0 +1,22 @@
+{
+  "name": "Door_Lite",
+  "display_name": "Door_Lite",
+  "display_fullname": "Objects.Door Lite",
+  "display_help": "Door",
+  "display_short_help": "Door",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/DOOR_LITE.POWERSETS",
+  "icon": "door_lite_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Door_Lite.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Self Auto, Res Fear, Confuse, Disorient, KnockBack"
+  ]
+}

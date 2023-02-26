@@ -1,0 +1,22 @@
+{
+  "name": "KineticTransferDebuff_Controller",
+  "display_name": "Kinetic Transfer",
+  "display_fullname": "Pets.Kinetic Transfer",
+  "display_help": "Kinetics",
+  "display_short_help": "Kinetics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/KINETICTRANSFERDEBUFF_CONTROLLER.POWERSETS",
+  "icon": "kinetictransferdebuff_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.KineticTransferDebuff_Controller.KineticTransfer"
+  ],
+  "power_display_names": [
+    "KineticTransfer"
+  ],
+  "power_short_helps": [
+    "-DMG"
+  ]
+}

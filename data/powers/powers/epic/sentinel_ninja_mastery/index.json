@@ -1,0 +1,38 @@
+{
+  "name": "Sentinel_Ninja_Mastery",
+  "display_name": "Ninja Tool Mastery",
+  "display_fullname": "Epic.Ninja Tool Mastery",
+  "display_help": "A Ninja is a master of many tools and weapons, from the deadly Ninja Blade to deadly Tashibishi, in addition to various poisons.",
+  "display_short_help": "Ninja Tool Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/SENTINEL_NINJA_MASTERY.POWERSETS",
+  "icon": "sentinel_ninja_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Sentinel_Ninja_Mastery.Caltrops",
+    "Epic.Sentinel_Ninja_Mastery.Sting_of_the_Wasp",
+    "Epic.Sentinel_Ninja_Mastery.Paralizing_Dart",
+    "Epic.Sentinel_Ninja_Mastery.The_Lotus_Drops",
+    "Epic.Sentinel_Ninja_Mastery.Kemuridama"
+  ],
+  "power_display_names": [
+    "Tashibishi",
+    "Sting of the Wasp",
+    "Paralyzing Dart",
+    "The Lotus Drops",
+    "Kemuridama"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), Minor DoT(Lethal), Foe -Speed",
+    "Melee, Light DMG(Lethal), Foe -Def",
+    "Ranged, Minor DoT(Toxic), Foe Hold",
+    "PBAoE Melee, Moderate DMG(Lethal), Foe -Def",
+    "PBAoE, Foe Placate -DMG -To Hit"
+  ]
+}

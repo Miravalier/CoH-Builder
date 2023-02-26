@@ -1,0 +1,22 @@
+{
+  "name": "Nightmare_General",
+  "display_name": "Nightmare General",
+  "display_fullname": "MindsOfMayhem.Nightmare General",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/NIGHTMARE_GENERAL.POWERSETS",
+  "icon": "nightmare_general_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Nightmare_General.Damage_Reduction"
+  ],
+  "power_display_names": [
+    "Residual Memory"
+  ],
+  "power_short_helps": [
+    "+DMG (All), +Res (Knockback)"
+  ]
+}

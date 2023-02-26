@@ -1,0 +1,22 @@
+{
+  "name": "KineticTransferDebuff",
+  "display_name": "Kinetic Transfer",
+  "display_fullname": "Mission Maker Pets.Kinetic Transfer",
+  "display_help": "Kinetics",
+  "display_short_help": "Kinetics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/KINETICTRANSFERDEBUFF.POWERSETS",
+  "icon": "kinetictransferdebuff_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.KineticTransferDebuff.KineticTransfer"
+  ],
+  "power_display_names": [
+    "Fulcrum Shift"
+  ],
+  "power_short_helps": [
+    "-DMG"
+  ]
+}

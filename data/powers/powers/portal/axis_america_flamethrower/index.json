@@ -1,0 +1,22 @@
+{
+  "name": "Axis_America_Flamethrower",
+  "display_name": "Axis_America_Flamethrower",
+  "display_fullname": "Portal.Axis America Flamethrower",
+  "display_help": "Axis America",
+  "display_short_help": "Axis America",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/AXIS_AMERICA_FLAMETHROWER.POWERSETS",
+  "icon": "axis_america_flamethrower_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Axis_America_Flamethrower.Flamethrower"
+  ],
+  "power_display_names": [
+    "Flamethrower"
+  ],
+  "power_short_helps": [
+    "Moderate DoT(Fire)"
+  ]
+}

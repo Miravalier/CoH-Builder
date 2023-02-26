@@ -1,0 +1,30 @@
+{
+  "name": "Clockwork_Minion_Powers",
+  "display_name": "Clockwork_Minion_Powers",
+  "display_fullname": "Portal.Clockwork Minion Powers",
+  "display_help": "Psychic Clockwork",
+  "display_short_help": "Psychic Clockwork",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CLOCKWORK_MINION_POWERS.POWERSETS",
+  "icon": "clockwork_minion_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Clockwork_Minion_Powers.Resistance",
+    "Portal.Clockwork_Minion_Powers.Brawl",
+    "Portal.Clockwork_Minion_Powers.Mental_Blast"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Brawl",
+    "Mental Blast"
+  ],
+  "power_short_helps": [
+    "Auto Res Lethal, Psionic, Sleep. Disorient",
+    "Melee Smash",
+    "-Recharge"
+  ]
+}

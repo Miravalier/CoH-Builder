@@ -1,0 +1,22 @@
+{
+  "name": "Lifegiving_Essence",
+  "display_name": "Lifegiving Essence",
+  "display_fullname": "DilemmaDiabolique.Lifegiving Essence",
+  "display_help": "Lifegiving Essence",
+  "display_short_help": "Lifegiving Essence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/LIFEGIVING_ESSENCE.POWERSETS",
+  "icon": "lifegiving_essence_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Lifegiving_Essence.Restoration"
+  ],
+  "power_display_names": [
+    "Restoration"
+  ],
+  "power_short_helps": [
+    "Restoration"
+  ]
+}

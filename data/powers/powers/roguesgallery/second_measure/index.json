@@ -1,0 +1,54 @@
+{
+  "name": "Second_Measure",
+  "display_name": "Second Measure",
+  "display_fullname": "RoguesGallery.Second Measure",
+  "display_help": "Second Measure",
+  "display_short_help": "Second Measure",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/SECOND_MEASURE.POWERSETS",
+  "icon": "second_measure_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.Second_Measure.Hack",
+    "RoguesGallery.Second_Measure.Slash",
+    "RoguesGallery.Second_Measure.Shuriken",
+    "RoguesGallery.Second_Measure.Assassins_Blade",
+    "RoguesGallery.Second_Measure.Placate",
+    "RoguesGallery.Second_Measure.Head_Splitter",
+    "RoguesGallery.Second_Measure.Hide",
+    "RoguesGallery.Second_Measure.Dark_Regeneration",
+    "RoguesGallery.Second_Measure.Cloak_of_Fear"
+  ],
+  "power_display_names": [
+    "Sting of the Wasp",
+    "Gambler's Cut",
+    "Shuriken",
+    "Assassin's Blade",
+    "Placate",
+    "Golden Dragonfly",
+    "Hide",
+    "Dark Regeneration",
+    "Cloak of Fear"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), -DEF (Foe, All), Chance for Critical DMG (Lethal)",
+    "Melee, Minor DMG(Lethal), -DEF (Foe, All), Chance for Critical DMG (Lethal)",
+    "Ranged, Minor DMG(Lethal)",
+    "Melee, Superior DMG (Lethal), Chance for Critical DMG (Lethal)",
+    "Ranged, Placate (Foe), Self (Hide)",
+    "Melee, Extreme DMG (Lethal), -DEF (Foe, All), Chance for Knockdown (Foe)",
+    "Self, Stealth, +DEF(Melee, Ranged, AoE)",
+    "PBAoE Minor DMG(Negative), Self +HP",
+    "PBAoE, Terrorize (Foe), -ToHit (Foe)"
+  ]
+}

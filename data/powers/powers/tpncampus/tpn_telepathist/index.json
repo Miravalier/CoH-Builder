@@ -1,0 +1,38 @@
+{
+  "name": "TPN_Telepathist",
+  "display_name": "TPN_Telepathist",
+  "display_fullname": "TPNCampus.TPN Telepathist",
+  "display_help": "Seers",
+  "display_short_help": "Seers",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/TPN_TELEPATHIST.POWERSETS",
+  "icon": "tpn_telepathist_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.TPN_Telepathist.Propaganda",
+    "TPNCampus.TPN_Telepathist.Pacify",
+    "TPNCampus.TPN_Telepathist.Telepathic_Interference",
+    "TPNCampus.TPN_Telepathist.Grant_Propaganda",
+    "TPNCampus.TPN_Telepathist.NoInterruptions"
+  ],
+  "power_display_names": [
+    "Propaganda",
+    "Pacify",
+    "Telepathic Interference",
+    "Grant Propaganda",
+    "NoInterruptions"
+  ],
+  "power_short_helps": [
+    "Propaganda",
+    "Telepathists",
+    "Telepathist",
+    "Script",
+    "Script"
+  ]
+}

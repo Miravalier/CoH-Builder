@@ -1,0 +1,22 @@
+{
+  "name": "PsionicFury",
+  "display_name": "Psionic Fury",
+  "display_fullname": "Awakened.Psionic Fury",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/PSIONICFURY.POWERSETS",
+  "icon": "psionicfury_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.PsionicFury.Psionic_Fury"
+  ],
+  "power_display_names": [
+    "Psionic Fury"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Extreme DMG (Psionic), -End (Foe), -Rec (Foe), -Regen (Foe), -Rech (Foe)"
+  ]
+}

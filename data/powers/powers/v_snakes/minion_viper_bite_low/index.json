@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Viper_Bite_Low",
+  "display_name": "Minion Viper Bite Low",
+  "display_fullname": "V Snakes.Minion Viper Bite Low",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/MINION_VIPER_BITE_LOW.POWERSETS",
+  "icon": "minion_viper_bite_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Minion_Viper_Bite_Low.Bite"
+  ],
+  "power_display_names": [
+    "Bite"
+  ],
+  "power_short_helps": [
+    "Melee Lethal"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Boss_Low",
+  "display_name": "Boss Low",
+  "display_fullname": "V Snakes.Boss Low",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/BOSS_LOW.POWERSETS",
+  "icon": "boss_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Boss_Low.Slice",
+    "V_Snakes.Boss_Low.Venomous_Spray",
+    "V_Snakes.Boss_Low.Brawl"
+  ],
+  "power_display_names": [
+    "Slice",
+    "Venomous Spray",
+    "Poison Bite"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Ranged Lethal",
+    "Melee Lethal/Toxic DoT"
+  ]
+}

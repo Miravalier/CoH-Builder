@@ -1,0 +1,26 @@
+{
+  "name": "Security_Guard_Advanced_SubmachineGun_Boss",
+  "display_name": "",
+  "display_fullname": "V Security Guards.Security Guard Advanced SubmachineGun Boss",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_ADVANCED_SUBMACHINEGUN_BOSS.POWERSETS",
+  "icon": "security_guard_advanced_submachinegun_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_Advanced_SubmachineGun_Boss.Single_Shot",
+    "V_Security_Guards.Security_Guard_Advanced_SubmachineGun_Boss.Spray_Lead"
+  ],
+  "power_display_names": [
+    "Single Shot",
+    "Spray Lead"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, +KB",
+    "-Def"
+  ]
+}

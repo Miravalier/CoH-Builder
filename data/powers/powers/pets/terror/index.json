@@ -1,0 +1,30 @@
+{
+  "name": "Terror",
+  "display_name": "Terror",
+  "display_fullname": "Pets.Terror",
+  "display_help": "Illusion Control",
+  "display_short_help": "Illusion Control",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TERROR.POWERSETS",
+  "icon": "terror_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Terror.Translucency",
+    "Pets.Terror.Cloak_of_Fear",
+    "Pets.Terror.Terrify"
+  ],
+  "power_display_names": [
+    "Translucency",
+    "Cloak of Fear",
+    "Terrify"
+  ],
+  "power_short_helps": [
+    "Intangible",
+    "Fear",
+    "Fear"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Malta_Gyrfalcon_Ally",
+  "gender": "GENDER_MALE",
+  "group_name": "Malta",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 41,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "SkyRaiders_Porter",
+    "character_class_name": "boss_grunt",
+    "description": "Gyrfalcon is the Malta Group's top general and the only known member of the organization's mysterious Council of Leaders. Though Gyrfalcon has an almost legendary disdain for his operatives, when they get killed or captured, he does something about it. That, after all, is what you do.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Malta.Malta_Gunslinger.Vest",
+      "Malta.Malta_Gunslinger.Hollow_Round",
+      "Malta.Malta_Gunslinger.Incendiary_Round",
+      "Malta.Malta_Gunslinger.Liquid_Nitrogen_Round",
+      "Malta.Malta_Gunslinger.Explosive_Tip",
+      "Malta.Malta_Gunslinger.Rapid_Fire",
+      "Malta.Malta_Gunslinger_Boss.Narcotic_Dart",
+      "Malta.Malta_Gunslinger_Boss.Teleport",
+      "Malta.Malta_Falcon.Sap_Shot",
+      "V_Vindicators.Vindicator_Resistances.Resistance"
+    ],
+    "power_display_names": [
+      "Vest",
+      "Hollow Round",
+      "Incendiary Round",
+      "Liquid Nitrogen Round",
+      "Explosive Tip",
+      "Rapid Fire",
+      "Narcotic Dart",
+      "Teleport",
+      "Sap Shot",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Malta",
+        "power_set": "Malta_Gunslinger",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Malta",
+        "power_set": "Malta_Gunslinger_Boss",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Malta",
+        "power_set": "Malta_Falcon",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Vindicator_Resistances",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 41,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Gyrfalcon"
+      ],
+      "costumes": [
+        "Malta_Tac_Team_Gunslinger_05"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Energy_Blaster_VeryLow",
+  "display_name": "Energy_Blaster_VeryLow",
+  "display_fullname": "V GenericHeroes.Energy Blaster VeryLow",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ENERGY_BLASTER_VERYLOW.POWERSETS",
+  "icon": "energy_blaster_verylow_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Energy_Blaster_VeryLow.Power_Bolt",
+    "V_GenericHeroes.Energy_Blaster_VeryLow.Explosive_Blast"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Explosive Blast"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Targeted AoE Smash/Energy, Knockback"
+  ]
+}

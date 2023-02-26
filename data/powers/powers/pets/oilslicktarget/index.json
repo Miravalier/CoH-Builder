@@ -1,0 +1,34 @@
+{
+  "name": "OilSlickTarget",
+  "display_name": "Oil Slick",
+  "display_fullname": "Pets.Oil Slick",
+  "display_help": "Trick Arrow",
+  "display_short_help": "Trick Arrow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/OILSLICKTARGET.POWERSETS",
+  "icon": "oilslicktarget_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.OilSlickTarget.Ignited_Oil",
+    "Pets.OilSlickTarget.Lower_Threat",
+    "Pets.OilSlickTarget.Resistance",
+    "Pets.OilSlickTarget.Stealth"
+  ],
+  "power_display_names": [
+    "Ignited Oil",
+    "Lower Threat",
+    "Resistance",
+    "Stealth"
+  ],
+  "power_short_helps": [
+    "AoE Fire",
+    "Lowers Threat",
+    "Resistance",
+    "Stealth"
+  ]
+}

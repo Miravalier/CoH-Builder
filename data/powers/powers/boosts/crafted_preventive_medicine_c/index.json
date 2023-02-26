@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Preventive_Medicine_C",
+  "display_name": "Crafted Preventive Medicine C",
+  "display_fullname": "Boosts.Crafted Preventive Medicine C",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Preventive Medicine",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_PREVENTIVE_MEDICINE_C.POWERSETS",
+  "icon": "crafted_preventive_medicine_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Preventive_Medicine_C.Crafted_Preventive_Medicine_C"
+  ],
+  "power_display_names": [
+    "Preventive Medicine: Recharge/Endurance"
+  ],
+  "power_short_helps": [
+    "Reduces Endurance Cost and Recharge Time"
+  ]
+}

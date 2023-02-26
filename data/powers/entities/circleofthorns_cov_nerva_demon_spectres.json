@@ -1,0 +1,91 @@
+{
+  "name": "CircleOfThorns_CoV_Nerva_Demon_Spectres",
+  "gender": "GENDER_MALE",
+  "group_name": "CircleOfThorns",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Undead",
+    "Demon"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 40,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "Where go the Circle of Thorns go the legions of Hell. These gibbering monstrosities seem to be waiting for...something.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "CircleOfThorns.Nerva_Spectre.Freezing_Touch",
+      "CircleOfThorns.Nerva_Spectre.Siphon_Life",
+      "CircleOfThorns.Nerva_Spectre.Ice_Bolt",
+      "CircleOfThorns.Circle_Spectres_Defense.Resistance",
+      "CircleOfThorns.Circle_Spectres_Defense.Ethereal",
+      "CircleOfThorns.Circle_Spectres_Defense.Fly"
+    ],
+    "power_display_names": [
+      "Freezing Touch",
+      "Siphon Life",
+      "Ice Bolt",
+      "Resistance",
+      "Ethereal",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Nerva_Spectre",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Spectres_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 40,
+      "experience": 0,
+      "display_names": [
+        "Nerva Spectral Daemon"
+      ],
+      "costumes": [
+        "Nerva_Spectral_Demon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Edict_of_the_Master_B",
+  "display_name": "Attuned Edict of the Master B",
+  "display_fullname": "Boosts.Attuned Edict of the Master B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Edict of the Master",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EDICT_OF_THE_MASTER_B.POWERSETS",
+  "icon": "attuned_edict_of_the_master_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Edict_of_the_Master_B.Attuned_Edict_of_the_Master_B"
+  ],
+  "power_display_names": [
+    "Edict of the Master: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

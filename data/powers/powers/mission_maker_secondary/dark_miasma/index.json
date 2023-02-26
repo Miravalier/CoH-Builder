@@ -1,0 +1,46 @@
+{
+  "name": "Dark_Miasma",
+  "display_name": "Dark Miasma",
+  "display_fullname": "Mission Maker Secondary.Dark Miasma",
+  "display_help": "Focus the dark power of the Netherworld to weaken your foes. Dark Miasma focuses on draining your opponent.",
+  "display_short_help": "Dark Miasma",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/DARK_MIASMA.POWERSETS",
+  "icon": "dark_miasma_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Dark_Miasma.Twilight_Grasp",
+    "Mission_Maker_Secondary.Dark_Miasma.Tar_Patch",
+    "Mission_Maker_Secondary.Dark_Miasma.Darkest_Night",
+    "Mission_Maker_Secondary.Dark_Miasma.Shadow_Fall",
+    "Mission_Maker_Secondary.Dark_Miasma.Fearsome_Stare",
+    "Mission_Maker_Secondary.Dark_Miasma.Petrifying_Gaze",
+    "Mission_Maker_Secondary.Dark_Miasma.Dark_Servant"
+  ],
+  "power_display_names": [
+    "Twilight Grasp",
+    "Tar Patch",
+    "Darkest Night",
+    "Shadow Fall",
+    "Fearsome Stare",
+    "Petrifying Gaze",
+    "Dark Servant"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -To-hit -DMG, Team Heal",
+    "Ranged (Location AoE), Target -Speed, -Res, -Fly",
+    "Toggle: Ranged (Targeted AoE), Foe -DMG -To-hit",
+    "Toggle: PBAoE, Team Stealth, +DEF(All), +Res(Energy, Negative, Psionics, Fear)",
+    "Ranged (Cone), Foe Fear, -To-hit",
+    "Ranged Hold",
+    "Summon Dark Servant: Ranged Debuff Special"
+  ]
+}

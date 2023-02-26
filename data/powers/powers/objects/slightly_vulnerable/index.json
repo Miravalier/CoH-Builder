@@ -1,0 +1,22 @@
+{
+  "name": "Slightly_Vulnerable",
+  "display_name": "Slightly Vulnerable",
+  "display_fullname": "Objects.Slightly Vulnerable",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/SLIGHTLY_VULNERABLE.POWERSETS",
+  "icon": "slightly_vulnerable_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Slightly_Vulnerable.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Inherent"
+  ]
+}

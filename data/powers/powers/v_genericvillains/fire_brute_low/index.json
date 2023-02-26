@@ -1,0 +1,30 @@
+{
+  "name": "Fire_Brute_Low",
+  "display_name": "Fire Brute Low",
+  "display_fullname": "V GenericVillains.Fire Brute Low",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/FIRE_BRUTE_LOW.POWERSETS",
+  "icon": "fire_brute_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Fire_Brute_Low.Consume",
+    "V_GenericVillains.Fire_Brute_Low.Incinerate",
+    "V_GenericVillains.Fire_Brute_Low.Plasma_Shield"
+  ],
+  "power_display_names": [
+    "Consume",
+    "Incinerate",
+    "Plasma Shield"
+  ],
+  "power_short_helps": [
+    "PBAoE Fire Dam, Self +End",
+    "Melee, High DoT(Fire)",
+    "Toggle: Self +Res(Smash, Lethal, Fire, Cold, Energy, Negative, Hold, Sleep))"
+  ]
+}

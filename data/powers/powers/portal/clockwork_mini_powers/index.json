@@ -1,0 +1,30 @@
+{
+  "name": "Clockwork_Mini_Powers",
+  "display_name": "Clockwork_Mini_Powers",
+  "display_fullname": "Portal.Clockwork Mini Powers",
+  "display_help": "Psychic Clockwork",
+  "display_short_help": "Psychic Clockwork",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CLOCKWORK_MINI_POWERS.POWERSETS",
+  "icon": "clockwork_mini_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Clockwork_Mini_Powers.Resistance",
+    "Portal.Clockwork_Mini_Powers.Charged_Brawl",
+    "Portal.Clockwork_Mini_Powers.Mental_Blast"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Charged Brawl",
+    "Mental Blast"
+  ],
+  "power_short_helps": [
+    "Auto Vulnerabilities",
+    "Melee Smash",
+    "-Recharge"
+  ]
+}

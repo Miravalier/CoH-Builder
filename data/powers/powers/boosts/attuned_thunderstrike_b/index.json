@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Thunderstrike_B",
+  "display_name": "Attuned Thunderstrike B",
+  "display_fullname": "Boosts.Attuned Thunderstrike B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Thunderstrike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_THUNDERSTRIKE_B.POWERSETS",
+  "icon": "attuned_thunderstrike_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Thunderstrike_B.Attuned_Thunderstrike_B"
+  ],
+  "power_display_names": [
+    "Thunderstrike: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

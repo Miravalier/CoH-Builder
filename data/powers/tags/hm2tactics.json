@@ -1,0 +1,10 @@
+{
+  "tag": "HM2Tactics",
+  "bears": [
+    [
+      "Challenge Empowerment.Tactics.Tactics",
+      "challenge_empowerment.tactics_hm2.hm_tactics"
+    ]
+  ],
+  "affects": []
+}

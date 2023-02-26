@@ -1,0 +1,42 @@
+{
+  "name": "White_Dwarf",
+  "display_name": "White Dwarf",
+  "display_fullname": "V ParagonPolice.White Dwarf",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/WHITE_DWARF.POWERSETS",
+  "icon": "white_dwarf_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.White_Dwarf.White_Dwarf_Strike",
+    "V_ParagonPolice.White_Dwarf.White_Dwarf_Smite",
+    "V_ParagonPolice.White_Dwarf.White_Dwarf_Flare",
+    "V_ParagonPolice.White_Dwarf.White_Dwarf_Sublimation",
+    "V_ParagonPolice.White_Dwarf.White_Dwarf_Step",
+    "V_ParagonPolice.White_Dwarf.White_Dwarf_Antagonize"
+  ],
+  "power_display_names": [
+    "White Dwarf Strike",
+    "White Dwarf Smite",
+    "White Dwarf Flare",
+    "White Dwarf Sublimation",
+    "White Dwarf Step",
+    "White Dwarf Antagonize"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Disorient, -DEF, -Fly",
+    "-DEF",
+    "Self Heal",
+    "Self Travel",
+    "Taunt"
+  ]
+}

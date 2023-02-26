@@ -1,0 +1,42 @@
+{
+  "name": "Breacher",
+  "display_name": "BWI PEACE Breacher",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Breacher",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/BREACHER.POWERSETS",
+  "icon": "bwi_breacher_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Breacher.Military_Training",
+    "BlackwingIndustries.Breacher.Trip_Mine",
+    "BlackwingIndustries.Breacher.12_Gauge_2",
+    "BlackwingIndustries.Breacher.12_Gauge",
+    "BlackwingIndustries.Breacher.Shotgun_Butt",
+    "BlackwingIndustries.Breacher.Shotgun_Butt_2"
+  ],
+  "power_display_names": [
+    "Military Training",
+    "Trip Mine",
+    "12 Gauge",
+    "12 Gauge",
+    "Shotgun Butt",
+    "Shotgun Butt"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD, +ACC, Res(Slow/Confuse)",
+    "Place Mine: PBAoE, Superior DMG(Lethal/Fire), Foe Knockback",
+    "Ranged (Cone), Moderate DMG(Lethal), Foe Knockback +DoT(Fire)",
+    "Ranged (Cone), Moderate DMG(Lethal), Foe Knockback +DoT(Fire)",
+    "Melee, Moderate DMG(Smashing), Foe Disorient",
+    "Melee, Moderate DMG(Smashing), Foe Disorient"
+  ]
+}

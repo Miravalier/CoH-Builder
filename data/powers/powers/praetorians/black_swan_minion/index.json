@@ -1,0 +1,38 @@
+{
+  "name": "Black_Swan_Minion",
+  "display_name": "Black_Swan_Minion",
+  "display_fullname": "Praetorians.Black Swan Minion",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/BLACK_SWAN_MINION.POWERSETS",
+  "icon": "black_swan_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Black_Swan_Minion.Dark_Blast",
+    "Praetorians.Black_Swan_Minion.Shadow_Punch",
+    "Praetorians.Black_Swan_Minion.Gloom",
+    "Praetorians.Black_Swan_Minion.Shadow_Maul",
+    "Praetorians.Black_Swan_Minion.Resistance"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Shadow Punch",
+    "Gloom",
+    "Shadow Maul",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC",
+    "-ACC",
+    "DoT(Negative) -ACC",
+    "Self Auto, Resistance"
+  ]
+}

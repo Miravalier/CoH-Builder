@@ -1,0 +1,38 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "Family.Resistances",
+  "display_help": "Family",
+  "display_short_help": "Family",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Resistances.Damage_MN",
+    "Family.Resistances.Damage_LT",
+    "Family.Resistances.Damage_BS",
+    "Family.Resistances.Damage_EB",
+    "Family.Resistances.Damage_AV"
+  ],
+  "power_display_names": [
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance"
+  ]
+}

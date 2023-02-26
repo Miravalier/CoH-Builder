@@ -1,0 +1,331 @@
+{
+  "name": "Romans_Romulus_Nictus_HMFinale",
+  "gender": "GENDER_MALE",
+  "group_name": "Romans",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BIGMONSTER",
+    "ai_config": "Romulus_Nictus_Finale",
+    "character_class_name": "boss_challengearchvillain",
+    "description": "Once the right hand man to Imperious, Romulus turned traitor and overthrew Imperious. Now, Romulus sides with the Nictus and other more questionable forces to secure his tyrannical rule over Cimerora.",
+    "group_description": null,
+    "display_class_name": "Emperor",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Romans.Romulus_Nictus_HM_Finale.Energized_Shield",
+      "Romans.Romulus_Nictus_HM_Finale.Phalanx_Fighting",
+      "Romans.Romulus_Nictus_HM_Finale.Push_Back",
+      "Romans.Romulus_Nictus_HM_Finale.Slash",
+      "Romans.Romulus_Nictus_HM_Finale.Slice",
+      "Romans.Romulus_Nictus_HM_Finale.Whirling_Sword",
+      "Romans.Romulus_Nictus_HM_Finale.Hack",
+      "Romans.Romulus_Nictus_HM_Finale.Ebon_Eye",
+      "Romans.Romulus_Nictus_HM_Finale.Dark_Matter_Detonation",
+      "Romans.Romulus_Nictus_HM_Finale.Essence_Drain",
+      "Romans.Romulus_Nictus_HM_Finale.Gravitic_Emanation",
+      "Romans.Romulus_Nictus_HM_Finale.Shout_of_Command",
+      "Romans.Romulus_Nictus_HM_Finale.Nictus_FX_Power",
+      "Romans.Romulus_Nictus_HM_Finale.Blackhole_Bomb_Summon",
+      "Romans.Romulus_Nictus_HM_Finale.Resistance",
+      "Romans.Romulus_Nictus_HM_Finale.Crushing_Gravity",
+      "Romans.Romulus_Nictus_HM_Finale.Romulus_Challenge",
+      "Romans.Romulus_Nictus_HM_Finale.Romulus_Destiny_Barrier",
+      "Romans.Romulus_Nictus_HM_Finale.Romulus_Lore_Cimeroran",
+      "Romans.Romulus_Nictus_HM_Finale.Romulus_Lore_Talons",
+      "Romans.NictusOrb_1.Twilight_Grasp",
+      "Romans.NictusOrb_2.Portal",
+      "Romans.NictusOrb_3.Chill_of_the_Night_Romulus",
+      "Challenge_Empowerment.Assault_HM.HM_Assault"
+    ],
+    "power_display_names": [
+      "Romulus Shield",
+      "Phalanx Fighting",
+      "Push Back",
+      "Slash",
+      "Slice",
+      "Whirling Sword",
+      "Hack",
+      "Ebon Eye",
+      "Dark Detonation",
+      "Essence Drain",
+      "Gravitic Emanation",
+      "Shout of Command",
+      "Nictus FX Power",
+      "Summon Black Hole Bombs",
+      "Resistance",
+      "Crushing Gravity",
+      "Emperor's Challenge",
+      "Barrier Core Epiphany",
+      "Cimeroran Lore Summon",
+      "Talons of Vengeance Lore Summon",
+      "Twilight Grasp",
+      "Portal",
+      "Chill of the Night",
+      "Assault"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Romans",
+        "power_set": "Romulus_Nictus_HM_Finale",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Romans",
+        "power_set": "NictusOrb_1",
+        "power": "Twilight_Grasp",
+        "level": 0
+      },
+      {
+        "power_category": "Romans",
+        "power_set": "NictusOrb_2",
+        "power": "Portal",
+        "level": 0
+      },
+      {
+        "power_category": "Romans",
+        "power_set": "NictusOrb_3",
+        "power": "Chill_of_the_Night_Romulus",
+        "level": 0
+      },
+      {
+        "power_category": "Challenge_Empowerment",
+        "power_set": "Assault_HM",
+        "power": "HM_Assault",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [
+    {
+      "min_level": -1,
+      "max_level": -1,
+      "requires": "Challenge?(HardMode0)",
+      "spawn_limit": -1,
+      "spawn_limit_mission": -2,
+      "ignore_combat_mods": true,
+      "ignore_av_to_eb_scaling": true,
+      "rank": "VR_NONE",
+      "ai_config": null,
+      "character_class_name": null,
+      "description": null,
+      "group_description": null,
+      "display_class_name": null,
+      "display_name": null,
+      "costume": null,
+      "reward_scale": -1.0,
+      "additional_rewards": [],
+      "power_full_names": [
+        "Challenge_Empowerment.Tactics_HM1.HM_Tactics"
+      ],
+      "power_display_names": [
+        "Tactics"
+      ],
+      "power_levels": [
+        0
+      ],
+      "is_dynamic": false,
+      "powers": [
+        {
+          "power_category": "Challenge_Empowerment",
+          "power_set": "Tactics_HM1",
+          "power": "HM_Tactics",
+          "level": 0
+        }
+      ],
+      "condition_hash": "1d5a8b12f8ddf18024ccb75f39797517"
+    },
+    {
+      "min_level": -1,
+      "max_level": -1,
+      "requires": "Challenge?(HardMode1)",
+      "spawn_limit": -1,
+      "spawn_limit_mission": -2,
+      "ignore_combat_mods": true,
+      "ignore_av_to_eb_scaling": true,
+      "rank": "VR_NONE",
+      "ai_config": null,
+      "character_class_name": null,
+      "description": null,
+      "group_description": null,
+      "display_class_name": null,
+      "display_name": null,
+      "costume": null,
+      "reward_scale": 2.5,
+      "additional_rewards": [
+        "HardModeAstralMerit2"
+      ],
+      "power_full_names": [
+        "Challenge_Empowerment.Tactics_HM2.HM_Tactics"
+      ],
+      "power_display_names": [
+        "Tactics"
+      ],
+      "power_levels": [
+        0
+      ],
+      "is_dynamic": false,
+      "powers": [
+        {
+          "power_category": "Challenge_Empowerment",
+          "power_set": "Tactics_HM2",
+          "power": "HM_Tactics",
+          "level": 0
+        }
+      ],
+      "condition_hash": "f77e55fbd8b6bfe94d9c921bf72a8e6f"
+    },
+    {
+      "min_level": -1,
+      "max_level": -1,
+      "requires": "Challenge?(HardMode2)",
+      "spawn_limit": -1,
+      "spawn_limit_mission": -2,
+      "ignore_combat_mods": true,
+      "ignore_av_to_eb_scaling": true,
+      "rank": "VR_NONE",
+      "ai_config": null,
+      "character_class_name": null,
+      "description": null,
+      "group_description": null,
+      "display_class_name": null,
+      "display_name": null,
+      "costume": null,
+      "reward_scale": 3.0,
+      "additional_rewards": [
+        "HardModeAstralMerit3"
+      ],
+      "power_full_names": [
+        "Challenge_Empowerment.Tactics_HM3.HM_Tactics"
+      ],
+      "power_display_names": [
+        "Tactics"
+      ],
+      "power_levels": [
+        0
+      ],
+      "is_dynamic": false,
+      "powers": [
+        {
+          "power_category": "Challenge_Empowerment",
+          "power_set": "Tactics_HM3",
+          "power": "HM_Tactics",
+          "level": 0
+        }
+      ],
+      "condition_hash": "488a58436f2919592ec798059e5f5f06"
+    },
+    {
+      "min_level": -1,
+      "max_level": -1,
+      "requires": "Challenge?(HardMode3)",
+      "spawn_limit": -1,
+      "spawn_limit_mission": -2,
+      "ignore_combat_mods": true,
+      "ignore_av_to_eb_scaling": true,
+      "rank": "VR_NONE",
+      "ai_config": null,
+      "character_class_name": null,
+      "description": null,
+      "group_description": null,
+      "display_class_name": null,
+      "display_name": null,
+      "costume": null,
+      "reward_scale": 3.5,
+      "additional_rewards": [
+        "HardModeEmpyreanMerit1"
+      ],
+      "power_full_names": [
+        "Challenge_Empowerment.Tactics_HM4.HM_Tactics",
+        "Temporary_Powers.Temporary_Powers.LevelShift01"
+      ],
+      "power_display_names": [
+        "Tactics",
+        "Level Shift +1"
+      ],
+      "power_levels": [
+        0,
+        0
+      ],
+      "is_dynamic": false,
+      "powers": [
+        {
+          "power_category": "Challenge_Empowerment",
+          "power_set": "Tactics_HM4",
+          "power": "HM_Tactics",
+          "level": 0
+        },
+        {
+          "power_category": "Temporary_Powers",
+          "power_set": "Temporary_Powers",
+          "power": "LevelShift01",
+          "level": 0
+        }
+      ],
+      "condition_hash": "237fc83e24e6fbd65522ccf2835e543c"
+    }
+  ],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Romulus Augustus"
+      ],
+      "costumes": [
+        "Roman_Romulus_Augustus_Nictus_02"
+      ]
+    }
+  ]
+}

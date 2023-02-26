@@ -1,0 +1,38 @@
+{
+  "name": "Ice_Brute",
+  "display_name": "Ice Brute",
+  "display_fullname": "V GenericVillains.Ice Brute",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    1,
+    1,
+    3,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ICE_BRUTE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Ice_Brute.Frozen_Fists",
+    "V_GenericVillains.Ice_Brute.Ice_Sword",
+    "V_GenericVillains.Ice_Brute.Ice_Blast",
+    "V_GenericVillains.Ice_Brute.Frost",
+    "V_GenericVillains.Ice_Brute.Frozen_Armor"
+  ],
+  "power_display_names": [
+    "Frozen Fists",
+    "Ice Sword",
+    "Ice Blast",
+    "Frost",
+    "Frozen Armor"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Melee, Moderate DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Ranged, Moderate DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Close (Cone), Moderate DoT(Cold), Foe -Recharge, -SPD",
+    "Self, +Def(Smash, Lethal), +Res(Cold, Fire, DeBuff DEF)"
+  ]
+}

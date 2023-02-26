@@ -1,0 +1,58 @@
+{
+  "name": "Cyclops",
+  "display_name": "Cyclops",
+  "display_fullname": "Romans.Cyclops",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/CYCLOPS.POWERSETS",
+  "icon": "cyclops_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Cyclops.Jab",
+    "Romans.Cyclops.Punch",
+    "Romans.Cyclops.Hurl",
+    "Romans.Cyclops.Resistance",
+    "Romans.Cyclops.Haymaker",
+    "Romans.Cyclops.Hand_Clap",
+    "Romans.Cyclops.Unyielding",
+    "Romans.Cyclops.Knockout_Blow",
+    "Romans.Cyclops.Foot_Stomp",
+    "Romans.Cyclops.Unstoppable"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Hurl",
+    "Resistance",
+    "Haymaker",
+    "Hand Clap",
+    "Unyielding",
+    "Knockout Blow",
+    "Foot Stomp",
+    "Unstoppable"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "Auto Res Lethal, Smash, Fire, Cold, Energy, Negative Energy, Toxic, Radiation",
+    "Melee Smash, Knockback",
+    "Disorient",
+    "Toggle: Self +Res(Knockback, Sleep, Disorient, Hold, Immobilize, Fire, Cold, Energy, Negative), Self -DEF",
+    "Hold",
+    "PBAoE Melee, Moderate DMG(Smash), Knockback",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG but Psionics)"
+  ]
+}

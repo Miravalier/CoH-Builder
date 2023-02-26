@@ -1,0 +1,30 @@
+{
+  "name": "Rikti_Defender",
+  "display_name": "Rikti_Defender",
+  "display_fullname": "Rikti.Rikti Defender",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_DEFENDER.POWERSETS",
+  "icon": "rikti_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Defender.Radiation_Emission",
+    "Rikti.Rikti_Defender.Accelerate_Metabolism",
+    "Rikti.Rikti_Defender.Protection_Shield"
+  ],
+  "power_display_names": [
+    "Radiation Emission",
+    "Accelerate Metabolism",
+    "Protection Shield"
+  ],
+  "power_short_helps": [
+    "Team AoE Ally +Heal",
+    "Team AoE +Speed, +Recharge, +Recovery, +Dam +Res(Effects)",
+    "Ally +DEF(Smash, Lethal, Fire, Cold, Energy, Negative)"
+  ]
+}

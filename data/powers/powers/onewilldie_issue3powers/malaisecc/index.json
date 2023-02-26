@@ -1,0 +1,22 @@
+{
+  "name": "MalaiseCC",
+  "display_name": "MalaiseCC",
+  "display_fullname": "OneWillDie Issue3Powers.MalaiseCC",
+  "display_help": "Malaise",
+  "display_short_help": "Malaise",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE3POWERS/MALAISECC.POWERSETS",
+  "icon": "malaisecc_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue3Powers.MalaiseCC.Reveal"
+  ],
+  "power_display_names": [
+    "Reveal"
+  ],
+  "power_short_helps": [
+    "Illusion"
+  ]
+}

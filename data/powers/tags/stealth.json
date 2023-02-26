@@ -1,0 +1,38 @@
+{
+  "tag": "Stealth",
+  "bears": [
+    [
+      "Boosts.Attuned Celerity C.Stealth",
+      "boosts.attuned_celerity_c.attuned_celerity_c"
+    ],
+    [
+      "Boosts.Attuned Freebird C.Stealth",
+      "boosts.attuned_freebird_c.attuned_freebird_c"
+    ],
+    [
+      "Boosts.Attuned TimeSpace Manipulation C.Stealth",
+      "boosts.attuned_timespace_manipulation_c.attuned_timespace_manipulation_c"
+    ],
+    [
+      "Boosts.Attuned Unbounded Leap C.Stealth",
+      "boosts.attuned_unbounded_leap_c.attuned_unbounded_leap_c"
+    ],
+    [
+      "Boosts.Crafted Celerity C.Stealth",
+      "boosts.crafted_celerity_c.crafted_celerity_c"
+    ],
+    [
+      "Boosts.Crafted Freebird C.Stealth",
+      "boosts.crafted_freebird_c.crafted_freebird_c"
+    ],
+    [
+      "Boosts.Crafted TimeSpace Manipulation C.Stealth",
+      "boosts.crafted_timespace_manipulation_c.crafted_timespace_manipulation_c"
+    ],
+    [
+      "Boosts.Crafted Unbounded Leap C.Stealth",
+      "boosts.crafted_unbounded_leap_c.crafted_unbounded_leap_c"
+    ]
+  ],
+  "affects": []
+}

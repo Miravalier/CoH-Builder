@@ -1,0 +1,22 @@
+{
+  "name": "Greater_Halloween_Aspect",
+  "display_name": "Greater Halloween Aspect",
+  "display_fullname": "Event.Greater Halloween Aspect",
+  "display_help": "Halloween",
+  "display_short_help": "Halloween",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/GREATER_HALLOWEEN_ASPECT.POWERSETS",
+  "icon": "zombie_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Greater_Halloween_Aspect.Resistance"
+  ],
+  "power_display_names": [
+    "Hollow Aspect"
+  ],
+  "power_short_helps": [
+    "Auto Self: +Res(DMG/Mez), +HP"
+  ]
+}

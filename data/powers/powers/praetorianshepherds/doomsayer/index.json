@@ -1,0 +1,34 @@
+{
+  "name": "Doomsayer",
+  "display_name": "Doomsayer",
+  "display_fullname": "PraetorianShepherds.Doomsayer",
+  "display_help": "Praetorian Shepherds Attacks",
+  "display_short_help": "Praetorian Shepherds Attacks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANSHEPHERDS/DOOMSAYER.POWERSETS",
+  "icon": "doomsayer_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianShepherds.Doomsayer.Dark_Destiny",
+    "PraetorianShepherds.Doomsayer.Night_Fall",
+    "PraetorianShepherds.Doomsayer.Gloom",
+    "PraetorianShepherds.Doomsayer.Blackwand"
+  ],
+  "power_display_names": [
+    "Dark Destiny",
+    "Night Fall",
+    "Gloom",
+    "Blackwand"
+  ],
+  "power_short_helps": [
+    "Suicide Special",
+    "Ranged (Cone), Moderate DMG(Negative), Foe -To Hit",
+    "Ranged, High DoT(Negative), Foe -To Hit",
+    "Ranged, High DMG(Negative)"
+  ]
+}

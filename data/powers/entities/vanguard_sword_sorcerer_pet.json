@@ -1,0 +1,100 @@
+{
+  "name": "Vanguard_Sword_Sorcerer_Pet",
+  "gender": "GENDER_MALE",
+  "group_name": "Vanguard_Sword",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Vanguard is a group backed by the United Nations, and headed up by Lady Grey. Their soldiers are specifically outfitted in Impervium armor and with high-tech as well as magical weaponry to fight the Rikti. Everything they do is centered around containing the Rikti menace on our world.",
+    "group_description": "Vanguard Sword",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Vanguard.Staff_of_the_MAGI.Life_Drain",
+      "Vanguard.Staff_of_the_MAGI.Freezing_Sphere",
+      "Vanguard.Staff_of_the_MAGI.Ice_Blast",
+      "Vanguard.Staff_of_the_MAGI.Ball_Lightning",
+      "Vanguard.Staff_of_the_MAGI.Defense_Aura",
+      "Vanguard.Tactics.Tactics",
+      "Vanguard.Heavy_Armor.Impervium_Armor"
+    ],
+    "power_display_names": [
+      "Life Drain",
+      "Freezing Sphere",
+      "Ice Blast",
+      "Ball Lightning",
+      "Defense Aura",
+      "Tactics",
+      "Impervium Armor"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Vanguard",
+        "power_set": "Staff_of_the_MAGI",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Vanguard",
+        "power_set": "Tactics",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Vanguard",
+        "power_set": "Heavy_Armor",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Vanguard Sorcerer"
+      ],
+      "costumes": [
+        "Vanguard_Sword_Male_Boss_02"
+      ]
+    }
+  ]
+}

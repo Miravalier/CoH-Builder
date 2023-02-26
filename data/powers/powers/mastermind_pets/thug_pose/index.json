@@ -1,0 +1,26 @@
+{
+  "name": "Thug_Pose",
+  "display_name": "Thug Posse",
+  "display_fullname": "Mastermind Pets.Thug Posse",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_POSE.POWERSETS",
+  "icon": "thug_pose_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Pose.Resistance",
+    "Mastermind_Pets.Thug_Pose.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Auto Res(Lethal)",
+    "Self Destruct"
+  ]
+}

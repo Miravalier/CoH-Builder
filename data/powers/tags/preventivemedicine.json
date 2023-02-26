@@ -1,0 +1,15 @@
+{
+  "tag": "PreventiveMedicine",
+  "bears": [
+    [
+      "Set Bonus.Set Bonus.Preventive Medicine",
+      "set_bonus.set_bonus.preventive_medicine"
+    ]
+  ],
+  "affects": [
+    [
+      "Set Bonus.Set Bonus.Preventive Medicine",
+      "set_bonus.set_bonus.preventive_medicine_proc"
+    ]
+  ]
+}

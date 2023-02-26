@@ -1,0 +1,30 @@
+{
+  "name": "High_Explosives",
+  "display_name": "High Explosives",
+  "display_fullname": "Pets.High Explosives",
+  "display_help": "Devices",
+  "display_short_help": "Devices",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/HIGH_EXPLOSIVES.POWERSETS",
+  "icon": "high_explosives_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.High_Explosives.High_Explosives",
+    "Pets.High_Explosives.Self_Destruct",
+    "Pets.High_Explosives.Resistance"
+  ],
+  "power_display_names": [
+    "High Explosives",
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "AoE Lethal/Fire, Knockback",
+    "Self Destruct",
+    "Resistance"
+  ]
+}

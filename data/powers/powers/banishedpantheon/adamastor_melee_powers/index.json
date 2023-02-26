@@ -1,0 +1,22 @@
+{
+  "name": "Adamastor_Melee_Powers",
+  "display_name": "Adamastor_Melee_Powers",
+  "display_fullname": "BanishedPantheon.Adamastor Melee Powers",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/ADAMASTOR_MELEE_POWERS.POWERSETS",
+  "icon": "adamastor_melee_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Adamastor_Melee_Powers.Foot_Stomp"
+  ],
+  "power_display_names": [
+    "Foot Stomp"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

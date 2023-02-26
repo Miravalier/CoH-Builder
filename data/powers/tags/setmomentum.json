@@ -1,0 +1,66 @@
+{
+  "tag": "SetMomentum",
+  "bears": [
+    [
+      "Pets.Titan Weapons Tanker.Arc of Destruction",
+      "pets.titan_weapons_tanker.arc_of_destruction_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Crushing Blow",
+      "pets.titan_weapons_tanker.crushing_blow_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Defensive Sweep",
+      "pets.titan_weapons_tanker.defensive_sweep_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Rend Armor",
+      "pets.titan_weapons_tanker.shatter_armor_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Titan Sweep",
+      "pets.titan_weapons_tanker.sweeping_strike_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Arc of Destruction",
+      "pets.titan_weapons.arc_of_destruction_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Crushing Blow",
+      "pets.titan_weapons.crushing_blow_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Defensive Sweep",
+      "pets.titan_weapons.defensive_sweep_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Rend Armor",
+      "pets.titan_weapons.shatter_armor_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Titan Sweep",
+      "pets.titan_weapons.sweeping_strike_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Arc of Destruction",
+      "villain_pets.titan_weapons_brute.arc_of_destruction_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Crushing Blow",
+      "villain_pets.titan_weapons_brute.crushing_blow_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Defensive Sweep",
+      "villain_pets.titan_weapons_brute.defensive_sweep_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Rend Armor",
+      "villain_pets.titan_weapons_brute.shatter_armor_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Titan Sweep",
+      "villain_pets.titan_weapons_brute.sweeping_strike_slow"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Fire_Blast",
+  "display_name": "Fire Blast",
+  "display_fullname": "Blaster Ranged.Fire Blast",
+  "display_help": "Fire Blast allows you to blast fire at foes, with a tendency to set them ablaze for added damage over time.",
+  "display_short_help": "Fire Blast",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BLASTER_RANGED/FIRE_BLAST.POWERSETS",
+  "icon": "fire_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "Blaster_Ranged.Fire_Blast.Flares",
+    "Blaster_Ranged.Fire_Blast.Fire_Blast",
+    "Blaster_Ranged.Fire_Blast.Fire_Ball",
+    "Blaster_Ranged.Fire_Blast.Rain_of_Fire",
+    "Blaster_Ranged.Fire_Blast.Fire_Breath",
+    "Blaster_Ranged.Fire_Blast.Aim",
+    "Blaster_Ranged.Fire_Blast.Blaze",
+    "Blaster_Ranged.Fire_Blast.Blazing_Bolt",
+    "Blaster_Ranged.Fire_Blast.Inferno"
+  ],
+  "power_display_names": [
+    "Flares",
+    "Fire Blast",
+    "Fire Ball",
+    "Rain of Fire",
+    "Fire Breath",
+    "Aim",
+    "Blaze",
+    "Blazing Bolt",
+    "Inferno"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Fire)",
+    "Ranged, Light DMG(Fire)",
+    "Ranged (Targeted AoE), Light DMG(Fire/Smash)",
+    "Ranged (Location AoE), Minor DoT(Fire), -SPD",
+    "Close (Cone), Moderate DoT(Fire)",
+    "Self +To Hit, +DMG",
+    "Ranged, Superior DMG(Fire)",
+    "Sniper, Superior DMG(Fire), Self +Range",
+    "PBAoE, Extreme DMG(Fire/Smash), Foe Moderate DoT(Fire)"
+  ]
+}

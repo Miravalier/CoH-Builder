@@ -1,0 +1,30 @@
+{
+  "name": "Carnival_Dark_Ring_Mistress",
+  "display_name": "Carnival_Dark_Ring_Mistress",
+  "display_fullname": "Carnival.Carnival Dark Ring Mistress",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_DARK_RING_MISTRESS.POWERSETS",
+  "icon": "carnival_dark_ring_mistress_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Dark_Ring_Mistress.Petrify",
+    "Carnival.Carnival_Dark_Ring_Mistress.Twilight_Grasp",
+    "Carnival.Carnival_Dark_Ring_Mistress.Darkest_Night"
+  ],
+  "power_display_names": [
+    "Petrify",
+    "Twilight Grasp",
+    "Darkest Night"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "-ACC, -DMG",
+    "-DMG, -ACC"
+  ]
+}

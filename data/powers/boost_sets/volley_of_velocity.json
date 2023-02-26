@@ -1,0 +1,279 @@
+{
+  "name": "Volley_of_Velocity",
+  "display_name": "Volley of Velocity",
+  "group_name": "Knockback",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Knockback"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Volley_of_Velocity_A.Crafted_Volley_of_Velocity_A",
+      "Boosts.Attuned_Volley_of_Velocity_A.Attuned_Volley_of_Velocity_A"
+    ],
+    [
+      "Boosts.Crafted_Volley_of_Velocity_B.Crafted_Volley_of_Velocity_B",
+      "Boosts.Attuned_Volley_of_Velocity_B.Attuned_Volley_of_Velocity_B"
+    ],
+    [
+      "Boosts.Crafted_Volley_of_Velocity_C.Crafted_Volley_of_Velocity_C",
+      "Boosts.Attuned_Volley_of_Velocity_C.Attuned_Volley_of_Velocity_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 20,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_2",
+          "Small Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_2",
+          "Small Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_volleyofvelocity.png",
+      "e_icon_volleyofvelocity.png",
+      "e_icon_volleyofvelocity.png",
+      "e_icon_volleyofvelocity.png",
+      "e_icon_volleyofvelocity.png",
+      "e_icon_volleyofvelocity.png"
+    ],
+    "boosts": [
+      [
+        "Volley of Velocity: Damage/Knockback",
+        "Attuned Volley of Velocity: Damage/Knockback"
+      ],
+      [
+        "Volley of Velocity: Accuracy/Knockback",
+        "Attuned Volley of Velocity: Accuracy/Knockback"
+      ],
+      [
+        "Volley of Velocity: Knockback/Recharge",
+        "Attuned Volley of Velocity: Knockback/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_volley_of_velocity_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_volley_of_velocity_a.attuned_volley_of_velocity_a",
+          "Volley of Velocity: Knockback/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Volley of Velocity: Damage/Knockback",
+        "aspects": [
+          "Damage",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_of_velocity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_volleyofvelocity.png"
+      },
+      "attuned_volley_of_velocity_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Volley of Velocity: Damage/Knockback",
+        "aspects": [
+          "Damage",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_of_velocity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_volleyofvelocity.png"
+      },
+      "crafted_volley_of_velocity_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_volley_of_velocity_b.attuned_volley_of_velocity_b",
+          "Volley of Velocity: Knockback/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Volley of Velocity: Accuracy/Knockback",
+        "aspects": [
+          "Accuracy",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_of_velocity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_volleyofvelocity.png"
+      },
+      "attuned_volley_of_velocity_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Volley of Velocity: Accuracy/Knockback",
+        "aspects": [
+          "Accuracy",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_of_velocity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_volleyofvelocity.png"
+      },
+      "crafted_volley_of_velocity_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_volley_of_velocity_c.attuned_volley_of_velocity_c",
+          "Volley of Velocity: Knockback/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Volley of Velocity: Knockback/Recharge",
+        "aspects": [
+          "Knockback",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_of_velocity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_volleyofvelocity.png"
+      },
+      "attuned_volley_of_velocity_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Volley of Velocity: Knockback/Recharge",
+        "aspects": [
+          "Knockback",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_of_velocity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_volleyofvelocity.png"
+      }
+    }
+  }
+}

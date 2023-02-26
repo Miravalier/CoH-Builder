@@ -1,0 +1,22 @@
+{
+  "name": "Spines_Stalker_Max",
+  "display_name": "Spines Stalker Max",
+  "display_fullname": "V GenericVillains.Spines Stalker Max",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/SPINES_STALKER_MAX.POWERSETS",
+  "icon": "spines_stalker_max_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Spines_Stalker_Max.Revive"
+  ],
+  "power_display_names": [
+    "Revive"
+  ],
+  "power_short_helps": [
+    "Self Rez"
+  ]
+}

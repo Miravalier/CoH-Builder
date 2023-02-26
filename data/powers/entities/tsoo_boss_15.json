@@ -1,0 +1,103 @@
+{
+  "name": "Tsoo_Boss_15",
+  "gender": "GENDER_MALE",
+  "group_name": "Tsoo",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 26,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Tsoo_Minion",
+    "character_class_name": "boss_grunt",
+    "description": "Masters of the Crescent style have learned to tap into the very power of the universe itself and focus it through their own bodies. This power enhances their strength and allows them to alter reality around their foes.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Tsoo.Crescent.Crush",
+      "Tsoo.Crescent.Gravity_Distortion",
+      "Tsoo.Crescent.Propel",
+      "Tsoo.Crescent.Eagles_Claw",
+      "Tsoo.Crescent.Cobra_Strike",
+      "Tsoo.Crescent.Crane_Kick",
+      "Tsoo.Tsoo_Movement.Super_Leap",
+      "Tsoo.Tsoo_InkMen_Boss_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Crush",
+      "Gravity Distortion",
+      "Propel",
+      "Eagles Claw",
+      "Cobra Strike",
+      "Crane Kick",
+      "Super Leap",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Tsoo",
+        "power_set": "Crescent",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Tsoo",
+        "power_set": "Tsoo_Movement",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Tsoo",
+        "power_set": "Tsoo_InkMen_Boss_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 26,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Crescent"
+      ],
+      "costumes": [
+        "Tsoo_15"
+      ]
+    }
+  ]
+}

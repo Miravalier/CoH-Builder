@@ -1,0 +1,34 @@
+{
+  "name": "Trooper_LT_Missile",
+  "display_name": "Trooper LT Missile",
+  "display_fullname": "PraetorianIDF.Trooper LT Missile",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0,
+    31,
+    39
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/TROOPER_LT_MISSILE.POWERSETS",
+  "icon": "trooper_lt_missile_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Trooper_LT_Missile.Missile_Volley",
+    "PraetorianIDF.Trooper_LT_Missile.Missile_Barrage",
+    "PraetorianIDF.Trooper_LT_Missile.Nerve_Gas_Rockets",
+    "PraetorianIDF.Trooper_LT_Missile.EMP_Rockets"
+  ],
+  "power_display_names": [
+    "Missile Volley",
+    "Missile Barrage",
+    "Nerve Gas Rockets",
+    "EMP Rockets"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Lethal/Fire), Foe Minor DoT(Toxic), Knockdown",
+    "Ranged (Targeted AoE), High DMG(Lethal/Fire), Foe Minor DoT(Toxic), Knockdown",
+    "Ranged (Targeted AoE), Minor DMG(Lethal/Fire), Foe Hold, Moderate DoT(Toxic)",
+    "Ranged (Targeted AoE), Light DMG(Lethal/Fire), Foe -Regen, -Recovery, -Endurance"
+  ]
+}

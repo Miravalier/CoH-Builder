@@ -1,0 +1,22 @@
+{
+  "name": "Phoenix",
+  "display_name": "Phoenix",
+  "display_fullname": "Pets.Phoenix",
+  "display_help": "Phoenix",
+  "display_short_help": "Phoenix",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/PHOENIX.POWERSETS",
+  "icon": "phoenix_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Phoenix.Phoenix"
+  ],
+  "power_display_names": [
+    "Phoenix"
+  ],
+  "power_short_helps": [
+    "Phoenix"
+  ]
+}

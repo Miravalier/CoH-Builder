@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Basilisks_Gaze_C",
+  "display_name": "Attuned Basilisks Gaze C",
+  "display_fullname": "Boosts.Attuned Basilisks Gaze C",
+  "display_help": "Reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}% and hold duration of a power by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Basilisk's Gaze",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BASILISKS_GAZE_C.POWERSETS",
+  "icon": "attuned_basilisks_gaze_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Basilisks_Gaze_C.Attuned_Basilisks_Gaze_C"
+  ],
+  "power_display_names": [
+    "Basilisk's Gaze: Recharge/Hold"
+  ],
+  "power_short_helps": [
+    "+Rech, +Hold"
+  ]
+}

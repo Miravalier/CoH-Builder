@@ -1,0 +1,22 @@
+{
+  "name": "Particle_Burst_Pet",
+  "display_name": "Particle Burst Pet",
+  "display_fullname": "PraetorianClockwork.Particle Burst Pet",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANCLOCKWORK/PARTICLE_BURST_PET.POWERSETS",
+  "icon": "particle_burst_pet_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianClockwork.Particle_Burst_Pet.Particle_Burst"
+  ],
+  "power_display_names": [
+    "Particle Burst"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Moderate DMG(Energy), Foe Minor DoT(Energy)"
+  ]
+}

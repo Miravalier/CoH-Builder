@@ -1,0 +1,26 @@
+{
+  "name": "Blaster_Psychic_Snipe",
+  "display_name": "Psychic Blast",
+  "display_fullname": "Pets.Psychic Blast",
+  "display_help": "Psychic Blast",
+  "display_short_help": "Psychic Blast",
+  "available_level": [
+    11,
+    11
+  ],
+  "source_file": "DEFS/POWERS/PETS/BLASTER_PSYCHIC_SNIPE.POWERSETS",
+  "icon": "blaster_psychic_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Blaster_Psychic_Snipe.Psionic_Lance_Normal",
+    "Pets.Blaster_Psychic_Snipe.Psionic_Lance_Quick"
+  ],
+  "power_display_names": [
+    "Psionic Lance",
+    "Psionic Lance"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Psionic), Target -Recharge",
+    "Sniper, High DMG(Psionic), Target -Recharge"
+  ]
+}

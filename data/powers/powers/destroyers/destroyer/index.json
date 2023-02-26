@@ -1,0 +1,38 @@
+{
+  "name": "Destroyer",
+  "display_name": "",
+  "display_fullname": "Destroyers.Destroyer",
+  "display_help": "Destroyers",
+  "display_short_help": "Destroyers",
+  "available_level": [
+    0,
+    9,
+    4,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DESTROYERS/DESTROYER.POWERSETS",
+  "icon": "destroyer_set.png",
+  "requires": "",
+  "power_names": [
+    "Destroyers.Destroyer.Punch",
+    "Destroyers.Destroyer.Haymaker",
+    "Destroyers.Destroyer.Foot_Stomp",
+    "Destroyers.Destroyer.Hurl_Boulder",
+    "Destroyers.Destroyer.Invincible"
+  ],
+  "power_display_names": [
+    "Punch",
+    "Haymaker",
+    "Foot Stomp",
+    "Hurl Boulder",
+    "Invincible"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "PBAoE, Moderate DMG(Smash), Knockback",
+    "Ranged Smash, Knockback",
+    "Click: Self +DEF, Res(Effects)"
+  ]
+}

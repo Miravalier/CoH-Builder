@@ -1,0 +1,26 @@
+{
+  "name": "NeoShivan_Minion",
+  "display_name": "Shivan Minion Lt",
+  "display_fullname": "V Shivan.Shivan Minion Lt",
+  "display_help": "Shivan",
+  "display_short_help": "Shivan",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SHIVAN/NEOSHIVAN_MINION.POWERSETS",
+  "icon": "neoshivan_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Shivan.NeoShivan_Minion.Contaminated_Strike",
+    "V_Shivan.NeoShivan_Minion.Chest_Cannon"
+  ],
+  "power_display_names": [
+    "Contaminated Strike",
+    "Chest Cannon"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal/Energy), Foe -DEF, Knockback",
+    "Ranged, Minor DMG(Energy), Foe -DEF"
+  ]
+}

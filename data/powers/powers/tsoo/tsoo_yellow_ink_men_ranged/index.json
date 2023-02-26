@@ -1,0 +1,26 @@
+{
+  "name": "Tsoo_Yellow_Ink_Men_Ranged",
+  "display_name": "Tsoo_Yellow_Ink_Men_Ranged",
+  "display_fullname": "Tsoo.Tsoo Yellow Ink Men Ranged",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/TSOO_YELLOW_INK_MEN_RANGED.POWERSETS",
+  "icon": "tsoo_yellow_ink_men_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Tsoo_Yellow_Ink_Men_Ranged.Mesmerize",
+    "Tsoo.Tsoo_Yellow_Ink_Men_Ranged.Dominate"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Dominate"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Hold"
+  ]
+}

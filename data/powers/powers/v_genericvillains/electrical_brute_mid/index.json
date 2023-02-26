@@ -1,0 +1,26 @@
+{
+  "name": "Electrical_Brute_Mid",
+  "display_name": "Electrical Brute Mid",
+  "display_fullname": "V GenericVillains.Electrical Brute Mid",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ELECTRICAL_BRUTE_MID.POWERSETS",
+  "icon": "electrical_brute_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Electrical_Brute_Mid.Lightning_Clap",
+    "V_GenericVillains.Electrical_Brute_Mid.Power_Surge"
+  ],
+  "power_display_names": [
+    "Lightning Clap",
+    "Power Surge"
+  ],
+  "power_short_helps": [
+    "PBAoE, Foe Disorient, Knockback",
+    "Self, +Res(Special)"
+  ]
+}

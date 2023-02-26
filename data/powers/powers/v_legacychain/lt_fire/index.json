@@ -1,0 +1,22 @@
+{
+  "name": "Lt_Fire",
+  "display_name": "Lt Fire",
+  "display_fullname": "V LegacyChain.Lt Fire",
+  "display_help": "Legacy of Flame",
+  "display_short_help": "Legacy of Flame",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/LT_FIRE.POWERSETS",
+  "icon": "lt_fire_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Lt_Fire.Ring_of_Fire"
+  ],
+  "power_display_names": [
+    "Ring of Fire"
+  ],
+  "power_short_helps": [
+    "Immobilize, DoT(Fire)"
+  ]
+}

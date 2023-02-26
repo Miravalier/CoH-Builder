@@ -1,0 +1,34 @@
+{
+  "name": "Fifth_Column_Minion_Soldier_Heavy",
+  "display_name": "Fifth_Column_Minion_Soldier_Heavy",
+  "display_fullname": "5thColumn.Fifth Column Minion Soldier Heavy",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_MINION_SOLDIER_HEAVY.POWERSETS",
+  "icon": "fifth_column_minion_soldier_heavy_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Minion_Soldier_Heavy.Missile_Launcher",
+    "5thColumn.Fifth_Column_Minion_Soldier_Heavy.Flamethrower",
+    "5thColumn.Fifth_Column_Minion_Soldier_Heavy.Chain_Gun",
+    "5thColumn.Fifth_Column_Minion_Soldier_Heavy.Grenade_Launcher"
+  ],
+  "power_display_names": [
+    "Missile Launcher",
+    "Flamethrower",
+    "Chain Gun",
+    "Grenade Launcher"
+  ],
+  "power_short_helps": [
+    "Ranged Fire/Lethal, +KB",
+    "Moderate DoT(Fire)",
+    "Heavy DoT(Lethal)",
+    "Targeted AoE Fire/Lethal, Knockback"
+  ]
+}

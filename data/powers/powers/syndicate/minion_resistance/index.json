@@ -1,0 +1,26 @@
+{
+  "name": "Minion_Resistance",
+  "display_name": "Minion_Resistance",
+  "display_fullname": "Syndicate.Minion Resistance",
+  "display_help": "Syndicate",
+  "display_short_help": "Syndicate",
+  "available_level": [
+    0,
+    10
+  ],
+  "source_file": "DEFS/POWERS/SYNDICATE/MINION_RESISTANCE.POWERSETS",
+  "icon": "minion_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "Syndicate.Minion_Resistance.Resistance_Low",
+    "Syndicate.Minion_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Psi)",
+    "Auto: +Res(Psi)"
+  ]
+}

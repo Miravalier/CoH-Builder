@@ -1,0 +1,34 @@
+{
+  "name": "Rikti_Lt",
+  "display_name": "Rikti Lt",
+  "display_fullname": "Freakshow.Rikti Lt",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/RIKTI_LT.POWERSETS",
+  "icon": "rikti_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Rikti_Lt.Radiation_Emission",
+    "Freakshow.Rikti_Lt.Accelerate_Metabolism",
+    "Freakshow.Rikti_Lt.Protection_Shield",
+    "Freakshow.Rikti_Lt.Rikti_Energy_Bolt"
+  ],
+  "power_display_names": [
+    "Radiation Emission",
+    "Accelerate Metabolism",
+    "Protection Shield",
+    "Rikti Energy Bolt"
+  ],
+  "power_short_helps": [
+    "Team AoE Ally +Heal",
+    "Team AoE +Speed, +Recharge, +Recovery, +Dam +Res(Effects)",
+    "Ally +DEF(Smash, Lethal, Fire, Cold, Energy, Negative)",
+    "Disorient"
+  ]
+}

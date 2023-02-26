@@ -1,0 +1,22 @@
+{
+  "name": "Axis_America_Melee",
+  "display_name": "Fifth_Column_Soldier_Melee",
+  "display_fullname": "Portal.Fifth Column Soldier Melee",
+  "display_help": "Axis America",
+  "display_short_help": "Axis America",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/AXIS_AMERICA_MELEE.POWERSETS",
+  "icon": "axis_america_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Axis_America_Melee.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

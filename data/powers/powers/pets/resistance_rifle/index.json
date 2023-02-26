@@ -1,0 +1,38 @@
+{
+  "name": "Resistance_Rifle",
+  "display_name": "Resistance_Rifle",
+  "display_fullname": "Pets.Resistance Rifle",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    9,
+    9,
+    24,
+    14,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RESISTANCE_RIFLE.POWERSETS",
+  "icon": "resistance_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Resistance_Rifle.Power_Punch",
+    "Pets.Resistance_Rifle.Single_Shot",
+    "Pets.Resistance_Rifle.Heavy_Burst",
+    "Pets.Resistance_Rifle.Covering_Fire",
+    "Pets.Resistance_Rifle.Resistances"
+  ],
+  "power_display_names": [
+    "Power Punch",
+    "Single Shot",
+    "Heavy Burst",
+    "Covering Fire",
+    "Resistances"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash), Chance for Foe Disorient",
+    "Ranged, Light DMG(Lethal), Foe -Def",
+    "Ranged Cone, Moderate DMG(Lethal), Foe -Def",
+    "Ranged, Minor DMG(Lethal), Foe -Recharge, -SPD",
+    "Resistance"
+  ]
+}

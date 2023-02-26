@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Lockdown_E",
+  "display_name": "Attuned Lockdown E",
+  "display_fullname": "Boosts.Attuned Lockdown E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%, reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and increases the hold duration of a power by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Lockdown",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_LOCKDOWN_E.POWERSETS",
+  "icon": "attuned_lockdown_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Lockdown_E.Attuned_Lockdown_E"
+  ],
+  "power_display_names": [
+    "Lockdown: Accuracy/Endurance Reduction/Recharge/Hold"
+  ],
+  "power_short_helps": [
+    "+Acc, -End Cost, +Rech, +Hold"
+  ]
+}

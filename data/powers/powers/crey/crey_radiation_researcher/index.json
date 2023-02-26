@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Radiation_Researcher",
+  "display_name": "Crey_Radiation_Researcher",
+  "display_fullname": "Crey.Crey Radiation Researcher",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_RADIATION_RESEARCHER.POWERSETS",
+  "icon": "crey_radiation_researcher_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Radiation_Researcher.Radiation_Infection"
+  ],
+  "power_display_names": [
+    "Radiation Infection"
+  ],
+  "power_short_helps": [
+    "AoE, -DEF, -ACC"
+  ]
+}

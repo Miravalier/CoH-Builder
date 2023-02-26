@@ -1,0 +1,54 @@
+{
+  "name": "Ice_Melee",
+  "display_name": "Ice Melee",
+  "display_fullname": "Brute Melee.Ice Melee",
+  "display_help": "Ice Melee allows the player to use Cold-based attacks, and even conjure up frozen melee weapons. Ice Melee powers are known for their ability to slow an opponent.",
+  "display_short_help": "Ice Melee",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BRUTE_MELEE/ICE_MELEE.POWERSETS",
+  "icon": "ice_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Brute_Melee.Ice_Melee.Frozen_Fists",
+    "Brute_Melee.Ice_Melee.Ice_Sword",
+    "Brute_Melee.Ice_Melee.Frost",
+    "Brute_Melee.Ice_Melee.Build_Up",
+    "Brute_Melee.Ice_Melee.Ice_Patch",
+    "Brute_Melee.Ice_Melee.Taunt",
+    "Brute_Melee.Ice_Melee.Greater_Ice_Sword",
+    "Brute_Melee.Ice_Melee.Freezing_Touch",
+    "Brute_Melee.Ice_Melee.Frozen_Aura"
+  ],
+  "power_display_names": [
+    "Frozen Fists",
+    "Ice Sword",
+    "Frost",
+    "Build Up",
+    "Ice Patch",
+    "Taunt",
+    "Greater Ice Sword",
+    "Freezing Touch",
+    "Frozen Aura"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Melee, Light DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Close (Cone), Moderate DoT(Cold), Foe -Recharge, -SPD",
+    "Self +DMG, +To Hit",
+    "Location (PBAoE), Foe Knockdown",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Melee, High DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Melee, High DoT(Cold), Foe Hold",
+    "PBAoE, Moderate DMG(Cold), Foe Sleep"
+  ]
+}

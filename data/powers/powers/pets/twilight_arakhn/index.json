@@ -1,0 +1,22 @@
+{
+  "name": "Twilight_Arakhn",
+  "display_name": "Twilight Arakhn",
+  "display_fullname": "Pets.Twilight Arakhn",
+  "display_help": "Dark Miasma",
+  "display_short_help": "Dark Miasma",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TWILIGHT_ARAKHN.POWERSETS",
+  "icon": "twilight_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Twilight_Arakhn.Twilight"
+  ],
+  "power_display_names": [
+    "Gravitic Twilight"
+  ],
+  "power_short_helps": [
+    "Twilight"
+  ]
+}

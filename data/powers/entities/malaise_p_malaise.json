@@ -1,0 +1,132 @@
+{
+  "name": "Malaise_P_Malaise",
+  "gender": "GENDER_MALE",
+  "group_name": "Malaise",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid",
+    "IncarnateBoss"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.Malaise_Malaise",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_praetorianarchvillain",
+    "description": "On Praetorian Earth the villain Malaise was never counseled by Sister Psyche, instead he was one of the 'patients' at one of Mother Mayhem's facilities. With the ability to control his madness and inflict it on others, he quickly rose to a position as her favorite.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "MindsOfMayhem.Malaise.Damage_Resistance",
+      "MindsOfMayhem.Malaise.Spectral_Wounds",
+      "MindsOfMayhem.Malaise.Flash",
+      "MindsOfMayhem.Malaise.Telekinetic_Blast",
+      "MindsOfMayhem.Malaise.Induced_Horror",
+      "MindsOfMayhem.Malaise.Lost_in_Dreams",
+      "MindsOfMayhem.Malaise.Mental_Blast",
+      "MindsOfMayhem.Malaise.Total_Domination",
+      "GenericVillains.Flight.Fly",
+      "GenericVillains.Flight.Fly_FX",
+      "GenericVillains.Marker_Phase.See_Marker_Phase",
+      "GenericVillains.Scaling.HP_15_Dmg_4_Min_8",
+      "GenericVillains.Supervillain_Resistance.Resistance"
+    ],
+    "power_display_names": [
+      "Damage Resistance",
+      "Spectral Wounds",
+      "Flash",
+      "Telekinetic Blast",
+      "Induced Horror",
+      "Lost in Dreams",
+      "Mental Blast",
+      "Total Domination",
+      "Fly",
+      "Fly FX",
+      "See Marker Phase",
+      "Scaling",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "MindsOfMayhem",
+        "power_set": "Malaise",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Flight",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Marker_Phase",
+        "power": "See_Marker_Phase",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_15_Dmg_4_Min_8",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Resistance",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Malaise"
+      ],
+      "costumes": [
+        "MindsOfMayhem_Malaise_Normal"
+      ]
+    }
+  ]
+}

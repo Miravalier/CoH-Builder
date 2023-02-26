@@ -1,0 +1,22 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "Magisterium.Resistances",
+  "display_help": "Dregs",
+  "display_short_help": "Dregs",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Resistances.Damage_MN"
+  ],
+  "power_display_names": [
+    "Damage Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

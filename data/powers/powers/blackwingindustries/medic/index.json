@@ -1,0 +1,46 @@
+{
+  "name": "Medic",
+  "display_name": "BWI PEACE Medic",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Medic",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/MEDIC.POWERSETS",
+  "icon": "bwi_medic_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Medic.Military_Training",
+    "BlackwingIndustries.Medic.Triage_Beacon",
+    "BlackwingIndustries.Medic.Healing_Aura",
+    "BlackwingIndustries.Medic.Heal_Other",
+    "BlackwingIndustries.Medic.Resurrect",
+    "BlackwingIndustries.Medic.Fortitude",
+    "BlackwingIndustries.Medic.Adrenalin_Boost"
+  ],
+  "power_display_names": [
+    "Military Training",
+    "Triage Beacon",
+    "Healing Aura",
+    "Heal Other",
+    "Resurrect",
+    "Fortitude",
+    "Adrenalin Boost"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD, +ACC, Res(Slow/Confuse)",
+    "Place Beacon: PBAoE +Regen",
+    "PBAoE, Team +Heal",
+    "Ally Heal",
+    "Ally Resurrect",
+    "Ally +DEF(All), +DMG, +To Hit",
+    "Ranged, Ally +End, +Regeneration, +Recharge, Res (Slow)"
+  ]
+}

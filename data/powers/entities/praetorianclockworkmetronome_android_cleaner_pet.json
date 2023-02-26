@@ -1,0 +1,112 @@
+{
+  "name": "PraetorianClockworkMetronome_Android_Cleaner_Pet",
+  "gender": "GENDER_MALE",
+  "group_name": "PraetorianClockworkMetronome",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "Cleaners are designed for simple labor intensive tasks like cleaning, welding, and repairing other Clockwork. They have an innocuous appearance, however if threatened they are more than capable of defending themselves. These Clockwork appear to be malfunctioning.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "PraetorianClockwork.Android_Cleaner_Ranged.Plasma_Blast",
+      "PraetorianClockwork.Android_Cleaner_Ranged.Plasma_Blast_2",
+      "PraetorianClockwork.Android_Cleaner_Ranged.Welding_Ray",
+      "PraetorianClockwork.Android_Cleaner_Ranged.Charged_Blast",
+      "PraetorianClockwork.Android_Minion_Regen.Rapid_Repair_Low_Minion",
+      "PraetorianClockwork.Android_Minion_Regen.Rapid_Repair_Mid_Minion",
+      "PraetorianClockwork.Android_Minion_Regen.Rapid_Repair_High_Minion"
+    ],
+    "power_display_names": [
+      "Plasma Blast",
+      "Plasma Blast",
+      "Welding Ray",
+      "Charged Blast",
+      "Fast Repair",
+      "Fast Repair",
+      "Fast Repair"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Cleaner_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Minion_Regen",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Cleaner"
+      ],
+      "costumes": [
+        "Clockwork_Loyalist_Minion_01",
+        "Clockwork_Loyalist_Minion_02",
+        "Clockwork_Loyalist_Minion_03",
+        "Clockwork_Loyalist_Minion_04",
+        "Clockwork_Loyalist_Minion_05",
+        "Clockwork_Loyalist_Minion_06",
+        "Clockwork_Loyalist_Minion_07",
+        "Clockwork_Loyalist_Minion_08",
+        "Clockwork_Loyalist_Minion_09",
+        "Clockwork_Loyalist_Minion_10",
+        "Clockwork_Loyalist_Minion_Dirt_01",
+        "Clockwork_Loyalist_Minion_Dirt_02",
+        "Clockwork_Loyalist_Minion_Dirt_03",
+        "Clockwork_Loyalist_Minion_Dirt_04",
+        "Clockwork_Loyalist_Minion_Dirt_05",
+        "Clockwork_Loyalist_Minion_Dirt_06",
+        "Clockwork_Loyalist_Minion_Dirt_07",
+        "Clockwork_Loyalist_Minion_Dirt_08",
+        "Clockwork_Loyalist_Minion_Dirt_09",
+        "Clockwork_Loyalist_Minion_Dirt_10"
+      ]
+    }
+  ]
+}

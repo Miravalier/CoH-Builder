@@ -1,0 +1,76 @@
+{
+  "name": "5thColumn_Night_Elite_Sniper",
+  "gender": "GENDER_MALE",
+  "group_name": "5thColumn",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_SNIPER",
+    "ai_config": "Default_Sniper",
+    "character_class_name": "lt_sniper",
+    "description": "Those gifted with incredible accuracy are quickly transferred into the Nacht division, where they undergo lengthy treatments to refine their abilities. The Sharpshooters are natural loners and disdain associating with the rank and file. The only praise they seek is the satisfaction of a silent kill.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "5thColumn.Fifth_Column_Soldier_Melee.Brawl",
+      "5thColumn.Fifth_Column_Soldier_Sniper.Sniper_Rifle"
+    ],
+    "power_display_names": [
+      "Brawl",
+      "Sniper Rifle"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Soldier_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Soldier_Sniper",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Nacht Elite Sharpshooter"
+      ],
+      "costumes": [
+        "5thNight_19"
+      ]
+    }
+  ]
+}

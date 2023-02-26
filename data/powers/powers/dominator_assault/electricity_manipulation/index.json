@@ -1,0 +1,54 @@
+{
+  "name": "Electricity_Manipulation",
+  "display_name": "Electricity Assault",
+  "display_fullname": "Dominator Assault.Electricity Assault",
+  "display_help": "Electrical Assault grants you several electrical ranged and melee powers. Electrical powers can drain foes' Endurance and can often temporarily halt their Endurance recovery. This can be quite effective against higher level foes and Bosses. Some Electrical Assault powers can even sometimes transfer this Endurance back to you.",
+  "display_short_help": "Electricity Assault",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/DOMINATOR_ASSAULT/ELECTRICITY_MANIPULATION.POWERSETS",
+  "icon": "electricity_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Dominator_Assault.Electricity_Manipulation.Electric_Fence",
+    "Dominator_Assault.Electricity_Manipulation.Charged_Brawl",
+    "Dominator_Assault.Electricity_Manipulation.Lightning_Field",
+    "Dominator_Assault.Electricity_Manipulation.Havok_Punch",
+    "Dominator_Assault.Electricity_Manipulation.Build_Up",
+    "Dominator_Assault.Electricity_Manipulation.Lightning_Clap",
+    "Dominator_Assault.Electricity_Manipulation.Thunder_Strike",
+    "Dominator_Assault.Electricity_Manipulation.Power_Sink",
+    "Dominator_Assault.Electricity_Manipulation.Shocking_Grasp"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Charged Brawl",
+    "Lightning Bolt",
+    "Havoc Punch",
+    "Build Up",
+    "Zapp",
+    "Static Discharge",
+    "Thunder Strike",
+    "Voltaic Sentinel"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Energy), Foe -End",
+    "Melee, Light DMG(Smash/Energy), Target Sleep, -End",
+    "Ranged, Moderate DMG(Energy), Foe -End",
+    "Melee, High DMG(Smash/Energy), Foe Sleep, -End, Knock Back",
+    "Self +DMG, +To Hit",
+    "Sniper, Extreme DMG(Energy), Foe -End",
+    "Ranged (Cone), Light DMG(Energy), -END",
+    "Melee (AoE), Superior DMG(Smash, Energy), Foe Disorient, Knockback",
+    "Summon Sentinel: Ranged, Moderate DMG(Energy), Foe -End"
+  ]
+}

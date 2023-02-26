@@ -1,0 +1,26 @@
+{
+  "name": "Ghosts_High",
+  "display_name": "Ghosts High",
+  "display_fullname": "V Arachnos.Ghosts High",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/GHOSTS_HIGH.POWERSETS",
+  "icon": "ghosts_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Ghosts_High.Gloom",
+    "V_Arachnos.Ghosts_High.Shadow_Punch"
+  ],
+  "power_display_names": [
+    "Gloom",
+    "Shadow Punch"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC"
+  ]
+}

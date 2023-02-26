@@ -1,0 +1,42 @@
+{
+  "name": "Paladin",
+  "display_name": "Paladin",
+  "display_fullname": "PaladinEvent.Paladin",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PALADINEVENT/PALADIN.POWERSETS",
+  "icon": "paladin_set.png",
+  "requires": "",
+  "power_names": [
+    "PaladinEvent.Paladin.Resistance",
+    "PaladinEvent.Paladin.Lightning_Bolt",
+    "PaladinEvent.Paladin.Tesla_Cage",
+    "PaladinEvent.Paladin.Lightning_Field",
+    "PaladinEvent.Paladin.Ball_Lightning",
+    "PaladinEvent.Paladin.Mace"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Lightning Bolt",
+    "Tesla Cage",
+    "Lightning Field",
+    "Ball Lightning",
+    "Mace"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged Energy, -End",
+    "Sleep - End",
+    "Toggle AoE Energy, -End",
+    "Targeted AoE Energy, -End",
+    "Disorient"
+  ]
+}

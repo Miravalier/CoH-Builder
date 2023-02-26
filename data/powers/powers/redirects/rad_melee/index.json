@@ -1,0 +1,34 @@
+{
+  "name": "Rad_Melee",
+  "display_name": "Rad_Melee",
+  "display_fullname": "Redirects.Rad Melee",
+  "display_help": "Illusion Control",
+  "display_short_help": "Illusion Control",
+  "available_level": [
+    0,
+    1,
+    15,
+    34
+  ],
+  "source_file": "DEFS/POWERS/REDIRECTS/RAD_MELEE.POWERSETS",
+  "icon": "blind_set.png",
+  "requires": "",
+  "power_names": [
+    "Redirects.Rad_Melee.Contaminated_Strike_AoE",
+    "Redirects.Rad_Melee.Radioactive_Smash_AoE",
+    "Redirects.Rad_Melee.Radiation_Siphon_AoE",
+    "Redirects.Rad_Melee.Devastating_Blow_AoE"
+  ],
+  "power_display_names": [
+    "Contaminated Strike",
+    "Radioactive Smash",
+    "Radiation Siphon",
+    "Devastating Blow"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Energy/Smash), Foe -Def, -Res(All), Special",
+    "Melee, Moderate DMG(Energy/Smash), Foe -Def, Knockdown, Special",
+    "Melee, Minor DMG(Energy/Smash), Foe, -Def, -Contaminated, Special",
+    "Melee, Minor DMG(Energy/Smash), Foe -Def, Disorient, Special"
+  ]
+}

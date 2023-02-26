@@ -1,0 +1,42 @@
+{
+  "name": "Malta_Kronos",
+  "display_name": "Malta_Kronos",
+  "display_fullname": "Malta.Malta Kronos",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/MALTA_KRONOS.POWERSETS",
+  "icon": "malta_kronos_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Malta_Kronos.Foot_Stomp",
+    "Malta.Malta_Kronos.Plasma_Blast",
+    "Malta.Malta_Kronos.Swarm_Missile",
+    "Malta.Malta_Kronos.Incendiary_Swarm_Missiles",
+    "Malta.Malta_Kronos.Gas_Swarm_Missiles",
+    "Malta.Malta_Kronos.Quad_Plasma_Blast"
+  ],
+  "power_display_names": [
+    "Foot Stomp",
+    "Plasma Blast",
+    "Swarm Missile",
+    "Incendiary Swarm Missiles",
+    "Gas Swarm Missiles",
+    "Quad Plasma Blast"
+  ],
+  "power_short_helps": [
+    "AoE Smash, Knockback",
+    "-Regeneration",
+    "Ranged AoE Lethal, +KB",
+    "Ranged AoE Lethal, +Burn",
+    "Ranged AoE Lethal, +Hold",
+    "-Regeneration"
+  ]
+}

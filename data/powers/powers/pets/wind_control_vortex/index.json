@@ -1,0 +1,42 @@
+{
+  "name": "Wind_Control_Vortex",
+  "display_name": "Wind Control",
+  "display_fullname": "Pets.Wind Control",
+  "display_help": "Through manipulation of pressure, you are able to channel the force of wind to bind, weaken and crush your opponents.",
+  "display_short_help": "Wind Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/WIND_CONTROL_VORTEX.POWERSETS",
+  "icon": "wind_control_vortex_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Wind_Control_Vortex.Blast_of_Debris",
+    "Pets.Wind_Control_Vortex.Whirlwind",
+    "Pets.Wind_Control_Vortex.Hail_of_Debris",
+    "Pets.Wind_Control_Vortex.Crash_of_Thunder",
+    "Pets.Wind_Control_Vortex.Pressurization",
+    "Pets.Wind_Control_Vortex.Resistance"
+  ],
+  "power_display_names": [
+    "Blast of Debris",
+    "Whirlwind",
+    "Hail of Debris",
+    "Crash of Thunder",
+    "Pressurization",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Smashing), Minor DoT (Lethal), -Fly(Foe), -Jump(Foe)",
+    "PBAoE, Minor DMG (Smashing), -ToHit(Foe), -Fly (Foe)",
+    "Summon",
+    "Ranged (Foe Targeted AoE), Minor DMG(Energy), Chance for Stun (Foe)",
+    "Pressurization",
+    "Resistance"
+  ]
+}

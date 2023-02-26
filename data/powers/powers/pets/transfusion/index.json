@@ -1,0 +1,22 @@
+{
+  "name": "Transfusion",
+  "display_name": "Transfusion",
+  "display_fullname": "Pets.Transfusion",
+  "display_help": "Kinetics",
+  "display_short_help": "Kinetics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TRANSFUSION.POWERSETS",
+  "icon": "transfusion_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Transfusion.Transfusion"
+  ],
+  "power_display_names": [
+    "Transfusion"
+  ],
+  "power_short_helps": [
+    "Transfusion"
+  ]
+}

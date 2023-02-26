@@ -1,0 +1,67 @@
+{
+  "name": "Objects_DD_Repulsion_Controller",
+  "gender": "GENDER_NEUTER",
+  "group_name": "Objects",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "InanimateObject",
+    "character_class_name": "boss_archvillain",
+    "description": "This is one of the many growths found around the area in which the creature Mot began to emerge from the ground. Diabolique has repurposed several of these growths to serve as foci for the magical rituals which have enveloped the area in a massive repulsion field.",
+    "group_description": "Mot",
+    "display_class_name": "Spine",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "DilemmaDiabolique.Repulsion_Field.Impenetrable_Defenses"
+    ],
+    "power_display_names": [
+      "Impenetrable Defenses"
+    ],
+    "power_levels": [
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Repulsion_Field",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Repulsive Spine"
+      ],
+      "costumes": [
+        "DA_Mot_RepulsionSpine"
+      ]
+    }
+  ]
+}

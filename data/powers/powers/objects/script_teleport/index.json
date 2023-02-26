@@ -1,0 +1,22 @@
+{
+  "name": "Script_Teleport",
+  "display_name": "Script Teleport",
+  "display_fullname": "Objects.Script Teleport",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/SCRIPT_TELEPORT.POWERSETS",
+  "icon": "script_teleport_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Script_Teleport.Script_Teleport"
+  ],
+  "power_display_names": [
+    "Script Teleport"
+  ],
+  "power_short_helps": [
+    "Random Teleport"
+  ]
+}

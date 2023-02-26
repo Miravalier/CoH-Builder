@@ -1,0 +1,34 @@
+{
+  "name": "Engineer",
+  "display_name": "Engineer",
+  "display_fullname": "Romans.Engineer",
+  "display_help": "Engineer",
+  "display_short_help": "Engineer",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/ENGINEER.POWERSETS",
+  "icon": "engineer_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Engineer.Phalanx_Fighting",
+    "Romans.Engineer.Energized_Shield",
+    "Romans.Engineer.Push_Back",
+    "Romans.Engineer.Frag_Grenade"
+  ],
+  "power_display_names": [
+    "Roman Armor",
+    "Phalanx Fighting",
+    "Push Back",
+    "Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Auto: Self +DEF(All), Res(DeBuff DEF)",
+    "Toggle: Self +DEF(All), Res(Disorient, Hold, Immobilize, Sleep, Knock, Repel)",
+    "Melee, Extreme DMG(Smash), High Knockback",
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "name": "LegacyChain_Serafina",
+  "gender": "GENDER_FEMALE",
+  "group_name": "LegacyChain",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Serafina is a Genie who assisted the last hero to take up the mantle of Scirocco, helping him until his death in the Rikti War. With his dying breath he asked Serafina to help the heroes of Paragon City, which she does to this day. But now that a villain has stolen the mantle of Scirocco from the true successor, Serafina is determined to see the powers of the wind return.",
+    "group_description": "Legacy Chain",
+    "display_class_name": "Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Vindicators.Vindicator_Resistances.Resistance",
+      "V_LegacyChain.Serafina.Gale",
+      "V_LegacyChain.Serafina.Hurricane",
+      "V_LegacyChain.Serafina.Tornado",
+      "V_LegacyChain.Serafina.Mesmerize",
+      "V_LegacyChain.Serafina.Mass_Hypnosis",
+      "V_LegacyChain.Serafina.Total_Domination",
+      "V_LegacyChain.Serafina.Psychic_Scream",
+      "V_LegacyChain.Serafina.Telekinetic_Blast",
+      "V_LegacyChain.Serafina.Will_Domination",
+      "V_LegacyChain.Serafina.Psionic_Tornado",
+      "V_LegacyChain.Serafina.Psychic_Wail",
+      "V_LegacyChain.Serafina.Resistance",
+      "V_LegacyChain.Serafina.Fly",
+      "V_LegacyChain.Serafina.Fly_fx"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Gale",
+      "Hurricane",
+      "Tornado",
+      "Mesmerize",
+      "Mass Hypnosis",
+      "Total Domination",
+      "Psychic Scream",
+      "Telekinetic Blast",
+      "Will Domination",
+      "Psionic Tornado",
+      "Psychic Wail",
+      "Resistance",
+      "Fly",
+      "Fly fx"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Vindicator_Resistances",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_LegacyChain",
+        "power_set": "Serafina",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Serafina"
+      ],
+      "costumes": [
+        "Model_Serafina_NoRing"
+      ]
+    }
+  ]
+}

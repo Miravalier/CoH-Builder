@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Paralytic_A",
+  "display_name": "Attuned Paralytic A",
+  "display_fullname": "Boosts.Attuned Paralytic A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Paralytic",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_PARALYTIC_A.POWERSETS",
+  "icon": "attuned_paralytic_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Paralytic_A.Attuned_Paralytic_A"
+  ],
+  "power_display_names": [
+    "Paralytic: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

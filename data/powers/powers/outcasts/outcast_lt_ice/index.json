@@ -1,0 +1,30 @@
+{
+  "name": "Outcast_Lt_Ice",
+  "display_name": "Outcast_Lt_Ice",
+  "display_fullname": "Outcasts.Outcast Lt Ice",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_LT_ICE.POWERSETS",
+  "icon": "outcast_lt_ice_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Lt_Ice.Resistance",
+    "Outcasts.Outcast_Lt_Ice.Frozen_Fists",
+    "Outcasts.Outcast_Lt_Ice.Ice_Blast"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Frozen Fists",
+    "Ice Blast"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD"
+  ]
+}

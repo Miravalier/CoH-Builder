@@ -1,0 +1,22 @@
+{
+  "name": "Portal_Stabilizer",
+  "display_name": "Portal Stabilizer",
+  "display_fullname": "Objects.Portal Stabilizer",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/PORTAL_STABILIZER.POWERSETS",
+  "icon": "portal_stabilizer_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Portal_Stabilizer.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Inherent"
+  ]
+}

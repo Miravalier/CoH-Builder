@@ -1,0 +1,26 @@
+{
+  "name": "Wretch_AV_High",
+  "display_name": "Wretch AV High",
+  "display_fullname": "V Arachnos.Wretch AV High",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/WRETCH_AV_HIGH.POWERSETS",
+  "icon": "wretch_av_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Wretch_AV_High.Knockout_Blow",
+    "V_Arachnos.Wretch_AV_High.Unstoppable"
+  ],
+  "power_display_names": [
+    "Knockout Blow",
+    "Unstoppable"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG but Psionics)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Keyes_Island_Terminal",
+  "display_name": "Keyes_Island_Terminal",
+  "display_fullname": "Objects.Keyes Island Terminal",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/KEYES_ISLAND_TERMINAL.POWERSETS",
+  "icon": "keyes_island_terminal_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Keyes_Island_Terminal.Terminal_Setup",
+    "Objects.Keyes_Island_Terminal.Security_Override",
+    "Objects.Keyes_Island_Terminal.Secured_Terminal"
+  ],
+  "power_display_names": [
+    "Terminal Setup",
+    "Security Override",
+    "Secured Terminal"
+  ],
+  "power_short_helps": [
+    "Terminal Setup",
+    "Terminal Security",
+    "Terminal Security"
+  ]
+}

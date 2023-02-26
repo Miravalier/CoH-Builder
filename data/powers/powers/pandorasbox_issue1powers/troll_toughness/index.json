@@ -1,0 +1,22 @@
+{
+  "name": "Troll_Toughness",
+  "display_name": "Troll Toughness",
+  "display_fullname": "PandorasBox Issue1Powers.Troll Toughness",
+  "display_help": "You aren't Invulnerable. Bullets don't bounce off of you, and if you are cut, you bleed. You are, however, tough, grizzled and strong willed. It takes more than a little cut to keep you down! Willpower offers a strong balance of healing, damage resistance and defense. While you have no real vulnerabilities, you can't quite deal with 'alpha strikes' as well as some other protective powers.",
+  "display_short_help": "Willpower",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PANDORASBOX_ISSUE1POWERS/TROLL_TOUGHNESS.POWERSETS",
+  "icon": "troll_toughness_set.png",
+  "requires": "",
+  "power_names": [
+    "PandorasBox_Issue1Powers.Troll_Toughness.High_Pain_Tolerance"
+  ],
+  "power_display_names": [
+    "High Pain Tolerance"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Res (All), +MaxHealth"
+  ]
+}

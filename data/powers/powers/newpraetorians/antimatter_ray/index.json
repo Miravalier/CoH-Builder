@@ -1,0 +1,22 @@
+{
+  "name": "Antimatter_Ray",
+  "display_name": "Antimatter Ray",
+  "display_fullname": "NewPraetorians.Antimatter Ray",
+  "display_help": "Antimatter Ray",
+  "display_short_help": "Antimatter Ray",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEWPRAETORIANS/ANTIMATTER_RAY.POWERSETS",
+  "icon": "antimatter_ray_set.png",
+  "requires": "",
+  "power_names": [
+    "NewPraetorians.Antimatter_Ray.Antimatter_Particles"
+  ],
+  "power_display_names": [
+    "Antimatter Particles"
+  ],
+  "power_short_helps": [
+    "PBAoE, Minor DoT (Energy), -DEF (Foe, All)"
+  ]
+}

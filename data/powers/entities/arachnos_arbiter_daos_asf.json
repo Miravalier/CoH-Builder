@@ -1,0 +1,57 @@
+{
+  "name": "Arachnos_Arbiter_Daos_ASF",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Arbiter Daos is perhaps the most humorless man to ever walk the Rogue Isles. A devout servant of Arachnos, Daos is not loathe to take advantage of the impunity his position provides him. He often investigates groups and activities that, strictly speaking, lie outside his purview, but he does so in the knowledge that, whatever his reasons, Arachnos will stand beside him.",
+    "group_description": null,
+    "display_class_name": "Arbiter",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [],
+    "power_display_names": [],
+    "power_levels": [],
+    "is_dynamic": false,
+    "powers": [],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Arbiter Daos"
+      ],
+      "costumes": [
+        "Arbiter_Daos_NoRing"
+      ]
+    }
+  ]
+}

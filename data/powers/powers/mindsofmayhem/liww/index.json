@@ -1,0 +1,42 @@
+{
+  "name": "LIWW",
+  "display_name": "LIWW",
+  "display_fullname": "MindsOfMayhem.LIWW",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/LIWW.POWERSETS",
+  "icon": "liww_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.LIWW.Particle_Lance",
+    "MindsOfMayhem.LIWW.Particle_Burst",
+    "MindsOfMayhem.LIWW.Sweeping_Laser",
+    "MindsOfMayhem.LIWW.Ground_Slam",
+    "MindsOfMayhem.LIWW.Smash",
+    "MindsOfMayhem.LIWW.Pummel"
+  ],
+  "power_display_names": [
+    "Particle Lance",
+    "Particle Burst",
+    "Sweeping Laser",
+    "Foot Stomp",
+    "Smash",
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Narrow Ranged Cone, Moderate DMG(Energy), Foe -Regen, -Res(All)",
+    "Ranged, Moderate DMG(Energy), Foe -Regen, -Res(All)",
+    "Ranged Cone, High DMG(Energy), Foe -Regen, -Res(All)",
+    "PBAoE Melee, Moderate DMG(Smash), Foe Knockdown, Disorient",
+    "Melee, Moderate DMG(Smash), Knockback",
+    "Melee, High DMG(Smash), Knockback"
+  ]
+}

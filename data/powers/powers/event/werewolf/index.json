@@ -1,0 +1,34 @@
+{
+  "name": "Werewolf",
+  "display_name": "Werewolf",
+  "display_fullname": "Event.Werewolf",
+  "display_help": "Werewolf",
+  "display_short_help": "Werewolf",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/WEREWOLF.POWERSETS",
+  "icon": "werewolf_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Werewolf.Claw_Swipe",
+    "Event.Werewolf.Hurl",
+    "Event.Werewolf.Wolf_Jumping",
+    "Event.Werewolf.Resistance"
+  ],
+  "power_display_names": [
+    "Claw Swipe",
+    "Hurl",
+    "Wolf Jumping",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee(Cone) Heavy Lethal, +Knockback",
+    "Disorient",
+    "Self Auto, +Jump, +Speed",
+    "Auto Res(All Dam, Immobilization)"
+  ]
+}

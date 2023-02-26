@@ -1,0 +1,22 @@
+{
+  "name": "Science_Technology_Sleep",
+  "display_name": "Science Technology Sleep",
+  "display_fullname": "Boosts.Science Technology Sleep",
+  "display_help": "Increases the duration of a sleep power.",
+  "display_short_help": "Invention (Science, Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_TECHNOLOGY_SLEEP.POWERSETS",
+  "icon": "science_technology_sleep_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Technology_Sleep.Science_Technology_Sleep"
+  ],
+  "power_display_names": [
+    "Hyperbaric Matrix (Sleep)"
+  ],
+  "power_short_helps": [
+    "Enhances Sleep Duration"
+  ]
+}

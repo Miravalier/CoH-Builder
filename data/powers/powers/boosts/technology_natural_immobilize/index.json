@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Immobilize",
+  "display_name": "Technology Natural Immobilize",
+  "display_fullname": "Boosts.Technology Natural Immobilize",
+  "display_help": "Increases the duration of a immobilization power.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_IMMOBILIZE.POWERSETS",
+  "icon": "technology_natural_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Immobilize.Technology_Natural_Immobilize"
+  ],
+  "power_display_names": [
+    "Entangle Grenade (Immobilize)"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

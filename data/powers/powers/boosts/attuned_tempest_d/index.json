@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Tempest_D",
+  "display_name": "Attuned Tempest D",
+  "display_fullname": "Boosts.Attuned Tempest D",
+  "display_help": "Gives a chance to drain some of your opponents endurance. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Tempest",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TEMPEST_D.POWERSETS",
+  "icon": "attuned_tempest_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Tempest_D.Attuned_Tempest_D"
+  ],
+  "power_display_names": [
+    "Tempest: Chance for Endurance Drain"
+  ],
+  "power_short_helps": [
+    "Chance for Endurance Drain"
+  ]
+}

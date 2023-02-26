@@ -1,0 +1,30 @@
+{
+  "name": "SS_Brute_Low",
+  "display_name": "SS Brute Low",
+  "display_fullname": "V GenericVillains.SS Brute Low",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/SS_BRUTE_LOW.POWERSETS",
+  "icon": "ss_brute_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.SS_Brute_Low.Haymaker",
+    "V_GenericVillains.SS_Brute_Low.Hand_Clap",
+    "V_GenericVillains.SS_Brute_Low.Unyielding"
+  ],
+  "power_display_names": [
+    "Haymaker",
+    "Hand Clap",
+    "Unyielding"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "Disorient",
+    "Toggle: Self +Res(Knockback, Sleep, Disorient, Hold, Immobilize, Smashing, Lethal Fire, Cold, Energy, Negative Energy, Toxic)"
+  ]
+}

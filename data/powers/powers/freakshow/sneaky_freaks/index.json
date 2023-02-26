@@ -1,0 +1,22 @@
+{
+  "name": "Sneaky_Freaks",
+  "display_name": "Sneaky Freaks",
+  "display_fullname": "Freakshow.Sneaky Freaks",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/SNEAKY_FREAKS.POWERSETS",
+  "icon": "sneaky_freaks_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Sneaky_Freaks.Cloaking_Device"
+  ],
+  "power_display_names": [
+    "Cloaking Device"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Stealth, +DEF"
+  ]
+}

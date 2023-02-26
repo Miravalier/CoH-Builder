@@ -1,0 +1,54 @@
+{
+  "name": "Radiation_Emission",
+  "display_name": "Radiation Emission",
+  "display_fullname": "Corruptor Buff.Radiation Emission",
+  "display_help": "Radiation Emission powers allow you to manipulate atomic particles and waves to protect your allies and weaken your enemies.",
+  "display_short_help": "Radiation Emission",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/CORRUPTOR_BUFF/RADIATION_EMISSION.POWERSETS",
+  "icon": "radiation_emission_set.png",
+  "requires": "",
+  "power_names": [
+    "Corruptor_Buff.Radiation_Emission.Radiant_Aura",
+    "Corruptor_Buff.Radiation_Emission.Radiation_Infection",
+    "Corruptor_Buff.Radiation_Emission.Accelerate_Metabolism",
+    "Corruptor_Buff.Radiation_Emission.Enervating_Field",
+    "Corruptor_Buff.Radiation_Emission.Mutation",
+    "Corruptor_Buff.Radiation_Emission.Lingering_Radiation",
+    "Corruptor_Buff.Radiation_Emission.Choking_Cloud",
+    "Corruptor_Buff.Radiation_Emission.Fallout",
+    "Corruptor_Buff.Radiation_Emission.EM_Pulse"
+  ],
+  "power_display_names": [
+    "Radiant Aura",
+    "Radiation Infection",
+    "Accelerate Metabolism",
+    "Enervating Field",
+    "Mutation",
+    "Lingering Radiation",
+    "Choking Cloud",
+    "Fallout",
+    "EM Pulse"
+  ],
+  "power_short_helps": [
+    "PBAoE, Ally +Heal",
+    "Toggle: Ranged (Targeted AoE), Foe -DEF, -To Hit",
+    "PBAoE, Ally +SPD, +Recharge, +Recovery, +DMG(All) +Res(Effects)",
+    "Toggle: Ranged (Targeted AoE), Foe -DMG, -Res",
+    "Close, Ally Rez, Special",
+    "Ranged (Targeted AoE), Foe -Speed, -Recharge, -Regen",
+    "Toggle: PBAoE, Foe Hold",
+    "Post-Defeat: PBAoE, Extreme DMG(Energy), Foe -To Hit, -DEF, -DMG, -Res(All)",
+    "PBAoE, Foe Hold, -END, -Regen, Special vs. Robots; Self -Recovery"
+  ]
+}

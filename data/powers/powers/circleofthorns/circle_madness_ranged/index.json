@@ -1,0 +1,38 @@
+{
+  "name": "Circle_Madness_Ranged",
+  "display_name": "Circle_Madness_Ranged",
+  "display_fullname": "CircleOfThorns.Circle Madness Ranged",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    9,
+    34,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_MADNESS_RANGED.POWERSETS",
+  "icon": "circle_madness_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Madness_Ranged.Dominate",
+    "CircleOfThorns.Circle_Madness_Ranged.Mesmerize",
+    "CircleOfThorns.Circle_Madness_Ranged.Psychic_Scream",
+    "CircleOfThorns.Circle_Madness_Ranged.Scramble_Thoughts",
+    "CircleOfThorns.Circle_Madness_Ranged.Fortitude"
+  ],
+  "power_display_names": [
+    "Dominate",
+    "Mesmerize",
+    "Psychic Scream",
+    "Scramble Thoughts",
+    "Fortitude"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "Ranged Psionic, Sleep",
+    "-Recharge",
+    "Disorient",
+    "Ally +DEF, +DMG, +ACC"
+  ]
+}

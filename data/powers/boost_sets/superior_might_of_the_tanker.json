@@ -1,0 +1,333 @@
+{
+  "name": "Superior_Might_of_the_Tanker",
+  "display_name": "Superior Might of the Tanker",
+  "group_name": "Tanker Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Superior Archetype",
+    "Category: Superior Tanker"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_A.Superior_Attuned_Superior_Might_of_the_Tanker_A"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_B.Superior_Attuned_Superior_Might_of_the_Tanker_B"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_C.Superior_Attuned_Superior_Might_of_the_Tanker_C"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_D.Superior_Attuned_Superior_Might_of_the_Tanker_D"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_E.Superior_Attuned_Superior_Might_of_the_Tanker_E"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_F.Superior_Attuned_Superior_Might_of_the_Tanker_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_7",
+          "Ultimate Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_7",
+          "Ultimate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_7",
+          "Ultimate Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_7",
+          "Ultimate Toxic, Psionic and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_7",
+          "Ultimate Lethal, Smash and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_mightofthetanker.png",
+      "e_icon_mightofthetanker.png",
+      "e_icon_mightofthetanker.png",
+      "e_icon_mightofthetanker.png",
+      "e_icon_mightofthetanker.png",
+      "e_icon_mightofthetanker.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Superior Might of the Tanker: Accuracy/Damage"
+      ],
+      [
+        "Attuned Superior Might of the Tanker: Damage/Recharge"
+      ],
+      [
+        "Attuned Superior Might of the Tanker: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Superior Might of the Tanker: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Superior Might of the Tanker: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Superior Might of the Tanker: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "superior_attuned_superior_might_of_the_tanker_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Might of the Tanker: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_might_of_the_tanker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_mightofthetanker.png"
+      },
+      "superior_attuned_superior_might_of_the_tanker_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Might of the Tanker: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_might_of_the_tanker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_mightofthetanker.png"
+      },
+      "superior_attuned_superior_might_of_the_tanker_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Might of the Tanker: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_might_of_the_tanker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_mightofthetanker.png"
+      },
+      "superior_attuned_superior_might_of_the_tanker_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Might of the Tanker: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_might_of_the_tanker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_mightofthetanker.png"
+      },
+      "superior_attuned_superior_might_of_the_tanker_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Might of the Tanker: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_might_of_the_tanker",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_mightofthetanker.png"
+      },
+      "superior_attuned_superior_might_of_the_tanker_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Might of the Tanker: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_might_of_the_tanker",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_mightofthetanker.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tag": "PsionicLink",
+  "bears": [
+    [
+      "V FreedomPhalanx.PsionicNexus RV.Psionic Link",
+      "v_freedomphalanx.psionicnexus_rv.psionic_link_grant"
+    ],
+    [
+      "V FreedomPhalanx.PsionicNexus.Psionic Link",
+      "v_freedomphalanx.psionicnexus.psionic_link_grant"
+    ]
+  ],
+  "affects": [
+    [
+      "V FreedomPhalanx.PsionicNexus RV.Psionic Link",
+      "v_freedomphalanx.psionicnexus_rv.psionic_link_grant"
+    ],
+    [
+      "V FreedomPhalanx.PsionicNexus.Psionic Link",
+      "v_freedomphalanx.psionicnexus.psionic_link_grant"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "tag": "Scourge",
+  "bears": [
+    [
+      "Corruptor Ranged.Electrical Blast.Ball Lightning",
+      "corruptor_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Charged Bolts",
+      "corruptor_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Lightning Bolt",
+      "corruptor_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Short Circuit",
+      "corruptor_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Tesla Cage",
+      "corruptor_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Thunderous Blast",
+      "corruptor_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Pets.Voltaic Sentinel.Electrical Bolt",
+      "pets.voltaicsentinel_pseudopet.electrical_bolt"
+    ],
+    [
+      "Villain Pets.Corruptor ElectricalBlast Snipe.Zapp",
+      "villain_pets.corruptor_electricalblast_snipe.zapp_normal"
+    ],
+    [
+      "Villain Pets.Corruptor ElectricalBlast Snipe.Zapp",
+      "villain_pets.corruptor_electricalblast_snipe.zapp_quick"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Eradication_B",
+  "display_name": "Attuned Eradication B",
+  "display_fullname": "Boosts.Attuned Eradication B",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Eradication",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ERADICATION_B.POWERSETS",
+  "icon": "attuned_eradication_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Eradication_B.Attuned_Eradication_B"
+  ],
+  "power_display_names": [
+    "Eradication: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

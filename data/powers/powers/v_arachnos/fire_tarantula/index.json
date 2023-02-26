@@ -1,0 +1,30 @@
+{
+  "name": "Fire_Tarantula",
+  "display_name": "Fire_Tarantula",
+  "display_fullname": "V Arachnos.Fire Tarantula",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/FIRE_TARANTULA.POWERSETS",
+  "icon": "fire_tarantula_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Fire_Tarantula.Plasma_Cannon",
+    "V_Arachnos.Fire_Tarantula.Burning_Claws",
+    "V_Arachnos.Fire_Tarantula.Armored_Exoskeleton"
+  ],
+  "power_display_names": [
+    "Plasma Cannon",
+    "Burning Claws",
+    "Armored Exoskeleton"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "Resistance"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Money_Bag",
+  "display_name": "Money_Bag",
+  "display_fullname": "Objects.Money Bag",
+  "display_help": "Money_Bag",
+  "display_short_help": "Money_Bag",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/MONEY_BAG.POWERSETS",
+  "icon": "money_bag_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Money_Bag.Loot_Bag"
+  ],
+  "power_display_names": [
+    "Loot Bag"
+  ],
+  "power_short_helps": [
+    "Loot"
+  ]
+}

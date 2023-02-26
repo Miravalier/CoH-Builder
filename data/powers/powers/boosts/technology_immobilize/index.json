@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Immobilize",
+  "display_name": "Technology Immobilize",
+  "display_fullname": "Boosts.Technology Immobilize",
+  "display_help": "Increases the duration of a immobilization power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_IMMOBILIZE.POWERSETS",
+  "icon": "technology_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Immobilize.Technology_Immobilize"
+  ],
+  "power_display_names": [
+    "WetWare Eng Neuralparalyzer (Immobilize)"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

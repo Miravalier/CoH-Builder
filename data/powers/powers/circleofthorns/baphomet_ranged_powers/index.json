@@ -1,0 +1,42 @@
+{
+  "name": "Baphomet_Ranged_Powers",
+  "display_name": "Baphomet_Ranged_Powers",
+  "display_fullname": "CircleOfThorns.Baphomet Ranged Powers",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/BAPHOMET_RANGED_POWERS.POWERSETS",
+  "icon": "baphomet_ranged_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Baphomet_Ranged_Powers.Fire_Blast",
+    "CircleOfThorns.Baphomet_Ranged_Powers.Fire_Ball",
+    "CircleOfThorns.Baphomet_Ranged_Powers.Flash_Stomp",
+    "CircleOfThorns.Baphomet_Ranged_Powers.Fire_Breath",
+    "CircleOfThorns.Baphomet_Ranged_Powers.Greater_Fire_Sword",
+    "CircleOfThorns.Baphomet_Ranged_Powers.Swipe"
+  ],
+  "power_display_names": [
+    "Fire Blast",
+    "Fire Ball",
+    "Flash Stomp",
+    "Fire Breath",
+    "Greater Fire Sword",
+    "Swipe"
+  ],
+  "power_short_helps": [
+    "DoT (Fire)",
+    "DoT (Fire)",
+    "DoT (Fire)",
+    "DoT (Fire)",
+    "DoT (Fire)",
+    "Melee Heavy Lethal/Fire"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TPN_HD",
+  "display_name": "TPN_HD",
+  "display_fullname": "TPNCampus.TPN HD",
+  "display_help": "HD",
+  "display_short_help": "HD",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/TPN_HD.POWERSETS",
+  "icon": "tpn_hd_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.TPN_HD.Health_Status"
+  ],
+  "power_display_names": [
+    "Health Status"
+  ],
+  "power_short_helps": [
+    "Script"
+  ]
+}

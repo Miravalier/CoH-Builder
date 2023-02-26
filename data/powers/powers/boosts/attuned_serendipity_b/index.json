@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Serendipity_B",
+  "display_name": "Attuned Serendipity B",
+  "display_fullname": "Boosts.Attuned Serendipity B",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Serendipity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SERENDIPITY_B.POWERSETS",
+  "icon": "attuned_serendipity_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Serendipity_B.Attuned_Serendipity_B"
+  ],
+  "power_display_names": [
+    "Serendipity: Defense/Recharge"
+  ],
+  "power_short_helps": [
+    "+DEF (all), +Rech"
+  ]
+}

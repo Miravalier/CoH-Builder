@@ -1,0 +1,15 @@
+{
+  "tag": "SeedGreen",
+  "bears": [
+    [
+      "DevouringEarthSeed.Seed of Hamidon.Seed Regrowth",
+      "devouringearthseed.seed_of_hamidon.seed_regrowth"
+    ]
+  ],
+  "affects": [
+    [
+      "DevouringEarthSeed.Maturing Burr.The Seed's Vitality",
+      "devouringearthseed.maturing_burr.the_seeds_vitality"
+    ]
+  ]
+}

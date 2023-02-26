@@ -1,0 +1,26 @@
+{
+  "name": "Major_Spector",
+  "display_name": "",
+  "display_fullname": "Midnight Squad.Major Spector",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHT_SQUAD/MAJOR_SPECTOR.POWERSETS",
+  "icon": "major_spector_set.png",
+  "requires": "",
+  "power_names": [
+    "Midnight_Squad.Major_Spector.Midnight_Grasp",
+    "Midnight_Squad.Major_Spector.Chill_of_the_Night"
+  ],
+  "power_display_names": [
+    "Midnight Grasp",
+    "Chill of the Night"
+  ],
+  "power_short_helps": [
+    "Immobilize, DoT(Negative), -ACC",
+    "-ACC"
+  ]
+}

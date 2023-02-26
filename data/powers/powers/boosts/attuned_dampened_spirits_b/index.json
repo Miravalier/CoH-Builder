@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Dampened_Spirits_B",
+  "display_name": "Attuned Dampened Spirits B",
+  "display_fullname": "Boosts.Attuned Dampened Spirits B",
+  "display_help": "Enhances the to hit debuff potential of a power by {Boost.Attrib.ToHit.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Dampened Spirits",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DAMPENED_SPIRITS_B.POWERSETS",
+  "icon": "attuned_dampened_spirits_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Dampened_Spirits_B.Attuned_Dampened_Spirits_B"
+  ],
+  "power_display_names": [
+    "Dampened Spirits: To Hit Debuff/Recharge"
+  ],
+  "power_short_helps": [
+    "+To Hit Debuff, +Rech"
+  ]
+}

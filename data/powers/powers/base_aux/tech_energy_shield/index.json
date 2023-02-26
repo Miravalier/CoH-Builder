@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Energy_Shield",
+  "display_name": "Tech Energy Shield",
+  "display_fullname": "Base Aux.Tech Energy Shield",
+  "display_help": "Adds a protective force field around the turret.",
+  "display_short_help": "Turret Aux",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_AUX/TECH_ENERGY_SHIELD.POWERSETS",
+  "icon": "tech_energy_shield_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Aux.Tech_Energy_Shield.Energy_Shield"
+  ],
+  "power_display_names": [
+    "Energy Shield"
+  ],
+  "power_short_helps": [
+    "Adds a protective force field around the turret."
+  ]
+}

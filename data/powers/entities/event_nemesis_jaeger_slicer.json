@@ -1,0 +1,93 @@
+{
+  "name": "Event_Nemesis_Jaeger_Slicer",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "NemesisPlot"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.Nemesis_Jaeger",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 41,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "Jaegers take their name from the German word for 'hunter'. They're some of the strangest and most advanced combat robots to ever stalk the streets of Paragon City. Nemesis seems to have a limitless supply of these steam-powered killers, each armed with powerful ranged or melee weaponry.",
+    "group_description": "Nemesis",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.9,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Nemesis.Nemesis_Jaeger_Ranged.Jaeger_Gun",
+      "Nemesis.Nemesis_Jaeger_Melee.Jaeger_Saw",
+      "Nemesis.Nemesis_Jaeger_Melee.Jaeger_Mace",
+      "Nemesis.Nemesis_Jaeger_Defense.Resistance",
+      "Nemesis.Nemesis_Jaeger_Defense.Explode"
+    ],
+    "power_display_names": [
+      "Jaeger Gun",
+      "Jaeger Saw",
+      "Jaeger Mace",
+      "Resistance",
+      "Explode"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Jaeger_Ranged",
+        "power": "Jaeger_Gun",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Jaeger_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Jaeger_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 41,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Gewehr Jaeger"
+      ],
+      "costumes": [
+        "Nemesis_Drone"
+      ]
+    }
+  ]
+}

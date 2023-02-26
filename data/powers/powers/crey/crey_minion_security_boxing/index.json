@@ -1,0 +1,30 @@
+{
+  "name": "Crey_Minion_Security_Boxing",
+  "display_name": "Crey_Minion_Security_Boxing",
+  "display_fullname": "Crey.Crey Minion Security Boxing",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_SECURITY_BOXING.POWERSETS",
+  "icon": "crey_minion_security_boxing_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Security_Boxing.Boxing",
+    "Crey.Crey_Minion_Security_Boxing.Kick",
+    "Crey.Crey_Minion_Security_Boxing.Brawl"
+  ],
+  "power_display_names": [
+    "Boxing",
+    "Kick",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee DMG(Smash), Knockback",
+    "Melee DMG(Smash)"
+  ]
+}

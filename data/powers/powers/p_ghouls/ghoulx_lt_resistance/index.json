@@ -1,0 +1,30 @@
+{
+  "name": "GhoulX_Lt_Resistance",
+  "display_name": "Resistance",
+  "display_fullname": "P Ghouls.Resistance",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_GHOULS/GHOULX_LT_RESISTANCE.POWERSETS",
+  "icon": "ghoulx_lt_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Ghouls.GhoulX_Lt_Resistance.Resistance",
+    "P_Ghouls.GhoulX_Lt_Resistance.Fast_Healing",
+    "P_Ghouls.GhoulX_Lt_Resistance.Dull_Pain"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fast Healing",
+    "Dull Pain"
+  ],
+  "power_short_helps": [
+    "Auto, Res(All)",
+    "Auto: Self +Regeneration",
+    "Self +Max HP"
+  ]
+}

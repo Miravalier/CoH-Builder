@@ -1,0 +1,38 @@
+{
+  "name": "Upstart_Ranged",
+  "display_name": "Upstart_Ranged",
+  "display_fullname": "Freakshow.Upstart Ranged",
+  "display_help": "Upstart_Ranged",
+  "display_short_help": "Upstart_Ranged",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/UPSTART_RANGED.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Upstart_Ranged.Shock",
+    "Freakshow.Upstart_Ranged.Sonic_Siphon",
+    "Freakshow.Upstart_Ranged.Bellow",
+    "Freakshow.Upstart_Ranged.Shockwave",
+    "Freakshow.Upstart_Ranged.Ball_Lightning"
+  ],
+  "power_display_names": [
+    "Shock",
+    "Sonic Siphon",
+    "Bellow",
+    "Shockwave",
+    "Ball Lightning"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -DMG, -End, -Recovery, -Regen",
+    "Ranged, Foe -Res(All)",
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Disorient",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "Targeted AoE Energy, -End"
+  ]
+}

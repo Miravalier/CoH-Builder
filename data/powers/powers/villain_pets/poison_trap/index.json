@@ -1,0 +1,26 @@
+{
+  "name": "Poison_Trap",
+  "display_name": "Poison Trap",
+  "display_fullname": "Villain Pets.Poison Trap",
+  "display_help": "Poison",
+  "display_short_help": "Poison",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/POISON_TRAP.POWERSETS",
+  "icon": "poison_trap_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Poison_Trap.Self_Destruct",
+    "Villain_Pets.Poison_Trap.Resistance"
+  ],
+  "power_display_names": [
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Self Destruct",
+    "Resistance"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Animated_Sword_Resists",
+  "display_name": "",
+  "display_fullname": "Incarnate AlphaStrike.Animated Sword Resists",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/ANIMATED_SWORD_RESISTS.POWERSETS",
+  "icon": "animated_sword_resists_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Animated_Sword_Resists.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Self Auto, Res(All), Res Sleep, Fear"
+  ]
+}

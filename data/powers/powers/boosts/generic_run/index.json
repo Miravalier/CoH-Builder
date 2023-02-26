@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Run",
+  "display_name": "Generic Run",
+  "display_fullname": "Boosts.Generic Run",
+  "display_help": "Increases the speed of a run power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_RUN.POWERSETS",
+  "icon": "generic_run_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Run.Generic_Run"
+  ],
+  "power_display_names": [
+    "Training: Run Speed Increase"
+  ],
+  "power_short_helps": [
+    "Enhances Running Speed"
+  ]
+}

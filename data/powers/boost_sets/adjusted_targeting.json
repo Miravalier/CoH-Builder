@@ -1,0 +1,544 @@
+{
+  "name": "Adjusted_Targeting",
+  "display_name": "Adjusted Targeting",
+  "group_name": "To Hit Buff",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: To Hit Buff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Adjusted_Targeting_A.Crafted_Adjusted_Targeting_A",
+      "Boosts.Attuned_Adjusted_Targeting_A.Attuned_Adjusted_Targeting_A"
+    ],
+    [
+      "Boosts.Crafted_Adjusted_Targeting_B.Crafted_Adjusted_Targeting_B",
+      "Boosts.Attuned_Adjusted_Targeting_B.Attuned_Adjusted_Targeting_B"
+    ],
+    [
+      "Boosts.Crafted_Adjusted_Targeting_C.Crafted_Adjusted_Targeting_C",
+      "Boosts.Attuned_Adjusted_Targeting_C.Attuned_Adjusted_Targeting_C"
+    ],
+    [
+      "Boosts.Crafted_Adjusted_Targeting_D.Crafted_Adjusted_Targeting_D",
+      "Boosts.Attuned_Adjusted_Targeting_D.Attuned_Adjusted_Targeting_D"
+    ],
+    [
+      "Boosts.Crafted_Adjusted_Targeting_E.Crafted_Adjusted_Targeting_E",
+      "Boosts.Attuned_Adjusted_Targeting_E.Attuned_Adjusted_Targeting_E"
+    ],
+    [
+      "Boosts.Crafted_Adjusted_Targeting_F.Crafted_Adjusted_Targeting_F",
+      "Boosts.Attuned_Adjusted_Targeting_F.Attuned_Adjusted_Targeting_F"
+    ]
+  ],
+  "min_level": 21,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_3",
+          "Moderate Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_3",
+          "Moderate Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_4",
+          "Large Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_3",
+          "Moderate Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_4",
+          "Large Lethal, Smash and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png",
+      "e_icon_adjustedtargeting.png"
+    ],
+    "boosts": [
+      [
+        "Adjusted Targeting: ToHit",
+        "Attuned Adjusted Targeting: ToHit"
+      ],
+      [
+        "Adjusted Targeting: Recharge/ToHit",
+        "Attuned Adjusted Targeting: Recharge/ToHit"
+      ],
+      [
+        "Adjusted Targeting: Endurance/Recharge/ToHit",
+        "Attuned Adjusted Targeting: Endurance/Recharge/ToHit"
+      ],
+      [
+        "Adjusted Targeting: Endurance/Recharge",
+        "Attuned Adjusted Targeting: Endurance/Recharge"
+      ],
+      [
+        "Adjusted Targeting: Endurance/ToHit",
+        "Attuned Adjusted Targeting: Endurance/ToHit"
+      ],
+      [
+        "Adjusted Targeting: Recharge",
+        "Attuned Adjusted Targeting: Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_adjusted_targeting_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_adjusted_targeting_a.attuned_adjusted_targeting_a",
+          "Adjusted Targeting: To Hit Buff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Adjusted Targeting: ToHit",
+        "aspects": [
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "attuned_adjusted_targeting_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Adjusted Targeting: ToHit",
+        "aspects": [
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "crafted_adjusted_targeting_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_adjusted_targeting_b.attuned_adjusted_targeting_b",
+          "Adjusted Targeting: To Hit Buff/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Adjusted Targeting: Recharge/ToHit",
+        "aspects": [
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "attuned_adjusted_targeting_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Adjusted Targeting: Recharge/ToHit",
+        "aspects": [
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "crafted_adjusted_targeting_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_adjusted_targeting_c.attuned_adjusted_targeting_c",
+          "Adjusted Targeting: To Hit Buff/Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Adjusted Targeting: Endurance/Recharge/ToHit",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "attuned_adjusted_targeting_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Adjusted Targeting: Endurance/Recharge/ToHit",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "crafted_adjusted_targeting_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_adjusted_targeting_d.attuned_adjusted_targeting_d",
+          "Adjusted Targeting: Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Adjusted Targeting: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "attuned_adjusted_targeting_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Adjusted Targeting: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "crafted_adjusted_targeting_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_adjusted_targeting_e.attuned_adjusted_targeting_e",
+          "Adjusted Targeting: To Hit Buff/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Adjusted Targeting: Endurance/ToHit",
+        "aspects": [
+          "Endurance",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "attuned_adjusted_targeting_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Adjusted Targeting: Endurance/ToHit",
+        "aspects": [
+          "Endurance",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "crafted_adjusted_targeting_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_adjusted_targeting_f.attuned_adjusted_targeting_f",
+          "Adjusted Targeting: Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Adjusted Targeting: Recharge",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      },
+      "attuned_adjusted_targeting_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Adjusted Targeting: Recharge",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "adjusted_targeting",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_adjustedtargeting.png"
+      }
+    }
+  }
+}

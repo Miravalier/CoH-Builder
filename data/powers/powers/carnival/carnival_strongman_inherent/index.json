@@ -1,0 +1,26 @@
+{
+  "name": "Carnival_Strongman_Inherent",
+  "display_name": "Carnival_Strongman_Inherent",
+  "display_fullname": "Carnival.Carnival Strongman Inherent",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_STRONGMAN_INHERENT.POWERSETS",
+  "icon": "carnival_strongman_inherent_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Strongman_Inherent.Resistance",
+    "Carnival.Carnival_Strongman_Inherent.Hurl"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Hurl"
+  ],
+  "power_short_helps": [
+    "Self, +Res(Smashing, Knockback, Immobilization, Slow)",
+    "Ranged, Moderate DMG(Smash), Knockback"
+  ]
+}

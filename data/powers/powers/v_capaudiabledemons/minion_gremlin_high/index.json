@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Gremlin_High",
+  "display_name": "Minion Gremlin High",
+  "display_fullname": "V CapauDiableDemons.Minion Gremlin High",
+  "display_help": "Cap au Diable Demons",
+  "display_short_help": "Cap au Diable Demons",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CAPAUDIABLEDEMONS/MINION_GREMLIN_HIGH.POWERSETS",
+  "icon": "minion_gremlin_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_CapauDiableDemons.Minion_Gremlin_High.Electric_Explosion"
+  ],
+  "power_display_names": [
+    "Electric Explosion"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

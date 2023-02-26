@@ -1,0 +1,22 @@
+{
+  "name": "Incarnate_Debuff",
+  "display_name": "Incarnate",
+  "display_fullname": "Objects.Incarnate",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/INCARNATE_DEBUFF.POWERSETS",
+  "icon": "incarnate_debuff_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Incarnate_Debuff.Tier_0_Minus_4_Levels"
+  ],
+  "power_display_names": [
+    "Emperor Cole's Incarnate Control"
+  ],
+  "power_short_helps": [
+    "-Combat Levels"
+  ]
+}

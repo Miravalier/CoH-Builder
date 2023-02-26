@@ -1,0 +1,30 @@
+{
+  "name": "CyberwarriorsPostDeath",
+  "display_name": "CyberwarriorsPostDeath",
+  "display_fullname": "SummerEvent.CyberwarriorsPostDeath",
+  "display_help": "Cyberwarriors",
+  "display_short_help": "Cyberwarriors",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/CYBERWARRIORSPOSTDEATH.POWERSETS",
+  "icon": "cyberwarriorspostdeath_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.CyberwarriorsPostDeath.Armageddon",
+    "SummerEvent.CyberwarriorsPostDeath.Apocalypse",
+    "SummerEvent.CyberwarriorsPostDeath.Gotterdammerung"
+  ],
+  "power_display_names": [
+    "Armageddon",
+    "Apocalypse",
+    "Gotterdammerung"
+  ],
+  "power_short_helps": [
+    "Post-Death, PBAoE, -RES(All, Foe)",
+    "Post-Death, PBAoE, -ToHit(Foe)",
+    "Post-Death, PBAoE, High DMG (Annihilative)"
+  ]
+}

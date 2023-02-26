@@ -1,0 +1,30 @@
+{
+  "name": "Guard",
+  "display_name": "Guard",
+  "display_fullname": "Incarnate AlphaStrike.Guard",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/GUARD.POWERSETS",
+  "icon": "guard_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Guard.TransLocation_Beam",
+    "Incarnate_AlphaStrike.Guard.Glow_Grant",
+    "Incarnate_AlphaStrike.Guard.Disabled"
+  ],
+  "power_display_names": [
+    "TransLocation Beam",
+    "Glow Grant",
+    "Disabled"
+  ],
+  "power_short_helps": [
+    "Remove Foe",
+    "Grant",
+    "Grant"
+  ]
+}

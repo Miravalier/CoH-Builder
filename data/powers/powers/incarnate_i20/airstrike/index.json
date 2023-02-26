@@ -1,0 +1,34 @@
+{
+  "name": "Airstrike",
+  "display_name": "Airstrike",
+  "display_fullname": "Incarnate I20.Airstrike",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/AIRSTRIKE.POWERSETS",
+  "icon": "airstrike_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Airstrike.Main",
+    "Incarnate_I20.Airstrike.Locator",
+    "Incarnate_I20.Airstrike.Airstrike_Strafe",
+    "Incarnate_I20.Airstrike.Airstrike_Explosion"
+  ],
+  "power_display_names": [
+    "Main",
+    "Locator",
+    "Airstrike Strafe",
+    "Airstrike Explosion"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant",
+    "Superior DoT(Lethal)",
+    "Extreme DMG(Fire)"
+  ]
+}

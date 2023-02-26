@@ -1,0 +1,95 @@
+{
+  "tag": "RallyCryCrit",
+  "bears": [
+    [
+      "Romans.Centurion Endgame.Hack",
+      "romans.centurion_endgame.hack"
+    ],
+    [
+      "Romans.Centurion Endgame.Slash",
+      "romans.centurion_endgame.slash"
+    ],
+    [
+      "Romans.Centurion Endgame.Slice",
+      "romans.centurion_endgame.slice"
+    ],
+    [
+      "Romans.Legionarii Endgame.Slash",
+      "romans.legionarii_endgame.slash"
+    ],
+    [
+      "Romans.Legionarii Endgame.Slice",
+      "romans.legionarii_endgame.slice"
+    ],
+    [
+      "Romans.Praefectus Endgame.Hack",
+      "romans.praefectus_endgame.hack"
+    ],
+    [
+      "Romans.Praefectus Endgame.Slash",
+      "romans.praefectus_endgame.slash"
+    ],
+    [
+      "Romans.Praefectus Endgame.Slice",
+      "romans.praefectus_endgame.slice"
+    ],
+    [
+      "Romans.Praefectus Endgame.Whirling Sword",
+      "romans.praefectus_endgame.whirling_sword"
+    ],
+    [
+      "Romans.Romulus Base (Advanced Difficulty).Hack",
+      "romans.romulus_base_hm.hack"
+    ],
+    [
+      "Romans.Romulus Base (Advanced Difficulty).Slash",
+      "romans.romulus_base_hm.slash"
+    ],
+    [
+      "Romans.Romulus Base (Advanced Difficulty).Slice",
+      "romans.romulus_base_hm.slice"
+    ],
+    [
+      "Romans.Romulus Base (Advanced Difficulty).Whirling Sword",
+      "romans.romulus_base_hm.whirling_sword"
+    ],
+    [
+      "Romans.Romulus Nictus (Advanced Difficulty).Hack",
+      "romans.romulus_nictus_hm.hack"
+    ],
+    [
+      "Romans.Romulus Nictus (Advanced Difficulty).Slash",
+      "romans.romulus_nictus_hm.slash"
+    ],
+    [
+      "Romans.Romulus Nictus (Advanced Difficulty).Slice",
+      "romans.romulus_nictus_hm.slice"
+    ],
+    [
+      "Romans.Romulus Nictus (Advanced Difficulty).Whirling Sword",
+      "romans.romulus_nictus_hm.whirling_sword"
+    ],
+    [
+      "Romans.Vengeful Romulus Nictus (Advanced Difficulty).Hack",
+      "romans.romulus_nictus_hm_finale.hack"
+    ],
+    [
+      "Romans.Vengeful Romulus Nictus (Advanced Difficulty).Slash",
+      "romans.romulus_nictus_hm_finale.slash"
+    ],
+    [
+      "Romans.Vengeful Romulus Nictus (Advanced Difficulty).Slice",
+      "romans.romulus_nictus_hm_finale.slice"
+    ],
+    [
+      "Romans.Vengeful Romulus Nictus (Advanced Difficulty).Whirling Sword",
+      "romans.romulus_nictus_hm_finale.whirling_sword"
+    ]
+  ],
+  "affects": [
+    [
+      "Romans.Centurion Endgame.Rallying Cry",
+      "romans.centurion_endgame.rallying_cry_hm"
+    ]
+  ]
+}

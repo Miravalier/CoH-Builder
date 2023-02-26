@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Overpowering_Presence_A",
+  "display_name": "Attuned Overpowering Presence A",
+  "display_fullname": "Boosts.Attuned Overpowering Presence A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, enhances the hold duration of a power by {Boost.Attrib.Mez.Scale}%, the hold duration by {Boost.Attrib.Mez.Scale}%, the immobilization duration by {Boost.Attrib.Mez.Scale}%, the sleep duration by {Boost.Attrib.Mez.Scale}%, the fear duration by {Boost.Attrib.Mez.Scale}% and the confuse duration by {Boost.Attrib.Mez.Scale}%. This enhancement can only be slotted by Controllers and may be slotted into most control powers.",
+  "display_short_help": "Set: Overpowering Presence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_OVERPOWERING_PRESENCE_A.POWERSETS",
+  "icon": "attuned_overpowering_presence_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Overpowering_Presence_A.Attuned_Overpowering_Presence_A"
+  ],
+  "power_display_names": [
+    "Overpowering Presence: Accuracy/Control Duration (Controller)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Control Duration"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Impervium_Armor_B",
+  "display_name": "Crafted Impervium Armor B",
+  "display_fullname": "Boosts.Crafted Impervium Armor B",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Impervium Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_IMPERVIUM_ARMOR_B.POWERSETS",
+  "icon": "crafted_impervium_armor_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Impervium_Armor_B.Crafted_Impervium_Armor_B"
+  ],
+  "power_display_names": [
+    "Impervium Armor: Resistance/Recharge"
+  ],
+  "power_short_helps": [
+    "+RES (all), +Rech"
+  ]
+}

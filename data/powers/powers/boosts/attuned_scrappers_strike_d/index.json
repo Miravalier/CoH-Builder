@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Scrappers_Strike_D",
+  "display_name": "Attuned Scrappers Strike D",
+  "display_fullname": "Boosts.Attuned Scrappers Strike D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Scrappers and may be slotted into any Scrapper damage power.",
+  "display_short_help": "Set: Scrapper's Strike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SCRAPPERS_STRIKE_D.POWERSETS",
+  "icon": "attuned_scrappers_strike_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Scrappers_Strike_D.Attuned_Scrappers_Strike_D"
+  ],
+  "power_display_names": [
+    "Scrapper's Strike: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost, and Increases Attack Rate"
+  ]
+}

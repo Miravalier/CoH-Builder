@@ -1,0 +1,34 @@
+{
+  "name": "Transponder",
+  "display_name": "Transponder",
+  "display_fullname": "Pets.Transponder",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TRANSPONDER.POWERSETS",
+  "icon": "transponder_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Transponder.Transport",
+    "Pets.Transponder.Expel",
+    "Pets.Transponder.Fade",
+    "Pets.Transponder.Resistance"
+  ],
+  "power_display_names": [
+    "Transport",
+    "Expel",
+    "Fade",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Expel",
+    "Clear Damage",
+    "Res (Lethal/Smashing)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Might_of_the_Tanker_F",
+  "display_name": "Superior Attuned Superior Might of the Tanker F",
+  "display_fullname": "Boosts.Superior Attuned Might of the Tanker F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives the Tanker a chance of increasing their resistance by a moderate amount for 20 seconds, this effect stacks up to 3 times, and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This effect will trigger roughly 6 times per minute. This enhancement can only be slotted by Tankers and may be slotted into any Tanker damage power.",
+  "display_short_help": "Set: Superior Might of the Tanker",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_MIGHT_OF_THE_TANKER_F.POWERSETS",
+  "icon": "superior_attuned_superior_might_of_the_tanker_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_F.Superior_Attuned_Superior_Might_of_the_Tanker_F"
+  ],
+  "power_display_names": [
+    "Superior Might of the Tanker: Recharge/Chance for +Res(All)"
+  ],
+  "power_short_helps": [
+    "Increases Attack Rate, Chance for +Res(All)"
+  ]
+}

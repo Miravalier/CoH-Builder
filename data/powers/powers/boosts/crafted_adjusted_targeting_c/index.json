@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Adjusted_Targeting_C",
+  "display_name": "Crafted Adjusted Targeting C",
+  "display_fullname": "Boosts.Crafted Adjusted Targeting C",
+  "display_help": "Enhances the to hit buff potential of a power by {Boost.Attrib.ToHit.Scale}%, reduces the endurance cost by {Boost.Attrib.Endurance.Scale}% and the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Adjusted Targeting",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ADJUSTED_TARGETING_C.POWERSETS",
+  "icon": "crafted_adjusted_targeting_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Adjusted_Targeting_C.Crafted_Adjusted_Targeting_C"
+  ],
+  "power_display_names": [
+    "Adjusted Targeting: To Hit Buff/Recharge/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+To Hit Buff, +Rech, +End"
+  ]
+}

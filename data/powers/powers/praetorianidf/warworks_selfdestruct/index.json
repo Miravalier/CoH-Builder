@@ -1,0 +1,38 @@
+{
+  "name": "Warworks_SelfDestruct",
+  "display_name": "Warworks SelfDestruct",
+  "display_fullname": "PraetorianIDF.Warworks SelfDestruct",
+  "display_help": "Warworks",
+  "display_short_help": "Warworks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/WARWORKS_SELFDESTRUCT.POWERSETS",
+  "icon": "warworks_selfdestruct_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Warworks_SelfDestruct.Self_Destruct",
+    "PraetorianIDF.Warworks_SelfDestruct.Self_Destruct_Effect",
+    "PraetorianIDF.Warworks_SelfDestruct.Meltdown",
+    "PraetorianIDF.Warworks_SelfDestruct.Meltdown_Effect",
+    "PraetorianIDF.Warworks_SelfDestruct.Meltdown_Burn"
+  ],
+  "power_display_names": [
+    "Self Destruct",
+    "Self Destruct Effect",
+    "Meltdown",
+    "Meltdown Effect",
+    "Meltdown Burn"
+  ],
+  "power_short_helps": [
+    "Post Death, PBAoE, Moderate DMG(Fire/Lethal), Foe Knockback",
+    "Post Death, PBAoE, Moderate DMG(Fire/Lethal), Foe Knockback",
+    "Post Death, PBAoE Light DMG(Fire/Lethal), Moderate DoT(Fire)",
+    "Post Death, PBAoE Light DMG(Fire/Lethal), Moderate DoT(Fire)",
+    "Moderate DoT(Fire)"
+  ]
+}

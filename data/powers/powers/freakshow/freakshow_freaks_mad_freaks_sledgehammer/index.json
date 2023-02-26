@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Freaks_Mad_Freaks_Sledgehammer",
+  "display_name": "Freakshow_Freaks_Mad_Freaks_Sledgehammer",
+  "display_fullname": "Freakshow.Freakshow Freaks Mad Freaks Sledgehammer",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_FREAKS_MAD_FREAKS_SLEDGEHAMMER.POWERSETS",
+  "icon": "freakshow_freaks_mad_freaks_sledgehammer_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Freaks_Mad_Freaks_Sledgehammer.Sledgehammer"
+  ],
+  "power_display_names": [
+    "Sledgehammer"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam"
+  ]
+}

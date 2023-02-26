@@ -1,0 +1,22 @@
+{
+  "name": "Static_Field_End_Recovery_Controller",
+  "display_name": "Static Field Endurance Recovery Controller",
+  "display_fullname": "Pets.Static Field Endurance Recovery Controller",
+  "display_help": "Electrical Blast",
+  "display_short_help": "Electrical Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/STATIC_FIELD_END_RECOVERY_CONTROLLER.POWERSETS",
+  "icon": "static_field_end_recovery_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Static_Field_End_Recovery_Controller.Endurance_Recovered"
+  ],
+  "power_display_names": [
+    "Endurance Recovered"
+  ],
+  "power_short_helps": [
+    "Endurance Recovered"
+  ]
+}

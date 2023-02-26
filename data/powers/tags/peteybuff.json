@@ -1,0 +1,15 @@
+{
+  "tag": "PeteyBuff",
+  "bears": [
+    [
+      "SummerEvent.GunslingerUtility.Pack Leader's Revenge",
+      "summerevent.gunslingerutility.pack_leaders_revenge"
+    ]
+  ],
+  "affects": [
+    [
+      "SummerEvent.GunslingerDogsPostDeath.Petey",
+      "summerevent.gunslingerdogspostdeath.petey"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Pool_Medicine_AidOther",
+  "display_name": "Medicine",
+  "display_fullname": "Pets.Medicine",
+  "display_help": "You become an adept field medic, and can assist your team with basic healing needs. These close range powers should be performed away from combat because they can be interrupted.",
+  "display_short_help": "Medicine",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/POOL_MEDICINE_AIDOTHER.POWERSETS",
+  "icon": "pool_medicine_aidother_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Pool_Medicine_AidOther.AidOther_NoInterrupt",
+    "Pets.Pool_Medicine_AidOther.AidOther_Interrupt"
+  ],
+  "power_display_names": [
+    "Aid Other",
+    "Aid Other"
+  ],
+  "power_short_helps": [
+    "Close, Heal(Ally)",
+    "Close, Heal(Ally)"
+  ]
+}

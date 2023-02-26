@@ -1,0 +1,22 @@
+{
+  "name": "Misery",
+  "display_name": "Misery",
+  "display_fullname": "BanishedPantheon.Misery",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/MISERY.POWERSETS",
+  "icon": "misery_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Misery.Misery"
+  ],
+  "power_display_names": [
+    "Misery"
+  ],
+  "power_short_helps": [
+    "Heal Self and Allies"
+  ]
+}

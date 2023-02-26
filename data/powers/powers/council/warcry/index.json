@@ -1,0 +1,34 @@
+{
+  "name": "Warcry",
+  "display_name": "Warcry",
+  "display_fullname": "Council.Warcry",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/WARCRY.POWERSETS",
+  "icon": "warcry_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Warcry.Power_Blast",
+    "Council.Warcry.Missile_Launch",
+    "Council.Warcry.Pummel",
+    "Council.Warcry.Resistance"
+  ],
+  "power_display_names": [
+    "Power Blast",
+    "Missile Launch",
+    "Pummel",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged Energy/Smash, Knockback",
+    "Ranged AoE Lethal/Fire, +KB",
+    "Melee Heavy Smash",
+    "Auto Res KB"
+  ]
+}

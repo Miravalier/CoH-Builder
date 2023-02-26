@@ -1,0 +1,550 @@
+{
+  "name": "Multi_Strike",
+  "display_name": "Multi-Strike",
+  "group_name": "Melee AoE Damage",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Melee AoE"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Multi_Strike_A.Crafted_Multi_Strike_A",
+      "Boosts.Attuned_Multi_Strike_A.Attuned_Multi_Strike_A"
+    ],
+    [
+      "Boosts.Crafted_Multi_Strike_B.Crafted_Multi_Strike_B",
+      "Boosts.Attuned_Multi_Strike_B.Attuned_Multi_Strike_B"
+    ],
+    [
+      "Boosts.Crafted_Multi_Strike_C.Crafted_Multi_Strike_C",
+      "Boosts.Attuned_Multi_Strike_C.Attuned_Multi_Strike_C"
+    ],
+    [
+      "Boosts.Crafted_Multi_Strike_D.Crafted_Multi_Strike_D",
+      "Boosts.Attuned_Multi_Strike_D.Attuned_Multi_Strike_D"
+    ],
+    [
+      "Boosts.Crafted_Multi_Strike_E.Crafted_Multi_Strike_E",
+      "Boosts.Attuned_Multi_Strike_E.Attuned_Multi_Strike_E"
+    ],
+    [
+      "Boosts.Crafted_Multi_Strike_F.Crafted_Multi_Strike_F",
+      "Boosts.Attuned_Multi_Strike_F.Attuned_Multi_Strike_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_1",
+          "Tiny Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_1",
+          "Tiny Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_2",
+          "Small Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_2",
+          "Small Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_2",
+          "Small Increased Melee/Lethal/Smashing Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png",
+      "e_icon_multistrike.png"
+    ],
+    "boosts": [
+      [
+        "Multi-Strike: Accuracy/Damage",
+        "Attuned Multi-Strike: Accuracy/Damage"
+      ],
+      [
+        "Multi-Strike: Damage/Endurance",
+        "Attuned Multi-Strike: Damage/Endurance"
+      ],
+      [
+        "Multi-Strike: Damage/Recharge",
+        "Attuned Multi-Strike: Damage/Recharge"
+      ],
+      [
+        "Multi-Strike: Accuracy/Endurance",
+        "Attuned Multi-Strike: Accuracy/Endurance"
+      ],
+      [
+        "Multi-Strike: Accuracy/Damage/Endurance",
+        "Attuned Multi-Strike: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Multi-Strike: Damage/Endurance/Recharge",
+        "Attuned Multi-Strike: Damage/Endurance/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_multi_strike_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_multi_strike_a.attuned_multi_strike_a",
+          "Multi-Strike: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Multi-Strike: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "attuned_multi_strike_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Multi-Strike: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "crafted_multi_strike_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_multi_strike_b.attuned_multi_strike_b",
+          "Multi-Strike: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Multi-Strike: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "attuned_multi_strike_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Multi-Strike: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "crafted_multi_strike_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_multi_strike_c.attuned_multi_strike_c",
+          "Multi-Strike: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Multi-Strike: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "attuned_multi_strike_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Multi-Strike: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "crafted_multi_strike_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_multi_strike_d.attuned_multi_strike_d",
+          "Multi-Strike: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Multi-Strike: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "attuned_multi_strike_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Multi-Strike: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "crafted_multi_strike_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_multi_strike_e.attuned_multi_strike_e",
+          "Multi-Strike: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Multi-Strike: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "attuned_multi_strike_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Multi-Strike: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "crafted_multi_strike_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_multi_strike_f.attuned_multi_strike_f",
+          "Multi-Strike: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Multi-Strike: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      },
+      "attuned_multi_strike_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Multi-Strike: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "multi_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_multistrike.png"
+      }
+    }
+  }
+}

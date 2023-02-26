@@ -1,0 +1,22 @@
+{
+  "name": "Vault_Door",
+  "display_name": "Vault Door",
+  "display_fullname": "Objects.Vault Door",
+  "display_help": "Bank",
+  "display_short_help": "Bank",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/VAULT_DOOR.POWERSETS",
+  "icon": "vault_door_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Vault_Door.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

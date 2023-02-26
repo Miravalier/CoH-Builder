@@ -1,0 +1,318 @@
+{
+  "tag": "Knock",
+  "bears": [
+    [
+      "Boosts.Attuned Avalanche F.Rech/Chance for Knockdown",
+      "boosts.attuned_avalanche_f.attuned_avalanche_f"
+    ],
+    [
+      "Boosts.Attuned Blessing of the Zephyr C.Knockback Reduction (4 points)",
+      "boosts.attuned_blessing_of_the_zephyr_c.attuned_blessing_of_the_zephyr_c"
+    ],
+    [
+      "Boosts.Attuned Explosive Strike A.Knockback/Dam",
+      "boosts.attuned_explosive_strike_a.attuned_explosive_strike_a"
+    ],
+    [
+      "Boosts.Attuned Explosive Strike B.Knockback/Acc",
+      "boosts.attuned_explosive_strike_b.attuned_explosive_strike_b"
+    ],
+    [
+      "Boosts.Attuned Force Feedback A.Knockback/Dam",
+      "boosts.attuned_force_feedback_a.attuned_force_feedback_a"
+    ],
+    [
+      "Boosts.Attuned Force Feedback B.Knockback/Acc",
+      "boosts.attuned_force_feedback_b.attuned_force_feedback_b"
+    ],
+    [
+      "Boosts.Attuned Force Feedback C.Knockback/Rech",
+      "boosts.attuned_force_feedback_c.attuned_force_feedback_c"
+    ],
+    [
+      "Boosts.Attuned Force Feedback E.Knockback/Dam/End",
+      "boosts.attuned_force_feedback_e.attuned_force_feedback_e"
+    ],
+    [
+      "Boosts.Attuned Karma C.Knockback Protection",
+      "boosts.attuned_karma_c.attuned_karma_c"
+    ],
+    [
+      "Boosts.Attuned Kinetic Combat E.Chance for Knockdown",
+      "boosts.attuned_kinetic_combat_e.attuned_kinetic_combat_e"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash A.Knockback/Dam",
+      "boosts.attuned_kinetic_crash_a.attuned_kinetic_crash_a"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash B.Knockback/Acc",
+      "boosts.attuned_kinetic_crash_b.attuned_kinetic_crash_b"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash C.Knockback/Rech",
+      "boosts.attuned_kinetic_crash_c.attuned_kinetic_crash_c"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash E.Knockback/Dam/End",
+      "boosts.attuned_kinetic_crash_e.attuned_kinetic_crash_e"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash F.Knockback/Dam/Acc",
+      "boosts.attuned_kinetic_crash_f.attuned_kinetic_crash_f"
+    ],
+    [
+      "Boosts.Attuned Overwhelming Force F.Dam/Chance for Knockdown/Knockback to Knockdown",
+      "boosts.attuned_overwhelming_force_f.attuned_overwhelming_force_f"
+    ],
+    [
+      "Boosts.Attuned Steadfast Protection C.Knockback Protection",
+      "boosts.attuned_steadfast_protection_c.attuned_steadfast_protection_c"
+    ],
+    [
+      "Boosts.Attuned Stupefy F.Chance for Knockback",
+      "boosts.attuned_stupefy_f.attuned_stupefy_f"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration A.Knockback/Acc",
+      "boosts.attuned_sudden_acceleration_a.attuned_sudden_acceleration_a"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration B.Knockback/Rech",
+      "boosts.attuned_sudden_acceleration_b.attuned_sudden_acceleration_b"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration C.Knockback/Dam/End",
+      "boosts.attuned_sudden_acceleration_c.attuned_sudden_acceleration_c"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration D.Knockback/Dam/Rech",
+      "boosts.attuned_sudden_acceleration_d.attuned_sudden_acceleration_d"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration E.Knockback/Acc/Dam",
+      "boosts.attuned_sudden_acceleration_e.attuned_sudden_acceleration_e"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration F.Knockback to Knockdown",
+      "boosts.attuned_sudden_acceleration_f.attuned_sudden_acceleration_f"
+    ],
+    [
+      "Boosts.Attuned Volley of Velocity A.Knockback/Dam",
+      "boosts.attuned_volley_of_velocity_a.attuned_volley_of_velocity_a"
+    ],
+    [
+      "Boosts.Attuned Volley of Velocity B.Knockback/Acc",
+      "boosts.attuned_volley_of_velocity_b.attuned_volley_of_velocity_b"
+    ],
+    [
+      "Boosts.Attuned Volley of Velocity C.Knockback/Rech",
+      "boosts.attuned_volley_of_velocity_c.attuned_volley_of_velocity_c"
+    ],
+    [
+      "Boosts.Crafted Blessing of the Zephyr C.Knockback Reduction (4 points)",
+      "boosts.crafted_blessing_of_the_zephyr_c.crafted_blessing_of_the_zephyr_c"
+    ],
+    [
+      "Boosts.Crafted Explosive Strike A.Knockback/Dam",
+      "boosts.crafted_explosive_strike_a.crafted_explosive_strike_a"
+    ],
+    [
+      "Boosts.Crafted Explosive Strike B.Knockback/Acc",
+      "boosts.crafted_explosive_strike_b.crafted_explosive_strike_b"
+    ],
+    [
+      "Boosts.Crafted Force Feedback A.Knockback/Dam",
+      "boosts.crafted_force_feedback_a.crafted_force_feedback_a"
+    ],
+    [
+      "Boosts.Crafted Force Feedback B.Knockback/Acc",
+      "boosts.crafted_force_feedback_b.crafted_force_feedback_b"
+    ],
+    [
+      "Boosts.Crafted Force Feedback C.Knockback/Rech",
+      "boosts.crafted_force_feedback_c.crafted_force_feedback_c"
+    ],
+    [
+      "Boosts.Crafted Force Feedback E.Knockback/Dam/End",
+      "boosts.crafted_force_feedback_e.crafted_force_feedback_e"
+    ],
+    [
+      "Boosts.Crafted Karma C.Knockback Protection",
+      "boosts.crafted_karma_c.crafted_karma_c"
+    ],
+    [
+      "Boosts.Crafted Kinetic Combat E.Chance for Knockdown",
+      "boosts.crafted_kinetic_combat_e.crafted_kinetic_combat_e"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash A.Knockback/Dam",
+      "boosts.crafted_kinetic_crash_a.crafted_kinetic_crash_a"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash B.Knockback/Acc",
+      "boosts.crafted_kinetic_crash_b.crafted_kinetic_crash_b"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash C.Knockback/Rech",
+      "boosts.crafted_kinetic_crash_c.crafted_kinetic_crash_c"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash E.Knockback/Dam/End",
+      "boosts.crafted_kinetic_crash_e.crafted_kinetic_crash_e"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash F.Knockback/Dam/Acc",
+      "boosts.crafted_kinetic_crash_f.crafted_kinetic_crash_f"
+    ],
+    [
+      "Boosts.Crafted Knockback 10.Knockback Distance",
+      "boosts.crafted_knockback_10.crafted_knockback_10"
+    ],
+    [
+      "Boosts.Crafted Knockback 15.Knockback Distance",
+      "boosts.crafted_knockback_15.crafted_knockback_15"
+    ],
+    [
+      "Boosts.Crafted Knockback 20.Knockback Distance",
+      "boosts.crafted_knockback_20.crafted_knockback_20"
+    ],
+    [
+      "Boosts.Crafted Knockback 25.Knockback Distance",
+      "boosts.crafted_knockback_25.crafted_knockback_25"
+    ],
+    [
+      "Boosts.Crafted Knockback 30.Knockback Distance",
+      "boosts.crafted_knockback_30.crafted_knockback_30"
+    ],
+    [
+      "Boosts.Crafted Knockback 35.Knockback Distance",
+      "boosts.crafted_knockback_35.crafted_knockback_35"
+    ],
+    [
+      "Boosts.Crafted Knockback 40.Knockback Distance",
+      "boosts.crafted_knockback_40.crafted_knockback_40"
+    ],
+    [
+      "Boosts.Crafted Knockback 45.Knockback Distance",
+      "boosts.crafted_knockback_45.crafted_knockback_45"
+    ],
+    [
+      "Boosts.Crafted Knockback 50.Knockback Distance",
+      "boosts.crafted_knockback_50.crafted_knockback_50"
+    ],
+    [
+      "Boosts.Crafted Knockback.Knockback Distance",
+      "boosts.crafted_knockback.crafted_knockback"
+    ],
+    [
+      "Boosts.Crafted Ragnarok F.Chance for Knockdown",
+      "boosts.crafted_ragnarok_f.crafted_ragnarok_f"
+    ],
+    [
+      "Boosts.Crafted Steadfast Protection C.Knockback Protection",
+      "boosts.crafted_steadfast_protection_c.crafted_steadfast_protection_c"
+    ],
+    [
+      "Boosts.Crafted Stupefy F.Chance for Knockback",
+      "boosts.crafted_stupefy_f.crafted_stupefy_f"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration A.Knockback/Acc",
+      "boosts.crafted_sudden_acceleration_a.crafted_sudden_acceleration_a"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration B.Knockback/Rech",
+      "boosts.crafted_sudden_acceleration_b.crafted_sudden_acceleration_b"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration C.Knockback/Dam/End",
+      "boosts.crafted_sudden_acceleration_c.crafted_sudden_acceleration_c"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration D.Knockback/Dam/Rech",
+      "boosts.crafted_sudden_acceleration_d.crafted_sudden_acceleration_d"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration E.Knockback/Acc/Dam",
+      "boosts.crafted_sudden_acceleration_e.crafted_sudden_acceleration_e"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration F.Knockback to Knockdown",
+      "boosts.crafted_sudden_acceleration_f.crafted_sudden_acceleration_f"
+    ],
+    [
+      "Boosts.Crafted Volley of Velocity A.Knockback/Dam",
+      "boosts.crafted_volley_of_velocity_a.crafted_volley_of_velocity_a"
+    ],
+    [
+      "Boosts.Crafted Volley of Velocity B.Knockback/Acc",
+      "boosts.crafted_volley_of_velocity_b.crafted_volley_of_velocity_b"
+    ],
+    [
+      "Boosts.Crafted Volley of Velocity C.Knockback/Rech",
+      "boosts.crafted_volley_of_velocity_c.crafted_volley_of_velocity_c"
+    ],
+    [
+      "Boosts.Generic Knockback.Knockback Distance",
+      "boosts.generic_knockback.generic_knockback"
+    ],
+    [
+      "Boosts.Magic Knockback.Smite of Hermes (Knockback)",
+      "boosts.magic_knockback.magic_knockback"
+    ],
+    [
+      "Boosts.Mutation Knockback.Extended Knockback (Knockback)",
+      "boosts.mutation_knockback.mutation_knockback"
+    ],
+    [
+      "Boosts.Mutation Magic Knockback.Vambrace (Knockback)",
+      "boosts.mutation_magic_knockback.mutation_magic_knockback"
+    ],
+    [
+      "Boosts.Mutation Science Knockback.DNA Resequencing Knockback Boost (Knockback)",
+      "boosts.mutation_science_knockback.mutation_science_knockback"
+    ],
+    [
+      "Boosts.Natural Knockback.Back Alley Bull Rush (Knockback)",
+      "boosts.natural_knockback.natural_knockback"
+    ],
+    [
+      "Boosts.Natural Magic Knockback.Li Tieh Kuai's Bottle (Knockback)",
+      "boosts.natural_magic_knockback.natural_magic_knockback"
+    ],
+    [
+      "Boosts.Science Knockback.Fluorine Research (Knockback)",
+      "boosts.science_knockback.science_knockback"
+    ],
+    [
+      "Boosts.Science Technology Knockback.Kinetic Accelerator (Knockback)",
+      "boosts.science_technology_knockback.science_technology_knockback"
+    ],
+    [
+      "Boosts.Superior Attuned Avalanche F.Rech/Chance for Knockdown",
+      "boosts.superior_attuned_avalanche_f.superior_attuned_avalanche_f"
+    ],
+    [
+      "Boosts.Superior Attuned Ragnarok F.Chance for Knockdown",
+      "boosts.superior_attuned_ragnarok_f.superior_attuned_ragnarok_f"
+    ],
+    [
+      "Boosts.Technology Knockback.Benedict Tech Repulsion Field (Knockback)",
+      "boosts.technology_knockback.technology_knockback"
+    ],
+    [
+      "Boosts.Technology Natural Knockback.Repulsion Projector (Knockback)",
+      "boosts.technology_natural_knockback.technology_natural_knockback"
+    ],
+    [
+      "Incarnate.Alpha Silent.Knockback Rare",
+      "incarnate.alpha_silent.knockback_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Knockback Very Rare",
+      "incarnate.alpha_silent.knockback_very_rare"
+    ]
+  ],
+  "affects": []
+}

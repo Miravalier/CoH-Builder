@@ -1,0 +1,26 @@
+{
+  "name": "Defender_BR_Snipe",
+  "display_name": "",
+  "display_fullname": "Pets.Defender BR Snipe",
+  "display_help": "Beam Rifle",
+  "display_short_help": "Beam Rifle",
+  "available_level": [
+    23,
+    23
+  ],
+  "source_file": "DEFS/POWERS/PETS/DEFENDER_BR_SNIPE.POWERSETS",
+  "icon": "defender_br_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Defender_BR_Snipe.Penetrating_Ray_Normal",
+    "Pets.Defender_BR_Snipe.Penetrating_Ray_Quick"
+  ],
+  "power_display_names": [
+    "Penetrating Ray",
+    "Penetrating Ray"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy), Foe Knockdown, Special",
+    "Sniper, Extreme DMG(Energy), Foe Knockdown, Special"
+  ]
+}

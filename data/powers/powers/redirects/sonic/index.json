@@ -1,0 +1,54 @@
+{
+  "name": "Sonic",
+  "display_name": "Sonic",
+  "display_fullname": "Redirects.Sonic",
+  "display_help": "Sonic",
+  "display_short_help": "Sonic",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDIRECTS/SONIC.POWERSETS",
+  "icon": "blind_set.png",
+  "requires": "",
+  "power_names": [
+    "Redirects.Sonic.Sonic_Vibrations_1_Dominator",
+    "Redirects.Sonic.Sonic_Vibrations_2_Dominator",
+    "Redirects.Sonic.Sonic_Vibrations_3_Dominator",
+    "Redirects.Sonic.Sonic_Vibrations_1",
+    "Redirects.Sonic.Sonic_Vibrations_2",
+    "Redirects.Sonic.Sonic_Vibrations_3",
+    "Redirects.Sonic.Sonic_Vibrations_4",
+    "Redirects.Sonic.Sonic_Vibrations_Wide",
+    "Redirects.Sonic.Sonic_Vibrations_Extensive"
+  ],
+  "power_display_names": [
+    "Short Sonic Vibrations",
+    "Lingering Sonic Vibrations",
+    "Extended Sonic Vibrations",
+    "Short Sonic Vibrations",
+    "Incremental Sonic Vibrations",
+    "Extended Sonic Vibrations",
+    "Prolonged Sonic Vibrations",
+    "Wide Sonic Vibrations",
+    "Extensive Sonic Vibrations"
+  ],
+  "power_short_helps": [
+    "-Res",
+    "-Res",
+    "-Res",
+    "-Res",
+    "-Res",
+    "-Res",
+    "-Res",
+    "-Res",
+    "-Res"
+  ]
+}

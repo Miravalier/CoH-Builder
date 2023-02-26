@@ -1,0 +1,25 @@
+{
+  "group": "Mineral_Armor_Group",
+  "powers": [
+    [
+      "Blaster Support.Earth Manipulation.Beryl Crystals",
+      "blaster_support.earth_manipulation.beryl_crystals"
+    ],
+    [
+      "Brute Defense.Stone Armor.Minerals",
+      "brute_defense.stone_armor.minerals"
+    ],
+    [
+      "Mission Maker Secondary.Earth Manipulation.Beryl Crystals",
+      "mission_maker_secondary.earth_manipulation.beryl_crystals"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Minerals",
+      "tanker_defense.stone_armor.mineral_armor"
+    ],
+    [
+      "V Arachnos Proxy.Earth Manipulation.Beryl Crystals",
+      "v_arachnos_proxy.earth_manipulation.beryl_crystals"
+    ]
+  ]
+}

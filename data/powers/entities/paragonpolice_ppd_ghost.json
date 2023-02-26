@@ -1,0 +1,91 @@
+{
+  "name": "ParagonPolice_PPD_Ghost",
+  "gender": "GENDER_MALE",
+  "group_name": "ParagonPolice",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 35,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "Keeping the peace in Paragon City is not easy by any stretch of the imagination, and the PPD has to be clever and innovative to keep up with would be criminals. When things get dicey, PPD SWAT answers the call. These heavily armored officers have extensive training with the newest tactics and weaponry to combat their often super powered foes.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_ParagonPolice.Ghost_Attack.SCAR_Burst",
+      "V_ParagonPolice.Ghost_Attack.SCAR_Heavy_Burst",
+      "V_ParagonPolice.Ghost_Attack.SCAR_Snipe",
+      "V_ParagonPolice.Ghost_Attack.Tear_Gas",
+      "V_ParagonPolice.Ghost_Attack.Flashbang_Grenades",
+      "V_ParagonPolice.Ghost_Resists.Hide"
+    ],
+    "power_display_names": [
+      "SCAR Burst",
+      "SCAR Heavy Burst",
+      "SCAR Snipe",
+      "Tear Gas",
+      "Flashbang Grenades",
+      "Hide"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Ghost_Attack",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Ghost_Resists",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 35,
+      "experience": 0,
+      "display_names": [
+        "PPD Ghost"
+      ],
+      "costumes": [
+        "Swat_Ghost"
+      ]
+    }
+  ]
+}

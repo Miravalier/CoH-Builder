@@ -1,0 +1,42 @@
+{
+  "name": "IceWind",
+  "display_name": "IceWind",
+  "display_fullname": "Tsoo.IceWind",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ICEWIND.POWERSETS",
+  "icon": "icewind_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.IceWind.Frost_Breath",
+    "Tsoo.IceWind.Frost",
+    "Tsoo.IceWind.Snow_Storm",
+    "Tsoo.IceWind.Storm_Kick",
+    "Tsoo.IceWind.Frozen_Fists",
+    "Tsoo.IceWind.Ice_Bolt"
+  ],
+  "power_display_names": [
+    "Frost Breath",
+    "Frost",
+    "Snow Storm",
+    "Storm Kick",
+    "Frozen Fists",
+    "Ice Bolt"
+  ],
+  "power_short_helps": [
+    "DoT(Cold), -Recharge, -SPD",
+    "DoT(Cold), -Recharge",
+    "-SPD, -Recharge",
+    "Melee Smash",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD"
+  ]
+}

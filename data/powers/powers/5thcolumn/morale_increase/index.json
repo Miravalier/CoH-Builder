@@ -1,0 +1,22 @@
+{
+  "name": "Morale_Increase",
+  "display_name": "",
+  "display_fullname": "5thColumn.Morale Increase",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/MORALE_INCREASE.POWERSETS",
+  "icon": "morale_increase_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Morale_Increase.Improved_Morale"
+  ],
+  "power_display_names": [
+    "Improved Morale"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

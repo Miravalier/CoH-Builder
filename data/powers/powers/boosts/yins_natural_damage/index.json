@@ -1,0 +1,22 @@
+{
+  "name": "Yins_Natural_Damage",
+  "display_name": "Yins Natural Damage",
+  "display_fullname": "Boosts.Yins Natural Damage",
+  "display_help": "Enhances the damage of a power.",
+  "display_short_help": "Talisman (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/YINS_NATURAL_DAMAGE.POWERSETS",
+  "icon": "yins_natural_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Yins_Natural_Damage.Yins_Natural_Damage"
+  ],
+  "power_display_names": [
+    "Talisman of the Ogre's Might (Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage"
+  ]
+}

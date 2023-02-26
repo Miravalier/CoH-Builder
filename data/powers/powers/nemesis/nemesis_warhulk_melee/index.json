@@ -1,0 +1,22 @@
+{
+  "name": "Nemesis_WarHulk_Melee",
+  "display_name": "Nemesis_WarHulk_Melee",
+  "display_fullname": "Nemesis.Nemesis WarHulk Melee",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_WARHULK_MELEE.POWERSETS",
+  "icon": "nemesis_warhulk_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_WarHulk_Melee.Pummel"
+  ],
+  "power_display_names": [
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Melee Heavy Lethal"
+  ]
+}

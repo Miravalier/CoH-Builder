@@ -1,0 +1,26 @@
+{
+  "name": "Minelayer",
+  "display_name": "Minelayer",
+  "display_fullname": "Incarnate AlphaStrike.Minelayer",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/MINELAYER.POWERSETS",
+  "icon": "minelayer_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Minelayer.Lay_Mine",
+    "Incarnate_AlphaStrike.Minelayer.Resistance"
+  ],
+  "power_display_names": [
+    "Lay Mine",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Resistance"
+  ]
+}

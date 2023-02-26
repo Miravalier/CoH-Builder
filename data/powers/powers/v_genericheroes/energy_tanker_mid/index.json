@@ -1,0 +1,30 @@
+{
+  "name": "Energy_Tanker_Mid",
+  "display_name": "Energy Tanker Mid",
+  "display_fullname": "V GenericHeroes.Energy Tanker Mid",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ENERGY_TANKER_MID.POWERSETS",
+  "icon": "energy_tanker_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Energy_Tanker_Mid.Laser_Beam_Eyes",
+    "V_GenericHeroes.Energy_Tanker_Mid.Whirling_Hands",
+    "V_GenericHeroes.Energy_Tanker_Mid.Unyielding"
+  ],
+  "power_display_names": [
+    "Laser Beam Eyes",
+    "Whirling Hands",
+    "Unyielding"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Disorient",
+    "Toggle: Self +Res(Knockback, Sleep, Disorient, Hold, Immobilize, Fire, Cold, Energy, Negative), Self -DEF"
+  ]
+}

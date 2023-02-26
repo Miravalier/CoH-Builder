@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Overwhelming_Force_E",
+  "display_name": "Attuned Overwhelming Force E",
+  "display_fullname": "Boosts.Attuned Overwhelming Force E",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}%, reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Overwhelming Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_OVERWHELMING_FORCE_E.POWERSETS",
+  "icon": "attuned_overwhelming_force_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Overwhelming_Force_E.Attuned_Overwhelming_Force_E"
+  ],
+  "power_display_names": [
+    "Overwhelming Force: Accuracy/Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +DMG, -End Cost, +Rech"
+  ]
+}

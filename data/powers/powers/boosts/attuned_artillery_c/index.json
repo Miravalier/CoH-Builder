@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Artillery_C",
+  "display_name": "Attuned Artillery C",
+  "display_fullname": "Boosts.Attuned Artillery C",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Artillery",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ARTILLERY_C.POWERSETS",
+  "icon": "e_icon_artillery.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Artillery_C.Attuned_Artillery_C"
+  ],
+  "power_display_names": [
+    "Artillery: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+DMG, +Rech"
+  ]
+}

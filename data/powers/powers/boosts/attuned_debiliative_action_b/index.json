@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Debiliative_Action_B",
+  "display_name": "Attuned Debilitative Action B",
+  "display_fullname": "Boosts.Attuned Debiliative Action B",
+  "display_help": "Enhances the Immobilize duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Debilitative Action",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEBILIATIVE_ACTION_B.POWERSETS",
+  "icon": "attuned_debiliative_action_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Debiliative_Action_B.Attuned_Debiliative_Action_B"
+  ],
+  "power_display_names": [
+    "Debilitative Action: Immobilize/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+End, +Immobilize"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lamentation",
+  "display_name": "Lamentation",
+  "display_fullname": "TalonsOfVengeance.Lamentation",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/LAMENTATION.POWERSETS",
+  "icon": "lamentation_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Lamentation.Heal"
+  ],
+  "power_display_names": [
+    "Boon of Sorrow"
+  ],
+  "power_short_helps": [
+    "Heal Self"
+  ]
+}

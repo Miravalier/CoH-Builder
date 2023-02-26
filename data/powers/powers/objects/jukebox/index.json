@@ -1,0 +1,22 @@
+{
+  "name": "Jukebox",
+  "display_name": "Jukebox",
+  "display_fullname": "Objects.Jukebox",
+  "display_help": "Jukebox",
+  "display_short_help": "Jukebox",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/JUKEBOX.POWERSETS",
+  "icon": "jukebox_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Jukebox.Jukebox1"
+  ],
+  "power_display_names": [
+    "Jukebox"
+  ],
+  "power_short_helps": [
+    "Jukebox"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Numinas_Convalesence_C",
+  "display_name": "Attuned Numina's Convalescence C",
+  "display_fullname": "Boosts.Attuned Numinas Convalesence C",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Numinas Convalescence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NUMINAS_CONVALESENCE_C.POWERSETS",
+  "icon": "attuned_numinas_convalesence_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Numinas_Convalesence_C.Attuned_Numinas_Convalesence_C"
+  ],
+  "power_display_names": [
+    "Numina's Convalescence: Healing/Absorb/Recharge"
+  ],
+  "power_short_helps": [
+    "+Heal, +Rech, +Absorb"
+  ]
+}

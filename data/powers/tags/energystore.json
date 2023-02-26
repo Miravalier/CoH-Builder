@@ -1,0 +1,106 @@
+{
+  "tag": "EnergyStore",
+  "bears": [
+    [
+      "Brute Melee.Energy Melee.Total Focus",
+      "brute_melee.energy_melee.total_focus"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Bone Smasher",
+      "dominator_assault.energy_assault.bone_smasher"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Power Blast",
+      "dominator_assault.energy_assault.power_blast"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Power Bolt",
+      "dominator_assault.energy_assault.power_bolt"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Power Push",
+      "dominator_assault.energy_assault.power_push"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Total Focus",
+      "dominator_assault.energy_assault.total_focus"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Bone Smasher",
+      "mission_maker_attacks.energy_assault.bone_smasher"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Power Blast",
+      "mission_maker_attacks.energy_assault.power_blast"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Power Bolt",
+      "mission_maker_attacks.energy_assault.power_bolt"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Power Push",
+      "mission_maker_attacks.energy_assault.power_push"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Sniper Blast",
+      "mission_maker_attacks.energy_assault.sniper_blast"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Total Focus",
+      "mission_maker_attacks.energy_assault.total_focus"
+    ],
+    [
+      "Mission Maker Attacks.Energy Melee.Total Focus",
+      "mission_maker_attacks.energy_melee.total_focus"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Bone Smasher",
+      "mission_maker_secondary.energy_assault.bone_smasher"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Power Blast",
+      "mission_maker_secondary.energy_assault.power_blast"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Power Bolt",
+      "mission_maker_secondary.energy_assault.power_bolt"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Power Push",
+      "mission_maker_secondary.energy_assault.power_push"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Sniper Blast",
+      "mission_maker_secondary.energy_assault.sniper_blast"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Total Focus",
+      "mission_maker_secondary.energy_assault.total_focus"
+    ],
+    [
+      "Mission Maker Secondary.Energy Melee.Total Focus",
+      "mission_maker_secondary.energy_melee.total_focus"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Total Focus",
+      "scrapper_melee.energy_melee.total_focus"
+    ],
+    [
+      "Stalker Melee.Energy Melee.Total Focus",
+      "stalker_melee.energy_melee.total_focus"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Total Focus",
+      "tanker_melee.energy_melee.total_focus"
+    ],
+    [
+      "Villain Pets.Dominator EnergyAssault Snipe.Sniper Blast",
+      "villain_pets.dominator_energyassault_snipe.sniper_blast_normal"
+    ],
+    [
+      "Villain Pets.Dominator EnergyAssault Snipe.Sniper Blast",
+      "villain_pets.dominator_energyassault_snipe.sniper_blast_quick"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,168 @@
+{
+  "name": "Vindicators_Ms_Liberty_Boss_NoScale",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Vindicators",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_BOSS",
+    "ai_config": "Signatures_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "Megan is the daughter of the original Miss Liberty from the Golden Age. She has taken up the mantle to fight for freedom, in this specific case to free Paragon City from its infestation of villains. She has heightened strength and endurance as well as the power of the Liberty Belt, which was passed on to her by her grandmother.",
+    "group_description": null,
+    "display_class_name": "Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Vindicators.Vindicator_Resistances.Resistance",
+      "V_Vindicators.Ms_Liberty.Thunder_Kick",
+      "V_Vindicators.Ms_Liberty.Storm_Kick",
+      "V_Vindicators.Ms_Liberty.Cobra_Strike",
+      "V_Vindicators.Ms_Liberty.Crane_Kick",
+      "V_Vindicators.Ms_Liberty.Crippling_Axe_Kick",
+      "V_Vindicators.Ms_Liberty.Eagles_Claw",
+      "V_Vindicators.Ms_Liberty.Dull_Pain",
+      "V_Vindicators.Ms_Liberty.Lightning_Bolt",
+      "V_Vindicators.Ms_Liberty.Thunder_Strike",
+      "V_Vindicators.Ms_Liberty.Super_Leap",
+      "V_Vindicators.Ms_Liberty.Resistance"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Thunder Kick",
+      "Storm Kick",
+      "Cobra Strike",
+      "Crane Kick",
+      "Crippling Axe Kick",
+      "Eagles Claw",
+      "Dull Pain",
+      "Lightning Bolt",
+      "Thunder Strike",
+      "Super Leap",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Vindicator_Resistances",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Thunder_Kick",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Storm_Kick",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Cobra_Strike",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Crane_Kick",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Crippling_Axe_Kick",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Eagles_Claw",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Dull_Pain",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Lightning_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Thunder_Strike",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Super_Leap",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Ms_Liberty",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Ms. Liberty"
+      ],
+      "costumes": [
+        "Model_MsLiberty_NoRing"
+      ]
+    }
+  ]
+}

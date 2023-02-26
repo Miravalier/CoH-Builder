@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Brutes_Fury_D",
+  "display_name": "Superior Attuned Superior Brutes Fury D",
+  "display_fullname": "Boosts.Superior Attuned Brutes Fury D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Brutes and may be slotted into any Brute damage power.",
+  "display_short_help": "Set: Superior Brute's Fury",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_BRUTES_FURY_D.POWERSETS",
+  "icon": "superior_attuned_superior_brutes_fury_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Brutes_Fury_D.Superior_Attuned_Superior_Brutes_Fury_D"
+  ],
+  "power_display_names": [
+    "Superior Brute's Fury: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost, and Increases Attack Rate"
+  ]
+}

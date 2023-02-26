@@ -1,0 +1,23 @@
+{
+  "tag": "VortexCritical",
+  "bears": [
+    [
+      "Pets.Wind Control.Blast of Debris",
+      "pets.wind_control_vortex.blast_of_debris"
+    ],
+    [
+      "Pets.Wind Control.Crash of Thunder",
+      "pets.wind_control_vortex.crash_of_thunder"
+    ],
+    [
+      "Pets.Wind Control.Whirlwind",
+      "pets.wind_control_vortex.whirlwind"
+    ]
+  ],
+  "affects": [
+    [
+      "Pets.Wind Control.Pressurization",
+      "pets.wind_control_vortex.pressurization"
+    ]
+  ]
+}

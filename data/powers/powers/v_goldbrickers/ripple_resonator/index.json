@@ -1,0 +1,26 @@
+{
+  "name": "Ripple_Resonator",
+  "display_name": "Ripple Resonator",
+  "display_fullname": "V GoldBrickers.Ripple Resonator",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/RIPPLE_RESONATOR.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Ripple_Resonator.Sonic_Concussion",
+    "V_GoldBrickers.Ripple_Resonator.Sonic_Grenade"
+  ],
+  "power_display_names": [
+    "Ripple Concussion",
+    "Ripple Resonator"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "-Res(All)"
+  ]
+}

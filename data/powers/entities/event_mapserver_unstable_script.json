@@ -1,0 +1,90 @@
+{
+  "name": "Event_Mapserver_Unstable_Script",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "MapserverPlot"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "This unstable script is liable to explode at a moment's notice. But if it doesn't, it will surely make the intern that wrote it seem smarter than he is!",
+    "group_description": "D.O.O.M.",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 10.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_ParagonPolice.PPD_Drone.Disintegration_Beam",
+      "V_ParagonPolice.PPD_Drone.Resistance",
+      "CircleOfThorns.Circle_Red_Crystal.Crystal_of_Pain",
+      "Nemesis.Nemesis_Soldier_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Disintegration Beam",
+      "Resistance",
+      "Crystal of Pain",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "PPD_Drone",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Red_Crystal",
+        "power": "Crystal_of_Pain",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Soldier_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Unstable Script"
+      ],
+      "costumes": [
+        "Event_MapScript"
+      ]
+    }
+  ]
+}

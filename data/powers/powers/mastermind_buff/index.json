@@ -1,0 +1,47 @@
+{
+  "name": "Mastermind_Buff",
+  "display_name": "Buff",
+  "source_file": "DEFS/POWERS/MASTERMIND_BUFF.CATEGORIES",
+  "archetypes": [
+    "mastermind"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "mastermind_buff.cold_domination",
+    "mastermind_buff.dark_miasma",
+    "mastermind_buff.empathy",
+    "mastermind_buff.force_field",
+    "mastermind_buff.kinetics",
+    "mastermind_buff.nature_affinity",
+    "mastermind_buff.pain_domination",
+    "mastermind_buff.poison",
+    "mastermind_buff.radiation_emission",
+    "mastermind_buff.shock_therapy",
+    "mastermind_buff.sonic_resonance",
+    "mastermind_buff.storm_summoning",
+    "mastermind_buff.thermal_radiation",
+    "mastermind_buff.time_manipulation",
+    "mastermind_buff.traps",
+    "mastermind_buff.trick_arrow"
+  ],
+  "powerset_display_names": [
+    "Cold Domination",
+    "Dark Miasma",
+    "Empathy",
+    "Force Field",
+    "Kinetics",
+    "Nature Affinity",
+    "Pain Domination",
+    "Poison",
+    "Radiation Emission",
+    "Electrical Affinity",
+    "Sonic Resonance",
+    "Storm Summoning",
+    "Thermal Radiation",
+    "Time Manipulation",
+    "Traps",
+    "Trick Arrow"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Tempest_A",
+  "display_name": "Attuned Tempest A",
+  "display_fullname": "Boosts.Attuned Tempest A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Tempest",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TEMPEST_A.POWERSETS",
+  "icon": "attuned_tempest_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Tempest_A.Attuned_Tempest_A"
+  ],
+  "power_display_names": [
+    "Tempest: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Stalker_EpicMuMastery_Snipe",
+  "display_name": "Stalker_EpicMuMastery_Snipe",
+  "display_fullname": "Villain Pets.Stalker EpicMuMastery Snipe",
+  "display_help": "Mu Mastery",
+  "display_short_help": "Mu Mastery",
+  "available_level": [
+    34,
+    34
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/STALKER_EPICMUMASTERY_SNIPE.POWERSETS",
+  "icon": "stalker_epicmumastery_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Stalker_EpicMuMastery_Snipe.Zapp_Quick",
+    "Villain_Pets.Stalker_EpicMuMastery_Snipe.Zapp_Normal"
+  ],
+  "power_display_names": [
+    "Zapp",
+    "Zapp"
+  ],
+  "power_short_helps": [
+    "Sniper, Moderate DMG(Energy), Foe -End",
+    "Sniper, Extreme DMG(Energy), Foe -End"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "5thColumn_Night_Soldier_Missle",
+  "gender": "GENDER_MALE",
+  "group_name": "5thColumn",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 5,
+    "max_level": 19,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "5thColumn_Fog_Base",
+    "character_class_name": "minion_grunt",
+    "description": "The Nacht is the 5th Column's special operations division, tasked with covert ops, assassinations, and espionage. Even the lowest level recruits receive some special training, particularly in stealth and evasion techniques. New recruits must have some military or law enforcement experience before being accepted into the Nacht.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "5thColumn.Fifth_Column_Soldier_Melee.Brawl",
+      "5thColumn.Fifth_Column_Minion_Soldier_Heavy.Missile_Launcher"
+    ],
+    "power_display_names": [
+      "Brawl",
+      "Missile Launcher"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Soldier_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Minion_Soldier_Heavy",
+        "power": "Missile_Launcher",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 5,
+      "max_level": 19,
+      "experience": 0,
+      "display_names": [
+        "Nacht Rocket"
+      ],
+      "costumes": [
+        "5thFog_30"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lost_Brawl",
+  "display_name": "Lost_Brawl",
+  "display_fullname": "Rikti.Lost Brawl",
+  "display_help": "The Lost",
+  "display_short_help": "The Lost",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/LOST_BRAWL.POWERSETS",
+  "icon": "lost_brawl_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Lost_Brawl.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

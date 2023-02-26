@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Call_of_the_Sandman_D",
+  "display_name": "Crafted Call of the Sandman D",
+  "display_fullname": "Boosts.Crafted Call of the Sandman D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and sleep duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Call of the Sandman",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_CALL_OF_THE_SANDMAN_D.POWERSETS",
+  "icon": "crafted_call_of_the_sandman_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Call_of_the_Sandman_D.Crafted_Call_of_the_Sandman_D"
+  ],
+  "power_display_names": [
+    "Call of the Sandman: Sleep/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Sleep"
+  ]
+}

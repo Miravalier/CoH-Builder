@@ -1,0 +1,34 @@
+{
+  "name": "Ghosts",
+  "display_name": "Ghosts",
+  "display_fullname": "V SpectralPirates.Ghosts",
+  "display_help": "Spectral Pirates",
+  "display_short_help": "Spectral Pirates",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SPECTRALPIRATES/GHOSTS.POWERSETS",
+  "icon": "ghosts_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpectralPirates.Ghosts.Ethereal",
+    "V_SpectralPirates.Ghosts.Resistance",
+    "V_SpectralPirates.Ghosts.Fly",
+    "V_SpectralPirates.Ghosts.Ghastly_Blast"
+  ],
+  "power_display_names": [
+    "Ethereal",
+    "Resistance",
+    "Fly",
+    "Ghastly Blast"
+  ],
+  "power_short_helps": [
+    "Self Invisible, Invulnerable",
+    "Auto Res Sleep, Fear, Immobilize, Slow",
+    "Self Travel",
+    "-ACC"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Dark_Melee",
+  "display_name": "Dark Melee",
+  "display_fullname": "Mission Maker Secondary.Dark Melee",
+  "display_help": "Dark Melee allows you to focus the powers of the Netherworld to defeat your foes. The draining effects of most of these powers can reduce the target's Accuracy.",
+  "display_short_help": "Dark Melee",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/DARK_MELEE.POWERSETS",
+  "icon": "dark_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Dark_Melee.Shadow_Punch",
+    "Mission_Maker_Secondary.Dark_Melee.Smite",
+    "Mission_Maker_Secondary.Dark_Melee.Gloom",
+    "Mission_Maker_Secondary.Dark_Melee.Shadow_Maul",
+    "Mission_Maker_Secondary.Dark_Melee.Touch_of_Fear",
+    "Mission_Maker_Secondary.Dark_Melee.Siphon_Life",
+    "Mission_Maker_Secondary.Dark_Melee.Dark_Consumption",
+    "Mission_Maker_Secondary.Dark_Melee.Soul_Drain",
+    "Mission_Maker_Secondary.Dark_Melee.Midnight_Grasp"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite",
+    "Gloom",
+    "Shadow Maul",
+    "Touch of Fear",
+    "Siphon Life",
+    "Dark Consumption",
+    "Soul Drain",
+    "Midnight Grasp"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG (Smash/Negative), Foe -To Hit",
+    "Melee, Moderate DMG (Smash/Negative), Foe -To Hit",
+    "Ranged, High DoT(Negative), Foe -To-hit",
+    "Melee (Cone), High DoT(Smash/Negative), Foe -To Hit",
+    "Melee (Targeted AoE), Moderate DMG (Negative), Fear, Foe -To Hit",
+    "Melee, Superior DMG(Negative), Foe -To Hit, Self +HP",
+    "PBAoE Moderate DMG(Negative), Self +End",
+    "PBAoE Moderate DMG(Negative), Self +DMG, +To Hit",
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit"
+  ]
+}

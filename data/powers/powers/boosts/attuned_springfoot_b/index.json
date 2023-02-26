@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Springfoot_B",
+  "display_name": "Attuned Springfoot B",
+  "display_fullname": "Boosts.Attuned Springfoot B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Springfoot",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SPRINGFOOT_B.POWERSETS",
+  "icon": "attuned_springfoot_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Springfoot_B.Attuned_Springfoot_B"
+  ],
+  "power_display_names": [
+    "Springfoot: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

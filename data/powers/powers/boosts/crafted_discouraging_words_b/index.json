@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Discouraging_Words_B",
+  "display_name": "Crafted Discouraging Words B",
+  "display_fullname": "Boosts.Crafted Discouraging Words B",
+  "display_help": "Enhances the to hit debuff potential of a power by {Boost.Attrib.ToHit.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Discouraging Words",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DISCOURAGING_WORDS_B.POWERSETS",
+  "icon": "crafted_discouraging_words_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Discouraging_Words_B.Crafted_Discouraging_Words_B"
+  ],
+  "power_display_names": [
+    "Discouraging Words: To Hit Debuff/Recharge"
+  ],
+  "power_short_helps": [
+    "+To Hit Debuff, +Rech"
+  ]
+}

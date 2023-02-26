@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Interrupt",
+  "display_name": "Mutation Science Interrupt",
+  "display_fullname": "Boosts.Mutation Science Interrupt",
+  "display_help": "Decreases the interrupt time of powers that can be interrupted.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_INTERRUPT.POWERSETS",
+  "icon": "mutation_science_interrupt_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Interrupt.Mutation_Science_Interrupt"
+  ],
+  "power_display_names": [
+    "Molecular Bonding Time Manipulation Boost (Interrupt)"
+  ],
+  "power_short_helps": [
+    "Decreases Interrupt Time"
+  ]
+}

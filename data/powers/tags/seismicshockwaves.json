@@ -1,0 +1,303 @@
+{
+  "tag": "SeismicShockwaves",
+  "bears": [
+    [
+      "Blaster Ranged.Seismic Blast.Encase",
+      "blaster_ranged.seismic_blast.encase"
+    ],
+    [
+      "Blaster Ranged.Seismic Blast.Entomb",
+      "blaster_ranged.seismic_blast.entomb"
+    ],
+    [
+      "Blaster Ranged.Seismic Blast.Shatter",
+      "blaster_ranged.seismic_blast.shatter"
+    ],
+    [
+      "Blaster Ranged.Seismic Blast.Upthrust",
+      "blaster_ranged.seismic_blast.upthrust"
+    ],
+    [
+      "Corruptor Ranged.Seismic Blast.Encase",
+      "corruptor_ranged.seismic_blast.encase"
+    ],
+    [
+      "Corruptor Ranged.Seismic Blast.Entomb",
+      "corruptor_ranged.seismic_blast.entomb"
+    ],
+    [
+      "Corruptor Ranged.Seismic Blast.Shatter",
+      "corruptor_ranged.seismic_blast.shatter"
+    ],
+    [
+      "Corruptor Ranged.Seismic Blast.Upthrust",
+      "corruptor_ranged.seismic_blast.upthrust"
+    ],
+    [
+      "Defender Ranged.Seismic Blast.Encase",
+      "defender_ranged.seismic_blast.encase"
+    ],
+    [
+      "Defender Ranged.Seismic Blast.Entomb",
+      "defender_ranged.seismic_blast.entomb"
+    ],
+    [
+      "Defender Ranged.Seismic Blast.Shatter",
+      "defender_ranged.seismic_blast.shatter"
+    ],
+    [
+      "Defender Ranged.Seismic Blast.Upthrust",
+      "defender_ranged.seismic_blast.upthrust"
+    ],
+    [
+      "Mission Maker Attacks.Seismic Blast.Encase",
+      "mission_maker_attacks.seismic_blast.encase"
+    ],
+    [
+      "Mission Maker Attacks.Seismic Blast.Entomb",
+      "mission_maker_attacks.seismic_blast.entomb"
+    ],
+    [
+      "Mission Maker Attacks.Seismic Blast.Shatter",
+      "mission_maker_attacks.seismic_blast.shatter"
+    ],
+    [
+      "Mission Maker Attacks.Seismic Blast.Upthrust",
+      "mission_maker_attacks.seismic_blast.upthrust"
+    ],
+    [
+      "Mission Maker Secondary.Seismic Blast.Encase",
+      "mission_maker_secondary.seismic_blast.encase"
+    ],
+    [
+      "Mission Maker Secondary.Seismic Blast.Entomb",
+      "mission_maker_secondary.seismic_blast.entomb"
+    ],
+    [
+      "Mission Maker Secondary.Seismic Blast.Shatter",
+      "mission_maker_secondary.seismic_blast.shatter"
+    ],
+    [
+      "Mission Maker Secondary.Seismic Blast.Upthrust",
+      "mission_maker_secondary.seismic_blast.upthrust"
+    ],
+    [
+      "Redirects.Seismic Blast.Rock Shards",
+      "redirects.seismic_blast.ae_rock_shards"
+    ],
+    [
+      "Redirects.Seismic Blast.Rock Shards",
+      "redirects.seismic_blast.blaster_rock_shards"
+    ],
+    [
+      "Redirects.Seismic Blast.Rock Shards",
+      "redirects.seismic_blast.corruptor_rock_shards"
+    ],
+    [
+      "Redirects.Seismic Blast.Rock Shards",
+      "redirects.seismic_blast.critter_rock_shards"
+    ],
+    [
+      "Redirects.Seismic Blast.Rock Shards",
+      "redirects.seismic_blast.defender_rock_shards"
+    ],
+    [
+      "Redirects.Seismic Blast.Rock Shards",
+      "redirects.seismic_blast.sentinel_rock_shards"
+    ],
+    [
+      "Redirects.Seismic Blast.Seismic Pressure Release",
+      "redirects.seismic_blast.seismic_stress_release"
+    ],
+    [
+      "Redirects.Seismic Blast.Seismic Shockwaves",
+      "redirects.seismic_blast.shockwaves_buff"
+    ],
+    [
+      "Redirects.Seismic Blast.Stalagmite",
+      "redirects.seismic_blast.ae_stalagmite"
+    ],
+    [
+      "Redirects.Seismic Blast.Stalagmite",
+      "redirects.seismic_blast.blaster_stalagmite"
+    ],
+    [
+      "Redirects.Seismic Blast.Stalagmite",
+      "redirects.seismic_blast.corruptor_stalagmite"
+    ],
+    [
+      "Redirects.Seismic Blast.Stalagmite",
+      "redirects.seismic_blast.critter_stalagmite"
+    ],
+    [
+      "Redirects.Seismic Blast.Stalagmite",
+      "redirects.seismic_blast.defender_stalagmite"
+    ],
+    [
+      "Redirects.Seismic Blast.Stalagmite",
+      "redirects.seismic_blast.sentinel_stalagmite"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.ae_tombstone_normal"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.ae_tombstone_quick"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.blaster_tombstone_normal"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.blaster_tombstone_quick"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.corruptor_tombstone_normal"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.corruptor_tombstone_quick"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.critter_tombstone_normal"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.critter_tombstone_quick"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.defender_tombstone_normal"
+    ],
+    [
+      "Redirects.Seismic Blast.Tombstone",
+      "redirects.seismic_blast.defender_tombstone_quick"
+    ],
+    [
+      "Sentinel Ranged.Seismic Blast.Encase",
+      "sentinel_ranged.seismic_blast.encase"
+    ],
+    [
+      "Sentinel Ranged.Seismic Blast.Entomb",
+      "sentinel_ranged.seismic_blast.entomb"
+    ],
+    [
+      "Sentinel Ranged.Seismic Blast.Gravestone",
+      "sentinel_ranged.seismic_blast.gravestone"
+    ],
+    [
+      "Sentinel Ranged.Seismic Blast.Shatter",
+      "sentinel_ranged.seismic_blast.shatter"
+    ],
+    [
+      "Sentinel Ranged.Seismic Blast.Upthrust",
+      "sentinel_ranged.seismic_blast.upthrust"
+    ],
+    [
+      "V Arachnos Proxy.Seismic Blast.Encase",
+      "v_arachnos_proxy.seismic_blast.encase"
+    ],
+    [
+      "V Arachnos Proxy.Seismic Blast.Entomb",
+      "v_arachnos_proxy.seismic_blast.entomb"
+    ],
+    [
+      "V Arachnos Proxy.Seismic Blast.Shatter",
+      "v_arachnos_proxy.seismic_blast.shatter"
+    ],
+    [
+      "V Arachnos Proxy.Seismic Blast.Upthrust",
+      "v_arachnos_proxy.seismic_blast.upthrust"
+    ]
+  ],
+  "affects": [
+    [
+      "Blaster Ranged.Seismic Blast.Seismic Force",
+      "blaster_ranged.seismic_blast.seismic_force"
+    ],
+    [
+      "Corruptor Ranged.Seismic Blast.Seismic Force",
+      "corruptor_ranged.seismic_blast.seismic_force"
+    ],
+    [
+      "Defender Ranged.Seismic Blast.Seismic Force",
+      "defender_ranged.seismic_blast.seismic_force"
+    ],
+    [
+      "Mission Maker Attacks.Seismic Blast.Seismic Force",
+      "mission_maker_attacks.seismic_blast.seismic_force"
+    ],
+    [
+      "Mission Maker Secondary.Seismic Blast.Seismic Force",
+      "mission_maker_secondary.seismic_blast.seismic_force"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Rock Shards",
+      "redirects.seismic_blast.ae_rock_shards_large"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Rock Shards",
+      "redirects.seismic_blast.blaster_rock_shards_large"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Rock Shards",
+      "redirects.seismic_blast.corruptor_rock_shards_large"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Rock Shards",
+      "redirects.seismic_blast.critter_rock_shards_large"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Rock Shards",
+      "redirects.seismic_blast.defender_rock_shards_large"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Rock Shards",
+      "redirects.seismic_blast.sentinel_rock_shards_large"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Seismic Force",
+      "redirects.seismic_blast.seismic_force_aim_empowered"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Stalagmite",
+      "redirects.seismic_blast.ae_stalagmite_enhanced"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Stalagmite",
+      "redirects.seismic_blast.blaster_stalagmite_enhanced"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Stalagmite",
+      "redirects.seismic_blast.corruptor_stalagmite_enhanced"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Stalagmite",
+      "redirects.seismic_blast.critter_stalagmite_enhanced"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Stalagmite",
+      "redirects.seismic_blast.defender_stalagmite_enhanced"
+    ],
+    [
+      "Redirects.Seismic Blast.Enhanced Stalagmite",
+      "redirects.seismic_blast.sentinel_stalagmite_enhanced"
+    ],
+    [
+      "Redirects.Seismic Blast.Seismic Pressure",
+      "redirects.seismic_blast.seismic_stress"
+    ],
+    [
+      "Sentinel Ranged.Seismic Blast.Seismic Force",
+      "sentinel_ranged.seismic_blast.seismic_force"
+    ],
+    [
+      "V Arachnos Proxy.Seismic Blast.Seismic Force",
+      "v_arachnos_proxy.seismic_blast.seismic_force"
+    ]
+  ]
+}

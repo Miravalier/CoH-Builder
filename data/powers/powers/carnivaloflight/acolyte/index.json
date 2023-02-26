@@ -1,0 +1,30 @@
+{
+  "name": "Acolyte",
+  "display_name": "Acolyte",
+  "display_fullname": "CarnivalOfLight.Acolyte",
+  "display_help": "Praetorian Carnival",
+  "display_short_help": "Praetorian Carnival",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVALOFLIGHT/ACOLYTE.POWERSETS",
+  "icon": "acolyte_set.png",
+  "requires": "",
+  "power_names": [
+    "CarnivalOfLight.Acolyte.Luminous_Fists",
+    "CarnivalOfLight.Acolyte.Luminous_Bolt",
+    "CarnivalOfLight.Acolyte.Luminous_Strike"
+  ],
+  "power_display_names": [
+    "Luminous Fists",
+    "Luminous Bolt",
+    "Luminous Strike"
+  ],
+  "power_short_helps": [
+    "Melee Minor DMG(Energy/Smashing), -Res(Foe,Energy), -Def(Foe,Energy)",
+    "Ranged Minor DMG (Energy/Smashing), Knockback",
+    "Melee, High DMG(Energy/Smashing), Knockdown, -Def(Foe,Energy)"
+  ]
+}

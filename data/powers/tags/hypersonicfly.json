@@ -1,0 +1,63 @@
+{
+  "tag": "HypersonicFly",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Combat Flight",
+      "peacebringer_defensive.luminous_aura.combat_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Energy Flight",
+      "peacebringer_defensive.luminous_aura.energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Group Energy Flight",
+      "peacebringer_defensive.luminous_aura.group_energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Maneuvers",
+      "peacebringer_defensive.luminous_aura.quantum_acceleration"
+    ],
+    [
+      "Peacebringer Offensive.Luminous Blast.Bright Nova",
+      "peacebringer_offensive.luminous_blast.bright_nova"
+    ],
+    [
+      "Pool.Flight.Evasive Maneuvers",
+      "pool.flight.afterburner"
+    ],
+    [
+      "Pool.Flight.Fly",
+      "pool.flight.fly"
+    ],
+    [
+      "Pool.Flight.Group Fly",
+      "pool.flight.group_fly"
+    ],
+    [
+      "Pool.Flight.Hover",
+      "pool.flight.combat_flight"
+    ],
+    [
+      "Pool.Gadgetry.Jetpack",
+      "pool.gadgetry.jetpack"
+    ],
+    [
+      "Pool.Sorcery.Mystic Flight",
+      "pool.sorcery.mystic_flight"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Dark Nova",
+      "warshade_offensive.umbral_blast.dark_nova"
+    ]
+  ],
+  "affects": [
+    [
+      "Boosts.Attuned Hypersonic D.Flying Speed/Increased Fly Protection",
+      "boosts.attuned_hypersonic_d.attuned_hypersonic_d"
+    ],
+    [
+      "Boosts.Crafted Hypersonic D.Flying Speed/Increased Fly Protection",
+      "boosts.crafted_hypersonic_d.crafted_hypersonic_d"
+    ]
+  ]
+}

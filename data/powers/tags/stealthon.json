@@ -1,0 +1,50 @@
+{
+  "tag": "StealthOn",
+  "bears": [
+    [
+      "Brute Defense.Bio Armor.Evolving Armor",
+      "brute_defense.bio_organic_armor.adaptation"
+    ],
+    [
+      "Brute Defense.Invulnerability.Invincibility",
+      "brute_defense.invulnerability.invincibility"
+    ],
+    [
+      "Brute Defense.Radiation Armor.Beta Decay",
+      "brute_defense.radiation_armor.beta_decay"
+    ],
+    [
+      "Brute Defense.Regeneration.Integration",
+      "brute_defense.regeneration.integration"
+    ],
+    [
+      "Brute Defense.Shield Defense.Against All Odds",
+      "brute_defense.shield_defense.against_all_odds"
+    ],
+    [
+      "Sentinel Defense.Energy Aura.Entropy Shield",
+      "sentinel_defense.energy_aura.entropy_shield"
+    ],
+    [
+      "Stalker Defense.Energy Aura.Entropy Shield",
+      "stalker_defense.energy_aura.entropy_shield"
+    ],
+    [
+      "Tanker Defense.Bio Armor.Evolving Armor",
+      "tanker_defense.bio_organic_armor.adaptation"
+    ],
+    [
+      "Tanker Defense.Invulnerability.Invincibility",
+      "tanker_defense.invulnerability.invincibility"
+    ],
+    [
+      "Tanker Defense.Radiation Armor.Beta Decay",
+      "tanker_defense.radiation_armor.beta_decay"
+    ],
+    [
+      "Tanker Defense.Shield Defense.Against All Odds",
+      "tanker_defense.shield_defense.against_all_odds"
+    ]
+  ],
+  "affects": []
+}

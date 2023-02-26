@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Rooting_Grasp_C",
+  "display_name": "Attuned Rooting Grasp C",
+  "display_fullname": "Boosts.Attuned Rooting Grasp C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Rooting Grasp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ROOTING_GRASP_C.POWERSETS",
+  "icon": "attuned_rooting_grasp_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Rooting_Grasp_C.Attuned_Rooting_Grasp_C"
+  ],
+  "power_display_names": [
+    "Rooting Grasp: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

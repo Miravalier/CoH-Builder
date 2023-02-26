@@ -1,0 +1,22 @@
+{
+  "name": "Syndicate_Resistance",
+  "display_name": "Syndicate_Resistance",
+  "display_fullname": "Syndicate.Syndicate Resistance",
+  "display_help": "Syndicate",
+  "display_short_help": "Syndicate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SYNDICATE/SYNDICATE_RESISTANCE.POWERSETS",
+  "icon": "syndicate_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "Syndicate.Syndicate_Resistance.Resist_Knockaround"
+  ],
+  "power_display_names": [
+    "Incomparable Balance"
+  ],
+  "power_short_helps": [
+    "Auto Resist Induced Movement"
+  ]
+}

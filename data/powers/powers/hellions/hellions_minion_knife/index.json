@@ -1,0 +1,22 @@
+{
+  "name": "Hellions_Minion_Knife",
+  "display_name": "Hellions_Minion_Knife",
+  "display_fullname": "Hellions.Hellions Minion Knife",
+  "display_help": "Hellions",
+  "display_short_help": "Hellions",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HELLIONS/HELLIONS_MINION_KNIFE.POWERSETS",
+  "icon": "hellions_minion_knife_set.png",
+  "requires": "",
+  "power_names": [
+    "Hellions.Hellions_Minion_Knife.Knife"
+  ],
+  "power_display_names": [
+    "Knife"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Low Dam"
+  ]
+}

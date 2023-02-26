@@ -1,0 +1,22 @@
+{
+  "name": "Assault_Rifle",
+  "display_name": "Assault Rifle",
+  "display_fullname": "Council.Assault Rifle",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ASSAULT_RIFLE.POWERSETS",
+  "icon": "assault_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Assault_Rifle.Assault_Rifle"
+  ],
+  "power_display_names": [
+    "Assault Rifle"
+  ],
+  "power_short_helps": [
+    "DoT (Lethal), -DEF"
+  ]
+}

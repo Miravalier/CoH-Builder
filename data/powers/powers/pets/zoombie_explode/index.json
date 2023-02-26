@@ -1,0 +1,22 @@
+{
+  "name": "Zoombie_Explode",
+  "display_name": "Zoombie Explosion",
+  "display_fullname": "Pets.Zoombie Explosion",
+  "display_help": "Vahzilok Freaklok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/ZOOMBIE_EXPLODE.POWERSETS",
+  "icon": "vahzilok_explode_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Zoombie_Explode.Explode"
+  ],
+  "power_display_names": [
+    "Explode"
+  ],
+  "power_short_helps": [
+    "Explode"
+  ]
+}

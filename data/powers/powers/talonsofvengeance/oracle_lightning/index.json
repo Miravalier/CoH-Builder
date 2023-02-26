@@ -1,0 +1,38 @@
+{
+  "name": "Oracle_Lightning",
+  "display_name": "Oracle_Lightning",
+  "display_fullname": "TalonsOfVengeance.Oracle Lightning",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/ORACLE_LIGHTNING.POWERSETS",
+  "icon": "oracle_lightning_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Oracle_Lightning.Lightning_Bolt",
+    "TalonsOfVengeance.Oracle_Lightning.Ball_Lightning",
+    "TalonsOfVengeance.Oracle_Lightning.Chain_Lightning",
+    "TalonsOfVengeance.Oracle_Lightning.Summon_Storm",
+    "TalonsOfVengeance.Oracle_Lightning.Resistance"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Ball Lightning",
+    "Chain Lightning",
+    "Lightning Storm",
+    "Affinity"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Energy), -End (Foe), -Rec (Foe)",
+    "Ranged (Targeted AoE), Moderate DoT(Energy), -End (Foe), -Rec (Foe)",
+    "Ranged Chain AoE, Minor DMG(Energy), Knockdown, -End (Foe), -Rec (Foe)",
+    "Summon",
+    "Resistance"
+  ]
+}

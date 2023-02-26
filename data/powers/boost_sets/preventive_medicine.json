@@ -1,0 +1,573 @@
+{
+  "name": "Preventive_Medicine",
+  "display_name": "Preventive Medicine",
+  "group_name": "Healing",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Healing"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Preventive_Medicine_A.Crafted_Preventive_Medicine_A",
+      "Boosts.Attuned_Preventive_Medicine_A.Attuned_Preventive_Medicine_A"
+    ],
+    [
+      "Boosts.Crafted_Preventive_Medicine_B.Crafted_Preventive_Medicine_B",
+      "Boosts.Attuned_Preventive_Medicine_B.Attuned_Preventive_Medicine_B"
+    ],
+    [
+      "Boosts.Crafted_Preventive_Medicine_C.Crafted_Preventive_Medicine_C",
+      "Boosts.Attuned_Preventive_Medicine_C.Attuned_Preventive_Medicine_C"
+    ],
+    [
+      "Boosts.Crafted_Preventive_Medicine_D.Crafted_Preventive_Medicine_D",
+      "Boosts.Attuned_Preventive_Medicine_D.Attuned_Preventive_Medicine_D"
+    ],
+    [
+      "Boosts.Crafted_Preventive_Medicine_E.Crafted_Preventive_Medicine_E",
+      "Boosts.Attuned_Preventive_Medicine_E.Attuned_Preventive_Medicine_E"
+    ],
+    [
+      "Boosts.Crafted_Preventive_Medicine_F.Crafted_Preventive_Medicine_F",
+      "Boosts.Attuned_Preventive_Medicine_F.Attuned_Preventive_Medicine_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.preventive_medicine"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.endurance_discount_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_3",
+          "Moderate Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.endurance_discount_5",
+          "Huge Endurance Discount"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_6",
+          "Gargantuan Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_preventive_medicine_f": [
+        [
+          "set_bonus.set_bonus.preventive_medicine",
+          "Preventive Medicine"
+        ]
+      ],
+      "crafted_preventive_medicine_f": [
+        [
+          "set_bonus.set_bonus.preventive_medicine",
+          "Preventive Medicine"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png",
+      "e_icon_preventive_medicine.png"
+    ],
+    "boosts": [
+      [
+        "Preventive Medicine: Heal",
+        "Attuned Preventive Medicine: Heal"
+      ],
+      [
+        "Preventive Medicine: Endurance/Heal",
+        "Attuned Preventive Medicine: Endurance/Heal"
+      ],
+      [
+        "Preventive Medicine: Endurance/Recharge",
+        "Attuned Preventive Medicine: Endurance/Recharge"
+      ],
+      [
+        "Preventive Medicine: Heal/Recharge",
+        "Attuned Preventive Medicine: Heal/Recharge"
+      ],
+      [
+        "Preventive Medicine: Endurance/Heal/Recharge",
+        "Attuned Preventive Medicine: Endurance/Heal/Recharge"
+      ],
+      [
+        "Preventive Medicine: Proc/Global",
+        "Attuned Preventive Medicine: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_preventive_medicine_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_preventive_medicine_a.attuned_preventive_medicine_a",
+          "Preventive Medicine: Healing/Absorb"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Preventive Medicine: Heal",
+        "aspects": [
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "attuned_preventive_medicine_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Preventive Medicine: Heal",
+        "aspects": [
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "crafted_preventive_medicine_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_preventive_medicine_b.attuned_preventive_medicine_b",
+          "Preventive Medicine: Healing/Absorb/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Preventive Medicine: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "attuned_preventive_medicine_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Preventive Medicine: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "crafted_preventive_medicine_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_preventive_medicine_c.attuned_preventive_medicine_c",
+          "Preventive Medicine: Recharge/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Preventive Medicine: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "attuned_preventive_medicine_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Preventive Medicine: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "crafted_preventive_medicine_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_preventive_medicine_d.attuned_preventive_medicine_d",
+          "Preventive Medicine: Healing/Absorb/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Preventive Medicine: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "attuned_preventive_medicine_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Preventive Medicine: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "crafted_preventive_medicine_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_preventive_medicine_e.attuned_preventive_medicine_e",
+          "Preventive Medicine: Healing/Absorb/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Preventive Medicine: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "attuned_preventive_medicine_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Preventive Medicine: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "crafted_preventive_medicine_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_preventive_medicine_f.attuned_preventive_medicine_f",
+          "Preventive Medicine: Absorb Proc"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Preventive Medicine: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.preventive_medicine",
+            "Preventive Medicine"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      },
+      "attuned_preventive_medicine_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Preventive Medicine: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "preventive_medicine",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.preventive_medicine",
+            "Preventive Medicine"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_preventive_medicine.png"
+      }
+    }
+  }
+}

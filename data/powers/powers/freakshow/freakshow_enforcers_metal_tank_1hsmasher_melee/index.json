@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Enforcers_Metal_Tank_1HSmasher_Melee",
+  "display_name": "Freakshow_Enforcers_Metal_Tank_1HSmasher_Melee",
+  "display_fullname": "Freakshow.Freakshow Enforcers Metal Tank 1HSmasher Melee",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_ENFORCERS_METAL_TANK_1HSMASHER_MELEE.POWERSETS",
+  "icon": "freakshow_enforcers_metal_tank_1hsmasher_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Enforcers_Metal_Tank_1HSmasher_Melee.Cybernetic_Hammer"
+  ],
+  "power_display_names": [
+    "Cybernetic Hammer"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

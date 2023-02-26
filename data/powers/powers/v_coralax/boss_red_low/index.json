@@ -1,0 +1,34 @@
+{
+  "name": "Boss_Red_Low",
+  "display_name": "Boss Red Low",
+  "display_fullname": "V Coralax.Boss Red Low",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/BOSS_RED_LOW.POWERSETS",
+  "icon": "boss_red_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Boss_Red_Low.Punch",
+    "V_Coralax.Boss_Red_Low.Spiny_Urchins",
+    "V_Coralax.Boss_Red_Low.Urchin_Spray",
+    "V_Coralax.Boss_Red_Low.Psychic_Coral_Blast"
+  ],
+  "power_display_names": [
+    "Punch",
+    "Spiny Urchins",
+    "Urchin Spray",
+    "Psychic Coral Blast"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "Ranged Lethal, Med Dam",
+    "Cone Lethal, Knockback",
+    "-Recharge"
+  ]
+}

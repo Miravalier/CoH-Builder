@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Warp_D",
+  "display_name": "Attuned Warp D",
+  "display_fullname": "Boosts.Attuned Warp D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Increases range by {Boost.Attrib.Range.Scale}%. Increases your Perception by 20%.",
+  "display_short_help": "Set: Warp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_WARP_D.POWERSETS",
+  "icon": "e_icon_warp.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Warp_D.Attuned_Warp_D"
+  ],
+  "power_display_names": [
+    "Warp: Range/Increased Perception"
+  ],
+  "power_short_helps": [
+    "+Range, +Perception"
+  ]
+}

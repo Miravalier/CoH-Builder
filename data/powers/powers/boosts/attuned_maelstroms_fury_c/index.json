@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Maelstroms_Fury_C",
+  "display_name": "Attuned Maelstroms Fury C",
+  "display_fullname": "Boosts.Attuned Maelstroms Fury C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Maelstroms Fury",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MAELSTROMS_FURY_C.POWERSETS",
+  "icon": "attuned_maelstroms_fury_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Maelstroms_Fury_C.Attuned_Maelstroms_Fury_C"
+  ],
+  "power_display_names": [
+    "Maelstrom's Fury: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

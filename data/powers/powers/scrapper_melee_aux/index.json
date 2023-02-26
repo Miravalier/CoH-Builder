@@ -1,0 +1,17 @@
+{
+  "name": "Scrapper_Melee_Aux",
+  "display_name": "Aux",
+  "source_file": "DEFS/POWERS/SCRAPPER_MELEE_AUX.CATEGORIES",
+  "archetypes": [
+    "scrapper"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "scrapper_melee_aux.savage_melee"
+  ],
+  "powerset_display_names": [
+    "Savage Melee"
+  ],
+  "powersets_with_requirements": []
+}

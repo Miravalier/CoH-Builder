@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Positrons_Blast_B",
+  "display_name": "Attuned Positrons Blast B",
+  "display_fullname": "Boosts.Attuned Positrons Blast B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Positrons Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_POSITRONS_BLAST_B.POWERSETS",
+  "icon": "attuned_positrons_blast_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Positrons_Blast_B.Attuned_Positrons_Blast_B"
+  ],
+  "power_display_names": [
+    "Positron's Blast: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

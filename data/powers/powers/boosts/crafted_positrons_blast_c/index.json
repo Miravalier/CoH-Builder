@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Positrons_Blast_C",
+  "display_name": "Crafted Positrons Blast C",
+  "display_fullname": "Boosts.Crafted Positrons Blast C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Positrons Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_POSITRONS_BLAST_C.POWERSETS",
+  "icon": "crafted_positrons_blast_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Positrons_Blast_C.Crafted_Positrons_Blast_C"
+  ],
+  "power_display_names": [
+    "Positron's Blast: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

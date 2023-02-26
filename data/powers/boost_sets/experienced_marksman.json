@@ -1,0 +1,654 @@
+{
+  "name": "Experienced_Marksman",
+  "display_name": "Experienced Marksman",
+  "group_name": "Sniper Attacks",
+  "conversion_groups": [
+    "Rarity: PvP"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Experienced_Marksman_A.Crafted_Experienced_Marksman_A",
+      "Boosts.Attuned_Experienced_Marksman_A.Attuned_Experienced_Marksman_A"
+    ],
+    [
+      "Boosts.Crafted_Experienced_Marksman_B.Crafted_Experienced_Marksman_B",
+      "Boosts.Attuned_Experienced_Marksman_B.Attuned_Experienced_Marksman_B"
+    ],
+    [
+      "Boosts.Crafted_Experienced_Marksman_C.Crafted_Experienced_Marksman_C",
+      "Boosts.Attuned_Experienced_Marksman_C.Attuned_Experienced_Marksman_C"
+    ],
+    [
+      "Boosts.Crafted_Experienced_Marksman_D.Crafted_Experienced_Marksman_D",
+      "Boosts.Attuned_Experienced_Marksman_D.Attuned_Experienced_Marksman_D"
+    ],
+    [
+      "Boosts.Crafted_Experienced_Marksman_E.Crafted_Experienced_Marksman_E",
+      "Boosts.Attuned_Experienced_Marksman_E.Attuned_Experienced_Marksman_E"
+    ],
+    [
+      "Boosts.Crafted_Experienced_Marksman_F.Crafted_Experienced_Marksman_F",
+      "Boosts.Attuned_Experienced_Marksman_F.Attuned_Experienced_Marksman_F"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.experienced_marksman"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_range_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.improved_regeneration_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.accuracy_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.improved_recharge_time_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.improved_recovery_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_range_3",
+          "Moderate Increased Range"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance (PvP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.improved_regeneration_4",
+          "Large Improved Regeneration Bonus (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.accuracy_4",
+          "Large Accuracy Bonus (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_4",
+          "Large Increased Endurance Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.improved_recharge_time_5",
+          "Huge Improved Recharge Time Bonus (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_3",
+          "Moderate Increased Ranged/Energy/Negative Energy Def Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.improved_recovery_5",
+          "Huge Improved Recovery Bonus (PVP)"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_experienced_marksman_f": [
+        [
+          "set_bonus.set_bonus.experienced_marksman",
+          "Experienced Marksman: Fast Snipe"
+        ]
+      ],
+      "crafted_experienced_marksman_f": [
+        [
+          "set_bonus.set_bonus.experienced_marksman",
+          "Experienced Marksman: Fast Snipe"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png",
+      "e_icon_experienced_marksman.png"
+    ],
+    "boosts": [
+      [
+        "Experienced Marksman: Accuracy/Damage",
+        "Attuned Experienced Marksman: Accuracy/Damage"
+      ],
+      [
+        "Experienced Marksman: Damage/Recharge",
+        "Attuned Experienced Marksman: Damage/Recharge"
+      ],
+      [
+        "Experienced Marksman: Damage/Endurance/InterruptTime",
+        "Attuned Experienced Marksman: Damage/Endurance/InterruptTime"
+      ],
+      [
+        "Experienced Marksman: Accuracy/Endurance/Recharge",
+        "Attuned Experienced Marksman: Accuracy/Endurance/Recharge"
+      ],
+      [
+        "Experienced Marksman: Damage/InterruptTime/Range/Recharge",
+        "Attuned Experienced Marksman: Damage/InterruptTime/Range/Recharge"
+      ],
+      [
+        "Experienced Marksman: Range/Proc/Global",
+        "Attuned Experienced Marksman: Range/Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_experienced_marksman_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_experienced_marksman_a.attuned_experienced_marksman_a",
+          "Experienced Marksman: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Experienced Marksman: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "attuned_experienced_marksman_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Experienced Marksman: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "crafted_experienced_marksman_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_experienced_marksman_b.attuned_experienced_marksman_b",
+          "Experienced Marksman: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Experienced Marksman: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "attuned_experienced_marksman_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Experienced Marksman: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "crafted_experienced_marksman_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_experienced_marksman_c.attuned_experienced_marksman_c",
+          "Experienced Marksman: Damage/Endurance/Interrupt"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Experienced Marksman: Damage/Endurance/InterruptTime",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "InterruptTime"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "attuned_experienced_marksman_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Experienced Marksman: Damage/Endurance/InterruptTime",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "InterruptTime"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "crafted_experienced_marksman_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_experienced_marksman_d.attuned_experienced_marksman_d",
+          "Experienced Marksman: Accuracy/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Experienced Marksman: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "attuned_experienced_marksman_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Experienced Marksman: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "crafted_experienced_marksman_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_experienced_marksman_e.attuned_experienced_marksman_e",
+          "Experienced Marksman: Damage/Interrupt/Range/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Experienced Marksman: Damage/InterruptTime/Range/Recharge",
+        "aspects": [
+          "Damage",
+          "InterruptTime",
+          "Range",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "attuned_experienced_marksman_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Experienced Marksman: Damage/InterruptTime/Range/Recharge",
+        "aspects": [
+          "Damage",
+          "InterruptTime",
+          "Range",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "crafted_experienced_marksman_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_experienced_marksman_f.attuned_experienced_marksman_f",
+          "Experienced Marksman: Range/Fast Snipe"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Experienced Marksman: Range/Proc/Global",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.experienced_marksman",
+            "Experienced Marksman: Fast Snipe"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      },
+      "attuned_experienced_marksman_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Experienced Marksman: Range/Proc/Global",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "experienced_marksman",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.experienced_marksman",
+            "Experienced Marksman: Fast Snipe"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_experienced_marksman.png"
+      }
+    }
+  }
+}

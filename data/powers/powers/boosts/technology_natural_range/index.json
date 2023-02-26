@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Range",
+  "display_name": "Technology Natural Range",
+  "display_fullname": "Boosts.Technology Natural Range",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_RANGE.POWERSETS",
+  "icon": "technology_natural_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Range.Technology_Natural_Range"
+  ],
+  "power_display_names": [
+    "Reach Device (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

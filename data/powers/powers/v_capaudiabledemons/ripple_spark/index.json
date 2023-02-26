@@ -1,0 +1,30 @@
+{
+  "name": "Ripple_Spark",
+  "display_name": "Ripple Spark",
+  "display_fullname": "V CapauDiableDemons.Ripple Spark",
+  "display_help": "Cap au Diable Demons",
+  "display_short_help": "Cap au Diable Demons",
+  "available_level": [
+    0,
+    0,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_CAPAUDIABLEDEMONS/RIPPLE_SPARK.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_CapauDiableDemons.Ripple_Spark.Resistance",
+    "V_CapauDiableDemons.Ripple_Spark.Feeding_Countdown",
+    "V_CapauDiableDemons.Ripple_Spark.Summon_Puddle"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Feeding Countdown",
+    "Summon Puddle"
+  ],
+  "power_short_helps": [
+    "Auto Res Fire, Cold, Negative",
+    "Countdown",
+    "Summon"
+  ]
+}

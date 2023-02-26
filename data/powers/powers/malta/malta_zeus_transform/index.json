@@ -1,0 +1,22 @@
+{
+  "name": "Malta_Zeus_Transform",
+  "display_name": "Malta_Zeus_Transform",
+  "display_fullname": "Malta.Malta Zeus Transform",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/MALTA_ZEUS_TRANSFORM.POWERSETS",
+  "icon": "malta_zeus_transform_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Malta_Zeus_Transform.Zeus_Transform"
+  ],
+  "power_display_names": [
+    "Zeus Transform"
+  ],
+  "power_short_helps": [
+    "Transform"
+  ]
+}

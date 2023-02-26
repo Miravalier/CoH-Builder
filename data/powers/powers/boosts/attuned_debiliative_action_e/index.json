@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Debiliative_Action_E",
+  "display_name": "Attuned Debilitative Action E",
+  "display_fullname": "Boosts.Attuned Debiliative Action E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, immobilize duration by {Boost.Attrib.Mez.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Debilitative Action",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEBILIATIVE_ACTION_E.POWERSETS",
+  "icon": "attuned_debiliative_action_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Debiliative_Action_E.Attuned_Debiliative_Action_E"
+  ],
+  "power_display_names": [
+    "Debilitative Action: Accuracy/Immob/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Immob"
+  ]
+}

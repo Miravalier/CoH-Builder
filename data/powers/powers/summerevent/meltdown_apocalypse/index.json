@@ -1,0 +1,22 @@
+{
+  "name": "Meltdown_Apocalypse",
+  "display_name": "Meltdown_Apocalypse",
+  "display_fullname": "SummerEvent.Meltdown Apocalypse",
+  "display_help": "Apocalypse",
+  "display_short_help": "Apocalypse",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/MELTDOWN_APOCALYPSE.POWERSETS",
+  "icon": "meltdown_apocalypse_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.Meltdown_Apocalypse.Fusion_Burst"
+  ],
+  "power_display_names": [
+    "Fusion Burst"
+  ],
+  "power_short_helps": [
+    "PBAoE, -ToHit"
+  ]
+}

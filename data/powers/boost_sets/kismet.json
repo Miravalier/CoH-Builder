@@ -1,0 +1,453 @@
+{
+  "name": "Kismet",
+  "display_name": "Kismet",
+  "group_name": "Defense Sets",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Defense"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Kismet_A.Crafted_Kismet_A",
+      "Boosts.Attuned_Kismet_A.Attuned_Kismet_A"
+    ],
+    [
+      "Boosts.Crafted_Kismet_B.Crafted_Kismet_B",
+      "Boosts.Attuned_Kismet_B.Attuned_Kismet_B"
+    ],
+    [
+      "Boosts.Crafted_Kismet_C.Crafted_Kismet_C",
+      "Boosts.Attuned_Kismet_C.Attuned_Kismet_C"
+    ],
+    [
+      "Boosts.Crafted_Kismet_D.Crafted_Kismet_D",
+      "Boosts.Attuned_Kismet_D.Attuned_Kismet_D"
+    ],
+    [
+      "Boosts.Crafted_Kismet_E.Crafted_Kismet_E",
+      "Boosts.Attuned_Kismet_E.Attuned_Kismet_E"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_2",
+          "Small Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_2",
+          "Small Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_2",
+          "Small Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png",
+      "e_icon_kismet.png"
+    ],
+    "boosts": [
+      [
+        "Kismet: Defense/Endurance",
+        "Attuned Kismet: Defense/Endurance"
+      ],
+      [
+        "Kismet: Defense/Recharge",
+        "Attuned Kismet: Defense/Recharge"
+      ],
+      [
+        "Kismet: Endurance/Recharge",
+        "Attuned Kismet: Endurance/Recharge"
+      ],
+      [
+        "Kismet: Defense/Endurance/Recharge",
+        "Attuned Kismet: Defense/Endurance/Recharge"
+      ],
+      [
+        "Kismet: Proc",
+        "Attuned Kismet: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_kismet_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_kismet_a.attuned_kismet_a",
+          "Kismet: Defense/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Kismet: Defense/Endurance",
+        "aspects": [
+          "Defense",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "attuned_kismet_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Kismet: Defense/Endurance",
+        "aspects": [
+          "Defense",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "crafted_kismet_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_kismet_b.attuned_kismet_b",
+          "Kismet: Defense/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Kismet: Defense/Recharge",
+        "aspects": [
+          "Defense",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "attuned_kismet_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Kismet: Defense/Recharge",
+        "aspects": [
+          "Defense",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "crafted_kismet_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_kismet_c.attuned_kismet_c",
+          "Kismet: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Kismet: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "attuned_kismet_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Kismet: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "crafted_kismet_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_kismet_d.attuned_kismet_d",
+          "Kismet: Defense/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Kismet: Defense/Endurance/Recharge",
+        "aspects": [
+          "Defense",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "attuned_kismet_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Kismet: Defense/Endurance/Recharge",
+        "aspects": [
+          "Defense",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "crafted_kismet_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_kismet_e.attuned_kismet_e",
+          "Kismet: +ToHit"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Kismet: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      },
+      "attuned_kismet_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Kismet: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "kismet",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_kismet.png"
+      }
+    }
+  }
+}

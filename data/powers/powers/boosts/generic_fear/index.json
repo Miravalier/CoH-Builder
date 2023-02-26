@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Fear",
+  "display_name": "Generic Fear",
+  "display_fullname": "Boosts.Generic Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_FEAR.POWERSETS",
+  "icon": "generic_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Fear.Generic_Fear"
+  ],
+  "power_display_names": [
+    "Training: Fear Duration"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Short_Fuse",
+  "display_name": "Short_Fuse",
+  "display_fullname": "V Arachnos.Short Fuse",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/SHORT_FUSE.POWERSETS",
+  "icon": "short_fuse_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Short_Fuse.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Self Destruct"
+  ]
+}

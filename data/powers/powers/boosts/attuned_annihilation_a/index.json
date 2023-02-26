@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Annihilation_A",
+  "display_name": "Attuned Annihilation A",
+  "display_fullname": "Boosts.Attuned Annihilation A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Annihilation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ANNIHILATION_A.POWERSETS",
+  "icon": "attuned_annihilation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Annihilation_A.Attuned_Annihilation_A"
+  ],
+  "power_display_names": [
+    "Annihilation: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

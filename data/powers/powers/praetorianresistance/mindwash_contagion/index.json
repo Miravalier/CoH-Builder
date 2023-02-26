@@ -1,0 +1,26 @@
+{
+  "name": "Mindwash_Contagion",
+  "display_name": "Mindwash Contagion",
+  "display_fullname": "PraetorianResistance.Mindwash Contagion",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANRESISTANCE/MINDWASH_CONTAGION.POWERSETS",
+  "icon": "mindwash_contagion_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianResistance.Mindwash_Contagion.Mindwash_Contagion",
+    "PraetorianResistance.Mindwash_Contagion.SpawnCounter"
+  ],
+  "power_display_names": [
+    "Mindwash Contagion",
+    "SpawnCounter"
+  ],
+  "power_short_helps": [
+    "Confuse",
+    "Special"
+  ]
+}

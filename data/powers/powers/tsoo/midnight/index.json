@@ -1,0 +1,46 @@
+{
+  "name": "Midnight",
+  "display_name": "Midnight",
+  "display_fullname": "Tsoo.Midnight",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/MIDNIGHT.POWERSETS",
+  "icon": "midnight_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Midnight.Shadow_Punch",
+    "Tsoo.Midnight.Smite",
+    "Tsoo.Midnight.Midnight_Grasp",
+    "Tsoo.Midnight.Katana_Hack",
+    "Tsoo.Midnight.Katana_Slash",
+    "Tsoo.Midnight.Whirling_Katana",
+    "Tsoo.Midnight.Dark_Blast"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite",
+    "Midnight Grasp",
+    "Katana Hack",
+    "Katana Slash",
+    "Whirling Katana",
+    "Dark Blast"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC",
+    "Immobilize, -ACC",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-ACC"
+  ]
+}

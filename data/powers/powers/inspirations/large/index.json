@@ -1,0 +1,54 @@
+{
+  "name": "Large",
+  "display_name": "Large",
+  "display_fullname": "Inspirations.Large",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Large",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/LARGE.POWERSETS",
+  "icon": "large_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Large.Phenomenal_Luck",
+    "Inspirations.Large.Robust",
+    "Inspirations.Large.Uncanny_Insight",
+    "Inspirations.Large.Second_Wind",
+    "Inspirations.Large.Resurgence",
+    "Inspirations.Large.Righteous_Rage",
+    "Inspirations.Large.Iron_Will",
+    "Inspirations.Large.Escape",
+    "Inspirations.Large.Restoration"
+  ],
+  "power_display_names": [
+    "Phenomenal Luck",
+    "Robust",
+    "Uncanny Insight",
+    "Second Wind",
+    "Resurgence",
+    "Righteous Rage",
+    "Iron Will",
+    "Escape",
+    "Restoration"
+  ],
+  "power_short_helps": [
+    "+33% DEF",
+    "+20% RES DMG, RES Teleport",
+    "+37.5% ACC",
+    "+50 END",
+    "+50% HP",
+    "+50% DMG",
+    "Resist effects",
+    "Resist Effects",
+    "Self Rez"
+  ]
+}

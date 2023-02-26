@@ -1,0 +1,79 @@
+{
+  "tag": "InterfaceDefense",
+  "bears": [
+    [
+      "Incarnate.Interface.Paralytic Interface",
+      "incarnate.interface_silent.defense_debuff"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Core Genesis",
+      "incarnate.genesis.socket_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Genesis",
+      "incarnate.genesis.socket_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Core Genesis",
+      "incarnate.genesis.socket_total_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Radial Genesis",
+      "incarnate.genesis.socket_total_radial_genesis"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Core Flawless Interface",
+      "incarnate.interface.paralytic_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Core Interface",
+      "incarnate.interface.paralytic_core_interface"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Interface",
+      "incarnate.interface.paralytic_interface"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Partial Core Conversion",
+      "incarnate.interface.paralytic_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Partial Radial Conversion",
+      "incarnate.interface.paralytic_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Radial Flawless Interface",
+      "incarnate.interface.paralytic_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Radial Interface",
+      "incarnate.interface.paralytic_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Paralytic Total Core Conversion",
+      "incarnate.interface.paralytic_total_core_conversion"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Blood_Mandate_B",
+  "display_name": "Crafted Blood Mandate B",
+  "display_fullname": "Boosts.Crafted Blood Mandate B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Blood Mandate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_BLOOD_MANDATE_B.POWERSETS",
+  "icon": "crafted_blood_mandate_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Blood_Mandate_B.Crafted_Blood_Mandate_B"
+  ],
+  "power_display_names": [
+    "Blood Mandate: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

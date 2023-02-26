@@ -1,0 +1,22 @@
+{
+  "name": "No_Nukes",
+  "display_name": "No_Nukes",
+  "display_fullname": "Objects.No Nukes",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/NO_NUKES.POWERSETS",
+  "icon": "no_nukes_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.No_Nukes.Disable_Nukes"
+  ],
+  "power_display_names": [
+    "Disable Nukes"
+  ],
+  "power_short_helps": [
+    "Disable Nukes"
+  ]
+}

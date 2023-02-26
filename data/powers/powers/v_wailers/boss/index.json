@@ -1,0 +1,38 @@
+{
+  "name": "Boss",
+  "display_name": "Boss",
+  "display_fullname": "V Wailers.Boss",
+  "display_help": "Wailers",
+  "display_short_help": "Wailers",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_WAILERS/BOSS.POWERSETS",
+  "icon": "boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Wailers.Boss.Scream",
+    "V_Wailers.Boss.Shout",
+    "V_Wailers.Boss.Howl",
+    "V_Wailers.Boss.Shockwave",
+    "V_Wailers.Boss.Sonic_Dispersion"
+  ],
+  "power_display_names": [
+    "Scream",
+    "Shout",
+    "Howl",
+    "Shockwave",
+    "Sonic Dispersion"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Smashing/Energy), -Resist",
+    "Ranged, Heavy DMG(Smashing/Energy), Foe -Res(All)",
+    "Ranged Cone, Medium DMG(Smashing/Energy)",
+    "Ranged (Cone), Minor DMG(Smashing/Energy), Foe Knockback",
+    "Toggle: PBAoE, Ally +Res(All Damage, Hold, Immobilize, Disorient)"
+  ]
+}

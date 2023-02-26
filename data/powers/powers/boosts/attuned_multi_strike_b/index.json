@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Multi_Strike_B",
+  "display_name": "Attuned Multi-Strike B",
+  "display_fullname": "Boosts.Attuned Multi Strike B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Multi-Strike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MULTI_STRIKE_B.POWERSETS",
+  "icon": "attuned_multi_strike_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Multi_Strike_B.Attuned_Multi_Strike_B"
+  ],
+  "power_display_names": [
+    "Multi-Strike: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

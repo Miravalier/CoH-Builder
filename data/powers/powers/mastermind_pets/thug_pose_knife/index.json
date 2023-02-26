@@ -1,0 +1,22 @@
+{
+  "name": "Thug_Pose_Knife",
+  "display_name": "Thug Posse",
+  "display_fullname": "Mastermind Pets.Thug Posse",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_POSE_KNIFE.POWERSETS",
+  "icon": "thug_pose_knife_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Pose_Knife.Knife"
+  ],
+  "power_display_names": [
+    "Knife"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Lethal)"
+  ]
+}

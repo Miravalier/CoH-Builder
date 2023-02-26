@@ -1,0 +1,115 @@
+{
+  "name": "FreedomPhalanx_PenelopePet_Nexus",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomPhalanx",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": true,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Ranged",
+    "character_class_name": "minion_pets",
+    "description": "Penelope Yin has created an ally out of pure psionic energy. These allies unleash psionic storms as their primary means of attack. However, they will gradually build up a psionic link with Penelope Yin the longer they are alive. Eventually, they will establish the link, allowing the nexus to heal both itself and Penelope Yin.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomPhalanx.PsionicNexus.Psionic_Lightning",
+      "V_FreedomPhalanx.PsionicNexus.Psionic_Tornado",
+      "V_FreedomPhalanx.PsionicNexus.Psionic_Link_Grant",
+      "V_FreedomPhalanx.PsionicNexus.Psionic_Link_Charging",
+      "GenericVillains.Flight.Fly",
+      "GenericVillains.Flight.Fly_FX",
+      "GenericVillains.Intangibility.Intangible"
+    ],
+    "power_display_names": [
+      "Psionic Lightning",
+      "Psionic Tornado",
+      "Psionic Link",
+      "Psionic Link",
+      "Fly",
+      "Fly FX",
+      "Intangible"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "PsionicNexus",
+        "power": "Psionic_Lightning",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "PsionicNexus",
+        "power": "Psionic_Tornado",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "PsionicNexus",
+        "power": "Psionic_Link_Grant",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "PsionicNexus",
+        "power": "Psionic_Link_Charging",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Flight",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Intangibility",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Psionic Nexus"
+      ],
+      "costumes": [
+        "Storm_Pet_PenelopeYin"
+      ]
+    }
+  ]
+}

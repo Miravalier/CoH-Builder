@@ -1,0 +1,26 @@
+{
+  "name": "Blizzard",
+  "display_name": "Blizzard",
+  "display_fullname": "TalonsOfVengeance.Blizzard",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/BLIZZARD.POWERSETS",
+  "icon": "blizzard_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Blizzard.Blizzard",
+    "TalonsOfVengeance.Blizzard.Snow"
+  ],
+  "power_display_names": [
+    "Blizzard",
+    "Snow"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, High DoT(Lethal/Cold), +DMG, +DEF (Cold), -Speed(Foe), -Recharge(Foe)",
+    "Targeted AoE, High DoT(Lethal/Cold), +DMG, +DEF (Cold), -Speed(Foe), -Recharge(Foe)"
+  ]
+}

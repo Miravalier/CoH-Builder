@@ -1,0 +1,30 @@
+{
+  "name": "Poison_Poison_Gas",
+  "display_name": "Poison Trap",
+  "display_fullname": "Villain Pets.Poison Trap",
+  "display_help": "Poison",
+  "display_short_help": "Poison",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/POISON_POISON_GAS.POWERSETS",
+  "icon": "poison_poison_gas_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Poison_Poison_Gas.Poison_Trap",
+    "Villain_Pets.Poison_Poison_Gas.Initial_Poison_Gas",
+    "Villain_Pets.Poison_Poison_Gas.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Poison Trap",
+    "Poison Gas",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Choke",
+    "Self Destruct"
+  ]
+}

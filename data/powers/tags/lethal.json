@@ -1,0 +1,183 @@
+{
+  "tag": "Lethal",
+  "bears": [
+    [
+      "Blaster Ranged.Dual Pistols.Bullet Rain",
+      "blaster_ranged.dual_pistols.bullet_rain"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Dual Wield",
+      "blaster_ranged.dual_pistols.dual_wield"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Empty Clips",
+      "blaster_ranged.dual_pistols.empty_clips"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Executioner's Shot",
+      "blaster_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Piercing Rounds",
+      "blaster_ranged.dual_pistols.piercing_rounds"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Pistols",
+      "blaster_ranged.dual_pistols.pistols"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Suppressive Fire",
+      "blaster_ranged.dual_pistols.suppressive_fire"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Bullet Rain",
+      "corruptor_ranged.dual_pistols.bullet_rain"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Dual Wield",
+      "corruptor_ranged.dual_pistols.dual_wield"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Empty Clips",
+      "corruptor_ranged.dual_pistols.empty_clips"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Executioner's Shot",
+      "corruptor_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Piercing Rounds",
+      "corruptor_ranged.dual_pistols.piercing_rounds"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Pistols",
+      "corruptor_ranged.dual_pistols.pistols"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Suppressive Fire",
+      "corruptor_ranged.dual_pistols.suppressive_fire"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Bullet Rain",
+      "defender_ranged.dual_pistols.bullet_rain"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Dual Wield",
+      "defender_ranged.dual_pistols.dual_wield"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Empty Clips",
+      "defender_ranged.dual_pistols.empty_clips"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Executioner's Shot",
+      "defender_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Piercing Rounds",
+      "defender_ranged.dual_pistols.piercing_rounds"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Pistols",
+      "defender_ranged.dual_pistols.pistols"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Suppressive Fire",
+      "defender_ranged.dual_pistols.suppressive_fire"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Bullet Rain",
+      "sentinel_ranged.dual_pistols.bullet_rain"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Dual Wield",
+      "sentinel_ranged.dual_pistols.dual_wield"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Empty Clips",
+      "sentinel_ranged.dual_pistols.empty_clips"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Executioner's Shot",
+      "sentinel_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Piercing Rounds",
+      "sentinel_ranged.dual_pistols.piercing_rounds"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Pistols",
+      "sentinel_ranged.dual_pistols.pistols"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Suppressive Fire",
+      "sentinel_ranged.dual_pistols.suppressive_fire"
+    ]
+  ],
+  "affects": [
+    [
+      "Blaster Ranged.Dual Pistols.Chemical Ammunition",
+      "blaster_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Cryo Ammunition",
+      "blaster_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Incendiary Ammunition",
+      "blaster_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Chemical Ammunition",
+      "corruptor_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Cryo Ammunition",
+      "corruptor_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Incendiary Ammunition",
+      "corruptor_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Chemical Ammunition",
+      "defender_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Cryo Ammunition",
+      "defender_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Incendiary Ammunition",
+      "defender_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "PraetorianResistance.Belladonna.Incendiary Ammunition",
+      "praetorianresistance.belladonna.incendiary_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Chemical Ammunition",
+      "sentinel_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Cryo Ammunition",
+      "sentinel_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Incendiary Ammunition",
+      "sentinel_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Chemical Ammunition",
+      "temporary_powers.temporary_powers.chemical_ammunition"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Cryo Ammunition",
+      "temporary_powers.temporary_powers.cryo_ammunition"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Incendiary Ammunition",
+      "temporary_powers.temporary_powers.incendiary_ammunition"
+    ]
+  ]
+}

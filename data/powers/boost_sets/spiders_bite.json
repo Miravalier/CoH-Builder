@@ -1,0 +1,373 @@
+{
+  "name": "Spiders_Bite",
+  "display_name": "Spider's Bite",
+  "group_name": "Soldiers of Arachnos Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Soldiers of Arachnos"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Spiders_Bite_A.Attuned_Spiders_Bite_A"
+    ],
+    [
+      "Boosts.Attuned_Spiders_Bite_B.Attuned_Spiders_Bite_B"
+    ],
+    [
+      "Boosts.Attuned_Spiders_Bite_C.Attuned_Spiders_Bite_C"
+    ],
+    [
+      "Boosts.Attuned_Spiders_Bite_D.Attuned_Spiders_Bite_D"
+    ],
+    [
+      "Boosts.Attuned_Spiders_Bite_E.Attuned_Spiders_Bite_E"
+    ],
+    [
+      "Boosts.Attuned_Spiders_Bite_F.Attuned_Spiders_Bite_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.spiders_bite"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_5",
+          "Huge Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_4",
+          "Large Increased Melee/Lethal/Smashing Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_6",
+          "Gargantuan Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_6",
+          "Gargantuan Increased Endurance Bonus"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_spiders_bite_f": [
+        [
+          "set_bonus.set_bonus.spiders_bite",
+          "Spider's Bite"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_spider's_bite_ato.png",
+      "e_icon_spider's_bite_ato.png",
+      "e_icon_spider's_bite_ato.png",
+      "e_icon_spider's_bite_ato.png",
+      "e_icon_spider's_bite_ato.png",
+      "e_icon_spider's_bite_ato.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Spider's Bite: Accuracy/Damage"
+      ],
+      [
+        "Attuned Spider's Bite: Damage/Recharge"
+      ],
+      [
+        "Attuned Spider's Bite: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Spider's Bite: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Spider's Bite: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Spider's Bite: Recharge/Global"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_spiders_bite_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_spiders_bite_a.superior_attuned_superior_spiders_bite_a",
+          "Superior Spider's Bite: Accuracy/Damage (Soldier of Arachnos)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Spider's Bite: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "spiders_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_spider's_bite_ato.png"
+      },
+      "attuned_spiders_bite_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_spiders_bite_b.superior_attuned_superior_spiders_bite_b",
+          "Superior Spider's Bite: Damage/Recharge (Soldier of Arachnos)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Spider's Bite: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "spiders_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_spider's_bite_ato.png"
+      },
+      "attuned_spiders_bite_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_spiders_bite_c.superior_attuned_superior_spiders_bite_c",
+          "Superior Spider's Bite: Accuracy/Damage/Recharge (Soldier of Arachnos)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Spider's Bite: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "spiders_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_spider's_bite_ato.png"
+      },
+      "attuned_spiders_bite_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_spiders_bite_d.superior_attuned_superior_spiders_bite_d",
+          "Superior Spider's Bite: Damage/Endurance/Recharge (Soldier of Arachnos)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Spider's Bite: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "spiders_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_spider's_bite_ato.png"
+      },
+      "attuned_spiders_bite_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_spiders_bite_e.superior_attuned_superior_spiders_bite_e",
+          "Superior Spider's Bite: Accuracy/Damage/Endurance/Recharge (Soldier of Arachnos)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Spider's Bite: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "spiders_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_spider's_bite_ato.png"
+      },
+      "attuned_spiders_bite_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_spiders_bite_f.superior_attuned_superior_spiders_bite_f",
+          "Superior Spider's Bite: Recharge/Global Chance for Toxic DMG (Soldier of Arachnos)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Spider's Bite: Recharge/Global",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "spiders_bite",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.spiders_bite",
+            "Spider's Bite"
+          ]
+        ],
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_spider's_bite_ato.png"
+      }
+    }
+  }
+}

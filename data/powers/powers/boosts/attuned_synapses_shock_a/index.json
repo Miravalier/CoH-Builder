@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Synapses_Shock_A",
+  "display_name": "Attuned Synapses Shock A",
+  "display_fullname": "Boosts.Attuned Synapses Shock A",
+  "display_help": "Enhances the Endurance Modification potential of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Synapse's Shock",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SYNAPSES_SHOCK_A.POWERSETS",
+  "icon": "e_icon_synapses_shock.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Synapses_Shock_A.Attuned_Synapses_Shock_A"
+  ],
+  "power_display_names": [
+    "Synapse's Shock: Endurance Modification"
+  ],
+  "power_short_helps": [
+    "+EndMod"
+  ]
+}

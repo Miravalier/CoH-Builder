@@ -1,0 +1,54 @@
+{
+  "name": "Fiery_Melee",
+  "display_name": "Fiery Melee",
+  "display_fullname": "Brute Melee.Fiery Melee",
+  "display_help": "Fiery Melee allows you to attack with fire, and even conjure up flaming melee weapons. Fiery Melee powers tend to set foes ablaze for added Damage Over Time.",
+  "display_short_help": "Fiery Melee",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BRUTE_MELEE/FIERY_MELEE.POWERSETS",
+  "icon": "fiery_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Brute_Melee.Fiery_Melee.Scorch",
+    "Brute_Melee.Fiery_Melee.Fire_Sword",
+    "Brute_Melee.Fiery_Melee.Combustion",
+    "Brute_Melee.Fiery_Melee.Build_Up",
+    "Brute_Melee.Fiery_Melee.Incinerate",
+    "Brute_Melee.Fiery_Melee.Taunt",
+    "Brute_Melee.Fiery_Melee.Breath_of_Fire",
+    "Brute_Melee.Fiery_Melee.Fire_Sword_Circle",
+    "Brute_Melee.Fiery_Melee.Greater_Fire_Sword"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Fire Sword",
+    "Cremate",
+    "Build Up",
+    "Incinerate",
+    "Taunt",
+    "Breath of Fire",
+    "Fire Sword Circle",
+    "Greater Fire Sword"
+  ],
+  "power_short_helps": [
+    "Melee, DMG(Fire)",
+    "Melee, DMG(Fire), -Defense",
+    "Melee, DMG(Fire), Knockup",
+    "Self +DMG, +To Hit",
+    "Melee, DoT (Fire)",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Close (Cone) DoT (Fire)",
+    "PBAoE Melee, DMG(Fire), -Defense",
+    "Melee, DMG(Fire), -Defense"
+  ]
+}

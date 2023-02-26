@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Fear",
+  "display_name": "Technology Fear",
+  "display_fullname": "Boosts.Technology Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_FEAR.POWERSETS",
+  "icon": "technology_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Fear.Technology_Fear"
+  ],
+  "power_display_names": [
+    "Benedict Tech Facial Reconstruction (Fear)"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

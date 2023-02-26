@@ -1,0 +1,22 @@
+{
+  "tag": "AV Drain",
+  "bears": [
+    [
+      "Blaster Ranged.Electrical Blast.Thunderous Blast",
+      "blaster_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Thunderous Blast",
+      "corruptor_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Thunderous Blast",
+      "defender_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Thunderous Blast",
+      "sentinel_ranged.electrical_blast.thunderous_blast"
+    ]
+  ],
+  "affects": []
+}

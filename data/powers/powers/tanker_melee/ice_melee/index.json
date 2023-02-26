@@ -1,0 +1,54 @@
+{
+  "name": "Ice_Melee",
+  "display_name": "Ice Melee",
+  "display_fullname": "Tanker Melee.Ice Melee",
+  "display_help": "Ice Melee allows the player to use Cold-based attacks, and even conjure up frozen melee weapons. Ice Melee powers are known for their ability to slow an opponent.",
+  "display_short_help": "Ice Melee",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/TANKER_MELEE/ICE_MELEE.POWERSETS",
+  "icon": "ice_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Tanker_Melee.Ice_Melee.Frozen_Fists",
+    "Tanker_Melee.Ice_Melee.Ice_Sword",
+    "Tanker_Melee.Ice_Melee.Frost",
+    "Tanker_Melee.Ice_Melee.Taunt",
+    "Tanker_Melee.Ice_Melee.Build_Up",
+    "Tanker_Melee.Ice_Melee.Ice_Patch",
+    "Tanker_Melee.Ice_Melee.Freezing_Touch",
+    "Tanker_Melee.Ice_Melee.Greater_Ice_Sword",
+    "Tanker_Melee.Ice_Melee.Frozen_Aura"
+  ],
+  "power_display_names": [
+    "Frozen Fists",
+    "Ice Sword",
+    "Frost",
+    "Taunt",
+    "Build Up",
+    "Ice Patch",
+    "Freezing Touch",
+    "Greater Ice Sword",
+    "Frozen Aura"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Cold/Smash), Foe -Recharge, -SPD,",
+    "Melee, Light DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Close (Cone), Moderate DoT(Cold), Foe -Recharge, -SPD",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Self +DMG, +To Hit",
+    "Location (PBAoE), Foe Knockdown",
+    "Melee, High DoT(Cold), Foe Hold",
+    "Melee, High DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "PBAoE, Moderate DMG(Cold), Foe Sleep"
+  ]
+}

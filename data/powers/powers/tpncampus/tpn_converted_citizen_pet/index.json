@@ -1,0 +1,26 @@
+{
+  "name": "TPN_Converted_Citizen_Pet",
+  "display_name": "TPN_Converted_Citizen_Pet",
+  "display_fullname": "TPNCampus.TPN Converted Citizen Pet",
+  "display_help": "Citizens",
+  "display_short_help": "Citizens",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/TPN_CONVERTED_CITIZEN_PET.POWERSETS",
+  "icon": "tpn_converted_citizen_pet_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.TPN_Converted_Citizen_Pet.Burn",
+    "TPNCampus.TPN_Converted_Citizen_Pet.Avoid"
+  ],
+  "power_display_names": [
+    "Burn",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "Burn",
+    "Avoid"
+  ]
+}

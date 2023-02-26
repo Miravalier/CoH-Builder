@@ -1,0 +1,22 @@
+{
+  "name": "Goliath_Buff",
+  "display_name": "Goliath_Buff",
+  "display_fullname": "Incarnate AlphaStrike.Goliath Buff",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/GOLIATH_BUFF.POWERSETS",
+  "icon": "goliath_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Goliath_Buff.Strength_in_Numbers"
+  ],
+  "power_display_names": [
+    "Strength in Numbers"
+  ],
+  "power_short_helps": [
+    "Ally +DMG, +ToHit"
+  ]
+}

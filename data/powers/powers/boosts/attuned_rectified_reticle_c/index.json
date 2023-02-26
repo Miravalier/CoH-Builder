@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Rectified_Reticle_C",
+  "display_name": "Attuned Rectified Reticle C",
+  "display_fullname": "Boosts.Attuned Rectified Reticle C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Adds {Boost.Attrib.Perception.Scale}% to your perception radius.",
+  "display_short_help": "Set: Rectified Reticle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_RECTIFIED_RETICLE_C.POWERSETS",
+  "icon": "attuned_rectified_reticle_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Rectified_Reticle_C.Attuned_Rectified_Reticle_C"
+  ],
+  "power_display_names": [
+    "Rectified Reticle: Increased Perception"
+  ],
+  "power_short_helps": [
+    "+Perception"
+  ]
+}

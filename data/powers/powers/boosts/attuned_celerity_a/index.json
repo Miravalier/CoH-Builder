@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Celerity_A",
+  "display_name": "Attuned Celerity A",
+  "display_fullname": "Boosts.Attuned Celerity A",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Celerity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CELERITY_A.POWERSETS",
+  "icon": "attuned_celerity_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Celerity_A.Attuned_Celerity_A"
+  ],
+  "power_display_names": [
+    "Celerity: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

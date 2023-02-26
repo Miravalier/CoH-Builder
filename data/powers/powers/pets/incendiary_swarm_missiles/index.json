@@ -1,0 +1,22 @@
+{
+  "name": "Incendiary_Swarm_Missiles",
+  "display_name": "Burn",
+  "display_fullname": "Pets.Burn",
+  "display_help": "Fire",
+  "display_short_help": "Fire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/INCENDIARY_SWARM_MISSILES.POWERSETS",
+  "icon": "burn_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Incendiary_Swarm_Missiles.Burn"
+  ],
+  "power_display_names": [
+    "Flames"
+  ],
+  "power_short_helps": [
+    "Burn"
+  ]
+}

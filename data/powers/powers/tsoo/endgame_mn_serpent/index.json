@@ -1,0 +1,34 @@
+{
+  "name": "Endgame_MN_Serpent",
+  "display_name": "Endgame_MN_Serpent",
+  "display_fullname": "Tsoo.Endgame MN Serpent",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_MN_SERPENT.POWERSETS",
+  "icon": "endgame_mn_serpent_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_MN_Serpent.Barb_Swipe",
+    "Tsoo.Endgame_MN_Serpent.Lunge",
+    "Tsoo.Endgame_MN_Serpent.Impale",
+    "Tsoo.Endgame_MN_Serpent.Spine_Throwing"
+  ],
+  "power_display_names": [
+    "Barb Swipe",
+    "Lunge",
+    "Impale",
+    "Spine Throwing"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge, Immobilize",
+    "DoT(Toxic), -SPD, -Recharge"
+  ]
+}

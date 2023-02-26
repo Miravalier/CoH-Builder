@@ -1,0 +1,54 @@
+{
+  "name": "Howler_Wolf",
+  "display_name": "Howler Wolf",
+  "display_fullname": "Mission Maker Pets.Howler Wolf",
+  "display_help": "Beasts",
+  "display_short_help": "Beasts",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    31,
+    31,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/HOWLER_WOLF.POWERSETS",
+  "icon": "howler_wolf_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Howler_Wolf.Resistance",
+    "Mission_Maker_Pets.Howler_Wolf.Vicious_Bite",
+    "Mission_Maker_Pets.Howler_Wolf.Super_Leap",
+    "Mission_Maker_Pets.Howler_Wolf.Wild_Charge",
+    "Mission_Maker_Pets.Howler_Wolf.Maiming_Bite",
+    "Mission_Maker_Pets.Howler_Wolf.Train_Beasts",
+    "Mission_Maker_Pets.Howler_Wolf.Howl",
+    "Mission_Maker_Pets.Howler_Wolf.Throat_Bite",
+    "Mission_Maker_Pets.Howler_Wolf.Tame_Beasts"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Vicious Bite",
+    "Super Leap",
+    "Wild Charge",
+    "Maiming Bite",
+    "Train Beasts",
+    "Howl",
+    "Feral Charge",
+    "Tame Beasts"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Placate, Confuse, Taunt, Cold, Lethal, Smash) +Def(Melee, Ranged, AoE)",
+    "Melee, Light DMG(Lethal), Foe Minor DoT(Lethal)",
+    "Self Leap",
+    "Self +DMG, +Speed, +Res(Slow, Immobilize)",
+    "Melee, Moderate DMG(Lethal), Foe -Speed, -Def",
+    "Train Beasts",
+    "PBAoE, Beast Ally +DMG, +To-Hit",
+    "Melee, High DMG(Lethal), Foe -Def, Knockdown",
+    "Tame Beasts"
+  ]
+}

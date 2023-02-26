@@ -1,0 +1,94 @@
+{
+  "name": "UnifiedPeoplesArmy_Calvin_Scott",
+  "gender": "GENDER_MALE",
+  "group_name": "UnifiedPeoplesArmy",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Calvin Scott was formerly one of the leaders of the Praetorian Resistance. During the events of the Praetorian War, the Resistance became fractured after the rescue of Aurora Borealis, Calvin Scott's purported wife. After her rescue from the Seer Network, it was revealed that her rescue, which was his main motivation in provoking the war against Emperor Cole , was only the delusions of a mad man, as Aurora was not his wife, but his psychiatrist. Despite the revelation, however, there were many who remained loyal to Calvin Scott, for even though his original goals were delusions, what he stood for was very real and very right. The Unified Praetorian Army was formed in the aftermath of his split from the Resistance, fighting against Cole in the late stages of the Praetorian War. When he and his loyalists escaped to Primal Earth, the name changed to the Unified People's Army, to better reflect their belief that all of humanity should rally to his cause. Calvin Scott now commands a combined army of Resistance and Imperial forces, along with a small number of Primal citizens. He, and they, seek to change Primal Earth and bring about a better tomorrow.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "UnifiedPeoplesArmy.Calvin_Scott.Snap_Shots",
+      "UnifiedPeoplesArmy.Calvin_Scott.Aimed_Shot",
+      "UnifiedPeoplesArmy.Calvin_Scott.Overcharged_Shots",
+      "UnifiedPeoplesArmy.Calvin_Scott.Fusillade",
+      "UnifiedPeoplesArmy.Calvin_Scott.Minelayer",
+      "UnifiedPeoplesArmy.Calvin_Scott.Crusader_Fury",
+      "GenericVillains.AV_Resistance.AV_Resistance"
+    ],
+    "power_display_names": [
+      "Snap Shots",
+      "Aimed Shot",
+      "Overcharged Shots",
+      "Fusillade",
+      "Minelayer",
+      "Crusader's Fury",
+      "Archvillain's Might"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "UnifiedPeoplesArmy",
+        "power_set": "Calvin_Scott",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "AV_Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Calvin Scott"
+      ],
+      "costumes": [
+        "Calvin_Scott_01_NoRing"
+      ]
+    }
+  ]
+}

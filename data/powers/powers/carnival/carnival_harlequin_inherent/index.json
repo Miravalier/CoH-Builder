@@ -1,0 +1,22 @@
+{
+  "name": "Carnival_Harlequin_Inherent",
+  "display_name": "Carnival_Harlequin_Inherent",
+  "display_fullname": "Carnival.Carnival Harlequin Inherent",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_HARLEQUIN_INHERENT.POWERSETS",
+  "icon": "carnival_harlequin_inherent_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Harlequin_Inherent.Super_Leap"
+  ],
+  "power_display_names": [
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Self Travel"
+  ]
+}

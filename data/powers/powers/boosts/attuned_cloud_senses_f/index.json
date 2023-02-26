@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cloud_Senses_F",
+  "display_name": "Attuned Cloud Senses F",
+  "display_fullname": "Boosts.Attuned Cloud Senses F",
+  "display_help": "Provides a chance to cause minor negative energy damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Cloud Senses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CLOUD_SENSES_F.POWERSETS",
+  "icon": "attuned_cloud_senses_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cloud_Senses_F.Attuned_Cloud_Senses_F"
+  ],
+  "power_display_names": [
+    "Cloud Senses: Chance for Negative Energy Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Minor DMG (Negative Energy)"
+  ]
+}

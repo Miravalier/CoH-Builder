@@ -1,0 +1,46 @@
+{
+  "name": "Augur_Powers_Endgame",
+  "display_name": "Augur Powers",
+  "display_fullname": "P Seers.Augur Powers",
+  "display_help": "Augur",
+  "display_short_help": "Augur",
+  "available_level": [
+    0,
+    0,
+    0,
+    20,
+    24,
+    0,
+    39
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/AUGUR_POWERS_ENDGAME.POWERSETS",
+  "icon": "augur_powers_endgame_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Augur_Powers_Endgame.Levitate",
+    "P_Seers.Augur_Powers_Endgame.Mental_Blast",
+    "P_Seers.Augur_Powers_Endgame.Psionic_Tornado",
+    "P_Seers.Augur_Powers_Endgame.Summon_Reinforcements_Low",
+    "P_Seers.Augur_Powers_Endgame.Summon_Reinforcements",
+    "P_Seers.Augur_Powers_Endgame.Dominate",
+    "P_Seers.Augur_Powers_Endgame.Scare"
+  ],
+  "power_display_names": [
+    "Levitate",
+    "Mental Blast",
+    "Psionic Tornado",
+    "Summon Reinforcements Low",
+    "Summon Reinforcements",
+    "Dominate",
+    "Scare"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Smash), Foe Knock Up",
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "Ranged (Targeted AoE), Moderate DoT(Psionic), Foe Knockback",
+    "Summon Reinforcements",
+    "Summon Reinforcements",
+    "Hold",
+    "Ranged, Foe Fear"
+  ]
+}

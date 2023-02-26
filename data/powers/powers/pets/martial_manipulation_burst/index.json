@@ -1,0 +1,22 @@
+{
+  "name": "Martial_Manipulation_Burst",
+  "display_name": "Martial Manipulation",
+  "display_fullname": "Pets.Martial Manipulation",
+  "display_help": "Martial Manipulation",
+  "display_short_help": "Martial Manipulation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/MARTIAL_MANIPULATION_BURST.POWERSETS",
+  "icon": "martial_manipulation_burst_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Martial_Manipulation_Burst.Burst_of_Speed"
+  ],
+  "power_display_names": [
+    "Burst of Speed"
+  ],
+  "power_short_helps": [
+    "PBAoE, Light DMG(Smash)"
+  ]
+}

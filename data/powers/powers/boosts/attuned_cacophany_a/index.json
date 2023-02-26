@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cacophany_A",
+  "display_name": "Attuned Cacophony A",
+  "display_fullname": "Boosts.Attuned Cacophany A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Cacophony",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CACOPHANY_A.POWERSETS",
+  "icon": "attuned_cacophany_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cacophany_A.Attuned_Cacophany_A"
+  ],
+  "power_display_names": [
+    "Cacophony: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

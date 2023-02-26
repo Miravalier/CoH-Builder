@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Serendipity_F",
+  "display_name": "Crafted Serendipity F",
+  "display_fullname": "Boosts.Crafted Serendipity F",
+  "display_help": "Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Serendipity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_SERENDIPITY_F.POWERSETS",
+  "icon": "crafted_serendipity_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Serendipity_F.Crafted_Serendipity_F"
+  ],
+  "power_display_names": [
+    "Serendipity: Endurance"
+  ],
+  "power_short_helps": [
+    "-End cost"
+  ]
+}

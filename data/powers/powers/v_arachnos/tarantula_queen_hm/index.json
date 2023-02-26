@@ -1,0 +1,34 @@
+{
+  "name": "Tarantula_Queen_HM",
+  "display_name": "Tarantula_Queen (Hard Mode)",
+  "display_fullname": "V Arachnos.Tarantula Queen (Hard Mode)",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    49,
+    49,
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/TARANTULA_QUEEN_HM.POWERSETS",
+  "icon": "tarantula_mistress_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Tarantula_Queen_HM.Aura_of_Confusion",
+    "V_Arachnos.Tarantula_Queen_HM.Mental_Training",
+    "V_Arachnos.Tarantula_Queen_HM.Combat_Training:_Defensive",
+    "V_Arachnos.Tarantula_Queen_HM.Tactical_Training:_Maneuvers"
+  ],
+  "power_display_names": [
+    "Aura of Confusion",
+    "Mental Training",
+    "Combat Training: Defensive",
+    "Tactical Training: Maneuvers"
+  ],
+  "power_short_helps": [
+    "PBAoE, Foe Confuse",
+    "Auto: Self +Recharge, +SPD, Res (Slow/Confuse)",
+    "Auto: Self +DEF(Ranged), +KB Protection",
+    "Toggle: PBAoE, Team +DEF(All)"
+  ]
+}

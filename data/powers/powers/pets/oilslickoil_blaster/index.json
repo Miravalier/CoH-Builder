@@ -1,0 +1,30 @@
+{
+  "name": "OilSlickOil_Blaster",
+  "display_name": "Oil Slick",
+  "display_fullname": "Pets.Oil Slick",
+  "display_help": "Trick Arrow",
+  "display_short_help": "Trick Arrow",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/OILSLICKOIL_BLASTER.POWERSETS",
+  "icon": "oilslickoil_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.OilSlickOil_Blaster.Oil_Slick",
+    "Pets.OilSlickOil_Blaster.Generate_Target",
+    "Pets.OilSlickOil_Blaster.Res_Target"
+  ],
+  "power_display_names": [
+    "Oil Slick",
+    "Generate Target",
+    "Res Target"
+  ],
+  "power_short_helps": [
+    "Knockback, -Speed",
+    "Knockback, -Speed",
+    "Knockback, -Speed"
+  ]
+}

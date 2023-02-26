@@ -1,0 +1,30 @@
+{
+  "tag": "Doublehit",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Doublehit",
+      "incarnate.hybrid_silent.doublehit"
+    ],
+    [
+      "Incarnate.Hybrid.Doublehit",
+      "incarnate.hybrid_silent.doublehit_partial_core"
+    ],
+    [
+      "Incarnate.Hybrid.Doublehit",
+      "incarnate.hybrid_silent.doublehit_partial_radial"
+    ],
+    [
+      "Incarnate.Hybrid.Doublehit",
+      "incarnate.hybrid_silent.doublehit_rare"
+    ],
+    [
+      "Incarnate.Hybrid.Doublehit",
+      "incarnate.hybrid_silent.doublehit_uncommon"
+    ],
+    [
+      "Incarnate.Hybrid.Doublehit",
+      "incarnate.hybrid_silent.doublehit_very_rare"
+    ]
+  ],
+  "affects": []
+}

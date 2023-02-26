@@ -1,0 +1,22 @@
+{
+  "name": "Outcast_Lt_SubmachineGun",
+  "display_name": "Outcast_Lt_SubmachineGun",
+  "display_fullname": "Outcasts.Outcast Lt SubmachineGun",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_LT_SUBMACHINEGUN.POWERSETS",
+  "icon": "outcast_lt_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Lt_SubmachineGun.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "-Def"
+  ]
+}

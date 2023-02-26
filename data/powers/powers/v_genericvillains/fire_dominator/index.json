@@ -1,0 +1,50 @@
+{
+  "name": "Fire_Dominator",
+  "display_name": "Fire Dominator",
+  "display_fullname": "V GenericVillains.Fire Dominator",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/FIRE_DOMINATOR.POWERSETS",
+  "icon": "fire_dominator_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Fire_Dominator.Char",
+    "V_GenericVillains.Fire_Dominator.Fire_Cages",
+    "V_GenericVillains.Fire_Dominator.Flashfire",
+    "V_GenericVillains.Fire_Dominator.Cinders",
+    "V_GenericVillains.Fire_Dominator.Incinerate",
+    "V_GenericVillains.Fire_Dominator.Fire_Breath",
+    "V_GenericVillains.Fire_Dominator.Fire_Blast",
+    "V_GenericVillains.Fire_Dominator.Combustion"
+  ],
+  "power_display_names": [
+    "Char",
+    "Fire Cages",
+    "Flashfire",
+    "Cinders",
+    "Incinerate",
+    "Fire Breath",
+    "Fire Blast",
+    "Combustion"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Fire), Foe Hold",
+    "Ranged (Targeted AoE), Minor DoT(Fire), Foe Immobilize",
+    "Ranged (Targeted AoE), Minor DoT(Fire), Foe Disorient",
+    "PBAoE, Foe Hold",
+    "Melee, High DoT(Fire)",
+    "Close (Cone), Moderate DoT(Fire)",
+    "Ranged, Moderate DMG(Fire)",
+    "PBAoE, Moderate DoT(Fire)"
+  ]
+}

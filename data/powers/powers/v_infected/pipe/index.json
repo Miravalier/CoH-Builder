@@ -1,0 +1,22 @@
+{
+  "name": "Pipe",
+  "display_name": "Pipe",
+  "display_fullname": "V Infected.Pipe",
+  "display_help": "Infected",
+  "display_short_help": "Infected",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_INFECTED/PIPE.POWERSETS",
+  "icon": "pipe_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Infected.Pipe.Pipe"
+  ],
+  "power_display_names": [
+    "Pipe"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam"
+  ]
+}

@@ -1,0 +1,2079 @@
+{
+  "tag": "FieryEmbrace",
+  "bears": [
+    [
+      "Brute Defense.Fiery Aura.Blazing Aura",
+      "brute_defense.fiery_aura.blazing_aura"
+    ],
+    [
+      "Brute Defense.Fiery Aura.Burn",
+      "brute_defense.fiery_aura.burn"
+    ],
+    [
+      "Brute Melee Aux.Savage Melee.Rending Flurry Large",
+      "brute_melee_aux.savage_melee.rending_flurry_large"
+    ],
+    [
+      "Brute Melee Aux.Savage Melee.Rending Flurry Normal",
+      "brute_melee_aux.savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Brute Melee Aux.Savage Melee.Savage Leap AoE",
+      "brute_melee_aux.savage_melee.savage_leap_aoe"
+    ],
+    [
+      "Brute Melee.Battle Axe.Beheader",
+      "brute_melee.battle_axe.gash"
+    ],
+    [
+      "Brute Melee.Battle Axe.Chop",
+      "brute_melee.battle_axe.chop"
+    ],
+    [
+      "Brute Melee.Battle Axe.Cleave",
+      "brute_melee.battle_axe.cleave"
+    ],
+    [
+      "Brute Melee.Battle Axe.Gash",
+      "brute_melee.battle_axe.beheader"
+    ],
+    [
+      "Brute Melee.Battle Axe.Pendulum",
+      "brute_melee.battle_axe.pendulum"
+    ],
+    [
+      "Brute Melee.Battle Axe.Swoop",
+      "brute_melee.battle_axe.swoop"
+    ],
+    [
+      "Brute Melee.Broad Sword.Disembowel",
+      "brute_melee.broad_sword.disembowel"
+    ],
+    [
+      "Brute Melee.Broad Sword.Hack",
+      "brute_melee.broad_sword.hack"
+    ],
+    [
+      "Brute Melee.Broad Sword.Head Splitter",
+      "brute_melee.broad_sword.head_splitter"
+    ],
+    [
+      "Brute Melee.Broad Sword.Parry",
+      "brute_melee.broad_sword.parry"
+    ],
+    [
+      "Brute Melee.Broad Sword.Slash",
+      "brute_melee.broad_sword.slash"
+    ],
+    [
+      "Brute Melee.Broad Sword.Slice",
+      "brute_melee.broad_sword.slice"
+    ],
+    [
+      "Brute Melee.Broad Sword.Whirling Sword",
+      "brute_melee.broad_sword.whirling_sword"
+    ],
+    [
+      "Brute Melee.Claws.Eviscerate",
+      "brute_melee.claws.eviscerate"
+    ],
+    [
+      "Brute Melee.Claws.Focus",
+      "brute_melee.claws.focus"
+    ],
+    [
+      "Brute Melee.Claws.Follow Up",
+      "brute_melee.claws.follow_up"
+    ],
+    [
+      "Brute Melee.Claws.Shockwave",
+      "brute_melee.claws.shockwave"
+    ],
+    [
+      "Brute Melee.Claws.Slash",
+      "brute_melee.claws.slash"
+    ],
+    [
+      "Brute Melee.Claws.Spin",
+      "brute_melee.claws.spin"
+    ],
+    [
+      "Brute Melee.Claws.Strike",
+      "brute_melee.claws.strike"
+    ],
+    [
+      "Brute Melee.Claws.Swipe",
+      "brute_melee.claws.swipe"
+    ],
+    [
+      "Brute Melee.Dark Melee.Dark Consumption",
+      "brute_melee.dark_melee.dark_consumption"
+    ],
+    [
+      "Brute Melee.Dark Melee.Midnight Grasp",
+      "brute_melee.dark_melee.midnight_grasp"
+    ],
+    [
+      "Brute Melee.Dark Melee.Shadow Maul",
+      "brute_melee.dark_melee.shadow_maul"
+    ],
+    [
+      "Brute Melee.Dark Melee.Shadow Punch",
+      "brute_melee.dark_melee.shadow_punch"
+    ],
+    [
+      "Brute Melee.Dark Melee.Siphon Life",
+      "brute_melee.dark_melee.siphon_life"
+    ],
+    [
+      "Brute Melee.Dark Melee.Smite",
+      "brute_melee.dark_melee.smite"
+    ],
+    [
+      "Brute Melee.Dark Melee.Soul Drain",
+      "brute_melee.dark_melee.soul_drain"
+    ],
+    [
+      "Brute Melee.Dual Blades.Ablating Strike",
+      "brute_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Brute Melee.Dual Blades.Blinding Feint",
+      "brute_melee.dual_blades.follow_up"
+    ],
+    [
+      "Brute Melee.Dual Blades.Nimble Slash",
+      "brute_melee.dual_blades.light_opening"
+    ],
+    [
+      "Brute Melee.Dual Blades.One Thousand Cuts",
+      "brute_melee.dual_blades.high_low"
+    ],
+    [
+      "Brute Melee.Dual Blades.Power Slice",
+      "brute_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Brute Melee.Dual Blades.Sweeping Strike",
+      "brute_melee.dual_blades.special_2"
+    ],
+    [
+      "Brute Melee.Dual Blades.Typhoon's Edge",
+      "brute_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Brute Melee.Dual Blades.Vengeful Slice",
+      "brute_melee.dual_blades.special_1"
+    ],
+    [
+      "Brute Melee.Electrical Melee.Chain Induction",
+      "brute_melee.electrical_melee.chain_induction"
+    ],
+    [
+      "Brute Melee.Electrical Melee.Charged Brawl",
+      "brute_melee.electrical_melee.charged_brawl"
+    ],
+    [
+      "Brute Melee.Electrical Melee.Havoc Punch",
+      "brute_melee.electrical_melee.havoc_punch"
+    ],
+    [
+      "Brute Melee.Electrical Melee.Jacobs Ladder",
+      "brute_melee.electrical_melee.jacobs_ladder"
+    ],
+    [
+      "Brute Melee.Electrical Melee.Lightning Clap",
+      "brute_melee.electrical_melee.lightning_clap"
+    ],
+    [
+      "Brute Melee.Electrical Melee.Lightning Rod",
+      "brute_melee.electrical_melee.lightning_rod"
+    ],
+    [
+      "Brute Melee.Energy Melee.Barrage",
+      "brute_melee.energy_melee.barrage"
+    ],
+    [
+      "Brute Melee.Energy Melee.Bone Smasher",
+      "brute_melee.energy_melee.bone_smasher"
+    ],
+    [
+      "Brute Melee.Energy Melee.Energy Punch",
+      "brute_melee.energy_melee.energy_punch"
+    ],
+    [
+      "Brute Melee.Energy Melee.Power Crash",
+      "brute_melee.energy_melee.stun"
+    ],
+    [
+      "Brute Melee.Energy Melee.Whirling Hands",
+      "brute_melee.energy_melee.whirling_hands"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Breath of Fire",
+      "brute_melee.fiery_melee.breath_of_fire"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Cremate",
+      "brute_melee.fiery_melee.combustion"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Fire Sword",
+      "brute_melee.fiery_melee.fire_sword"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Fire Sword Circle",
+      "brute_melee.fiery_melee.fire_sword_circle"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Greater Fire Sword",
+      "brute_melee.fiery_melee.greater_fire_sword"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Incinerate",
+      "brute_melee.fiery_melee.incinerate"
+    ],
+    [
+      "Brute Melee.Fiery Melee.Scorch",
+      "brute_melee.fiery_melee.scorch"
+    ],
+    [
+      "Brute Melee.Ice Melee.Freezing Touch",
+      "brute_melee.ice_melee.freezing_touch"
+    ],
+    [
+      "Brute Melee.Ice Melee.Frost",
+      "brute_melee.ice_melee.frost"
+    ],
+    [
+      "Brute Melee.Ice Melee.Frozen Aura",
+      "brute_melee.ice_melee.frozen_aura"
+    ],
+    [
+      "Brute Melee.Ice Melee.Frozen Fists",
+      "brute_melee.ice_melee.frozen_fists"
+    ],
+    [
+      "Brute Melee.Ice Melee.Greater Ice Sword",
+      "brute_melee.ice_melee.greater_ice_sword"
+    ],
+    [
+      "Brute Melee.Ice Melee.Ice Sword",
+      "brute_melee.ice_melee.ice_sword"
+    ],
+    [
+      "Brute Melee.Katana.Divine Avalanche",
+      "brute_melee.katana.parry"
+    ],
+    [
+      "Brute Melee.Katana.Flashing Steel",
+      "brute_melee.katana.slice"
+    ],
+    [
+      "Brute Melee.Katana.Gambler's Cut",
+      "brute_melee.katana.slash"
+    ],
+    [
+      "Brute Melee.Katana.Golden Dragonfly",
+      "brute_melee.katana.head_splitter"
+    ],
+    [
+      "Brute Melee.Katana.Soaring Dragon",
+      "brute_melee.katana.disembowel"
+    ],
+    [
+      "Brute Melee.Katana.Sting of the Wasp",
+      "brute_melee.katana.hack"
+    ],
+    [
+      "Brute Melee.Katana.The Lotus Drops",
+      "brute_melee.katana.whirling_sword"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Body Blow",
+      "brute_melee.kinetic_attack.body_blow"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Burst",
+      "brute_melee.kinetic_attack.burst"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Concentrated Strike",
+      "brute_melee.kinetic_attack.total_focus"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Focused Burst",
+      "brute_melee.kinetic_attack.focused_burst"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Quick Strike",
+      "brute_melee.kinetic_attack.quick_strike"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Repulsing Torrent",
+      "brute_melee.kinetic_attack.repulsing_torrent"
+    ],
+    [
+      "Brute Melee.Kinetic Melee.Smashing Blow",
+      "brute_melee.kinetic_attack.smashing_blow"
+    ],
+    [
+      "Brute Melee.Martial Arts.Cobra Strike",
+      "brute_melee.martial_arts.cobra_strike"
+    ],
+    [
+      "Brute Melee.Martial Arts.Crane Kick",
+      "brute_melee.martial_arts.crane_kick"
+    ],
+    [
+      "Brute Melee.Martial Arts.Crippling Axe Kick",
+      "brute_melee.martial_arts.crippling_axe_kick"
+    ],
+    [
+      "Brute Melee.Martial Arts.Dragon's Tail",
+      "brute_melee.martial_arts.dragons_tail"
+    ],
+    [
+      "Brute Melee.Martial Arts.Eagles Claw",
+      "brute_melee.martial_arts.eagles_claw"
+    ],
+    [
+      "Brute Melee.Martial Arts.Storm Kick",
+      "brute_melee.martial_arts.storm_kick"
+    ],
+    [
+      "Brute Melee.Martial Arts.Thunder Kick",
+      "brute_melee.martial_arts.thunder_kick"
+    ],
+    [
+      "Brute Melee.Psionic Melee.Greater Psi Blade",
+      "brute_melee.psionic_melee.greater_psi_blade"
+    ],
+    [
+      "Brute Melee.Psionic Melee.Mass Levitate",
+      "brute_melee.psionic_melee.mass_levitate"
+    ],
+    [
+      "Brute Melee.Psionic Melee.Mental Strike",
+      "brute_melee.psionic_melee.mental_strike"
+    ],
+    [
+      "Brute Melee.Psionic Melee.Psi Blade",
+      "brute_melee.psionic_melee.psi_blade"
+    ],
+    [
+      "Brute Melee.Psionic Melee.Psi Blade Sweep",
+      "brute_melee.psionic_melee.psi_blade_sweep"
+    ],
+    [
+      "Brute Melee.Psionic Melee.Telekinetic Blow",
+      "brute_melee.psionic_melee.telekinetic_blow"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Atom Smasher",
+      "brute_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Contaminated Strike",
+      "brute_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Devastating Blow",
+      "brute_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Proton Sweep",
+      "brute_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Radiation Siphon",
+      "brute_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Radioactive Smash",
+      "brute_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Brute Melee.Savage Melee.Hemorrhage",
+      "brute_melee.savage_melee.hemorrhage"
+    ],
+    [
+      "Brute Melee.Savage Melee.Maiming Slash",
+      "brute_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Brute Melee.Savage Melee.Savage Strike",
+      "brute_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Brute Melee.Savage Melee.Shred",
+      "brute_melee.savage_melee.shred"
+    ],
+    [
+      "Brute Melee.Savage Melee.Vicious Slash",
+      "brute_melee.savage_melee.vicious_slash"
+    ],
+    [
+      "Brute Melee.Spines.Barb Swipe",
+      "brute_melee.spines.barb_swipe"
+    ],
+    [
+      "Brute Melee.Spines.Impale",
+      "brute_melee.spines.impale"
+    ],
+    [
+      "Brute Melee.Spines.Lunge",
+      "brute_melee.spines.lunge"
+    ],
+    [
+      "Brute Melee.Spines.Quills",
+      "brute_melee.spines.quills"
+    ],
+    [
+      "Brute Melee.Spines.Ripper",
+      "brute_melee.spines.ripper"
+    ],
+    [
+      "Brute Melee.Spines.Spine Burst",
+      "brute_melee.spines.spine_burst"
+    ],
+    [
+      "Brute Melee.Spines.Throw Spines",
+      "brute_melee.spines.throw_spines"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Eye of the Storm",
+      "brute_melee.staff_fighting.eye_of_the_storm"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Guarded Spin",
+      "brute_melee.staff_fighting.guarded_spin"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Innocuous Strikes",
+      "brute_melee.staff_fighting.innocuous_strikes"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Mercurial Blow",
+      "brute_melee.staff_fighting.mercurial_blow"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Precise Strike",
+      "brute_melee.staff_fighting.precise_strike"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Serpent's Reach",
+      "brute_melee.staff_fighting.serpents_reach"
+    ],
+    [
+      "Brute Melee.Staff Fighting.Sky Splitter",
+      "brute_melee.staff_fighting.sky_splitter"
+    ],
+    [
+      "Brute Melee.Stone Melee.Heavy Mallet",
+      "brute_melee.stone_melee.heavy_mallet"
+    ],
+    [
+      "Brute Melee.Stone Melee.Hurl Boulder",
+      "brute_melee.stone_melee.hurl_boulder"
+    ],
+    [
+      "Brute Melee.Stone Melee.Seismic Smash",
+      "brute_melee.stone_melee.seismic_smash"
+    ],
+    [
+      "Brute Melee.Stone Melee.Stone Fist",
+      "brute_melee.stone_melee.stone_fist"
+    ],
+    [
+      "Brute Melee.Stone Melee.Stone Mallet",
+      "brute_melee.stone_melee.stone_mallet"
+    ],
+    [
+      "Brute Melee.Stone Melee.Tremor",
+      "brute_melee.stone_melee.tremor"
+    ],
+    [
+      "Brute Melee.Street Justice.Crushing Uppercut",
+      "brute_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Brute Melee.Street Justice.Heavy Blow",
+      "brute_melee.brawling.heavy_blow"
+    ],
+    [
+      "Brute Melee.Street Justice.Initial Strike",
+      "brute_melee.brawling.initial_strike"
+    ],
+    [
+      "Brute Melee.Street Justice.Rib Cracker",
+      "brute_melee.brawling.throat_strike"
+    ],
+    [
+      "Brute Melee.Street Justice.Shin Breaker",
+      "brute_melee.brawling.low_kick"
+    ],
+    [
+      "Brute Melee.Street Justice.Spinning Strike",
+      "brute_melee.brawling.spinning_strike"
+    ],
+    [
+      "Brute Melee.Street Justice.Sweeping Cross",
+      "brute_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Brute Melee.Super Strength.Foot Stomp",
+      "brute_melee.super_strength.foot_stomp"
+    ],
+    [
+      "Brute Melee.Super Strength.Hand Clap",
+      "brute_melee.super_strength.hand_clap"
+    ],
+    [
+      "Brute Melee.Super Strength.Haymaker",
+      "brute_melee.super_strength.haymaker"
+    ],
+    [
+      "Brute Melee.Super Strength.Hurl",
+      "brute_melee.super_strength.hurl"
+    ],
+    [
+      "Brute Melee.Super Strength.Jab",
+      "brute_melee.super_strength.jab"
+    ],
+    [
+      "Brute Melee.Super Strength.Knockout Blow",
+      "brute_melee.super_strength.knockout_blow"
+    ],
+    [
+      "Brute Melee.Super Strength.Punch",
+      "brute_melee.super_strength.punch"
+    ],
+    [
+      "Brute Melee.Titan Weapons.Follow Through",
+      "brute_melee.titan_weapons.follow_through"
+    ],
+    [
+      "Brute Melee.Titan Weapons.Whirling Smash",
+      "brute_melee.titan_weapons.whirling_slice"
+    ],
+    [
+      "Brute Melee.War Mace.Bash",
+      "brute_melee.war_mace.bash"
+    ],
+    [
+      "Brute Melee.War Mace.Clobber",
+      "brute_melee.war_mace.clobber"
+    ],
+    [
+      "Brute Melee.War Mace.Crowd Control",
+      "brute_melee.war_mace.crowd_control"
+    ],
+    [
+      "Brute Melee.War Mace.Jawbreaker",
+      "brute_melee.war_mace.jawbreaker"
+    ],
+    [
+      "Brute Melee.War Mace.Pulverize",
+      "brute_melee.war_mace.pulverize"
+    ],
+    [
+      "Brute Melee.War Mace.Shatter",
+      "brute_melee.war_mace.shatter"
+    ],
+    [
+      "Brute Melee.War Mace.Whirling Mace",
+      "brute_melee.war_mace.whirling_mace"
+    ],
+    [
+      "Epic.Arctic Mastery.Block of Ice",
+      "epic.arctic_mastery.block_of_ice"
+    ],
+    [
+      "Epic.Arctic Mastery.Chilblain",
+      "epic.arctic_mastery.chilblain"
+    ],
+    [
+      "Epic.Arctic Mastery.Ice Blast",
+      "epic.arctic_mastery.ice_blast"
+    ],
+    [
+      "Epic.Arctic Mastery.Ice Storm",
+      "epic.arctic_mastery.ice_storm"
+    ],
+    [
+      "Epic.Arctic Mastery.Shiver",
+      "epic.arctic_mastery.shiver"
+    ],
+    [
+      "Epic.Earth Mastery.Fossilize",
+      "epic.earth_mastery.fossilize"
+    ],
+    [
+      "Epic.Earth Mastery.Quick Sand",
+      "epic.earth_mastery.quick_sand"
+    ],
+    [
+      "Epic.Earth Mastery.Stalagmites",
+      "epic.earth_mastery.stalagmites"
+    ],
+    [
+      "Epic.Earth Mastery.Stone Prison",
+      "epic.earth_mastery.stone_prison"
+    ],
+    [
+      "Epic.Energy Mastery.Energy Torrent",
+      "epic.energy_mastery.energy_torrent"
+    ],
+    [
+      "Epic.Energy Mastery.Energy Torrent",
+      "epic.energy_mastery_brute.energy_torrent"
+    ],
+    [
+      "Epic.Energy Mastery.Laser Beam Eyes",
+      "epic.energy_mastery.laser_beam_eyes"
+    ],
+    [
+      "Epic.Energy Mastery.Laser Beam Eyes",
+      "epic.energy_mastery_brute.laser_beam_eyes"
+    ],
+    [
+      "Epic.Heat Mastery.Char",
+      "epic.heat_mastery_stalker.melt_armor"
+    ],
+    [
+      "Epic.Leviathan Mastery.Arctic Breath",
+      "epic.brute_leviathan_mastery.arctic_breath"
+    ],
+    [
+      "Epic.Leviathan Mastery.Bile Spray",
+      "epic.brute_leviathan_mastery.chum_spray"
+    ],
+    [
+      "Epic.Leviathan Mastery.School of Sharks",
+      "epic.brute_leviathan_mastery.school_of_sharks"
+    ],
+    [
+      "Epic.Leviathan Mastery.Spirit Shark",
+      "epic.brute_leviathan_mastery.spirit_shark"
+    ],
+    [
+      "Epic.Mace Mastery.Disruptor Blast",
+      "epic.brute_mace_mastery.disruptor_blast"
+    ],
+    [
+      "Epic.Mace Mastery.Mace Blast",
+      "epic.brute_mace_mastery.mace_blast"
+    ],
+    [
+      "Epic.Mace Mastery.Web Envelope",
+      "epic.brute_mace_mastery.web_envelope"
+    ],
+    [
+      "Epic.Mu Mastery.Ball Lightning",
+      "epic.brute_mu_mastery.ball_lightning"
+    ],
+    [
+      "Epic.Mu Mastery.Electrifying Fences",
+      "epic.brute_mu_mastery.electrifying_fences"
+    ],
+    [
+      "Epic.Mu Mastery.Mu Lightning",
+      "epic.brute_mu_mastery.mu_lightning"
+    ],
+    [
+      "Epic.Mu Mastery.Static Discharge",
+      "epic.brute_mu_mastery.static_discharge"
+    ],
+    [
+      "Epic.Pyre Mastery.Char",
+      "epic.pyre_mastery.char"
+    ],
+    [
+      "Epic.Pyre Mastery.Fire Ball",
+      "epic.pyre_mastery.fire_ball"
+    ],
+    [
+      "Epic.Pyre Mastery.Fire Blast",
+      "epic.pyre_mastery.fire_blast"
+    ],
+    [
+      "Epic.Pyre Mastery.Melt Armor",
+      "epic.pyre_mastery.melt_armor"
+    ],
+    [
+      "Epic.Pyre Mastery.Ring of Fire",
+      "epic.pyre_mastery.ring_of_fire"
+    ],
+    [
+      "Epic.Soul Mastery.Dark Obliteration",
+      "epic.brute_soul_mastery.dark_obliteration"
+    ],
+    [
+      "Epic.Soul Mastery.Gloom",
+      "epic.brute_soul_mastery.gloom"
+    ],
+    [
+      "Epic.Soul Mastery.Soul Tentacles",
+      "epic.brute_soul_mastery.soul_tentacles"
+    ],
+    [
+      "Pets.Electric Melee.Lightning Rod",
+      "pets.lightning_rod_tanker.lightning_rod"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry",
+      "pets.brute_savage_melee.rending_flurry_large"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry",
+      "pets.brute_savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry",
+      "pets.scrapper_savage_melee.rending_flurry_large"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry",
+      "pets.scrapper_savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry Large",
+      "pets.tanker_savage_melee.rending_flurry_large"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry Normal",
+      "pets.tanker_savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Arc of Destruction",
+      "pets.titan_weapons_tanker.arc_of_destruction_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Arc of Destruction (Fast)",
+      "pets.titan_weapons_tanker.arc_of_destruction_fast"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Crushing Blow",
+      "pets.titan_weapons_tanker.crushing_blow_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Crushing Blow (Fast)",
+      "pets.titan_weapons_tanker.crushing_blow_fast"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Defensive Sweep",
+      "pets.titan_weapons_tanker.defensive_sweep_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Defensive Sweep (Fast)",
+      "pets.titan_weapons_tanker.defensive_sweep_fast"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Rend Armor",
+      "pets.titan_weapons_tanker.shatter_armor_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Rend Armor (Fast)",
+      "pets.titan_weapons_tanker.shatter_armor_fast"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Titan Sweep",
+      "pets.titan_weapons_tanker.sweeping_strike_slow"
+    ],
+    [
+      "Pets.Titan Weapons Tanker.Titan Sweep (Fast)",
+      "pets.titan_weapons_tanker.sweeping_strike_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Arc of Destruction",
+      "pets.titan_weapons.arc_of_destruction_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Arc of Destruction (Fast)",
+      "pets.titan_weapons.arc_of_destruction_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Crushing Blow",
+      "pets.titan_weapons.crushing_blow_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Crushing Blow (Fast)",
+      "pets.titan_weapons.crushing_blow_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Defensive Sweep",
+      "pets.titan_weapons.defensive_sweep_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Defensive Sweep (Fast)",
+      "pets.titan_weapons.defensive_sweep_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Rend Armor",
+      "pets.titan_weapons.shatter_armor_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Rend Armor (Fast)",
+      "pets.titan_weapons.shatter_armor_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Titan Sweep",
+      "pets.titan_weapons.sweeping_strike_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Titan Sweep (Fast)",
+      "pets.titan_weapons.sweeping_strike_fast"
+    ],
+    [
+      "Redirects.Brute Melee.Savage Leap",
+      "redirects.brute_melee.savage_leap"
+    ],
+    [
+      "Redirects.Dark Melee.Touch of Fear",
+      "redirects.dark_melee.touch_of_fear_aoe"
+    ],
+    [
+      "Redirects.Dark Melee.Touch of Fear",
+      "redirects.dark_melee.touch_of_fear_aoe_scrapper"
+    ],
+    [
+      "Redirects.Dark Melee.Touch of Fear",
+      "redirects.dark_melee.touch_of_fear_aoe_tanker"
+    ],
+    [
+      "Redirects.Energy Melee.Energy Transfer",
+      "redirects.energy_melee.energy_transfer_slow"
+    ],
+    [
+      "Redirects.Energy Melee.Energy Transfer",
+      "redirects.energy_melee.energy_transfer_slow_scrapper"
+    ],
+    [
+      "Redirects.Energy Melee.Energy Transfer (Focused)",
+      "redirects.energy_melee.energy_transfer_fast"
+    ],
+    [
+      "Redirects.Energy Melee.Energy Transfer (Focused)",
+      "redirects.energy_melee.energy_transfer_fast_scrapper"
+    ],
+    [
+      "Redirects.Scrapper Melee.Savage Leap",
+      "redirects.scrapper_melee.savage_leap"
+    ],
+    [
+      "Redirects.Stalker Melee.Savage Leap",
+      "redirects.stalker_melee.savage_leap"
+    ],
+    [
+      "Redirects.Stone Melee.Fault",
+      "redirects.stone_melee.fault_cone_brute"
+    ],
+    [
+      "Redirects.Stone Melee.Fault",
+      "redirects.stone_melee.fault_cone_scrapper"
+    ],
+    [
+      "Redirects.Stone Melee.Fault",
+      "redirects.stone_melee.fault_cone_tanker"
+    ],
+    [
+      "Redirects.Tanker Melee.Savage Leap",
+      "redirects.tanker_melee.savage_leap"
+    ],
+    [
+      "Scrapper Defense.Fiery Aura.Blazing Aura",
+      "scrapper_defense.fiery_aura.blazing_aura"
+    ],
+    [
+      "Scrapper Defense.Fiery Aura.Burn",
+      "scrapper_defense.fiery_aura.burn"
+    ],
+    [
+      "Scrapper Defense.Ice Armor.Icicles",
+      "scrapper_defense.ice_armor.icicles"
+    ],
+    [
+      "Scrapper Melee Aux.Savage Melee.Rending Flurry Large",
+      "scrapper_melee_aux.savage_melee.rending_flurry_large"
+    ],
+    [
+      "Scrapper Melee Aux.Savage Melee.Rending Flurry Normal",
+      "scrapper_melee_aux.savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Scrapper Melee Aux.Savage Melee.Savage Leap AoE",
+      "scrapper_melee_aux.savage_melee.savage_leap_aoe"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Beheader",
+      "scrapper_melee.battle_axe.beheader"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Chop",
+      "scrapper_melee.battle_axe.chop"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Cleave",
+      "scrapper_melee.battle_axe.cleave"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Gash",
+      "scrapper_melee.battle_axe.gash"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Pendulum",
+      "scrapper_melee.battle_axe.pendulum"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Swoop",
+      "scrapper_melee.battle_axe.swoop"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Disembowel",
+      "scrapper_melee.broad_sword.disembowel"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Hack",
+      "scrapper_melee.broad_sword.hack"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Head Splitter",
+      "scrapper_melee.broad_sword.head_splitter"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Parry",
+      "scrapper_melee.broad_sword.parry"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Slash",
+      "scrapper_melee.broad_sword.slash"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Slice",
+      "scrapper_melee.broad_sword.slice"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Whirling Sword",
+      "scrapper_melee.broad_sword.whirling_sword"
+    ],
+    [
+      "Scrapper Melee.Claws.Eviscerate",
+      "scrapper_melee.claws.eviscerate"
+    ],
+    [
+      "Scrapper Melee.Claws.Focus",
+      "scrapper_melee.claws.focus"
+    ],
+    [
+      "Scrapper Melee.Claws.Follow Up",
+      "scrapper_melee.claws.follow_up"
+    ],
+    [
+      "Scrapper Melee.Claws.Shockwave",
+      "scrapper_melee.claws.shockwave"
+    ],
+    [
+      "Scrapper Melee.Claws.Slash",
+      "scrapper_melee.claws.slash"
+    ],
+    [
+      "Scrapper Melee.Claws.Spin",
+      "scrapper_melee.claws.spin"
+    ],
+    [
+      "Scrapper Melee.Claws.Strike",
+      "scrapper_melee.claws.strike"
+    ],
+    [
+      "Scrapper Melee.Claws.Swipe",
+      "scrapper_melee.claws.swipe"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Dark Consumption",
+      "scrapper_melee.dark_melee.dark_consumption"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Midnight Grasp",
+      "scrapper_melee.dark_melee.midnight_grasp"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Shadow Maul",
+      "scrapper_melee.dark_melee.shadow_maul"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Shadow Punch",
+      "scrapper_melee.dark_melee.shadow_punch"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Siphon Life",
+      "scrapper_melee.dark_melee.siphon_life"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Smite",
+      "scrapper_melee.dark_melee.smite"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Soul Drain",
+      "scrapper_melee.dark_melee.soul_drain"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Ablating Strike",
+      "scrapper_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Blinding Feint",
+      "scrapper_melee.dual_blades.follow_up"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Nimble Slash",
+      "scrapper_melee.dual_blades.light_opening"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.One Thousand Cuts",
+      "scrapper_melee.dual_blades.high_low"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Power Slice",
+      "scrapper_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Sweeping Strike",
+      "scrapper_melee.dual_blades.special_2"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Typhoon's Edge",
+      "scrapper_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Vengeful Slice",
+      "scrapper_melee.dual_blades.special_1"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Chain Induction",
+      "scrapper_melee.electrical_melee.chain_induction"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Charged Brawl",
+      "scrapper_melee.electrical_melee.charged_brawl"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Havoc Punch",
+      "scrapper_melee.electrical_melee.havoc_punch"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Jacobs Ladder",
+      "scrapper_melee.electrical_melee.jacobs_ladder"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Lightning Clap",
+      "scrapper_melee.electrical_melee.lightning_clap"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Lightning Rod",
+      "scrapper_melee.electrical_melee.lightning_rod"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Barrage",
+      "scrapper_melee.energy_melee.barrage"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Bone Smasher",
+      "scrapper_melee.energy_melee.bone_smasher"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Energy Punch",
+      "scrapper_melee.energy_melee.energy_punch"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Power Crash",
+      "scrapper_melee.energy_melee.power_crash"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Total Focus",
+      "scrapper_melee.energy_melee.total_focus"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Whirling Hands",
+      "scrapper_melee.energy_melee.whirling_hands"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Breath of Fire",
+      "scrapper_melee.fiery_melee.breath_of_fire"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Cremate",
+      "scrapper_melee.fiery_melee.cremate"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Fire Sword",
+      "scrapper_melee.fiery_melee.fire_sword"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Fire Sword Circle",
+      "scrapper_melee.fiery_melee.fire_sword_circle"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Greater Fire Sword",
+      "scrapper_melee.fiery_melee.greater_fire_sword"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Incinerate",
+      "scrapper_melee.fiery_melee.incinerate"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Scorch",
+      "scrapper_melee.fiery_melee.scorch"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Freezing Touch",
+      "scrapper_melee.ice_melee.freezing_touch"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Frost",
+      "scrapper_melee.ice_melee.frost"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Frozen Aura",
+      "scrapper_melee.ice_melee.frozen_aura"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Frozen Fists",
+      "scrapper_melee.ice_melee.frozen_fists"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Greater Ice Sword",
+      "scrapper_melee.ice_melee.greater_ice_sword"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Ice Sword",
+      "scrapper_melee.ice_melee.ice_sword"
+    ],
+    [
+      "Scrapper Melee.Katana.Divine Avalanche",
+      "scrapper_melee.katana.parry"
+    ],
+    [
+      "Scrapper Melee.Katana.Flashing Steel",
+      "scrapper_melee.katana.slice"
+    ],
+    [
+      "Scrapper Melee.Katana.Gambler's Cut",
+      "scrapper_melee.katana.slash"
+    ],
+    [
+      "Scrapper Melee.Katana.Golden Dragonfly",
+      "scrapper_melee.katana.head_splitter"
+    ],
+    [
+      "Scrapper Melee.Katana.Soaring Dragon",
+      "scrapper_melee.katana.disembowel"
+    ],
+    [
+      "Scrapper Melee.Katana.Sting of the Wasp",
+      "scrapper_melee.katana.hack"
+    ],
+    [
+      "Scrapper Melee.Katana.The Lotus Drops",
+      "scrapper_melee.katana.whirling_sword"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Body Blow",
+      "scrapper_melee.kinetic_attack.body_blow"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Burst",
+      "scrapper_melee.kinetic_attack.burst"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Concentrated Strike",
+      "scrapper_melee.kinetic_attack.total_focus"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Focused Burst",
+      "scrapper_melee.kinetic_attack.focused_burst"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Quick Strike",
+      "scrapper_melee.kinetic_attack.quick_strike"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Repulsing Torrent",
+      "scrapper_melee.kinetic_attack.repulsing_torrent"
+    ],
+    [
+      "Scrapper Melee.Kinetic Melee.Smashing Blow",
+      "scrapper_melee.kinetic_attack.smashing_blow"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Cobra Strike",
+      "scrapper_melee.martial_arts.cobra_strike"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Crane Kick",
+      "scrapper_melee.martial_arts.crane_kick"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Crippling Axe Kick",
+      "scrapper_melee.martial_arts.crippling_axe_kick"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Dragon's Tail",
+      "scrapper_melee.martial_arts.dragons_tail"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Eagles Claw",
+      "scrapper_melee.martial_arts.eagles_claw"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Storm Kick",
+      "scrapper_melee.martial_arts.storm_kick"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Thunder Kick",
+      "scrapper_melee.martial_arts.thunder_kick"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Greater Psi Blade",
+      "scrapper_melee.psionic_melee.greater_psi_blade"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Mass Levitate",
+      "scrapper_melee.psionic_melee.mass_levitate"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Mental Strike",
+      "scrapper_melee.psionic_melee.mental_strike"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Psi Blade",
+      "scrapper_melee.psionic_melee.psi_blade"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Psi Blade Sweep",
+      "scrapper_melee.psionic_melee.psi_blade_sweep"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Telekinetic Blow",
+      "scrapper_melee.psionic_melee.telekinetic_blow"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Atom Smasher",
+      "scrapper_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Contaminated Strike",
+      "scrapper_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Devastating Blow",
+      "scrapper_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Proton Sweep",
+      "scrapper_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Radiation Siphon",
+      "scrapper_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Radioactive Smash",
+      "scrapper_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Hemorrhage",
+      "scrapper_melee.savage_melee.hemorrhage"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Maiming Slash",
+      "scrapper_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Savage Strike",
+      "scrapper_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Shred",
+      "scrapper_melee.savage_melee.shred"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Vicious Slash",
+      "scrapper_melee.savage_melee.vicious_slash"
+    ],
+    [
+      "Scrapper Melee.Spines.Barb Swipe",
+      "scrapper_melee.quills.barb_swipe"
+    ],
+    [
+      "Scrapper Melee.Spines.Impale",
+      "scrapper_melee.quills.impale"
+    ],
+    [
+      "Scrapper Melee.Spines.Lunge",
+      "scrapper_melee.quills.lunge"
+    ],
+    [
+      "Scrapper Melee.Spines.Quills",
+      "scrapper_melee.quills.quills"
+    ],
+    [
+      "Scrapper Melee.Spines.Ripper",
+      "scrapper_melee.quills.ripper"
+    ],
+    [
+      "Scrapper Melee.Spines.Spine Burst",
+      "scrapper_melee.quills.fling_quills"
+    ],
+    [
+      "Scrapper Melee.Spines.Throw Spines",
+      "scrapper_melee.quills.quill_throwing"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Eye of the Storm",
+      "scrapper_melee.staff_fighting.eye_of_the_storm"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Guarded Spin",
+      "scrapper_melee.staff_fighting.guarded_spin"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Innocuous Strikes",
+      "scrapper_melee.staff_fighting.innocuous_strikes"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Mercurial Blow",
+      "scrapper_melee.staff_fighting.mercurial_blow"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Precise Strike",
+      "scrapper_melee.staff_fighting.precise_strike"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Serpent's Reach",
+      "scrapper_melee.staff_fighting.serpents_reach"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Sky Splitter",
+      "scrapper_melee.staff_fighting.sky_splitter"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Heavy Mallet",
+      "scrapper_melee.stone_melee.heavy_mallet"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Hurl Boulder",
+      "scrapper_melee.stone_melee.hurl_boulder"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Seismic Smash",
+      "scrapper_melee.stone_melee.seismic_smash"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Stone Fist",
+      "scrapper_melee.stone_melee.stone_fist"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Stone Mallet",
+      "scrapper_melee.stone_melee.stone_mallet"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Tremor",
+      "scrapper_melee.stone_melee.tremor"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Crushing Uppercut",
+      "scrapper_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Heavy Blow",
+      "scrapper_melee.brawling.heavy_blow"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Initial Strike",
+      "scrapper_melee.brawling.initial_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Rib Cracker",
+      "scrapper_melee.brawling.throat_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Shin Breaker",
+      "scrapper_melee.brawling.low_kick"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Spinning Strike",
+      "scrapper_melee.brawling.spinning_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Sweeping Cross",
+      "scrapper_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Scrapper Melee.Titan Weapons.Follow Through",
+      "scrapper_melee.titan_weapons.follow_through"
+    ],
+    [
+      "Scrapper Melee.Titan Weapons.Whirling Smash",
+      "scrapper_melee.titan_weapons.whirling_slice"
+    ],
+    [
+      "Scrapper Melee.War Mace.Bash",
+      "scrapper_melee.war_mace.bash"
+    ],
+    [
+      "Scrapper Melee.War Mace.Clobber",
+      "scrapper_melee.war_mace.clobber"
+    ],
+    [
+      "Scrapper Melee.War Mace.Crowd Control",
+      "scrapper_melee.war_mace.crowd_control"
+    ],
+    [
+      "Scrapper Melee.War Mace.Jawbreaker",
+      "scrapper_melee.war_mace.jawbreaker"
+    ],
+    [
+      "Scrapper Melee.War Mace.Pulverize",
+      "scrapper_melee.war_mace.pulverize"
+    ],
+    [
+      "Scrapper Melee.War Mace.Shatter",
+      "scrapper_melee.war_mace.shatter"
+    ],
+    [
+      "Scrapper Melee.War Mace.Whirling Mace",
+      "scrapper_melee.war_mace.whirling_mace"
+    ],
+    [
+      "Tanker Defense.Fiery Aura.Blazing Aura",
+      "tanker_defense.fiery_aura.blazing_aura"
+    ],
+    [
+      "Tanker Defense.Fiery Aura.Burn",
+      "tanker_defense.fiery_aura.burn"
+    ],
+    [
+      "Tanker Melee Aux.Savage Melee.Rending Flurry Large",
+      "tanker_melee_aux.savage_melee.rending_flurry_large"
+    ],
+    [
+      "Tanker Melee Aux.Savage Melee.Rending Flurry Normal",
+      "tanker_melee_aux.savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Tanker Melee Aux.Savage Melee.Savage Leap AoE",
+      "tanker_melee_aux.savage_melee.savage_leap_aoe"
+    ],
+    [
+      "Tanker Melee.Battle Axe.Beheader",
+      "tanker_melee.battle_axe.gash"
+    ],
+    [
+      "Tanker Melee.Battle Axe.Chop",
+      "tanker_melee.battle_axe.chop"
+    ],
+    [
+      "Tanker Melee.Battle Axe.Cleave",
+      "tanker_melee.battle_axe.cleave"
+    ],
+    [
+      "Tanker Melee.Battle Axe.Gash",
+      "tanker_melee.battle_axe.beheader"
+    ],
+    [
+      "Tanker Melee.Battle Axe.Pendulum",
+      "tanker_melee.battle_axe.pendulum"
+    ],
+    [
+      "Tanker Melee.Battle Axe.Swoop",
+      "tanker_melee.battle_axe.swoop"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Disembowel",
+      "tanker_melee.broad_sword.disembowel"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Hack",
+      "tanker_melee.broad_sword.hack"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Head Splitter",
+      "tanker_melee.broad_sword.head_splitter"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Parry",
+      "tanker_melee.broad_sword.parry"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Slash",
+      "tanker_melee.broad_sword.slash"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Slice",
+      "tanker_melee.broad_sword.slice"
+    ],
+    [
+      "Tanker Melee.Broad Sword.Whirling Sword",
+      "tanker_melee.broad_sword.whirling_sword"
+    ],
+    [
+      "Tanker Melee.Claws.Eviscerate",
+      "tanker_melee.claws.eviscerate"
+    ],
+    [
+      "Tanker Melee.Claws.Focus",
+      "tanker_melee.claws.focus"
+    ],
+    [
+      "Tanker Melee.Claws.Follow Up",
+      "tanker_melee.claws.follow_up"
+    ],
+    [
+      "Tanker Melee.Claws.Shockwave",
+      "tanker_melee.claws.shockwave"
+    ],
+    [
+      "Tanker Melee.Claws.Slash",
+      "tanker_melee.claws.slash"
+    ],
+    [
+      "Tanker Melee.Claws.Spin",
+      "tanker_melee.claws.spin"
+    ],
+    [
+      "Tanker Melee.Claws.Strike",
+      "tanker_melee.claws.strike"
+    ],
+    [
+      "Tanker Melee.Claws.Swipe",
+      "tanker_melee.claws.swipe"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Dark Consumption",
+      "tanker_melee.dark_melee.dark_consumption"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Midnight Grasp",
+      "tanker_melee.dark_melee.midnight_grasp"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Shadow Maul",
+      "tanker_melee.dark_melee.shadow_maul"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Shadow Punch",
+      "tanker_melee.dark_melee.shadow_punch"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Siphon Life",
+      "tanker_melee.dark_melee.siphon_life"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Smite",
+      "tanker_melee.dark_melee.smite"
+    ],
+    [
+      "Tanker Melee.Dark Melee.Soul Drain",
+      "tanker_melee.dark_melee.soul_drain"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Ablating Strike",
+      "tanker_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Blinding Feint",
+      "tanker_melee.dual_blades.follow_up"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Nimble Slash",
+      "tanker_melee.dual_blades.light_opening"
+    ],
+    [
+      "Tanker Melee.Dual Blades.One Thousand Cuts",
+      "tanker_melee.dual_blades.high_low"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Power Slice",
+      "tanker_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Sweeping Strike",
+      "tanker_melee.dual_blades.special_2"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Typhoon's Edge",
+      "tanker_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Vengeful Slice",
+      "tanker_melee.dual_blades.special_1"
+    ],
+    [
+      "Tanker Melee.Electrical Melee.Chain Induction",
+      "tanker_melee.electrical_melee.chain_induction"
+    ],
+    [
+      "Tanker Melee.Electrical Melee.Charged Brawl",
+      "tanker_melee.electrical_melee.charged_brawl"
+    ],
+    [
+      "Tanker Melee.Electrical Melee.Havoc Punch",
+      "tanker_melee.electrical_melee.havoc_punch"
+    ],
+    [
+      "Tanker Melee.Electrical Melee.Jacobs Ladder",
+      "tanker_melee.electrical_melee.jacobs_ladder"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Barrage",
+      "tanker_melee.energy_melee.barrage"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Bone Smasher",
+      "tanker_melee.energy_melee.bone_smasher"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Energy Punch",
+      "tanker_melee.energy_melee.energy_punch"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Power Crash",
+      "tanker_melee.energy_melee.stun"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Whirling Hands",
+      "tanker_melee.energy_melee.whirling_hands"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Breath of Fire",
+      "tanker_melee.fiery_melee.breath_of_fire"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Combustion",
+      "tanker_melee.fiery_melee.combustion"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Fire Sword",
+      "tanker_melee.fiery_melee.fire_sword"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Fire Sword Circle",
+      "tanker_melee.fiery_melee.fire_sword_circle"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Greater Fire Sword",
+      "tanker_melee.fiery_melee.greater_fire_sword"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Incinerate",
+      "tanker_melee.fiery_melee.incinerate"
+    ],
+    [
+      "Tanker Melee.Fiery Melee.Scorch",
+      "tanker_melee.fiery_melee.scorch"
+    ],
+    [
+      "Tanker Melee.Ice Melee.Freezing Touch",
+      "tanker_melee.ice_melee.freezing_touch"
+    ],
+    [
+      "Tanker Melee.Ice Melee.Frost",
+      "tanker_melee.ice_melee.frost"
+    ],
+    [
+      "Tanker Melee.Ice Melee.Frozen Aura",
+      "tanker_melee.ice_melee.frozen_aura"
+    ],
+    [
+      "Tanker Melee.Ice Melee.Frozen Fists",
+      "tanker_melee.ice_melee.frozen_fists"
+    ],
+    [
+      "Tanker Melee.Ice Melee.Greater Ice Sword",
+      "tanker_melee.ice_melee.greater_ice_sword"
+    ],
+    [
+      "Tanker Melee.Ice Melee.Ice Sword",
+      "tanker_melee.ice_melee.ice_sword"
+    ],
+    [
+      "Tanker Melee.Katana.Divine Avalanche",
+      "tanker_melee.katana.parry"
+    ],
+    [
+      "Tanker Melee.Katana.Flashing Steel",
+      "tanker_melee.katana.slice"
+    ],
+    [
+      "Tanker Melee.Katana.Gambler's Cut",
+      "tanker_melee.katana.slash"
+    ],
+    [
+      "Tanker Melee.Katana.Golden Dragonfly",
+      "tanker_melee.katana.head_splitter"
+    ],
+    [
+      "Tanker Melee.Katana.Soaring Dragon",
+      "tanker_melee.katana.disembowel"
+    ],
+    [
+      "Tanker Melee.Katana.Sting of the Wasp",
+      "tanker_melee.katana.hack"
+    ],
+    [
+      "Tanker Melee.Katana.The Lotus Drops",
+      "tanker_melee.katana.whirling_sword"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Body Blow",
+      "tanker_melee.kinetic_attack.body_blow"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Burst",
+      "tanker_melee.kinetic_attack.burst"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Concentrated Strike",
+      "tanker_melee.kinetic_attack.total_focus"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Focused Burst",
+      "tanker_melee.kinetic_attack.focused_burst"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Quick Strike",
+      "tanker_melee.kinetic_attack.quick_strike"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Repulsing Torrent",
+      "tanker_melee.kinetic_attack.repulsing_torrent"
+    ],
+    [
+      "Tanker Melee.Kinetic Melee.Smashing Blow",
+      "tanker_melee.kinetic_attack.smashing_blow"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Cobra Strike",
+      "tanker_melee.martial_arts.cobra_strike"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Crane Kick",
+      "tanker_melee.martial_arts.crane_kick"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Crippling Axe Kick",
+      "tanker_melee.martial_arts.crippling_axe_kick"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Dragon's Tail",
+      "tanker_melee.martial_arts.dragons_tail"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Eagles Claw",
+      "tanker_melee.martial_arts.eagles_claw"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Storm Kick",
+      "tanker_melee.martial_arts.storm_kick"
+    ],
+    [
+      "Tanker Melee.Martial Arts.Thunder Kick",
+      "tanker_melee.martial_arts.thunder_kick"
+    ],
+    [
+      "Tanker Melee.Psionic Melee.Greater Psi Blade",
+      "tanker_melee.psionic_melee.greater_psi_blade"
+    ],
+    [
+      "Tanker Melee.Psionic Melee.Mass Levitate",
+      "tanker_melee.psionic_melee.mass_levitate"
+    ],
+    [
+      "Tanker Melee.Psionic Melee.Mental Strike",
+      "tanker_melee.psionic_melee.mental_strike"
+    ],
+    [
+      "Tanker Melee.Psionic Melee.Psi Blade",
+      "tanker_melee.psionic_melee.psi_blade"
+    ],
+    [
+      "Tanker Melee.Psionic Melee.Psi Blade Sweep",
+      "tanker_melee.psionic_melee.psi_blade_sweep"
+    ],
+    [
+      "Tanker Melee.Psionic Melee.Telekinetic Blow",
+      "tanker_melee.psionic_melee.telekinetic_blow"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Atom Smasher",
+      "tanker_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Contaminated Strike",
+      "tanker_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Devastating Blow",
+      "tanker_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Proton Sweep",
+      "tanker_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Radiation Siphon",
+      "tanker_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Radioactive Smash",
+      "tanker_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Hemorrhage",
+      "tanker_melee.savage_melee.hemorrhage"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Maiming Slash",
+      "tanker_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Savage Strike",
+      "tanker_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Shred",
+      "tanker_melee.savage_melee.shred"
+    ],
+    [
+      "Tanker Melee.Savage Melee.Vicious Slash",
+      "tanker_melee.savage_melee.vicious_slash"
+    ],
+    [
+      "Tanker Melee.Spines.Barb Swipe",
+      "tanker_melee.spines.barb_swipe"
+    ],
+    [
+      "Tanker Melee.Spines.Impale",
+      "tanker_melee.spines.impale"
+    ],
+    [
+      "Tanker Melee.Spines.Lunge",
+      "tanker_melee.spines.lunge"
+    ],
+    [
+      "Tanker Melee.Spines.Quills",
+      "tanker_melee.spines.quills"
+    ],
+    [
+      "Tanker Melee.Spines.Ripper",
+      "tanker_melee.spines.ripper"
+    ],
+    [
+      "Tanker Melee.Spines.Spine Burst",
+      "tanker_melee.spines.spine_burst"
+    ],
+    [
+      "Tanker Melee.Spines.Throw Spines",
+      "tanker_melee.spines.throw_spines"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Eye of the Storm",
+      "tanker_melee.staff_fighting.eye_of_the_storm"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Guarded Spin",
+      "tanker_melee.staff_fighting.guarded_spin"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Innocuous Strikes",
+      "tanker_melee.staff_fighting.innocuous_strikes"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Mercurial Blow",
+      "tanker_melee.staff_fighting.mercurial_blow"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Precise Strike",
+      "tanker_melee.staff_fighting.precise_strike"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Serpent's Reach",
+      "tanker_melee.staff_fighting.serpents_reach"
+    ],
+    [
+      "Tanker Melee.Staff Fighting.Sky Splitter",
+      "tanker_melee.staff_fighting.sky_splitter"
+    ],
+    [
+      "Tanker Melee.Stone Melee.Heavy Mallet",
+      "tanker_melee.stone_melee.heavy_mallet"
+    ],
+    [
+      "Tanker Melee.Stone Melee.Hurl Boulder",
+      "tanker_melee.stone_melee.hurl_boulder"
+    ],
+    [
+      "Tanker Melee.Stone Melee.Seismic Smash",
+      "tanker_melee.stone_melee.seismic_smash"
+    ],
+    [
+      "Tanker Melee.Stone Melee.Stone Fist",
+      "tanker_melee.stone_melee.stone_fist"
+    ],
+    [
+      "Tanker Melee.Stone Melee.Stone Mallet",
+      "tanker_melee.stone_melee.stone_mallet"
+    ],
+    [
+      "Tanker Melee.Stone Melee.Tremor",
+      "tanker_melee.stone_melee.tremor"
+    ],
+    [
+      "Tanker Melee.Street Justice.Crushing Uppercut",
+      "tanker_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Tanker Melee.Street Justice.Heavy Blow",
+      "tanker_melee.brawling.heavy_blow"
+    ],
+    [
+      "Tanker Melee.Street Justice.Initial Strike",
+      "tanker_melee.brawling.initial_strike"
+    ],
+    [
+      "Tanker Melee.Street Justice.Rib Cracker",
+      "tanker_melee.brawling.throat_strike"
+    ],
+    [
+      "Tanker Melee.Street Justice.Shin Breaker",
+      "tanker_melee.brawling.low_kick"
+    ],
+    [
+      "Tanker Melee.Street Justice.Spinning Strike",
+      "tanker_melee.brawling.spinning_strike"
+    ],
+    [
+      "Tanker Melee.Street Justice.Sweeping Cross",
+      "tanker_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Tanker Melee.Super Strength.Foot Stomp",
+      "tanker_melee.super_strength.foot_stomp"
+    ],
+    [
+      "Tanker Melee.Super Strength.Hand Clap",
+      "tanker_melee.super_strength.hand_clap"
+    ],
+    [
+      "Tanker Melee.Super Strength.Haymaker",
+      "tanker_melee.super_strength.haymaker"
+    ],
+    [
+      "Tanker Melee.Super Strength.Hurl",
+      "tanker_melee.super_strength.hurl"
+    ],
+    [
+      "Tanker Melee.Super Strength.Jab",
+      "tanker_melee.super_strength.jab"
+    ],
+    [
+      "Tanker Melee.Super Strength.Knockout Blow",
+      "tanker_melee.super_strength.knockout_blow"
+    ],
+    [
+      "Tanker Melee.Super Strength.Punch",
+      "tanker_melee.super_strength.punch"
+    ],
+    [
+      "Tanker Melee.Titan Weapons.Follow Through",
+      "tanker_melee.titan_weapons.follow_through"
+    ],
+    [
+      "Tanker Melee.Titan Weapons.Whirling Smash",
+      "tanker_melee.titan_weapons.whirling_slice"
+    ],
+    [
+      "Tanker Melee.War Mace.Bash",
+      "tanker_melee.war_mace.bash"
+    ],
+    [
+      "Tanker Melee.War Mace.Clobber",
+      "tanker_melee.war_mace.clobber"
+    ],
+    [
+      "Tanker Melee.War Mace.Crowd Control",
+      "tanker_melee.war_mace.crowd_control"
+    ],
+    [
+      "Tanker Melee.War Mace.Jawbreaker",
+      "tanker_melee.war_mace.jawbreaker"
+    ],
+    [
+      "Tanker Melee.War Mace.Pulverize",
+      "tanker_melee.war_mace.pulverize"
+    ],
+    [
+      "Tanker Melee.War Mace.Shatter",
+      "tanker_melee.war_mace.shatter"
+    ],
+    [
+      "Tanker Melee.War Mace.Whirling Mace",
+      "tanker_melee.war_mace.whirling_mace"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Arc of Destruction",
+      "villain_pets.titan_weapons_brute.arc_of_destruction_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Arc of Destruction (Fast)",
+      "villain_pets.titan_weapons_brute.arc_of_destruction_fast"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Crushing Blow",
+      "villain_pets.titan_weapons_brute.crushing_blow_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Crushing Blow (Fast)",
+      "villain_pets.titan_weapons_brute.crushing_blow_fast"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Defensive Sweep",
+      "villain_pets.titan_weapons_brute.defensive_sweep_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Defensive Sweep (Fast)",
+      "villain_pets.titan_weapons_brute.defensive_sweep_fast"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Rend Armor",
+      "villain_pets.titan_weapons_brute.shatter_armor_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Rend Armor (Fast)",
+      "villain_pets.titan_weapons_brute.shatter_armor_fast"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Titan Sweep",
+      "villain_pets.titan_weapons_brute.sweeping_strike_slow"
+    ],
+    [
+      "Villain Pets.Titan Weapons Brute.Titan Sweep (Fast)",
+      "villain_pets.titan_weapons_brute.sweeping_strike_fast"
+    ]
+  ],
+  "affects": [
+    [
+      "Brute Defense.Fiery Aura.Fiery Embrace",
+      "brute_defense.fiery_aura.fiery_embrace"
+    ],
+    [
+      "Scrapper Defense.Fiery Aura.Fiery Embrace",
+      "scrapper_defense.fiery_aura.fiery_embrace"
+    ],
+    [
+      "Tanker Defense.Fiery Aura.Fiery Embrace",
+      "tanker_defense.fiery_aura.fiery_embrace"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "SeedPurple",
+  "bears": [
+    [
+      "DevouringEarthSeed.Seed of Hamidon.Seed Dominion",
+      "devouringearthseed.seed_of_hamidon.seed_dominion"
+    ]
+  ],
+  "affects": [
+    [
+      "DevouringEarthSeed.Bulwark Burr.The Seed's Shell",
+      "devouringearthseed.bulwark_burr.the_seeds_shell"
+    ]
+  ]
+}

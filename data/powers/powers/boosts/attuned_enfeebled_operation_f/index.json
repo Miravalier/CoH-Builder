@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Enfeebled_Operation_F",
+  "display_name": "Attuned Enfeebled Operation F",
+  "display_fullname": "Boosts.Attuned Enfeebled Operation F",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and immobilize duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Enfeebled Operation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ENFEEBLED_OPERATION_F.POWERSETS",
+  "icon": "attuned_enfeebled_operation_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Enfeebled_Operation_F.Attuned_Enfeebled_Operation_F"
+  ],
+  "power_display_names": [
+    "Enfeebled Operation: Accuracy/Immobilize"
+  ],
+  "power_short_helps": [
+    "+ACC, +Immobilize"
+  ]
+}

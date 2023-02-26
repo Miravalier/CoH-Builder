@@ -1,0 +1,62 @@
+{
+  "name": "Lioness",
+  "display_name": "Lioness",
+  "display_fullname": "Mission Maker Pets.Lioness",
+  "display_help": "Beasts",
+  "display_short_help": "Beasts",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/LIONESS.POWERSETS",
+  "icon": "lioness_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Lioness.Resistance",
+    "Mission_Maker_Pets.Lioness.Claw_Rake",
+    "Mission_Maker_Pets.Lioness.Vicious_Bite",
+    "Mission_Maker_Pets.Lioness.Super_Leap",
+    "Mission_Maker_Pets.Lioness.Wild_Charge",
+    "Mission_Maker_Pets.Lioness.Lions_Roar",
+    "Mission_Maker_Pets.Lioness.Lick_Wounds",
+    "Mission_Maker_Pets.Lioness.Train_Beasts",
+    "Mission_Maker_Pets.Lioness.Ferocious_Growl",
+    "Mission_Maker_Pets.Lioness.Claw_Swipe",
+    "Mission_Maker_Pets.Lioness.Tame_Beasts"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Claw Rake",
+    "Vicious Bite",
+    "Super Leap",
+    "Wild Charge",
+    "Lion's Roar",
+    "Lick Wounds",
+    "Train Beasts",
+    "Ferocious Growl",
+    "Claw Swipe",
+    "Tame Beasts"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Placate, Confuse, Taunt, Cold, Lethal, Smash) +Def(Melee, Ranged, AoE)",
+    "Melee, Light DMG(Lethal), Foe Minor DoT(Lethal)",
+    "Melee, Moderate DMG(Lethal), Foe Minor DoT (Lethal)",
+    "Self Leap",
+    "Self +DMG, +Speed, +Res(Slow, Immobilize)",
+    "Click, Ally Beasts +Def(All)",
+    "Click, Self Minor Heal, +Regen",
+    "Train Beasts",
+    "PBAoE, Foe Stun",
+    "Melee, Moderate DMG(Lethal), Foe Minor DoT(Lethal)",
+    "Tame Beasts"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "tag": "Ghosts",
+  "bears": [
+    [
+      "tsoo_ancestor_spirit",
+      [
+        "Ancestor Spirit"
+      ]
+    ],
+    [
+      "tsoo_cov_ancestor_spirit",
+      [
+        "Ancestor Spirit"
+      ]
+    ],
+    [
+      "tsooendgame_ancestor_spirit",
+      [
+        "Ancestor Spirit"
+      ]
+    ]
+  ],
+  "affects": [
+    [
+      "V SpectralPirates.Ghost Trap.Ectoplasmic Containment",
+      "v_spectralpirates.ghost_trap.ectoplasmic_containment"
+    ],
+    [
+      "V SpectralPirates.Ghost Trap.Spectrographic Assimilator",
+      "v_spectralpirates.ghost_trap.spectrographic_assimilator"
+    ]
+  ]
+}

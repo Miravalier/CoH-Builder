@@ -1,0 +1,19 @@
+{
+  "tag": "SeedRed",
+  "bears": [
+    [
+      "DevouringEarthSeed.Seed of Hamidon.Corrosive Blast",
+      "devouringearthseed.seed_of_hamidon.corrosive_blast"
+    ],
+    [
+      "DevouringEarthSeed.Seed of Hamidon.Degenerating Cloud",
+      "devouringearthseed.seed_of_hamidon.degenerating_cloud"
+    ]
+  ],
+  "affects": [
+    [
+      "DevouringEarthSeed.Hematic Burr.The Seed's Protection",
+      "devouringearthseed.hematic_burr.the_seeds_protection"
+    ]
+  ]
+}

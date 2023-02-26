@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Edict_of_the_Master_D",
+  "display_name": "Crafted Edict of the Master D",
+  "display_fullname": "Boosts.Crafted Edict of the Master D",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Edict of the Master",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_EDICT_OF_THE_MASTER_D.POWERSETS",
+  "icon": "crafted_edict_of_the_master_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Edict_of_the_Master_D.Crafted_Edict_of_the_Master_D"
+  ],
+  "power_display_names": [
+    "Edict of the Master: Accuracy/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Accuracy"
+  ]
+}

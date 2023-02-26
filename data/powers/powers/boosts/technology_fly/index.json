@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Fly",
+  "display_name": "Technology Fly",
+  "display_fullname": "Boosts.Technology Fly",
+  "display_help": "Increases the flight speed of a flight power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_FLY.POWERSETS",
+  "icon": "technology_fly_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Fly.Technology_Fly"
+  ],
+  "power_display_names": [
+    "WetWare Eng Auxiliary Boosters (Fly)"
+  ],
+  "power_short_helps": [
+    "Enhances Flight Speed"
+  ]
+}

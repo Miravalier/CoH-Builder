@@ -1,0 +1,98 @@
+{
+  "name": "FreedomCorps_Warden_Electric_Defender_21-30",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 21,
+    "max_level": 30,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Longbow's juicers are some of their most annoying agents. Not only do they heal their friends by stimulating their cells on a molecular level, their attacks drain your energy and keep you from smashing their faces.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.25,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericHeroes.Electric_Defender_Low.Gale",
+      "V_GenericHeroes.Electric_Defender_Low.Snow_Storm",
+      "V_GenericHeroes.Electric_Defender_Low.Charged_Bolts",
+      "V_GenericHeroes.Electric_Defender_Low.Lightning_Bolt",
+      "V_GenericHeroes.Electric_Defender_Low.Ball_Lightning",
+      "V_GenericHeroes.Electric_Defender_Low.Lightning_Storm",
+      "V_GenericHeroes.Hero_Flight.Fly",
+      "V_GenericHeroes.Hero_Flight.Fly_fx"
+    ],
+    "power_display_names": [
+      "Gale",
+      "Snow Storm",
+      "Charged Bolts",
+      "Lightning Bolt",
+      "Ball Lightning",
+      "Lightning Storm",
+      "Fly",
+      "Fly fx"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Electric_Defender_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Hero_Flight",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 21,
+      "max_level": 30,
+      "experience": 0,
+      "display_names": [
+        "Longbow Warden"
+      ],
+      "costumes": [
+        "Longbow_Male_Boss_04",
+        "Longbow_Male_Boss_05"
+      ]
+    }
+  ]
+}

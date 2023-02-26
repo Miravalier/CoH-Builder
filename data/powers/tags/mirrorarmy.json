@@ -1,0 +1,23 @@
+{
+  "tag": "MirrorArmy",
+  "bears": [
+    [
+      "Controller Control.Illusion Control.Phantom Army",
+      "controller_control.illusion_control.decoy"
+    ],
+    [
+      "Dominator Control.Illusion Control.Phantom Army",
+      "dominator_control.illusion_control.decoy"
+    ]
+  ],
+  "affects": [
+    [
+      "Controller Control.Illusion Control.Phantom Army",
+      "controller_control.illusion_control.decoy"
+    ],
+    [
+      "Dominator Control.Illusion Control.Phantom Army",
+      "dominator_control.illusion_control.decoy"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "War_Zone_Pylon",
+  "display_name": "War Zone Pylon",
+  "display_fullname": "Rikti.War Zone Pylon",
+  "display_help": "War Zone Pylon",
+  "display_short_help": "War Zone Pylon",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/WAR_ZONE_PYLON.POWERSETS",
+  "icon": "war_zone_pylon_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.War_Zone_Pylon.Resistance",
+    "Rikti.War_Zone_Pylon.Swarm_Missile"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Swarm Missile"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged Lethal, +KB"
+  ]
+}

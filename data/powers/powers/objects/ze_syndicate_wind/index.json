@@ -1,0 +1,26 @@
+{
+  "name": "ZE_Syndicate_Wind",
+  "display_name": "ZE_Syndicate_Wind",
+  "display_fullname": "Objects.ZE Syndicate Wind",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/ZE_SYNDICATE_WIND.POWERSETS",
+  "icon": "ze_syndicate_wind_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.ZE_Syndicate_Wind.Gusting_Winds",
+    "Objects.ZE_Syndicate_Wind.Gusting_Winds_Syndicate"
+  ],
+  "power_display_names": [
+    "Gusting Winds",
+    "Gusting Winds"
+  ],
+  "power_short_helps": [
+    "-Fly, -Run Speed, Chance for Knockback",
+    "-Fly, -Run Speed, Chance for Knockback"
+  ]
+}

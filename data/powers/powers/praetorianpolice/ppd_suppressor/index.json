@@ -1,0 +1,22 @@
+{
+  "name": "PPD_Suppressor",
+  "display_name": "PPD Suppressor",
+  "display_fullname": "PraetorianPolice.PPD Suppressor",
+  "display_help": "PPD Suppressor",
+  "display_short_help": "PPD Suppressor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/PPD_SUPPRESSOR.POWERSETS",
+  "icon": "ppd_suppressor_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.PPD_Suppressor.Force_Burst"
+  ],
+  "power_display_names": [
+    "Force Burst"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Minor DMG(Smash/Energy), Foe -Knockdown"
+  ]
+}

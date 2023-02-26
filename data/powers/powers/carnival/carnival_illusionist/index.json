@@ -1,0 +1,38 @@
+{
+  "name": "Carnival_Illusionist",
+  "display_name": "Carnival_Illusionist",
+  "display_fullname": "Carnival.Carnival Illusionist",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_ILLUSIONIST.POWERSETS",
+  "icon": "carnival_illusionist_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Illusionist.Spectral_Wounds",
+    "Carnival.Carnival_Illusionist.Phase_Shift",
+    "Carnival.Carnival_Illusionist.Blind",
+    "Carnival.Carnival_Illusionist.Flash",
+    "Carnival.Carnival_Illusionist.Fly"
+  ],
+  "power_display_names": [
+    "Spectral Wounds",
+    "Phase Shift",
+    "Blind",
+    "Flash",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "High DMG(Psionic), +Special",
+    "Self Intangible",
+    "Hold/Sleep",
+    "Hold",
+    "Self Travel"
+  ]
+}

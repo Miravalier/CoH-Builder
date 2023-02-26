@@ -1,0 +1,22 @@
+{
+  "name": "Banished_Desire_Ranged",
+  "display_name": "Banished_Desire_Ranged",
+  "display_fullname": "BanishedPantheon.Banished Desire Ranged",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_DESIRE_RANGED.POWERSETS",
+  "icon": "banished_desire_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Desire_Ranged.Mental_Blast"
+  ],
+  "power_display_names": [
+    "Mental Blast"
+  ],
+  "power_short_helps": [
+    "-Recharge"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Arctic_Mastery",
+  "display_name": "Arctic Mastery",
+  "display_fullname": "Epic.Arctic Mastery",
+  "display_help": "You have Mastery over Ice and snow to blast your foes and control your foes.",
+  "display_short_help": "Arctic Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/ARCTIC_MASTERY.POWERSETS",
+  "icon": "arctic_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Arctic_Mastery.Chilblain",
+    "Epic.Arctic_Mastery.Block_of_Ice",
+    "Epic.Arctic_Mastery.Ice_Blast",
+    "Epic.Arctic_Mastery.Shiver",
+    "Epic.Arctic_Mastery.Ice_Storm"
+  ],
+  "power_display_names": [
+    "Chilblain",
+    "Block of Ice",
+    "Ice Blast",
+    "Shiver",
+    "Ice Storm"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Cold), Foe Immobilize, -SPD, -Recharge",
+    "Ranged, Foe Hold, -SPD, -Recharge",
+    "Ranged, Light DMG(Cold), Foe -Recharge, -SPD",
+    "Ranged (Cone), Foe -SPD, -Recharge",
+    "Ranged (Location AoE), Minor DoT(Cold), Foe -Recharge, -SPD"
+  ]
+}

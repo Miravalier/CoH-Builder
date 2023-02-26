@@ -1,0 +1,30 @@
+{
+  "name": "Chimera_Ninja_Ranged",
+  "display_name": "Chimera_Ninja_Ranged",
+  "display_fullname": "Praetorians.Chimera Ninja Ranged",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    1,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/CHIMERA_NINJA_RANGED.POWERSETS",
+  "icon": "chimera_ninja_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Chimera_Ninja_Ranged.Shuriken",
+    "Praetorians.Chimera_Ninja_Ranged.Caltrops",
+    "Praetorians.Chimera_Ninja_Ranged.Bow"
+  ],
+  "power_display_names": [
+    "Shuriken",
+    "Caltrops",
+    "Bow"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic)",
+    "Minor DoT(Lethal), Foe -SPD",
+    "Ranged Lethal, Med Dam"
+  ]
+}

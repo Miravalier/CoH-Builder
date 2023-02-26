@@ -1,0 +1,22 @@
+{
+  "name": "Skulls_Lt_Shotgun",
+  "display_name": "Skulls_Lt_Shotgun",
+  "display_fullname": "Skulls.Skulls Lt Shotgun",
+  "display_help": "Skulls",
+  "display_short_help": "Skulls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKULLS/SKULLS_LT_SHOTGUN.POWERSETS",
+  "icon": "skulls_lt_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Skulls.Skulls_Lt_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "ReverbAriaOfStasis",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Aria of Stasis",
+      "controller_control.symphony_control.aria_of_stasis"
+    ],
+    [
+      "Dominator Control.Symphony Control.Aria of Stasis",
+      "dominator_control.symphony_control.aria_of_stasis"
+    ],
+    [
+      "Mission Maker Attacks.Symphony Control.Aria of Stasis",
+      "mission_maker_attacks.symphony_control.aria_of_stasis"
+    ],
+    [
+      "Mission Maker Secondary.Symphony Control.Aria of Stasis",
+      "mission_maker_secondary.symphony_control.aria_of_stasis"
+    ]
+  ],
+  "affects": []
+}

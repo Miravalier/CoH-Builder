@@ -1,0 +1,50 @@
+{
+  "name": "Zenflower",
+  "display_name": "Zenflower",
+  "display_fullname": "V FreedomCorps.Zenflower",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/ZENFLOWER.POWERSETS",
+  "icon": "zenflower_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Zenflower.Entangle",
+    "V_FreedomCorps.Zenflower.Strangler",
+    "V_FreedomCorps.Zenflower.Roots",
+    "V_FreedomCorps.Zenflower.Spore_Burst",
+    "V_FreedomCorps.Zenflower.Seeds_of_Confusion",
+    "V_FreedomCorps.Zenflower.Vines",
+    "V_FreedomCorps.Zenflower.Carrion_Creepers",
+    "V_FreedomCorps.Zenflower.Fly_Trap"
+  ],
+  "power_display_names": [
+    "Entangle",
+    "Strangler",
+    "Roots",
+    "Spore Burst",
+    "Seeds of Confusion",
+    "Vines",
+    "Carrion Creepers",
+    "Fly Trap"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Smashing, Lethal), Foe Immobilize",
+    "Ranged, Moderate DoT(Smashing), Foe Hold",
+    "Ranged (Targeted AoE), Minor DoT(Smashing, Lethal), Foe Immobilize",
+    "Ranged (Targeted AoE), Foe Sleep",
+    "Ranged (Cone), Foe Confuse",
+    "Ranged (Targeted AoE), Foe Hold",
+    "Summon Creepers, Ranged (Location AoE), Target -Speed, -Fly, -Jump,",
+    "Summon Fly Trap: Ranged Control Special"
+  ]
+}

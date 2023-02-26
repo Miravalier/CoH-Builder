@@ -1,0 +1,10 @@
+{
+  "tag": "PVPResist",
+  "bears": [
+    [
+      "Temporary Powers.Temporary Powers.PVP Resist Bonus",
+      "temporary_powers.temporary_powers.pvp_resist_bonus"
+    ]
+  ],
+  "affects": []
+}

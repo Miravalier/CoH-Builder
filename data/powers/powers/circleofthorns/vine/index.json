@@ -1,0 +1,30 @@
+{
+  "name": "Vine",
+  "display_name": "Vine",
+  "display_fullname": "CircleOfThorns.Vine",
+  "display_help": "Circle Of Thorns",
+  "display_short_help": "Circle Of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/VINE.POWERSETS",
+  "icon": "vine_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Vine.Vine_Smash",
+    "CircleOfThorns.Vine.Vine_Thorns",
+    "CircleOfThorns.Vine.Resistance"
+  ],
+  "power_display_names": [
+    "Vine Smash",
+    "Vine Thorns",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), Slow, -Fly",
+    "DoT(Toxic), Slow, -Fly",
+    "Resistance"
+  ]
+}

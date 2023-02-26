@@ -1,0 +1,30 @@
+{
+  "name": "Psychotic",
+  "display_name": "Psychotic",
+  "display_fullname": "Awakened.Psychotic",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/PSYCHOTIC.POWERSETS",
+  "icon": "psychotic_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Psychotic.Psionic_Break",
+    "Awakened.Psychotic.Psychic_Roar",
+    "Awakened.Psychotic.Psionic_Dart"
+  ],
+  "power_display_names": [
+    "Psionic Break",
+    "Psychic Roar",
+    "Psionic Dart"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG (Psionic), DoT (Lethal), -Regen",
+    "Melee, Minor DMG (Psionic), Terror",
+    "Ranged, Minor DMG (Psionic), -Rech (Foe)"
+  ]
+}

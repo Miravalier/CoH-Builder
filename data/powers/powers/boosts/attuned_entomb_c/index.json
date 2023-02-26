@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Entomb_C",
+  "display_name": "Attuned Entomb C",
+  "display_fullname": "Boosts.Attuned Entomb C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Reduces recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Entomb",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ENTOMB_C.POWERSETS",
+  "icon": "attuned_entomb_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Entomb_C.Attuned_Entomb_C"
+  ],
+  "power_display_names": [
+    "Entomb: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Recharge and Reduces Endurance Cost"
+  ]
+}

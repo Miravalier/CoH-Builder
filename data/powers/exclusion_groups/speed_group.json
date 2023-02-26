@@ -1,0 +1,41 @@
+{
+  "group": "Speed_Group",
+  "powers": [
+    [
+      "Event.Speed.Super Speed",
+      "event.event_speed.super_speed"
+    ],
+    [
+      "Inherent.Inherent.Walk",
+      "inherent.inherent.walk"
+    ],
+    [
+      "Pool.Utility Belt.Freerunning",
+      "pool.utility_belt.freerunning"
+    ],
+    [
+      "Prestige.Prestige Travel.Athletic Run",
+      "prestige.prestige_travel.prestige_athletic_run"
+    ],
+    [
+      "Prestige.Prestige Travel.Beast Run",
+      "prestige.prestige_travel.prestige_beast_run"
+    ],
+    [
+      "Prestige.Prestige Travel.Cheetah Travel Power",
+      "prestige.prestige_travel.alt_cheetah_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Coyote Travel Power",
+      "prestige.prestige_travel.alt_coyote_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Ninja Run",
+      "prestige.prestige_travel.prestige_ninja_run"
+    ],
+    [
+      "Prestige.Prestige Travel.Panther Travel Power",
+      "prestige.prestige_travel.alt_panther_travel_power"
+    ]
+  ]
+}

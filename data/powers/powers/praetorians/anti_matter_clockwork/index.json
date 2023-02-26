@@ -1,0 +1,34 @@
+{
+  "name": "Anti_Matter_Clockwork",
+  "display_name": "Anti_Matter_Clockwork",
+  "display_fullname": "Praetorians.Anti Matter Clockwork",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/ANTI_MATTER_CLOCKWORK.POWERSETS",
+  "icon": "anti_matter_clockwork_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Anti_Matter_Clockwork.Resistance",
+    "Praetorians.Anti_Matter_Clockwork.Neutrino_Bolt",
+    "Praetorians.Anti_Matter_Clockwork.X-Ray_Beam",
+    "Praetorians.Anti_Matter_Clockwork.Irradiate"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Neutrino Bolt",
+    "X-Ray Beam",
+    "Irradiate"
+  ],
+  "power_short_helps": [
+    "Auto Res Knockback Lethal Disorient Psionic",
+    "-DEF",
+    "-DEF",
+    "-DEF"
+  ]
+}

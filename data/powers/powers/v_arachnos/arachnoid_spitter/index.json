@@ -1,0 +1,46 @@
+{
+  "name": "Arachnoid_Spitter",
+  "display_name": "Arachnoid_Spitter",
+  "display_fullname": "V Arachnos.Arachnoid Spitter",
+  "display_help": "Arachnoids",
+  "display_short_help": "Arachnoids",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/ARACHNOID_SPITTER.POWERSETS",
+  "icon": "arachnoid_spitter_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Arachnoid_Spitter.Claw_1",
+    "V_Arachnos.Arachnoid_Spitter.Claw_2",
+    "V_Arachnos.Arachnoid_Spitter.Barb_1",
+    "V_Arachnos.Arachnoid_Spitter.Barb_2",
+    "V_Arachnos.Arachnoid_Spitter.Super_Jumping",
+    "V_Arachnos.Arachnoid_Spitter.Web_Spitter",
+    "V_Arachnos.Arachnoid_Spitter.Resistance"
+  ],
+  "power_display_names": [
+    "Claw",
+    "Claw",
+    "Venom Barb",
+    "Venom Barb",
+    "Super Jumping",
+    "Web Spitter",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Moderate Lethal DMG, Light Toxic DMG",
+    "Moderate Lethal DMG, Light Toxic DMG",
+    "Toxic DoT, Slow, -DEF",
+    "Toxic DoT, Slow, -DEF",
+    "Self Auto, +Jump, +Speed",
+    "Immobilize, -Fly, -Recharge",
+    "Auto Res Lethal Smash Energy Fire Cold"
+  ]
+}

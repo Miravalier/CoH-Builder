@@ -1,0 +1,34 @@
+{
+  "name": "Crab_Spider_Training_Proxy",
+  "display_name": "Crab Spider Training Proxy",
+  "display_fullname": "V Arachnos Proxy.Crab Spider Training Proxy",
+  "display_help": "Crab Spiders are heavy infantry in the Arachnos Organization, with a wide array of ranged and melee combat skills.",
+  "display_short_help": "Crab Spider Training Proxy",
+  "available_level": [
+    0,
+    23,
+    27,
+    34
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/CRAB_SPIDER_TRAINING_PROXY.POWERSETS",
+  "icon": "crab_spider_training_proxy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Crab_Spider_Training_Proxy.Crab_Spider_Armor",
+    "V_Arachnos_Proxy.Crab_Spider_Training_Proxy.Fortification",
+    "V_Arachnos_Proxy.Crab_Spider_Training_Proxy.Serum",
+    "V_Arachnos_Proxy.Crab_Spider_Training_Proxy.Summon_Spiderlings"
+  ],
+  "power_display_names": [
+    "Crab Spider Armor Upgrade",
+    "Fortification",
+    "Serum",
+    "Summon Spiderlings"
+  ],
+  "power_short_helps": [
+    "Auto: Self +RES(Smash, Lethal, Psionic, Status Effects)",
+    "Toggle: Self +Res(Disorient, Hold, Immobilize, Sleep, All DMG but Psionics)",
+    "Self Heal, +Max HP",
+    "Summon Spiderlings: Ranged Moderate DMG(Lethal)"
+  ]
+}

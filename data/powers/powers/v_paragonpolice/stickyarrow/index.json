@@ -1,0 +1,26 @@
+{
+  "name": "StickyArrow",
+  "display_name": "Sticky Arrow",
+  "display_fullname": "V ParagonPolice.Sticky Arrow",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/STICKYARROW.POWERSETS",
+  "icon": "stickyarrow_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.StickyArrow.Glue_Grenade",
+    "V_ParagonPolice.StickyArrow.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Glue Grenade",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "-Speed, -Recharge",
+    "Self Destruct"
+  ]
+}

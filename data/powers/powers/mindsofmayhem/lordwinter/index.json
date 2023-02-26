@@ -1,0 +1,42 @@
+{
+  "name": "LordWinter",
+  "display_name": "LordWinter",
+  "display_fullname": "MindsOfMayhem.LordWinter",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/LORDWINTER.POWERSETS",
+  "icon": "lordwinter_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.LordWinter.Dawn_Strike",
+    "MindsOfMayhem.LordWinter.Foot_Stomp",
+    "MindsOfMayhem.LordWinter.Greater_Ice_Sword",
+    "MindsOfMayhem.LordWinter.Ice_Blast",
+    "MindsOfMayhem.LordWinter.Freeze_Ray",
+    "MindsOfMayhem.LordWinter.Blizzard"
+  ],
+  "power_display_names": [
+    "Dawn Strike",
+    "Foot Stomp",
+    "Greater Ice Sword",
+    "Ice Blast",
+    "Freeze Ray",
+    "Blizzard"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "AoE Smash, Knockback",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Hold",
+    "Extreme DoT(Cold), -ACC, -Speed, -Recharge"
+  ]
+}

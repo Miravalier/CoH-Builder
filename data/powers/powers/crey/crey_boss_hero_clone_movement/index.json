@@ -1,0 +1,26 @@
+{
+  "name": "Crey_Boss_Hero_Clone_Movement",
+  "display_name": "Crey_Boss_Hero_Clone_Movement",
+  "display_fullname": "Crey.Crey Boss Hero Clone Movement",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_BOSS_HERO_CLONE_MOVEMENT.POWERSETS",
+  "icon": "crey_boss_hero_clone_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Boss_Hero_Clone_Movement.Fly",
+    "Crey.Crey_Boss_Hero_Clone_Movement.Fly_fx"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special"
+  ]
+}

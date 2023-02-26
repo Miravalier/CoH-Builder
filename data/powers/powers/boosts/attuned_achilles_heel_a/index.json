@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Achilles_Heel_A",
+  "display_name": "Attuned Achilles Heel A",
+  "display_fullname": "Boosts.Attuned Achilles Heel A",
+  "display_help": "Enhances the defense debuff potential of a power by {Boost.Attrib.Defense.Scale}%.",
+  "display_short_help": "Set: Achilles' Heel",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ACHILLES_HEEL_A.POWERSETS",
+  "icon": "attuned_achilles_heel_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Achilles_Heel_A.Attuned_Achilles_Heel_A"
+  ],
+  "power_display_names": [
+    "Achilles' Heel: Defense Debuff"
+  ],
+  "power_short_helps": [
+    "+Defense Debuff"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sibyl_Fire",
+  "display_name": "Sibyl_Fire",
+  "display_fullname": "TalonsOfVengeance.Sibyl Fire",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/SIBYL_FIRE.POWERSETS",
+  "icon": "sibyl_fire_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Sibyl_Fire.Inferno"
+  ],
+  "power_display_names": [
+    "Inferno"
+  ],
+  "power_short_helps": [
+    "PBAoE, High DMG, High DoT, +DMG, +DEF (Fire), -DMG(All,Foe), -DEF(All,Foe)"
+  ]
+}

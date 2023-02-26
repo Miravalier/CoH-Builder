@@ -1,0 +1,62 @@
+{
+  "name": "SkyFall",
+  "display_name": "SkyFall",
+  "display_fullname": "Tsoo.SkyFall",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/SKYFALL.POWERSETS",
+  "icon": "skyfall_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.SkyFall.Lightning_Storm",
+    "Tsoo.SkyFall.Thunder_Clap",
+    "Tsoo.SkyFall.Hurricane",
+    "Tsoo.SkyFall.Snow_Storm",
+    "Tsoo.SkyFall.Katana_Hack",
+    "Tsoo.SkyFall.Katana_Slash",
+    "Tsoo.SkyFall.Katana_Slice",
+    "Tsoo.SkyFall.Whirling_Katana",
+    "Tsoo.SkyFall.Bow",
+    "Tsoo.SkyFall.Lightning_Clap",
+    "Tsoo.SkyFall.Thunder_Strike"
+  ],
+  "power_display_names": [
+    "Lightning Storm",
+    "Thunder Clap",
+    "Hurricane",
+    "Snow Storm",
+    "Katana Hack",
+    "Katana Slash",
+    "Katana Slice",
+    "Whirling Katana",
+    "Bow",
+    "Lightning Clap",
+    "Thunder Strike"
+  ],
+  "power_short_helps": [
+    "Summon Lightning Storm",
+    "Disorient",
+    "-Range, -ACC",
+    "-Speed, -Recharge",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "Ranged Lethal, Med Dam",
+    "Disorient",
+    "Disorient"
+  ]
+}

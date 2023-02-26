@@ -1,0 +1,22 @@
+{
+  "name": "Dawn_Strike",
+  "display_name": "Dawn Strike",
+  "display_fullname": "V ParagonPolice.Dawn Strike",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/DAWN_STRIKE.POWERSETS",
+  "icon": "dawn_strike_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Dawn_Strike.Dawn_Strike"
+  ],
+  "power_display_names": [
+    "Dawn Strike"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

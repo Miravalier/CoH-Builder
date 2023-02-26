@@ -1,0 +1,22 @@
+{
+  "name": "Cabal_Maven_Lt_Resists",
+  "display_name": "Cabal_Maven_Lt_Resists",
+  "display_fullname": "Cabal.Cabal Maven Lt Resists",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_MAVEN_LT_RESISTS.POWERSETS",
+  "icon": "cabal_maven_lt_resists_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Maven_Lt_Resists.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Lethal Disorient"
+  ]
+}

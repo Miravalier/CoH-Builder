@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Bonesnap_A",
+  "display_name": "Attuned Bonesnap A",
+  "display_fullname": "Boosts.Attuned Bonesnap A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Bonesnap",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BONESNAP_A.POWERSETS",
+  "icon": "attuned_bonesnap_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Bonesnap_A.Attuned_Bonesnap_A"
+  ],
+  "power_display_names": [
+    "Bonesnap: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

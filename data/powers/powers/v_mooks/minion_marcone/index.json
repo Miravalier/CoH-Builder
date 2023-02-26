@@ -1,0 +1,26 @@
+{
+  "name": "Minion_Marcone",
+  "display_name": "Minion Marcone",
+  "display_fullname": "V Mooks.Minion Marcone",
+  "display_help": "Mooks",
+  "display_short_help": "Mooks",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_MOOKS/MINION_MARCONE.POWERSETS",
+  "icon": "minion_marcone_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Mooks.Minion_Marcone.Brawl",
+    "V_Mooks.Minion_Marcone.Revolver"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Revolver"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "Ranged Lethal, Med Dam"
+  ]
+}

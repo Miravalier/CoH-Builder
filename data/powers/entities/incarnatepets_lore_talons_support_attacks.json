@@ -1,0 +1,109 @@
+{
+  "name": "IncarnatePets_Lore_Talons_Support_Attacks",
+  "gender": "GENDER_NEUTER",
+  "group_name": "IncarnatePets",
+  "commandable_pet": 1,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": true,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Ranged",
+    "character_class_name": "lt_praetoriangrunt_pet",
+    "description": "This Talons of Vengeance essence has been conjured out of the mists of the Well of the Furies, a study of an enemy made substance and brought to heel.",
+    "group_description": "Talons of Vengeance Essence",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Incarnate.Lore_Pet_Talons_Support.Seductive_Song",
+      "Incarnate.Lore_Pet_Talons_Support.Debilitating_Song",
+      "Incarnate.Lore_Pet_Talons_Support_Attack.Exhausting_Song",
+      "Rularuu.Reflections.Resistance",
+      "Incarnate.Lore_Pet_Generic.Lore_Evasion",
+      "Incarnate.Lore_Pet_Generic.Super_Leap"
+    ],
+    "power_display_names": [
+      "Soothing Song",
+      "Regenerating Song",
+      "Exhausting Song",
+      "Resistance",
+      "Lore Evasion",
+      "Super Leap"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Incarnate",
+        "power_set": "Lore_Pet_Talons_Support",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Incarnate",
+        "power_set": "Lore_Pet_Talons_Support_Attack",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Rularuu",
+        "power_set": "Reflections",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Incarnate",
+        "power_set": "Lore_Pet_Generic",
+        "power": "Lore_Evasion",
+        "level": 0
+      },
+      {
+        "power_category": "Incarnate",
+        "power_set": "Lore_Pet_Generic",
+        "power": "Super_Leap",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Siren Essence"
+      ],
+      "costumes": [
+        "Talons_Siren_01",
+        "Talons_Siren_02",
+        "Talons_Siren_03",
+        "Talons_Siren_04"
+      ]
+    }
+  ]
+}

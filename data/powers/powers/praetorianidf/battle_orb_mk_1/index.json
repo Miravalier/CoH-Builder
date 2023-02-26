@@ -1,0 +1,26 @@
+{
+  "name": "Battle_Orb_Mk_1",
+  "display_name": "Battle_Orb_Mk_1",
+  "display_fullname": "PraetorianIDF.Battle Orb Mk 1",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/BATTLE_ORB_MK_1.POWERSETS",
+  "icon": "battle_orb_mk_1_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Battle_Orb_Mk_1.Shield_Generator",
+    "PraetorianIDF.Battle_Orb_Mk_1.Deploy_Stimulant"
+  ],
+  "power_display_names": [
+    "Shield Generator",
+    "Deploy Stimulant"
+  ],
+  "power_short_helps": [
+    "Team AoE Toggle, +Def(All), +Res(Immobilize, disorient)",
+    "Ally Heal, Res Effects"
+  ]
+}

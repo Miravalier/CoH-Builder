@@ -1,0 +1,22 @@
+{
+  "name": "Arcane_Medium_Sapper_Turret",
+  "display_name": "Arcane_Medium_Sapper_Turret",
+  "display_fullname": "Base Defenses.Arcane Medium Sapper Turret",
+  "display_help": "Base Defenses",
+  "display_short_help": "Base Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_DEFENSES/ARCANE_MEDIUM_SAPPER_TURRET.POWERSETS",
+  "icon": "arcane_medium_sapper_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Defenses.Arcane_Medium_Sapper_Turret.Sapper"
+  ],
+  "power_display_names": [
+    "Sapper"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, Foe - End"
+  ]
+}

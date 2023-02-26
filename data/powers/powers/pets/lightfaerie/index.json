@@ -1,0 +1,26 @@
+{
+  "name": "LightFaerie",
+  "display_name": "LightFaerie",
+  "display_fullname": "Pets.LightFaerie",
+  "display_help": "Pet",
+  "display_short_help": "Pet",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/LIGHTFAERIE.POWERSETS",
+  "icon": "lightfaerie_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.LightFaerie.Blessing_of_Light",
+    "Pets.LightFaerie.Power_Bolt"
+  ],
+  "power_display_names": [
+    "Empowering Aura",
+    "Power Bolt"
+  ],
+  "power_short_helps": [
+    "+Rec, +Def",
+    "Ranged, Minor DMG(Energy)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Fly",
+  "display_name": "Mutation Science Fly",
+  "display_fullname": "Boosts.Mutation Science Fly",
+  "display_help": "Increases the flight speed of a flight power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_FLY.POWERSETS",
+  "icon": "mutation_science_fly_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Fly.Mutation_Science_Fly"
+  ],
+  "power_display_names": [
+    "Genome Alteration Flight Boost (Fly)"
+  ],
+  "power_short_helps": [
+    "Enhances Flight Speed"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Demon_Prince",
+  "display_name": "Demon Prince",
+  "display_fullname": "Mastermind Pets.Demon Prince",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/DEMON_PRINCE.POWERSETS",
+  "icon": "demon_prince_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Demon_Prince.Resistance",
+    "Mastermind_Pets.Demon_Prince.Ice_Blast",
+    "Mastermind_Pets.Demon_Prince.Shiver",
+    "Mastermind_Pets.Demon_Prince.Super_Leap"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Ice Blast",
+    "Shiver",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Auto: Def(Lethal, Smashing, Fire, Cold) Res(Sleep, Fear, Confuse, Placate)",
+    "Ranged, Moderate DMG(Cold), Foe -Recharge, -SPD",
+    "Ranged (Cone), Foe -SPD, -Recharge",
+    "Self Leap"
+  ]
+}

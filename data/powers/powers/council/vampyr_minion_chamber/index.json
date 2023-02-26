@@ -1,0 +1,22 @@
+{
+  "name": "Vampyr_Minion_Chamber",
+  "display_name": "Vampyr Chamber",
+  "display_fullname": "Council.Vampyr Chamber",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/VAMPYR_MINION_CHAMBER.POWERSETS",
+  "icon": "vampyr_minion_chamber_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Vampyr_Minion_Chamber.Chamber"
+  ],
+  "power_display_names": [
+    "Chamber"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

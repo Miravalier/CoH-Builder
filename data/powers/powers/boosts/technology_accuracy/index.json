@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Accuracy",
+  "display_name": "Technology Accuracy",
+  "display_fullname": "Boosts.Technology Accuracy",
+  "display_help": "Increases the accuracy of a power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_ACCURACY.POWERSETS",
+  "icon": "technology_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Accuracy.Technology_Accuracy"
+  ],
+  "power_display_names": [
+    "Benedict Tech Adv. Targeting Eye (Accuracy)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy"
+  ]
+}

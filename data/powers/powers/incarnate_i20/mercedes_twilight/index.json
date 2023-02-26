@@ -1,0 +1,22 @@
+{
+  "name": "Mercedes_Twilight",
+  "display_name": "Mercedes Twilight",
+  "display_fullname": "Incarnate I20.Mercedes Twilight",
+  "display_help": "Dark Miasma",
+  "display_short_help": "Dark Miasma",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/MERCEDES_TWILIGHT.POWERSETS",
+  "icon": "mercedes_twilight_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Mercedes_Twilight.Twilight"
+  ],
+  "power_display_names": [
+    "Twilight"
+  ],
+  "power_short_helps": [
+    "Twilight"
+  ]
+}

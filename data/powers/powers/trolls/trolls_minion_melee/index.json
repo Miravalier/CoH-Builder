@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Minion_Melee",
+  "display_name": "Trolls_Minion_Melee",
+  "display_fullname": "Trolls.Trolls Minion Melee",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_MINION_MELEE.POWERSETS",
+  "icon": "trolls_minion_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Minion_Melee.Jab"
+  ],
+  "power_display_names": [
+    "Jab"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Underground_Devouring_Cloud",
+  "display_name": "Underground_Devouring_Cloud",
+  "display_fullname": "Objects.Underground Devouring Cloud",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/UNDERGROUND_DEVOURING_CLOUD.POWERSETS",
+  "icon": "underground_devouring_cloud_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Underground_Devouring_Cloud.Toxic_Spores",
+    "Objects.Underground_Devouring_Cloud.Degenerating_Spores",
+    "Objects.Underground_Devouring_Cloud.Debilitating_Spores"
+  ],
+  "power_display_names": [
+    "Toxic Spores",
+    "Degenerating Spores",
+    "Debilitating Spores"
+  ],
+  "power_short_helps": [
+    "Toxic Spores",
+    "-Random",
+    "-Random"
+  ]
+}

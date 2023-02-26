@@ -1,0 +1,22 @@
+{
+  "name": "Nictus_Rifle",
+  "display_name": "Nictus_Rifle",
+  "display_fullname": "Guns.Nictus Rifle",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/NICTUS_RIFLE.POWERSETS",
+  "icon": "nictus_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Nictus_Rifle.Nictus_Rifle"
+  ],
+  "power_display_names": [
+    "Nictus Rifle"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD"
+  ]
+}

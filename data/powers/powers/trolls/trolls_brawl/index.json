@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Brawl",
+  "display_name": "Trolls_Brawl",
+  "display_fullname": "Trolls.Trolls Brawl",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_BRAWL.POWERSETS",
+  "icon": "trolls_brawl_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Brawl.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

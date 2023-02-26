@@ -1,0 +1,26 @@
+{
+  "name": "SS_Tanker_Mid",
+  "display_name": "SS Tanker Mid",
+  "display_fullname": "V GenericHeroes.SS Tanker Mid",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/SS_TANKER_MID.POWERSETS",
+  "icon": "ss_tanker_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.SS_Tanker_Mid.Knockout_Blow",
+    "V_GenericHeroes.SS_Tanker_Mid.Foot_Stomp"
+  ],
+  "power_display_names": [
+    "Knockout Blow",
+    "Foot Stomp"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "PBAoE Melee, Moderate DMG(Smash), Knockback"
+  ]
+}

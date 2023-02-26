@@ -1,0 +1,19 @@
+{
+  "name": "Halloween",
+  "display_name": "Halloween",
+  "source_file": "DEFS/POWERS/HALLOWEEN.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "halloween.abomination",
+    "halloween.harbinger_ghoul",
+    "halloween.resistances"
+  ],
+  "powerset_display_names": [
+    "Abomination",
+    "Harbinger Ghoul",
+    "Resistances"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Battle_Maiden_Portal",
+  "display_name": "Battle Maiden Portal",
+  "display_fullname": "Incarnate AlphaStrike.Battle Maiden Portal",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/BATTLE_MAIDEN_PORTAL.POWERSETS",
+  "icon": "battle_maiden_portal_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Battle_Maiden_Portal.Portal",
+    "Incarnate_AlphaStrike.Battle_Maiden_Portal.Resistance"
+  ],
+  "power_display_names": [
+    "Portal",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant"
+  ]
+}

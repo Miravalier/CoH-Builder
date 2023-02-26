@@ -1,0 +1,22 @@
+{
+  "name": "Missile_Turret",
+  "display_name": "Missile Turret",
+  "display_fullname": "OneWillDie Issue3Powers.Missile Turret",
+  "display_help": "Turrets",
+  "display_short_help": "Turrets",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE3POWERS/MISSILE_TURRET.POWERSETS",
+  "icon": "missile_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue3Powers.Missile_Turret.Incendiary_Swarm_Missiles"
+  ],
+  "power_display_names": [
+    "Incendiary Swarm Missiles"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal/Fire"
+  ]
+}

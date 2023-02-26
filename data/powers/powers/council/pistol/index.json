@@ -1,0 +1,22 @@
+{
+  "name": "Pistol",
+  "display_name": "Pistol",
+  "display_fullname": "Council.Pistol",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/PISTOL.POWERSETS",
+  "icon": "pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Pistol.Automatic_Pistol"
+  ],
+  "power_display_names": [
+    "Automatic Pistol"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam"
+  ]
+}

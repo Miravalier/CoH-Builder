@@ -1,0 +1,22 @@
+{
+  "name": "Energy_Aura",
+  "display_name": "Energy Aura",
+  "display_fullname": "V GenericVillains.Energy Aura",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ENERGY_AURA.POWERSETS",
+  "icon": "energy_aura_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Energy_Aura.Energy_Drain"
+  ],
+  "power_display_names": [
+    "Energy Drain"
+  ],
+  "power_short_helps": [
+    "PBAoE, Self +End +HP, Foe -End"
+  ]
+}

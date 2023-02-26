@@ -1,0 +1,539 @@
+{
+  "name": "Gravitational_Anchor",
+  "display_name": "Gravitational Anchor",
+  "group_name": "Immobilize",
+  "conversion_groups": [
+    "Rarity: Very Rare"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Gravitational_Anchor_A.Crafted_Gravitational_Anchor_A",
+      "Boosts.Superior_Attuned_Gravitational_Anchor_A.Superior_Attuned_Gravitational_Anchor_A"
+    ],
+    [
+      "Boosts.Crafted_Gravitational_Anchor_B.Crafted_Gravitational_Anchor_B",
+      "Boosts.Superior_Attuned_Gravitational_Anchor_B.Superior_Attuned_Gravitational_Anchor_B"
+    ],
+    [
+      "Boosts.Crafted_Gravitational_Anchor_C.Crafted_Gravitational_Anchor_C",
+      "Boosts.Superior_Attuned_Gravitational_Anchor_C.Superior_Attuned_Gravitational_Anchor_C"
+    ],
+    [
+      "Boosts.Crafted_Gravitational_Anchor_D.Crafted_Gravitational_Anchor_D",
+      "Boosts.Superior_Attuned_Gravitational_Anchor_D.Superior_Attuned_Gravitational_Anchor_D"
+    ],
+    [
+      "Boosts.Crafted_Gravitational_Anchor_E.Crafted_Gravitational_Anchor_E",
+      "Boosts.Superior_Attuned_Gravitational_Anchor_E.Superior_Attuned_Gravitational_Anchor_E"
+    ],
+    [
+      "Boosts.Crafted_Gravitational_Anchor_F.Crafted_Gravitational_Anchor_F",
+      "Boosts.Superior_Attuned_Gravitational_Anchor_F.Superior_Attuned_Gravitational_Anchor_F"
+    ]
+  ],
+  "min_level": 50,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization",
+      "Enhance Immobilization"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_7",
+          "Ultimate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_7",
+          "Ultimate Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_7",
+          "Ultimate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_7",
+          "Ultimate Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_7",
+          "Ultimate Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png",
+      "e_icon_gravitationalanchor.png"
+    ],
+    "boosts": [
+      [
+        "Superior Gravitational Anchor: Immobilized",
+        "Attuned Superior Gravitational Anchor: Immobilized"
+      ],
+      [
+        "Superior Gravitational Anchor: Immobilized/Recharge",
+        "Attuned Superior Gravitational Anchor: Immobilized/Recharge"
+      ],
+      [
+        "Superior Gravitational Anchor: Accuracy/Immobilized/Recharge",
+        "Attuned Superior Gravitational Anchor: Accuracy/Immobilized/Recharge"
+      ],
+      [
+        "Superior Gravitational Anchor: Accuracy/Recharge",
+        "Attuned Superior Gravitational Anchor: Accuracy/Recharge"
+      ],
+      [
+        "Superior Gravitational Anchor: Endurance/Immobilized",
+        "Attuned Superior Gravitational Anchor: Endurance/Immobilized"
+      ],
+      [
+        "Gravitational Anchor: Chance for Hold Buff",
+        "Attuned Gravitational Anchor: Chance for Hold Buff"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_gravitational_anchor_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_gravitational_anchor_a.superior_attuned_gravitational_anchor_a",
+          "Gravitational Anchor: Immobilize Duration"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Gravitational Anchor: Immobilized",
+        "aspects": [
+          "Immobilized"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "superior_attuned_gravitational_anchor_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Gravitational Anchor: Immobilized",
+        "aspects": [
+          "Immobilized"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "crafted_gravitational_anchor_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_gravitational_anchor_b.superior_attuned_gravitational_anchor_b",
+          "Gravitational Anchor: Immobilize Duration/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Gravitational Anchor: Immobilized/Recharge",
+        "aspects": [
+          "Immobilized",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "superior_attuned_gravitational_anchor_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Gravitational Anchor: Immobilized/Recharge",
+        "aspects": [
+          "Immobilized",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "crafted_gravitational_anchor_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_gravitational_anchor_c.superior_attuned_gravitational_anchor_c",
+          "Gravitational Anchor: Immobilize Duration/Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Gravitational Anchor: Accuracy/Immobilized/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Immobilized",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "superior_attuned_gravitational_anchor_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Gravitational Anchor: Accuracy/Immobilized/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Immobilized",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "crafted_gravitational_anchor_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_gravitational_anchor_d.superior_attuned_gravitational_anchor_d",
+          "Gravitational Anchor: Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Gravitational Anchor: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "superior_attuned_gravitational_anchor_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Gravitational Anchor: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "crafted_gravitational_anchor_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_gravitational_anchor_e.superior_attuned_gravitational_anchor_e",
+          "Gravitational Anchor: Immobilize Duration/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Gravitational Anchor: Endurance/Immobilized",
+        "aspects": [
+          "Endurance",
+          "Immobilized"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "superior_attuned_gravitational_anchor_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Gravitational Anchor: Endurance/Immobilized",
+        "aspects": [
+          "Endurance",
+          "Immobilized"
+        ],
+        "superior_scales": true,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "crafted_gravitational_anchor_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_gravitational_anchor_f.superior_attuned_gravitational_anchor_f",
+          "Gravitational Anchor: Chance for Hold"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Gravitational Anchor: Chance for Hold Buff",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      },
+      "superior_attuned_gravitational_anchor_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gravitational Anchor: Chance for Hold Buff",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "gravitational_anchor",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Immobilization",
+        "icon": "e_icon_gravitationalanchor.png"
+      }
+    }
+  }
+}

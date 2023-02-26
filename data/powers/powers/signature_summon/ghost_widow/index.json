@@ -1,0 +1,58 @@
+{
+  "name": "Ghost_Widow",
+  "display_name": "Ghost Widow",
+  "display_fullname": "Signature Summon.Ghost Widow",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    25,
+    0,
+    0,
+    19,
+    9,
+    31,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SIGNATURE_SUMMON/GHOST_WIDOW.POWERSETS",
+  "icon": "ghost_widow_set.png",
+  "requires": "",
+  "power_names": [
+    "Signature_Summon.Ghost_Widow.Life_Drain",
+    "Signature_Summon.Ghost_Widow.Dark_Blast",
+    "Signature_Summon.Ghost_Widow.Gloom",
+    "Signature_Summon.Ghost_Widow.Soul_Tentacles",
+    "Signature_Summon.Ghost_Widow.Soul_Storm",
+    "Signature_Summon.Ghost_Widow.Dark_Obliteration",
+    "Signature_Summon.Ghost_Widow.Twilight_Grasp",
+    "Signature_Summon.Ghost_Widow.Resistance",
+    "Signature_Summon.Ghost_Widow.Fly",
+    "Signature_Summon.Ghost_Widow.Fly_fx"
+  ],
+  "power_display_names": [
+    "Life Drain",
+    "Dark Blast",
+    "Gloom",
+    "Soul Tentacles",
+    "Soul Storm",
+    "Dark Obliteration",
+    "Twilight Grasp",
+    "Resistance",
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC",
+    "-ACC",
+    "Immobilize, DoT(Negative), -ACC",
+    "Ranged, Moderate DoT(Negative)",
+    "Ranged (Targeted AoE), Moderate DMG(Negative), Foe -ACC",
+    "-ACC, -DMG",
+    "Resistance",
+    "Self Travel",
+    "Special"
+  ]
+}

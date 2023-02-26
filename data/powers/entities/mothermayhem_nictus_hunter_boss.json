@@ -1,0 +1,107 @@
+{
+  "name": "MotherMayhem_Nictus_Hunter_Boss",
+  "gender": "GENDER_MALE",
+  "group_name": "MotherMayhem",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 45,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Nictus_Hunter",
+    "character_class_name": "boss_grunt",
+    "description": "At this point Mother Mayhem has pushed her 'children' to the point that they can feel nothing but hatred for everything around them. They simply want everything around them to die.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Nictus.Hunter.Quantum_Array_gun",
+      "Praetorians.Mother_Mayhem_Minion.Resistance"
+    ],
+    "power_display_names": [
+      "Quantum Array Gun",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Nictus",
+        "power_set": "Hunter",
+        "power": "Quantum_Array_gun",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Mother_Mayhem_Minion",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 45,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Child of Hatred Quantum"
+      ],
+      "costumes": [
+        "MaleNPC_Villain_01",
+        "MaleNPC_Villain_02",
+        "MaleNPC_Villain_03",
+        "MaleNPC_Villain_04",
+        "MaleNPC_Villain_05",
+        "MaleNPC_Villain_50",
+        "MaleNPC_Villain_51",
+        "MaleNPC_Villain_52",
+        "MaleNPC_Villain_53",
+        "MaleNPC_Villain_54",
+        "MaleNPC_Villain_101",
+        "MaleNPC_Villain_102",
+        "MaleNPC_Villain_103",
+        "MaleNPC_Villain_104",
+        "MaleNPC_Villain_105",
+        "MaleNPC_Villain_200",
+        "MaleNPC_Villain_201",
+        "MaleNPC_Villain_202",
+        "MaleNPC_Villain_203",
+        "MaleNPC_Villain_210",
+        "MaleNPC_Villain_211",
+        "MaleNPC_Villain_212",
+        "MaleNPC_Villain_213",
+        "MaleNPC_Villain_220",
+        "MaleNPC_Villain_221",
+        "MaleNPC_Villain_222",
+        "MaleNPC_Villain_223",
+        "MaleNPC_Villain_240",
+        "MaleNPC_Villain_241"
+      ]
+    }
+  ]
+}

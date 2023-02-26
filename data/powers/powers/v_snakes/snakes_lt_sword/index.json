@@ -1,0 +1,22 @@
+{
+  "name": "Snakes_Lt_Sword",
+  "display_name": "Snakes Lt Sword",
+  "display_fullname": "V Snakes.Snakes Lt Sword",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/SNAKES_LT_SWORD.POWERSETS",
+  "icon": "snakes_lt_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Snakes_Lt_Sword.Hack"
+  ],
+  "power_display_names": [
+    "Hack"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

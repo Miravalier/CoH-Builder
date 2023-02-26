@@ -1,0 +1,38 @@
+{
+  "name": "Electrical_Brute",
+  "display_name": "Electrical Brute",
+  "display_fullname": "V GenericVillains.Electrical Brute",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ELECTRICAL_BRUTE.POWERSETS",
+  "icon": "electrical_brute_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Electrical_Brute.Charged_Brawl",
+    "V_GenericVillains.Electrical_Brute.Havoc_Punch",
+    "V_GenericVillains.Electrical_Brute.Jacobs_Ladder",
+    "V_GenericVillains.Electrical_Brute.Lightning_Blast",
+    "V_GenericVillains.Electrical_Brute.Charged_Armor"
+  ],
+  "power_display_names": [
+    "Charged Brawl",
+    "Havoc Punch",
+    "Jacobs Ladder",
+    "Lightning Blast",
+    "Charged Armor"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smash/Energy), Target Sleep, -End",
+    "Melee, Moderate DMG(Smash/Energy), Foe Sleep, -End",
+    "Melee (Cone), High DMG(Energy), Foe Sleep, -End",
+    "High DMG(Energy), Foe -End",
+    "Toggle: Self +Res(Smash, Lethal, Fire, Cold, Energy, Negative Energy)"
+  ]
+}

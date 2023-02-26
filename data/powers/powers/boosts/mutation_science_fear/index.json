@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Fear",
+  "display_name": "Mutation Science Fear",
+  "display_fullname": "Boosts.Mutation Science Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_FEAR.POWERSETS",
+  "icon": "mutation_science_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Fear.Mutation_Science_Fear"
+  ],
+  "power_display_names": [
+    "Genome Alteration Nightmare Boost (Fear)"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

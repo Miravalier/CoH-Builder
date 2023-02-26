@@ -1,0 +1,22 @@
+{
+  "name": "Science_Immobilize",
+  "display_name": "Science Immobilize",
+  "display_fullname": "Boosts.Science Immobilize",
+  "display_help": "Increases the duration of a immobilization power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_IMMOBILIZE.POWERSETS",
+  "icon": "science_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Immobilize.Science_Immobilize"
+  ],
+  "power_display_names": [
+    "Auroral Particle Bombardment (Immobilize)"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

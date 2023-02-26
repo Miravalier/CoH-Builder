@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Lab_DeBuff_Acc",
+  "display_name": "Tech Lab",
+  "display_fullname": "Pets.Tech Lab",
+  "display_help": "Lab Equipment",
+  "display_short_help": "Lab Equipment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TECH_LAB_DEBUFF_ACC.POWERSETS",
+  "icon": "tech_lab_debuff_acc_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Tech_Lab_DeBuff_Acc.Woozy"
+  ],
+  "power_display_names": [
+    "Woozy"
+  ],
+  "power_short_helps": [
+    "-To Hit"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Armageddon_A",
+  "display_name": "Superior Attuned Armageddon A",
+  "display_fullname": "Boosts.Superior Attuned Armageddon A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Armageddon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_ARMAGEDDON_A.POWERSETS",
+  "icon": "superior_attuned_armageddon_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Armageddon_A.Superior_Attuned_Armageddon_A"
+  ],
+  "power_display_names": [
+    "Armageddon: Damage"
+  ],
+  "power_short_helps": [
+    "+DMG"
+  ]
+}

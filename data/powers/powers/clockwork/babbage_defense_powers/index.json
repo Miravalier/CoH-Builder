@@ -1,0 +1,22 @@
+{
+  "name": "Babbage_Defense_Powers",
+  "display_name": "Babbage_Defense_Powers",
+  "display_fullname": "Clockwork.Babbage Defense Powers",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CLOCKWORK/BABBAGE_DEFENSE_POWERS.POWERSETS",
+  "icon": "babbage_defense_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Clockwork.Babbage_Defense_Powers.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

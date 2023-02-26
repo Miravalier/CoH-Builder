@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Unrelenting_Fury_B",
+  "display_name": "Superior Attuned Superior Unrelenting Fury B",
+  "display_fullname": "Boosts.Superior Attuned Unrelenting Fury B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Brutes and may be slotted into any Brute damage power.",
+  "display_short_help": "Set: Superior Unrelenting Fury",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_UNRELENTING_FURY_B.POWERSETS",
+  "icon": "superior_attuned_superior_unrelenting_fury_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Unrelenting_Fury_B.Superior_Attuned_Superior_Unrelenting_Fury_B"
+  ],
+  "power_display_names": [
+    "Superior Unrelenting Fury: Damage/Recharge (Brute)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

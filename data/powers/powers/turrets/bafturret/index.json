@@ -1,0 +1,26 @@
+{
+  "name": "BAFTurret",
+  "display_name": "BAFTurret",
+  "display_fullname": "Turrets.BAFTurret",
+  "display_help": "Turret",
+  "display_short_help": "Turret",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TURRETS/BAFTURRET.POWERSETS",
+  "icon": "bafturret_set.png",
+  "requires": "",
+  "power_names": [
+    "Turrets.BAFTurret.Target_Designator",
+    "Turrets.BAFTurret.Blaster"
+  ],
+  "power_display_names": [
+    "Target Designator",
+    "Blaster"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special"
+  ]
+}

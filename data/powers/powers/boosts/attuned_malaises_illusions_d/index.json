@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Malaises_Illusions_D",
+  "display_name": "Attuned Malaises Illusions D",
+  "display_fullname": "Boosts.Attuned Malaises Illusions D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and confuse duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Malaises Illusions",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MALAISES_ILLUSIONS_D.POWERSETS",
+  "icon": "attuned_malaises_illusions_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Malaises_Illusions_D.Attuned_Malaises_Illusions_D"
+  ],
+  "power_display_names": [
+    "Malaise's Illusions: Confuse/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Confuse"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Energy_Brute_Mid",
+  "display_name": "Energy Brute Mid",
+  "display_fullname": "V GenericVillains.Energy Brute Mid",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ENERGY_BRUTE_MID.POWERSETS",
+  "icon": "energy_brute_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Energy_Brute_Mid.Laser_Beam_Eyes",
+    "V_GenericVillains.Energy_Brute_Mid.Whirling_Hands",
+    "V_GenericVillains.Energy_Brute_Mid.Entropy_Shield"
+  ],
+  "power_display_names": [
+    "Laser Beam Eyes",
+    "Whirling Hands",
+    "Entropy Shield"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Disorient",
+    "Toggle: Self +DEF(Smashing, Lethal, Fire, Cold, Energy, Negative), +Res(Knockback, Repel, Disorient, Hold, Sleep, Immobilize, Teleport, DeBuff DEF"
+  ]
+}

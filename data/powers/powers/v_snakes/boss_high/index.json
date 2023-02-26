@@ -1,0 +1,26 @@
+{
+  "name": "Boss_High",
+  "display_name": "Boss High",
+  "display_fullname": "V Snakes.Boss High",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/BOSS_HIGH.POWERSETS",
+  "icon": "boss_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Boss_High.Slash",
+    "V_Snakes.Boss_High.Mesmerize"
+  ],
+  "power_display_names": [
+    "Slash",
+    "Mesmerize"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Sleep"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blue_Wisp",
+  "display_name": "Blue_Wisp",
+  "display_fullname": "Wisps.Blue Wisp",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/WISPS/BLUE_WISP.POWERSETS",
+  "icon": "blue_wisp_set.png",
+  "requires": "",
+  "power_names": [
+    "Wisps.Blue_Wisp.Sprite_Aura"
+  ],
+  "power_display_names": [
+    "Sprite Aura"
+  ],
+  "power_short_helps": [
+    "Ranged, Ally +End"
+  ]
+}

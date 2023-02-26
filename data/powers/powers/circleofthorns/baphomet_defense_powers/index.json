@@ -1,0 +1,26 @@
+{
+  "name": "Baphomet_Defense_Powers",
+  "display_name": "Baphomet_Defense_Powers",
+  "display_fullname": "CircleOfThorns.Baphomet Defense Powers",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/BAPHOMET_DEFENSE_POWERS.POWERSETS",
+  "icon": "baphomet_defense_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Baphomet_Defense_Powers.Resistance",
+    "CircleOfThorns.Baphomet_Defense_Powers.Healing_Flames"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Healing Flames"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Heal"
+  ]
+}

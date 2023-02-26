@@ -1,0 +1,30 @@
+{
+  "name": "Burnout",
+  "display_name": "Burnout",
+  "display_fullname": "Awakened.Burnout",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/BURNOUT.POWERSETS",
+  "icon": "burnout_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Burnout.Psychic_Blast",
+    "Awakened.Burnout.Subdue",
+    "Awakened.Burnout.Overload"
+  ],
+  "power_display_names": [
+    "Psychic Blast",
+    "Subdue",
+    "Overload"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "Immobilize",
+    "Special"
+  ]
+}

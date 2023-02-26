@@ -1,0 +1,82 @@
+{
+  "name": "CircleOfThorns_Thorn_Tree_Vine",
+  "gender": "GENDER_MALE",
+  "group_name": "CircleOfThorns",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 24,
+    "max_level": 50,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "The vines of the Thorn tree can move and strike, cutting down those who would hurt its body. What's more, the main body of the tree cannot be attacked until all of the vines have been destroyed.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "CircleOfThorns.Vine.Vine_Smash",
+      "CircleOfThorns.Vine.Vine_Thorns",
+      "CircleOfThorns.Vine.Resistance",
+      "CircleOfThorns.Thorn_Tree_Immobile.Immobile"
+    ],
+    "power_display_names": [
+      "Vine Smash",
+      "Vine Thorns",
+      "Resistance",
+      "Immobile"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Vine",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Thorn_Tree_Immobile",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 24,
+      "max_level": 50,
+      "experience": 0,
+      "display_names": [
+        "Thorn Tree Vine"
+      ],
+      "costumes": [
+        "ThornTree_Vine"
+      ]
+    }
+  ]
+}

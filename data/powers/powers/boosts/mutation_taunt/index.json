@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Taunt",
+  "display_name": "Mutation Threat Duration",
+  "display_fullname": "Boosts.Mutation Taunt",
+  "display_help": "Increases the duration of taunted and placate efects on your target.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_TAUNT.POWERSETS",
+  "icon": "mutation_taunt_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Taunt.Mutation_Taunt"
+  ],
+  "power_display_names": [
+    "Evolution: Annoyance Factor (Taunt/Placate)"
+  ],
+  "power_short_helps": [
+    "Enhances Taunt and Placate Effectiveness"
+  ]
+}

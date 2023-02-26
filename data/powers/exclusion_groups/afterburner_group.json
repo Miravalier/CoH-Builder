@@ -1,0 +1,13 @@
+{
+  "group": "Afterburner_Group",
+  "powers": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Maneuvers",
+      "peacebringer_defensive.luminous_aura.quantum_acceleration"
+    ],
+    [
+      "Pool.Flight.Evasive Maneuvers",
+      "pool.flight.afterburner"
+    ]
+  ]
+}

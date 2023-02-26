@@ -1,0 +1,22 @@
+{
+  "name": "Sonic_Corruptor_High",
+  "display_name": "Sonic Corruptor High",
+  "display_fullname": "V GenericVillains.Sonic Corruptor High",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/SONIC_CORRUPTOR_HIGH.POWERSETS",
+  "icon": "sonic_corruptor_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Sonic_Corruptor_High.Dreadful_Wail"
+  ],
+  "power_display_names": [
+    "Dreadful Wail"
+  ],
+  "power_short_helps": [
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Disorient, Self -Recovery"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tag": "InterfaceResistance",
+  "bears": [
+    [
+      "Incarnate.Interface.Reactive Interface",
+      "incarnate.interface_silent.resistance_debuff"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Core Genesis",
+      "incarnate.genesis.socket_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Genesis",
+      "incarnate.genesis.socket_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Core Genesis",
+      "incarnate.genesis.socket_total_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Radial Genesis",
+      "incarnate.genesis.socket_total_radial_genesis"
+    ],
+    [
+      "Incarnate.Interface.Reactive Core Flawless Interface",
+      "incarnate.interface.reactive_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Core Interface",
+      "incarnate.interface.reactive_core_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Interface",
+      "incarnate.interface.reactive_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Partial Core Conversion",
+      "incarnate.interface.reactive_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Reactive Partial Radial Conversion",
+      "incarnate.interface.reactive_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Reactive Radial Flawless Interface",
+      "incarnate.interface.reactive_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Radial Interface",
+      "incarnate.interface.reactive_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Total Core Conversion",
+      "incarnate.interface.reactive_total_core_conversion"
+    ]
+  ]
+}

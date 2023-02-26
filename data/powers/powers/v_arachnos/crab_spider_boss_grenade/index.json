@@ -1,0 +1,22 @@
+{
+  "name": "Crab_Spider_Boss_Grenade",
+  "display_name": "Crab_Spider_Boss_Grenade",
+  "display_fullname": "V Arachnos.Crab Spider Boss Grenade",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/CRAB_SPIDER_BOSS_GRENADE.POWERSETS",
+  "icon": "crab_spider_boss_grenade_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Crab_Spider_Boss_Grenade.Wide_Area_Web_Grenade"
+  ],
+  "power_display_names": [
+    "Wide Area Web Grenade"
+  ],
+  "power_short_helps": [
+    "Immobilize, -Fly, -Recharge"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "General_Z",
+  "display_name": "General_Z",
+  "display_fullname": "Mission Pets.General Z",
+  "display_help": "General Z",
+  "display_short_help": "General Z",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/GENERAL_Z.POWERSETS",
+  "icon": "general_z_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.General_Z.Target_Pistol",
+    "Mission_Pets.General_Z.Brawl"
+  ],
+  "power_display_names": [
+    "Target Pistol",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -Recharge -Speed",
+    "Minor Smash DAM"
+  ]
+}

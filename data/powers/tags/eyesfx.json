@@ -1,0 +1,26 @@
+{
+  "tag": "EyesFX",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Conserve Energy",
+      "peacebringer_defensive.luminous_aura.conserve_energy"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Shield",
+      "peacebringer_defensive.luminous_aura.quantum_shield"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Reform Essence",
+      "peacebringer_defensive.luminous_aura.reform_essence"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Shining Shield",
+      "peacebringer_defensive.luminous_aura.shining_shield"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Thermal Shield",
+      "peacebringer_defensive.luminous_aura.thermal_shield"
+    ]
+  ],
+  "affects": []
+}

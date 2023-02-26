@@ -1,0 +1,54 @@
+{
+  "name": "Shock_Therapy",
+  "display_name": "Electrical Affinity",
+  "display_fullname": "V Arachnos Proxy.Electrical Affinity",
+  "display_help": "You are able to control and manipulate electricity to aid your allies and weaken your enemies. Some Electrical Affinity powers build Static, which increases the number of targets your Circuit powers can chain to.",
+  "display_short_help": "Electrical Affinity",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/SHOCK_THERAPY.POWERSETS",
+  "icon": "shock_therapy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Shock_Therapy.Shock",
+    "V_Arachnos_Proxy.Shock_Therapy.Rejuvenating_Circuit",
+    "V_Arachnos_Proxy.Shock_Therapy.Discharge",
+    "V_Arachnos_Proxy.Shock_Therapy.Energizing_Circuit",
+    "V_Arachnos_Proxy.Shock_Therapy.Faraday_Cage",
+    "V_Arachnos_Proxy.Shock_Therapy.Empowering_Circuit",
+    "V_Arachnos_Proxy.Shock_Therapy.Defibrillate",
+    "V_Arachnos_Proxy.Shock_Therapy.Insulating_Circuit",
+    "V_Arachnos_Proxy.Shock_Therapy.Amp_Up"
+  ],
+  "power_display_names": [
+    "Shock",
+    "Rejuvenating Circuit",
+    "Discharge",
+    "Energizing Circuit",
+    "Faraday Cage",
+    "Empowering Circuit",
+    "Defibrillate",
+    "Insulating Circuit",
+    "Amp Up"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -DMG, -End, -Recovery, -Regen",
+    "Ranged (Chain), Ally Heal, Self +Static",
+    "Ranged (Targeted AoE), Foe -DMG, -End, -Recovery, -Regen",
+    "Ranged (Chain), Ally +End, +Recharge, Self +Static",
+    "Location (PBAoE), Team +Res(All DMG but Toxic, Status, Knockback, -Rech, -Rec, -End)",
+    "Ranged (Chain), Ally +DMG, +Tohit, Self +Static",
+    "Melee (Targeted AoE), Ally Rez, Foe Sleep, -End, -Recovery",
+    "Ranged (Chain), Ally +Absorb, Self +Static",
+    "Ranged, Ally +Special, +Recharge"
+  ]
+}

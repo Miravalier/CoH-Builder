@@ -1,0 +1,546 @@
+{
+  "tag": "ToHit",
+  "bears": [
+    [
+      "Boosts.Attuned Adjusted Targeting A.To Hit Buff",
+      "boosts.attuned_adjusted_targeting_a.attuned_adjusted_targeting_a"
+    ],
+    [
+      "Boosts.Attuned Adjusted Targeting B.To Hit Buff/Rech",
+      "boosts.attuned_adjusted_targeting_b.attuned_adjusted_targeting_b"
+    ],
+    [
+      "Boosts.Attuned Adjusted Targeting C.To Hit Buff/Rech/End",
+      "boosts.attuned_adjusted_targeting_c.attuned_adjusted_targeting_c"
+    ],
+    [
+      "Boosts.Attuned Adjusted Targeting E.To Hit Buff/End",
+      "boosts.attuned_adjusted_targeting_e.attuned_adjusted_targeting_e"
+    ],
+    [
+      "Boosts.Attuned Cloud Senses A.To Hit Debuff",
+      "boosts.attuned_cloud_senses_a.attuned_cloud_senses_a"
+    ],
+    [
+      "Boosts.Attuned Cloud Senses B.Acc/To Hit Debuff",
+      "boosts.attuned_cloud_senses_b.attuned_cloud_senses_b"
+    ],
+    [
+      "Boosts.Attuned Cloud Senses D.To Hit Debuff/End/Rech",
+      "boosts.attuned_cloud_senses_d.attuned_cloud_senses_d"
+    ],
+    [
+      "Boosts.Attuned Dampened Spirits A.To Hit Debuff",
+      "boosts.attuned_dampened_spirits_a.attuned_dampened_spirits_a"
+    ],
+    [
+      "Boosts.Attuned Dampened Spirits B.To Hit Debuff/Rech",
+      "boosts.attuned_dampened_spirits_b.attuned_dampened_spirits_b"
+    ],
+    [
+      "Boosts.Attuned Dampened Spirits C.To Hit Debuff/Rech/End",
+      "boosts.attuned_dampened_spirits_c.attuned_dampened_spirits_c"
+    ],
+    [
+      "Boosts.Attuned Dampened Spirits E.To Hit Debuff/End",
+      "boosts.attuned_dampened_spirits_e.attuned_dampened_spirits_e"
+    ],
+    [
+      "Boosts.Attuned Dark Watchers Despair A.To Hit Debuff",
+      "boosts.attuned_dark_watchers_despair_a.attuned_dark_watchers_despair_a"
+    ],
+    [
+      "Boosts.Attuned Dark Watchers Despair B.To Hit Debuff/Rech",
+      "boosts.attuned_dark_watchers_despair_b.attuned_dark_watchers_despair_b"
+    ],
+    [
+      "Boosts.Attuned Dark Watchers Despair C.To Hit Debuff/Rech/End",
+      "boosts.attuned_dark_watchers_despair_c.attuned_dark_watchers_despair_c"
+    ],
+    [
+      "Boosts.Attuned Dark Watchers Despair E.To Hit Debuff/End",
+      "boosts.attuned_dark_watchers_despair_e.attuned_dark_watchers_despair_e"
+    ],
+    [
+      "Boosts.Attuned Deflated Ego A.To Hit Debuff",
+      "boosts.attuned_deflated_ego_a.attuned_deflated_ego_a"
+    ],
+    [
+      "Boosts.Attuned Deflated Ego B.To Hit Debuff/Rech",
+      "boosts.attuned_deflated_ego_b.attuned_deflated_ego_b"
+    ],
+    [
+      "Boosts.Attuned Discouraging Words A.To Hit Debuff",
+      "boosts.attuned_discouraging_words_a.attuned_discouraging_words_a"
+    ],
+    [
+      "Boosts.Attuned Discouraging Words B.To Hit Debuff/Rech",
+      "boosts.attuned_discouraging_words_b.attuned_discouraging_words_b"
+    ],
+    [
+      "Boosts.Attuned Discouraging Words C.To Hit Debuff/Rech/End",
+      "boosts.attuned_discouraging_words_c.attuned_discouraging_words_c"
+    ],
+    [
+      "Boosts.Attuned Encouraged Accuracy A.To Hit Buff",
+      "boosts.attuned_encouraged_accuracy_a.attuned_encouraged_accuracy_a"
+    ],
+    [
+      "Boosts.Attuned Encouraged Accuracy B.To Hit Buff/Rech",
+      "boosts.attuned_encouraged_accuracy_b.attuned_encouraged_accuracy_b"
+    ],
+    [
+      "Boosts.Attuned Encouraged Accuracy C.To Hit Buff/Rech/End",
+      "boosts.attuned_encouraged_accuracy_c.attuned_encouraged_accuracy_c"
+    ],
+    [
+      "Boosts.Attuned Gaussians Synchronized FireControl A.To Hit Buff",
+      "boosts.attuned_gaussians_synchronized_firecontrol_a.attuned_gaussians_synchronized_firecontrol_a"
+    ],
+    [
+      "Boosts.Attuned Gaussians Synchronized FireControl B.To Hit Buff/Rech",
+      "boosts.attuned_gaussians_synchronized_firecontrol_b.attuned_gaussians_synchronized_firecontrol_b"
+    ],
+    [
+      "Boosts.Attuned Gaussians Synchronized FireControl C.To Hit Buff/Rech/End",
+      "boosts.attuned_gaussians_synchronized_firecontrol_c.attuned_gaussians_synchronized_firecontrol_c"
+    ],
+    [
+      "Boosts.Attuned Gaussians Synchronized FireControl E.To Hit Buff/End",
+      "boosts.attuned_gaussians_synchronized_firecontrol_e.attuned_gaussians_synchronized_firecontrol_e"
+    ],
+    [
+      "Boosts.Attuned Kismet E.+ToHit",
+      "boosts.attuned_kismet_e.attuned_kismet_e"
+    ],
+    [
+      "Boosts.Attuned Rectified Reticle A.To Hit Buff",
+      "boosts.attuned_rectified_reticle_a.attuned_rectified_reticle_a"
+    ],
+    [
+      "Boosts.Attuned Rectified Reticle B.To Hit Buff/Rech",
+      "boosts.attuned_rectified_reticle_b.attuned_rectified_reticle_b"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight A.To Hit Debuff",
+      "boosts.attuned_siphon_insight_a.attuned_siphon_insight_a"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight B.Acc/To Hit Debuff",
+      "boosts.attuned_siphon_insight_b.attuned_siphon_insight_b"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight D.To Hit Debuff/End/Rech",
+      "boosts.attuned_siphon_insight_d.attuned_siphon_insight_d"
+    ],
+    [
+      "Boosts.Crafted Adjusted Targeting A.To Hit Buff",
+      "boosts.crafted_adjusted_targeting_a.crafted_adjusted_targeting_a"
+    ],
+    [
+      "Boosts.Crafted Adjusted Targeting B.To Hit Buff/Rech",
+      "boosts.crafted_adjusted_targeting_b.crafted_adjusted_targeting_b"
+    ],
+    [
+      "Boosts.Crafted Adjusted Targeting C.To Hit Buff/Rech/End",
+      "boosts.crafted_adjusted_targeting_c.crafted_adjusted_targeting_c"
+    ],
+    [
+      "Boosts.Crafted Adjusted Targeting E.To Hit Buff/End",
+      "boosts.crafted_adjusted_targeting_e.crafted_adjusted_targeting_e"
+    ],
+    [
+      "Boosts.Crafted Cloud Senses A.To Hit Debuff",
+      "boosts.crafted_cloud_senses_a.crafted_cloud_senses_a"
+    ],
+    [
+      "Boosts.Crafted Cloud Senses B.Acc/To Hit Debuff",
+      "boosts.crafted_cloud_senses_b.crafted_cloud_senses_b"
+    ],
+    [
+      "Boosts.Crafted Cloud Senses D.To Hit Debuff/End/Rech",
+      "boosts.crafted_cloud_senses_d.crafted_cloud_senses_d"
+    ],
+    [
+      "Boosts.Crafted Dampened Spirits A.To Hit Debuff",
+      "boosts.crafted_dampened_spirits_a.crafted_dampened_spirits_a"
+    ],
+    [
+      "Boosts.Crafted Dampened Spirits B.To Hit Debuff/Rech",
+      "boosts.crafted_dampened_spirits_b.crafted_dampened_spirits_b"
+    ],
+    [
+      "Boosts.Crafted Dampened Spirits C.To Hit Debuff/Rech/End",
+      "boosts.crafted_dampened_spirits_c.crafted_dampened_spirits_c"
+    ],
+    [
+      "Boosts.Crafted Dampened Spirits E.To Hit Debuff/End",
+      "boosts.crafted_dampened_spirits_e.crafted_dampened_spirits_e"
+    ],
+    [
+      "Boosts.Crafted Dark Watchers Despair A.To Hit Debuff",
+      "boosts.crafted_dark_watchers_despair_a.crafted_dark_watchers_despair_a"
+    ],
+    [
+      "Boosts.Crafted Dark Watchers Despair B.To Hit Debuff/Rech",
+      "boosts.crafted_dark_watchers_despair_b.crafted_dark_watchers_despair_b"
+    ],
+    [
+      "Boosts.Crafted Dark Watchers Despair C.To Hit Debuff/Rech/End",
+      "boosts.crafted_dark_watchers_despair_c.crafted_dark_watchers_despair_c"
+    ],
+    [
+      "Boosts.Crafted Dark Watchers Despair E.To Hit Debuff/End",
+      "boosts.crafted_dark_watchers_despair_e.crafted_dark_watchers_despair_e"
+    ],
+    [
+      "Boosts.Crafted Deflated Ego A.To Hit Debuff",
+      "boosts.crafted_deflated_ego_a.crafted_deflated_ego_a"
+    ],
+    [
+      "Boosts.Crafted Deflated Ego B.To Hit Debuff/Rech",
+      "boosts.crafted_deflated_ego_b.crafted_deflated_ego_b"
+    ],
+    [
+      "Boosts.Crafted Discouraging Words A.To Hit Debuff",
+      "boosts.crafted_discouraging_words_a.crafted_discouraging_words_a"
+    ],
+    [
+      "Boosts.Crafted Discouraging Words B.To Hit Debuff/Rech",
+      "boosts.crafted_discouraging_words_b.crafted_discouraging_words_b"
+    ],
+    [
+      "Boosts.Crafted Discouraging Words C.To Hit Debuff/Rech/End",
+      "boosts.crafted_discouraging_words_c.crafted_discouraging_words_c"
+    ],
+    [
+      "Boosts.Crafted Encouraged Accuracy A.To Hit Buff",
+      "boosts.crafted_encouraged_accuracy_a.crafted_encouraged_accuracy_a"
+    ],
+    [
+      "Boosts.Crafted Encouraged Accuracy B.To Hit Buff/Rech",
+      "boosts.crafted_encouraged_accuracy_b.crafted_encouraged_accuracy_b"
+    ],
+    [
+      "Boosts.Crafted Encouraged Accuracy C.To Hit Buff/Rech/End",
+      "boosts.crafted_encouraged_accuracy_c.crafted_encouraged_accuracy_c"
+    ],
+    [
+      "Boosts.Crafted Gaussians Synchronized FireControl A.To Hit Buff",
+      "boosts.crafted_gaussians_synchronized_firecontrol_a.crafted_gaussians_synchronized_firecontrol_a"
+    ],
+    [
+      "Boosts.Crafted Gaussians Synchronized FireControl B.To Hit Buff/Rech",
+      "boosts.crafted_gaussians_synchronized_firecontrol_b.crafted_gaussians_synchronized_firecontrol_b"
+    ],
+    [
+      "Boosts.Crafted Gaussians Synchronized FireControl C.To Hit Buff/Rech/End",
+      "boosts.crafted_gaussians_synchronized_firecontrol_c.crafted_gaussians_synchronized_firecontrol_c"
+    ],
+    [
+      "Boosts.Crafted Gaussians Synchronized FireControl E.To Hit Buff/End",
+      "boosts.crafted_gaussians_synchronized_firecontrol_e.crafted_gaussians_synchronized_firecontrol_e"
+    ],
+    [
+      "Boosts.Crafted Kismet E.+ToHit",
+      "boosts.crafted_kismet_e.crafted_kismet_e"
+    ],
+    [
+      "Boosts.Crafted Rectified Reticle A.To Hit Buff",
+      "boosts.crafted_rectified_reticle_a.crafted_rectified_reticle_a"
+    ],
+    [
+      "Boosts.Crafted Rectified Reticle B.To Hit Buff/Rech",
+      "boosts.crafted_rectified_reticle_b.crafted_rectified_reticle_b"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight A.To Hit Debuff",
+      "boosts.crafted_siphon_insight_a.crafted_siphon_insight_a"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight B.Acc/To Hit Debuff",
+      "boosts.crafted_siphon_insight_b.crafted_siphon_insight_b"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight D.To Hit Debuff/End/Rech",
+      "boosts.crafted_siphon_insight_d.crafted_siphon_insight_d"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 10.To Hit Buff",
+      "boosts.crafted_tohit_buff_10.crafted_tohit_buff_10"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 15.To Hit Buff",
+      "boosts.crafted_tohit_buff_15.crafted_tohit_buff_15"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 20.To Hit Buff",
+      "boosts.crafted_tohit_buff_20.crafted_tohit_buff_20"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 25.To Hit Buff",
+      "boosts.crafted_tohit_buff_25.crafted_tohit_buff_25"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 30.To Hit Buff",
+      "boosts.crafted_tohit_buff_30.crafted_tohit_buff_30"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 35.To Hit Buff",
+      "boosts.crafted_tohit_buff_35.crafted_tohit_buff_35"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 40.To Hit Buff",
+      "boosts.crafted_tohit_buff_40.crafted_tohit_buff_40"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 45.To Hit Buff",
+      "boosts.crafted_tohit_buff_45.crafted_tohit_buff_45"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff 50.To Hit Buff",
+      "boosts.crafted_tohit_buff_50.crafted_tohit_buff_50"
+    ],
+    [
+      "Boosts.Crafted ToHit Buff.To Hit Buff",
+      "boosts.crafted_tohit_buff.crafted_tohit_buff"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 10.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_10.crafted_tohit_debuff_10"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 15.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_15.crafted_tohit_debuff_15"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 20.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_20.crafted_tohit_debuff_20"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 25.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_25.crafted_tohit_debuff_25"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 30.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_30.crafted_tohit_debuff_30"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 35.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_35.crafted_tohit_debuff_35"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 40.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_40.crafted_tohit_debuff_40"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 45.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_45.crafted_tohit_debuff_45"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff 50.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff_50.crafted_tohit_debuff_50"
+    ],
+    [
+      "Boosts.Crafted ToHit DeBuff.To Hit DeBuff",
+      "boosts.crafted_tohit_debuff.crafted_tohit_debuff"
+    ],
+    [
+      "Boosts.DSync Buff Endurance Discount.D-Sync Elusivity (End/ToHit/Def)",
+      "boosts.dsync_buff_endurance_discount.dsync_buff_endurance_discount"
+    ],
+    [
+      "Boosts.DSync Buff Recharge.D-Sync Shifting (Rech/ToHit/Def)",
+      "boosts.dsync_buff_recharge.dsync_buff_recharge"
+    ],
+    [
+      "Boosts.DSync DeBuff Accuracy.D-Sync Obfuscation (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.dsync_debuff_accuracy.dsync_debuff_accuracy"
+    ],
+    [
+      "Boosts.DSync DeBuff Endurance Discount.D-Sync Marginalization (End/Def Debuff/ToHit Debuff)",
+      "boosts.dsync_debuff_endurance_discount.dsync_debuff_endurance_discount"
+    ],
+    [
+      "Boosts.Generic ToHit Buff.To Hit Buff",
+      "boosts.generic_tohit_buff.generic_tohit_buff"
+    ],
+    [
+      "Boosts.Generic ToHit DeBuff.Accuracy DeBuff",
+      "boosts.generic_tohit_debuff.generic_tohit_debuff"
+    ],
+    [
+      "Boosts.Hamidon Buff Endurance Discount.Cytoskeleton Exposure (End/ToHit/Def)",
+      "boosts.hamidon_buff_endurance_discount.hamidon_buff_endurance_discount"
+    ],
+    [
+      "Boosts.Hamidon Buff Recharge.Membrane Exposure (Rech/ToHit/Def)",
+      "boosts.hamidon_buff_recharge.hamidon_buff_recharge"
+    ],
+    [
+      "Boosts.Hamidon DeBuff Accuracy.Lysosome Exposure (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.hamidon_debuff_accuracy.hamidon_debuff_accuracy"
+    ],
+    [
+      "Boosts.Hamidon DeBuff Endurance Discount.Enzyme Exposure (End/Def Debuff/ToHit Debuff)",
+      "boosts.hamidon_debuff_endurance_discount.hamidon_debuff_endurance_discount"
+    ],
+    [
+      "Boosts.Hydra Buff Endurance Discount.Proton Exposure (End/ToHit/Def)",
+      "boosts.hydra_buff_endurance_discount.hydra_buff_endurance_discount"
+    ],
+    [
+      "Boosts.Hydra Buff Recharge.Quark Particle Exposure (Rech/ToHit/Def)",
+      "boosts.hydra_buff_recharge.hydra_buff_recharge"
+    ],
+    [
+      "Boosts.Hydra DeBuff Accuracy.Delta Particle Exposure (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.hydra_debuff_accuracy.hydra_debuff_accuracy"
+    ],
+    [
+      "Boosts.Hydra DeBuff Endurance Discount.Anti Proton Exposure (End/Def Debuff/ToHit Debuff)",
+      "boosts.hydra_debuff_endurance_discount.hydra_debuff_endurance_discount"
+    ],
+    [
+      "Boosts.Magic ToHit Buff.Aim of Joule (ToHit Buff)",
+      "boosts.magic_tohit_buff.magic_tohit_buff"
+    ],
+    [
+      "Boosts.Magic ToHit DeBuff.Neglect of Joule (ToHit DeBuff)",
+      "boosts.magic_tohit_debuff.magic_tohit_debuff"
+    ],
+    [
+      "Boosts.Mutation Magic ToHit Buff.Goggles (ToHit Buff)",
+      "boosts.mutation_magic_tohit_buff.mutation_magic_tohit_buff"
+    ],
+    [
+      "Boosts.Mutation Magic ToHit DeBuff.Necklace (ToHit DeBuff)",
+      "boosts.mutation_magic_tohit_debuff.mutation_magic_tohit_debuff"
+    ],
+    [
+      "Boosts.Mutation Science ToHit Buff.Genome Alteration Accuracy Boost (ToHit Buff)",
+      "boosts.mutation_science_tohit_buff.mutation_science_tohit_buff"
+    ],
+    [
+      "Boosts.Mutation Science ToHit DeBuff.Molecular Bonding Accuracy Drain (ToHit DeBuff)",
+      "boosts.mutation_science_tohit_debuff.mutation_science_tohit_debuff"
+    ],
+    [
+      "Boosts.Mutation ToHit Buff.Accuracy Extension (ToHit Buff)",
+      "boosts.mutation_tohit_buff.mutation_tohit_buff"
+    ],
+    [
+      "Boosts.Mutation ToHit DeBuff.Accuracy Degradation (ToHit DeBuff)",
+      "boosts.mutation_tohit_debuff.mutation_tohit_debuff"
+    ],
+    [
+      "Boosts.Natural Magic ToHit Buff.Nectanebo's Book (ToHit Buff)",
+      "boosts.natural_magic_tohit_buff.natural_magic_tohit_buff"
+    ],
+    [
+      "Boosts.Natural Magic ToHit DeBuff.Crowley's Coin (ToHit DeBuff)",
+      "boosts.natural_magic_tohit_debuff.natural_magic_tohit_debuff"
+    ],
+    [
+      "Boosts.Natural ToHit Buff.Military Targeting (ToHit Buff)",
+      "boosts.natural_tohit_buff.natural_tohit_buff"
+    ],
+    [
+      "Boosts.Natural ToHit DeBuff.Back Alley Blind Strike (ToHit DeBuff)",
+      "boosts.natural_tohit_debuff.natural_tohit_debuff"
+    ],
+    [
+      "Boosts.Science Technology ToHit Buff.Cardiac Compensator (ToHit Buff)",
+      "boosts.science_technology_tohit_buff.science_technology_tohit_buff"
+    ],
+    [
+      "Boosts.Science Technology ToHit DeBuff.Cardio Destabilizer (ToHit DeBuff)",
+      "boosts.science_technology_tohit_debuff.science_technology_tohit_debuff"
+    ],
+    [
+      "Boosts.Science ToHit Buff.Nitrogen Exposure (ToHit Buff)",
+      "boosts.science_tohit_buff.science_tohit_buff"
+    ],
+    [
+      "Boosts.Science ToHit DeBuff.Tellurium Bombardment (ToHit DeBuff)",
+      "boosts.science_tohit_debuff.science_tohit_debuff"
+    ],
+    [
+      "Boosts.Synthetic Hamidon Buff Endurance Discount.Synthetic Cytoskeleton Exposure (End/ToHit/Def)",
+      "boosts.synthetic_hamidon_buff_endurance_discount.synthetic_hamidon_buff_endurance_discount"
+    ],
+    [
+      "Boosts.Synthetic Hamidon Buff Recharge.Synthetic Membrane Exposure (Rech/ToHit/Def)",
+      "boosts.synthetic_hamidon_buff_recharge.synthetic_hamidon_buff_recharge"
+    ],
+    [
+      "Boosts.Synthetic Hamidon DeBuff Accuracy.Synthetic Lysosome Exposure (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.synthetic_hamidon_debuff_accuracy.synthetic_hamidon_debuff_accuracy"
+    ],
+    [
+      "Boosts.Synthetic Hamidon DeBuff Endurance Discount.Synthetic Enzyme Exposure (End/Def Debuff/ToHit Debuff)",
+      "boosts.synthetic_hamidon_debuff_endurance_discount.synthetic_hamidon_debuff_endurance_discount"
+    ],
+    [
+      "Boosts.Technology Natural ToHit Buff.Targeting Projector (ToHit Buff)",
+      "boosts.technology_natural_tohit_buff.technology_natural_tohit_buff"
+    ],
+    [
+      "Boosts.Technology Natural ToHit DeBuff.Blind Grenade (ToHit DeBuff)",
+      "boosts.technology_natural_tohit_debuff.technology_natural_tohit_debuff"
+    ],
+    [
+      "Boosts.Technology ToHit Buff.Portacio Ind Nanooptics (ToHit Buff)",
+      "boosts.technology_tohit_buff.technology_tohit_buff"
+    ],
+    [
+      "Boosts.Technology ToHit DeBuff.Portacio Ind Nanovirus (ToHit DeBuff)",
+      "boosts.technology_tohit_debuff.technology_tohit_debuff"
+    ],
+    [
+      "Boosts.Titan Buff Endurance Discount.Titan Tanzanite Shard (End/ToHit/Def)",
+      "boosts.titan_buff_endurance_discount.titan_buff_endurance_discount"
+    ],
+    [
+      "Boosts.Titan Buff Recharge.Titan Citrine Shard (Rech/ToHit/Def)",
+      "boosts.titan_buff_recharge.titan_buff_recharge"
+    ],
+    [
+      "Boosts.Titan DeBuff Accuracy.Titan Gypsum Shard (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.titan_debuff_accuracy.titan_debuff_accuracy"
+    ],
+    [
+      "Boosts.Titan DeBuff Endurance Discount.Titan Zeolite Shard (End/Def Debuff/ToHit Debuff)",
+      "boosts.titan_debuff_endurance_discount.titan_debuff_endurance_discount"
+    ],
+    [
+      "Boosts.Yins Omni.OmniHack",
+      "boosts.yins_omni.yins_omni"
+    ],
+    [
+      "Incarnate.Alpha Silent.ToHit Buff Half",
+      "incarnate.alpha_silent.tohit_buff_half"
+    ],
+    [
+      "Incarnate.Alpha Silent.ToHit Buff Rare",
+      "incarnate.alpha_silent.tohit_buff_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.ToHit Buff Uncommon",
+      "incarnate.alpha_silent.tohit_buff_uncommon"
+    ],
+    [
+      "Incarnate.Alpha Silent.ToHit Buff Very Rare",
+      "incarnate.alpha_silent.tohit_buff_very_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.ToHit DeBuff Rare",
+      "incarnate.alpha_silent.tohit_debuff_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.ToHit DeBuff Very Rare",
+      "incarnate.alpha_silent.tohit_debuff_very_rare"
+    ]
+  ],
+  "affects": []
+}

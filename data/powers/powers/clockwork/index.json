@@ -1,0 +1,48 @@
+{
+  "name": "Clockwork",
+  "display_name": "Clockwork",
+  "source_file": "DEFS/POWERS/CLOCKWORK.CATEGORIES",
+  "archetypes": [
+    "minion_grunt",
+    "minion_small"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "clockwork.babbage_defense_powers",
+    "clockwork.babbage_ranged_powers",
+    "clockwork.build_paladin_powers",
+    "clockwork.clockwork_boss_assembler_powers",
+    "clockwork.clockwork_king_defense_powers",
+    "clockwork.clockwork_king_melee_powers",
+    "clockwork.clockwork_king_ranged_powers",
+    "clockwork.clockwork_knight_duke_inherent",
+    "clockwork.clockwork_knight_duke_prince_cannon",
+    "clockwork.clockwork_knight_duke_prince_tesla",
+    "clockwork.clockwork_mini_powers",
+    "clockwork.clockwork_minion_powers",
+    "clockwork.clockwork_oscillator_movement_powers",
+    "clockwork.clockwork_prince_inherent_powers",
+    "clockwork.clockwork_summon_fx",
+    "clockwork.paladin_powers"
+  ],
+  "powerset_display_names": [
+    "Babbage_Defense_Powers",
+    "Babbage_Ranged_Powers",
+    "Build_Paladin_Powers",
+    "Clockwork_Boss_Assembler_Powers",
+    "Clockwork_King_Defense_Powers",
+    "Clockwork_King_Melee_Powers",
+    "Clockwork_King_Ranged_Powers",
+    "Clockwork_Knight_Duke_Inherent",
+    "Clockwork_Knight_Duke_Prince_Cannon",
+    "Clockwork_Knight_Duke_Prince_Tesla",
+    "Clockwork_Mini_Powers",
+    "Clockwork_Minion_Powers",
+    "Clockwork_Oscillator_Movement_Powers",
+    "Clockwork_Prince_Inherent_Powers",
+    "Clockwork_Summon_FX",
+    "Paladin_Powers"
+  ],
+  "powersets_with_requirements": []
+}

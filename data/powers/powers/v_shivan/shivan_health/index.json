@@ -1,0 +1,22 @@
+{
+  "name": "Shivan_Health",
+  "display_name": "Shivan Health",
+  "display_fullname": "V Shivan.Shivan Health",
+  "display_help": "Shivan",
+  "display_short_help": "Shivan",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SHIVAN/SHIVAN_HEALTH.POWERSETS",
+  "icon": "shivan_health_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Shivan.Shivan_Health.Shivan_Health"
+  ],
+  "power_display_names": [
+    "Shivan Health"
+  ],
+  "power_short_helps": [
+    "Script"
+  ]
+}

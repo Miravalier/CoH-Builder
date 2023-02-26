@@ -1,0 +1,548 @@
+{
+  "name": "Rope_A_Dope",
+  "display_name": "Rope A Dope",
+  "group_name": "Stuns",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Stun"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Rope_A_Dope_A.Crafted_Rope_A_Dope_A",
+      "Boosts.Attuned_Rope_A_Dope_A.Attuned_Rope_A_Dope_A"
+    ],
+    [
+      "Boosts.Crafted_Rope_A_Dope_B.Crafted_Rope_A_Dope_B",
+      "Boosts.Attuned_Rope_A_Dope_B.Attuned_Rope_A_Dope_B"
+    ],
+    [
+      "Boosts.Crafted_Rope_A_Dope_C.Crafted_Rope_A_Dope_C",
+      "Boosts.Attuned_Rope_A_Dope_C.Attuned_Rope_A_Dope_C"
+    ],
+    [
+      "Boosts.Crafted_Rope_A_Dope_D.Crafted_Rope_A_Dope_D",
+      "Boosts.Attuned_Rope_A_Dope_D.Attuned_Rope_A_Dope_D"
+    ],
+    [
+      "Boosts.Crafted_Rope_A_Dope_E.Crafted_Rope_A_Dope_E",
+      "Boosts.Attuned_Rope_A_Dope_E.Attuned_Rope_A_Dope_E"
+    ],
+    [
+      "Boosts.Crafted_Rope_A_Dope_F.Crafted_Rope_A_Dope_F",
+      "Boosts.Attuned_Rope_A_Dope_F.Attuned_Rope_A_Dope_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.stun_dur_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_psionic_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_2",
+          "Small Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_1",
+          "Tiny Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.stun_dur_3",
+          "Moderate Stun Duration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_3",
+          "Moderate Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_psionic_def_2",
+          "Small Increased Psionic Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png",
+      "e_icon_ropeadope.png"
+    ],
+    "boosts": [
+      [
+        "Rope A Dope: Accuracy/Recharge",
+        "Attuned Rope A Dope: Accuracy/Recharge"
+      ],
+      [
+        "Rope A Dope: Endurance/Stunned",
+        "Attuned Rope A Dope: Endurance/Stunned"
+      ],
+      [
+        "Rope A Dope: Accuracy/Endurance",
+        "Attuned Rope A Dope: Accuracy/Endurance"
+      ],
+      [
+        "Rope A Dope: Range/Stunned",
+        "Attuned Rope A Dope: Range/Stunned"
+      ],
+      [
+        "Rope A Dope: Accuracy/Recharge/Stunned",
+        "Attuned Rope A Dope: Accuracy/Recharge/Stunned"
+      ],
+      [
+        "Rope A Dope: Accuracy/Stunned",
+        "Attuned Rope A Dope: Accuracy/Stunned"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_rope_a_dope_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_rope_a_dope_a.attuned_rope_a_dope_a",
+          "Rope A Dope: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Rope A Dope: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "attuned_rope_a_dope_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Rope A Dope: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "crafted_rope_a_dope_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_rope_a_dope_b.attuned_rope_a_dope_b",
+          "Rope A Dope: Endurance/Stun"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Rope A Dope: Endurance/Stunned",
+        "aspects": [
+          "Endurance",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "attuned_rope_a_dope_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Rope A Dope: Endurance/Stunned",
+        "aspects": [
+          "Endurance",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "crafted_rope_a_dope_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_rope_a_dope_c.attuned_rope_a_dope_c",
+          "Rope A Dope: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Rope A Dope: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "attuned_rope_a_dope_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Rope A Dope: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "crafted_rope_a_dope_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_rope_a_dope_d.attuned_rope_a_dope_d",
+          "Rope A Dope: Stun/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Rope A Dope: Range/Stunned",
+        "aspects": [
+          "Range",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "attuned_rope_a_dope_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Rope A Dope: Range/Stunned",
+        "aspects": [
+          "Range",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "crafted_rope_a_dope_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_rope_a_dope_e.attuned_rope_a_dope_e",
+          "Rope A Dope: Accuracy/Stun/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Rope A Dope: Accuracy/Recharge/Stunned",
+        "aspects": [
+          "Accuracy",
+          "Recharge",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "attuned_rope_a_dope_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Rope A Dope: Accuracy/Recharge/Stunned",
+        "aspects": [
+          "Accuracy",
+          "Recharge",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "crafted_rope_a_dope_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_rope_a_dope_f.attuned_rope_a_dope_f",
+          "Rope A Dope: Accuracy/Stun"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Rope A Dope: Accuracy/Stunned",
+        "aspects": [
+          "Accuracy",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      },
+      "attuned_rope_a_dope_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Rope A Dope: Accuracy/Stunned",
+        "aspects": [
+          "Accuracy",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "rope_a_dope",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_ropeadope.png"
+      }
+    }
+  }
+}

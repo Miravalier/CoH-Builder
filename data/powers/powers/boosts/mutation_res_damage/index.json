@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Res_Damage",
+  "display_name": "Mutation Res Damage",
+  "display_fullname": "Boosts.Mutation Res Damage",
+  "display_help": "Enhances the damage resistance of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_RES_DAMAGE.POWERSETS",
+  "icon": "mutation_res_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Res_Damage.Mutation_Res_Damage"
+  ],
+  "power_display_names": [
+    "Catalyst: Improved Resistance (Resist Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage Resistance"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Robotics_Mastermind",
+  "display_name": "Robotics Mastermind",
+  "display_fullname": "V GenericVillains.Robotics Mastermind",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ROBOTICS_MASTERMIND.POWERSETS",
+  "icon": "robotics_mastermind_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Robotics_Mastermind.Pulse_Rifle_Blast",
+    "V_GenericVillains.Robotics_Mastermind.Pulse_Rifle_Burst",
+    "V_GenericVillains.Robotics_Mastermind.Photon_Grenade",
+    "V_GenericVillains.Robotics_Mastermind.Battle_Drones",
+    "V_GenericVillains.Robotics_Mastermind.Protector_Bots",
+    "V_GenericVillains.Robotics_Mastermind.Assault_Bot",
+    "V_GenericVillains.Robotics_Mastermind.Personal_Force_Field",
+    "V_GenericVillains.Robotics_Mastermind.Dispersion_Bubble",
+    "V_GenericVillains.Robotics_Mastermind.Repulsion_Bomb"
+  ],
+  "power_display_names": [
+    "Pulse Rifle Blast",
+    "Pulse Rifle Burst",
+    "Photon Grenade",
+    "Battle Drones",
+    "Protector Bots",
+    "Assault Bot",
+    "Personal Force Field",
+    "Dispersion Bubble",
+    "Repulsion Bomb"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy/Smash)",
+    "Ranged, High (Energy/Smash), Foe Knockback",
+    "Ranged (Targeted AoE), Moderate DMG(Energy/Smash), Disorient",
+    "Summon Battle Drones",
+    "Summon Protector Bot",
+    "Summon Assault Bot",
+    "Toggle: Self +Def, Res(All)",
+    "Toggle: PBAoE, Team +Res(Hold, Immobilize, Disorient) +DEF(All)",
+    "Ranged (Targeted AoE), Foe Knockback, Disorient"
+  ]
+}

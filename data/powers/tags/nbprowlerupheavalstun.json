@@ -1,0 +1,10 @@
+{
+  "tag": "NBProwlerUpheavalStun",
+  "bears": [],
+  "affects": [
+    [
+      "Feral Might.Feral Might.Nature's Boon",
+      "feral_might.feral_might.natures_boon"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Static_Field_Controller",
+  "display_name": "Static Field Controller",
+  "display_fullname": "Pets.Static Field Controller",
+  "display_help": "Electrical Blast",
+  "display_short_help": "Electrical Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/STATIC_FIELD_CONTROLLER.POWERSETS",
+  "icon": "static_field_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Static_Field_Controller.Static_Field"
+  ],
+  "power_display_names": [
+    "Static Field"
+  ],
+  "power_short_helps": [
+    "Static Field"
+  ]
+}

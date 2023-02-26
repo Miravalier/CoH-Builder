@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Defense_Buff",
+  "display_name": "Technology Natural Defense Buff",
+  "display_fullname": "Boosts.Technology Natural Defense Buff",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_DEFENSE_BUFF.POWERSETS",
+  "icon": "technology_natural_defense_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Defense_Buff.Technology_Natural_Defense_Buff"
+  ],
+  "power_display_names": [
+    "Defender Projector (Defense Buff)"
+  ],
+  "power_short_helps": [
+    "Enhances Defense Buffs"
+  ]
+}

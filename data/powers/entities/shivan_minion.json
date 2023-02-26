@@ -1,0 +1,81 @@
+{
+  "name": "Shivan_Minion",
+  "gender": "GENDER_MALE",
+  "group_name": "Shivan",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 15,
+    "max_level": 25,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": null,
+    "character_class_name": "minion_grunt",
+    "description": "These horrible things are an amalgamation of human corpses and some sort of weird sentient goo from beyond the stars. Some claim a mysterious interplanetary intelligence thought destroyed in the 1950s is the source of the Shivans, but if such a creature existed, 'Shiva', the Hindu name for the 'Destroyer of Worlds', was kept secret by the governments of earth.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Shivan.Shivan_Minion_Lt.Contaminated_Strike",
+      "V_Shivan.Shivan_Minion_Lt.Neutrino_Bolt",
+      "V_Shivan.Resistance.Resistance"
+    ],
+    "power_display_names": [
+      "Contaminated Strike",
+      "Neutrino Bolt",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Shivan",
+        "power_set": "Shivan_Minion_Lt",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Shivan",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 15,
+      "max_level": 25,
+      "experience": 0,
+      "display_names": [
+        "Shivan"
+      ],
+      "costumes": [
+        "V_Shivan"
+      ]
+    }
+  ]
+}

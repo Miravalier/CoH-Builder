@@ -1,0 +1,46 @@
+{
+  "name": "Woke_Eidola",
+  "display_name": "Woke_Eidola",
+  "display_fullname": "Freaklok.Woke Eidola",
+  "display_help": "Woke_Eidola",
+  "display_short_help": "Woke_Eidola",
+  "available_level": [
+    7,
+    25,
+    37,
+    3,
+    27,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/WOKE_EIDOLA.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Woke_Eidola.Mass_Hypnosis",
+    "Freaklok.Woke_Eidola.Terrify",
+    "Freaklok.Woke_Eidola.Psychic_Shockwave",
+    "Freaklok.Woke_Eidola.Telekinetic_Thrust",
+    "Freaklok.Woke_Eidola.Psionic_Sear",
+    "Freaklok.Woke_Eidola.Psi_Blade",
+    "Freaklok.Woke_Eidola.Greater_Psi_Blade"
+  ],
+  "power_display_names": [
+    "Mass Hypnosis",
+    "Terrify",
+    "Psychic Shockwave",
+    "Telekinetic Thrust",
+    "Psionic Sear",
+    "Psi Blade",
+    "Greater Psi Blade"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Foe Sleep",
+    "Ranged (Cone), Minor DMG(Psionic), Foe Fear(Special)",
+    "Close (AoE), High DMG(Psionic), Foe Disorient -Recharge",
+    "Melee, Minor DMG(Psionic/Smash), Foe Knockback",
+    "Ranged, Moderate DoT (Psionic), Heal Self, -Heal(Foe)",
+    "Melee, Moderate DMG(Psionic/Lethal), Foe -Rech, Self +Insight",
+    "Melee, Superior DMG(Psionic/Lethal), Foe -Rech, Hold; Self -Insight"
+  ]
+}

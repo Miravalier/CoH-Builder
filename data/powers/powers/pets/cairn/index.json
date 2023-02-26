@@ -1,0 +1,26 @@
+{
+  "name": "Cairn",
+  "display_name": "Cairn",
+  "display_fullname": "Pets.Cairn",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/CAIRN.POWERSETS",
+  "icon": "cairn_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Cairn.Cairn",
+    "Pets.Cairn.Resistance"
+  ],
+  "power_display_names": [
+    "Cairn",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Cairn",
+    "Resistance"
+  ]
+}

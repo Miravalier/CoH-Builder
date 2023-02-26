@@ -1,0 +1,120 @@
+{
+  "name": "Event_DADarkFiend_RedCapBoss1",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Fey"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 30,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Event_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "The depraved ugliness festering in the underbelly of humanity is called forth at The Banner of Fiends. These Dark Fiends are a physical manifestation of pure malice, seeking calculated cruelty and malevolence, just because they can.",
+    "group_description": "Dark Fiends",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.5,
+    "additional_rewards": [],
+    "power_full_names": [
+      "RedCaps.Boss_Resists.Resistance",
+      "RedCaps.RedCap_Melee3.Stab",
+      "RedCaps.RedCap_Melee3.Lunge",
+      "RedCaps.RedCap_Melee3.Jump_Stab",
+      "RedCaps.RedCap_Ranged_Medium.Aimed_Shot",
+      "RedCaps.RedCap_Ranged_Cone.Fistful_of_Arrows",
+      "RedCaps.RedCap_Ranged_Flame.Blazing_Arrow",
+      "RedCaps.RedCap_Gnome_Toss.Gnome_Toss"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Stab",
+      "Lunge",
+      "Jump Stab",
+      "Aimed Shot",
+      "Fistful of Arrows",
+      "Blazing Arrow",
+      "Gnome Toss"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "RedCaps",
+        "power_set": "Boss_Resists",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "RedCaps",
+        "power_set": "RedCap_Melee3",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "RedCaps",
+        "power_set": "RedCap_Ranged_Medium",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "RedCaps",
+        "power_set": "RedCap_Ranged_Cone",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "RedCaps",
+        "power_set": "RedCap_Ranged_Flame",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "RedCaps",
+        "power_set": "RedCap_Gnome_Toss",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 30,
+      "experience": 0,
+      "display_names": [
+        "Greater Fiend"
+      ],
+      "costumes": [
+        "Croatoa_Redcap_Boss_02"
+      ]
+    }
+  ]
+}

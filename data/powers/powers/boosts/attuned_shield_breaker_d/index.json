@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Shield_Breaker_D",
+  "display_name": "Attuned Shield Breaker D",
+  "display_fullname": "Boosts.Attuned Shield Breaker D",
+  "display_help": "Enhances the defense debuff potential of a power by {Boost.Attrib.Defense.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. NOTE: This enhancement can only be slotted into defense debuff powers that require a To Hit check.",
+  "display_short_help": "Set: Shield Breaker",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SHIELD_BREAKER_D.POWERSETS",
+  "icon": "attuned_shield_breaker_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Shield_Breaker_D.Attuned_Shield_Breaker_D"
+  ],
+  "power_display_names": [
+    "Shield Breaker: Defense Debuff/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+Defense Debuff, -End Cost, +Rech"
+  ]
+}

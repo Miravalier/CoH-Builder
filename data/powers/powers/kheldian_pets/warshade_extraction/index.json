@@ -1,0 +1,38 @@
+{
+  "name": "Warshade_Extraction",
+  "display_name": "Warshade Extraction",
+  "display_fullname": "Kheldian Pets.Warshade Extraction",
+  "display_help": "Warshade",
+  "display_short_help": "Warshade",
+  "available_level": [
+    0,
+    5,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KHELDIAN_PETS/WARSHADE_EXTRACTION.POWERSETS",
+  "icon": "warshade_extraction_set.png",
+  "requires": "",
+  "power_names": [
+    "Kheldian_Pets.Warshade_Extraction.Shadow_Bolt",
+    "Kheldian_Pets.Warshade_Extraction.Shadow_Blast",
+    "Kheldian_Pets.Warshade_Extraction.Gravitic_Emanation",
+    "Kheldian_Pets.Warshade_Extraction.Self_Destruct",
+    "Kheldian_Pets.Warshade_Extraction.Fly"
+  ],
+  "power_display_names": [
+    "Shadow Bolt",
+    "Shadow Blast",
+    "Gravitic Emanation",
+    "Self Destruct",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Negative), Foe -Recharge, -SPD",
+    "Ranged, Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD",
+    "Ranged (Cone), Moderate DMG(Negative), Foe -Recharge, -SPD",
+    "Self Destruct",
+    "Self Travel"
+  ]
+}

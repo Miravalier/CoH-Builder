@@ -1,0 +1,50 @@
+{
+  "name": "Cold_Demonling",
+  "display_name": "Cold Demonling",
+  "display_fullname": "Mission Maker Pets.Cold Demonling",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    31,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/COLD_DEMONLING.POWERSETS",
+  "icon": "cold_demonling_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Cold_Demonling.Resistance",
+    "Mission_Maker_Pets.Cold_Demonling.Ice_Bolt",
+    "Mission_Maker_Pets.Cold_Demonling.Claw_Rake",
+    "Mission_Maker_Pets.Cold_Demonling.Super_Leap",
+    "Mission_Maker_Pets.Cold_Demonling.Ice_Blast",
+    "Mission_Maker_Pets.Cold_Demonling.Enchant_Demon",
+    "Mission_Maker_Pets.Cold_Demonling.Frost_Breath",
+    "Mission_Maker_Pets.Cold_Demonling.Abyssal_Empowerment"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Ice Bolt",
+    "Claw Rake",
+    "Super Leap",
+    "Ice Blast",
+    "Enchant Demon",
+    "Frost Breath",
+    "Abyssal Empowerment"
+  ],
+  "power_short_helps": [
+    "Auto Res Placate, Disorient, Terrorize, Smashing, Lethal, Fire, Cold, Toxic",
+    "Ranged, Minor DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Melee, Moderate DMG(Lethal/Cold)",
+    "Self Leap",
+    "Ranged, Moderate DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Enchant Demon",
+    "Close (Cone), Moderate DoT(Cold), Foe -Recharge, -SPD",
+    "Abyssal Empowerment"
+  ]
+}

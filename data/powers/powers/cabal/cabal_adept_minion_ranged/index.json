@@ -1,0 +1,22 @@
+{
+  "name": "Cabal_Adept_Minion_Ranged",
+  "display_name": "Cabal_Adept_Minion_Ranged",
+  "display_fullname": "Cabal.Cabal Adept Minion Ranged",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_ADEPT_MINION_RANGED.POWERSETS",
+  "icon": "cabal_adept_minion_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Adept_Minion_Ranged.Charged_Bolts"
+  ],
+  "power_display_names": [
+    "Charged Bolts"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End"
+  ]
+}

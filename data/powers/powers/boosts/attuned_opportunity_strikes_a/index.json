@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Opportunity_Strikes_A",
+  "display_name": "Attuned Opportunity Strikes A",
+  "display_fullname": "Boosts.Attuned Opportunity Strikes A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Sentinels and may be slotted into any Sentinel damage power.",
+  "display_short_help": "Set: Opportunity Strikes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_OPPORTUNITY_STRIKES_A.POWERSETS",
+  "icon": "attuned_opportunity_strikes_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Opportunity_Strikes_A.Attuned_Opportunity_Strikes_A"
+  ],
+  "power_display_names": [
+    "Opportunity Strikes: Accuracy/Damage (Sentinel)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

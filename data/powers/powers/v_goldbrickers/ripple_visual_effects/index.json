@@ -1,0 +1,30 @@
+{
+  "name": "Ripple_Visual_Effects",
+  "display_name": "Ripple Visual Effects",
+  "display_fullname": "V GoldBrickers.Ripple Visual Effects",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/RIPPLE_VISUAL_EFFECTS.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Ripple_Visual_Effects.PCM_Power",
+    "V_GoldBrickers.Ripple_Visual_Effects.PCM_Drain",
+    "V_GoldBrickers.Ripple_Visual_Effects.PCM_Charge"
+  ],
+  "power_display_names": [
+    "PCM Power",
+    "PCM Drain",
+    "PCM Charge"
+  ],
+  "power_short_helps": [
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG but Psionics)",
+    "Absorb Power",
+    "Charge Dimensional Originator"
+  ]
+}

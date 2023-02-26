@@ -1,0 +1,22 @@
+{
+  "name": "Science_Jump",
+  "display_name": "Science Jump",
+  "display_fullname": "Boosts.Science Jump",
+  "display_help": "Increases the distance and height of a jump power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_JUMP.POWERSETS",
+  "icon": "science_jump_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Jump.Science_Jump"
+  ],
+  "power_display_names": [
+    "Butadiene Exposure (Jump)"
+  ],
+  "power_short_helps": [
+    "Enhances Jump"
+  ]
+}

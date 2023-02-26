@@ -1,0 +1,26 @@
+{
+  "name": "Battle_Orb_Mk3",
+  "display_name": "Battle_Orb_Mk_3",
+  "display_fullname": "NewPraetorians.Battle Orb Mk 3",
+  "display_help": "Battle Orb",
+  "display_short_help": "Battle Orb",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEWPRAETORIANS/BATTLE_ORB_MK3.POWERSETS",
+  "icon": "battle_orb_mk3_set.png",
+  "requires": "",
+  "power_names": [
+    "NewPraetorians.Battle_Orb_Mk3.Resuscitator",
+    "NewPraetorians.Battle_Orb_Mk3.Plasmatic_Stunner"
+  ],
+  "power_display_names": [
+    "Resuscitator",
+    "Plasmatic Stunner"
+  ],
+  "power_short_helps": [
+    "Resurrect (Ally)",
+    "Ranged, Minor DMG (Energy), Stun (Foe)"
+  ]
+}

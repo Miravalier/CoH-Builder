@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Lockdown_B",
+  "display_name": "Attuned Lockdown B",
+  "display_fullname": "Boosts.Attuned Lockdown B",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Lockdown",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_LOCKDOWN_B.POWERSETS",
+  "icon": "attuned_lockdown_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Lockdown_B.Attuned_Lockdown_B"
+  ],
+  "power_display_names": [
+    "Lockdown: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

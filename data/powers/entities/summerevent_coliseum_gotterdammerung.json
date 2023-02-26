@@ -1,0 +1,125 @@
+{
+  "name": "SummerEvent_Coliseum_Gotterdammerung",
+  "gender": "GENDER_MALE",
+  "group_name": "SummerEvent",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Electronic",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_archvillain",
+    "description": "In the year 2352, a mad scientist designed a powerful doomsday weapon known as the World-Breaker Engine and crafted four robot guardians to harness and channel the destructive energies it created. Gotterdammerung was one such guardian. Fueled by the World-Breaker Engine, Gotterdammerung's powers were near limitless, along with his brethren Apocalypse, Armageddon and Gehenna. So great was their might that they could not be destroyed but were instead cast through time and scattered across the ages. Three of the four have reunited and they bide their time in the Coliseum, waiting to be reunited with their lost brother and the Engine that will fuel the end of the world.",
+    "group_description": "Time Gladiator",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "SummerEvent.CyberwarriorsBoss.Fusion_Smash",
+      "SummerEvent.CyberwarriorsBoss.Fusion_Crush",
+      "SummerEvent.CyberwarriorsBoss.Fusion_Shatter",
+      "SummerEvent.CyberwarriorsBoss.Fusion_Bolt",
+      "SummerEvent.CyberwarriorsBoss.Fusion_Blast",
+      "SummerEvent.CyberwarriorsBoss.Fusion_Nova",
+      "SummerEvent.CyberwarriorsBoss.Fusion_Torrent",
+      "SummerEvent.CyberwarriorsBossSpecial.Earthshaker",
+      "SummerEvent.CyberwarriorsBossUtility.Grant_Force_Field",
+      "SummerEvent.CyberwarriorsPostDeath.Gotterdammerung",
+      "GenericVillains.AV_Resistance.AV_Resistance"
+    ],
+    "power_display_names": [
+      "Fusion Smash",
+      "Fusion Crush",
+      "Fusion Shatter",
+      "Fusion Bolt",
+      "Fusion Blast",
+      "Fusion Nova",
+      "Fusion Torrent",
+      "Earthshaker",
+      "Grant Force Field",
+      "Gotterdammerung",
+      "Archvillain's Might"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "SummerEvent",
+        "power_set": "CyberwarriorsBoss",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "CyberwarriorsBossSpecial",
+        "power": "Earthshaker",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "CyberwarriorsBossUtility",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "CyberwarriorsPostDeath",
+        "power": "Gotterdammerung",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "AV_Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Gotterdammerung"
+      ],
+      "costumes": [
+        "SummerEvent_Gotterdammerung"
+      ]
+    }
+  ]
+}

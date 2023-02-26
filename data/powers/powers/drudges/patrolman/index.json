@@ -1,0 +1,30 @@
+{
+  "name": "Patrolman",
+  "display_name": "Patrolman",
+  "display_fullname": "Drudges.Patrolman",
+  "display_help": "Drudges",
+  "display_short_help": "Drudges",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/PATROLMAN.POWERSETS",
+  "icon": "patrolman_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.Patrolman.Jawbreaker",
+    "Drudges.Patrolman.Clobber",
+    "Drudges.Patrolman.Crowd_Control"
+  ],
+  "power_display_names": [
+    "Soul Slam",
+    "Soul Smash",
+    "Soul Crush"
+  ],
+  "power_short_helps": [
+    "Melee, High DMG(Smashing), Moderate DoT (Negative Energy), Chance for Knockup",
+    "Melee, Moderate DMG(Smashing), -ToHit(Foe), -Recharge(Foe)",
+    "Ranged, High DMG(Energy), Moderate DoT (Negative Energy), Chance for Knockback"
+  ]
+}

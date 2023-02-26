@@ -1,0 +1,42 @@
+{
+  "name": "KronosTitan",
+  "display_name": "KronosTitan",
+  "display_fullname": "MindsOfMayhem.KronosTitan",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/KRONOSTITAN.POWERSETS",
+  "icon": "kronostitan_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.KronosTitan.Foot_Stomp",
+    "MindsOfMayhem.KronosTitan.Plasma_Blast",
+    "MindsOfMayhem.KronosTitan.Swarm_Missile",
+    "MindsOfMayhem.KronosTitan.Incendiary_Swarm_Missiles",
+    "MindsOfMayhem.KronosTitan.Gas_Swarm_Missiles",
+    "MindsOfMayhem.KronosTitan.Quad_Plasma_Blast"
+  ],
+  "power_display_names": [
+    "Foot Stomp",
+    "Plasma Blast",
+    "Swarm Missile",
+    "Incendiary Swarm Missiles",
+    "Gas Swarm Missiles",
+    "Quad Plasma Blast"
+  ],
+  "power_short_helps": [
+    "AoE Smash, Knockback",
+    "-Regeneration",
+    "Ranged AoE Lethal, +KB",
+    "Ranged AoE Lethal, +Burn",
+    "Ranged AoE Lethal, +Hold",
+    "-Regeneration"
+  ]
+}

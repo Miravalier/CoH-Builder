@@ -1,0 +1,26 @@
+{
+  "name": "Arachnos_Submachine_Gun",
+  "display_name": "Arachnos_Submachine_Gun",
+  "display_fullname": "Guns.Arachnos Submachine Gun",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/ARACHNOS_SUBMACHINE_GUN.POWERSETS",
+  "icon": "arachnos_submachine_gun_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Arachnos_Submachine_Gun.Arachnos_Submachine_Gun_Burst",
+    "Guns.Arachnos_Submachine_Gun.Arachnos_Submachine_Gun_Heavy_Burst"
+  ],
+  "power_display_names": [
+    "Arachnos Submachine Gun Burst",
+    "Arachnos Submachine Gun Heavy Burst"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "-Def"
+  ]
+}

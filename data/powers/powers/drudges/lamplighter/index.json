@@ -1,0 +1,38 @@
+{
+  "name": "Lamplighter",
+  "display_name": "Lamplighter",
+  "display_fullname": "Drudges.Lamplighter",
+  "display_help": "Drudges",
+  "display_short_help": "Drudges",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/LAMPLIGHTER.POWERSETS",
+  "icon": "lamplighter_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.Lamplighter.Imbue",
+    "Drudges.Lamplighter.Enlightenment",
+    "Drudges.Lamplighter.Lightstaff_Bolt",
+    "Drudges.Lamplighter.Haunt",
+    "Drudges.Lamplighter.Shadow_Field"
+  ],
+  "power_display_names": [
+    "Imbue",
+    "Enlightenment",
+    "Soul Staff Bolt",
+    "Haunt",
+    "Soul Field"
+  ],
+  "power_short_helps": [
+    "Ally Heal",
+    "Ranged (Targeted AoE), High DMG(Psionic), Hold(Foe)",
+    "Ranged, High DMG (Energy), High DoT (Negative Energy), -ToHit(Foe)",
+    "Ranged, Summon",
+    "Targeted AoE, Moderate DMG(Negative Energy), -ToHit (Foe), Chance for Hold (Foe)"
+  ]
+}

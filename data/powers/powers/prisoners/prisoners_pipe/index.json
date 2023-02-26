@@ -1,0 +1,22 @@
+{
+  "name": "Prisoners_Pipe",
+  "display_name": "Prisoners_Pipe",
+  "display_fullname": "Prisoners.Prisoners Pipe",
+  "display_help": "Prisoners",
+  "display_short_help": "Prisoners",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRISONERS/PRISONERS_PIPE.POWERSETS",
+  "icon": "prisoners_pipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Prisoners.Prisoners_Pipe.Pipe"
+  ],
+  "power_display_names": [
+    "Pipe"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam"
+  ]
+}

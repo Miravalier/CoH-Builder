@@ -1,0 +1,46 @@
+{
+  "name": "Ripple_Lt",
+  "display_name": "Ripple Lt",
+  "display_fullname": "V CapauDiableDemons.Ripple Lt",
+  "display_help": "Cap au Diable Demons",
+  "display_short_help": "Cap au Diable Demons",
+  "available_level": [
+    0,
+    0,
+    0,
+    44,
+    44,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CAPAUDIABLEDEMONS/RIPPLE_LT.POWERSETS",
+  "icon": "electrical_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "V_CapauDiableDemons.Ripple_Lt.Resistance",
+    "V_CapauDiableDemons.Ripple_Lt.Electric_Explosion",
+    "V_CapauDiableDemons.Ripple_Lt.Charged_Brawl",
+    "V_CapauDiableDemons.Ripple_Lt.Havoc_Punch",
+    "V_CapauDiableDemons.Ripple_Lt.Jacobs_Ladder",
+    "V_CapauDiableDemons.Ripple_Lt.Thunder_Strike",
+    "V_CapauDiableDemons.Ripple_Lt.Chain_Induction"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Electric Explosion",
+    "Charged Brawl Minus",
+    "Havoc Punch Minus",
+    "Jacobs Ladder Minus",
+    "Thunder Strike Minus",
+    "Chain Induction Minus"
+  ],
+  "power_short_helps": [
+    "Auto Res Fire, Cold, Negative",
+    "Suicide Special",
+    "Melee Smash/Cold/Negative",
+    "Melee, Moderate DMG(Smash/Cold/Negative), Foe Confuse, -End",
+    "Melee (Cone), High DMG(Cold/Negative), Foe Confuse, -End",
+    "Melee (AoE), High DMG(Smash, Cold, Negative), Foe Disorient, Knockback, -End",
+    "Melee, Moderate DMG(Smash/Cold/Negative), Foe -End +Special"
+  ]
+}

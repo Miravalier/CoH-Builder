@@ -1,0 +1,94 @@
+{
+  "name": "SpectralPirates_Lieutenant_Low",
+  "gender": "GENDER_MALE",
+  "group_name": "SpectralPirates",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Ghost",
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 5,
+    "max_level": 9,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "These ghosts look vaguely like ethereal French soldiers in their dress, but most of this is obscured by their transparent nature. Their faces are wide-eyed, while their mouths cycle constantly through a litany of screams and curses. Their hands and arms are pale red, stained with the life-force of the hundreds they've slain.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_SpectralPirates.Ghosts_Low.Resistance",
+      "V_SpectralPirates.Ghosts_Low.Ghastly_Blast",
+      "V_SpectralPirates.Ghosts_Lt_Boss_Low.Rapier_Stab",
+      "V_SpectralPirates.Ghosts_Lt_Boss_Low.Rapier_Parry",
+      "V_SpectralPirates.Ghosts_Lt_Boss_Low.Ethereal",
+      "V_SpectralPirates.Ghosts_Lt_Boss_Low.Fly"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Ghastly Blast",
+      "Rapier Stab",
+      "Rapier Parry",
+      "Ethereal",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_SpectralPirates",
+        "power_set": "Ghosts_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_SpectralPirates",
+        "power_set": "Ghosts_Lt_Boss_Low",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 5,
+      "max_level": 9,
+      "experience": 0,
+      "display_names": [
+        "Night Terror"
+      ],
+      "costumes": [
+        "Pirate_Lieutenant_01",
+        "Pirate_Lieutenant_02",
+        "Pirate_Lieutenant_03"
+      ]
+    }
+  ]
+}

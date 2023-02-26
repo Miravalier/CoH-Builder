@@ -1,0 +1,18 @@
+{
+  "tag": "HealSelf",
+  "bears": [
+    [
+      "Set Bonus.Set Bonus.Essence Transfer",
+      "set_bonus.set_bonus.essence_transfer"
+    ],
+    [
+      "Set Bonus.Set Bonus.Superior Essence Transfer",
+      "set_bonus.set_bonus.superior_essence_transfer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Defensive Adaptation",
+      "temporary_powers.temporary_powers.defensive_adaptation_proc"
+    ]
+  ],
+  "affects": []
+}

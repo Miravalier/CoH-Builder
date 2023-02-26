@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Wolfpack_Melee",
+  "display_name": "Fifth_Column_Wolfpack_Melee",
+  "display_fullname": "5thColumn.Fifth Column Wolfpack Melee",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_WOLFPACK_MELEE.POWERSETS",
+  "icon": "fifth_column_wolfpack_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Wolfpack_Melee.Pummel"
+  ],
+  "power_display_names": [
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Melee Heavy Smash"
+  ]
+}

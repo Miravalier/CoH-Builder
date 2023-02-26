@@ -1,0 +1,22 @@
+{
+  "name": "Repel_Field",
+  "display_name": "Repel Field",
+  "display_fullname": "Objects.Repel Field",
+  "display_help": "Volume",
+  "display_short_help": "Volume",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/REPEL_FIELD.POWERSETS",
+  "icon": "repel_field_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Repel_Field.Repel_Field"
+  ],
+  "power_display_names": [
+    "Repel Field"
+  ],
+  "power_short_helps": [
+    "Repel"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Advanced_Submachinegun",
+  "display_name": "Advanced_Submachinegun",
+  "display_fullname": "Guns.Advanced Submachinegun",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/ADVANCED_SUBMACHINEGUN.POWERSETS",
+  "icon": "advanced_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Advanced_Submachinegun.Advanced_Submachine_Gun_Burst",
+    "Guns.Advanced_Submachinegun.Advanced_Submachine_Gun_Single_Shot",
+    "Guns.Advanced_Submachinegun.Advanced_Submachine_Gun_Heavy_Burst"
+  ],
+  "power_display_names": [
+    "Advanced Submachine Gun Burst",
+    "Advanced Submachine Gun Single Shot",
+    "Advanced Submachine Gun Heavy Burst"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "Ranged Lethal, +KB",
+    "-Def"
+  ]
+}

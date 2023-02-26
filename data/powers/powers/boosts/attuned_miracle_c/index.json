@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Miracle_C",
+  "display_name": "Attuned Miracle C",
+  "display_fullname": "Boosts.Attuned Miracle C",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Miracle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MIRACLE_C.POWERSETS",
+  "icon": "attuned_miracle_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Miracle_C.Attuned_Miracle_C"
+  ],
+  "power_display_names": [
+    "Miracle: Healing/Absorb/Recharge"
+  ],
+  "power_short_helps": [
+    "+Heal, +Rech, +Absorb"
+  ]
+}

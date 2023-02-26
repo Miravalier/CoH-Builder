@@ -1,0 +1,15 @@
+{
+  "name": "Items_Of_Power",
+  "display_name": "Power",
+  "source_file": "DEFS/POWERS/ITEMS_OF_POWER.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "items_of_power.items_of_power"
+  ],
+  "powerset_display_names": [
+    "Items_Of_Power"
+  ],
+  "powersets_with_requirements": []
+}

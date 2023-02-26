@@ -1,0 +1,26 @@
+{
+  "name": "Sonic_Researcher",
+  "display_name": "Sonic_Researcher",
+  "display_fullname": "Mission Pets.Sonic Researcher",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/SONIC_RESEARCHER.POWERSETS",
+  "icon": "sonic_researcher_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.Sonic_Researcher.Heavy_Sonic_Blast",
+    "Mission_Pets.Sonic_Researcher.Sonic_Blast"
+  ],
+  "power_display_names": [
+    "Heavy Sonic Blast",
+    "Sonic Blast"
+  ],
+  "power_short_helps": [
+    "-RES(All but Psionics)",
+    "-RES(All but Psionics)"
+  ]
+}

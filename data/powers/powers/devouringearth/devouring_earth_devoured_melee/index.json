@@ -1,0 +1,22 @@
+{
+  "name": "Devouring_Earth_Devoured_Melee",
+  "display_name": "Devouring Earth Devoured Melee",
+  "display_fullname": "DevouringEarth.Devouring Earth Devoured Melee",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_DEVOURED_MELEE.POWERSETS",
+  "icon": "devouring_earth_devoured_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Devoured_Melee.Pummel"
+  ],
+  "power_display_names": [
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Melee Heavy Lethal"
+  ]
+}

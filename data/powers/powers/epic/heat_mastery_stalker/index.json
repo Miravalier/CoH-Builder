@@ -1,0 +1,38 @@
+{
+  "name": "Heat_Mastery_Stalker",
+  "display_name": "Heat Mastery",
+  "display_fullname": "Epic.Heat Mastery",
+  "display_help": "You have Mastery over Fire and Flame to control your foes and to add some much needed armor and defense.",
+  "display_short_help": "Heat Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/HEAT_MASTERY_STALKER.POWERSETS",
+  "icon": "heat_mastery_stalker_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Heat_Mastery_Stalker.Bonfire",
+    "Epic.Heat_Mastery_Stalker.Fire_Blast",
+    "Epic.Heat_Mastery_Stalker.Fire_Ball",
+    "Epic.Heat_Mastery_Stalker.Melt_Armor",
+    "Epic.Heat_Mastery_Stalker.Rise_of_the_Phoenix"
+  ],
+  "power_display_names": [
+    "Bonfire",
+    "Fire Blast",
+    "Fire Ball",
+    "Char",
+    "Rise of the Phoenix"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), Minor DMG(Fire), Foe Knockback",
+    "Ranged, Light DMG(Fire)",
+    "Ranged (Targeted AoE), Light DMG(Fire/Smash)",
+    "Ranged, Minor DoT(Fire), Foe Hold",
+    "Self Rez, Special"
+  ]
+}

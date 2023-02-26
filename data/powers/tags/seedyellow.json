@@ -1,0 +1,15 @@
+{
+  "tag": "SeedYellow",
+  "bears": [
+    [
+      "DevouringEarthSeed.Seed of Hamidon.Enervating Cloud",
+      "devouringearthseed.seed_of_hamidon.enervating_cloud"
+    ]
+  ],
+  "affects": [
+    [
+      "DevouringEarthSeed.Contaminating Burr.The Seed's Might",
+      "devouringearthseed.contaminating_burr.the_seeds_might"
+    ]
+  ]
+}

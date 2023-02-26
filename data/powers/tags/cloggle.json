@@ -1,0 +1,150 @@
+{
+  "tag": "Cloggle",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Assault Core Embodiment",
+      "incarnate.hybrid.assault_core_embodiment"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Core Genome",
+      "incarnate.hybrid.assault_core_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Genome",
+      "incarnate.hybrid.assault_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Partial Core Graft",
+      "incarnate.hybrid.assault_partial_core_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Partial Radial Graft",
+      "incarnate.hybrid.assault_partial_radial_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Radial Embodiment",
+      "incarnate.hybrid.assault_radial_embodiment"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Radial Genome",
+      "incarnate.hybrid.assault_radial_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Total Core Graft",
+      "incarnate.hybrid.assault_total_core_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Assault Total Radial Graft",
+      "incarnate.hybrid.assault_total_radial_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Control Core Embodiment",
+      "incarnate.hybrid.control_core_embodiment"
+    ],
+    [
+      "Incarnate.Hybrid.Control Core Genome",
+      "incarnate.hybrid.control_core_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Control Genome",
+      "incarnate.hybrid.control_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Control Partial Core Graft",
+      "incarnate.hybrid.control_partial_core_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Control Partial Radial Graft",
+      "incarnate.hybrid.control_partial_radial_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Control Radial Embodiment",
+      "incarnate.hybrid.control_radial_embodiment"
+    ],
+    [
+      "Incarnate.Hybrid.Control Radial Genome",
+      "incarnate.hybrid.control_radial_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Control Total Core Graft",
+      "incarnate.hybrid.control_total_core_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Control Total Radial Graft",
+      "incarnate.hybrid.control_total_radial_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Core Embodiment",
+      "incarnate.hybrid.melee_genome_8"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Core Genome",
+      "incarnate.hybrid.melee_genome_2"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Genome",
+      "incarnate.hybrid.melee_genome_1"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Partial Core Graft",
+      "incarnate.hybrid.melee_genome_5"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Partial Radial Graft",
+      "incarnate.hybrid.melee_genome_6"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Radial Embodiment",
+      "incarnate.hybrid.melee_genome_9"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Radial Genome",
+      "incarnate.hybrid.melee_genome_3"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Total Core Graft",
+      "incarnate.hybrid.melee_genome_4"
+    ],
+    [
+      "Incarnate.Hybrid.Melee Total Radial Graft",
+      "incarnate.hybrid.melee_genome_7"
+    ],
+    [
+      "Incarnate.Hybrid.Support Core Embodiment",
+      "incarnate.hybrid.support_genome_8"
+    ],
+    [
+      "Incarnate.Hybrid.Support Core Genome",
+      "incarnate.hybrid.support_genome_2"
+    ],
+    [
+      "Incarnate.Hybrid.Support Genome",
+      "incarnate.hybrid.support_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Support Partial Core Graft",
+      "incarnate.hybrid.support_genome_5"
+    ],
+    [
+      "Incarnate.Hybrid.Support Partial Radial Graft",
+      "incarnate.hybrid.support_genome_6"
+    ],
+    [
+      "Incarnate.Hybrid.Support Radial Embodiment",
+      "incarnate.hybrid.support_genome_9"
+    ],
+    [
+      "Incarnate.Hybrid.Support Radial Genome",
+      "incarnate.hybrid.support_genome_3"
+    ],
+    [
+      "Incarnate.Hybrid.Support Total Core Graft",
+      "incarnate.hybrid.support_genome_4"
+    ],
+    [
+      "Incarnate.Hybrid.Support Total Radial Graft",
+      "incarnate.hybrid.support_genome_7"
+    ]
+  ],
+  "affects": []
+}

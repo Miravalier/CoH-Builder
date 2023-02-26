@@ -1,0 +1,22 @@
+{
+  "name": "Family_Tommy_Gun",
+  "display_name": "Family Tommy Gun",
+  "display_fullname": "Family.Family Tommy Gun",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/FAMILY_TOMMY_GUN.POWERSETS",
+  "icon": "family_tommy_gun_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Family_Tommy_Gun.Burst"
+  ],
+  "power_display_names": [
+    "Burst"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

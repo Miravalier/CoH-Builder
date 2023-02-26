@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Revolver",
+  "display_name": "Trolls_Revolver",
+  "display_fullname": "Trolls.Trolls Revolver",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_REVOLVER.POWERSETS",
+  "icon": "trolls_revolver_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Revolver.Revolver"
+  ],
+  "power_display_names": [
+    "Revolver"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam"
+  ]
+}

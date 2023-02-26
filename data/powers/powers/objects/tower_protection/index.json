@@ -1,0 +1,22 @@
+{
+  "name": "Tower_Protection",
+  "display_name": "Tower_Protection",
+  "display_fullname": "Objects.Tower Protection",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/TOWER_PROTECTION.POWERSETS",
+  "icon": "tower_protection_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Tower_Protection.Tower_Protection"
+  ],
+  "power_display_names": [
+    "Tower Protection"
+  ],
+  "power_short_helps": [
+    "Protected"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Outcast_Minion_Knife",
+  "display_name": "Outcast_Minion_Knife",
+  "display_fullname": "Outcasts.Outcast Minion Knife",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_MINION_KNIFE.POWERSETS",
+  "icon": "outcast_minion_knife_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Minion_Knife.Knife"
+  ],
+  "power_display_names": [
+    "Knife"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Low Dam"
+  ]
+}

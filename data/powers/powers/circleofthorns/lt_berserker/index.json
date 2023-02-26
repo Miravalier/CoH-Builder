@@ -1,0 +1,34 @@
+{
+  "name": "Lt_Berserker",
+  "display_name": "Lt Berserker",
+  "display_fullname": "CircleOfThorns.Lt Berserker",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/LT_BERSERKER.POWERSETS",
+  "icon": "lt_berserker_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Lt_Berserker.Frost_Sword",
+    "CircleOfThorns.Lt_Berserker.Frost_Breath",
+    "CircleOfThorns.Lt_Berserker.Berserker_Rage",
+    "CircleOfThorns.Lt_Berserker.Frozen_Armor"
+  ],
+  "power_display_names": [
+    "Frost Sword",
+    "Frost Breath",
+    "Berserker Rage",
+    "Frozen Armor"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal/Cold)",
+    "DoT(Cold), -Recharge, -SPD",
+    "Self Rez, Special",
+    "Self, +Def(Smash, Lethal), +Res(Cold)"
+  ]
+}

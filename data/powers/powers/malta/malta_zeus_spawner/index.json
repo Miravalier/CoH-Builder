@@ -1,0 +1,26 @@
+{
+  "name": "Malta_Zeus_Spawner",
+  "display_name": "Malta_Zeus_Spawner",
+  "display_fullname": "Malta.Malta Zeus Spawner",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/MALTA_ZEUS_SPAWNER.POWERSETS",
+  "icon": "malta_zeus_spawner_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Malta_Zeus_Spawner.Spawn_Zeus",
+    "Malta.Malta_Zeus_Spawner.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Spawn Zeus",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Transform",
+    "Self Destruct"
+  ]
+}

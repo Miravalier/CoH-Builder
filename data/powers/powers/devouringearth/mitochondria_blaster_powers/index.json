@@ -1,0 +1,34 @@
+{
+  "name": "Mitochondria_Blaster_Powers",
+  "display_name": "Mitochondria Blaster Powers",
+  "display_fullname": "DevouringEarth.Mitochondria Blaster Powers",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/MITOCHONDRIA_BLASTER_POWERS.POWERSETS",
+  "icon": "mitochondria_blaster_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Mitochondria_Blaster_Powers.Cytoplasmic_Blast",
+    "DevouringEarth.Mitochondria_Blaster_Powers.Cytoplasmic_Burst",
+    "DevouringEarth.Mitochondria_Blaster_Powers.Fly",
+    "DevouringEarth.Mitochondria_Blaster_Powers.Resistance"
+  ],
+  "power_display_names": [
+    "Cytoplasmic Blast",
+    "Cytoplasmic Burst",
+    "Fly",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "DoT(Special)",
+    "DoT(Special)",
+    "Self Hover",
+    "Auto Res Knockback, Sleep, Disorient, Immobilize, Hold, Fear, Confuse, Teleport, Lethal"
+  ]
+}

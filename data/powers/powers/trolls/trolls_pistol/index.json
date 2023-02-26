@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Pistol",
+  "display_name": "Trolls_Pistol",
+  "display_fullname": "Trolls.Trolls Pistol",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_PISTOL.POWERSETS",
+  "icon": "trolls_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Pistol.Heavy_Revolver"
+  ],
+  "power_display_names": [
+    "Heavy Revolver"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam, Knockback"
+  ]
+}

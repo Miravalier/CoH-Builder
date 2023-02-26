@@ -1,0 +1,26 @@
+{
+  "name": "Lt_Fang",
+  "display_name": "Lt Fang",
+  "display_fullname": "V Wyvern.Lt Fang",
+  "display_help": "Wyvern",
+  "display_short_help": "Wyvern",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_WYVERN/LT_FANG.POWERSETS",
+  "icon": "lt_fang_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Wyvern.Lt_Fang.Talon_Fistful_of_Arrows",
+    "V_Wyvern.Lt_Fang.Talon_Snap_Shot"
+  ],
+  "power_display_names": [
+    "Talon Fistful of Arrows",
+    "Talon Snap Shot"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Moderate DMG(Lethal)",
+    "Ranged, Minor DMG(Lethal)"
+  ]
+}

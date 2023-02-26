@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Immobilize",
+  "display_name": "Generic Immobilize",
+  "display_fullname": "Boosts.Generic Immobilize",
+  "display_help": "Increases the duration of a immobilization power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_IMMOBILIZE.POWERSETS",
+  "icon": "generic_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Immobilize.Generic_Immobilize"
+  ],
+  "power_display_names": [
+    "Training: Immobilization Duration"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

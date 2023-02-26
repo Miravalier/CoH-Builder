@@ -1,0 +1,351 @@
+{
+  "name": "Sentinels_Ward",
+  "display_name": "Sentinel's Ward",
+  "group_name": "Sentinel Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Sentinel"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Sentinels_Ward_A.Attuned_Sentinels_Ward_A"
+    ],
+    [
+      "Boosts.Attuned_Sentinels_Ward_B.Attuned_Sentinels_Ward_B"
+    ],
+    [
+      "Boosts.Attuned_Sentinels_Ward_C.Attuned_Sentinels_Ward_C"
+    ],
+    [
+      "Boosts.Attuned_Sentinels_Ward_D.Attuned_Sentinels_Ward_D"
+    ],
+    [
+      "Boosts.Attuned_Sentinels_Ward_E.Attuned_Sentinels_Ward_E"
+    ],
+    [
+      "Boosts.Attuned_Sentinels_Ward_F.Attuned_Sentinels_Ward_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_range_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_range_5",
+          "Huge Increased Range"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_5",
+          "Huge Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_4",
+          "Large Increased Melee/Lethal/Smashing Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_6",
+          "Gargantuan Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_sentinelsward.png",
+      "e_icon_sentinelsward.png",
+      "e_icon_sentinelsward.png",
+      "e_icon_sentinelsward.png",
+      "e_icon_sentinelsward.png",
+      "e_icon_sentinelsward.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Sentinel's Ward: Accuracy/Damage"
+      ],
+      [
+        "Attuned Sentinel's Ward: Damage/Recharge"
+      ],
+      [
+        "Attuned Sentinel's Ward: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Sentinel's Ward: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Attuned Sentinel's Ward: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Sentinel's Ward: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_sentinels_ward_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_sentinels_ward_a.superior_attuned_superior_sentinels_ward_a",
+          "Superior Sentinel's Ward: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Sentinel's Ward: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "sentinels_ward",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_sentinelsward.png"
+      },
+      "attuned_sentinels_ward_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_sentinels_ward_b.superior_attuned_superior_sentinels_ward_b",
+          "Superior Sentinel's Ward: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Sentinel's Ward: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "sentinels_ward",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_sentinelsward.png"
+      },
+      "attuned_sentinels_ward_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_sentinels_ward_c.superior_attuned_superior_sentinels_ward_c",
+          "Superior Sentinel's Ward: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Sentinel's Ward: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "sentinels_ward",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_sentinelsward.png"
+      },
+      "attuned_sentinels_ward_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_sentinels_ward_d.superior_attuned_superior_sentinels_ward_d",
+          "Superior Sentinel's Ward: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Sentinel's Ward: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "sentinels_ward",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_sentinelsward.png"
+      },
+      "attuned_sentinels_ward_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_sentinels_ward_e.superior_attuned_superior_sentinels_ward_e",
+          "Superior Sentinel's Ward: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Sentinel's Ward: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "sentinels_ward",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_sentinelsward.png"
+      },
+      "attuned_sentinels_ward_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_sentinels_ward_f.superior_attuned_superior_sentinels_ward_f",
+          "Superior Sentinel's Ward: Recharge/Chance for Absorb"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Sentinel's Ward: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "sentinels_ward",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_sentinelsward.png"
+      }
+    }
+  }
+}

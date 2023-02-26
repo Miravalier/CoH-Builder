@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Unrelenting_Fury_A",
+  "display_name": "Attuned Unrelenting Fury A",
+  "display_fullname": "Boosts.Attuned Unrelenting Fury A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Brutes and may be slotted into any Brute damage power.",
+  "display_short_help": "Set: Unrelenting Fury",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNRELENTING_FURY_A.POWERSETS",
+  "icon": "attuned_unrelenting_fury_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Unrelenting_Fury_A.Attuned_Unrelenting_Fury_A"
+  ],
+  "power_display_names": [
+    "Unrelenting Fury: Accuracy/Damage (Brute)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

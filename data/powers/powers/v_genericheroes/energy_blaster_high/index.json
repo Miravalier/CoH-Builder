@@ -1,0 +1,26 @@
+{
+  "name": "Energy_Blaster_High",
+  "display_name": "Energy Blaster High",
+  "display_fullname": "V GenericHeroes.Energy Blaster High",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ENERGY_BLASTER_HIGH.POWERSETS",
+  "icon": "energy_blaster_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Energy_Blaster_High.Energy_Torrent",
+    "V_GenericHeroes.Energy_Blaster_High.Power_Burst"
+  ],
+  "power_display_names": [
+    "Energy Torrent",
+    "Power Burst"
+  ],
+  "power_short_helps": [
+    "Cone Energy/Smash, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback"
+  ]
+}

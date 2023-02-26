@@ -1,0 +1,34 @@
+{
+  "name": "SS_Brute",
+  "display_name": "SS Brute",
+  "display_fullname": "V GenericVillains.SS Brute",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/SS_BRUTE.POWERSETS",
+  "icon": "ss_brute_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.SS_Brute.Jab",
+    "V_GenericVillains.SS_Brute.Punch",
+    "V_GenericVillains.SS_Brute.Hurl",
+    "V_GenericVillains.SS_Brute.Temp_Invulnerability"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Hurl",
+    "Temp Invulnerability"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "Toggle: Self +Res(Smash, Lethal)"
+  ]
+}

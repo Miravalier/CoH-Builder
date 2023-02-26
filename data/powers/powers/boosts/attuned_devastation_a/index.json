@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Devastation_A",
+  "display_name": "Attuned Devastation A",
+  "display_fullname": "Boosts.Attuned Devastation A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Devastation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEVASTATION_A.POWERSETS",
+  "icon": "attuned_devastation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Devastation_A.Attuned_Devastation_A"
+  ],
+  "power_display_names": [
+    "Devastation: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

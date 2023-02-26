@@ -1,0 +1,65 @@
+{
+  "group": "Hide_Group",
+  "powers": [
+    [
+      "Stalker Defense.Bio Armor.Hide",
+      "stalker_defense.bio_organic_armor.hide"
+    ],
+    [
+      "Stalker Defense.Dark Armor.Hide",
+      "stalker_defense.dark_armor.hide"
+    ],
+    [
+      "Stalker Defense.Electric Armor.Hide",
+      "stalker_defense.electric_armor.hide"
+    ],
+    [
+      "Stalker Defense.Energy Aura.Hide",
+      "stalker_defense.energy_aura.hide"
+    ],
+    [
+      "Stalker Defense.Fiery Aura.Hide",
+      "stalker_defense.fiery_aura.hide"
+    ],
+    [
+      "Stalker Defense.Ice Armor.Hide",
+      "stalker_defense.ice_armor.hide"
+    ],
+    [
+      "Stalker Defense.Invulnerability.Hide",
+      "stalker_defense.invulnerability.hide"
+    ],
+    [
+      "Stalker Defense.Ninjitsu.Hide",
+      "stalker_defense.ninjitsu.hide"
+    ],
+    [
+      "Stalker Defense.Radiation Armor.Hide",
+      "stalker_defense.radiation_armor.hide"
+    ],
+    [
+      "Stalker Defense.Regeneration.Hide",
+      "stalker_defense.regeneration.hide"
+    ],
+    [
+      "Stalker Defense.Shield Defense.Hide",
+      "stalker_defense.shield_defense.hide"
+    ],
+    [
+      "Stalker Defense.Stone Armor.Hide",
+      "stalker_defense.stone_armor.hide"
+    ],
+    [
+      "Stalker Defense.Super Reflexes.Hide",
+      "stalker_defense.super_reflexes.hide"
+    ],
+    [
+      "Stalker Defense.Willpower.Hide",
+      "stalker_defense.willpower.hide"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Hacker's Stealth",
+      "temporary_powers.temporary_powers.summer_event_stealth"
+    ]
+  ]
+}

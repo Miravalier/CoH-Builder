@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Entomb_E",
+  "display_name": "Attuned Entomb E",
+  "display_fullname": "Boosts.Attuned Entomb E",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, reduces recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and hold duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Entomb",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ENTOMB_E.POWERSETS",
+  "icon": "attuned_entomb_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Entomb_E.Attuned_Entomb_E"
+  ],
+  "power_display_names": [
+    "Entomb: Accuracy/Hold Duration/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Hold Duration, Recharge and Reduces Endurance Cost"
+  ]
+}

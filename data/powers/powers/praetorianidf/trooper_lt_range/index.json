@@ -1,0 +1,22 @@
+{
+  "name": "Trooper_LT_Range",
+  "display_name": "Trooper LT Range",
+  "display_fullname": "PraetorianIDF.Trooper LT Range",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/TROOPER_LT_RANGE.POWERSETS",
+  "icon": "trooper_lt_range_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Trooper_LT_Range.Plasma_Burst"
+  ],
+  "power_display_names": [
+    "Plasma Burst"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Energy), Foe Knockdown"
+  ]
+}

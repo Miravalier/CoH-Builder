@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Might_of_the_Tanker_B",
+  "display_name": "Superior Attuned Superior Might of the Tanker B",
+  "display_fullname": "Boosts.Superior Attuned Might of the Tanker B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Tankers and may be slotted into any Tanker damage power.",
+  "display_short_help": "Set: Superior Might of the Tanker",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_MIGHT_OF_THE_TANKER_B.POWERSETS",
+  "icon": "superior_attuned_superior_might_of_the_tanker_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_B.Superior_Attuned_Superior_Might_of_the_Tanker_B"
+  ],
+  "power_display_names": [
+    "Superior Might of the Tanker: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

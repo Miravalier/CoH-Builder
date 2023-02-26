@@ -1,0 +1,26 @@
+{
+  "name": "Zenith_Mech",
+  "display_name": "Zenith_Mech",
+  "display_fullname": "Council.Zenith Mech",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ZENITH_MECH.POWERSETS",
+  "icon": "zenith_mech_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Zenith_Mech.Cybernetic_Blade",
+    "Council.Zenith_Mech.Blast"
+  ],
+  "power_display_names": [
+    "Cybernetic Blade",
+    "Blast"
+  ],
+  "power_short_helps": [
+    "Melee Lethal",
+    "Ranged Energy/Smash, Knockback"
+  ]
+}

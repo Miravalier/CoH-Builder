@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Minion_Agent_Sniper",
+  "display_name": "Crey_Minion_Agent_Sniper",
+  "display_fullname": "Crey.Crey Minion Agent Sniper",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_AGENT_SNIPER.POWERSETS",
+  "icon": "crey_minion_agent_sniper_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Agent_Sniper.Sniper_Rifle"
+  ],
+  "power_display_names": [
+    "Sniper Rifle"
+  ],
+  "power_short_helps": [
+    "Sniper Lethal, Knockback"
+  ]
+}

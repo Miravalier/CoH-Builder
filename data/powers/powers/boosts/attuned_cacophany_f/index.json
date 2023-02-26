@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cacophany_F",
+  "display_name": "Attuned Cacophony F",
+  "display_fullname": "Boosts.Attuned Cacophany F",
+  "display_help": "Provides a chance to cause minor energy damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Cacophony",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CACOPHANY_F.POWERSETS",
+  "icon": "attuned_cacophany_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cacophany_F.Attuned_Cacophany_F"
+  ],
+  "power_display_names": [
+    "Cacophony: Chance for Energy Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Energy DMG"
+  ]
+}

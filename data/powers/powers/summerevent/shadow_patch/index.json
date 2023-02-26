@@ -1,0 +1,22 @@
+{
+  "name": "Shadow_Patch",
+  "display_name": "Shadow Patch",
+  "display_fullname": "SummerEvent.Shadow Patch",
+  "display_help": "Shadow Patch",
+  "display_short_help": "Shadow Patch",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/SHADOW_PATCH.POWERSETS",
+  "icon": "shadow_patch_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.Shadow_Patch.Shadow_Patch"
+  ],
+  "power_display_names": [
+    "Shadow Patch"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, -RES(Foe, All), -Speed(Foe, All), -Fly(Foe), -Jump(Foe)"
+  ]
+}

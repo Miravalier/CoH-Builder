@@ -1,0 +1,22 @@
+{
+  "name": "Science_Technology_ToHit_Buff",
+  "display_name": "Science Technology ToHit Buff",
+  "display_fullname": "Boosts.Science Technology ToHit Buff",
+  "display_help": "Enhances the effectiveness of accuracy buffs.",
+  "display_short_help": "Invention (Science, Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_TECHNOLOGY_TOHIT_BUFF.POWERSETS",
+  "icon": "science_technology_tohit_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Technology_ToHit_Buff.Science_Technology_ToHit_Buff"
+  ],
+  "power_display_names": [
+    "Cardiac Compensator (ToHit Buff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit Buffs"
+  ]
+}

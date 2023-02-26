@@ -1,0 +1,22 @@
+{
+  "name": "Twilight",
+  "display_name": "Twilight",
+  "display_fullname": "Pets.Twilight",
+  "display_help": "Dark Miasma",
+  "display_short_help": "Dark Miasma",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TWILIGHT.POWERSETS",
+  "icon": "twilight_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Twilight.Twilight"
+  ],
+  "power_display_names": [
+    "Twilight"
+  ],
+  "power_short_helps": [
+    "Twilight"
+  ]
+}

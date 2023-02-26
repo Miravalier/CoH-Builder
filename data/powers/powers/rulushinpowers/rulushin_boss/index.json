@@ -1,0 +1,42 @@
+{
+  "name": "RuluShin_Boss",
+  "display_name": "",
+  "display_fullname": "RuluShinPowers.RuluShin Boss",
+  "display_help": "Midnight Masters Attacks",
+  "display_short_help": "Midnight Masters Attacks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    15
+  ],
+  "source_file": "DEFS/POWERS/RULUSHINPOWERS/RULUSHIN_BOSS.POWERSETS",
+  "icon": "rulushin_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "RuluShinPowers.RuluShin_Boss.Summon_Naterling",
+    "RuluShinPowers.RuluShin_Boss.Power_of_the_Faithful",
+    "RuluShinPowers.RuluShin_Boss.Beheader",
+    "RuluShinPowers.RuluShin_Boss.Chop",
+    "RuluShinPowers.RuluShin_Boss.Gash",
+    "RuluShinPowers.RuluShin_Boss.Telekinetic_Blast"
+  ],
+  "power_display_names": [
+    "Summon Natterling",
+    "Power of the Faithful",
+    "Beheader",
+    "Chop",
+    "Gash",
+    "Telekinetic Blast"
+  ],
+  "power_short_helps": [
+    "Animate Acolytes",
+    "PBAoE Minor DMG(Negative), Self +HP",
+    "Melee, Moderate DMG(Lethal), Foe Knockdown",
+    "Melee, High DMG(Lethal), Foe Knockdown",
+    "Melee, Superior DMG(Lethal), Foe Knockdown",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback"
+  ]
+}

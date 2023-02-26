@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Cone",
+  "display_name": "Magic Range",
+  "display_fullname": "Boosts.Magic Cone",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_CONE.POWERSETS",
+  "icon": "magic_cone_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Cone.Magic_Cone"
+  ],
+  "power_display_names": [
+    "Extension of Joule (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

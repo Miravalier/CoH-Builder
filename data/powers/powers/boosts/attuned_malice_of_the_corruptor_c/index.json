@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Malice_of_the_Corruptor_C",
+  "display_name": "Attuned Malice of the Corruptor C",
+  "display_fullname": "Boosts.Attuned Malice of the Corruptor C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}% . This enhancement can only be slotted by Corruptors and may be slotted into any Corruptor damage power.",
+  "display_short_help": "Set: Malice of the Corruptor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MALICE_OF_THE_CORRUPTOR_C.POWERSETS",
+  "icon": "attuned_malice_of_the_corruptor_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Malice_of_the_Corruptor_C.Attuned_Malice_of_the_Corruptor_C"
+  ],
+  "power_display_names": [
+    "Malice of the Corruptor: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Damage and Increases Attack Rate"
+  ]
+}

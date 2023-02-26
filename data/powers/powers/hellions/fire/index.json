@@ -1,0 +1,26 @@
+{
+  "name": "Fire",
+  "display_name": "Fire",
+  "display_fullname": "Hellions.Fire",
+  "display_help": "Hellions",
+  "display_short_help": "Hellions",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HELLIONS/FIRE.POWERSETS",
+  "icon": "fire_set.png",
+  "requires": "",
+  "power_names": [
+    "Hellions.Fire.Resistance",
+    "Hellions.Fire.Fire"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fire"
+  ],
+  "power_short_helps": [
+    "Auto Res Fire",
+    "DoT(Fire)"
+  ]
+}

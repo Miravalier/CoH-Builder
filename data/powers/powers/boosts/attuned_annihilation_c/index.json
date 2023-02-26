@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Annihilation_C",
+  "display_name": "Attuned Annihilation C",
+  "display_fullname": "Boosts.Attuned Annihilation C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Annihilation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ANNIHILATION_C.POWERSETS",
+  "icon": "attuned_annihilation_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Annihilation_C.Attuned_Annihilation_C"
+  ],
+  "power_display_names": [
+    "Annihilation: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Damage and Recharge"
+  ]
+}

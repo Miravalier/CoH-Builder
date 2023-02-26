@@ -1,0 +1,34 @@
+{
+  "name": "Pumpkin_King",
+  "display_name": "Pumpkin King",
+  "display_fullname": "FirBolg.Pumpkin King",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FIRBOLG/PUMPKIN_KING.POWERSETS",
+  "icon": "pumpkin_king_set.png",
+  "requires": "",
+  "power_names": [
+    "FirBolg.Pumpkin_King.Pumpkin",
+    "FirBolg.Pumpkin_King.Pumpkin_Bomb",
+    "FirBolg.Pumpkin_King.Fire_Stomp",
+    "FirBolg.Pumpkin_King.Cinders"
+  ],
+  "power_display_names": [
+    "Pumpkin",
+    "Pumpkin Bomb",
+    "Fire Stomp",
+    "Cinders"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "PBAoE, Foe Hold"
+  ]
+}

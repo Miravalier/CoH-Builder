@@ -1,0 +1,22 @@
+{
+  "name": "Ground_Smash",
+  "display_name": "Ground_Smash",
+  "display_fullname": "RedCaps.Ground Smash",
+  "display_help": "Earth Control",
+  "display_short_help": "Earth Control",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/GROUND_SMASH.POWERSETS",
+  "icon": "ground_smash_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.Ground_Smash.Ground_Smash"
+  ],
+  "power_display_names": [
+    "Ground Smash"
+  ],
+  "power_short_helps": [
+    "Melee AoE DMG (Smash), -Def"
+  ]
+}

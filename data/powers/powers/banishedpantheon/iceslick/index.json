@@ -1,0 +1,22 @@
+{
+  "name": "IceSlick",
+  "display_name": "Ice Slick",
+  "display_fullname": "BanishedPantheon.Ice Slick",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/ICESLICK.POWERSETS",
+  "icon": "iceslick_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.IceSlick.IceSlick"
+  ],
+  "power_display_names": [
+    "IceSlick"
+  ],
+  "power_short_helps": [
+    "Knockback, -Speed"
+  ]
+}

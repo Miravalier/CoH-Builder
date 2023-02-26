@@ -1,0 +1,50 @@
+{
+  "name": "P_Seers",
+  "display_name": "Seers",
+  "source_file": "DEFS/POWERS/P_SEERS.CATEGORIES",
+  "archetypes": [
+    "lt_grunt",
+    "minion_small"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "p_seers.augur_powers",
+    "p_seers.augur_powers_endgame",
+    "p_seers.augur_powers_nopets",
+    "p_seers.beholder_powers",
+    "p_seers.diviner_powers",
+    "p_seers.diviner_powers_endgame",
+    "p_seers.mindshadow_powers",
+    "p_seers.reflections_effects",
+    "p_seers.scanner_powers",
+    "p_seers.scryer_powers",
+    "p_seers.seeker_powers",
+    "p_seers.seer_boss_resistance",
+    "p_seers.seer_lieutenant_resistance",
+    "p_seers.seer_minion_resistance",
+    "p_seers.tracker_powers",
+    "p_seers.viewer_powers",
+    "p_seers.visionary_powers"
+  ],
+  "powerset_display_names": [
+    "Augur Powers",
+    "Augur Powers",
+    "Augur Powers",
+    "Beholder Powers",
+    "Diviner Powers",
+    "Diviner Powers",
+    "Mindshadow Powers",
+    "Reflections Effects",
+    "Scanner Powers",
+    "Scryer Powers",
+    "Seeker Powers",
+    "Seer Boss Resistance",
+    "Seer Lieutenant Resistance",
+    "Seer Minion Resistance",
+    "Tracker Powers",
+    "Viewer Powers",
+    "Visionary Powers"
+  ],
+  "powersets_with_requirements": []
+}

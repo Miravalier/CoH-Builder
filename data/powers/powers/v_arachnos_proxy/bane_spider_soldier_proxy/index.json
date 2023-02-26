@@ -1,0 +1,58 @@
+{
+  "name": "Bane_Spider_Soldier_Proxy",
+  "display_name": "Bane Spider Soldier Proxy",
+  "display_fullname": "V Arachnos Proxy.Bane Spider Soldier Proxy",
+  "display_help": "Bane Spiders are the commandos of the Arachnos organization, providing excellent stealth and offensive capabilities.",
+  "display_short_help": "Bane Spider Soldier Proxy",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    11,
+    17,
+    25,
+    31
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/BANE_SPIDER_SOLDIER_PROXY.POWERSETS",
+  "icon": "bane_spider_soldier_proxy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.BS_Bash",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Mace_Beam",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Mace_Beam_Blast",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Build_Up",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Mace_Beam_Volley",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Pulverize",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Poisonous_Ray",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Shatter",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Placate",
+    "V_Arachnos_Proxy.Bane_Spider_Soldier_Proxy.Crowd_Control"
+  ],
+  "power_display_names": [
+    "Bash",
+    "Mace Beam",
+    "Mace Beam Blast",
+    "Build Up",
+    "Mace Beam Volley",
+    "Pulverize",
+    "Poisonous Ray",
+    "Shatter",
+    "Placate",
+    "Crowd Control"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash), Minor DoT(Toxic), Foe Disorient",
+    "Ranged, Moderate DMG(Energy), Foe Knockback",
+    "Ranged (Targeted AoE), Light DMG(Energy), Foe Knockback",
+    "Self +DMG, +To Hit",
+    "Ranged Cone, Moderate DMG(Energy), Foe Knockback",
+    "Melee, High DMG(Smash), Minor DoT(Toxic), Foe Disorient",
+    "Ranged, Moderate DoT(Toxic), -DEF",
+    "Melee, Extreme DMG(Smash), Minor DoT(Toxic), High Knockback",
+    "Melee, Foe Placate, Self Stealth/Hide",
+    "Melee (Cone), High DMG(Smash), Minor DoT(Toxic), Foe Knockback"
+  ]
+}

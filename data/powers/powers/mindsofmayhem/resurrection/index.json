@@ -1,0 +1,26 @@
+{
+  "name": "Resurrection",
+  "display_name": "Resurrection",
+  "display_fullname": "MindsOfMayhem.Resurrection",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/RESURRECTION.POWERSETS",
+  "icon": "resurrection_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Resurrection.Resurrection",
+    "MindsOfMayhem.Resurrection.Resurrection_Simple"
+  ],
+  "power_display_names": [
+    "Desdemona's Blessing",
+    "Desdemona's Blessing"
+  ],
+  "power_short_helps": [
+    "Resurrect",
+    "Resurrect"
+  ]
+}

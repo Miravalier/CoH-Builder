@@ -1,0 +1,46 @@
+{
+  "name": "Trooper_Boss_Missile",
+  "display_name": "Trooper Boss Missile",
+  "display_fullname": "PraetorianIDF.Trooper Boss Missile",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0,
+    0,
+    39,
+    0,
+    0,
+    35
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/TROOPER_BOSS_MISSILE.POWERSETS",
+  "icon": "trooper_boss_missile_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Trooper_Boss_Missile.Missile_Volley",
+    "PraetorianIDF.Trooper_Boss_Missile.Missile_Barrage",
+    "PraetorianIDF.Trooper_Boss_Missile.Nerve_Gas_Rockets",
+    "PraetorianIDF.Trooper_Boss_Missile.EMP_Rockets",
+    "PraetorianIDF.Trooper_Boss_Missile.Plasma_Strafe",
+    "PraetorianIDF.Trooper_Boss_Missile.Focused_Burst",
+    "PraetorianIDF.Trooper_Boss_Missile.All_Out_Assault"
+  ],
+  "power_display_names": [
+    "Missile Volley",
+    "Missile Barrage",
+    "Nerve Gas Rockets",
+    "EMP Rockets",
+    "Plasma Strafe",
+    "Focused Burst",
+    "All Out Assault"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Lethal/Fire), Foe Minor DoT(Toxic), Knockdown",
+    "Ranged (Targeted AoE), High DMG(Lethal/Fire), Foe Minor DoT(Toxic), Knockdown",
+    "Ranged (Targeted AoE), Minor DMG(Lethal/Fire), Foe Hold, Moderate DoT(Toxic)",
+    "Ranged (Targeted AoE), Light DMG(Lethal/Fire), Foe -Regen, -Recovery, -Endurance",
+    "Ranged Cone, Moderate DMG(Energy/Fire), DoT(Energy), Foe -Regen",
+    "Ranged, High DMG(Energy/Fire), DoT(Energy), Foe -Regen, Knockback",
+    "PBAoE, High DMG(Energy/Fire), DoT(Energy), Foe -Regen, Knockback - and/or - High DMG(Lethal/Fire), DoT(Toxic), Knockdown"
+  ]
+}

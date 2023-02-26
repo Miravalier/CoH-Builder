@@ -1,0 +1,22 @@
+{
+  "name": "Torment_Monument",
+  "display_name": "Torment Monument",
+  "display_fullname": "Rularuu.Torment Monument",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/TORMENT_MONUMENT.POWERSETS",
+  "icon": "torment_monument_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Torment_Monument.Torment"
+  ],
+  "power_display_names": [
+    "Torment"
+  ],
+  "power_short_helps": [
+    "+Regeneration, -Recharge"
+  ]
+}

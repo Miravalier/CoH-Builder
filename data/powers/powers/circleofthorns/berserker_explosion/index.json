@@ -1,0 +1,30 @@
+{
+  "name": "Berserker_Explosion",
+  "display_name": "Berserker Explosion",
+  "display_fullname": "CircleOfThorns.Berserker Explosion",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/BERSERKER_EXPLOSION.POWERSETS",
+  "icon": "berserker_explosion_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Berserker_Explosion.Berserker_Explosion",
+    "CircleOfThorns.Berserker_Explosion.Death_Effect",
+    "CircleOfThorns.Berserker_Explosion.Damage_Buff"
+  ],
+  "power_display_names": [
+    "Berserker Explosion",
+    "Death Effect",
+    "Damage Buff"
+  ],
+  "power_short_helps": [
+    "Suicide Special",
+    "Suicide Special",
+    "Damage Buff"
+  ]
+}

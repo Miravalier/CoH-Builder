@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Shotgun",
+  "display_name": "Trolls_Shotgun",
+  "display_fullname": "Trolls.Trolls Shotgun",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_SHOTGUN.POWERSETS",
+  "icon": "trolls_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

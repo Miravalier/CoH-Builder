@@ -1,0 +1,53 @@
+{
+  "name": "Carnival",
+  "display_name": "Carnival",
+  "source_file": "DEFS/POWERS/CARNIVAL.CATEGORIES",
+  "archetypes": [
+    "lt_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "carnival.carnival_attendant",
+    "carnival.carnival_attendant_lt",
+    "carnival.carnival_bronze_strongman",
+    "carnival.carnival_dark_ring_mistress",
+    "carnival.carnival_giovanna",
+    "carnival.carnival_harlequin_inherent",
+    "carnival.carnival_illusionist",
+    "carnival.carnival_illusionist_boss",
+    "carnival.carnival_illusionist_decoy",
+    "carnival.carnival_inherent_defense",
+    "carnival.carnival_iron_strongman",
+    "carnival.carnival_madeleine_resistance",
+    "carnival.carnival_ring_harlequin",
+    "carnival.carnival_ring_mistress_inherent",
+    "carnival.carnival_steel_strongman",
+    "carnival.carnival_strongman_inherent",
+    "carnival.carnival_sword_harlequin",
+    "carnival.carnival_vanessa",
+    "carnival.cov_carnival_inherent_defense"
+  ],
+  "powerset_display_names": [
+    "Carnival_Attendant",
+    "Carnival_Attendant_Lt",
+    "Carnival_Bronze_Strongman",
+    "Carnival_Dark_Ring_Mistress",
+    "Carnival_Giovanna",
+    "Carnival_Harlequin_Inherent",
+    "Carnival_Illusionist",
+    "Carnival_Illusionist_Boss",
+    "Carnival_Illusionist_Decoy",
+    "Carnival_Inherent_Defense",
+    "Carnival_Iron_Strongman",
+    "Carnival_Madeleine_Resistance",
+    "Carnival_Ring_Harlequin",
+    "Carnival_Ring_Mistress_Inherent",
+    "Carnival_Steel_Strongman",
+    "Carnival_Strongman_Inherent",
+    "Carnival_Sword_Harlequin",
+    "Carnival_Vanessa",
+    "CoV_Carnival_Inherent_Defense"
+  ],
+  "powersets_with_requirements": []
+}

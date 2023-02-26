@@ -1,0 +1,84 @@
+{
+  "name": "DevouringEarth_Hamidon_Mission",
+  "gender": "GENDER_MALE",
+  "group_name": "DevouringEarth",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 45,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "DevouringEarth_Hamidon",
+    "character_class_name": "boss_elite",
+    "description": "Hamidon is the nucleus of a giant single celled organism, spawned from some twisted primordial soup. It has but one instinct, to devour the Earth and all that infests it.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "DevouringEarth.Weakened_Hamidon_Powers.Resistance",
+      "DevouringEarth.Weakened_Hamidon_Powers.Drain",
+      "DevouringEarth.Weakened_Hamidon_Powers.Protoplasm",
+      "DevouringEarth.Weakened_Hamidon_Powers.Electrolytic_Blast",
+      "DevouringEarth.Weakened_Hamidon_Powers.Cell_Death",
+      "DevouringEarth.Weakened_Hamidon_Powers.Electrolytic_Beam"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Drain",
+      "Protoplasm",
+      "Electrolytic Blast",
+      "Cell Death",
+      "Electrolytic Beam"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "DevouringEarth",
+        "power_set": "Weakened_Hamidon_Powers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 45,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Weakened Hamidon"
+      ],
+      "costumes": [
+        "Hamidon"
+      ]
+    }
+  ]
+}

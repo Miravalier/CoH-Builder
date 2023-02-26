@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Gift_of_the_Ancients_B",
+  "display_name": "Attuned Gift of the Ancients B",
+  "display_fullname": "Boosts.Attuned Gift of the Ancients B",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Gift of the Ancients",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_GIFT_OF_THE_ANCIENTS_B.POWERSETS",
+  "icon": "attuned_gift_of_the_ancients_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Gift_of_the_Ancients_B.Attuned_Gift_of_the_Ancients_B"
+  ],
+  "power_display_names": [
+    "Gift of the Ancients: Defense/Recharge"
+  ],
+  "power_short_helps": [
+    "+DEF (all), +Rech"
+  ]
+}

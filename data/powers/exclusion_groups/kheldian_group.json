@@ -1,0 +1,21 @@
+{
+  "group": "Kheldian_Group",
+  "powers": [
+    [
+      "Peacebringer Defensive.Luminous Aura.White Dwarf",
+      "peacebringer_defensive.luminous_aura.white_dwarf"
+    ],
+    [
+      "Peacebringer Offensive.Luminous Blast.Bright Nova",
+      "peacebringer_offensive.luminous_blast.bright_nova"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Black Dwarf",
+      "warshade_defensive.umbral_aura.black_dwarf"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Dark Nova",
+      "warshade_offensive.umbral_blast.dark_nova"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Commando",
+  "display_name": "Mercenary Commando",
+  "display_fullname": "Mastermind Pets.Mercenary Commando",
+  "display_help": "Mercenaries",
+  "display_short_help": "Mercenaries",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/COMMANDO.POWERSETS",
+  "icon": "commando_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Commando.Brawl",
+    "Mastermind_Pets.Commando.Burst",
+    "Mastermind_Pets.Commando.Slug",
+    "Mastermind_Pets.Commando.Super_Leap"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Burst",
+    "Slug",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Melee, DMG(Smash)",
+    "Ranged, Foe -DEF",
+    "Ranged, DMG(Lethal), Foe Knockback",
+    "Self Leap"
+  ]
+}

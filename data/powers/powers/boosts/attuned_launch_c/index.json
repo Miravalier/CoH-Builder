@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Launch_C",
+  "display_name": "Attuned Launch C",
+  "display_fullname": "Boosts.Attuned Launch C",
+  "display_help": "Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Launch",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_LAUNCH_C.POWERSETS",
+  "icon": "e_icon_launch.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Launch_C.Attuned_Launch_C"
+  ],
+  "power_display_names": [
+    "Launch: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Toxic_Tarantula",
+  "display_name": "Toxic_Tarantula",
+  "display_fullname": "V Arachnos.Toxic Tarantula",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/TOXIC_TARANTULA.POWERSETS",
+  "icon": "toxic_tarantula_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Toxic_Tarantula.Venom_Burst",
+    "V_Arachnos.Toxic_Tarantula.Web_Spitter",
+    "V_Arachnos.Toxic_Tarantula.Cocoon",
+    "V_Arachnos.Toxic_Tarantula.Toxic_Claws",
+    "V_Arachnos.Toxic_Tarantula.Claw_Pierce",
+    "V_Arachnos.Toxic_Tarantula.Armored_Exoskeleton"
+  ],
+  "power_display_names": [
+    "Venom Burst",
+    "Web Spitter",
+    "Cocoon",
+    "Toxic Claws",
+    "Claw Pierce",
+    "Armored Exoskeleton"
+  ],
+  "power_short_helps": [
+    "Moderate Energy DMG, DoT(Toxic)",
+    "Immobilize, -Fly, -Recharge",
+    "Hold",
+    "Moderate Lethal DMG, DoT(Toxic)",
+    "DoT(Toxic)",
+    "Resistance"
+  ]
+}

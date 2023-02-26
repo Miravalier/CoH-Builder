@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Sovereign_Right_A",
+  "display_name": "Attuned Sovereign Right A",
+  "display_fullname": "Boosts.Attuned Sovereign Right A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Sovereign Right",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SOVEREIGN_RIGHT_A.POWERSETS",
+  "icon": "attuned_sovereign_right_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Sovereign_Right_A.Attuned_Sovereign_Right_A"
+  ],
+  "power_display_names": [
+    "Sovereign Right: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

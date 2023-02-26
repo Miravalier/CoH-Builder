@@ -1,0 +1,26 @@
+{
+  "name": "FailSafe",
+  "display_name": "",
+  "display_fullname": "5thColumn.FailSafe",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FAILSAFE.POWERSETS",
+  "icon": "failsafe_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.FailSafe.Fail_Safe",
+    "5thColumn.FailSafe.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Fail Safe",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Self Destruct"
+  ]
+}

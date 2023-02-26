@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Razzle_Dazzle_D",
+  "display_name": "Crafted Razzle Dazzle D",
+  "display_fullname": "Boosts.Crafted Razzle Dazzle D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and stun duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Razzle Dazzle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RAZZLE_DAZZLE_D.POWERSETS",
+  "icon": "crafted_razzle_dazzle_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Razzle_Dazzle_D.Crafted_Razzle_Dazzle_D"
+  ],
+  "power_display_names": [
+    "Razzle Dazzle: Stun/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Stun"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Proximity_Mine",
+  "display_name": "Proximity Mine",
+  "display_fullname": "Incarnate AlphaStrike.Proximity Mine",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/PROXIMITY_MINE.POWERSETS",
+  "icon": "proximity_mine_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Proximity_Mine.Proximity_Mine",
+    "Incarnate_AlphaStrike.Proximity_Mine.Self_Destruct_Timer",
+    "Incarnate_AlphaStrike.Proximity_Mine.Self_Destruct",
+    "Incarnate_AlphaStrike.Proximity_Mine.Resistance"
+  ],
+  "power_display_names": [
+    "Proximity Mine",
+    "Self Destruct Timer",
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "AoE Lethal/Fire, Knockback",
+    "Self Destruct",
+    "Self Destruct",
+    "Resistance"
+  ]
+}

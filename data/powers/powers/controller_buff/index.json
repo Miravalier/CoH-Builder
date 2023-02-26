@@ -1,0 +1,47 @@
+{
+  "name": "Controller_Buff",
+  "display_name": "Buff",
+  "source_file": "DEFS/POWERS/CONTROLLER_BUFF.CATEGORIES",
+  "archetypes": [
+    "controller"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "controller_buff.cold_domination",
+    "controller_buff.darkness_affinity",
+    "controller_buff.empathy",
+    "controller_buff.force_field",
+    "controller_buff.kinetics",
+    "controller_buff.nature_affinity",
+    "controller_buff.pain_domination",
+    "controller_buff.poison",
+    "controller_buff.radiation_emission",
+    "controller_buff.shock_therapy",
+    "controller_buff.sonic_debuff",
+    "controller_buff.storm_summoning",
+    "controller_buff.thermal_radiation",
+    "controller_buff.time_manipulation",
+    "controller_buff.traps",
+    "controller_buff.trick_arrow"
+  ],
+  "powerset_display_names": [
+    "Cold Domination",
+    "Darkness Affinity",
+    "Empathy",
+    "Force Field",
+    "Kinetics",
+    "Nature Affinity",
+    "Pain Domination",
+    "Poison",
+    "Radiation Emission",
+    "Electrical Affinity",
+    "Sonic Resonance",
+    "Storm Summoning",
+    "Thermal Radiation",
+    "Time Manipulation",
+    "Traps",
+    "Trick Arrow"
+  ],
+  "powersets_with_requirements": []
+}

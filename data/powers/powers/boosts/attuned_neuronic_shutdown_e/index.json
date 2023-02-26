@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Neuronic_Shutdown_E",
+  "display_name": "Attuned Neuronic Shutdown E",
+  "display_fullname": "Boosts.Attuned Neuronic Shutdown E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, the hold duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Neuronic Shutdown",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NEURONIC_SHUTDOWN_E.POWERSETS",
+  "icon": "attuned_neuronic_shutdown_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Neuronic_Shutdown_E.Attuned_Neuronic_Shutdown_E"
+  ],
+  "power_display_names": [
+    "Neuronic Shutdown: Accuracy/Hold/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Hold"
+  ]
+}

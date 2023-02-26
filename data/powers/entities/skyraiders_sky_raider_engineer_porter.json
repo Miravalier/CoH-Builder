@@ -1,0 +1,100 @@
+{
+  "name": "SkyRaiders_Sky_Raider_Engineer_Porter",
+  "gender": "GENDER_MALE",
+  "group_name": "SkyRaiders",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 44,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "SkyRaiders_Engineer",
+    "character_class_name": "minion_grunt",
+    "description": "Sky Raider Engineers can deploy a hovering force field generator to protect nearby troops. They are typically armed with submachine guns, flamethrowers, or other weapons suitable for fighting in confined spaces.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "SkyRaiders.Sky_Raider_Minion_Melee.Brawl",
+      "SkyRaiders.Sky_Raider_Minion_Melee.Machete",
+      "SkyRaiders.Sky_Raider_SubmachineGun.Adv_Sub_Machine_Gun",
+      "SkyRaiders.Sky_Raider_Ground_Minion_Buff.Force_Field_Generator",
+      "Incarnate_I20.Porter.Porter_Pack"
+    ],
+    "power_display_names": [
+      "Brawl",
+      "Machete",
+      "Adv Sub Machine Gun",
+      "Force Field Generator",
+      "Porter Pack"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "SkyRaiders",
+        "power_set": "Sky_Raider_Minion_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "SkyRaiders",
+        "power_set": "Sky_Raider_SubmachineGun",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "SkyRaiders",
+        "power_set": "Sky_Raider_Ground_Minion_Buff",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Incarnate_I20",
+        "power_set": "Porter",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 44,
+      "experience": 0,
+      "display_names": [
+        "Porter Engineer"
+      ],
+      "costumes": [
+        "Sky_Raiders_01"
+      ]
+    }
+  ]
+}

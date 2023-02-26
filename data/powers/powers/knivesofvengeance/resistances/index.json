@@ -1,0 +1,38 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "KnivesOfVengeance.Resistances",
+  "display_help": "Knives of Vengeance",
+  "display_short_help": "Knives of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KNIVESOFVENGEANCE/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "KnivesOfVengeance.Resistances.Damage_MN",
+    "KnivesOfVengeance.Resistances.Damage_LT",
+    "KnivesOfVengeance.Resistances.Damage_BS",
+    "KnivesOfVengeance.Resistances.Damage_EB",
+    "KnivesOfVengeance.Resistances.Damage_AV"
+  ],
+  "power_display_names": [
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance"
+  ]
+}

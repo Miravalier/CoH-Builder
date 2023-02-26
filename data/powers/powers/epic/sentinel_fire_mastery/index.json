@@ -1,0 +1,38 @@
+{
+  "name": "Sentinel_Fire_Mastery",
+  "display_name": "Fire Mastery",
+  "display_fullname": "Epic.Fire Mastery",
+  "display_help": "You have Mastery over Fire and Flame to blast your foes and control your foes.",
+  "display_short_help": "Fire Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/SENTINEL_FIRE_MASTERY.POWERSETS",
+  "icon": "sentinel_fire_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Sentinel_Fire_Mastery.Fire_Cages",
+    "Epic.Sentinel_Fire_Mastery.Cremate",
+    "Epic.Sentinel_Fire_Mastery.Char",
+    "Epic.Sentinel_Fire_Mastery.Fire_Sword_Circle",
+    "Epic.Sentinel_Fire_Mastery.Warmth"
+  ],
+  "power_display_names": [
+    "Fire Cages",
+    "Cremate",
+    "Char",
+    "Fire Sword Circle",
+    "Warmth"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Minor DoT(Fire), Foe Immobilize",
+    "Melee, High DMG(Smash/Fire)",
+    "Ranged, Minor DoT(Fire), Foe Hold",
+    "PBAoE Melee, Moderate DMG(Fire/Lethal)",
+    "PBAoE, Team +Heal"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Brilliant_Leadership_C",
+  "display_name": "Attuned Brilliant Leadership C",
+  "display_fullname": "Boosts.Attuned Brilliant Leadership C",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Brilliant Leadership",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BRILLIANT_LEADERSHIP_C.POWERSETS",
+  "icon": "attuned_brilliant_leadership_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Brilliant_Leadership_C.Attuned_Brilliant_Leadership_C"
+  ],
+  "power_display_names": [
+    "Brilliant Leadership: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Reduces Endurance Cost"
+  ]
+}

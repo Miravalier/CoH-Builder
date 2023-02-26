@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Kinetic_Combat_E",
+  "display_name": "Attuned Kinetic Combat E",
+  "display_fullname": "Boosts.Attuned Kinetic Combat E",
+  "display_help": "Adds a chance to knockdown your foe. This effect will trigger roughly 3 times per minute.",
+  "display_short_help": "Set: Kinetic Combat",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_KINETIC_COMBAT_E.POWERSETS",
+  "icon": "attuned_kinetic_combat_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Kinetic_Combat_E.Attuned_Kinetic_Combat_E"
+  ],
+  "power_display_names": [
+    "Kinetic Combat: Chance for Knockdown"
+  ],
+  "power_short_helps": [
+    "Adds Knockdown"
+  ]
+}

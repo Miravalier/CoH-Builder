@@ -1,0 +1,54 @@
+{
+  "name": "Stone_Armor",
+  "display_name": "Stone Armor",
+  "display_fullname": "Mission Maker Secondary.Stone Armor",
+  "display_help": "You can transform your skin into various forms of rock and stone. Stone Armor is one of the only Tanker Defensive Power Sets that offers defense to Psionics. Stone Armor offers amazing Defense, but a few Stone Armors are mutually exclusive to each other. Some Armors, although offering superior defense, also slow you down due to its enormous bulk.",
+  "display_short_help": "Stone Armor",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/STONE_ARMOR.POWERSETS",
+  "icon": "stone_armor_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Stone_Armor.Rock_Armor",
+    "Mission_Maker_Secondary.Stone_Armor.Stone_Skin",
+    "Mission_Maker_Secondary.Stone_Armor.Earths_Embrace",
+    "Mission_Maker_Secondary.Stone_Armor.Mud_Pots",
+    "Mission_Maker_Secondary.Stone_Armor.Rooted",
+    "Mission_Maker_Secondary.Stone_Armor.Brimstone_Armor",
+    "Mission_Maker_Secondary.Stone_Armor.Crystal_Armor",
+    "Mission_Maker_Secondary.Stone_Armor.Minerals",
+    "Mission_Maker_Secondary.Stone_Armor.Granite_Armor"
+  ],
+  "power_display_names": [
+    "Rock Armor",
+    "Stone Skin",
+    "Earth's Embrace",
+    "Mud Pots",
+    "Rooted",
+    "Brimstone Armor",
+    "Crystal Armor",
+    "Minerals",
+    "Granite Armor"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +DEF(Lethal, Smashing), Res(DeBuff DEF)",
+    "Auto: Self +Res(Lethal, smashing)",
+    "Self +HP, Res(Toxic)",
+    "Toggle: PBAoE, Minor DoT(Fire), Foe Immobilize, -SPD",
+    "Toggle: Self +Res(Knockback, Sleep, Disorient, Hold, End Drain, DeBuff DEF), Self -SPD, +Regeneration",
+    "Toggle: Self +Res(Fire, Cold)",
+    "Toggle: Self +DEF(Energy, Negative), Res(DeBuff DEF)",
+    "Toggle: Self +DEF(Psionic), Res(Confuse), +Perception",
+    "Self, +Res(All but Psionics), +DEF(All but Psionics), -SPD, -Recharge, -DMG"
+  ]
+}

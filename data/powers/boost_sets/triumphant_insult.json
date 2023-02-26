@@ -1,0 +1,271 @@
+{
+  "name": "Triumphant_Insult",
+  "display_name": "Triumphant Insult",
+  "group_name": "Threat Duration",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Threat"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Triumphant_Insult_A.Crafted_Triumphant_Insult_A",
+      "Boosts.Attuned_Triumphant_Insult_A.Attuned_Triumphant_Insult_A"
+    ],
+    [
+      "Boosts.Crafted_Triumphant_Insult_B.Crafted_Triumphant_Insult_B",
+      "Boosts.Attuned_Triumphant_Insult_B.Attuned_Triumphant_Insult_B"
+    ],
+    [
+      "Boosts.Crafted_Triumphant_Insult_C.Crafted_Triumphant_Insult_C",
+      "Boosts.Attuned_Triumphant_Insult_C.Attuned_Triumphant_Insult_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 20,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_lethal_smash_melee_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_1",
+          "Tiny Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_lethal_smash_melee_def_2",
+          "Small Increased Lethal/Smashing/Melee Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_triumphantinsult.png",
+      "e_icon_triumphantinsult.png",
+      "e_icon_triumphantinsult.png",
+      "e_icon_triumphantinsult.png",
+      "e_icon_triumphantinsult.png",
+      "e_icon_triumphantinsult.png"
+    ],
+    "boosts": [
+      [
+        "Triumphant Insult: Threat",
+        "Attuned Triumphant Insult: Threat"
+      ],
+      [
+        "Triumphant Insult: Recharge/Threat",
+        "Attuned Triumphant Insult: Recharge/Threat"
+      ],
+      [
+        "Triumphant Insult: Proc",
+        "Attuned Triumphant Insult: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_triumphant_insult_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triumphant_insult_a.attuned_triumphant_insult_a",
+          "Triumphant Insult: Taunt/Placate"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triumphant Insult: Threat",
+        "aspects": [
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triumphant_insult",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_triumphantinsult.png"
+      },
+      "attuned_triumphant_insult_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triumphant Insult: Threat",
+        "aspects": [
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triumphant_insult",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_triumphantinsult.png"
+      },
+      "crafted_triumphant_insult_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triumphant_insult_b.attuned_triumphant_insult_b",
+          "Triumphant Insult: Taunt/Placate/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triumphant Insult: Recharge/Threat",
+        "aspects": [
+          "Recharge",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triumphant_insult",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_triumphantinsult.png"
+      },
+      "attuned_triumphant_insult_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triumphant Insult: Recharge/Threat",
+        "aspects": [
+          "Recharge",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triumphant_insult",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_triumphantinsult.png"
+      },
+      "crafted_triumphant_insult_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triumphant_insult_c.attuned_triumphant_insult_c",
+          "Triumphant Insult: Chance to Disorient"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triumphant Insult: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "triumphant_insult",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_triumphantinsult.png"
+      },
+      "attuned_triumphant_insult_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triumphant Insult: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "triumphant_insult",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_triumphantinsult.png"
+      }
+    }
+  }
+}

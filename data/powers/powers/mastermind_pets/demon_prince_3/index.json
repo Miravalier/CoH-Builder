@@ -1,0 +1,30 @@
+{
+  "name": "Demon_Prince_3",
+  "display_name": "Demon Prince",
+  "display_fullname": "Mastermind Pets.Demon Prince",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/DEMON_PRINCE_3.POWERSETS",
+  "icon": "demon_prince_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Demon_Prince_3.Ice_Slash",
+    "Mastermind_Pets.Demon_Prince_3.Frozen_Aura",
+    "Mastermind_Pets.Demon_Prince_3.Abyssal_Empowerment"
+  ],
+  "power_display_names": [
+    "Ice Slash",
+    "Frozen Aura",
+    "Abyssal Empowerment"
+  ],
+  "power_short_helps": [
+    "Melee, High DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "PBAoE, Moderate DMG(Cold), Foe Sleep",
+    "Empower"
+  ]
+}

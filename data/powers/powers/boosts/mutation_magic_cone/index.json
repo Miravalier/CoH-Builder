@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Cone",
+  "display_name": "Mutation Magic Range",
+  "display_fullname": "Boosts.Mutation Magic Cone",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_CONE.POWERSETS",
+  "icon": "mutation_magic_cone_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Cone.Mutation_Magic_Cone"
+  ],
+  "power_display_names": [
+    "Helmet (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

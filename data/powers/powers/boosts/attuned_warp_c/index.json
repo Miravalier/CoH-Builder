@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Warp_C",
+  "display_name": "Attuned Warp C",
+  "display_fullname": "Boosts.Attuned Warp C",
+  "display_help": "Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Warp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_WARP_C.POWERSETS",
+  "icon": "e_icon_warp.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Warp_C.Attuned_Warp_C"
+  ],
+  "power_display_names": [
+    "Warp: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

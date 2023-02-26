@@ -1,0 +1,42 @@
+{
+  "name": "Psychic_Defender_Low",
+  "display_name": "Psychic Defender Low",
+  "display_fullname": "V GenericHeroes.Psychic Defender Low",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/PSYCHIC_DEFENDER_LOW.POWERSETS",
+  "icon": "psychic_defender_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Psychic_Defender_Low.Heal_Other",
+    "V_GenericHeroes.Psychic_Defender_Low.Healing_Aura",
+    "V_GenericHeroes.Psychic_Defender_Low.Subdue",
+    "V_GenericHeroes.Psychic_Defender_Low.Telekinetic_Blast",
+    "V_GenericHeroes.Psychic_Defender_Low.Mental_Blast",
+    "V_GenericHeroes.Psychic_Defender_Low.Regeneration_Aura"
+  ],
+  "power_display_names": [
+    "Heal Other",
+    "Healing Aura",
+    "Subdue",
+    "Telekinetic Blast",
+    "Mental Blast",
+    "Regeneration Aura"
+  ],
+  "power_short_helps": [
+    "Ally Heal",
+    "PBAoE, Team +Heal",
+    "Ranged, Moderate DMG(Psionic), Foe Immobilize",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback",
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "PBAoE, Ally +Regeneration"
+  ]
+}

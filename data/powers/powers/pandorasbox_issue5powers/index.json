@@ -1,0 +1,15 @@
+{
+  "name": "PandorasBox_Issue5Powers",
+  "display_name": "Issue5Powers",
+  "source_file": "DEFS/POWERS/PANDORASBOX_ISSUE5POWERS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "pandorasbox_issue5powers.targeted_knockback"
+  ],
+  "powerset_display_names": [
+    "Targeted_Knockback"
+  ],
+  "powersets_with_requirements": []
+}

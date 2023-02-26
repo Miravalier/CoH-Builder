@@ -1,0 +1,38 @@
+{
+  "name": "PPD_Assault",
+  "display_name": "PPD Assault",
+  "display_fullname": "V ParagonPolice.PPD Assault",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/PPD_ASSAULT.POWERSETS",
+  "icon": "ppd_assault_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.PPD_Assault.Power_Blast",
+    "V_ParagonPolice.PPD_Assault.Power_Burst",
+    "V_ParagonPolice.PPD_Assault.Explosive_Blast",
+    "V_ParagonPolice.PPD_Assault.Bone_Smasher",
+    "V_ParagonPolice.PPD_Assault.Resistances"
+  ],
+  "power_display_names": [
+    "Power Blast",
+    "Power Burst",
+    "Explosive Blast",
+    "Bone Smasher",
+    "Resistances"
+  ],
+  "power_short_helps": [
+    "Knockback",
+    "Knockback",
+    "Knockback",
+    "Disorient",
+    "Resistance"
+  ]
+}

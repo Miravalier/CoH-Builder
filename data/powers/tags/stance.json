@@ -1,0 +1,58 @@
+{
+  "tag": "Stance",
+  "bears": [
+    [
+      "Inherent.Inherent.Prestige Power Slide",
+      "inherent.inherent.prestige_dvd_glidep"
+    ],
+    [
+      "Inherent.Inherent.Stance",
+      "inherent.inherent.stance"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Train",
+      "mastermind_pets.genin_2.train"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Train",
+      "mastermind_pets.jonin_2.train"
+    ],
+    [
+      "Prestige.Prestige Sprints.Prestige Power Slide",
+      "prestige.prestige_sprints.prestige_dvd_glidep"
+    ],
+    [
+      "Prestige.Prestige Travel.Beast Run",
+      "prestige.prestige_travel.prestige_beast_run"
+    ],
+    [
+      "Prestige.Prestige Travel.Cheetah Travel Power",
+      "prestige.prestige_travel.alt_cheetah_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Coyote Travel Power",
+      "prestige.prestige_travel.alt_coyote_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Flying Carpet",
+      "prestige.prestige_travel.alt_magic_carpet"
+    ],
+    [
+      "Prestige.Prestige Travel.Ninja Run",
+      "prestige.prestige_travel.prestige_ninja_run"
+    ],
+    [
+      "Prestige.Prestige Travel.Panther Travel Power",
+      "prestige.prestige_travel.alt_panther_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Rocket Board",
+      "prestige.prestige_travel.alt_hover_board"
+    ],
+    [
+      "Prestige.Prestige Travel.Void Skiff",
+      "prestige.prestige_travel.alt_void_skiff"
+    ]
+  ],
+  "affects": []
+}

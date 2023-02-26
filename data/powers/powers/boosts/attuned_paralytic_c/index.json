@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Paralytic_C",
+  "display_name": "Attuned Paralytic C",
+  "display_fullname": "Boosts.Attuned Paralytic C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Paralytic",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_PARALYTIC_C.POWERSETS",
+  "icon": "attuned_paralytic_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Paralytic_C.Attuned_Paralytic_C"
+  ],
+  "power_display_names": [
+    "Paralytic: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Energy_Blaster_Mid",
+  "display_name": "Energy Blaster Mid",
+  "display_fullname": "V GenericHeroes.Energy Blaster Mid",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ENERGY_BLASTER_MID.POWERSETS",
+  "icon": "energy_blaster_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Energy_Blaster_Mid.Power_Thrust"
+  ],
+  "power_display_names": [
+    "Power Thrust"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback"
+  ]
+}

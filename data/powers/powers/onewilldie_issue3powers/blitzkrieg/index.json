@@ -1,0 +1,34 @@
+{
+  "name": "Blitzkrieg",
+  "display_name": "Blitzkrieg",
+  "display_fullname": "OneWillDie Issue3Powers.Blitzkrieg",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE3POWERS/BLITZKRIEG.POWERSETS",
+  "icon": "blitzkrieg_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue3Powers.Blitzkrieg.Nuclear_Launch_Lock",
+    "OneWillDie_Issue3Powers.Blitzkrieg.Nuclear_Launch_Tell",
+    "OneWillDie_Issue3Powers.Blitzkrieg.Nuclear_Launch",
+    "OneWillDie_Issue3Powers.Blitzkrieg.Targetable"
+  ],
+  "power_display_names": [
+    "Nuclear Launch Lock",
+    "Nuclear Launch Flight",
+    "Nuclear Launch",
+    "Targetable"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Target of Orbital Lance",
+    "Ranged (Targeted Location), Extreme DMG(Energy), Foe -Regen, -Res(All)",
+    "Special"
+  ]
+}

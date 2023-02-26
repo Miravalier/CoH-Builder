@@ -1,0 +1,22 @@
+{
+  "name": "KineticTransferBuffSelf",
+  "display_name": "Kinetic Transfer",
+  "display_fullname": "Mission Maker Pets.Kinetic Transfer",
+  "display_help": "Kinetics",
+  "display_short_help": "Kinetics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/KINETICTRANSFERBUFFSELF.POWERSETS",
+  "icon": "kinetictransferbuffself_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.KineticTransferBuffSelf.KineticTransfer"
+  ],
+  "power_display_names": [
+    "KineticTransfer"
+  ],
+  "power_short_helps": [
+    "+DMG"
+  ]
+}

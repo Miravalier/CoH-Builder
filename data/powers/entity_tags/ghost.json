@@ -1,0 +1,563 @@
+{
+  "tag": "Ghost",
+  "bears": [
+    [
+      "apparitions_coalesced_spirit",
+      [
+        "Coalesced Spirit"
+      ]
+    ],
+    [
+      "apparitions_dispersed_impression",
+      [
+        "Dispersed Impression"
+      ]
+    ],
+    [
+      "apparitions_enraged_spectre",
+      [
+        "Enraged Spectre"
+      ]
+    ],
+    [
+      "apparitions_enraged_spectre_lt",
+      [
+        "Enraged Spectre"
+      ]
+    ],
+    [
+      "apparitions_fearsome_reflection",
+      [
+        "Fearsome Reflection"
+      ]
+    ],
+    [
+      "apparitions_formed_impression",
+      [
+        "Formed Impression"
+      ]
+    ],
+    [
+      "apparitions_fractured_impression",
+      [
+        "Fractured Impression"
+      ]
+    ],
+    [
+      "apparitions_fractured_spectre",
+      [
+        "Fractured Spectre"
+      ]
+    ],
+    [
+      "apparitions_fractured_spirit",
+      [
+        "Fractured Spirit"
+      ]
+    ],
+    [
+      "apparitions_hive_of_anger",
+      [
+        "Hive of Anger"
+      ]
+    ],
+    [
+      "apparitions_ripped_spectre",
+      [
+        "Ripped Spectre"
+      ]
+    ],
+    [
+      "apparitions_scattered_spirit",
+      [
+        "Scattered Spirit"
+      ]
+    ],
+    [
+      "arachnos_mu_adept_high_ghost",
+      [
+        "Mu Adept"
+      ]
+    ],
+    [
+      "arachnos_mu_adept_high_ghost_noexp",
+      [
+        "Mu Adept"
+      ]
+    ],
+    [
+      "arachnos_mu_guardian_high_ghost",
+      [
+        "Mu Guardian"
+      ]
+    ],
+    [
+      "arachnos_mu_guardian_high_ghost_noexp",
+      [
+        "Mu Guardian"
+      ]
+    ],
+    [
+      "arachnos_mu_striker_high_ghost",
+      [
+        "Mu Striker"
+      ]
+    ],
+    [
+      "arachnos_mu_striker_high_ghost_noexp",
+      [
+        "Mu Striker"
+      ]
+    ],
+    [
+      "arachnos_spectral_boss",
+      [
+        "Wolf Spider Phantom"
+      ]
+    ],
+    [
+      "arachnos_spectral_boss_high",
+      [
+        "Wolf Spider Phantom"
+      ]
+    ],
+    [
+      "arachnos_spectral_lt",
+      [
+        "Wolf Spider Shade"
+      ]
+    ],
+    [
+      "arachnos_spectral_lt_high",
+      [
+        "Wolf Spider Shade"
+      ]
+    ],
+    [
+      "arachnos_spectral_minion",
+      [
+        "Wolf Spider Ghost"
+      ]
+    ],
+    [
+      "arachnos_spectral_minion_high",
+      [
+        "Wolf Spider Ghost"
+      ]
+    ],
+    [
+      "arachnosendgame_ghost_widow",
+      [
+        "Ghost Widow"
+      ]
+    ],
+    [
+      "cabal_katie",
+      [
+        "Katie"
+      ]
+    ],
+    [
+      "croatoaghosts_boss",
+      [
+        "Lost Soul"
+      ]
+    ],
+    [
+      "croatoaghosts_boss_female",
+      [
+        "Lost Soul"
+      ]
+    ],
+    [
+      "croatoaghosts_boss_female2",
+      [
+        "Lost Soul"
+      ]
+    ],
+    [
+      "croatoaghosts_lieutenant",
+      [
+        "Apparition"
+      ]
+    ],
+    [
+      "croatoaghosts_lieutenant_female",
+      [
+        "Apparition"
+      ]
+    ],
+    [
+      "croatoaghosts_minion",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "croatoaghosts_minion_female",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "croatoaghosts_nocoll_ghost_female",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "croatoaghosts_nocoll_ghost_male",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghostbossfemale",
+      [
+        "Spectre"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghostbossmale",
+      [
+        "Spectre"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghosteliteboss",
+      [
+        "Dark Spectre"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghostlieutenantfemale",
+      [
+        "Wraith"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghostlieutenantmale",
+      [
+        "Wraith"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghostminionfemale",
+      [
+        "Terror"
+      ]
+    ],
+    [
+      "event_datransparentterrors_ghostminionmale",
+      [
+        "Terror"
+      ]
+    ],
+    [
+      "event_datransparentterrors_sailorghostboss",
+      [
+        "Spectre"
+      ]
+    ],
+    [
+      "event_datransparentterrors_sailorghosteliteboss",
+      [
+        "Dark Spectre"
+      ]
+    ],
+    [
+      "event_datransparentterrors_sailorghostlieutenant",
+      [
+        "Wraith"
+      ]
+    ],
+    [
+      "event_datransparentterrors_sailorghostminion",
+      [
+        "Terror"
+      ]
+    ],
+    [
+      "event_datransparentterrors_unseelieboss",
+      [
+        "Spectre"
+      ]
+    ],
+    [
+      "event_datransparentterrors_unseelielieutenant",
+      [
+        "Wraith"
+      ]
+    ],
+    [
+      "event_datransparentterrors_unseelieminion",
+      [
+        "Terror"
+      ]
+    ],
+    [
+      "event_sailor_ghost_boss",
+      [
+        "Lost Soul"
+      ]
+    ],
+    [
+      "event_sailor_ghost_lt",
+      [
+        "Apparition"
+      ]
+    ],
+    [
+      "event_sailor_ghost_minion",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "event_unseelie_court_boss",
+      [
+        "Hell Rider"
+      ]
+    ],
+    [
+      "event_unseelie_court_eliteboss",
+      [
+        "Hollow Reaper"
+      ]
+    ],
+    [
+      "event_unseelie_court_lieutenant",
+      [
+        "Horde"
+      ]
+    ],
+    [
+      "event_unseelie_court_minion",
+      [
+        "Unseelie"
+      ]
+    ],
+    [
+      "event_werewolf_eliteboss",
+      [
+        "Spectral Werewolf"
+      ]
+    ],
+    [
+      "ghosts_boss",
+      [
+        "Lost Soul"
+      ]
+    ],
+    [
+      "ghosts_boss_female",
+      [
+        "Lost Soul"
+      ]
+    ],
+    [
+      "ghosts_lieutenant",
+      [
+        "Apparition"
+      ]
+    ],
+    [
+      "ghosts_lieutenant_female",
+      [
+        "Apparition"
+      ]
+    ],
+    [
+      "ghosts_minion",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "ghosts_minion_female",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "mastermindpets_ghost_boss",
+      [
+        "Wraith"
+      ]
+    ],
+    [
+      "mastermindpets_ghost_lt",
+      [
+        "Tortured Soul"
+      ]
+    ],
+    [
+      "mastermindpets_ghost_minion",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "miscellaneous_johnny_sonata_soul",
+      [
+        "Johnny Sonata's Soul"
+      ]
+    ],
+    [
+      "npc_pets_ma_ghost_boss",
+      [
+        "Wraith"
+      ]
+    ],
+    [
+      "npc_pets_ma_ghost_lt",
+      [
+        "Tortured Soul"
+      ]
+    ],
+    [
+      "npc_pets_ma_ghost_minion",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "scrapyarders_giant_ghost_of_scrapyard",
+      [
+        "Ghost of Scrapyard"
+      ]
+    ],
+    [
+      "sirenscallphantom_boss_sirens_call_phantom",
+      [
+        "Siren's Call Phantom"
+      ]
+    ],
+    [
+      "sirenscallphantom_lt_sirens_call_phantom",
+      [
+        "Siren's Call Phantom"
+      ]
+    ],
+    [
+      "sirenscallphantom_minion_sirens_call_phantom",
+      [
+        "Siren's Call Phantom"
+      ]
+    ],
+    [
+      "skulls_ghost",
+      [
+        "Spirit"
+      ]
+    ],
+    [
+      "spectralpirates_boss",
+      [
+        "Red Hand"
+      ]
+    ],
+    [
+      "spectralpirates_boss_low",
+      [
+        "Red Hand"
+      ]
+    ],
+    [
+      "spectralpirates_elite_boss",
+      [
+        "Red Terror"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_son",
+      [
+        "Ghost Son"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_son_eb",
+      [
+        "Ghost Son"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_son_eb_hero",
+      [
+        "Ghost Son"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_trap_boss",
+      [
+        "Red Hand"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_trap_elite_boss",
+      [
+        "Red Terror"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_trap_lieutenant",
+      [
+        "Night Terror"
+      ]
+    ],
+    [
+      "spectralpirates_ghost_trap_minion",
+      [
+        "Night Haunt"
+      ]
+    ],
+    [
+      "spectralpirates_lieutenant",
+      [
+        "Night Terror"
+      ]
+    ],
+    [
+      "spectralpirates_lieutenant_low",
+      [
+        "Night Terror"
+      ]
+    ],
+    [
+      "spectralpirates_minion",
+      [
+        "Night Haunt"
+      ]
+    ],
+    [
+      "spectralpirates_minion_low",
+      [
+        "Night Haunt"
+      ]
+    ],
+    [
+      "talonsofvengeance_banshee",
+      [
+        "Banshee"
+      ]
+    ]
+  ],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.Divining Rod",
+      "temporary_powers.temporary_powers.divining_rod"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Ghostslayer Bomb",
+      "temporary_powers.temporary_powers.ghostslayer_bomb"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Ghostslayer Rifle",
+      "temporary_powers.temporary_powers.ghostslayer_rifle"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Soul Trap",
+      "temporary_powers.temporary_powers.soul_trap"
+    ]
+  ]
+}

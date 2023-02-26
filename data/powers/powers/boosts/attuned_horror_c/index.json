@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Horror_C",
+  "display_name": "Attuned Horror C",
+  "display_fullname": "Boosts.Attuned Horror C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Horror",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_HORROR_C.POWERSETS",
+  "icon": "attuned_horror_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Horror_C.Attuned_Horror_C"
+  ],
+  "power_display_names": [
+    "Horror: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

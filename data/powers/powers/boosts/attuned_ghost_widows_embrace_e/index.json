@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Ghost_Widows_Embrace_E",
+  "display_name": "Attuned Ghost Widows Embrace E",
+  "display_fullname": "Boosts.Attuned Ghost Widows Embrace E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, hold duration by {Boost.Attrib.Mez.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Ghost Widows Embrace",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_GHOST_WIDOWS_EMBRACE_E.POWERSETS",
+  "icon": "attuned_ghost_widows_embrace_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Ghost_Widows_Embrace_E.Attuned_Ghost_Widows_Embrace_E"
+  ],
+  "power_display_names": [
+    "Ghost Widow's Embrace: Accuracy/Hold/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Hold"
+  ]
+}

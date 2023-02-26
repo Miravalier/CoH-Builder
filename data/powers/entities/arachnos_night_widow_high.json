@@ -1,0 +1,100 @@
+{
+  "name": "Arachnos_Night_Widow_High",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 33,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "Night Widows are trained in stealth, infiltration, disguise, and cold-blooded murder. Most of their victims never even see them coming.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.33,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Night_Widow.Stealth",
+      "V_Arachnos.Night_Widow.Mental_Training",
+      "V_Arachnos.Night_Widow.Smoke_Grenade",
+      "V_Arachnos.Night_Widow.Mental_Blast",
+      "V_Arachnos.Night_Widow.Psychic_Scream",
+      "V_Arachnos.Night_Widow.Strike",
+      "V_Arachnos.Night_Widow.Spin",
+      "V_Arachnos.Night_Widow.Slash",
+      "V_Arachnos.Night_Widow_High.Eviscerate"
+    ],
+    "power_display_names": [
+      "Stealth",
+      "Mental Training",
+      "Smoke Grenade",
+      "Mental Blast",
+      "Psychic Scream",
+      "Strike",
+      "Spin",
+      "Slash",
+      "Eviscerate"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Night_Widow",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Night_Widow_High",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 33,
+      "experience": 0,
+      "display_names": [
+        "Night Widow"
+      ],
+      "costumes": [
+        "Arachnos_Widow_05"
+      ]
+    }
+  ]
+}

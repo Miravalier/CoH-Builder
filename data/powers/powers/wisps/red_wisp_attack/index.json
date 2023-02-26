@@ -1,0 +1,26 @@
+{
+  "name": "Red_Wisp_Attack",
+  "display_name": "Red_Wisp_Attack",
+  "display_fullname": "Wisps.Red Wisp Attack",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/WISPS/RED_WISP_ATTACK.POWERSETS",
+  "icon": "red_wisp_attack_set.png",
+  "requires": "",
+  "power_names": [
+    "Wisps.Red_Wisp_Attack.Engulf",
+    "Wisps.Red_Wisp_Attack.Shock"
+  ],
+  "power_display_names": [
+    "Engulf",
+    "Shock"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed",
+    "-Recharge, -Speed"
+  ]
+}

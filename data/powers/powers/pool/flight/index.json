@@ -1,0 +1,42 @@
+{
+  "name": "Flight",
+  "display_name": "Flight",
+  "display_fullname": "Pool.Flight",
+  "display_help": "Grants you various travel and flying combat abilities.",
+  "display_short_help": "Flight",
+  "available_level": [
+    0,
+    0,
+    3,
+    -1,
+    13,
+    13
+  ],
+  "source_file": "DEFS/POWERS/POOL/FLIGHT.POWERSETS",
+  "icon": "flight_set.png",
+  "requires": "",
+  "power_names": [
+    "Pool.Flight.Combat_Flight",
+    "Pool.Flight.Air_Superiority",
+    "Pool.Flight.Fly",
+    "Pool.Flight.Fly_Boost",
+    "Pool.Flight.Group_Fly",
+    "Pool.Flight.Afterburner"
+  ],
+  "power_display_names": [
+    "Hover",
+    "Air Superiority",
+    "Fly",
+    "Afterburner",
+    "Group Fly",
+    "Evasive Maneuvers"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Fly, +DEF(All)",
+    "Melee, Light DMG(Smash), Foe -Fly",
+    "Toggle: Self Fly",
+    "Self +FlySpeed (Special)",
+    "Toggle: Team Fly",
+    "Toggle: Self +FlySpeed, Res(-Fly, Immobilize, Knockback), +Def(Special), +Flight Control"
+  ]
+}

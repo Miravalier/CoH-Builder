@@ -1,0 +1,22 @@
+{
+  "name": "DrVahzilok_Defense",
+  "display_name": "DrVahzilok_Defense",
+  "display_fullname": "Vahzilok.DrVahzilok Defense",
+  "display_help": "Vahzilok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/DRVAHZILOK_DEFENSE.POWERSETS",
+  "icon": "drvahzilok_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.DrVahzilok_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

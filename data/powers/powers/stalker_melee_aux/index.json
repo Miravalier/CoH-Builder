@@ -1,0 +1,17 @@
+{
+  "name": "Stalker_Melee_Aux",
+  "display_name": "Aux",
+  "source_file": "DEFS/POWERS/STALKER_MELEE_AUX.CATEGORIES",
+  "archetypes": [
+    "stalker"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "stalker_melee_aux.savage_melee"
+  ],
+  "powerset_display_names": [
+    "Savage Melee"
+  ],
+  "powersets_with_requirements": []
+}

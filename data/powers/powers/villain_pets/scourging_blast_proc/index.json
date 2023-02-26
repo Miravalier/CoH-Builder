@@ -1,0 +1,22 @@
+{
+  "name": "Scourging_Blast_Proc",
+  "display_name": "Scourging Blast",
+  "display_fullname": "Villain Pets.Scourging Blast",
+  "display_help": "Scourging Blast",
+  "display_short_help": "Scourging Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/SCOURGING_BLAST_PROC.POWERSETS",
+  "icon": "scourging_blast_proc_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Scourging_Blast_Proc.Scourging_Blast"
+  ],
+  "power_display_names": [
+    "Scourging Blast"
+  ],
+  "power_short_helps": [
+    "Scourging Blast"
+  ]
+}

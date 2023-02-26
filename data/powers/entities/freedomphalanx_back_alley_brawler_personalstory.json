@@ -1,0 +1,113 @@
+{
+  "name": "FreedomPhalanx_Back_Alley_Brawler_PersonalStory",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomPhalanx",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Melee",
+    "character_class_name": "boss_archvillain",
+    "description": "One of the most veteran heroes in Paragon City, the Brawler is in semi-retirement, training the next generation of heroes. Though he rarely goes into the field these days, his power and fighting skills are still as potent as ever.",
+    "group_description": "Independent",
+    "display_class_name": "Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "GenericVillains.AV_Resistance.AV_Resistance",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Back_Alley_Power_Punch",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Jab",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Punch",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Hand_Clap",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Knockout_Blow",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Hurl",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Foot_Stomp",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Bone_Smasher",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Total_Focus",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Dull_Pain",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Super_Leap",
+      "V_FreedomPhalanx.Back_Alley_Brawler_Personal_Story.Resistance"
+    ],
+    "power_display_names": [
+      "Archvillain's Might",
+      "Back Alley Power Punch",
+      "Jab",
+      "Punch",
+      "Hand Clap",
+      "Knockout Blow",
+      "Hurl",
+      "Foot Stomp",
+      "Bone Smasher",
+      "Total Focus",
+      "Dull Pain",
+      "Super Leap",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "GenericVillains",
+        "power_set": "AV_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "Back_Alley_Brawler_Personal_Story",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "Back Alley Brawler"
+      ],
+      "costumes": [
+        "Model_Back_Alley_Brawler"
+      ]
+    }
+  ]
+}

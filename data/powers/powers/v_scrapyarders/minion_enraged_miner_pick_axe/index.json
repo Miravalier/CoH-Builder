@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Enraged_Miner_Pick_Axe",
+  "display_name": "Minion Enraged Miner Pick Axe",
+  "display_fullname": "V Scrapyarders.Minion Enraged Miner Pick Axe",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/MINION_ENRAGED_MINER_PICK_AXE.POWERSETS",
+  "icon": "minion_enraged_miner_pick_axe_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Minion_Enraged_Miner_Pick_Axe.Pick_Axe"
+  ],
+  "power_display_names": [
+    "Pick Axe"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

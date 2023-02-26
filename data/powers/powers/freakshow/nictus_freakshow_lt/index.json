@@ -1,0 +1,30 @@
+{
+  "name": "Nictus_Freakshow_Lt",
+  "display_name": "Nictus Freakshow Lt",
+  "display_fullname": "Freakshow.Nictus Freakshow Lt",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/NICTUS_FREAKSHOW_LT.POWERSETS",
+  "icon": "nictus_freakshow_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Nictus_Freakshow_Lt.Gravimetric_Snare",
+    "Freakshow.Nictus_Freakshow_Lt.Lightning_Bolt",
+    "Freakshow.Nictus_Freakshow_Lt.Star_Punch"
+  ],
+  "power_display_names": [
+    "Gravimetric Snare",
+    "Lightning Bolt",
+    "Star Punch"
+  ],
+  "power_short_helps": [
+    "Immobilize, -Recharge, -SPD",
+    "Ranged Energy, -End",
+    "Disorient, -Recharge, -SPD"
+  ]
+}

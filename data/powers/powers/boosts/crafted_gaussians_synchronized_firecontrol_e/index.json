@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Gaussians_Synchronized_FireControl_E",
+  "display_name": "Crafted Gaussians Synchronized FireControl E",
+  "display_fullname": "Boosts.Crafted Gaussians Synchronized FireControl E",
+  "display_help": "Enhances the to hit buff potential of a power by {Boost.Attrib.ToHit.Scale}% and reduces the endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Gaussian's Synchronized Fire-Control",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_GAUSSIANS_SYNCHRONIZED_FIRECONTROL_E.POWERSETS",
+  "icon": "crafted_gaussians_synchronized_firecontrol_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Gaussians_Synchronized_FireControl_E.Crafted_Gaussians_Synchronized_FireControl_E"
+  ],
+  "power_display_names": [
+    "Gaussian's Synchronized Fire-Control: To Hit Buff/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+To Hit Buff, +End"
+  ]
+}

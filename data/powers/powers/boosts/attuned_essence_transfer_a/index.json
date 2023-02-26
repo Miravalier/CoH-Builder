@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Essence_Transfer_A",
+  "display_name": "Attuned Essence Transfer A",
+  "display_fullname": "Boosts.Attuned Essence Transfer A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Peacebringers and Warshades and may be slotted into any of their damage powers.",
+  "display_short_help": "Set: Essence Transfer",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ESSENCE_TRANSFER_A.POWERSETS",
+  "icon": "attuned_essence_transfer_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Essence_Transfer_A.Attuned_Essence_Transfer_A"
+  ],
+  "power_display_names": [
+    "Essence Transfer: Accuracy/Damage (Kheldian)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

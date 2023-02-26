@@ -1,0 +1,30 @@
+{
+  "name": "RiktiPortal",
+  "display_name": "Portal",
+  "display_fullname": "Pets.Portal",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RIKTIPORTAL.POWERSETS",
+  "icon": "riktiportal_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.RiktiPortal.Transport",
+    "Pets.RiktiPortal.Expel",
+    "Pets.RiktiPortal.Resistance"
+  ],
+  "power_display_names": [
+    "Transport",
+    "Expel",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Expel",
+    "Res (Lethal/Smashing)"
+  ]
+}

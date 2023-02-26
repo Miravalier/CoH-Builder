@@ -1,0 +1,149 @@
+{
+  "name": "Event_Ballista_Energy_Tanker",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton",
+    "Raid"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 50,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_monster",
+    "description": "Longbow is a hard-hitting division of Freedom Corps dedicated to stopping evil, and Arachnos in particular.",
+    "group_description": "Longbow",
+    "display_class_name": "Elite Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 2.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Tanker_Defense.Invulnerability.Resist_Physical_Damage",
+      "Tanker_Defense.Invulnerability.Temp_Invulnerability",
+      "Tanker_Defense.Invulnerability.Dull_Pain",
+      "Tanker_Defense.Invulnerability.Resist_Elements",
+      "Tanker_Defense.Invulnerability.Unyeilding_Stance",
+      "Tanker_Defense.Invulnerability.Resist_Energies",
+      "Tanker_Defense.Invulnerability.Invincibility",
+      "Tanker_Defense.Invulnerability.Tough_hide",
+      "Tanker_Defense.Invulnerability.Unstoppable",
+      "Tanker_Melee.Energy_Melee.Barrage",
+      "Tanker_Melee.Energy_Melee.Energy_Punch",
+      "Tanker_Melee.Energy_Melee.Bone_Smasher",
+      "Tanker_Melee.Energy_Melee.Taunt",
+      "Tanker_Melee.Energy_Melee.Whirling_Hands",
+      "Tanker_Melee.Energy_Melee.Total_Focus",
+      "Tanker_Melee.Energy_Melee.Build_Up",
+      "Tanker_Melee.Energy_Melee.Stun",
+      "Tanker_Melee.Energy_Melee.Energy_Transfer",
+      "Event.Event_Boss_Resistance.Resistance",
+      "Event.Event_Fly.Fly"
+    ],
+    "power_display_names": [
+      "Resist Physical Damage",
+      "Temp Invulnerability",
+      "Dull Pain",
+      "Resist Elements",
+      "Unyielding",
+      "Resist Energies",
+      "Invincibility",
+      "Tough Hide",
+      "Unstoppable",
+      "Barrage",
+      "Energy Punch",
+      "Bone Smasher",
+      "Taunt",
+      "Whirling Hands",
+      "Total Focus",
+      "Build Up",
+      "Power Crash",
+      "Energy Transfer",
+      "Resistance",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Tanker_Defense",
+        "power_set": "Invulnerability",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Tanker_Melee",
+        "power_set": "Energy_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Event_Boss_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Event_Fly",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 50,
+      "experience": 0,
+      "display_names": [
+        "Longbow Warden"
+      ],
+      "costumes": [
+        "Longbow_Male_Boss_04",
+        "Longbow_Male_Boss_05",
+        "Longbow_Female_Boss_03",
+        "Longbow_Female_Boss_05"
+      ]
+    }
+  ]
+}

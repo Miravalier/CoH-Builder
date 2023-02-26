@@ -1,0 +1,22 @@
+{
+  "name": "Science_Accuracy",
+  "display_name": "Science Accuracy",
+  "display_fullname": "Boosts.Science Accuracy",
+  "display_help": "Increases the accuracy of a power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_ACCURACY.POWERSETS",
+  "icon": "science_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Accuracy.Science_Accuracy"
+  ],
+  "power_display_names": [
+    "Gamma Particle Irradiation (Accuracy)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_ToHit_Buff",
+  "display_name": "Mutation Science ToHit Buff",
+  "display_fullname": "Boosts.Mutation Science ToHit Buff",
+  "display_help": "Enhances the effectiveness of accuracy buffs.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_TOHIT_BUFF.POWERSETS",
+  "icon": "mutation_science_tohit_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_ToHit_Buff.Mutation_Science_ToHit_Buff"
+  ],
+  "power_display_names": [
+    "Genome Alteration Accuracy Boost (ToHit Buff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit Buffs"
+  ]
+}

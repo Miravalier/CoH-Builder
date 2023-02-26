@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Absolute_Amazement_F",
+  "display_name": "Crafted Absolute Amazement F",
+  "display_fullname": "Boosts.Crafted Absolute Amazement F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives a moderate chance to reduce your targets To Hit value greatly. This effect will trigger roughly 4.5 times per minute.",
+  "display_short_help": "Set: Absolute Amazement",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ABSOLUTE_AMAZEMENT_F.POWERSETS",
+  "icon": "crafted_absolute_amazement_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Absolute_Amazement_F.Crafted_Absolute_Amazement_F"
+  ],
+  "power_display_names": [
+    "Absolute Amazement: Chance for To Hit Debuff"
+  ],
+  "power_short_helps": [
+    "Chance to To Hit Debuff"
+  ]
+}

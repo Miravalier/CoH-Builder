@@ -1,0 +1,26 @@
+{
+  "name": "Uularuu",
+  "display_name": "Uularuu",
+  "display_fullname": "Rularuu.Uularuu",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/UULARUU.POWERSETS",
+  "icon": "uularuu_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Uularuu.Resistance",
+    "Rularuu.Uularuu.Fly"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel"
+  ]
+}

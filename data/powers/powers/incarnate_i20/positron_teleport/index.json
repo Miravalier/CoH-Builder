@@ -1,0 +1,26 @@
+{
+  "name": "Positron_Teleport",
+  "display_name": "Positron_Teleport",
+  "display_fullname": "Incarnate I20.Positron Teleport",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/POSITRON_TELEPORT.POWERSETS",
+  "icon": "positron_teleport_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Positron_Teleport.Positron_Teleport",
+    "Incarnate_I20.Positron_Teleport.Positron_Teleport_React"
+  ],
+  "power_display_names": [
+    "Positron Teleport",
+    "Positron Teleport React"
+  ],
+  "power_short_helps": [
+    "Script",
+    "Kibbitz"
+  ]
+}

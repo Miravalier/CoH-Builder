@@ -1,0 +1,26 @@
+{
+  "name": "CoV_Freakshow_Juicer_Ranged",
+  "display_name": "CoV_Freakshow_Juicer_Ranged",
+  "display_fullname": "Freakshow.CoV Freakshow Juicer Ranged",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/COV_FREAKSHOW_JUICER_RANGED.POWERSETS",
+  "icon": "cov_freakshow_juicer_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.CoV_Freakshow_Juicer_Ranged.Charged_Bolts",
+    "Freakshow.CoV_Freakshow_Juicer_Ranged.Zapp"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Zapp"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "Sniper, Extreme DMG(Energy), Foe -End"
+  ]
+}

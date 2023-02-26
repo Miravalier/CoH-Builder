@@ -1,0 +1,30 @@
+{
+  "name": "Warrior_Minion_Boxing",
+  "display_name": "Warrior_Minion_Boxing",
+  "display_fullname": "Warriors.Warrior Minion Boxing",
+  "display_help": "Warriors",
+  "display_short_help": "Warriors",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/WARRIORS/WARRIOR_MINION_BOXING.POWERSETS",
+  "icon": "warrior_minion_boxing_set.png",
+  "requires": "",
+  "power_names": [
+    "Warriors.Warrior_Minion_Boxing.Boxing",
+    "Warriors.Warrior_Minion_Boxing.Kick",
+    "Warriors.Warrior_Minion_Boxing.Brawl"
+  ],
+  "power_display_names": [
+    "Boxing",
+    "Kick",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash"
+  ]
+}

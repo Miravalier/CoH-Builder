@@ -1,0 +1,50 @@
+{
+  "name": "Mu_Guardian",
+  "display_name": "Mu Guardian",
+  "display_fullname": "Villain Pets.Mu Guardian",
+  "display_help": "Mu Mastery",
+  "display_short_help": "Mu Mastery",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/MU_GUARDIAN.POWERSETS",
+  "icon": "mu_guardian_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Mu_Guardian.Resistance",
+    "Villain_Pets.Mu_Guardian.Self_Destruct",
+    "Villain_Pets.Mu_Guardian.Lightning_Bolt",
+    "Villain_Pets.Mu_Guardian.Lightning_Blast",
+    "Villain_Pets.Mu_Guardian.Sentinel_of_Lightning",
+    "Villain_Pets.Mu_Guardian.Touch_of_the_Storm",
+    "Villain_Pets.Mu_Guardian.EM_Pulse",
+    "Villain_Pets.Mu_Guardian.Fly"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Self Destruct",
+    "Lightning Bolt",
+    "Lightning Blast",
+    "Sentinel of Lightning",
+    "Touch of the Storm",
+    "EM Pulse",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Energy/Negative)",
+    "Self Destruct",
+    "Ranged, Light DMG(Energy), Foe -End",
+    "Ranged, Moderate DMG(Energy), Foe -End",
+    "Summon Sentinel: Ranged, Moderate DMG(Energy), Foe -End",
+    "Ally Heal",
+    "Hold, -Regen",
+    "Self Travel"
+  ]
+}

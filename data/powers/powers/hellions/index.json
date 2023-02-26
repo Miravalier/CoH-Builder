@@ -1,0 +1,53 @@
+{
+  "name": "Hellions",
+  "display_name": "Hellions",
+  "source_file": "DEFS/POWERS/HELLIONS.CATEGORIES",
+  "archetypes": [
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "hellions.3k_kelvin",
+    "hellions.arson",
+    "hellions.building_explosion",
+    "hellions.burn",
+    "hellions.fire",
+    "hellions.girlfriend_from_hell",
+    "hellions.hellions_boss_melee",
+    "hellions.hellions_boss_ranged",
+    "hellions.hellions_brawl",
+    "hellions.hellions_inherent_defense",
+    "hellions.hellions_lt_shotgun",
+    "hellions.hellions_lt_submachinegun",
+    "hellions.hellions_minion_axe",
+    "hellions.hellions_minion_bat",
+    "hellions.hellions_minion_knife",
+    "hellions.hellions_minion_revolver",
+    "hellions.hellions_minion_sledgehammer",
+    "hellions.molotov",
+    "hellions.mordrogar"
+  ],
+  "powerset_display_names": [
+    "3K Kelvin",
+    "Arson",
+    "Building Explosion",
+    "Burn",
+    "Fire",
+    "Girlfriend_From_Hell",
+    "Hellions_Boss_Melee",
+    "Hellions_Boss_Ranged",
+    "Hellions_Brawl",
+    "Hellions_Inherent_Defense",
+    "Hellions_Lt_Shotgun",
+    "Hellions_Lt_SubmachineGun",
+    "Hellions_Minion_Axe",
+    "Hellions_Minion_Bat",
+    "Hellions_Minion_Knife",
+    "Hellions_Minion_Revolver",
+    "Hellions_Minion_Sledgehammer",
+    "Molotov",
+    "Mordrogar"
+  ],
+  "powersets_with_requirements": []
+}

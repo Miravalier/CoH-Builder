@@ -1,0 +1,17 @@
+{
+  "name": "VahzSewerTrial",
+  "display_name": "VahzSewerTrial",
+  "source_file": "DEFS/POWERS/VAHZSEWERTRIAL.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "vahzsewertrial.proximity_bomb",
+    "vahzsewertrial.vahzilok_eb_rez"
+  ],
+  "powerset_display_names": [
+    "Proximity Bomb",
+    "Vahzilok_EB_Rez"
+  ],
+  "powersets_with_requirements": []
+}

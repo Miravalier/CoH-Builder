@@ -1,0 +1,26 @@
+{
+  "name": "Sky_Raider_Wings_Porter_Melee",
+  "display_name": "Sky_Raider_Wings_Porter_Melee",
+  "display_fullname": "SkyRaiders.Sky Raider Wings Porter Melee",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_WINGS_PORTER_MELEE.POWERSETS",
+  "icon": "sky_raider_wings_porter_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Wings_Porter_Melee.Brawl",
+    "SkyRaiders.Sky_Raider_Wings_Porter_Melee.Machete"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Machete"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "-Speed"
+  ]
+}

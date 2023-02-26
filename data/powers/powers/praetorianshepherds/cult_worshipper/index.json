@@ -1,0 +1,30 @@
+{
+  "name": "Cult_Worshipper",
+  "display_name": "Cult Worshipper",
+  "display_fullname": "PraetorianShepherds.Cult Worshipper",
+  "display_help": "Praetorian Shepherds Attacks",
+  "display_short_help": "Praetorian Shepherds Attacks",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANSHEPHERDS/CULT_WORSHIPPER.POWERSETS",
+  "icon": "cult_worshipper_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianShepherds.Cult_Worshipper.Hack",
+    "PraetorianShepherds.Cult_Worshipper.Slice",
+    "PraetorianShepherds.Cult_Worshipper.Hand_Crossbow"
+  ],
+  "power_display_names": [
+    "Hack",
+    "Slice",
+    "Hand Crossbow"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), Foe -Def",
+    "Melee (Cone), Moderate DMG(Lethal), Foe -Def",
+    "Ranged Lethal/Negative, Low Dam"
+  ]
+}

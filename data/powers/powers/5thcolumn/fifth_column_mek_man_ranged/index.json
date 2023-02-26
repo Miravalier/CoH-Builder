@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Mek_Man_Ranged",
+  "display_name": "Fifth_Column_Mek_Man_Ranged",
+  "display_fullname": "5thColumn.Fifth Column Mek Man Ranged",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_MEK_MAN_RANGED.POWERSETS",
+  "icon": "fifth_column_mek_man_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Mek_Man_Ranged.Mek_Man_Blast"
+  ],
+  "power_display_names": [
+    "Mek Man Blast"
+  ],
+  "power_short_helps": [
+    "Ranged Energy/Smash, Knockback"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "PracticeRobots",
+  "display_name": "PracticeRobots",
+  "source_file": "DEFS/POWERS/PRACTICEROBOTS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "practicerobots.boss_practicerobots",
+    "practicerobots.lt_practicerobots",
+    "practicerobots.practicerobots"
+  ],
+  "powerset_display_names": [
+    "Boss_PracticeRobots",
+    "Lt_PracticeRobots",
+    "PracticeRobots"
+  ],
+  "powersets_with_requirements": []
+}

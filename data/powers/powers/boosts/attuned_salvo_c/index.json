@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Salvo_C",
+  "display_name": "Attuned Salvo C",
+  "display_fullname": "Boosts.Attuned Salvo C",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}%, range by {Boost.Attrib.Range.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Salvo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SALVO_C.POWERSETS",
+  "icon": "attuned_salvo_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Salvo_C.Attuned_Salvo_C"
+  ],
+  "power_display_names": [
+    "Salvo: Accuracy/Damage/Endurance/Range"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage, Range, and Reduces Endurance Cost"
+  ]
+}

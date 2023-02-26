@@ -1,0 +1,39 @@
+{
+  "tag": "GenesisStatus",
+  "bears": [
+    [
+      "Incarnate.Socket.Cognitive Socket",
+      "incarnate.socket.confuse"
+    ],
+    [
+      "Incarnate.Socket.Preemptive Socket",
+      "incarnate.socket.endurance_drain"
+    ],
+    [
+      "Incarnate.Socket.Spectral Socket",
+      "incarnate.socket.immobilize"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Genesis",
+      "incarnate.genesis.socket_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Genesis",
+      "incarnate.genesis.socket_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Core Genesis",
+      "incarnate.genesis.socket_total_core_genesis"
+    ]
+  ]
+}

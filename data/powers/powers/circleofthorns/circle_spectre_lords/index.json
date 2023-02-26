@@ -1,0 +1,26 @@
+{
+  "name": "Circle_Spectre_Lords",
+  "display_name": "Circle_Spectre_Lords",
+  "display_fullname": "CircleOfThorns.Circle Spectre Lords",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_SPECTRE_LORDS.POWERSETS",
+  "icon": "circle_spectre_lords_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Spectre_Lords.Midnight_Grasp",
+    "CircleOfThorns.Circle_Spectre_Lords.Chill_of_the_Night"
+  ],
+  "power_display_names": [
+    "Midnight Grasp",
+    "Chill of the Night"
+  ],
+  "power_short_helps": [
+    "Immobilize, DoT(Negative), -ACC",
+    "-ACC"
+  ]
+}

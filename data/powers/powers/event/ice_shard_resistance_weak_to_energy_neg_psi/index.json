@@ -1,0 +1,22 @@
+{
+  "name": "Ice_Shard_Resistance_Weak_to_Energy_Neg_Psi",
+  "display_name": "Ice Shard Resistance Weak to Energy Neg Psi",
+  "display_fullname": "Event.Ice Shard Resistance Weak to Energy Neg Psi",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/ICE_SHARD_RESISTANCE_WEAK_TO_ENERGY_NEG_PSI.POWERSETS",
+  "icon": "ice_shard_resistance_weak_to_energy_neg_psi_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Ice_Shard_Resistance_Weak_to_Energy_Neg_Psi.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

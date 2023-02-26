@@ -1,0 +1,103 @@
+{
+  "name": "PraetorianTEST_GhoulX_Melee",
+  "gender": "GENDER_MALE",
+  "group_name": "PraetorianTEST",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "Former members of the highly decorated TRB (Threat Response Battalion), these genetically reengineered super soldiers are armed with the best weapons and equipment available. Shock Troopers are equipped with beam swords and power shields.",
+    "group_description": "IDF 2nd Battalion",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "P_Ghouls.GhoulX_Lt_Resistance.Resistance",
+      "P_Ghouls.GhoulX_Lt_Resistance.Fast_Healing",
+      "P_Ghouls.GhoulX_Lt_Resistance.Dull_Pain",
+      "P_Ghouls.GhoulX_Melee.Hack",
+      "P_Ghouls.GhoulX_Melee.Slash",
+      "P_Ghouls.GhoulX_Melee.Throwing_Knives",
+      "P_Ghouls.GhoulX_Defense.Deflection",
+      "P_Ghouls.GhoulX_Defense.Against_All_Odds"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Fast Healing",
+      "Dull Pain",
+      "Hack",
+      "Slash",
+      "Throwing Knives",
+      "Deflection",
+      "Against All Odds"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "GhoulX_Lt_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "GhoulX_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "GhoulX_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "X-Type Shock Trooper"
+      ],
+      "costumes": [
+        "GhoulXMelee"
+      ]
+    }
+  ]
+}

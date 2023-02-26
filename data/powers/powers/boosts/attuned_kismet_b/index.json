@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Kismet_B",
+  "display_name": "Attuned Kismet B",
+  "display_fullname": "Boosts.Attuned Kismet B",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Kismet",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_KISMET_B.POWERSETS",
+  "icon": "attuned_kismet_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Kismet_B.Attuned_Kismet_B"
+  ],
+  "power_display_names": [
+    "Kismet: Defense/Recharge"
+  ],
+  "power_short_helps": [
+    "+DEF (all), +Rech"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "PraetorianResistance_Belladonna",
+  "gender": "GENDER_FEMALE",
+  "group_name": "PraetorianResistance",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_elite",
+    "description": "One of the deadliest covert agents in the world, Belladonna has proven herself a most capable spy and killer for the Resistance. Though her past is a well kept secret, Belladonna makes it clear that she has no love for Tyrant or his lackeys. Rumors abound that she was trained by Chimera; Tyrant's Praetor of Intelligence and widely considered the deadliest assassin in the world. Belladonna will one day put that title to the test.",
+    "group_description": null,
+    "display_class_name": "Assassin",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "PraetorianResistance.Belladonna.Pistols",
+      "PraetorianResistance.Belladonna.Dual_Wield",
+      "PraetorianResistance.Belladonna.Bullet_Rain",
+      "PraetorianResistance.Belladonna.Executioners_Shot",
+      "PraetorianResistance.Belladonna.High_Pain_Tolerance",
+      "PraetorianResistance.Belladonna.Fast_Healing",
+      "PraetorianResistance.Belladonna.Quick_Recovery",
+      "PraetorianResistance.Belladonna.Rise_to_the_Challenge",
+      "PraetorianResistance.Belladonna.Resurgence",
+      "PraetorianResistance.Belladonna.Incendiary_Ammunition"
+    ],
+    "power_display_names": [
+      "Pistols",
+      "Dual Wield",
+      "Bullet Rain",
+      "Executioner's Shot",
+      "High Pain Tolerance",
+      "Fast Healing",
+      "Quick Recovery",
+      "Rise to the Challenge",
+      "Resurgence",
+      "Incendiary Ammunition"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "PraetorianResistance",
+        "power_set": "Belladonna",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "Belladonna Vetrano"
+      ],
+      "costumes": [
+        "Resistance_Bella_01"
+      ]
+    }
+  ]
+}

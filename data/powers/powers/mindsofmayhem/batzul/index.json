@@ -1,0 +1,42 @@
+{
+  "name": "Batzul",
+  "display_name": "Batzul",
+  "display_fullname": "MindsOfMayhem.Batzul",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/BATZUL.POWERSETS",
+  "icon": "batzul_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Batzul.Fire_Blast",
+    "MindsOfMayhem.Batzul.Fire_Ball",
+    "MindsOfMayhem.Batzul.Flash_Stomp",
+    "MindsOfMayhem.Batzul.Fire_Breath",
+    "MindsOfMayhem.Batzul.Fire_Smash",
+    "MindsOfMayhem.Batzul.Fire_Swipe"
+  ],
+  "power_display_names": [
+    "Fire Blast",
+    "Fire Ball",
+    "Flash Stomp",
+    "Fire Breath",
+    "Fire Smash",
+    "Fire Swipe"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG (Fire), Minor DoT (Fire)",
+    "TAoE, Moderate DMG (Fire), Moderate DoT (Fire)",
+    "PBAoE, Moderate DMG(Fire), Minor DoT(Fire), Knockback(Foe)",
+    "Ranged Cone, High DoT (Fire)",
+    "Melee Heavy Smash, Fire",
+    "Melee Heavy Lethal/Fire"
+  ]
+}

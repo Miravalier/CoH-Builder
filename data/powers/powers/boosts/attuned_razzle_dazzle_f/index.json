@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Razzle_Dazzle_F",
+  "display_name": "Attuned Razzle Dazzle F",
+  "display_fullname": "Boosts.Attuned Razzle Dazzle F",
+  "display_help": "Gives a chance of immobilizing the target. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Razzle Dazzle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_RAZZLE_DAZZLE_F.POWERSETS",
+  "icon": "attuned_razzle_dazzle_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Razzle_Dazzle_F.Attuned_Razzle_Dazzle_F"
+  ],
+  "power_display_names": [
+    "Razzle Dazzle: Chance for Immobilize"
+  ],
+  "power_short_helps": [
+    "Chance for Immobilize"
+  ]
+}

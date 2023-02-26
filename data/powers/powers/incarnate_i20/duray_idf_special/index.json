@@ -1,0 +1,34 @@
+{
+  "name": "Duray_IDF_Special",
+  "display_name": "Duray IDF Special",
+  "display_fullname": "Incarnate I20.Duray IDF Special",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/DURAY_IDF_SPECIAL.POWERSETS",
+  "icon": "duray_idf_special_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Duray_IDF_Special.Backup_Copy",
+    "Incarnate_I20.Duray_IDF_Special.Backup_Copy_Summon",
+    "Incarnate_I20.Duray_IDF_Special.Backup_Copy_Check",
+    "Incarnate_I20.Duray_IDF_Special.Backup_Copy_Delay"
+  ],
+  "power_display_names": [
+    "Backup Copy",
+    "Backup Copy Summon",
+    "Backup Copy Check",
+    "Backup Copy Delay"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant",
+    "Grant",
+    "Grant"
+  ]
+}

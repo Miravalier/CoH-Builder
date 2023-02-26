@@ -1,0 +1,80 @@
+{
+  "name": "Rikti_Patrol_Ship",
+  "gender": "GENDER_MALE",
+  "group_name": "Rikti",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic",
+    "Raid"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BIGMONSTER",
+    "ai_config": "Rikti_Dropship",
+    "character_class_name": "boss_monster_flying",
+    "description": "A Rikti Transport. It also serves effectively as a Patrol ship.",
+    "group_description": null,
+    "display_class_name": "Transport",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [
+      "RiktiDropShip",
+      "VanguardMeritShip",
+      "Giant_Monster_Merit"
+    ],
+    "power_full_names": [
+      "Rikti.Drop_Ship.Energy_Burst",
+      "Rikti.Drop_Ship.Fly",
+      "Rikti.Drop_Ship.Resistance"
+    ],
+    "power_display_names": [
+      "Energy Burst",
+      "Fly",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Rikti",
+        "power_set": "Drop_Ship",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Drop Ship"
+      ],
+      "costumes": [
+        "Rikti_Dropship"
+      ]
+    }
+  ]
+}

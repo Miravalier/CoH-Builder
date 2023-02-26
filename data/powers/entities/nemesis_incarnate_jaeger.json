@@ -1,0 +1,115 @@
+{
+  "name": "Nemesis_Incarnate_Jaeger",
+  "gender": "GENDER_MALE",
+  "group_name": "Nemesis",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.Nemesis_Jaeger",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "This is not your typical Jaeger automaton. It's clear that Nemesis has somehow used the energy from Pandora's Box to power his creations. As if they weren't dangerous enough already.",
+    "group_description": "Incarnate Automatons",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.9,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Nemesis.Nemesis_Jaeger_Ranged.Jaeger_Gun",
+      "Nemesis.Nemesis_Jaeger_Ranged.Jaeger_Cannon",
+      "Nemesis.Nemesis_Jaeger_Ranged.Gas_Grenade",
+      "Nemesis.Nemesis_Jaeger_Melee.Jaeger_Saw",
+      "Nemesis.Nemesis_Jaeger_Melee.Jaeger_Mace",
+      "Nemesis.Nemesis_Jaeger_Defense.Resistance",
+      "Nemesis.Nemesis_Jaeger_Defense.Explode",
+      "PandorasBox_Issue1Powers.Pandoras_Might.Pandoran_Power",
+      "PandorasBox_Issue4Powers.Pandora_Empowerment.Pandora_Empowerment"
+    ],
+    "power_display_names": [
+      "Jaeger Gun",
+      "Jaeger Cannon",
+      "Gas Grenade",
+      "Jaeger Saw",
+      "Jaeger Mace",
+      "Resistance",
+      "Explode",
+      "Pandoran Power",
+      "Pandora Empowerment"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Jaeger_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Jaeger_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Jaeger_Defense",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "PandorasBox_Issue1Powers",
+        "power_set": "Pandoras_Might",
+        "power": "Pandoran_Power",
+        "level": 0
+      },
+      {
+        "power_category": "PandorasBox_Issue4Powers",
+        "power_set": "Pandora_Empowerment",
+        "power": "Pandora_Empowerment",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Macht Jaeger"
+      ],
+      "costumes": [
+        "Nemesis_Drone"
+      ]
+    }
+  ]
+}

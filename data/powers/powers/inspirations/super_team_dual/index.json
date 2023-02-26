@@ -1,0 +1,30 @@
+{
+  "name": "Super_Team_Dual",
+  "display_name": "Super Team Dual",
+  "display_fullname": "Inspirations.Super Team Dual",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Super Team Dual",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/SUPER_TEAM_DUAL.POWERSETS",
+  "icon": "super_team_dual_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Super_Team_Dual.Refreshing_Imbuement",
+    "Inspirations.Super_Team_Dual.Impenetrable_Imbuement",
+    "Inspirations.Super_Team_Dual.Intuition_Imbuement"
+  ],
+  "power_display_names": [
+    "Refreshing Imbuement",
+    "Impenetrable Imbuement",
+    "Intuition Imbuement"
+  ],
+  "power_short_helps": [
+    "+37.5% End and Health to Team",
+    "+24.75% Def(All), +15% Res(All), Res(Teleport) to Team",
+    "+28.12% To Hit, +37.5% Damage, +50% Perception to Team"
+  ]
+}

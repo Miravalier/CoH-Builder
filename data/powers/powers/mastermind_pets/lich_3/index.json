@@ -1,0 +1,38 @@
+{
+  "name": "Lich_3",
+  "display_name": "Necro Lich",
+  "display_fullname": "Mastermind Pets.Necro Lich",
+  "display_help": "The lich is an undead entity that, when alive, possessed many dark powers of his own. Perhaps it was a dark wizard, or powerful arch villain. Perhaps it was even a Necromancer. Now it only hungers for the souls of the living, and is quite good at feeding itself.",
+  "display_short_help": "Lich",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/LICH_3.POWERSETS",
+  "icon": "lich_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Lich_3.Fearsome_Stare",
+    "Mastermind_Pets.Lich_3.Costume2",
+    "Mastermind_Pets.Lich_3.Mode2",
+    "Mastermind_Pets.Lich_3.Empower",
+    "Mastermind_Pets.Lich_3.Life_Drain"
+  ],
+  "power_display_names": [
+    "Fearsome Stare",
+    "Costume2",
+    "Mode2",
+    "Dark Empowerment",
+    "Life Drain"
+  ],
+  "power_short_helps": [
+    "Fear, -To Hit",
+    "Empower",
+    "Empower",
+    "Empower",
+    "-To Hit"
+  ]
+}

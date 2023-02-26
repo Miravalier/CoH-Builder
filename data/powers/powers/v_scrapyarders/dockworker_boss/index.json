@@ -1,0 +1,42 @@
+{
+  "name": "Dockworker_Boss",
+  "display_name": "Dockworker Boss",
+  "display_fullname": "V Scrapyarders.Dockworker Boss",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/DOCKWORKER_BOSS.POWERSETS",
+  "icon": "dockworker_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Dockworker_Boss.Jab",
+    "V_Scrapyarders.Dockworker_Boss.Punch",
+    "V_Scrapyarders.Dockworker_Boss.Haymaker",
+    "V_Scrapyarders.Dockworker_Boss.Hurl",
+    "V_Scrapyarders.Dockworker_Boss.Assault",
+    "V_Scrapyarders.Dockworker_Boss.Molotov_Cocktail"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Haymaker",
+    "Hurl",
+    "Assault",
+    "Molotov Cocktail"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "PBAoE, Team +DMG",
+    "Targeted AoE Fire, DoT(Fire)"
+  ]
+}

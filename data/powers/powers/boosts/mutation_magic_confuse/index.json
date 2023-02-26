@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Confuse",
+  "display_name": "Mutation Magic Confuse",
+  "display_fullname": "Boosts.Mutation Magic Confuse",
+  "display_help": "Increases the duration of a confuse power.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_CONFUSE.POWERSETS",
+  "icon": "mutation_magic_confuse_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Confuse.Mutation_Magic_Confuse"
+  ],
+  "power_display_names": [
+    "Mask (Confuse)"
+  ],
+  "power_short_helps": [
+    "Enhances Confuse Duration"
+  ]
+}

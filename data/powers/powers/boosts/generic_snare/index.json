@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Snare",
+  "display_name": "Generic Snare",
+  "display_fullname": "Boosts.Generic Snare",
+  "display_help": "Increases the effectiveness of powers that slow",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_SNARE.POWERSETS",
+  "icon": "generic_snare_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Snare.Generic_Snare"
+  ],
+  "power_display_names": [
+    "Training: Slow"
+  ],
+  "power_short_helps": [
+    "Enhances Slow Powers"
+  ]
+}

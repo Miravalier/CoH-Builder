@@ -1,0 +1,54 @@
+{
+  "name": "Assault_Rifle",
+  "display_name": "Assault Rifle",
+  "display_fullname": "Blaster Ranged.Assault Rifle",
+  "display_help": "The Assault Rifle is a state-of-the-art piece of hardware. It is equipped to handle an impressive arsenal of munitions and firing modes. The Assault Rifle is also equipped with the latest in targeting technology, and is a very accurate weapon.",
+  "display_short_help": "Assault Rifle",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BLASTER_RANGED/ASSAULT_RIFLE.POWERSETS",
+  "icon": "assault_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Blaster_Ranged.Assault_Rifle.Burst",
+    "Blaster_Ranged.Assault_Rifle.Tranquilizer_Dart",
+    "Blaster_Ranged.Assault_Rifle.Buckshot",
+    "Blaster_Ranged.Assault_Rifle.M30_Grenade",
+    "Blaster_Ranged.Assault_Rifle.Beanbag",
+    "Blaster_Ranged.Assault_Rifle.Sniper_Rifle",
+    "Blaster_Ranged.Assault_Rifle.Flamethrower",
+    "Blaster_Ranged.Assault_Rifle.Ignite",
+    "Blaster_Ranged.Assault_Rifle.Full_Auto"
+  ],
+  "power_display_names": [
+    "Burst",
+    "Slug",
+    "Buckshot",
+    "M30 Grenade",
+    "Beanbag",
+    "Sniper Rifle",
+    "Flamethrower",
+    "Ignite",
+    "Full Auto"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Lethal), Foe -DEF",
+    "Ranged, Moderate DMG(Lethal), Foe Knockback",
+    "Ranged (Cone), Light DMG(Lethal), Foe Knockback",
+    "Ranged (Targeted AoE), Light DMG(Lethal/Fire), Knockback",
+    "Ranged, Minor DMG(Smash), Foe Disorient",
+    "Sniper, High DMG(Lethal), Foe Knockback, Self +Range",
+    "Ranged (Cone), Extreme DoT(Fire)",
+    "Ranged (Targeted AoE), Moderate DoT(Fire)",
+    "Ranged (Cone), Superior DMG(Lethal), +Special"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Fire_Brute",
+  "display_name": "Fire Brute",
+  "display_fullname": "V GenericVillains.Fire Brute",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/FIRE_BRUTE.POWERSETS",
+  "icon": "fire_brute_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Fire_Brute.Scorch",
+    "V_GenericVillains.Fire_Brute.Cremate",
+    "V_GenericVillains.Fire_Brute.Fire_Sword",
+    "V_GenericVillains.Fire_Brute.Fire_Breath",
+    "V_GenericVillains.Fire_Brute.Fire_Shield"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Cremate",
+    "Fire Sword",
+    "Fire Breath",
+    "Fire Shield"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Melee, High DMG(Smash/Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "Toggle: Self +Res(Fire, Lethal, Smash, Cold)"
+  ]
+}

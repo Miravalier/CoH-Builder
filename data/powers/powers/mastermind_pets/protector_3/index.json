@@ -1,0 +1,38 @@
+{
+  "name": "Protector_3",
+  "display_name": "Robot Protector",
+  "display_fullname": "Mastermind Pets.Robot Protector",
+  "display_help": "Only the most insidious Mastermind could construct such an army. Cold and relentless, these Bots obey only one voice, and will execute any order without hesitation.",
+  "display_short_help": "Protector",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/PROTECTOR_3.POWERSETS",
+  "icon": "protector_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Protector_3.Overcharged_Burst",
+    "Mastermind_Pets.Protector_3.Photon_Grenade",
+    "Mastermind_Pets.Protector_3.Seeker_Drones",
+    "Mastermind_Pets.Protector_3.Repair",
+    "Mastermind_Pets.Protector_3.Upgrade"
+  ],
+  "power_display_names": [
+    "Overcharged Burst",
+    "Photon Grenade",
+    "Seeker Drones",
+    "Repair",
+    "Upgrade"
+  ],
+  "power_short_helps": [
+    "Ranged, DoT (Energy), Foe Knockback",
+    "Disorient",
+    "Summon Seekers: Ranged Disorient, -DMG, -ACC, -Perception, Low DMG(Energy)",
+    "Heal Robot",
+    "Upgrade"
+  ]
+}

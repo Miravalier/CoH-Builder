@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Tank_Freak_Defense",
+  "display_name": "Freakshow_Tank_Freak_Defense",
+  "display_fullname": "Freakshow.Freakshow Tank Freak Defense",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_TANK_FREAK_DEFENSE.POWERSETS",
+  "icon": "freakshow_tank_freak_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Tank_Freak_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Smash, Lethal, KB, Disorient"
+  ]
+}

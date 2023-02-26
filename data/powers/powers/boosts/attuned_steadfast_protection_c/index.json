@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Steadfast_Protection_C",
+  "display_name": "Attuned Steadfast Protection C",
+  "display_fullname": "Boosts.Attuned Steadfast Protection C",
+  "display_help": "Reduces Knockback effects by -4.",
+  "display_short_help": "Set: Steadfast Protection",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_STEADFAST_PROTECTION_C.POWERSETS",
+  "icon": "attuned_steadfast_protection_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Steadfast_Protection_C.Attuned_Steadfast_Protection_C"
+  ],
+  "power_display_names": [
+    "Steadfast Protection: Knockback Protection"
+  ],
+  "power_short_helps": [
+    "-KB"
+  ]
+}

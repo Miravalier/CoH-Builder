@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Boxing",
+  "display_name": "Trolls_Boxing",
+  "display_fullname": "Trolls.Trolls Boxing",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_BOXING.POWERSETS",
+  "icon": "trolls_boxing_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Boxing.Boxing"
+  ],
+  "power_display_names": [
+    "Boxing"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

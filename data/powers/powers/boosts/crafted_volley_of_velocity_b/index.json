@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Volley_of_Velocity_B",
+  "display_name": "Crafted Volley of Velocity B",
+  "display_fullname": "Boosts.Crafted Volley of Velocity B",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}% and the accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Volley of Velocity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_VOLLEY_OF_VELOCITY_B.POWERSETS",
+  "icon": "crafted_volley_of_velocity_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Volley_of_Velocity_B.Crafted_Volley_of_Velocity_B"
+  ],
+  "power_display_names": [
+    "Volley of Velocity: Knockback/Accuracy"
+  ],
+  "power_short_helps": [
+    "+Knockback, +ACC"
+  ]
+}

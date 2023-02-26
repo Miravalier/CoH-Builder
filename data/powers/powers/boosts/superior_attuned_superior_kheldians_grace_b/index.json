@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Kheldians_Grace_B",
+  "display_name": "Superior Attuned Superior Kheldians Grace B",
+  "display_fullname": "Boosts.Superior Attuned Kheldians Grace B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Peacebringers and Warshades and may be slotted into any of their damage powers.",
+  "display_short_help": "Set: Superior Kheldian's Grace",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_KHELDIANS_GRACE_B.POWERSETS",
+  "icon": "superior_attuned_superior_kheldians_grace_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Kheldians_Grace_B.Superior_Attuned_Superior_Kheldians_Grace_B"
+  ],
+  "power_display_names": [
+    "Superior Kheldian's Grace: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Red_Fortune_B",
+  "display_name": "Crafted Red Fortune B",
+  "display_fullname": "Boosts.Crafted Red Fortune B",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Red Fortune",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RED_FORTUNE_B.POWERSETS",
+  "icon": "crafted_red_fortune_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Red_Fortune_B.Crafted_Red_Fortune_B"
+  ],
+  "power_display_names": [
+    "Red Fortune: Defense/Recharge"
+  ],
+  "power_short_helps": [
+    "+DEF (all), +Rech"
+  ]
+}

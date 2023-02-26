@@ -1,0 +1,109 @@
+{
+  "name": "Reflections_Nemesis_Medic",
+  "gender": "GENDER_MALE",
+  "group_name": "Reflections",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 41,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 2,
+    "spawn_limit_mission": 2,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "These Reflections of Battle Surgeons are charged with the vital duty of getting wounded soldiers back into the fight as quickly as possible. Of course, when the chips are down, they're not above entering the battle themselves.",
+    "group_description": "Shadow Shard Reflections",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Rularuu.Reflections.Resistance",
+      "Nemesis.Nemesis_Line_Melee.Bayonet",
+      "Nemesis.Nemesis_Line_Ranged.Nemesis_Rifle",
+      "Nemesis.Nemesis_Medic.Triage",
+      "Nemesis.Nemesis_Soldier_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Bayonet",
+      "Nemesis Rifle",
+      "Triage",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Rularuu",
+        "power_set": "Reflections",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Line_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Line_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Medic",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Soldier_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 41,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Chasseur surgeon",
+        "Armiger surgeon",
+        "Lancer surgeon"
+      ],
+      "costumes": [
+        "Nemesis_Soldier_01",
+        "Nemesis_Soldier_02",
+        "Nemesis_Soldier_03"
+      ]
+    }
+  ]
+}

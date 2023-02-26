@@ -1,0 +1,26 @@
+{
+  "name": "Fire_Tanker_Mid",
+  "display_name": "Fire Tanker Mid",
+  "display_fullname": "V GenericHeroes.Fire Tanker Mid",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/FIRE_TANKER_MID.POWERSETS",
+  "icon": "fire_tanker_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Fire_Tanker_Mid.Fire_Sword_Circle",
+    "V_GenericHeroes.Fire_Tanker_Mid.Healing_Flames"
+  ],
+  "power_display_names": [
+    "Fire Sword Circle",
+    "Healing Flames"
+  ],
+  "power_short_helps": [
+    "PBAoE Melee, Moderate DMG(Fire/Lethal)",
+    "Self Heal, Res(Disorient)"
+  ]
+}

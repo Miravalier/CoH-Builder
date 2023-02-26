@@ -1,0 +1,546 @@
+{
+  "name": "Makos_Bite",
+  "display_name": "Mako's Bite",
+  "group_name": "Melee Damage",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Melee"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Makos_Bite_A.Crafted_Makos_Bite_A",
+      "Boosts.Attuned_Makos_Bite_A.Attuned_Makos_Bite_A"
+    ],
+    [
+      "Boosts.Crafted_Makos_Bite_B.Crafted_Makos_Bite_B",
+      "Boosts.Attuned_Makos_Bite_B.Attuned_Makos_Bite_B"
+    ],
+    [
+      "Boosts.Crafted_Makos_Bite_C.Crafted_Makos_Bite_C",
+      "Boosts.Attuned_Makos_Bite_C.Attuned_Makos_Bite_C"
+    ],
+    [
+      "Boosts.Crafted_Makos_Bite_D.Crafted_Makos_Bite_D",
+      "Boosts.Attuned_Makos_Bite_D.Attuned_Makos_Bite_D"
+    ],
+    [
+      "Boosts.Crafted_Makos_Bite_E.Crafted_Makos_Bite_E",
+      "Boosts.Attuned_Makos_Bite_E.Attuned_Makos_Bite_E"
+    ],
+    [
+      "Boosts.Crafted_Makos_Bite_F.Crafted_Makos_Bite_F",
+      "Boosts.Attuned_Makos_Bite_F.Attuned_Makos_Bite_F"
+    ]
+  ],
+  "min_level": 30,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_1",
+          "Tiny Toxic, Psionic and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_5",
+          "Huge Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_4",
+          "Large Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_5",
+          "Huge Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png",
+      "e_icon_makosbite.png"
+    ],
+    "boosts": [
+      [
+        "Mako's Bite: Accuracy/Damage",
+        "Attuned Mako's Bite: Accuracy/Damage"
+      ],
+      [
+        "Mako's Bite: Damage/Endurance",
+        "Attuned Mako's Bite: Damage/Endurance"
+      ],
+      [
+        "Mako's Bite: Damage/Recharge",
+        "Attuned Mako's Bite: Damage/Recharge"
+      ],
+      [
+        "Mako's Bite: Accuracy/Endurance/Recharge",
+        "Attuned Mako's Bite: Accuracy/Endurance/Recharge"
+      ],
+      [
+        "Mako's Bite: Accuracy/Damage/Endurance/Recharge",
+        "Attuned Mako's Bite: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Mako's Bite: Chance for Lethal Damage",
+        "Attuned Mako's Bite: Chance for Lethal Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_makos_bite_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_makos_bite_a.attuned_makos_bite_a",
+          "Mako's Bite: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Mako's Bite: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "attuned_makos_bite_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Mako's Bite: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "crafted_makos_bite_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_makos_bite_b.attuned_makos_bite_b",
+          "Mako's Bite: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Mako's Bite: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "attuned_makos_bite_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Mako's Bite: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "crafted_makos_bite_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_makos_bite_c.attuned_makos_bite_c",
+          "Mako's Bite: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Mako's Bite: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "attuned_makos_bite_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Mako's Bite: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "crafted_makos_bite_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_makos_bite_d.attuned_makos_bite_d",
+          "Mako's Bite: Accuracy/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Mako's Bite: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "attuned_makos_bite_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Mako's Bite: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "crafted_makos_bite_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_makos_bite_e.attuned_makos_bite_e",
+          "Mako's Bite: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Mako's Bite: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "attuned_makos_bite_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Mako's Bite: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "crafted_makos_bite_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_makos_bite_f.attuned_makos_bite_f",
+          "Mako's Bite: Chance for Lethal Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Mako's Bite: Chance for Lethal Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      },
+      "attuned_makos_bite_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Mako's Bite: Chance for Lethal Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "makos_bite",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_makosbite.png"
+      }
+    }
+  }
+}

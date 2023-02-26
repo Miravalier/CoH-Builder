@@ -1,0 +1,22 @@
+{
+  "name": "Generic_ToHit_Buff",
+  "display_name": "Generic ToHit Buff",
+  "display_fullname": "Boosts.Generic ToHit Buff",
+  "display_help": "Enhances the effectiveness of accuracy buffs.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_TOHIT_BUFF.POWERSETS",
+  "icon": "generic_tohit_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_ToHit_Buff.Generic_ToHit_Buff"
+  ],
+  "power_display_names": [
+    "Training: To Hit Buff"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit Buffs"
+  ]
+}

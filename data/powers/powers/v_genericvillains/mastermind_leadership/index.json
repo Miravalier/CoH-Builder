@@ -1,0 +1,22 @@
+{
+  "name": "Mastermind_Leadership",
+  "display_name": "Mastermind Leadership",
+  "display_fullname": "V GenericVillains.Mastermind Leadership",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/MASTERMIND_LEADERSHIP.POWERSETS",
+  "icon": "mastermind_leadership_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Mastermind_Leadership.Maneuvers"
+  ],
+  "power_display_names": [
+    "Maneuvers"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +DEF(All), +DMG, Res(Taunt, Placate), +ACC, Res(Confuse, Fear), +Perception"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Sky_Raider_Duray_Melee",
+  "display_name": "Sky_Raider_Duray_Melee",
+  "display_fullname": "SkyRaiders.Sky Raider Duray Melee",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_DURAY_MELEE.POWERSETS",
+  "icon": "sky_raider_duray_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Duray_Melee.Rifle_Butt",
+    "SkyRaiders.Sky_Raider_Duray_Melee.Brawl",
+    "SkyRaiders.Sky_Raider_Duray_Melee.Force_Field_Generator"
+  ],
+  "power_display_names": [
+    "Rifle Butt",
+    "Brawl",
+    "Force Field Generator"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "Melee Smash",
+    "AoE Buff Def"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crey_Lt_Boss_Armored_ChainGun",
+  "display_name": "Crey_Lt_Boss_Armored_ChainGun",
+  "display_fullname": "Crey.Crey Lt Boss Armored ChainGun",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_LT_BOSS_ARMORED_CHAINGUN.POWERSETS",
+  "icon": "crey_lt_boss_armored_chaingun_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Lt_Boss_Armored_ChainGun.Chain_Gun",
+    "Crey.Crey_Lt_Boss_Armored_ChainGun.Brawl",
+    "Crey.Crey_Lt_Boss_Armored_ChainGun.Kick"
+  ],
+  "power_display_names": [
+    "Chain Gun",
+    "Brawl",
+    "Kick"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, High Dam, +Acc",
+    "Melee Smash",
+    "Melee, DMG(Smash), Foe Stun"
+  ]
+}

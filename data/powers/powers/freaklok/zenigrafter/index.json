@@ -1,0 +1,38 @@
+{
+  "name": "Zenigrafter",
+  "display_name": "Zenigrafter",
+  "display_fullname": "Freaklok.Zenigrafter",
+  "display_help": "Zenigrafter",
+  "display_short_help": "Zenigrafter",
+  "available_level": [
+    0,
+    3,
+    11,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/ZENIGRAFTER.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Zenigrafter.Neutrino_Bolt",
+    "Freaklok.Zenigrafter.Irradiate",
+    "Freaklok.Zenigrafter.Lingering_Radiation",
+    "Freaklok.Zenigrafter.Missile_Launch",
+    "Freaklok.Zenigrafter.Cybernetic_Blade"
+  ],
+  "power_display_names": [
+    "Neutrino Bolt",
+    "Irradiate",
+    "Lingering Radiation",
+    "Missile Launch",
+    "Cybernetic Blade"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy), Foe -DEF",
+    "Close (AoE), Moderate DoT(Energy), Foe -DEF",
+    "Ranged (Targeted AoE), Foe -Speed, -Recharge, -Regen",
+    "Ranged AoE Lethal/Smash, +KB",
+    "Melee Lethal"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Arachnos_Operative_Kirkland",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Arachnos Operative Kirkland keeps tabs on the various villainous factions on Sharkhead Isle, making sure that no one group gains too much power or overly disrupts the day-to-day activities that keep the area functional.",
+    "group_description": null,
+    "display_class_name": "Arachnos Operative",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Wolf_Spider_Huntsman.Rifle_Butt",
+      "V_Arachnos.Wolf_Spider_Huntsman.Shotgun",
+      "V_Arachnos.Wolf_Spider_Grenade.Frag_Grenade",
+      "V_Arachnos.Wolf_Spider_WideWebGrenade.Wide_Area_Web_Grenade",
+      "V_Arachnos.Wolf_Spider_PoisonGrenade.Venom_Grenade",
+      "V_Arachnos.Wolf_Spider_Resistance.Wolf_Spider_Armor"
+    ],
+    "power_display_names": [
+      "Rifle Butt",
+      "Shotgun",
+      "Frag Grenade",
+      "Wide Area Web Grenade",
+      "Venom Grenade",
+      "Wolf Spider Armor"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Wolf_Spider_Huntsman",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Wolf_Spider_Grenade",
+        "power": "Frag_Grenade",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Wolf_Spider_WideWebGrenade",
+        "power": "Wide_Area_Web_Grenade",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Wolf_Spider_PoisonGrenade",
+        "power": "Venom_Grenade",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Wolf_Spider_Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Operative Kirkland"
+      ],
+      "costumes": [
+        "Model_Operative_Kirkland_NoRing"
+      ]
+    }
+  ]
+}

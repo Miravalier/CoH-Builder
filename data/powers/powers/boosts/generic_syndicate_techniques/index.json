@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Syndicate_Techniques",
+  "display_name": "Generic Syndicate Techniques",
+  "display_fullname": "Boosts.Generic Syndicate Techniques",
+  "display_help": "Enhances the damage and recharge of a power while providing a 12% chance to deal minor Lethal damage.",
+  "display_short_help": "Syndicate Techniques",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_SYNDICATE_TECHNIQUES.POWERSETS",
+  "icon": "generic_syndicate_techniques_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Syndicate_Techniques.Generic_Syndicate_Techniques"
+  ],
+  "power_display_names": [
+    "Syndicate Techniques: Damage/Recharge/Chance for Lethal damage"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Recharge and has a chance to deal minor Lethal damage"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Makos_Bite_C",
+  "display_name": "Attuned Mako's Bite C",
+  "display_fullname": "Boosts.Attuned Makos Bite C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Mako's Bite",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MAKOS_BITE_C.POWERSETS",
+  "icon": "attuned_makos_bite_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Makos_Bite_C.Attuned_Makos_Bite_C"
+  ],
+  "power_display_names": [
+    "Mako's Bite: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

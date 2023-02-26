@@ -1,0 +1,61 @@
+{
+  "name": "Pool",
+  "display_name": "Pool",
+  "source_file": "DEFS/POWERS/POOL.CATEGORIES",
+  "archetypes": [
+    "arachnos_soldier",
+    "arachnos_widow",
+    "blaster",
+    "brute",
+    "controller",
+    "corruptor",
+    "defender",
+    "dominator",
+    "mastermind",
+    "peacebringer",
+    "scrapper",
+    "sentinel",
+    "stalker",
+    "tanker",
+    "warshade"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "pool.experimentation",
+    "pool.fighting",
+    "pool.fitness",
+    "pool.flight",
+    "pool.force_of_will",
+    "pool.gadgetry",
+    "pool.invisibility",
+    "pool.leadership",
+    "pool.leaping",
+    "pool.manipulation",
+    "pool.medicine",
+    "pool.sorcery",
+    "pool.speed",
+    "pool.teleportation",
+    "pool.utility_belt"
+  ],
+  "powerset_display_names": [
+    "Experimentation",
+    "Fighting",
+    "Fitness",
+    "Flight",
+    "Force of Will",
+    "Gadgetry",
+    "Concealment",
+    "Leadership",
+    "Leaping",
+    "Presence",
+    "Medicine",
+    "Sorcery",
+    "Speed",
+    "Teleportation",
+    "Utility Belt"
+  ],
+  "powersets_with_requirements": [
+    "pool.utility_belt"
+  ]
+}

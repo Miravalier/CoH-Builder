@@ -1,0 +1,133 @@
+{
+  "name": "FreedomPhalanx_Back_Alley_Brawler_Giant",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomPhalanx",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 52,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BIGMONSTER",
+    "ai_config": "Signatures_Melee",
+    "character_class_name": "boss_archvillain",
+    "description": "One of the most veteran heroes in Paragon City, the Brawler is in semi-retirement, training the next generation of heroes. Though he rarely goes into the field these days, his power and fighting skills are still as potent as ever.",
+    "group_description": "Independent",
+    "display_class_name": "Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [
+      "RV_Reinforcements"
+    ],
+    "power_full_names": [
+      "V_Vindicators.Vindicator_Resistances.Resistance",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Back_Alley_Power_Punch",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Jab",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Punch",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Hand_Clap",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Knockout_Blow",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Hurl",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Foot_Stomp",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Bone_Smasher",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Total_Focus",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Dull_Pain",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Unyielding",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Assault",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Unstoppable",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Super_Leap",
+      "V_FreedomPhalanx.Back_Alley_Brawler_No_Debt.Resistance",
+      "V_FreedomPhalanx.Hero_Teleport.Teleport"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Back Alley Power Punch",
+      "Jab",
+      "Punch",
+      "Hand Clap",
+      "Knockout Blow",
+      "Hurl",
+      "Foot Stomp",
+      "Bone Smasher",
+      "Total Focus",
+      "Dull Pain",
+      "Unyielding",
+      "Assault",
+      "Unstoppable",
+      "Super Leap",
+      "Resistance",
+      "Teleport"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Vindicator_Resistances",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "Back_Alley_Brawler_No_Debt",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "Hero_Teleport",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 52,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Back Alley Brawler"
+      ],
+      "costumes": [
+        "Model_Back_Alley_Brawler"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Perplex_A",
+  "display_name": "Crafted Perplex A",
+  "display_fullname": "Boosts.Crafted Perplex A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Perplex",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_PERPLEX_A.POWERSETS",
+  "icon": "crafted_perplex_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Perplex_A.Crafted_Perplex_A"
+  ],
+  "power_display_names": [
+    "Perplex: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

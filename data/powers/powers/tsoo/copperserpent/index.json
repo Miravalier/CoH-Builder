@@ -1,0 +1,34 @@
+{
+  "name": "CopperSerpent",
+  "display_name": "CopperSerpent",
+  "display_fullname": "Tsoo.CopperSerpent",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/COPPERSERPENT.POWERSETS",
+  "icon": "copperserpent_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.CopperSerpent.Barb_Swipe",
+    "Tsoo.CopperSerpent.Lunge",
+    "Tsoo.CopperSerpent.Impale",
+    "Tsoo.CopperSerpent.Spine_Throwing"
+  ],
+  "power_display_names": [
+    "Barb Swipe",
+    "Lunge",
+    "Impale",
+    "Spine Throwing"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge, Immobilize",
+    "DoT(Toxic), -SPD, -Recharge"
+  ]
+}

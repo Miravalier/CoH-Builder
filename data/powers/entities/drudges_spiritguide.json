@@ -1,0 +1,93 @@
+{
+  "name": "Drudges_SpiritGuide",
+  "gender": "GENDER_MALE",
+  "group_name": "Drudges",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "This creature's grisly appearance is not unlike a hundred different descriptions of the grim reaper or the ferryman. Indeed, a spirit guide's existence is devoted to the ushering of souls from one world to the next. They do so with mechanical efficiency and enthusiasm, as their reward for a job well done is a payment in wax, which keeps their spirit candle burning, if only long enough to find another soul in need of guidance to the next world.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Drudges.Resistances.Damage_MN",
+      "Drudges.Spirit_Guide.Incandescent_Strike",
+      "Drudges.Spirit_Guide.Gleaming_Bolt",
+      "Drudges.Spirit_Guide.Proton_Scatter"
+    ],
+    "power_display_names": [
+      "Damage Resistance",
+      "Soul Strike",
+      "Soul Bolt",
+      "Soul Stream"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Drudges",
+        "power_set": "Resistances",
+        "power": "Damage_MN",
+        "level": 0
+      },
+      {
+        "power_category": "Drudges",
+        "power_set": "Spirit_Guide",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Spirit Guide"
+      ],
+      "costumes": [
+        "Drudges_Minion_01",
+        "Drudges_Minion_01a",
+        "Drudges_Minion_01b",
+        "Drudges_Minion_02",
+        "Drudges_Minion_02a",
+        "Drudges_Minion_02b",
+        "Drudges_Minion_03",
+        "Drudges_Minion_03a",
+        "Drudges_Minion_03b"
+      ]
+    }
+  ]
+}

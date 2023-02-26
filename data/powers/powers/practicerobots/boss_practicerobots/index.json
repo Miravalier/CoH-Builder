@@ -1,0 +1,22 @@
+{
+  "name": "Boss_PracticeRobots",
+  "display_name": "Boss_PracticeRobots",
+  "display_fullname": "PracticeRobots.Boss PracticeRobots",
+  "display_help": "Practice Robots",
+  "display_short_help": "Practice Robots",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRACTICEROBOTS/BOSS_PRACTICEROBOTS.POWERSETS",
+  "icon": "boss_practicerobots_set.png",
+  "requires": "",
+  "power_names": [
+    "PracticeRobots.Boss_PracticeRobots.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Self Auto Res All"
+  ]
+}

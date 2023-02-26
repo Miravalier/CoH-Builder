@@ -1,0 +1,106 @@
+{
+  "name": "Rikti_Eremite_Anathema_Boss",
+  "gender": "GENDER_MALE",
+  "group_name": "Rikti",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 5,
+    "max_level": 19,
+    "requires": "",
+    "spawn_limit": 2,
+    "spawn_limit_mission": 2,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": null,
+    "character_class_name": "boss_grunt",
+    "description": "The leaders of the Anathema have fully mutated minds that allow them to project their indomitable will onto others. They can use these powers to immobilize, hypnotize, or even dominate lesser wills. The Eremites are the preachers of the Lost. Their psychic abilities allow them to entrance crowds of possible converts.",
+    "group_description": "The Lost",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Rikti.Lost_Brawl.Brawl",
+      "Rikti.Lost_RiktiSword.Rikti_Sword",
+      "Rikti.Anathema_Pariah_Boss_AOE_Ranged.Mental_Blast",
+      "Rikti.Anathema_Pariah_Boss_AOE_Ranged.Mass_Hypnosis",
+      "Rikti.Anathema_Pariah_Boss_AOE_Ranged.Total_Domination",
+      "Rikti.Lost_Anathema_Pariah_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Brawl",
+      "Rikti Sword",
+      "Mental Blast",
+      "Mass Hypnosis",
+      "Total Domination",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Rikti",
+        "power_set": "Lost_Brawl",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Rikti",
+        "power_set": "Lost_RiktiSword",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Rikti",
+        "power_set": "Anathema_Pariah_Boss_AOE_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Rikti",
+        "power_set": "Lost_Anathema_Pariah_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 5,
+      "max_level": 19,
+      "experience": 0,
+      "display_names": [
+        "Aberrant Eremite"
+      ],
+      "costumes": [
+        "Lost_40",
+        "Lost_41",
+        "Lost_42",
+        "Lost_43",
+        "Lost_44"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "BanishedPantheon_Storm_WitchDoctor",
+  "gender": "GENDER_MALE",
+  "group_name": "BanishedPantheon",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 2,
+    "spawn_limit_mission": 2,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "BanishedPantheon_Storm_WitchDoctor",
+    "character_class_name": "lt_grunt",
+    "description": "The Storm Shamans have mastered the power of the tempest. Their summoned thunderstorms assail their foes with fiery bolts of lightning, while their windstorms make it difficult for their enemies to fight back.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.5,
+    "additional_rewards": [],
+    "power_full_names": [
+      "BanishedPantheon.Banished_Storm_Witch_Doctor.Knife",
+      "BanishedPantheon.Banished_Storm_Witch_Doctor.Thunder_Clap",
+      "BanishedPantheon.Banished_Storm_Witch_Doctor.Charged_Bolts",
+      "BanishedPantheon.Banished_Storm_Witch_Doctor.Hurricane",
+      "BanishedPantheon.Banished_Storm_Witch_Doctor.Lightning_Storm"
+    ],
+    "power_display_names": [
+      "Knife",
+      "Thunder Clap",
+      "Charged Bolts",
+      "Hurricane",
+      "Lightning Storm"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "BanishedPantheon",
+        "power_set": "Banished_Storm_Witch_Doctor",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Storm Shaman"
+      ],
+      "costumes": [
+        "Pantheon_Witchdoctor_01",
+        "Pantheon_Witchdoctor_02",
+        "Pantheon_Witchdoctor_03",
+        "Pantheon_Witchdoctor_04",
+        "Pantheon_Witchdoctor_05",
+        "Pantheon_Witchdoctor_06"
+      ]
+    }
+  ]
+}

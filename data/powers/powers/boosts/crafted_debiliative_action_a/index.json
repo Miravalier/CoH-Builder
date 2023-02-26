@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Debiliative_Action_A",
+  "display_name": "Crafted Debilitative Action A",
+  "display_fullname": "Boosts.Crafted Debiliative Action A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Debilitative Action",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DEBILIATIVE_ACTION_A.POWERSETS",
+  "icon": "crafted_debiliative_action_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Debiliative_Action_A.Crafted_Debiliative_Action_A"
+  ],
+  "power_display_names": [
+    "Debilitative Action: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

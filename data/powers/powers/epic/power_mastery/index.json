@@ -1,0 +1,38 @@
+{
+  "name": "Power_Mastery",
+  "display_name": "Power Mastery",
+  "display_fullname": "Epic.Power Mastery",
+  "display_help": "You have Mastery over Power and Energy to defeat your foes, increase your power, and to add some much needed armor and defense.",
+  "display_short_help": "Power Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/POWER_MASTERY.POWERSETS",
+  "icon": "power_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Power_Mastery.Conserve_Power",
+    "Epic.Power_Mastery.Power_Build_Up",
+    "Epic.Power_Mastery.Temp_Invulnerability",
+    "Epic.Power_Mastery.Force_of_Nature",
+    "Epic.Power_Mastery.Total_Focus"
+  ],
+  "power_display_names": [
+    "Conserve Power",
+    "Power Build Up",
+    "Temp Invulnerability",
+    "Force of Nature",
+    "Total Focus"
+  ],
+  "power_short_helps": [
+    "Self Endurance Discount",
+    "Self +DMG, +ACC, +Special",
+    "Toggle: Self +Res(Smash, Lethal)",
+    "Self, +Res(All DMG but Psionics)",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Undermined_Defenses_F",
+  "display_name": "Attuned Undermined Defenses F",
+  "display_fullname": "Boosts.Attuned Undermined Defenses F",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Undermined Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNDERMINED_DEFENSES_F.POWERSETS",
+  "icon": "attuned_undermined_defenses_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Undermined_Defenses_F.Attuned_Undermined_Defenses_F"
+  ],
+  "power_display_names": [
+    "Undermined Defenses: Recharge"
+  ],
+  "power_short_helps": [
+    "+Rech"
+  ]
+}

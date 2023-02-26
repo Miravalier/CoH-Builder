@@ -1,0 +1,144 @@
+{
+  "name": "Marauder_P_Marauder",
+  "gender": "GENDER_MALE",
+  "group_name": "Marauder",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid",
+    "IncarnateBoss"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Melee",
+    "character_class_name": "boss_praetorianarchvillain",
+    "description": "Praetor White, as he is known on Praetoria, heads up the Powers Division for Emperor Cole. These super-powered individuals act as the ultimate police force in keeping Praetoria the utopia it appears to be. All the while Praetor White feeds on the instability of the government and makes his own opportunities to look good.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Praetorians.P_Marauder.Punch",
+      "Praetorians.P_Marauder.Haymaker",
+      "Praetorians.P_Marauder.Hand_Clap",
+      "Praetorians.P_Marauder.Foot_Stomp",
+      "Praetorians.P_Marauder.Hurl",
+      "Praetorians.P_Marauder.Nova_Fist_Tell",
+      "Praetorians.P_Marauder.Nova_Fist_Punch",
+      "Praetorians.P_Marauder.Unstoppable",
+      "Praetorians.P_Marauder.Call_Artillery",
+      "Praetorians.P_Marauder.Berserker_Rage",
+      "GenericVillains.NotInCombat.NotInCombat",
+      "GenericVillains.Scaling.HP_15_Dmg_4_Min_8",
+      "GenericVillains.Supervillain_Resistance.Resistance",
+      "GenericVillains.Supervillain_Intangible.Grant_Intangible",
+      "GenericVillains.Supervillain_Intangible.Revoke_Intangible"
+    ],
+    "power_display_names": [
+      "Punch",
+      "Haymaker",
+      "Hand Clap",
+      "Foot Stomp",
+      "Hurl",
+      "Nova Fist",
+      "Nova Fist",
+      "Unstoppable",
+      "Call Artillery",
+      "Berserker Rage",
+      "NotInCombat",
+      "Scaling",
+      "Resistance",
+      "Grant Intangible",
+      "Revoke Intangible"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Praetorians",
+        "power_set": "P_Marauder",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "NotInCombat",
+        "power": "NotInCombat",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_15_Dmg_4_Min_8",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Resistance",
+        "power": "Resistance",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Intangible",
+        "power": "Grant_Intangible",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Intangible",
+        "power": "Revoke_Intangible",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Marauder"
+      ],
+      "costumes": [
+        "Signature_Marauder_Lambda_NoRing"
+      ]
+    }
+  ]
+}

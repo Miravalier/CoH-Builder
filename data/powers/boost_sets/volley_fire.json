@@ -1,0 +1,279 @@
+{
+  "name": "Volley_Fire",
+  "display_name": "Volley Fire",
+  "group_name": "Ranged Damage",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Ranged"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Volley_Fire_A.Crafted_Volley_Fire_A",
+      "Boosts.Attuned_Volley_Fire_A.Attuned_Volley_Fire_A"
+    ],
+    [
+      "Boosts.Crafted_Volley_Fire_B.Crafted_Volley_Fire_B",
+      "Boosts.Attuned_Volley_Fire_B.Attuned_Volley_Fire_B"
+    ],
+    [
+      "Boosts.Crafted_Volley_Fire_C.Crafted_Volley_Fire_C",
+      "Boosts.Attuned_Volley_Fire_C.Attuned_Volley_Fire_C"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_1",
+          "Tiny Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_1",
+          "Tiny Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_volleyfire.png",
+      "e_icon_volleyfire.png",
+      "e_icon_volleyfire.png",
+      "e_icon_volleyfire.png",
+      "e_icon_volleyfire.png",
+      "e_icon_volleyfire.png"
+    ],
+    "boosts": [
+      [
+        "Volley Fire: Accuracy/Damage",
+        "Attuned Volley Fire: Accuracy/Damage"
+      ],
+      [
+        "Volley Fire: Damage/Endurance",
+        "Attuned Volley Fire: Damage/Endurance"
+      ],
+      [
+        "Volley Fire: Damage/Recharge",
+        "Attuned Volley Fire: Damage/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_volley_fire_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_volley_fire_a.attuned_volley_fire_a",
+          "Volley Fire: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Volley Fire: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_fire",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_volleyfire.png"
+      },
+      "attuned_volley_fire_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Volley Fire: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_fire",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_volleyfire.png"
+      },
+      "crafted_volley_fire_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_volley_fire_b.attuned_volley_fire_b",
+          "Volley Fire: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Volley Fire: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_fire",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_volleyfire.png"
+      },
+      "attuned_volley_fire_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Volley Fire: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_fire",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_volleyfire.png"
+      },
+      "crafted_volley_fire_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_volley_fire_c.attuned_volley_fire_c",
+          "Volley Fire: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Volley Fire: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_fire",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_volleyfire.png"
+      },
+      "attuned_volley_fire_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Volley Fire: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "volley_fire",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_volleyfire.png"
+      }
+    }
+  }
+}

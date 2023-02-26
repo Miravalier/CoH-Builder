@@ -1,0 +1,22 @@
+{
+  "name": "Robot_Defense",
+  "display_name": "Robot_Defense",
+  "display_fullname": "Council.Robot Defense",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ROBOT_DEFENSE.POWERSETS",
+  "icon": "robot_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Robot_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

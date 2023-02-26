@@ -1,0 +1,42 @@
+{
+  "name": "Baron_Vordo",
+  "display_name": "Baron Vordo",
+  "display_fullname": "RoguesGallery.Baron Vordo",
+  "display_help": "Baron Vordo",
+  "display_short_help": "Baron Vordo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/BARON_VORDO.POWERSETS",
+  "icon": "baron_vordo_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.Baron_Vordo.Spectral_Wounds",
+    "RoguesGallery.Baron_Vordo.Telekinetic_Blast",
+    "RoguesGallery.Baron_Vordo.Psionic_Dart",
+    "RoguesGallery.Baron_Vordo.Mind_Probe",
+    "RoguesGallery.Baron_Vordo.Psionic_Lightning",
+    "RoguesGallery.Baron_Vordo.Drain_Psyche"
+  ],
+  "power_display_names": [
+    "Spectral Wounds",
+    "Telekinetic Blast",
+    "Psionic Dart",
+    "Mind Probe",
+    "Psionic Lightning",
+    "Drain Psyche"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG (Psionic/Lethal), DoT(Psionic)",
+    "Ranged, Moderate DMG (Smashing/Psionic), Knockback(Foe)",
+    "Ranged, Minor DMG(Psionic), Target -Recharge",
+    "Melee, Moderate DMG(Psionic), Target -Recharge",
+    "Ranged, High DMG(Psionic), Foe Stun, -Rech",
+    "PBAoE Foe -Regen, -Recovery; Self +Regen, +Recovery"
+  ]
+}

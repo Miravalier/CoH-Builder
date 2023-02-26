@@ -1,0 +1,22 @@
+{
+  "name": "Untouchable",
+  "display_name": "Untouchable",
+  "display_fullname": "MindsOfMayhem.Untouchable",
+  "display_help": "Untouchable",
+  "display_short_help": "Untouchable",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/UNTOUCHABLE.POWERSETS",
+  "icon": "untouchable_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Untouchable.Untouchable"
+  ],
+  "power_display_names": [
+    "Untouchable"
+  ],
+  "power_short_helps": [
+    "Untouchable"
+  ]
+}

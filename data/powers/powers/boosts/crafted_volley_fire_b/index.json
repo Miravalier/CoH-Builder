@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Volley_Fire_B",
+  "display_name": "Crafted Volley Fire B",
+  "display_fullname": "Boosts.Crafted Volley Fire B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Volley Fire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_VOLLEY_FIRE_B.POWERSETS",
+  "icon": "crafted_volley_fire_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Volley_Fire_B.Crafted_Volley_Fire_B"
+  ],
+  "power_display_names": [
+    "Volley Fire: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

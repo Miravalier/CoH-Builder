@@ -1,0 +1,287 @@
+{
+  "name": "Tyrant_P_Endgame_Tyrant_02",
+  "gender": "GENDER_MALE",
+  "group_name": "Tyrant",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.Tyrant_Tyrant_Escape",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_praetorianarchvillain",
+    "description": "Marcus Cole came from the streets of Shroud City with nothing to his name, and ascended to the ultimate throne of power. He pulled the planet back from nuclear annihilation, ended the Hamidon Wars with his own indomitable will, and created a perfect utopian society for all those who follow him. Cole has had many titles in his long life, Soldier, Hero, President, Consul, and for the last 25 years, Emperor of Earth.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "GenericVillains.Scaling.HP_15_Dmg_4_Min_8",
+      "GenericVillains.Supervillain_Resistance.Resistance",
+      "Magisterium.Tyrant_Endgame.Zeus_Lightning_Tell",
+      "Magisterium.Tyrant_Endgame.Zeus_Lightning_Bolt",
+      "Magisterium.Tyrant_Endgame.Hammer_of_Justice",
+      "Magisterium.Tyrant_Endgame.Energy_Smash",
+      "Magisterium.Tyrant_Endgame.Fly",
+      "Magisterium.Tyrant_Endgame.Fly_FX",
+      "Magisterium.Tyrant_Endgame.Laser_Beam_Eyes",
+      "Magisterium.Tyrant_Endgame.Jab",
+      "Magisterium.Tyrant_Endgame.Hand_Clap",
+      "Magisterium.Tyrant_Endgame.Beam_Sweep",
+      "Magisterium.Tyrant_Endgame.Lightning_Bolt",
+      "Magisterium.Tyrant_Endgame.Temp_Invulnerability",
+      "Magisterium.Tyrant_Endgame.Resist_Physical_Damage",
+      "Magisterium.Tyrant_Endgame.Resist_Elements",
+      "Magisterium.Tyrant_Endgame.Unyielding",
+      "Magisterium.Tyrant_Endgame.Resist_Energies",
+      "Magisterium.Tyrant_Endgame.Tough_Hide",
+      "Magisterium.Tyrant_Endgame.Power_of_Tartarus",
+      "Magisterium.Tyrant_Endgame.Favor_of_the_Well",
+      "Magisterium.Tyrant_Endgame.Summon_Beams_Auto",
+      "Magisterium.Tyrant_Endgame.Olympian_Guards",
+      "Magisterium.Tyrant_Endgame.Revoke_Guards",
+      "Magisterium.Tyrant_Cutscene.Shrink"
+    ],
+    "power_display_names": [
+      "Scaling",
+      "Resistance",
+      "Zeus' Lightning Bolt",
+      "Zeus' Lightning Bolt",
+      "Hammer of Justice",
+      "Energy Smash",
+      "Fly",
+      "Fly fx",
+      "Laser Beam Eyes",
+      "Jab",
+      "Hand Clap",
+      "Beam Sweep",
+      "Lightning Bolt",
+      "Temp Invulnerability",
+      "Resist Physical Damage",
+      "Resist Elements",
+      "Unyielding",
+      "Resist Energies",
+      "Tough Hide",
+      "Power of Tartarus",
+      "Favor of the Well",
+      "Summon Beams",
+      "Olympian Guards",
+      "Revoke Guards",
+      "Shrink"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_15_Dmg_4_Min_8",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Resistance",
+        "power": "Resistance",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Zeus_Lightning_Tell",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Zeus_Lightning_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Hammer_Of_Justice",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Energy_Smash",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Fly",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Fly_fx",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Laser_Beam_Eyes",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Jab",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Hand_Clap",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Beam_Sweep",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Lightning_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Temp_Invulnerability",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Resist_Physical_Damage",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Resist_Elements",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Unyielding",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Resist_Energies",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Tough_Hide",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Power_of_Tartarus",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Favor_of_the_Well",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Summon_Beams_Auto",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Olympian_Guards",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Endgame",
+        "power": "Revoke_Guards",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Tyrant_Cutscene",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Tyrant"
+      ],
+      "costumes": [
+        "P_Endgame_Tyrant_02"
+      ]
+    }
+  ]
+}

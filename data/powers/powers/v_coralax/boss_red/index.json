@@ -1,0 +1,26 @@
+{
+  "name": "Boss_Red",
+  "display_name": "Boss Red",
+  "display_fullname": "V Coralax.Boss Red",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/BOSS_RED.POWERSETS",
+  "icon": "boss_red_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Boss_Red.Haymaker",
+    "V_Coralax.Boss_Red.Psychic_Coral_Scream"
+  ],
+  "power_display_names": [
+    "Haymaker",
+    "Psychic Coral Scream"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "-Recharge"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Arachnobot_Minion",
+  "display_name": "Arachnobot_Minion",
+  "display_fullname": "V Arachnos.Arachnobot Minion",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/ARACHNOBOT_MINION.POWERSETS",
+  "icon": "arachnobot_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Arachnobot_Minion.Chain_Gun",
+    "V_Arachnos.Arachnobot_Minion.Full_Auto",
+    "V_Arachnos.Arachnobot_Minion.Claw",
+    "V_Arachnos.Arachnobot_Minion.Resistance",
+    "V_Arachnos.Arachnobot_Minion.Power_Jumping"
+  ],
+  "power_display_names": [
+    "Chain Gun",
+    "Full Auto",
+    "Claw",
+    "Resistance",
+    "Power Jumping"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "DoT(Lethal)",
+    "Moderate Lethal DMG",
+    "Auto Res Lethal Smash Energy Fire Cold",
+    "Self Auto, +Jump, +Speed"
+  ]
+}

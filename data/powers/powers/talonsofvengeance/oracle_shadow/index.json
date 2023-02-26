@@ -1,0 +1,38 @@
+{
+  "name": "Oracle_Shadow",
+  "display_name": "Oracle_Shadow",
+  "display_fullname": "TalonsOfVengeance.Oracle Shadow",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/ORACLE_SHADOW.POWERSETS",
+  "icon": "oracle_shadow_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Oracle_Shadow.Shadow_Blast",
+    "TalonsOfVengeance.Oracle_Shadow.Shadow_Gloom",
+    "TalonsOfVengeance.Oracle_Shadow.Shadowfall",
+    "TalonsOfVengeance.Oracle_Shadow.Shadow_Drain",
+    "TalonsOfVengeance.Oracle_Shadow.Resistance"
+  ],
+  "power_display_names": [
+    "Shadow Blast",
+    "Shadow Gloom",
+    "Shadowfall",
+    "Shadow Drain",
+    "Affinity"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Negative), -To-hit (Foe)",
+    "Ranged, High DoT(Negative Energy), -To-hit (Foe)",
+    "Ranged (Cone), Moderate DMG(Negative Energy), -To-hit (Foe)",
+    "Ranged, Moderate DMG(Negative Energy), -To-hit (Foe), Heal (Self)",
+    "Resistance"
+  ]
+}

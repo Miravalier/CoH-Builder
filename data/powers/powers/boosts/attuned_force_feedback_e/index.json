@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Force_Feedback_E",
+  "display_name": "Attuned Force Feedback E",
+  "display_fullname": "Boosts.Attuned Force Feedback E",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}%, the damage by {Boost.Attrib.Damage.Scale}% and reduces the endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Force Feedback",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FORCE_FEEDBACK_E.POWERSETS",
+  "icon": "attuned_force_feedback_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Force_Feedback_E.Attuned_Force_Feedback_E"
+  ],
+  "power_display_names": [
+    "Force Feedback: Knockback/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "+Knockback, +DMG, +End"
+  ]
+}

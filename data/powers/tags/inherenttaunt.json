@@ -1,0 +1,142 @@
+{
+  "tag": "InherentTaunt",
+  "bears": [
+    [
+      "Brute Defense.Bio Armor.Evolving Armor",
+      "brute_defense.bio_organic_armor.adaptation"
+    ],
+    [
+      "Brute Defense.Bio Armor.Genetic Contamination",
+      "brute_defense.bio_organic_armor.genetic_contamination"
+    ],
+    [
+      "Brute Defense.Dark Armor.Cloak of Fear",
+      "brute_defense.dark_armor.cloak_of_fear"
+    ],
+    [
+      "Brute Defense.Dark Armor.Death Shroud",
+      "brute_defense.dark_armor.death_shroud"
+    ],
+    [
+      "Brute Defense.Dark Armor.Oppressive Gloom",
+      "brute_defense.dark_armor.oppressive_gloom"
+    ],
+    [
+      "Brute Defense.Electric Armor.Lightning Field",
+      "brute_defense.electric_armor.lightning_field"
+    ],
+    [
+      "Brute Defense.Energy Aura.Entropic Aura",
+      "brute_defense.energy_aura.entropy_shield"
+    ],
+    [
+      "Brute Defense.Fiery Aura.Blazing Aura",
+      "brute_defense.fiery_aura.blazing_aura"
+    ],
+    [
+      "Brute Defense.Ice Armor.Chilling Embrace",
+      "brute_defense.ice_armor.chilling_embrace"
+    ],
+    [
+      "Brute Defense.Ice Armor.Icicles",
+      "brute_defense.ice_armor.icicles"
+    ],
+    [
+      "Brute Defense.Invulnerability.Invincibility",
+      "brute_defense.invulnerability.invincibility"
+    ],
+    [
+      "Brute Defense.Radiation Armor.Beta Decay",
+      "brute_defense.radiation_armor.beta_decay"
+    ],
+    [
+      "Brute Defense.Regeneration.Integration",
+      "brute_defense.regeneration.integration"
+    ],
+    [
+      "Brute Defense.Shield Defense.Against All Odds",
+      "brute_defense.shield_defense.against_all_odds"
+    ],
+    [
+      "Brute Defense.Stone Armor.Mud Pots",
+      "brute_defense.stone_armor.mud_pots"
+    ],
+    [
+      "Brute Defense.Super Reflexes.Evasion",
+      "brute_defense.super_reflexes.evasion"
+    ],
+    [
+      "Brute Defense.Willpower.Rise to the Challenge",
+      "brute_defense.willpower.rise_to_the_challenge"
+    ],
+    [
+      "Brute Melee.Spines.Quills",
+      "brute_melee.spines.quills"
+    ],
+    [
+      "Tanker Defense.Bio Armor.Evolving Armor",
+      "tanker_defense.bio_organic_armor.adaptation"
+    ],
+    [
+      "Tanker Defense.Bio Armor.Genetic Contamination",
+      "tanker_defense.bio_organic_armor.genetic_contamination"
+    ],
+    [
+      "Tanker Defense.Dark Armor.Cloak of Fear",
+      "tanker_defense.dark_armor.cloak_of_fear"
+    ],
+    [
+      "Tanker Defense.Dark Armor.Death Shroud",
+      "tanker_defense.dark_armor.death_shroud"
+    ],
+    [
+      "Tanker Defense.Dark Armor.Oppressive Gloom",
+      "tanker_defense.dark_armor.oppressive_gloom"
+    ],
+    [
+      "Tanker Defense.Electric Armor.Lightning Field",
+      "tanker_defense.electric_armor.lightning_field"
+    ],
+    [
+      "Tanker Defense.Fiery Aura.Blazing Aura",
+      "tanker_defense.fiery_aura.blazing_aura"
+    ],
+    [
+      "Tanker Defense.Ice Armor.Chilling Embrace",
+      "tanker_defense.ice_armor.chilling_embrace"
+    ],
+    [
+      "Tanker Defense.Ice Armor.Icicles",
+      "tanker_defense.ice_armor.icicles"
+    ],
+    [
+      "Tanker Defense.Invulnerability.Invincibility",
+      "tanker_defense.invulnerability.invincibility"
+    ],
+    [
+      "Tanker Defense.Radiation Armor.Beta Decay",
+      "tanker_defense.radiation_armor.beta_decay"
+    ],
+    [
+      "Tanker Defense.Shield Defense.Against All Odds",
+      "tanker_defense.shield_defense.against_all_odds"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Mud Pots",
+      "tanker_defense.stone_armor.mud_pots"
+    ],
+    [
+      "Tanker Defense.Super Reflexes.Evasion",
+      "tanker_defense.super_reflexes.evasion"
+    ],
+    [
+      "Tanker Defense.Willpower.Rise to the Challenge",
+      "tanker_defense.willpower.rise_to_the_challenge"
+    ],
+    [
+      "Tanker Melee.Spines.Quills",
+      "tanker_melee.spines.quills"
+    ]
+  ],
+  "affects": []
+}

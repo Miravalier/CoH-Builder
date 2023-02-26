@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Sleep",
+  "display_name": "Generic Sleep",
+  "display_fullname": "Boosts.Generic Sleep",
+  "display_help": "Increases the duration of a sleep power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_SLEEP.POWERSETS",
+  "icon": "generic_sleep_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Sleep.Generic_Sleep"
+  ],
+  "power_display_names": [
+    "Training: Sleep Duration"
+  ],
+  "power_short_helps": [
+    "Enhances Sleep Duration"
+  ]
+}

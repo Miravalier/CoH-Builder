@@ -1,0 +1,30 @@
+{
+  "name": "Traps_TimeBomb",
+  "display_name": "Bomb",
+  "display_fullname": "Villain Pets.Bomb",
+  "display_help": "Traps",
+  "display_short_help": "Traps",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/TRAPS_TIMEBOMB.POWERSETS",
+  "icon": "traps_timebomb_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Traps_TimeBomb.Time_Bomb",
+    "Villain_Pets.Traps_TimeBomb.Self_Destruct",
+    "Villain_Pets.Traps_TimeBomb.Resistance"
+  ],
+  "power_display_names": [
+    "Time Bomb",
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "AoE Lethal/Fire, Knockback",
+    "Self Destruct",
+    "Resistance"
+  ]
+}

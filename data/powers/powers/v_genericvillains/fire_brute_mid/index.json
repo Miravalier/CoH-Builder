@@ -1,0 +1,26 @@
+{
+  "name": "Fire_Brute_Mid",
+  "display_name": "Fire Brute Mid",
+  "display_fullname": "V GenericVillains.Fire Brute Mid",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/FIRE_BRUTE_MID.POWERSETS",
+  "icon": "fire_brute_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Fire_Brute_Mid.Fire_Sword_Circle",
+    "V_GenericVillains.Fire_Brute_Mid.Healing_Flames"
+  ],
+  "power_display_names": [
+    "Fire Sword Circle",
+    "Healing Flames"
+  ],
+  "power_short_helps": [
+    "PBAoE Melee, Moderate DMG(Fire/Lethal)",
+    "Self Heal, Res(Disorient)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wing_Agent",
+  "display_name": "Wing Agent",
+  "display_fullname": "V Wyvern.Wing Agent",
+  "display_help": "Wyvern",
+  "display_short_help": "Wyvern",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_WYVERN/WING_AGENT.POWERSETS",
+  "icon": "wing_agent_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Wyvern.Wing_Agent.Fly"
+  ],
+  "power_display_names": [
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Self Travel"
+  ]
+}

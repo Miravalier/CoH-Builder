@@ -1,0 +1,30 @@
+{
+  "name": "Natterling_Lt_Spawner",
+  "display_name": "Natterling_Lt_Spawner",
+  "display_fullname": "Rularuu.Natterling Lt Spawner",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/NATTERLING_LT_SPAWNER.POWERSETS",
+  "icon": "natterling_lt_spawner_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Natterling_Lt_Spawner.Spawn_Natterling",
+    "Rularuu.Natterling_Lt_Spawner.Self_Destruct",
+    "Rularuu.Natterling_Lt_Spawner.Fly"
+  ],
+  "power_display_names": [
+    "Spawn Natterling",
+    "Self Destruct",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Transform",
+    "Self Destruct",
+    "Self Travel"
+  ]
+}

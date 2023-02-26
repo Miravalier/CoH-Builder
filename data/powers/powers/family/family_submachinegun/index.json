@@ -1,0 +1,22 @@
+{
+  "name": "Family_SubmachineGun",
+  "display_name": "Family_SubmachineGun",
+  "display_fullname": "Family.Family SubmachineGun",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/FAMILY_SUBMACHINEGUN.POWERSETS",
+  "icon": "family_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Family_SubmachineGun.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "-Def"
+  ]
+}

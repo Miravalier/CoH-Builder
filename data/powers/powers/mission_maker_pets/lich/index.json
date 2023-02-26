@@ -1,0 +1,62 @@
+{
+  "name": "Lich",
+  "display_name": "Lich",
+  "display_fullname": "Mission Maker Pets.Lich",
+  "display_help": "The lich is an undead entity that, when alive, possessed many dark powers of his own. Perhaps it was a dark wizard, or powerful arch villain. Perhaps it was even a Necromancer. Now it only hungers for the souls of the living, and is quite good at feeding itself.",
+  "display_short_help": "Lich",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    5,
+    31,
+    31,
+    31,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/LICH.POWERSETS",
+  "icon": "lich_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Lich.Resistance",
+    "Mission_Maker_Pets.Lich.Dark_Blast",
+    "Mission_Maker_Pets.Lich.Torrent",
+    "Mission_Maker_Pets.Lich.Super_Leap",
+    "Mission_Maker_Pets.Lich.Tenebrous_Tentacles",
+    "Mission_Maker_Pets.Lich.Life_Drain",
+    "Mission_Maker_Pets.Lich.Enchant",
+    "Mission_Maker_Pets.Lich.Fearsome_Stare",
+    "Mission_Maker_Pets.Lich.Petrifying_Gaze",
+    "Mission_Maker_Pets.Lich.Mode2",
+    "Mission_Maker_Pets.Lich.Empower"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Dark Blast",
+    "Torrent",
+    "Super Leap",
+    "Tenebrous Tentacles",
+    "Life Drain",
+    "Enchant",
+    "Fearsome Stare",
+    "Petrifying Gaze",
+    "Mode2",
+    "Empower"
+  ],
+  "power_short_helps": [
+    "Auto Res Sleep, Fear, Negative, Toxic, Cold",
+    "-To Hit",
+    "-To Hit",
+    "Self Leap",
+    "Immobilize, -To Hit",
+    "-To Hit",
+    "Enchant",
+    "Fear, -To Hit",
+    "Hold",
+    "Empower",
+    "Empower"
+  ]
+}

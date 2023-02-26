@@ -1,0 +1,38 @@
+{
+  "name": "Inky_Summon",
+  "display_name": "Inky_Summon",
+  "display_fullname": "Nictus.Inky Summon",
+  "display_help": "This is description text",
+  "display_short_help": "Inky_Summon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/INKY_SUMMON.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Inky_Summon.Emerge_LK",
+    "Nictus.Inky_Summon.Emerge_Generic",
+    "Nictus.Inky_Summon.Emerge_Activation",
+    "Nictus.Inky_Summon.Emerge_Activation_Valeria",
+    "Nictus.Inky_Summon.Emerge_Activation_EB"
+  ],
+  "power_display_names": [
+    "Inky Emancipation",
+    "Generic Inky Emancipation",
+    "Generic Inky Emancipation",
+    "Generic Inky Emancipation",
+    "Generic Inky Emancipation"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special"
+  ]
+}

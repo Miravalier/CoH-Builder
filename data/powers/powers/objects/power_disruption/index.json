@@ -1,0 +1,22 @@
+{
+  "name": "Power_Disruption",
+  "display_name": "Power Disruption",
+  "display_fullname": "Objects.Power Disruption",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/POWER_DISRUPTION.POWERSETS",
+  "icon": "power_disruption_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Power_Disruption.Power_Disruption"
+  ],
+  "power_display_names": [
+    "Power Disruption"
+  ],
+  "power_short_helps": [
+    "Power Suppression"
+  ]
+}

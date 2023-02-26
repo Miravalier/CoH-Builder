@@ -1,0 +1,81 @@
+{
+  "name": "Carnival_Illusionist_Decoy",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Carnival",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "The Carnival Illusionists are as deadly as they are elegant. Their masks enhance their natural psychic abilities and allow them to create deadly mental illusions. These powers attack their opponents' minds directly and can convince them that they are being wounded, among other things. The Illusionists are also trained to use the power of their minds to fly.",
+    "group_description": null,
+    "display_class_name": "Lieutenant",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Carnival.Carnival_Illusionist_Decoy.Spectral_Wounds",
+      "Carnival.Carnival_Illusionist_Decoy.Phase_Shift",
+      "Carnival.Carnival_Illusionist_Decoy.Fly"
+    ],
+    "power_display_names": [
+      "Spectral Wounds",
+      "Phase Shift",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Carnival",
+        "power_set": "Carnival_Illusionist_Decoy",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Illusionist"
+      ],
+      "costumes": [
+        "Carnival_Illusionist_Decoy_01",
+        "Carnival_Illusionist_Decoy_02",
+        "Carnival_Illusionist_Decoy_03",
+        "Carnival_Illusionist_Decoy_04",
+        "Carnival_Illusionist_Decoy_05",
+        "Carnival_Illusionist_Decoy_06"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Freakshow_Bile_Ranged",
+  "display_name": "Freakshow_Bile_Ranged",
+  "display_fullname": "Freakshow.Freakshow Bile Ranged",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    15,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_BILE_RANGED.POWERSETS",
+  "icon": "freakshow_bile_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Bile_Ranged.Neutron_Bomb",
+    "Freakshow.Freakshow_Bile_Ranged.Electron_Haze",
+    "Freakshow.Freakshow_Bile_Ranged.X-Ray_Beam",
+    "Freakshow.Freakshow_Bile_Ranged.Irradiate",
+    "Freakshow.Freakshow_Bile_Ranged.Enervating__Field"
+  ],
+  "power_display_names": [
+    "Neutron Bomb",
+    "Electron Haze",
+    "X-Ray Beam",
+    "Irradiate",
+    "Enervating Field"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Short Range Energy, -DEF, Knockback",
+    "-DEF",
+    "-DEF",
+    "Foe -DMG, -Res"
+  ]
+}

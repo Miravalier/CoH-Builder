@@ -1,0 +1,63 @@
+{
+  "tag": "CritActive",
+  "bears": [
+    [
+      "Mastermind Pets.Alpha Wolf.Maiming Bite",
+      "mastermind_pets.alpha_wolf_2.maiming_bite"
+    ],
+    [
+      "Mastermind Pets.Alpha Wolf.Vicious Bite",
+      "mastermind_pets.alpha_wolf.vicious_bite"
+    ],
+    [
+      "Mastermind Pets.Dire Wolf.Chilling Howl",
+      "mastermind_pets.dire_wolf.chilling_howl"
+    ],
+    [
+      "Mastermind Pets.Dire Wolf.Freezing Roar",
+      "mastermind_pets.dire_wolf_2.freezing_roar"
+    ],
+    [
+      "Mastermind Pets.Dire Wolf.Maiming Bite",
+      "mastermind_pets.dire_wolf_2.maiming_bite"
+    ],
+    [
+      "Mastermind Pets.Dire Wolf.Terrible Howl",
+      "mastermind_pets.dire_wolf_3.terrible_howl"
+    ],
+    [
+      "Mastermind Pets.Dire Wolf.Vicious Bite",
+      "mastermind_pets.dire_wolf.vicious_bite"
+    ],
+    [
+      "Mastermind Pets.Howler Wolf.Feral Charge",
+      "mastermind_pets.howler_wolf_3.throat_bite"
+    ],
+    [
+      "Mastermind Pets.Howler Wolf.Maiming Bite",
+      "mastermind_pets.howler_wolf_2.maiming_bite"
+    ],
+    [
+      "Mastermind Pets.Howler Wolf.Vicious Bite",
+      "mastermind_pets.howler_wolf.vicious_bite"
+    ],
+    [
+      "Mastermind Pets.Lioness.Claw Rake",
+      "mastermind_pets.lioness.claw_rake"
+    ],
+    [
+      "Mastermind Pets.Lioness.Claw Swipe",
+      "mastermind_pets.lioness_3.claw_swipe"
+    ],
+    [
+      "Mastermind Pets.Lioness.Vicious Bite",
+      "mastermind_pets.lioness.vicious_bite"
+    ]
+  ],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.Pack Mentality",
+      "temporary_powers.temporary_powers.pack_mentality"
+    ]
+  ]
+}

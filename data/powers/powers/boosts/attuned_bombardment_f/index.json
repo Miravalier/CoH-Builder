@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Bombardment_F",
+  "display_name": "Attuned Bombardment F",
+  "display_fullname": "Boosts.Attuned Bombardment F",
+  "display_help": "Provides a chance to cause minor fire damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Bombardment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BOMBARDMENT_F.POWERSETS",
+  "icon": "e_icon_bombardment.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Bombardment_F.Attuned_Bombardment_F"
+  ],
+  "power_display_names": [
+    "Bombardment: Chance for Fire Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Minor DMG (Fire)"
+  ]
+}

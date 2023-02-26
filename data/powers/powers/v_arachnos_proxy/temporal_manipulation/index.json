@@ -1,0 +1,54 @@
+{
+  "name": "Temporal_Manipulation",
+  "display_name": "Temporal Manipulation",
+  "display_fullname": "V Arachnos Proxy.Temporal Manipulation",
+  "display_help": "By gazing into the flow of time you are able to manipulate time itself. Time Manipulation allows the wielder to inflict crippling debuffs, and cause mental damage and exhausting your foes by showing them their future and accelerating their aging.",
+  "display_short_help": "Temporal Manipulation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/TEMPORAL_MANIPULATION.POWERSETS",
+  "icon": "time_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Temporal_Manipulation.Time_Wall",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Aging_Touch",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Time_Stop",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Chronological_Selection",
+    "V_Arachnos_Proxy.Temporal_Manipulation.End_of_Time",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Temporal_Healing",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Future_Pain",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Time_Shift",
+    "V_Arachnos_Proxy.Temporal_Manipulation.Time_Lord"
+  ],
+  "power_display_names": [
+    "Time Wall",
+    "Aging Touch",
+    "Time Stop",
+    "Chronos",
+    "End of Time",
+    "Temporal Healing",
+    "Future Pain",
+    "Time Shift",
+    "Time Lord"
+  ],
+  "power_short_helps": [
+    "Ranged Foe, Moderate Damage(Energy), -Speed, -Recharge, -Regen, Special",
+    "Melee, Minor DMG(Psionic)",
+    "Ranged Hold, Foe -Regen, -Heal",
+    "Self +Damage, +Recharge, +ToHit",
+    "PBAoE, High DMG(Cold/Energy)",
+    "Self +Absorb, +Recovery, +Res(Slow, Regen Debuff)",
+    "Melee, Foe Fear, High DMG(Psionic)",
+    "AoE, Foe Disorient, -Speed, -ToHit",
+    "Auto: Self +Recharge, Res (Slow, Energy, Stun)"
+  ]
+}

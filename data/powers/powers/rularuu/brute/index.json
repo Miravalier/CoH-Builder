@@ -1,0 +1,26 @@
+{
+  "name": "Brute",
+  "display_name": "Brute",
+  "display_fullname": "Rularuu.Brute",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/BRUTE.POWERSETS",
+  "icon": "brute_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Brute.Resistance",
+    "Rularuu.Brute.Pummel"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Melee(Cone) Heavy Smash"
+  ]
+}

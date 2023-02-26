@@ -1,0 +1,38 @@
+{
+  "name": "Oracle_Fire",
+  "display_name": "Oracle_Fire",
+  "display_fullname": "TalonsOfVengeance.Oracle Fire",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/ORACLE_FIRE.POWERSETS",
+  "icon": "oracle_fire_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Oracle_Fire.Flares",
+    "TalonsOfVengeance.Oracle_Fire.Fire_Blast",
+    "TalonsOfVengeance.Oracle_Fire.Fire_Breath",
+    "TalonsOfVengeance.Oracle_Fire.Blaze",
+    "TalonsOfVengeance.Oracle_Fire.Resistance"
+  ],
+  "power_display_names": [
+    "Flares",
+    "Fire Blast",
+    "Fire Breath",
+    "Blaze",
+    "Affinity"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Fire)",
+    "Ranged, Moderate DMG(Fire)",
+    "Close (Cone), Moderate DoT(Fire)",
+    "Close, High DMG(Fire)",
+    "Resistance"
+  ]
+}

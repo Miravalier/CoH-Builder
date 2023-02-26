@@ -1,0 +1,38 @@
+{
+  "name": "Arachnobot_Spiderling",
+  "display_name": "Arachnobot Spiderling",
+  "display_fullname": "Villain Pets.Arachnobot Spiderling",
+  "display_help": "Mace Mastery",
+  "display_short_help": "Mace Mastery",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/ARACHNOBOT_SPIDERLING.POWERSETS",
+  "icon": "arachnobot_spiderling_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Arachnobot_Spiderling.Chain_Gun",
+    "Villain_Pets.Arachnobot_Spiderling.Claw",
+    "Villain_Pets.Arachnobot_Spiderling.Resistance",
+    "Villain_Pets.Arachnobot_Spiderling.Self_Destruct",
+    "Villain_Pets.Arachnobot_Spiderling.Power_Jumping"
+  ],
+  "power_display_names": [
+    "Chain Gun",
+    "Claw",
+    "Resistance",
+    "Self Destruct",
+    "Power Jumping"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "Melee, Minor DMG(Lethal)",
+    "Auto Res(Smash, Lethal, Psionic)",
+    "Self Destruct",
+    "Self Auto, +Jump, +Speed"
+  ]
+}

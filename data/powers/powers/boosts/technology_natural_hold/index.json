@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Hold",
+  "display_name": "Technology Natural Hold",
+  "display_fullname": "Boosts.Technology Natural Hold",
+  "display_help": "Increases the duration of a hold power.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_HOLD.POWERSETS",
+  "icon": "technology_natural_hold_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Hold.Technology_Natural_Hold"
+  ],
+  "power_display_names": [
+    "Net Projector (Hold)"
+  ],
+  "power_short_helps": [
+    "Enhances Hold Duration"
+  ]
+}

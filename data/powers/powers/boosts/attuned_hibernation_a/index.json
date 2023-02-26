@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Hibernation_A",
+  "display_name": "Attuned Hibernation A",
+  "display_fullname": "Boosts.Attuned Hibernation A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Hibernation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_HIBERNATION_A.POWERSETS",
+  "icon": "attuned_hibernation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Hibernation_A.Attuned_Hibernation_A"
+  ],
+  "power_display_names": [
+    "Hibernation: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

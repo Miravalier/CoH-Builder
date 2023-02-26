@@ -1,0 +1,22 @@
+{
+  "name": "Portal_Inherent",
+  "display_name": "Portal Inherent",
+  "display_fullname": "Objects.Portal Inherent",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/PORTAL_INHERENT.POWERSETS",
+  "icon": "portal_inherent_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Portal_Inherent.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

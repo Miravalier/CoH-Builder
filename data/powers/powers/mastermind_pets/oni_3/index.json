@@ -1,0 +1,30 @@
+{
+  "name": "Oni_3",
+  "display_name": "Ninja Oni",
+  "display_fullname": "Mastermind Pets.Ninja Oni",
+  "display_help": "Ninjas",
+  "display_short_help": "Ninjas",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/ONI_3.POWERSETS",
+  "icon": "oni_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Oni_3.Char",
+    "Mastermind_Pets.Oni_3.Rain_of_Fire",
+    "Mastermind_Pets.Oni_3.Enlighten"
+  ],
+  "power_display_names": [
+    "Char",
+    "Rain of Fire",
+    "Enlighten"
+  ],
+  "power_short_helps": [
+    "Ranged, DoT (Fire), Foe Hold",
+    "Ranged (Location AoE), DoT (Fire), -SPD",
+    "Enlighten"
+  ]
+}

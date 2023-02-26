@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Detonation_D",
+  "display_name": "Attuned Detonation D",
+  "display_fullname": "Boosts.Attuned Detonation D",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and range by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Set: Detonation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DETONATION_D.POWERSETS",
+  "icon": "attuned_detonation_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Detonation_D.Attuned_Detonation_D"
+  ],
+  "power_display_names": [
+    "Detonation: Damage/Range"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Range"
+  ]
+}

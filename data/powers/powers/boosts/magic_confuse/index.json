@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Confuse",
+  "display_name": "Magic Confuse",
+  "display_fullname": "Boosts.Magic Confuse",
+  "display_help": "Increases the duration of a confuse power.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_CONFUSE.POWERSETS",
+  "icon": "magic_confuse_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Confuse.Magic_Confuse"
+  ],
+  "power_display_names": [
+    "Perplexity of Hermes (Confuse)"
+  ],
+  "power_short_helps": [
+    "Enhances Confuse Duration"
+  ]
+}

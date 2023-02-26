@@ -1,0 +1,34 @@
+{
+  "tag": "VFX",
+  "bears": [
+    [
+      "Inherent.Inherent.Combat Flight",
+      "inherent.inherent.combat_flight"
+    ],
+    [
+      "Inherent.Inherent.Energy Flight",
+      "inherent.inherent.energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Combat Flight",
+      "peacebringer_defensive.luminous_aura.combat_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Energy Flight",
+      "peacebringer_defensive.luminous_aura.energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Group Energy Flight",
+      "peacebringer_defensive.luminous_aura.group_energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Flight",
+      "peacebringer_defensive.luminous_aura.quantum_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Maneuvers",
+      "peacebringer_defensive.luminous_aura.quantum_acceleration"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Signature_Summon",
+  "display_name": "Summon",
+  "source_file": "DEFS/POWERS/SIGNATURE_SUMMON.CATEGORIES",
+  "archetypes": [
+    "boss_elite"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "signature_summon.back_alley_brawler",
+    "signature_summon.bane_spider_minion",
+    "signature_summon.black_scorpion",
+    "signature_summon.ghost_widow",
+    "signature_summon.lord_recluse",
+    "signature_summon.manticore",
+    "signature_summon.positron",
+    "signature_summon.scirocco",
+    "signature_summon.statesman"
+  ],
+  "powerset_display_names": [
+    "Back_Alley_Brawler",
+    "Bane Spider Minion",
+    "Black Scorpion",
+    "Ghost Widow",
+    "Lord Recluse",
+    "Manticore",
+    "Positron",
+    "Scirocco",
+    "Statesman"
+  ],
+  "powersets_with_requirements": []
+}

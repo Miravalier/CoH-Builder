@@ -1,0 +1,46 @@
+{
+  "name": "Dire_Wolf",
+  "display_name": "Dire Wolf",
+  "display_fullname": "Mastermind Pets.Dire Wolf",
+  "display_help": "Beasts",
+  "display_short_help": "Beasts",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    11,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/DIRE_WOLF.POWERSETS",
+  "icon": "dire_wolf_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Dire_Wolf.Resistance",
+    "Mastermind_Pets.Dire_Wolf.Vicious_Bite",
+    "Mastermind_Pets.Dire_Wolf.PM_Vicious_Bite",
+    "Mastermind_Pets.Dire_Wolf.Super_Leap",
+    "Mastermind_Pets.Dire_Wolf.Wild_Charge",
+    "Mastermind_Pets.Dire_Wolf.Chilling_Howl",
+    "Mastermind_Pets.Dire_Wolf.PM_Chilling_Howl"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Vicious Bite",
+    "Pack Mentality Granter",
+    "Super Leap",
+    "Wild Charge",
+    "Chilling Howl",
+    "Pack Mentality Granter"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Placate, Confuse, Taunt, Cold, Lethal, Smash) +Def(Melee, Ranged, AoE)",
+    "Melee, Light DMG(Lethal), Foe Minor DoT(Lethal)",
+    "Grants Pack Mentality",
+    "Self Leap",
+    "Self +DMG, +Speed, +Res(Slow, Immobilize)",
+    "Ranged (Narrow Cone), Moderate DMG(Cold), Minor DoT(Cold), -Rech, -Speed, -Fly",
+    "Grants Pack Mentality"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kill_Monsters",
+  "display_name": "Kill_Monsters",
+  "display_fullname": "Objects.Kill Monsters",
+  "display_help": "Volume",
+  "display_short_help": "Volume",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/KILL_MONSTERS.POWERSETS",
+  "icon": "kill_monsters_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Kill_Monsters.Kill_Monsters"
+  ],
+  "power_display_names": [
+    "Kill Monsters"
+  ],
+  "power_short_helps": [
+    "Kill Monster"
+  ]
+}

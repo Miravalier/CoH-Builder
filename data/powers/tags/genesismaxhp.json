@@ -1,0 +1,15 @@
+{
+  "tag": "GenesisMaxHp",
+  "bears": [
+    [
+      "Incarnate.Socket.Degenerative Socket",
+      "incarnate.socket.maxhp_debuff"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ]
+  ]
+}

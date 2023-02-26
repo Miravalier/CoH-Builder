@@ -1,0 +1,22 @@
+{
+  "name": "Underground_Lichen",
+  "display_name": "Underground Lichen",
+  "display_fullname": "Objects.Underground Lichen",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/UNDERGROUND_LICHEN.POWERSETS",
+  "icon": "underground_lichen_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Underground_Lichen.Regeneration"
+  ],
+  "power_display_names": [
+    "Regeneration"
+  ],
+  "power_short_helps": [
+    "Regeneration"
+  ]
+}

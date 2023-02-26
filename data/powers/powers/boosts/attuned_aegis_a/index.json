@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Aegis_A",
+  "display_name": "Attuned Aegis A",
+  "display_fullname": "Boosts.Attuned Aegis A",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Aegis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_AEGIS_A.POWERSETS",
+  "icon": "attuned_aegis_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Aegis_A.Attuned_Aegis_A"
+  ],
+  "power_display_names": [
+    "Aegis: Resistance/Endurance"
+  ],
+  "power_short_helps": [
+    "+RES (all), Reduces End cost"
+  ]
+}

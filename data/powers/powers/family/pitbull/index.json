@@ -1,0 +1,38 @@
+{
+  "name": "Pitbull",
+  "display_name": "Pitbull",
+  "display_fullname": "Family.Pitbull",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/PITBULL.POWERSETS",
+  "icon": "pitbull_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Pitbull.12_Gauge",
+    "Family.Pitbull.Slug",
+    "Family.Pitbull.Jab",
+    "Family.Pitbull.Punch",
+    "Family.Pitbull.Haymaker"
+  ],
+  "power_display_names": [
+    "12 Gauge",
+    "Slug",
+    "Jab",
+    "Punch",
+    "Haymaker"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback",
+    "Ranged, High DMG(Lethal), Foe Knockback",
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback"
+  ]
+}

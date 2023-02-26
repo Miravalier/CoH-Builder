@@ -1,0 +1,42 @@
+{
+  "name": "Officer",
+  "display_name": "Officer",
+  "display_fullname": "V FreedomCorps.Officer",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/OFFICER.POWERSETS",
+  "icon": "officer_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Officer.Slug",
+    "V_FreedomCorps.Officer.Buckshot",
+    "V_FreedomCorps.Officer.M30_Grenade",
+    "V_FreedomCorps.Officer.Full_Auto",
+    "V_FreedomCorps.Officer.Tech_Armor",
+    "V_FreedomCorps.Officer.Leadership"
+  ],
+  "power_display_names": [
+    "Slug",
+    "Buckshot",
+    "M30 Grenade",
+    "Full Auto",
+    "Tech Armor",
+    "Leadership"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Lethal), Foe Knockback",
+    "Ranged (Cone), Moderate DMG(Lethal), Foe Knockback",
+    "Ranged (Targeted AoE), Moderate DMG(Fire/Lethal), Knockback",
+    "Ranged (Cone), Superior DMG(Lethal), +Special",
+    "Resistance",
+    "PBAoE, Team +DEF, +DMG, +ACC, Res(Confuse), +Perception"
+  ]
+}

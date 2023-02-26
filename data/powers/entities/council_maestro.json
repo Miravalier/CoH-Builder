@@ -1,0 +1,95 @@
+{
+  "name": "Council_Maestro",
+  "gender": "GENDER_MALE",
+  "group_name": "Council",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 27,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "As a child, Vincenzo Alferi dreamed of becoming a great composer, but those dreams were shattered when he lost his hearing due to a car accident. The Council offered to perform a radical experiment that might restore his hearing, and Vincenzo agreed without hesitation. Unfortunately, things did not go as planned. An Arachnos attack on the facility resulted in a power surge at the worst possible moment. Instead of restoring him, the resulting explosion created a permanent resonance in Vincenzo's body. He agreed to join the Council if they would give him the opportunity for vengeance against Arachnos.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Council.Maestro.Resistance",
+      "Council.Maestro.Scream",
+      "Council.Maestro.Shout",
+      "Council.Maestro.Howl",
+      "Council.Maestro.Shockwave",
+      "Council.Maestro.Sirens_Song",
+      "Council.Maestro.Screech",
+      "Council.Maestro.Dreadful_Wail",
+      "Council.Maestro.Sonic_Shield"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Scream",
+      "Shout",
+      "Howl",
+      "Shockwave",
+      "Siren's Song",
+      "Screech",
+      "Dreadful Wail",
+      "Sonic Shield"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Council",
+        "power_set": "Maestro",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 27,
+      "experience": 0,
+      "display_names": [
+        "Maestro"
+      ],
+      "costumes": [
+        "Council_Maestro"
+      ]
+    }
+  ]
+}

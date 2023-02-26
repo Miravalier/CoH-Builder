@@ -1,0 +1,26 @@
+{
+  "name": "BAF_Siege_Watcher",
+  "display_name": "BAF_Siege_Watcher",
+  "display_fullname": "Objects.BAF Siege Watcher",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BAF_SIEGE_WATCHER.POWERSETS",
+  "icon": "baf_siege_watcher_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.BAF_Siege_Watcher.Siege_Heal",
+    "Objects.BAF_Siege_Watcher.Degenerate"
+  ],
+  "power_display_names": [
+    "Siege Heal",
+    "Degenerate"
+  ],
+  "power_short_helps": [
+    "Siege Present!",
+    "Siege Present!"
+  ]
+}

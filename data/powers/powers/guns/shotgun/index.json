@@ -1,0 +1,26 @@
+{
+  "name": "Shotgun",
+  "display_name": "Shotgun",
+  "display_fullname": "Guns.Shotgun",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/SHOTGUN.POWERSETS",
+  "icon": "shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Shotgun.Shotgun_Buckshot",
+    "Guns.Shotgun.Shotgun_Heavy_Slug"
+  ],
+  "power_display_names": [
+    "Shotgun Buckshot",
+    "Shotgun Heavy Slug"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback",
+    "Ranged, High DMG(Lethal), Foe Knockback"
+  ]
+}

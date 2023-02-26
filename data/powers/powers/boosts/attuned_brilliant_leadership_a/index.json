@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Brilliant_Leadership_A",
+  "display_name": "Attuned Brilliant Leadership A",
+  "display_fullname": "Boosts.Attuned Brilliant Leadership A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Brilliant Leadership",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BRILLIANT_LEADERSHIP_A.POWERSETS",
+  "icon": "attuned_brilliant_leadership_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Brilliant_Leadership_A.Attuned_Brilliant_Leadership_A"
+  ],
+  "power_display_names": [
+    "Brilliant Leadership: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

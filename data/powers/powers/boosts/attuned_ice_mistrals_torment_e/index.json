@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Ice_Mistrals_Torment_E",
+  "display_name": "Attuned Ice Mistrals Torment E",
+  "display_fullname": "Boosts.Attuned Ice Mistrals Torment E",
+  "display_help": "Enhances accuracy by {Boost.Attrib.Accuracy.Scale}%. Enhances damage by {Boost.Attrib.Damage.Scale}%. Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Ice Mistral's Torment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ICE_MISTRALS_TORMENT_E.POWERSETS",
+  "icon": "savagemelee_hemorrhage.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Ice_Mistrals_Torment_E.Attuned_Ice_Mistrals_Torment_E"
+  ],
+  "power_display_names": [
+    "Ice Mistral's Torment: Accuracy/Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +DMG, -End Cost, +Rech"
+  ]
+}

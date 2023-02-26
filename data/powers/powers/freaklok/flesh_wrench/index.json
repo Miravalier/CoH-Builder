@@ -1,0 +1,50 @@
+{
+  "name": "Flesh_Wrench",
+  "display_name": "Flesh_Wrench",
+  "display_fullname": "Freaklok.Flesh Wrench",
+  "display_help": "Flesh_Wrench",
+  "display_short_help": "Flesh_Wrench",
+  "available_level": [
+    0,
+    0,
+    17,
+    31,
+    0,
+    0,
+    7,
+    31
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/FLESH_WRENCH.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Flesh_Wrench.Beheader",
+    "Freaklok.Flesh_Wrench.FWChop",
+    "Freaklok.Flesh_Wrench.Whirling_Axe",
+    "Freaklok.Flesh_Wrench.Pendulum",
+    "Freaklok.Flesh_Wrench.Lightning_Rod",
+    "Freaklok.Flesh_Wrench.Mind_Over_Body",
+    "Freaklok.Flesh_Wrench.Rise_to_the_Challenge",
+    "Freaklok.Flesh_Wrench.Strength_of_Will"
+  ],
+  "power_display_names": [
+    "Beheader",
+    "Chop",
+    "Whirling Axe",
+    "Pendulum",
+    "Lightning Rod",
+    "Mind Over Body",
+    "Rise to the Challenge",
+    "Strength of Will"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), Foe Knockdown",
+    "Melee, High DMG(Lethal), Foe Knockdown",
+    "PBAoE Melee, Moderate DMG(Lethal), Foe Knockdown",
+    "Melee (Cone), Superior DMG(Lethal), Foe Knockdown",
+    "PBAoE Superior DMG(Energy), Foe Knockback; Self Teleport;",
+    "Toggle: Self +Res(Smash, Lethal, Psionics)",
+    "Toggle: Self +Regen, Foe -ACC",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, Repel, Knockback, All DMG), +Recovery"
+  ]
+}

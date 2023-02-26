@@ -1,0 +1,22 @@
+{
+  "name": "RadiationCloud_Visual",
+  "display_name": "Radiation Control",
+  "display_fullname": "Pets.Radiation Control",
+  "display_help": "Radiation Control",
+  "display_short_help": "Radiation Control",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RADIATIONCLOUD_VISUAL.POWERSETS",
+  "icon": "radiationcloud_visual_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.RadiationCloud_Visual.Radiation_Cloud"
+  ],
+  "power_display_names": [
+    "Radiation Cloud"
+  ],
+  "power_short_helps": [
+    "Toggle: PBAoE, Foe Hold"
+  ]
+}

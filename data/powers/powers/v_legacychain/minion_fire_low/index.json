@@ -1,0 +1,30 @@
+{
+  "name": "Minion_Fire_Low",
+  "display_name": "Minion Fire Low",
+  "display_fullname": "V LegacyChain.Minion Fire Low",
+  "display_help": "Legacy of Flame",
+  "display_short_help": "Legacy of Flame",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/MINION_FIRE_LOW.POWERSETS",
+  "icon": "minion_fire_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Minion_Fire_Low.Scorch",
+    "V_LegacyChain.Minion_Fire_Low.Flares",
+    "V_LegacyChain.Minion_Fire_Low.Resistance"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Flares",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "Auto Res Fire"
+  ]
+}

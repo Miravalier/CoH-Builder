@@ -1,0 +1,54 @@
+{
+  "name": "Arakhn_high",
+  "display_name": "Arakhn",
+  "display_fullname": "Council.Arakhn",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ARAKHN_HIGH.POWERSETS",
+  "icon": "arakhn_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Arakhn_high.Resistance",
+    "Council.Arakhn_high.Ebon_Eye",
+    "Council.Arakhn_high.Gravitic_Emanation",
+    "Council.Arakhn_high.Inky_Aspect",
+    "Council.Arakhn_high.Gravimetric_Snare",
+    "Council.Arakhn_high.Gravity_Well",
+    "Council.Arakhn_high.Stygian_Circle",
+    "Council.Arakhn_high.Essence_Drain",
+    "Council.Arakhn_high.Quasar"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Ebon Eye",
+    "Gravitic Emanation",
+    "Inky Aspect",
+    "Gravimetric Snare",
+    "Gravity Well",
+    "Stygian Circle",
+    "Essence Drain",
+    "Quasar"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD",
+    "Disorient",
+    "Immobilize, -Recharge, -SPD",
+    "Hold, -Recharge, -SPD",
+    "-DMG",
+    "-Recharge, -SPD",
+    "PBAoE, Extreme DMG(Negative), Foe -Recharge, -SPD, Knockback"
+  ]
+}

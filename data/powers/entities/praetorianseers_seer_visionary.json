@@ -1,0 +1,88 @@
+{
+  "name": "PraetorianSeers_Seer_Visionary",
+  "gender": "GENDER_FEMALE",
+  "group_name": "PraetorianSeers",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 11,
+    "max_level": 20,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Visionaries are extremely powerful and quite rare among the seers. They are usually stationary and are very seldom called into field duty. If you see one it's far too late to run.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "P_Seers.Seer_Boss_Resistance.Resistance",
+      "P_Seers.Visionary_Powers.Mental_Blast",
+      "P_Seers.Visionary_Powers.Psychic_Scream",
+      "P_Seers.Visionary_Powers.Summon_Reinforcements",
+      "P_Seers.Visionary_Powers.Psionic_Tornado"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Mental Blast",
+      "Psychic Scream",
+      "Summon Reinforcements",
+      "Psionic Tornado"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "P_Seers",
+        "power_set": "Seer_Boss_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "P_Seers",
+        "power_set": "Visionary_Powers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 11,
+      "max_level": 20,
+      "experience": 0,
+      "display_names": [
+        "Visionary"
+      ],
+      "costumes": [
+        "Seer_Visionary_01"
+      ]
+    }
+  ]
+}

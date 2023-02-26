@@ -1,0 +1,19 @@
+{
+  "name": "LostSewerTrial",
+  "display_name": "LostSewerTrial",
+  "source_file": "DEFS/POWERS/LOSTSEWERTRIAL.CATEGORIES",
+  "archetypes": [
+    "minion_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "lostsewertrial.electricbomb",
+    "lostsewertrial.lost_faith_absorb"
+  ],
+  "powerset_display_names": [
+    "Vahzilok",
+    "Blah"
+  ],
+  "powersets_with_requirements": []
+}

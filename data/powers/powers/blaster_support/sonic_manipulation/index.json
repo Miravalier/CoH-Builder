@@ -1,0 +1,54 @@
+{
+  "name": "Sonic_Manipulation",
+  "display_name": "Sonic Manipulation",
+  "display_fullname": "Blaster Support.Sonic Manipulation",
+  "display_help": "You have the ability to control sound in several fashions. You can create semi-solid barriers, set up waves which weaken or strengthen a target, as well as inflicing devastating close range sonic attacks that can cause Migraines that hold foes for a short hold. This chance can be dramatically increased by using Sound Booster.",
+  "display_short_help": "Sonic Manipulation",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/BLASTER_SUPPORT/SONIC_MANIPULATION.POWERSETS",
+  "icon": "sonic_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Blaster_Support.Sonic_Manipulation.Sonic_Thrust",
+    "Blaster_Support.Sonic_Manipulation.Strident_Echo",
+    "Blaster_Support.Sonic_Manipulation.Echo_Chamber",
+    "Blaster_Support.Sonic_Manipulation.Build_Up",
+    "Blaster_Support.Sonic_Manipulation.Deafening_Wave",
+    "Blaster_Support.Sonic_Manipulation.Sound_Barrier",
+    "Blaster_Support.Sonic_Manipulation.Disruption_Aura",
+    "Blaster_Support.Sonic_Manipulation.Sound_Cannon",
+    "Blaster_Support.Sonic_Manipulation.Earsplitter"
+  ],
+  "power_display_names": [
+    "Sonic Thrust",
+    "Strident Echo",
+    "Echo Chamber",
+    "Sound Booster",
+    "Deafening Wave",
+    "Sound Barrier",
+    "Disruption Aura",
+    "Sound Cannon",
+    "Earsplitter"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smash/Energy), Foe Knockback",
+    "Melee, High DMG(Smashing/Energy), chance for Hold",
+    "Ranged, Light DMG(Energy), Foe Hold",
+    "Self +DMG, +To Hit, +Special",
+    "Melee (AoE), Light DMG(Sonic/Energy), chance for Hold",
+    "Toggle: Self +Absorb, +Recovery, +Res(Smashing, Energy, Sleep)",
+    "Toggle: Foe -Res",
+    "Ranged (Cone), Foe Disorient, Knockback",
+    "Melee, Extreme DMG(Smashing/Energy), chance for Hold"
+  ]
+}

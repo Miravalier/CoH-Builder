@@ -1,0 +1,22 @@
+{
+  "name": "Crazed_Sledgehammer",
+  "display_name": "Crazed_Sledgehammer",
+  "display_fullname": "Portal.Crazed Sledgehammer",
+  "display_help": "The Crazed",
+  "display_short_help": "The Crazed",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CRAZED_SLEDGEHAMMER.POWERSETS",
+  "icon": "crazed_sledgehammer_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Crazed_Sledgehammer.Sledgehammer"
+  ],
+  "power_display_names": [
+    "Sledgehammer"
+  ],
+  "power_short_helps": [
+    "Melee Smash, High Dam, Knockback"
+  ]
+}

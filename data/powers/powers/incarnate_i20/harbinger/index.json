@@ -1,0 +1,30 @@
+{
+  "name": "Harbinger",
+  "display_name": "Harbinger",
+  "display_fullname": "Incarnate I20.Harbinger",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/HARBINGER.POWERSETS",
+  "icon": "harbinger_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Harbinger.Kamikaze_Ghouls",
+    "Incarnate_I20.Harbinger.Player_Count",
+    "Incarnate_I20.Harbinger.Bubble_of_Slow_Time"
+  ],
+  "power_display_names": [
+    "Kamikaze Ghouls",
+    "Player Count",
+    "Bubble of Slow Time"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Special",
+    "-Recharge, -SPD"
+  ]
+}

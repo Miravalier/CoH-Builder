@@ -1,0 +1,15 @@
+{
+  "tag": "InnerWill",
+  "bears": [
+    [
+      "Mission Maker Secondary.Martial Combat.Inner Will",
+      "mission_maker_secondary.martial_manipulation.inner_will"
+    ]
+  ],
+  "affects": [
+    [
+      "Mission Maker Secondary.Martial Combat.Inner Will",
+      "mission_maker_secondary.martial_manipulation.inner_will"
+    ]
+  ]
+}

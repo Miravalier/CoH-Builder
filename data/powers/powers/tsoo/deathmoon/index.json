@@ -1,0 +1,38 @@
+{
+  "name": "DeathMoon",
+  "display_name": "DeathMoon",
+  "display_fullname": "Tsoo.DeathMoon",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/DEATHMOON.POWERSETS",
+  "icon": "deathmoon_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.DeathMoon.Shadow_Punch",
+    "Tsoo.DeathMoon.Smite",
+    "Tsoo.DeathMoon.Siphon_Life",
+    "Tsoo.DeathMoon.Gloom",
+    "Tsoo.DeathMoon.Life_Drain"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite",
+    "Siphon Life",
+    "Gloom",
+    "Life Drain"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC",
+    "-ACC",
+    "DoT(Negative), -ACC",
+    "-ACC"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Bonesnap_C",
+  "display_name": "Attuned Bonesnap C",
+  "display_fullname": "Boosts.Attuned Bonesnap C",
+  "display_help": "Enhances the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Bonesnap",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BONESNAP_C.POWERSETS",
+  "icon": "attuned_bonesnap_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Bonesnap_C.Attuned_Bonesnap_C"
+  ],
+  "power_display_names": [
+    "Bonesnap: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Attack Rate"
+  ]
+}

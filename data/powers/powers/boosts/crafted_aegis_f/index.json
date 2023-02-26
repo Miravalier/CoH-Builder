@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Aegis_F",
+  "display_name": "Crafted Aegis F",
+  "display_fullname": "Boosts.Crafted Aegis F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives a 5% bonus to psionic resistance and reduces the duration of all status effects by 20%.",
+  "display_short_help": "Set: Aegis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_AEGIS_F.POWERSETS",
+  "icon": "crafted_aegis_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Aegis_F.Crafted_Aegis_F"
+  ],
+  "power_display_names": [
+    "Aegis: Psionic/Status Resistance"
+  ],
+  "power_short_helps": [
+    "+RES (Psionic, Status Effects)"
+  ]
+}

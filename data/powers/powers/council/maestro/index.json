@@ -1,0 +1,54 @@
+{
+  "name": "Maestro",
+  "display_name": "Maestro",
+  "display_fullname": "Council.Maestro",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/MAESTRO.POWERSETS",
+  "icon": "maestro_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Maestro.Resistance",
+    "Council.Maestro.Scream",
+    "Council.Maestro.Shout",
+    "Council.Maestro.Howl",
+    "Council.Maestro.Shockwave",
+    "Council.Maestro.Sirens_Song",
+    "Council.Maestro.Screech",
+    "Council.Maestro.Dreadful_Wail",
+    "Council.Maestro.Sonic_Shield"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Scream",
+    "Shout",
+    "Howl",
+    "Shockwave",
+    "Siren's Song",
+    "Screech",
+    "Dreadful Wail",
+    "Sonic Shield"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged, Moderate DoT(Smashing), -Res",
+    "Ranged, Heavy DMG(Cold/Smash), Foe -Res(All)",
+    "Ranged Cone, Medium DMG(Smashing)",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "Ranged (Cone), Minor DMG(Smashing), Foe Sleep",
+    "Ranged, Minor Damage (Smashing), Foe Disorient",
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Disorient, Self -Recovery",
+    "Toggle: Self +Res(Smashing/Lethal/Energy)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Melee",
+  "display_name": "Melee",
+  "display_fullname": "CouncilEmpire.Melee",
+  "display_help": "Council Empire",
+  "display_short_help": "Council Empire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCILEMPIRE/MELEE.POWERSETS",
+  "icon": "melee_set.png",
+  "requires": "",
+  "power_names": [
+    "CouncilEmpire.Melee.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

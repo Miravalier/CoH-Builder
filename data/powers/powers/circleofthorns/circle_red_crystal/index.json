@@ -1,0 +1,30 @@
+{
+  "name": "Circle_Red_Crystal",
+  "display_name": "Circle_Red_Crystal",
+  "display_fullname": "CircleOfThorns.Circle Red Crystal",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_RED_CRYSTAL.POWERSETS",
+  "icon": "circle_red_crystal_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Red_Crystal.Crystal_of_Pain",
+    "CircleOfThorns.Circle_Red_Crystal.Avoid",
+    "CircleOfThorns.Circle_Red_Crystal.Immobile"
+  ],
+  "power_display_names": [
+    "Crystal of Pain",
+    "Avoid",
+    "Immobile"
+  ],
+  "power_short_helps": [
+    "DoT",
+    "Avoid",
+    "Immobilize"
+  ]
+}

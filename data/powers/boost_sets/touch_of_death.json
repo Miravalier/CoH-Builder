@@ -1,0 +1,544 @@
+{
+  "name": "Touch_of_Death",
+  "display_name": "Touch of Death",
+  "group_name": "Melee Damage",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Melee"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Touch_of_Death_A.Crafted_Touch_of_Death_A",
+      "Boosts.Attuned_Touch_of_Death_A.Attuned_Touch_of_Death_A"
+    ],
+    [
+      "Boosts.Crafted_Touch_of_Death_B.Crafted_Touch_of_Death_B",
+      "Boosts.Attuned_Touch_of_Death_B.Attuned_Touch_of_Death_B"
+    ],
+    [
+      "Boosts.Crafted_Touch_of_Death_C.Crafted_Touch_of_Death_C",
+      "Boosts.Attuned_Touch_of_Death_C.Attuned_Touch_of_Death_C"
+    ],
+    [
+      "Boosts.Crafted_Touch_of_Death_D.Crafted_Touch_of_Death_D",
+      "Boosts.Attuned_Touch_of_Death_D.Attuned_Touch_of_Death_D"
+    ],
+    [
+      "Boosts.Crafted_Touch_of_Death_E.Crafted_Touch_of_Death_E",
+      "Boosts.Attuned_Touch_of_Death_E.Attuned_Touch_of_Death_E"
+    ],
+    [
+      "Boosts.Crafted_Touch_of_Death_F.Crafted_Touch_of_Death_F",
+      "Boosts.Attuned_Touch_of_Death_F.Attuned_Touch_of_Death_F"
+    ]
+  ],
+  "min_level": 25,
+  "max_level": 40,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_1",
+          "Tiny Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_4",
+          "Large Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_5",
+          "Huge Increased Melee/Lethal/Smashing Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png",
+      "e_icon_touchofdeath.png"
+    ],
+    "boosts": [
+      [
+        "Touch of Death: Accuracy/Damage",
+        "Attuned Touch of Death: Accuracy/Damage"
+      ],
+      [
+        "Touch of Death: Damage/Endurance",
+        "Attuned Touch of Death: Damage/Endurance"
+      ],
+      [
+        "Touch of Death: Damage/Recharge",
+        "Attuned Touch of Death: Damage/Recharge"
+      ],
+      [
+        "Touch of Death: Accuracy/Damage/Endurance",
+        "Attuned Touch of Death: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Touch of Death: Damage/Endurance/Recharge",
+        "Attuned Touch of Death: Damage/Endurance/Recharge"
+      ],
+      [
+        "Touch of Death: Chance for NegativeEnergy Damage",
+        "Attuned Touch of Death: Chance for NegativeEnergy Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_touch_of_death_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_touch_of_death_a.attuned_touch_of_death_a",
+          "Touch of Death: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Touch of Death: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "attuned_touch_of_death_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Touch of Death: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "crafted_touch_of_death_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_touch_of_death_b.attuned_touch_of_death_b",
+          "Touch of Death: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Touch of Death: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "attuned_touch_of_death_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Touch of Death: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "crafted_touch_of_death_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_touch_of_death_c.attuned_touch_of_death_c",
+          "Touch of Death: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Touch of Death: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "attuned_touch_of_death_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Touch of Death: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "crafted_touch_of_death_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_touch_of_death_d.attuned_touch_of_death_d",
+          "Touch of Death: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Touch of Death: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "attuned_touch_of_death_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Touch of Death: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "crafted_touch_of_death_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_touch_of_death_e.attuned_touch_of_death_e",
+          "Touch of Death: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Touch of Death: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "attuned_touch_of_death_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Touch of Death: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "crafted_touch_of_death_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_touch_of_death_f.attuned_touch_of_death_f",
+          "Touch of Death: Negative Energy Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Touch of Death: Chance for NegativeEnergy Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      },
+      "attuned_touch_of_death_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Touch of Death: Chance for NegativeEnergy Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "touch_of_death",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_touchofdeath.png"
+      }
+    }
+  }
+}

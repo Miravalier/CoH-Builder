@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Freaks_Mad_Freaks_SubmachineGun",
+  "display_name": "Freakshow_Freaks_Mad_Freaks_SubmachineGun",
+  "display_fullname": "Freakshow.Freakshow Freaks Mad Freaks SubmachineGun",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_FREAKS_MAD_FREAKS_SUBMACHINEGUN.POWERSETS",
+  "icon": "freakshow_freaks_mad_freaks_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Freaks_Mad_Freaks_SubmachineGun.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

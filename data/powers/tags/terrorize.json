@@ -1,0 +1,14 @@
+{
+  "tag": "Terrorize",
+  "bears": [
+    [
+      "Boosts.Attuned Dominion of Arachnos F.Rech/Chance for -Dmg and Terrorize",
+      "boosts.attuned_dominion_of_arachnos_f.attuned_dominion_of_arachnos_f"
+    ],
+    [
+      "Boosts.Superior Attuned Dominion of Arachnos F.Rech/Chance for -Dmg and Terrorize",
+      "boosts.superior_attuned_superior_dominion_of_arachnos_f.superior_attuned_superior_dominion_of_arachnos_f"
+    ]
+  ],
+  "affects": []
+}

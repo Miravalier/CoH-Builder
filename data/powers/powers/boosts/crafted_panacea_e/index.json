@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Panacea_E",
+  "display_name": "Crafted Panacea E",
+  "display_fullname": "Boosts.Crafted Panacea E",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}%. NOTE: This is a PvP enhancement, this type of enhancement has two groups of set bonuses. You get the set bonuses not marked \"(PvP)\" while experiencing PvE content, but you get both the PvP set bonuses and the PvE set bonuses when fighting players.",
+  "display_short_help": "Set: Panacea",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_PANACEA_E.POWERSETS",
+  "icon": "crafted_panacea_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Panacea_E.Crafted_Panacea_E"
+  ],
+  "power_display_names": [
+    "Panacea: Healing/Absorb"
+  ],
+  "power_short_helps": [
+    "+Heal, +Absorb"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yins_Magic_Accuracy",
+  "display_name": "Yins Magic Accuracy",
+  "display_fullname": "Boosts.Yins Magic Accuracy",
+  "display_help": "Increases the accuracy of a power.",
+  "display_short_help": "Talisman (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/YINS_MAGIC_ACCURACY.POWERSETS",
+  "icon": "yins_magic_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Yins_Magic_Accuracy.Yins_Magic_Accuracy"
+  ],
+  "power_display_names": [
+    "Talisman of the Owl's Eye (Accuracy)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy"
+  ]
+}

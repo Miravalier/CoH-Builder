@@ -1,0 +1,26 @@
+{
+  "name": "Jack_O_Lantern",
+  "display_name": "Jack O Lantern",
+  "display_fullname": "Event.Jack O Lantern",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/JACK_O_LANTERN.POWERSETS",
+  "icon": "jack_o_lantern_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Jack_O_Lantern.Pumpkin",
+    "Event.Jack_O_Lantern.Slash"
+  ],
+  "power_display_names": [
+    "Pumpkin",
+    "Slash"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Melee Moderate (Lethal)"
+  ]
+}

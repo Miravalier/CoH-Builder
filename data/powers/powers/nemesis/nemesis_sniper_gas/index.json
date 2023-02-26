@@ -1,0 +1,26 @@
+{
+  "name": "Nemesis_Sniper_Gas",
+  "display_name": "Nemesis_Sniper_Gas",
+  "display_fullname": "Nemesis.Nemesis Sniper Gas",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_SNIPER_GAS.POWERSETS",
+  "icon": "nemesis_sniper_gas_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_Sniper_Gas.Gas_Grenade",
+    "Nemesis.Nemesis_Sniper_Gas.Storm_Rifle"
+  ],
+  "power_display_names": [
+    "Gas Grenade",
+    "Storm Rifle"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic)",
+    "Targeted AoE, Dmg(Lethal/Fire), Chance for KB"
+  ]
+}

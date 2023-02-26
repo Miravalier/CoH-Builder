@@ -1,0 +1,54 @@
+{
+  "name": "Ice_Control",
+  "display_name": "Ice Control",
+  "display_fullname": "Mission Maker Secondary.Ice Control",
+  "display_help": "You can draw moisture from the air to create Icy formations. With these abilities, you can control ice with remarkable precision to dominate your foes.",
+  "display_short_help": "Ice Control",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/ICE_CONTROL.POWERSETS",
+  "icon": "ice_control_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Ice_Control.Chilblain",
+    "Mission_Maker_Secondary.Ice_Control.Block_of_Ice",
+    "Mission_Maker_Secondary.Ice_Control.Frostbite",
+    "Mission_Maker_Secondary.Ice_Control.Arctic_Air",
+    "Mission_Maker_Secondary.Ice_Control.Shiver",
+    "Mission_Maker_Secondary.Ice_Control.Ice_Slick",
+    "Mission_Maker_Secondary.Ice_Control.Flash_Freeze",
+    "Mission_Maker_Secondary.Ice_Control.Glacier",
+    "Mission_Maker_Secondary.Ice_Control.Jack_Frost"
+  ],
+  "power_display_names": [
+    "Chilblain",
+    "Block of Ice",
+    "Frostbite",
+    "Arctic Air",
+    "Shiver",
+    "Ice Slick",
+    "Flash Freeze",
+    "Glacier",
+    "Jack Frost"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Cold), Foe Immobilize, -SPD, -Recharge",
+    "Ranged, Moderate DMG(Cold), Foe Hold, -SPD, -Recharge",
+    "Ranged (Targeted AoE), Minor DoT(Cold), Foe Immobilize, -SPD, -Recharge",
+    "Toggle: PBAoE, Foe Confuse(Special), -SPD, -Recharge, -Stealth",
+    "Ranged (Cone), Foe -SPD, -Recharge",
+    "Target (Location AoE), Foe Knockdown, -SPD",
+    "Ranged (Targeted AoE), Minor DMG(Cold/Lethal), Foe Sleep",
+    "PBAoE, Foe Hold, -Recharge, -SPD",
+    "Summon Jack Frost: Melee Moderate DMG(Cold)"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Smelting_Cauldron",
+  "display_name": "Smelting Cauldron",
+  "display_fullname": "V GoldBrickers.Smelting Cauldron",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/SMELTING_CAULDRON.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Smelting_Cauldron.Smelt",
+    "V_GoldBrickers.Smelting_Cauldron.Smelt_Midas_2",
+    "V_GoldBrickers.Smelting_Cauldron.Smelt_Midas_1",
+    "V_GoldBrickers.Smelting_Cauldron.Smelt_Midas_3",
+    "V_GoldBrickers.Smelting_Cauldron.Smelt_Midas_4"
+  ],
+  "power_display_names": [
+    "Smelt",
+    "Smelt Midas 2",
+    "Smelt Midas 1",
+    "Smelt Midas 3",
+    "Smelt Midas 4"
+  ],
+  "power_short_helps": [
+    "Smelting Cauldron",
+    "Smelting Cauldron",
+    "Smelting Cauldron",
+    "Smelting Cauldron",
+    "Smelting Cauldron"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fallout_Controller",
+  "display_name": "Fallout",
+  "display_fullname": "Pets.Fallout",
+  "display_help": "Radiation Emission",
+  "display_short_help": "Radiation Emission",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/FALLOUT_CONTROLLER.POWERSETS",
+  "icon": "fallout_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Fallout_Controller.Fallout"
+  ],
+  "power_display_names": [
+    "Fallout"
+  ],
+  "power_short_helps": [
+    "Post-Defeat: PBAoE, Extreme DMG(Energy), Debuff"
+  ]
+}

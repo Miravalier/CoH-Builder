@@ -1,0 +1,22 @@
+{
+  "name": "Seer_Boss_Resistance",
+  "display_name": "Seer Boss Resistance",
+  "display_fullname": "P Seers.Seer Boss Resistance",
+  "display_help": "Seers",
+  "display_short_help": "Seers",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/SEER_BOSS_RESISTANCE.POWERSETS",
+  "icon": "seer_boss_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Seer_Boss_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Psi), +Def(Melee, Ranged)"
+  ]
+}

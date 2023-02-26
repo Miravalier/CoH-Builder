@@ -1,0 +1,26 @@
+{
+  "name": "Energy_Corruptor_High",
+  "display_name": "Energy Corruptor High",
+  "display_fullname": "V GenericVillains.Energy Corruptor High",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ENERGY_CORRUPTOR_HIGH.POWERSETS",
+  "icon": "energy_corruptor_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Energy_Corruptor_High.Energy_Torrent",
+    "V_GenericVillains.Energy_Corruptor_High.Power_Burst"
+  ],
+  "power_display_names": [
+    "Energy Torrent",
+    "Power Burst"
+  ],
+  "power_short_helps": [
+    "Cone Energy/Smash, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback"
+  ]
+}

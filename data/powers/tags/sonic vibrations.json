@@ -1,0 +1,126 @@
+{
+  "tag": "Sonic Vibrations",
+  "bears": [
+    [
+      "Blaster Ranged.Sonic Attack.Dreadful Wail",
+      "blaster_ranged.sonic_attack.dreadful_wail"
+    ],
+    [
+      "Blaster Ranged.Sonic Attack.Howl",
+      "blaster_ranged.sonic_attack.howl"
+    ],
+    [
+      "Blaster Ranged.Sonic Attack.Scream",
+      "blaster_ranged.sonic_attack.scream"
+    ],
+    [
+      "Blaster Ranged.Sonic Attack.Screech",
+      "blaster_ranged.sonic_attack.screech"
+    ],
+    [
+      "Blaster Ranged.Sonic Attack.Shout",
+      "blaster_ranged.sonic_attack.shout"
+    ],
+    [
+      "Blaster Ranged.Sonic Attack.Shriek",
+      "blaster_ranged.sonic_attack.shriek"
+    ],
+    [
+      "Corruptor Ranged.Sonic Attack.Dreadful Wail",
+      "corruptor_ranged.sonic_attack.dreadful_wail"
+    ],
+    [
+      "Corruptor Ranged.Sonic Attack.Howl",
+      "corruptor_ranged.sonic_attack.howl"
+    ],
+    [
+      "Corruptor Ranged.Sonic Attack.Scream",
+      "corruptor_ranged.sonic_attack.scream"
+    ],
+    [
+      "Corruptor Ranged.Sonic Attack.Screech",
+      "corruptor_ranged.sonic_attack.screech"
+    ],
+    [
+      "Corruptor Ranged.Sonic Attack.Shout",
+      "corruptor_ranged.sonic_attack.shout"
+    ],
+    [
+      "Corruptor Ranged.Sonic Attack.Shriek",
+      "corruptor_ranged.sonic_attack.shriek"
+    ],
+    [
+      "Defender Ranged.Sonic Attack.Dreadful Wail",
+      "defender_ranged.sonic_attack.dreadful_wail"
+    ],
+    [
+      "Defender Ranged.Sonic Attack.Howl",
+      "defender_ranged.sonic_attack.howl"
+    ],
+    [
+      "Defender Ranged.Sonic Attack.Scream",
+      "defender_ranged.sonic_attack.scream"
+    ],
+    [
+      "Defender Ranged.Sonic Attack.Screech",
+      "defender_ranged.sonic_attack.screech"
+    ],
+    [
+      "Defender Ranged.Sonic Attack.Shout",
+      "defender_ranged.sonic_attack.shout"
+    ],
+    [
+      "Defender Ranged.Sonic Attack.Shriek",
+      "defender_ranged.sonic_attack.shriek"
+    ],
+    [
+      "Dominator Assault.Sonic Assault.Scream",
+      "dominator_assault.sonic_assault.scream"
+    ],
+    [
+      "Dominator Assault.Sonic Assault.Shout",
+      "dominator_assault.sonic_assault.shout"
+    ],
+    [
+      "Dominator Assault.Sonic Assault.Shriek",
+      "dominator_assault.sonic_assault.shriek"
+    ],
+    [
+      "Mission Maker Attacks.Sonic Assault.Scream",
+      "mission_maker_attacks.sonic_assault.scream"
+    ],
+    [
+      "Mission Maker Attacks.Sonic Assault.Shout",
+      "mission_maker_attacks.sonic_assault.shout"
+    ],
+    [
+      "Mission Maker Attacks.Sonic Assault.Shriek",
+      "mission_maker_attacks.sonic_assault.shriek"
+    ],
+    [
+      "Sentinel Ranged.Sonic Attack.Dreadful Wail",
+      "sentinel_ranged.sonic_attack.dreadful_wail"
+    ],
+    [
+      "Sentinel Ranged.Sonic Attack.Howl",
+      "sentinel_ranged.sonic_attack.howl"
+    ],
+    [
+      "Sentinel Ranged.Sonic Attack.Scream",
+      "sentinel_ranged.sonic_attack.scream"
+    ],
+    [
+      "Sentinel Ranged.Sonic Attack.Screech",
+      "sentinel_ranged.sonic_attack.screech"
+    ],
+    [
+      "Sentinel Ranged.Sonic Attack.Shout",
+      "sentinel_ranged.sonic_attack.shout"
+    ],
+    [
+      "Sentinel Ranged.Sonic Attack.Shriek",
+      "sentinel_ranged.sonic_attack.shriek"
+    ]
+  ],
+  "affects": []
+}

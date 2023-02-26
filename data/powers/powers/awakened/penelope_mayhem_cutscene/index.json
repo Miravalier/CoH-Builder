@@ -1,0 +1,22 @@
+{
+  "name": "Penelope_Mayhem_Cutscene",
+  "display_name": "",
+  "display_fullname": "Awakened.Penelope Mayhem Cutscene",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/PENELOPE_MAYHEM_CUTSCENE.POWERSETS",
+  "icon": "penelope_mayhem_cutscene_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Penelope_Mayhem_Cutscene.Penelope_Yin_Transformation"
+  ],
+  "power_display_names": [
+    "Penelope Yin Transformation"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

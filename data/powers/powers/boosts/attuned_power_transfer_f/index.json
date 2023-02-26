@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Power_Transfer_F",
+  "display_name": "Attuned Power Transfer F",
+  "display_fullname": "Boosts.Attuned Power Transfer F",
+  "display_help": "Gives a chance to Heal yourself 5% of your max life. This effect will trigger roughly 3 times per minute.",
+  "display_short_help": "Set: Power Transfer",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_POWER_TRANSFER_F.POWERSETS",
+  "icon": "e_icon_power_transfer.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Power_Transfer_F.Attuned_Power_Transfer_F"
+  ],
+  "power_display_names": [
+    "Power Transfer: Chance to Heal Self"
+  ],
+  "power_short_helps": [
+    "Chance to Heal Self"
+  ]
+}

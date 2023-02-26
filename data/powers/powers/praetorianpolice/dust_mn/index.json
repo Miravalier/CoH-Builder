@@ -1,0 +1,26 @@
+{
+  "name": "DUST_MN",
+  "display_name": "DUST_MN",
+  "display_fullname": "PraetorianPolice.DUST MN",
+  "display_help": "Praetorian DUST",
+  "display_short_help": "Praetorian DUST",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/DUST_MN.POWERSETS",
+  "icon": "dust_mn_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.DUST_MN.Force_Punch",
+    "PraetorianPolice.DUST_MN.Plasma_Stream"
+  ],
+  "power_display_names": [
+    "Force Punch",
+    "Plasma Stream"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash/Energy), Foe Disorient",
+    "DoT (Fire, Energy), -Regen"
+  ]
+}

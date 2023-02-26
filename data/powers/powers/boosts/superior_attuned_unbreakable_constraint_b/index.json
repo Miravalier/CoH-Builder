@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Unbreakable_Constraint_B",
+  "display_name": "Superior Attuned Unbreakable Constraint B",
+  "display_fullname": "Boosts.Superior Attuned Unbreakable Constraint B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the Hold duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Unbreakable Constraint",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_UNBREAKABLE_CONSTRAINT_B.POWERSETS",
+  "icon": "superior_attuned_unbreakable_constraint_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Unbreakable_Constraint_B.Superior_Attuned_Unbreakable_Constraint_B"
+  ],
+  "power_display_names": [
+    "Unbreakable Constraint: Hold Duration/Recharge"
+  ],
+  "power_short_helps": [
+    "+Rech, +Hold"
+  ]
+}

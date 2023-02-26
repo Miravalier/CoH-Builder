@@ -1,0 +1,26 @@
+{
+  "name": "Maturing_Burr",
+  "display_name": "Maturing_Burr",
+  "display_fullname": "DevouringEarthSeed.Maturing Burr",
+  "display_help": "Maturing Seedling",
+  "display_short_help": "Maturing Seedling",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/MATURING_BURR.POWERSETS",
+  "icon": "maturing_burr_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Maturing_Burr.Malignant_Infection",
+    "DevouringEarthSeed.Maturing_Burr.The_Seeds_Vitality"
+  ],
+  "power_display_names": [
+    "Malignant Infection",
+    "The Seed's Vitality"
+  ],
+  "power_short_helps": [
+    "Ranged, Extreme DoT(Toxic)",
+    "Heal"
+  ]
+}

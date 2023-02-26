@@ -1,0 +1,156 @@
+{
+  "name": "Event_Vampire_EliteBoss",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "5thColumn_Vampyr_Boss_HM",
+    "character_class_name": "boss_elite",
+    "description": "It is an unfortunate fate to encounter one of the ancient vampires who are the progenitors of the vampiric curse. These beings have lived for thousands of years, feeding on humanity's blood from the darkness. They are more capable of destroying any vampire hunters foolish enough to think they can match the elder ancestors on equal footing. Commanding the very shadows themselves, these beings are the definitive masters of the night, and they are always thirsty.",
+    "group_description": "Vampire",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 5.0,
+    "additional_rewards": [
+      "2k9TrickBoss"
+    ],
+    "power_full_names": [
+      "5thColumn.Fifth_Column_Vampyri_HM.Chill_of_the_Night",
+      "5thColumn.Fifth_Column_Vampyri_HM.Dull_Pain",
+      "5thColumn.Fifth_Column_Vampyri_HM.Dark_Servant",
+      "5thColumn.Fifth_Column_Vampyri_HM.Vampyri_Running",
+      "Event.Vampire.Fast_Healing",
+      "Event.Vampire.Smite",
+      "Event.Vampire.Shadow_Punch",
+      "Event.Vampire.Gloom",
+      "Event.Vampire.Siphon_Life",
+      "Event.Vampire.Life_Drain",
+      "Event.Vampire_Boss.Mesmerize",
+      "Event.Vampire_Boss.Dominate",
+      "Event.Vampire_Boss.Reconstruction",
+      "Event.Greater_Halloween_Aspect.Resistance",
+      "Event.TrickOrTreat_Inherent.Resistance"
+    ],
+    "power_display_names": [
+      "Chill of the Night",
+      "Dull Pain",
+      "Dark Servant",
+      "Vampyri Running",
+      "Fast Healing",
+      "Smite",
+      "Shadow Punch",
+      "Gloom",
+      "Siphon Life",
+      "Life Drain",
+      "Mesmerize",
+      "Dominate",
+      "Reconstruction",
+      "Hollow Aspect",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Vampyri_HM",
+        "power": "Chill_of_the_Night",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Vampyri_HM",
+        "power": "Dull_Pain",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Vampyri_HM",
+        "power": "Dark_Servant",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Vampyri_HM",
+        "power": "Vampyri_Running",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Vampire",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Vampire_Boss",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Greater_Halloween_Aspect",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "TrickOrTreat_Inherent",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Ancient Vampire"
+      ],
+      "costumes": [
+        "Halloween_Ancient_Vampire"
+      ]
+    }
+  ]
+}

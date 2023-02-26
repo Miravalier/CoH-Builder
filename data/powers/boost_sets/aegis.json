@@ -1,0 +1,573 @@
+{
+  "name": "Aegis",
+  "display_name": "Aegis",
+  "group_name": "Resist Damage",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Resist"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Aegis_A.Crafted_Aegis_A",
+      "Boosts.Attuned_Aegis_A.Attuned_Aegis_A"
+    ],
+    [
+      "Boosts.Crafted_Aegis_B.Crafted_Aegis_B",
+      "Boosts.Attuned_Aegis_B.Attuned_Aegis_B"
+    ],
+    [
+      "Boosts.Crafted_Aegis_C.Crafted_Aegis_C",
+      "Boosts.Attuned_Aegis_C.Attuned_Aegis_C"
+    ],
+    [
+      "Boosts.Crafted_Aegis_D.Crafted_Aegis_D",
+      "Boosts.Attuned_Aegis_D.Attuned_Aegis_D"
+    ],
+    [
+      "Boosts.Crafted_Aegis_E.Crafted_Aegis_E",
+      "Boosts.Attuned_Aegis_E.Attuned_Aegis_E"
+    ],
+    [
+      "Boosts.Crafted_Aegis_F.Crafted_Aegis_F",
+      "Boosts.Attuned_Aegis_F.Attuned_Aegis_F"
+    ]
+  ],
+  "min_level": 25,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.aegis"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_fire_cold_aoe_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_4",
+          "Large Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_fire_cold_aoe_def_4",
+          "Large Increased Fire/Cold/AoE Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_3",
+          "Moderate Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_4",
+          "Large Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_5",
+          "Huge Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_aegis_f": [
+        [
+          "set_bonus.set_bonus.aegis",
+          "Aegis: Psionic/Status Resistance"
+        ]
+      ],
+      "crafted_aegis_f": [
+        [
+          "set_bonus.set_bonus.aegis",
+          "Aegis: Psionic/Status Resistance"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png",
+      "e_icon_aegis.png"
+    ],
+    "boosts": [
+      [
+        "Aegis: Damage Resistance/Endurance",
+        "Attuned Aegis: Damage Resistance/Endurance"
+      ],
+      [
+        "Aegis: Damage Resistance/Recharge",
+        "Attuned Aegis: Damage Resistance/Recharge"
+      ],
+      [
+        "Aegis: Endurance/Recharge",
+        "Attuned Aegis: Endurance/Recharge"
+      ],
+      [
+        "Aegis: Damage Resistance/Endurance/Recharge",
+        "Attuned Aegis: Damage Resistance/Endurance/Recharge"
+      ],
+      [
+        "Aegis: Damage Resistance",
+        "Attuned Aegis: Damage Resistance"
+      ],
+      [
+        "Aegis: Proc/Global",
+        "Attuned Aegis: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_aegis_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_aegis_a.attuned_aegis_a",
+          "Aegis: Resistance/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Aegis: Damage Resistance/Endurance",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "attuned_aegis_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Aegis: Damage Resistance/Endurance",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "crafted_aegis_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_aegis_b.attuned_aegis_b",
+          "Aegis: Resistance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Aegis: Damage Resistance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "attuned_aegis_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Aegis: Damage Resistance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "crafted_aegis_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_aegis_c.attuned_aegis_c",
+          "Aegis: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Aegis: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "attuned_aegis_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Aegis: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "crafted_aegis_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_aegis_d.attuned_aegis_d",
+          "Aegis: Resistance/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Aegis: Damage Resistance/Endurance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "attuned_aegis_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Aegis: Damage Resistance/Endurance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "crafted_aegis_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_aegis_e.attuned_aegis_e",
+          "Aegis: Resistance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Aegis: Damage Resistance",
+        "aspects": [
+          "Damage Resistance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "attuned_aegis_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Aegis: Damage Resistance",
+        "aspects": [
+          "Damage Resistance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "crafted_aegis_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_aegis_f.attuned_aegis_f",
+          "Aegis: Psionic/Status Resistance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Aegis: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.aegis",
+            "Aegis: Psionic/Status Resistance"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      },
+      "attuned_aegis_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 21,
+        "min_bonus_level": 18,
+        "computed_name": "Attuned Aegis: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "aegis",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.aegis",
+            "Aegis: Psionic/Status Resistance"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_aegis.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Extinction_War_Walker_Crowd_Dispersal",
+  "display_name": "Extinction War Walker",
+  "display_fullname": "PraetorianIDF.Extinction War Walker",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/EXTINCTION_WAR_WALKER_CROWD_DISPERSAL.POWERSETS",
+  "icon": "extinction_war_walker_crowd_dispersal_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Extinction_War_Walker_Crowd_Dispersal.Crowd_Dispersal"
+  ],
+  "power_display_names": [
+    "Crowd Dispersal"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Causes PBAoE Terrorize"
+  ]
+}

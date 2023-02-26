@@ -1,0 +1,26 @@
+{
+  "name": "Radiation_Melee_Assassins_Corruption",
+  "display_name": "",
+  "display_fullname": "Villain Pets.Radiation Melee Assassins Corruption",
+  "display_help": "You are able to harness the power of Radiation to crush your foes in close quarters. Radiation Melee attacks have a chance to inflict the Contaminated state on a target for a moderate amount of time. Powers that deal greater damage, have a longer recharge time and animation time have a greater chance to inflict Contaminated. Hitting Contaminated targets with Contaminated Strike, Radioactive Smash, Radiation Siphon and Devastating Blow cause a portion of that power's damage to also hit nearby foes. Radiation Melee attacks primarily deal smashing and energy damage, but this set is also capable of dealing some toxic damage.",
+  "display_short_help": "Radiation Melee",
+  "available_level": [
+    5,
+    5
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/RADIATION_MELEE_ASSASSINS_CORRUPTION.POWERSETS",
+  "icon": "radiation_melee_assassins_corruption_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Radiation_Melee_Assassins_Corruption.Assassins_Strike_Stealth",
+    "Villain_Pets.Radiation_Melee_Assassins_Corruption.Assassins_Strike_Quick"
+  ],
+  "power_display_names": [
+    "Assassins Strike Stealth",
+    "Assassins Strike Quick"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Smashing, Energy)",
+    "Melee, Superior DMG(Smashing, Energy)"
+  ]
+}

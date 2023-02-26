@@ -1,0 +1,26 @@
+{
+  "name": "Corruptor_AssaultRifle_Snipe",
+  "display_name": "Corruptor_AssaultRifle_Snipe",
+  "display_fullname": "Villain Pets.Corruptor AssaultRifle Snipe",
+  "display_help": "Assault Rifle",
+  "display_short_help": "Assault Rifle",
+  "available_level": [
+    11,
+    11
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/CORRUPTOR_ASSAULTRIFLE_SNIPE.POWERSETS",
+  "icon": "corruptor_assaultrifle_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Corruptor_AssaultRifle_Snipe.Sniper_Rifle_Quick",
+    "Villain_Pets.Corruptor_AssaultRifle_Snipe.Sniper_Rifle_Normal"
+  ],
+  "power_display_names": [
+    "Sniper Rifle",
+    "Sniper Rifle"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Lethal), Foe Knockback",
+    "Sniper, Extreme DMG(Lethal), Foe Knockback"
+  ]
+}

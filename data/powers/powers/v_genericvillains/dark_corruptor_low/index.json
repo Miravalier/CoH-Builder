@@ -1,0 +1,26 @@
+{
+  "name": "Dark_Corruptor_Low",
+  "display_name": "Dark Corruptor Low",
+  "display_fullname": "V GenericVillains.Dark Corruptor Low",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/DARK_CORRUPTOR_LOW.POWERSETS",
+  "icon": "dark_corruptor_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Dark_Corruptor_Low.Petrifying_Gaze",
+    "V_GenericVillains.Dark_Corruptor_Low.Life_Drain"
+  ],
+  "power_display_names": [
+    "Petrifying Gaze",
+    "Life Drain"
+  ],
+  "power_short_helps": [
+    "Ranged Hold",
+    "Ranged, Moderate DMG(Negative), Target -ACC, Self +HP"
+  ]
+}

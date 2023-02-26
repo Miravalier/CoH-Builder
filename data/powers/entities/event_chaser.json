@@ -1,0 +1,93 @@
+{
+  "name": "Event_Chaser",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 50,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "Longbow is a hard-hitting division of Freedom Corps dedicated to stopping evil, and Arachnos in particular.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.1,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomCorps.Chaser.Missile_Launcher",
+      "V_FreedomCorps.Chaser.Incendiary_Rocket_Launcher",
+      "V_FreedomCorps.Chaser.Chain_Gun",
+      "V_FreedomCorps.Chaser.Armor_Plating",
+      "V_FreedomCorps.Chaser.Fly",
+      "V_FreedomCorps.Chaser.Fly_fx",
+      "V_FreedomCorps.Resistance.Tech_Armor"
+    ],
+    "power_display_names": [
+      "Missile Launcher",
+      "Incendiary Rocket Launcher",
+      "Chain Gun",
+      "Armor Plating",
+      "Fly",
+      "Fly fx",
+      "Tech Armor"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Chaser",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 50,
+      "experience": 0,
+      "display_names": [
+        "Longbow Chaser"
+      ],
+      "costumes": [
+        "Longbow_Skiff"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "tag": "HybridWeaken",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_boost_1"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_boost_2"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_boost_3"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_boost_4"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_boost_5"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_boost_6"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Pandora Confused Boost",
+      "temporary_powers.temporary_powers.pandora_confused_boost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Pandora Hold Boost",
+      "temporary_powers.temporary_powers.pandora_hold_boost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Pandora Immobilize Boost",
+      "temporary_powers.temporary_powers.pandora_immobilize_boost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Pandora Sleep Boost",
+      "temporary_powers.temporary_powers.pandora_sleep_boost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Pandora Stun Boost",
+      "temporary_powers.temporary_powers.pandora_stun_boost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Pandora Terrorized Boost",
+      "temporary_powers.temporary_powers.pandora_terrorized_boost"
+    ]
+  ],
+  "affects": []
+}

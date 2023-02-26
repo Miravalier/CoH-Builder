@@ -1,0 +1,46 @@
+{
+  "name": "Vorpal_Sword",
+  "display_name": "Vorpal Sword",
+  "display_fullname": "AnimusArcana.Vorpal Sword",
+  "display_help": "Animus Arcana",
+  "display_short_help": "Animus Arcana",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ANIMUSARCANA/VORPAL_SWORD.POWERSETS",
+  "icon": "vorpal_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "AnimusArcana.Vorpal_Sword.Hack",
+    "AnimusArcana.Vorpal_Sword.Slash",
+    "AnimusArcana.Vorpal_Sword.Spear_of_Light",
+    "AnimusArcana.Vorpal_Sword.Parry",
+    "AnimusArcana.Vorpal_Sword.Whirling_Sword",
+    "AnimusArcana.Vorpal_Sword.Disembowel",
+    "AnimusArcana.Vorpal_Sword.Head_Splitter"
+  ],
+  "power_display_names": [
+    "Hack",
+    "Slash",
+    "Spear of Light",
+    "Parry",
+    "Whirling Sword",
+    "Disembowel",
+    "Head Splitter"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), -DEF(Foe, All)",
+    "Melee, Minor DMG (Lethal), -DEF(Foe,All)",
+    "Ranged, High DMG(Energy)",
+    "Melee, High DMG(Lethal), +DEF(Self, Melee/Lethal)",
+    "PBAoE, Moderate DMG(Lethal), Moderate DoT(Lethal), -DEF(Foe, All)",
+    "Melee, Superior DMG(Lethal), -DEF(Foe, All), Chance for Knockup(Foe)",
+    "Melee, Extreme DMG(Lethal), -DEF(Foe, All), Chance for Knockdown"
+  ]
+}

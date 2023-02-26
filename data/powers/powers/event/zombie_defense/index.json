@@ -1,0 +1,22 @@
+{
+  "name": "Zombie_Defense",
+  "display_name": "Zombie Defense",
+  "display_fullname": "Event.Zombie Defense",
+  "display_help": "Zombie",
+  "display_short_help": "Zombie",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/ZOMBIE_DEFENSE.POWERSETS",
+  "icon": "zombie_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Zombie_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Sleep, Fear, Disorient, Cold, Negative, Psionic, Slow"
+  ]
+}

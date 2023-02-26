@@ -1,0 +1,22 @@
+{
+  "name": "Boss_Resists",
+  "display_name": "Minion_Resists",
+  "display_fullname": "RedCaps.Minion Resists",
+  "display_help": "RedCaps",
+  "display_short_help": "RedCaps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/BOSS_RESISTS.POWERSETS",
+  "icon": "boss_resists_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.Boss_Resists.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Lethal Disorient"
+  ]
+}

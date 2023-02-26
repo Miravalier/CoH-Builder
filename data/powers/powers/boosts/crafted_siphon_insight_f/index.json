@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Siphon_Insight_F",
+  "display_name": "Crafted Siphon Insight F",
+  "display_fullname": "Boosts.Crafted Siphon Insight F",
+  "display_help": "Gives a minor chance to boost the user's chance to hit. This effect will trigger roughly 2 times per minute. NOTE: This enhancement can only be slotted into to hit debuff powers that require a to hit check.",
+  "display_short_help": "Set: Siphon Insight",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_SIPHON_INSIGHT_F.POWERSETS",
+  "icon": "crafted_siphon_insight_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Siphon_Insight_F.Crafted_Siphon_Insight_F"
+  ],
+  "power_display_names": [
+    "Siphon Insight: Chance for +To Hit"
+  ],
+  "power_short_helps": [
+    "Chance for +To Hit"
+  ]
+}

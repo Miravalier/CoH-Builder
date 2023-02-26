@@ -1,0 +1,117 @@
+{
+  "group": "Flying_Group",
+  "powers": [
+    [
+      "Prestige.Prestige Travel.Cheetah Travel Power",
+      "prestige.prestige_travel.alt_cheetah_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Coyote Travel Power",
+      "prestige.prestige_travel.alt_coyote_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Flying Carpet",
+      "prestige.prestige_travel.alt_magic_carpet"
+    ],
+    [
+      "Prestige.Prestige Travel.Panther Travel Power",
+      "prestige.prestige_travel.alt_panther_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Rocket Board",
+      "prestige.prestige_travel.alt_hover_board"
+    ],
+    [
+      "Prestige.Prestige Travel.Void Skiff",
+      "prestige.prestige_travel.alt_void_skiff"
+    ],
+    [
+      "Temporary Powers.Day Job Powers.Traveler's Jet Pack",
+      "temporary_powers.day_job_powers.day_job_jet_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Antigravity Matrix",
+      "temporary_powers.temporary_powers.antigravity_matrix"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Buoyant Membrane",
+      "temporary_powers.temporary_powers.seed_flight"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Goldbricker Rocket Pack",
+      "temporary_powers.temporary_powers.goldbricker_rocket_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Goldbricker Rocket Pack",
+      "temporary_powers.temporary_powers.invention_jet_pack_goldbricker"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Holiday Rocket Pack",
+      "temporary_powers.temporary_powers.holiday_rocket_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Holiday Rocket Pack",
+      "temporary_powers.temporary_powers.invention_jet_pack_holiday"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Jet Pack",
+      "temporary_powers.temporary_powers.alt_lp_jet_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Jet Pack",
+      "temporary_powers.temporary_powers.invention_jet_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Jetpack",
+      "temporary_powers.temporary_powers.positrontfjetpack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Jump Pack",
+      "temporary_powers.temporary_powers.jump_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.LKT-1700 Rocket Pack",
+      "temporary_powers.temporary_powers.invention_jet_pack_lkt"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Longbow Jetpack",
+      "temporary_powers.temporary_powers.invention_jet_pack_longbow_big"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Longbow Jetpack",
+      "temporary_powers.temporary_powers.longbow_jetpack_female"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Longbow Jetpack",
+      "temporary_powers.temporary_powers.longbow_jetpack_male"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Phase Flight",
+      "temporary_powers.temporary_powers.phase_flight"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Raptor Pack",
+      "temporary_powers.temporary_powers.hummingbird_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Raptor Pack",
+      "temporary_powers.temporary_powers.mayhem_flight_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Raptor Pack",
+      "temporary_powers.temporary_powers.raptor_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Raptor Pack",
+      "temporary_powers.temporary_powers.sc_store_raptor_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Sky Raider Flight Pack",
+      "temporary_powers.temporary_powers.sky_raider_flight_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Small Longbow Jetpack",
+      "temporary_powers.temporary_powers.invention_jet_pack_longbow_small"
+    ]
+  ]
+}

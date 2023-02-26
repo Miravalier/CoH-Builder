@@ -1,0 +1,57 @@
+{
+  "tag": "Generator",
+  "bears": [
+    [
+      "arachnos_healing_generator_ssf",
+      [
+        "Power Transfer Tower"
+      ]
+    ],
+    [
+      "arachnos_power_generator_ssf",
+      [
+        "Power Transfer Tower"
+      ]
+    ],
+    [
+      "arachnos_protective_generator_ssf",
+      [
+        "Power Transfer Tower"
+      ]
+    ],
+    [
+      "arachnos_repairtarget",
+      [
+        "Generator"
+      ]
+    ],
+    [
+      "arachnos_temporal_manipulator_ssf",
+      [
+        "Power Transfer Tower"
+      ]
+    ],
+    [
+      "arachnos_tesla_tower",
+      [
+        "Telsa Tower"
+      ]
+    ],
+    [
+      "objects_power_generator_sig3",
+      [
+        "Power Transfer Tower"
+      ]
+    ]
+  ],
+  "affects": [
+    [
+      "V Arachnos.Repairman Repair.Construct",
+      "v_arachnos.repairman_repair.construct"
+    ],
+    [
+      "V Arachnos.Repairman Repair.Repair",
+      "v_arachnos.repairman_repair.repair"
+    ]
+  ]
+}

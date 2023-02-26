@@ -1,0 +1,34 @@
+{
+  "name": "Zoe_Gold_Smelter_HM",
+  "display_name": "Zoe Gold Smelter (Hard Mode)",
+  "display_fullname": "V GoldBrickers.Zoe Gold Smelter (Hard Mode)",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    49,
+    49,
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/ZOE_GOLD_SMELTER_HM.POWERSETS",
+  "icon": "thermal_radiation_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Zoe_Gold_Smelter_HM.Smelting_Cauldron",
+    "V_GoldBrickers.Zoe_Gold_Smelter_HM.Heat_Exhaustion",
+    "V_GoldBrickers.Zoe_Gold_Smelter_HM.Melt_Armor",
+    "V_GoldBrickers.Zoe_Gold_Smelter_HM.Golden_Bonds"
+  ],
+  "power_display_names": [
+    "Smelting Cauldron",
+    "Heat Exhaustion",
+    "Melt Armor",
+    "Golden Bonds"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +Heal",
+    "High-Accuracy, Ranged Foe -DMG, -END, -Recovery, -Regeneration",
+    "High-Accuracy, Ranged (Targeted AoE), Foe -Res, -DEF",
+    "PBAoE, Team +DMG, +DEF(All), +ToHit, +Perception, Res(Taunt, Placate, Perception, Confuse)"
+  ]
+}

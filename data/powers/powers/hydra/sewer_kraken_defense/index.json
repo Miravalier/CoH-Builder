@@ -1,0 +1,22 @@
+{
+  "name": "Sewer_Kraken_Defense",
+  "display_name": "Sewer_Kraken_Defense",
+  "display_fullname": "Hydra.Sewer Kraken Defense",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/SEWER_KRAKEN_DEFENSE.POWERSETS",
+  "icon": "sewer_kraken_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Sewer_Kraken_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tag": "EndDrain",
+  "bears": [
+    [
+      "Boosts.Attuned Tempest D.Chance for Endurance Drain",
+      "boosts.attuned_tempest_d.attuned_tempest_d"
+    ],
+    [
+      "Boosts.Crafted Tempest D.Chance for Endurance Drain",
+      "boosts.crafted_tempest_d.crafted_tempest_d"
+    ]
+  ],
+  "affects": []
+}

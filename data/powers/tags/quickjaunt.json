@@ -1,0 +1,15 @@
+{
+  "tag": "QuickJaunt",
+  "bears": [
+    [
+      "Pool.Experimentation.Jaunt",
+      "pool.experimentation.jaunt"
+    ]
+  ],
+  "affects": [
+    [
+      "Pool.Experimentation.Jaunt",
+      "pool.experimentation.jaunt"
+    ]
+  ]
+}

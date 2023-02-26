@@ -1,0 +1,30 @@
+{
+  "name": "Omega_Bomb_HM",
+  "display_name": "Omega_Bomb (Hard Mode)",
+  "display_fullname": "Kheldian Pets.Omega Bomb (Hard Mode)",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KHELDIAN_PETS/OMEGA_BOMB_HM.POWERSETS",
+  "icon": "omega_bomb_set.png",
+  "requires": "",
+  "power_names": [
+    "Kheldian_Pets.Omega_Bomb_HM.Explosion",
+    "Kheldian_Pets.Omega_Bomb_HM.Taunt",
+    "Kheldian_Pets.Omega_Bomb_HM.Fly"
+  ],
+  "power_display_names": [
+    "Explosion",
+    "Taunt",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "AoE Energy, Knockback",
+    "Taunt",
+    "Movement"
+  ]
+}

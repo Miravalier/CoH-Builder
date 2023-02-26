@@ -1,0 +1,29 @@
+{
+  "name": "V_Batzul",
+  "display_name": "Batzul",
+  "source_file": "DEFS/POWERS/V_BATZUL.CATEGORIES",
+  "archetypes": [
+    "minion_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_batzul.batzul",
+    "v_batzul.boss",
+    "v_batzul.imp",
+    "v_batzul.lt",
+    "v_batzul.lava",
+    "v_batzul.minion",
+    "v_batzul.resistances"
+  ],
+  "powerset_display_names": [
+    "Bat'Zul",
+    "Boss",
+    "Imp",
+    "Lieutenant",
+    "Lava",
+    "Minion",
+    "Resistances"
+  ],
+  "powersets_with_requirements": []
+}

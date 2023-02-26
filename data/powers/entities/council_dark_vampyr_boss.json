@@ -1,0 +1,99 @@
+{
+  "name": "Council_Dark_Vampyr_Boss",
+  "gender": "GENDER_MALE",
+  "group_name": "Council",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "5thColumn_Fifth_Vampyr_Base",
+    "character_class_name": "boss_grunt",
+    "description": "The Dark Vampyri are the assistants to Nosferatu, the man responsible for the Council's super soldier program. They are scientists as well as super soldiers, and have a hand in the creation of other Vampyri. They often personalize their own transformation process, giving themselves special abilities and powers that lesser beings can only dream of.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Council.Dark_Vampyri.Shadow_Blast",
+      "Council.Dark_Vampyri.Dark_Matter_Detonation",
+      "Council.Dark_Vampyri.Essence_Drain",
+      "Council.Dark_Vampyri.Star_Punch",
+      "Council.Dark_Vampyri.Gravity_Well",
+      "Council.Vampyri_Defense.Fast_Healing",
+      "Council.Nightwolf_Boss_Transform.Lycanthropy"
+    ],
+    "power_display_names": [
+      "Shadow Blast",
+      "Dark Matter Detonation",
+      "Essence Drain",
+      "Star Punch",
+      "Gravity Well",
+      "Fast Healing",
+      "Lycanthropy"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Council",
+        "power_set": "Dark_Vampyri",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Council",
+        "power_set": "Vampyri_Defense",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Council",
+        "power_set": "Nightwolf_Boss_Transform",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Dark Equinox Archon"
+      ],
+      "costumes": [
+        "Council_Vampyri_03"
+      ]
+    }
+  ]
+}

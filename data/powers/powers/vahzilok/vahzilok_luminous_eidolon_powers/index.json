@@ -1,0 +1,46 @@
+{
+  "name": "Vahzilok_Luminous_Eidolon_Powers",
+  "display_name": "Vahzilok_Luminous_Eidolon_Powers",
+  "display_fullname": "Vahzilok.Vahzilok Luminous Eidolon Powers",
+  "display_help": "Vahzilok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/VAHZILOK_LUMINOUS_EIDOLON_POWERS.POWERSETS",
+  "icon": "vahzilok_luminous_eidolon_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.Brawl",
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.Neutrino_Bolt",
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.Focus",
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.X-Ray_Beam",
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.Neutron_Bomb",
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.Irradiate",
+    "Vahzilok.Vahzilok_Luminous_Eidolon_Powers.Electron_Haze"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Neutrino Bolt",
+    "Focus",
+    "X-Ray Beam",
+    "Neutron Bomb",
+    "Irradiate",
+    "Electron Haze"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "-DEF",
+    "Self Toggle, +DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF"
+  ]
+}

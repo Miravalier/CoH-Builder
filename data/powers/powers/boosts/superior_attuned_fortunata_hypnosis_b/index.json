@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Fortunata_Hypnosis_B",
+  "display_name": "Superior Attuned Fortunata Hypnosis B",
+  "display_fullname": "Boosts.Superior Attuned Fortunata Hypnosis B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the Sleep duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Fortunata Hypnosis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_FORTUNATA_HYPNOSIS_B.POWERSETS",
+  "icon": "superior_attuned_fortunata_hypnosis_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Fortunata_Hypnosis_B.Superior_Attuned_Fortunata_Hypnosis_B"
+  ],
+  "power_display_names": [
+    "Fortunata Hypnosis: Sleep Duration/Recharge"
+  ],
+  "power_short_helps": [
+    "+Rech, +Sleep"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tag": "SpeedOn",
+  "bears": [],
+  "affects": [
+    [
+      "Pool.Utility Belt.Freerunning",
+      "pool.utility_belt.freerunning"
+    ]
+  ]
+}

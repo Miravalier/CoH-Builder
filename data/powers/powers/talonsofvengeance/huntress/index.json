@@ -1,0 +1,30 @@
+{
+  "name": "Huntress",
+  "display_name": "Huntress",
+  "display_fullname": "TalonsOfVengeance.Huntress",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/HUNTRESS.POWERSETS",
+  "icon": "huntress_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Huntress.Snap_Shot",
+    "TalonsOfVengeance.Huntress.Aimed_Shot",
+    "TalonsOfVengeance.Huntress.Entangling_Arrow"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "Aimed Shot",
+    "Entangling Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal)",
+    "Ranged, Moderate DMG(Lethal)",
+    "Ranged, Immobilize, -Fly (Foe), -Speed (Foe, All)"
+  ]
+}

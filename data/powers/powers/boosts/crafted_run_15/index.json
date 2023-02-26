@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Run_15",
+  "display_name": "Crafted Run 15",
+  "display_fullname": "Boosts.Crafted Run 15",
+  "display_help": "Increases run speed by {Boost.Attrib.Movement.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RUN_15.POWERSETS",
+  "icon": "crafted_run_15_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Run_15.Crafted_Run_15"
+  ],
+  "power_display_names": [
+    "Invention: Run Speed Increase"
+  ],
+  "power_short_helps": [
+    "Enhances Running Speed"
+  ]
+}

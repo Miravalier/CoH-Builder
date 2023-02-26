@@ -1,0 +1,42 @@
+{
+  "name": "Meat_Doctor_Boss",
+  "display_name": "Meat Doctor Boss",
+  "display_fullname": "Freakshow.Meat Doctor Boss",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/MEAT_DOCTOR_BOSS.POWERSETS",
+  "icon": "meat_doctor_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Meat_Doctor_Boss.Poison_Dart",
+    "Freakshow.Meat_Doctor_Boss.Poison_Dart_Blast",
+    "Freakshow.Meat_Doctor_Boss.Surgical_Electric_Saw",
+    "Freakshow.Meat_Doctor_Boss.Eviscerate",
+    "Freakshow.Meat_Doctor_Boss.Resurrect_Freakshow",
+    "Freakshow.Meat_Doctor_Boss.Heal_Other"
+  ],
+  "power_display_names": [
+    "Poison Dart",
+    "Poison Dart Blast",
+    "Surgical Electric Saw",
+    "Eviscerate",
+    "Resurrect Freakshow",
+    "Heal Other"
+  ],
+  "power_short_helps": [
+    "Poison: DoT(Toxic), -Regeneration, -SPD",
+    "Poison: DoT(Toxic), -Regeneration, -SPD",
+    "Melee Lethal",
+    "Melee Cone Lethal, Very High DMG",
+    "Resurrect Zombie",
+    "Ally Heal"
+  ]
+}

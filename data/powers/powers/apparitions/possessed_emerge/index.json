@@ -1,0 +1,30 @@
+{
+  "name": "Possessed_Emerge",
+  "display_name": "Possessed_Emerge",
+  "display_fullname": "Apparitions.Possessed Emerge",
+  "display_help": "Apparitions",
+  "display_short_help": "Apparitions",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/APPARITIONS/POSSESSED_EMERGE.POWERSETS",
+  "icon": "possessed_emerge_set.png",
+  "requires": "",
+  "power_names": [
+    "Apparitions.Possessed_Emerge.Emerge_MN",
+    "Apparitions.Possessed_Emerge.Emerge_LT",
+    "Apparitions.Possessed_Emerge.Emerge_BS"
+  ],
+  "power_display_names": [
+    "Emerge MN",
+    "Emerge LT",
+    "Emerge BS"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Special"
+  ]
+}

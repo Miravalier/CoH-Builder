@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Mocking_Beratement_F",
+  "display_name": "Attuned Mocking Beratement F",
+  "display_fullname": "Boosts.Attuned Mocking Beratement F",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Mocking Beratement",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MOCKING_BERATEMENT_F.POWERSETS",
+  "icon": "attuned_mocking_beratement_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Mocking_Beratement_F.Attuned_Mocking_Beratement_F"
+  ],
+  "power_display_names": [
+    "Mocking Beratement: Recharge"
+  ],
+  "power_short_helps": [
+    "+Rech"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Feral_Might",
+  "display_name": "Might",
+  "source_file": "DEFS/POWERS/FERAL_MIGHT.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "feral_might.feral_might"
+  ],
+  "powerset_display_names": [
+    "Feral Might"
+  ],
+  "powersets_with_requirements": []
+}

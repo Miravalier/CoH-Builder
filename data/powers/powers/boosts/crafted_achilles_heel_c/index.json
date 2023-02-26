@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Achilles_Heel_C",
+  "display_name": "Crafted Achilles Heel C",
+  "display_fullname": "Boosts.Crafted Achilles Heel C",
+  "display_help": "Gives a chance to reduce your foes damage resistance by 20%. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Achilles' Heel",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ACHILLES_HEEL_C.POWERSETS",
+  "icon": "crafted_achilles_heel_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Achilles_Heel_C.Crafted_Achilles_Heel_C"
+  ],
+  "power_display_names": [
+    "Achilles' Heel: Chance for Resistance Debuff"
+  ],
+  "power_short_helps": [
+    "-RES (All)"
+  ]
+}

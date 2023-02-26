@@ -1,0 +1,63 @@
+{
+  "tag": "FlightActive",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Maneuvers",
+      "peacebringer_defensive.luminous_aura.quantum_acceleration"
+    ],
+    [
+      "Pool.Flight.Evasive Maneuvers",
+      "pool.flight.afterburner"
+    ]
+  ],
+  "affects": [
+    [
+      "Inherent.Inherent.Combat Flight",
+      "inherent.inherent.combat_flight"
+    ],
+    [
+      "Inherent.Inherent.Energy Flight",
+      "inherent.inherent.energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Combat Flight",
+      "peacebringer_defensive.luminous_aura.combat_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Energy Flight",
+      "peacebringer_defensive.luminous_aura.energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Group Energy Flight",
+      "peacebringer_defensive.luminous_aura.group_energy_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Flight",
+      "peacebringer_defensive.luminous_aura.quantum_flight"
+    ],
+    [
+      "Pool.Flight.Fly",
+      "pool.flight.fly"
+    ],
+    [
+      "Pool.Flight.Group Fly",
+      "pool.flight.group_fly"
+    ],
+    [
+      "Pool.Flight.Hover",
+      "pool.flight.combat_flight"
+    ],
+    [
+      "Pool.Gadgetry.Jetpack",
+      "pool.gadgetry.jetpack"
+    ],
+    [
+      "Pool.Sorcery.Mystic Flight",
+      "pool.sorcery.mystic_flight"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Phase Flight",
+      "temporary_powers.temporary_powers.phase_flight"
+    ]
+  ]
+}

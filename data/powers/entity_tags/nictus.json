@@ -1,0 +1,156 @@
+{
+  "tag": "Nictus",
+  "bears": [
+    [
+      "nictus_crystal_nictus_entity_boss",
+      [
+        "Greater Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_crystal_nictus_entity_boss_nocrystal",
+      [
+        "Greater Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_crystal_nictus_entity_lt",
+      [
+        "Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_crystal_nictus_entity_lt_nocrystal",
+      [
+        "Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_crystal_nictus_entity_lt_nocrystal_fly",
+      [
+        "Nictus Predator"
+      ]
+    ],
+    [
+      "nictus_crystal_nictus_entity_minion",
+      [
+        "Lesser Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_crystal_nictus_entity_minion_nocrystal",
+      [
+        "Lesser Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_dark_dwarf",
+      [
+        "Dark Dwarf"
+      ]
+    ],
+    [
+      "nictus_dark_dwarf_elite",
+      [
+        "Dark Dwarf Alpha"
+      ]
+    ],
+    [
+      "nictus_dark_dwarf_elite_hmspawn",
+      [
+        "Dark Dwarf Alpha"
+      ]
+    ],
+    [
+      "nictus_dark_dwarf_roman",
+      [
+        "Dark Dwarf"
+      ]
+    ],
+    [
+      "nictus_dark_nova",
+      [
+        "Dark Nova"
+      ]
+    ],
+    [
+      "nictus_dark_nova1_romulus_hm",
+      [
+        "Sapphire Barrier Nova"
+      ]
+    ],
+    [
+      "nictus_dark_nova2_romulus_hm",
+      [
+        "Topaz Barrier Nova"
+      ]
+    ],
+    [
+      "nictus_dark_nova3_romulus_hm",
+      [
+        "Ruby Barrier Nova"
+      ]
+    ],
+    [
+      "nictus_dark_nova4_romulus_hm",
+      [
+        "Emerald Barrier Nova"
+      ]
+    ],
+    [
+      "nictus_dark_nova_elite",
+      [
+        "Dark Nova Alpha"
+      ]
+    ],
+    [
+      "nictus_dark_nova_elite_hmspawn",
+      [
+        "Dark Nova Alpha"
+      ]
+    ],
+    [
+      "nictus_dark_nova_roman",
+      [
+        "Dark Nova"
+      ]
+    ],
+    [
+      "nictus_do_not_use_except_for_cutscene",
+      [
+        "Greater Unbound Nictus"
+      ]
+    ],
+    [
+      "nictus_nictus_hunter_boss",
+      [
+        "Void Slayer"
+      ]
+    ],
+    [
+      "nictus_nictus_hunter_elite",
+      [
+        "Void Harbinger"
+      ]
+    ],
+    [
+      "nictus_nictus_hunter_lt",
+      [
+        "Void Stalker"
+      ]
+    ],
+    [
+      "nictus_nictus_hunter_minion",
+      [
+        "Void Seeker"
+      ]
+    ],
+    [
+      "nictus_romulus_extracted_essence_hm",
+      [
+        "Extracted Essence"
+      ]
+    ]
+  ],
+  "affects": []
+}

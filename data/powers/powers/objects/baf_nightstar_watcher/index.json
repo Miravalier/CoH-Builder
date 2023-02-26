@@ -1,0 +1,26 @@
+{
+  "name": "BAF_Nightstar_Watcher",
+  "display_name": "BAF_Nightstar_Watcher",
+  "display_fullname": "Objects.BAF Nightstar Watcher",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BAF_NIGHTSTAR_WATCHER.POWERSETS",
+  "icon": "baf_nightstar_watcher_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.BAF_Nightstar_Watcher.Nightstar_Heal",
+    "Objects.BAF_Nightstar_Watcher.Degenerate"
+  ],
+  "power_display_names": [
+    "Nightstar Heal",
+    "Degenerate"
+  ],
+  "power_short_helps": [
+    "Siege Present!",
+    "Siege Present!"
+  ]
+}

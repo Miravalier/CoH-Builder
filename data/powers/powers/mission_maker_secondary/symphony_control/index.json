@@ -1,0 +1,54 @@
+{
+  "name": "Symphony_Control",
+  "display_name": "Symphony Control",
+  "display_fullname": "Mission Maker Secondary.Symphony Control",
+  "display_help": "Use the power of music to captivate and control the spirits of your enemies. Most of your symphonic abilities influence the mind of your enemies, causing psionic damage.",
+  "display_short_help": "Symphony Control",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/SYMPHONY_CONTROL.POWERSETS",
+  "icon": "siren_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Symphony_Control.Melodic_Binding",
+    "Mission_Maker_Secondary.Symphony_Control.Hymn_of_Dissonance",
+    "Mission_Maker_Secondary.Symphony_Control.Aria_of_Stasis",
+    "Mission_Maker_Secondary.Symphony_Control.Impassioned_Serenade",
+    "Mission_Maker_Secondary.Symphony_Control.Dreadful_Discord",
+    "Mission_Maker_Secondary.Symphony_Control.Enfeebling_Lullaby",
+    "Mission_Maker_Secondary.Symphony_Control.Confounding_Chant",
+    "Mission_Maker_Secondary.Symphony_Control.Chords_of_Despair",
+    "Mission_Maker_Secondary.Symphony_Control.Reverberant"
+  ],
+  "power_display_names": [
+    "Melodic Binding",
+    "Hymn of Dissonance",
+    "Aria of Stasis",
+    "Impassioned Serenade",
+    "Dreadful Discord",
+    "Enfeebling Lullaby",
+    "Confounding Chant",
+    "Chords of Despair",
+    "Reverberant"
+  ],
+  "power_short_helps": [
+    "Ranged, DMG(Psionic), Immobilize, -Speed",
+    "Ranged, DMG(Psionic), Hold, -Recharge",
+    "Cone, DMG(Psionic), Immobilize, -Speed",
+    "Ranged, DMG(Psionic), Confuse",
+    "Cone, DMG(Psionic), Fear",
+    "Cone, DMG(Psionic), Sleep",
+    "Cone, DoT (Psionic), Foe Disorient",
+    "Targeted AoE, Hold",
+    "Summon Reverberant: Ranged Control Special"
+  ]
+}

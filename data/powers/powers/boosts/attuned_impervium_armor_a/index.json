@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impervium_Armor_A",
+  "display_name": "Attuned Impervium Armor A",
+  "display_fullname": "Boosts.Attuned Impervium Armor A",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Impervium Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPERVIUM_ARMOR_A.POWERSETS",
+  "icon": "attuned_impervium_armor_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impervium_Armor_A.Attuned_Impervium_Armor_A"
+  ],
+  "power_display_names": [
+    "Impervium Armor: Resistance/Endurance"
+  ],
+  "power_short_helps": [
+    "+RES (all), Reduces End cost"
+  ]
+}

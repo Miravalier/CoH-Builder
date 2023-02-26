@@ -1,0 +1,13 @@
+{
+  "group": "Primalist_Group",
+  "powers": [
+    [
+      "Feral Might.Feral Might.Hunter Form",
+      "feral_might.feral_might.hunter_form"
+    ],
+    [
+      "Feral Might.Feral Might.Prowler Form",
+      "feral_might.feral_might.prowler_form"
+    ]
+  ]
+}

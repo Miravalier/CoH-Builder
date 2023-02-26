@@ -1,0 +1,306 @@
+{
+  "name": "Karma",
+  "display_name": "Karma",
+  "group_name": "Defense Sets",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Defense"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Karma_A.Crafted_Karma_A",
+      "Boosts.Attuned_Karma_A.Attuned_Karma_A"
+    ],
+    [
+      "Boosts.Crafted_Karma_B.Crafted_Karma_B",
+      "Boosts.Attuned_Karma_B.Attuned_Karma_B"
+    ],
+    [
+      "Boosts.Crafted_Karma_C.Crafted_Karma_C",
+      "Boosts.Attuned_Karma_C.Attuned_Karma_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.karma"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_2",
+          "Small Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_karma_c": [
+        [
+          "set_bonus.set_bonus.karma",
+          "Karma: Knockback Protection"
+        ]
+      ],
+      "crafted_karma_c": [
+        [
+          "set_bonus.set_bonus.karma",
+          "Karma: Knockback Protection"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_karma.png",
+      "e_icon_karma.png",
+      "e_icon_karma.png",
+      "e_icon_karma.png",
+      "e_icon_karma.png",
+      "e_icon_karma.png"
+    ],
+    "boosts": [
+      [
+        "Karma: Defense/Endurance",
+        "Attuned Karma: Defense/Endurance"
+      ],
+      [
+        "Karma: Defense/Recharge",
+        "Attuned Karma: Defense/Recharge"
+      ],
+      [
+        "Karma: Proc/Global",
+        "Attuned Karma: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_karma_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_karma_a.attuned_karma_a",
+          "Karma: Defense/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Karma: Defense/Endurance",
+        "aspects": [
+          "Defense",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "karma",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_karma.png"
+      },
+      "attuned_karma_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Karma: Defense/Endurance",
+        "aspects": [
+          "Defense",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "karma",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_karma.png"
+      },
+      "crafted_karma_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_karma_b.attuned_karma_b",
+          "Karma: Defense/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Karma: Defense/Recharge",
+        "aspects": [
+          "Defense",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "karma",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_karma.png"
+      },
+      "attuned_karma_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Karma: Defense/Recharge",
+        "aspects": [
+          "Defense",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "karma",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_karma.png"
+      },
+      "crafted_karma_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_karma_c.attuned_karma_c",
+          "Karma: Knockback Protection"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Karma: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "karma",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.karma",
+            "Karma: Knockback Protection"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_karma.png"
+      },
+      "attuned_karma_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Karma: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "karma",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.karma",
+            "Karma: Knockback Protection"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_karma.png"
+      }
+    }
+  }
+}

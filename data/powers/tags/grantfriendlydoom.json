@@ -1,0 +1,10 @@
+{
+  "tag": "GrantFriendlyDoom",
+  "bears": [
+    [
+      "Redirects.Electrical Affinity.Amp Up",
+      "redirects.shock_therapy.shock_therapy_amp_up"
+    ]
+  ],
+  "affects": []
+}

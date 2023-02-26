@@ -1,0 +1,34 @@
+{
+  "name": "Chain_Gun",
+  "display_name": "Chain_Gun",
+  "display_fullname": "Guns.Chain Gun",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/CHAIN_GUN.POWERSETS",
+  "icon": "chain_gun_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Chain_Gun.Chaingun_Full_Auto",
+    "Guns.Chain_Gun.Chaingun_Short_Burst",
+    "Guns.Chain_Gun.Chain_gun_Heavy_Burst",
+    "Guns.Chain_Gun.Chaingun_Frag_Grenade"
+  ],
+  "power_display_names": [
+    "Chaingun Full Auto",
+    "Chaingun Short Burst",
+    "Chain gun Heavy Burst",
+    "Chaingun Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, High Dam, +Acc",
+    "Ranged Lethal, High Dam, +Acc",
+    "Heavy DoT(Lethal)",
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

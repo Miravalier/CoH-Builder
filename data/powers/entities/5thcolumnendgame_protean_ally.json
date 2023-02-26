@@ -1,0 +1,97 @@
+{
+  "name": "5thColumnEndgame_Protean_Ally",
+  "gender": "GENDER_MALE",
+  "group_name": "5thColumnEndgame",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "Protean is a notorious shapeshifter, known for his murders of high profile heroes and their families. His earliest victims were the parents of Manticore. He also is responsible for the death of Dauntless, Galaxy Girl's sidekick. It was rumored that Manticore killed Protean in a fight some time ago but somehow Protean survived. He is now out to continue his reign of terror upon the people of Paragon and the Isles, while aiding the forces of Praetoria!",
+    "group_description": "???",
+    "display_class_name": "Villain",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "5thColumn.Protean.Resistance",
+      "5thColumn.Protean.Power_Siphon_Tell",
+      "5thColumn.Protean.Power_Siphon_Hit",
+      "5thColumn.Protean.Barrage",
+      "5thColumn.Protean.Energy_Punch",
+      "5thColumn.Protean.Power_Blast",
+      "5thColumn.Protean.Bone_Smasher",
+      "5thColumn.Protean.Whirling_Hands",
+      "5thColumn.Protean.Kinetic_Shield",
+      "5thColumn.Protean.Power_Shield",
+      "5thColumn.Protean.Overload"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Power Siphon",
+      "Power Siphon",
+      "Barrage",
+      "Energy Punch",
+      "Power Blast",
+      "Bone Smasher",
+      "Whirling Hands",
+      "Kinetic Shield",
+      "Power Shield",
+      "Overload"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "5thColumn",
+        "power_set": "Protean",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Protean"
+      ],
+      "costumes": [
+        "Model_Protean"
+      ]
+    }
+  ]
+}

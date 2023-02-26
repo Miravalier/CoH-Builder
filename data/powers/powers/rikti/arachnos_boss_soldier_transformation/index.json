@@ -1,0 +1,22 @@
+{
+  "name": "Arachnos_Boss_Soldier_Transformation",
+  "display_name": "Arachnos Boss Transformation",
+  "display_fullname": "Rikti.Arachnos Boss Transformation",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/ARACHNOS_BOSS_SOLDIER_TRANSFORMATION.POWERSETS",
+  "icon": "arachnos_boss_soldier_transformation_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Arachnos_Boss_Soldier_Transformation.Transformation"
+  ],
+  "power_display_names": [
+    "Transformation"
+  ],
+  "power_short_helps": [
+    "Toggle: Shapeshift, Special"
+  ]
+}

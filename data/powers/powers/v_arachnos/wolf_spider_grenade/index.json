@@ -1,0 +1,26 @@
+{
+  "name": "Wolf_Spider_Grenade",
+  "display_name": "Wolf_Spider_Grenade",
+  "display_fullname": "V Arachnos.Wolf Spider Grenade",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/WOLF_SPIDER_GRENADE.POWERSETS",
+  "icon": "wolf_spider_grenade_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Wolf_Spider_Grenade.Frag_Grenade",
+    "V_Arachnos.Wolf_Spider_Grenade.Web_Grenade"
+  ],
+  "power_display_names": [
+    "Frag Grenade",
+    "Web Grenade"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Lethal/Fire, Knockback",
+    "Immobilize, -Fly, -Recharge"
+  ]
+}

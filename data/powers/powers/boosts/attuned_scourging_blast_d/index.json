@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Scourging_Blast_D",
+  "display_name": "Attuned Scourging Blast D",
+  "display_fullname": "Boosts.Attuned Scourging Blast D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Corruptors and may be slotted into any Corruptor damage power.",
+  "display_short_help": "Set: Scourging Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SCOURGING_BLAST_D.POWERSETS",
+  "icon": "attuned_scourging_blast_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Scourging_Blast_D.Attuned_Scourging_Blast_D"
+  ],
+  "power_display_names": [
+    "Scourging Blast: Damage/Endurance/Recharge (Corruptor)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost, and Increases Attack Rate"
+  ]
+}

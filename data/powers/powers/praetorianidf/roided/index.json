@@ -1,0 +1,22 @@
+{
+  "name": "Roided",
+  "display_name": "Roided",
+  "display_fullname": "PraetorianIDF.Roided",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/ROIDED.POWERSETS",
+  "icon": "roided_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Roided.Roided"
+  ],
+  "power_display_names": [
+    "Roided"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

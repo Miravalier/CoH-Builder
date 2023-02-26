@@ -1,0 +1,22 @@
+{
+  "name": "Liberty_Belt",
+  "display_name": "Liberty Belt",
+  "display_fullname": "V Vindicators.Liberty Belt",
+  "display_help": "Ms. Liberty",
+  "display_short_help": "Ms. Liberty",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_VINDICATORS/LIBERTY_BELT.POWERSETS",
+  "icon": "liberty_belt_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Vindicators.Liberty_Belt.Liberty_Belt"
+  ],
+  "power_display_names": [
+    "Liberty Belt"
+  ],
+  "power_short_helps": [
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG), +DMG, +ACC"
+  ]
+}

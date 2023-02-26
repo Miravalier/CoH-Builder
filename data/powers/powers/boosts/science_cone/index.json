@@ -1,0 +1,22 @@
+{
+  "name": "Science_Cone",
+  "display_name": "Science Range",
+  "display_fullname": "Boosts.Science Cone",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_CONE.POWERSETS",
+  "icon": "science_cone_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Cone.Science_Cone"
+  ],
+  "power_display_names": [
+    "Neodymium Irradiation (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

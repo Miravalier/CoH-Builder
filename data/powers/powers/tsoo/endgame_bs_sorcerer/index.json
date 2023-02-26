@@ -1,0 +1,50 @@
+{
+  "name": "Endgame_BS_Sorcerer",
+  "display_name": "Endgame_BS_Sorcerer",
+  "display_fullname": "Tsoo.Endgame BS Sorcerer",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    11,
+    25,
+    0,
+    0,
+    0,
+    7
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_BS_SORCERER.POWERSETS",
+  "icon": "endgame_bs_sorcerer_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_BS_Sorcerer.Time_Crawl",
+    "Tsoo.Endgame_BS_Sorcerer.Temporal_Mending",
+    "Tsoo.Endgame_BS_Sorcerer.Time_Stop",
+    "Tsoo.Endgame_BS_Sorcerer.Slowed_Response",
+    "Tsoo.Endgame_BS_Sorcerer.Lightning_Bolt",
+    "Tsoo.Endgame_BS_Sorcerer.Shuriken",
+    "Tsoo.Endgame_BS_Sorcerer.Quick_Strike",
+    "Tsoo.Endgame_BS_Sorcerer.Repulsing_Torrent"
+  ],
+  "power_display_names": [
+    "Curse of Sluggishness",
+    "Ancestral Blessing",
+    "Ancestral Grasp",
+    "Curse of Weariness",
+    "Ancestral Bolt",
+    "Shuriken",
+    "Spirit Strike",
+    "Torrent of Spirit"
+  ],
+  "power_short_helps": [
+    "Ranged, -Speed(Foe, All), -Recharge, -Regen",
+    "PBAoE, Heal (Self and Allies), HoT (Self and Allies), +RES(Slow, Regen Debuff)",
+    "Ranged, Hold(Foe), -Regen(Foe), -Heal(Foe)",
+    "TAoE, -DEF(Foe,All), -RES(Foe,All)",
+    "Ranged, High DMG(Energy), -End (Foe), -Rec (Foe)",
+    "Ranged, Minor DMG(Lethal), Minor DoT(Lethal)",
+    "Melee, Light DMG(Smashing/Energy), -DMG(Foe, All), Chance for Knockdown(Foe)",
+    "Ranged (Cone), Moderate DMG(Smashing/Energy), Chance for Knockback(Foe)"
+  ]
+}

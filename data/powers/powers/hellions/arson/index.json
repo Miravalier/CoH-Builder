@@ -1,0 +1,26 @@
+{
+  "name": "Arson",
+  "display_name": "Arson",
+  "display_fullname": "Hellions.Arson",
+  "display_help": "Hellions",
+  "display_short_help": "Hellions",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HELLIONS/ARSON.POWERSETS",
+  "icon": "arson_set.png",
+  "requires": "",
+  "power_names": [
+    "Hellions.Arson.Molotov_Cocktail",
+    "Hellions.Arson.Kerosene"
+  ],
+  "power_display_names": [
+    "Molotov Cocktail",
+    "Kerosene"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Heal Fire"
+  ]
+}

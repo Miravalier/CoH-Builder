@@ -1,0 +1,22 @@
+{
+  "name": "Science_Technology_Drain_Endurance",
+  "display_name": "Science Technology endurance",
+  "display_fullname": "Boosts.Science Technology Drain Endurance",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Invention (Science, Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_TECHNOLOGY_DRAIN_ENDURANCE.POWERSETS",
+  "icon": "science_technology_drain_endurance_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Technology_Drain_Endurance.Science_Technology_Drain_Endurance"
+  ],
+  "power_display_names": [
+    "Adrenal Modifier (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

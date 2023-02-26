@@ -1,0 +1,70 @@
+{
+  "name": "NewPraetorians_Provost_Marchand",
+  "gender": "GENDER_MALE",
+  "group_name": "NewPraetorians",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Provost Marchand was the former leader of the military for Praetoria. He was against a war with Primal Earth and had the majority of his say in all military matters taken away from him by Emperor Cole. Provost Marchand was brought to Primal Earth by Vanguard and helped organize the forces against the final attack on the Magisterium. He has proven himself to be a trustworthy and honorable man. The authorities of Paragon honored his request to form a new supergroup called the New Praetorians, but warned Marchand that they would be keeping a very close eye on his organization.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "GenericVillains.AV_Resistance.AV_Resistance"
+    ],
+    "power_display_names": [
+      "Archvillain's Might"
+    ],
+    "power_levels": [
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "GenericVillains",
+        "power_set": "AV_Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Gerald T. Marchand"
+      ],
+      "costumes": [
+        "Model_Provost_Marshal_Gerald_T_Marchand_NoRing"
+      ]
+    }
+  ]
+}

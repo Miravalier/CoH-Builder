@@ -1,0 +1,143 @@
+{
+  "name": "Event_PraetorianInvasion_Diabolique",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_monster",
+    "description": "Tammy Arcanus was born with great Magical powers on Praetorian Earth, just like she was on Primal Earth. Unfortunately they manifested very differently. As she reached adolescence she began exploring her powers before she was trained. She used astral projection to cast her spirit forth. So intoxicated was she by the new wonders that she was discovering she returned to her body too late to link with it. She watched helplessly as it withered and died without a spirit. As a living ghost, she found herself bound by Emperor Cole himself, forced to do his bidding for the foreseeable future.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Praetorians.Diabolique.Resistance",
+      "Praetorians.Diabolique.Fly",
+      "Praetorians.Diabolique.Fly_fx",
+      "Praetorians.Diabolique.Personal_Force_Field",
+      "Praetorians.Diabolique.Siphon_Power",
+      "Praetorians.Diabolique.Siphon_Speed",
+      "Praetorians.Diabolique.Force_Bolt",
+      "Praetorians.Diabolique.Force_Bomb",
+      "GenericVillains.Debt_Protection_NoFX.Debt_Protection_NoFX"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Fly",
+      "Fly fx",
+      "Personal Force Field",
+      "Siphon Power",
+      "Siphon Speed",
+      "Force Bolt",
+      "Force Bomb",
+      "Debt Protection"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Resistance",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Fly",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Fly_fx",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Personal_Force_Field",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Siphon_Power",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Siphon_Speed",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Force_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Diabolique",
+        "power": "Force_Bomb",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Debt_Protection_NoFX",
+        "power": "Debt_Protection_NoFX",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Diabolique"
+      ],
+      "costumes": [
+        "Diabolique"
+      ]
+    }
+  ]
+}

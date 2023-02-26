@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Preventive_Medicine_D",
+  "display_name": "Crafted Preventive Medicine D",
+  "display_fullname": "Boosts.Crafted Preventive Medicine D",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Preventive Medicine",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_PREVENTIVE_MEDICINE_D.POWERSETS",
+  "icon": "crafted_preventive_medicine_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Preventive_Medicine_D.Crafted_Preventive_Medicine_D"
+  ],
+  "power_display_names": [
+    "Preventive Medicine: Healing/Absorb/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Healing and Damage Absorption effects and reduces Recharge Time"
+  ]
+}

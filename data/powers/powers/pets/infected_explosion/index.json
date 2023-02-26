@@ -1,0 +1,22 @@
+{
+  "name": "Infected_Explosion",
+  "display_name": "Infected Explosion",
+  "display_fullname": "Pets.Infected Explosion",
+  "display_help": "Infected",
+  "display_short_help": "Infected",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/INFECTED_EXPLOSION.POWERSETS",
+  "icon": "infected_explosion_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Infected_Explosion.Infected_Explosion"
+  ],
+  "power_display_names": [
+    "Infected Explosion"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Shivan_Meteor",
+  "display_name": "",
+  "display_fullname": "N Tutorial Shivan.Shivan Meteor",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/N_TUTORIAL_SHIVAN/SHIVAN_METEOR.POWERSETS",
+  "icon": "shivan_meteor_set.png",
+  "requires": "",
+  "power_names": [
+    "N_Tutorial_Shivan.Shivan_Meteor.Meteor_Create",
+    "N_Tutorial_Shivan.Shivan_Meteor.Meteor_Explosion_Tell",
+    "N_Tutorial_Shivan.Shivan_Meteor.Meteor_Explosion"
+  ],
+  "power_display_names": [
+    "Meteor Create",
+    "Meteor Explosion Tell",
+    "Meteor Explosion"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant",
+    "Ranged (Targeted Location), Extreme DMG(Energy), Foe -Regen, -Res(All)"
+  ]
+}

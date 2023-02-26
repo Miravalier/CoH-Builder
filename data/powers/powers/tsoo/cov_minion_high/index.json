@@ -1,0 +1,26 @@
+{
+  "name": "CoV_Minion_High",
+  "display_name": "CoV Minion High",
+  "display_fullname": "Tsoo.CoV Minion High",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/COV_MINION_HIGH.POWERSETS",
+  "icon": "cov_minion_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.CoV_Minion_High.Poison_Dart",
+    "Tsoo.CoV_Minion_High.Thunder_Kick"
+  ],
+  "power_display_names": [
+    "Poison Dart",
+    "Thunder Kick"
+  ],
+  "power_short_helps": [
+    "Poison: DoT(Toxic), -Regeneration, -SPD",
+    "Disorient"
+  ]
+}

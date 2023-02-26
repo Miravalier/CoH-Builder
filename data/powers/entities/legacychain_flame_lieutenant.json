@@ -1,0 +1,86 @@
+{
+  "name": "LegacyChain_Flame_Lieutenant",
+  "gender": "GENDER_MALE",
+  "group_name": "LegacyChain",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 21,
+    "max_level": 25,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "The Legacy Chain works to ensure the mystic arts are used only for good. The Legacy of Flame has learned to harness their magic into fiery blasts.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_LegacyChain.Lt_Fire_Low.Fire_Sword",
+      "V_LegacyChain.Lt_Fire_Low.Fire_Blast",
+      "V_LegacyChain.Lt_Fire_Low.Resistance",
+      "V_LegacyChain.Lt_Fire.Ring_of_Fire"
+    ],
+    "power_display_names": [
+      "Fire Sword",
+      "Fire Blast",
+      "Resistance",
+      "Ring of Fire"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_LegacyChain",
+        "power_set": "Lt_Fire_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_LegacyChain",
+        "power_set": "Lt_Fire",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 21,
+      "max_level": 25,
+      "experience": 0,
+      "display_names": [
+        "Blaze of Flame"
+      ],
+      "costumes": [
+        "Legacy_of_Flame_Lieutenant_01",
+        "Legacy_of_Flame_Lieutenant_02",
+        "Legacy_of_Flame_Lieutenant_03"
+      ]
+    }
+  ]
+}

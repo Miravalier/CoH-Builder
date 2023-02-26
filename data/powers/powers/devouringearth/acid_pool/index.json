@@ -1,0 +1,26 @@
+{
+  "name": "Acid_Pool",
+  "display_name": "Acid Pool",
+  "display_fullname": "DevouringEarth.Acid Pool",
+  "display_help": "Devouring Earth Crystal ranged powers.",
+  "display_short_help": "Devouring Earth Crystal ranged powers.",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/ACID_POOL.POWERSETS",
+  "icon": "acid_pool_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Acid_Pool.Acid",
+    "DevouringEarth.Acid_Pool.Immobilize"
+  ],
+  "power_display_names": [
+    "Acid",
+    "Immobilize"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -SPD",
+    "Immobilize Self"
+  ]
+}

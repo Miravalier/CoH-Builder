@@ -1,0 +1,85 @@
+{
+  "name": "Arachnos_Repairman",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 45,
+    "max_level": 45,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_SMALL",
+    "ai_config": "Repairman",
+    "character_class_name": "minion_small",
+    "description": "Cybernetic implants in their brains have given these Arachnos technicians an incredible affinity for technology. Under the guidance of Weaver-1, they work tirelessly to build and repair the machines of Arachnos.",
+    "group_description": "Arachnos",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Repairman_Repair.Repair",
+      "V_Arachnos.Repairman_Repair.Construct",
+      "V_Arachnos.Drop_Zone_FX.SummonFX"
+    ],
+    "power_display_names": [
+      "Repair",
+      "Construct",
+      "SummonFX"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Repairman_Repair",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Drop_Zone_FX",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 45,
+      "max_level": 45,
+      "experience": 0,
+      "display_names": [
+        "Arachnos Repairman"
+      ],
+      "costumes": [
+        "Wolf_Arachnos_STF_Technician_1",
+        "Wolf_Arachnos_STF_Technician_2",
+        "Wolf_Arachnos_STF_Technician_3"
+      ]
+    }
+  ]
+}

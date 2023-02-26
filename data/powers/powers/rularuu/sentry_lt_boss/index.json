@@ -1,0 +1,26 @@
+{
+  "name": "Sentry_Lt_Boss",
+  "display_name": "Sentry_Lt_Boss",
+  "display_fullname": "Rularuu.Sentry Lt Boss",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/SENTRY_LT_BOSS.POWERSETS",
+  "icon": "sentry_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Sentry_Lt_Boss.Paralytic_Gaze",
+    "Rularuu.Sentry_Lt_Boss.Optic_Blast"
+  ],
+  "power_display_names": [
+    "Paralytic Gaze",
+    "Optic Blast"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "-SPD, -Recharge, -DEF"
+  ]
+}

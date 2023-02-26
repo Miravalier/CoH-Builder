@@ -1,0 +1,111 @@
+{
+  "name": "Cabal_Cabal_Storm_Mavan",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Cabal",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": "GhostCabalFirbolg",
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "It takes more than just hard work and dedication to become a Storm Maven. It takes a certain raw talent, and a sensitivity to the power wafting through every breeze in Croatoa. Some Mavens insist that they can hear the voices of their late husbands floating on those breezes. Whether true or not, this belief only strengthens their fury in battle.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Cabal.Cabal_Maven_Lt_Resists.Resistance",
+      "Cabal.Cabal_Adept_Minion_Melee.Storm_Strike",
+      "Cabal.Cabal_Adept_Minion_Melee.Charged_Brawl",
+      "Cabal.Cabal_Maven_Lt_Movement.Fly",
+      "Cabal.Cabal_Maven_Lt_Movement.Fly_fx",
+      "Cabal.Cabal_Maven_Lt_Movement.Positioning",
+      "Cabal.Cabal_Maven_Lt_Defender.Lightning_Bolt",
+      "Cabal.Cabal_Maven_Lt_Defender.Snow_Storm"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Storm Strike",
+      "Charged Brawl",
+      "Fly",
+      "Fly fx",
+      "Positioning",
+      "Lightning Bolt",
+      "Snow Storm"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Cabal",
+        "power_set": "Cabal_Maven_Lt_Resists",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Cabal",
+        "power_set": "Cabal_Adept_Minion_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Cabal",
+        "power_set": "Cabal_Maven_Lt_Movement",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Cabal",
+        "power_set": "Cabal_Maven_Lt_Defender",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Storm Maven"
+      ],
+      "costumes": [
+        "Croatoa_Cabal_Lieutenant_01",
+        "Croatoa_Cabal_Lieutenant_03",
+        "Croatoa_Cabal_Lieutenant_02"
+      ]
+    }
+  ]
+}

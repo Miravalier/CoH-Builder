@@ -1,0 +1,34 @@
+{
+  "name": "Fortunata_Mistress",
+  "display_name": "Fortunata_Mistress",
+  "display_fullname": "V Arachnos.Fortunata Mistress",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/FORTUNATA_MISTRESS.POWERSETS",
+  "icon": "fortunata_mistress_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Fortunata_Mistress.Psychic_Scream",
+    "V_Arachnos.Fortunata_Mistress.Telekinetic_Blast",
+    "V_Arachnos.Fortunata_Mistress.Will_Domination",
+    "V_Arachnos.Fortunata_Mistress.Mind_Link"
+  ],
+  "power_display_names": [
+    "Psychic Scream",
+    "Telekinetic Blast",
+    "Will Domination",
+    "Mind Link"
+  ],
+  "power_short_helps": [
+    "-Recharge",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback",
+    "Sleep",
+    "+ACC, Res(Confuse), +Perception"
+  ]
+}

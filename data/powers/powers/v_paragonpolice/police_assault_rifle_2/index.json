@@ -1,0 +1,30 @@
+{
+  "name": "Police_Assault_Rifle_2",
+  "display_name": "Police Assault Rifle",
+  "display_fullname": "V ParagonPolice.Police Assault Rifle",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/POLICE_ASSAULT_RIFLE_2.POWERSETS",
+  "icon": "police_assault_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Police_Assault_Rifle_2.Burst",
+    "V_ParagonPolice.Police_Assault_Rifle_2.Heavy_Burst",
+    "V_ParagonPolice.Police_Assault_Rifle_2.Assault_Rifle_Butt"
+  ],
+  "power_display_names": [
+    "Assault Rifle Burst",
+    "Assault Rifle Heavy Burst",
+    "Heavy Rifle Butt"
+  ],
+  "power_short_helps": [
+    "DoT (Lethal), -DEF",
+    "DoT (Lethal), -DEF",
+    "Disorient"
+  ]
+}

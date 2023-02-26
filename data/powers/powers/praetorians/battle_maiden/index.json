@@ -1,0 +1,58 @@
+{
+  "name": "Battle_Maiden",
+  "display_name": "Battle_Maiden",
+  "display_fullname": "Praetorians.Battle Maiden",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/BATTLE_MAIDEN.POWERSETS",
+  "icon": "battle_maiden_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Battle_Maiden.Resistance",
+    "Praetorians.Battle_Maiden.Crossbow",
+    "Praetorians.Battle_Maiden.Exploding_Bolt",
+    "Praetorians.Battle_Maiden.Hack",
+    "Praetorians.Battle_Maiden.Slash",
+    "Praetorians.Battle_Maiden.Slice",
+    "Praetorians.Battle_Maiden.Parry",
+    "Praetorians.Battle_Maiden.Whirling_Sword",
+    "Praetorians.Battle_Maiden.Disembowel",
+    "Praetorians.Battle_Maiden.Head_Splitter"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Crossbow",
+    "Exploding Bolt",
+    "Hack",
+    "Slash",
+    "Slice",
+    "Parry",
+    "Whirling Sword",
+    "Disembowel",
+    "Head Splitter"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged Lethal, Med Dam +KB",
+    "Targeted AoE Lethal, Knockback",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "Melee, Minor DMG(Lethal), Self +DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF"
+  ]
+}

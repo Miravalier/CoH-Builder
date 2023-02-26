@@ -1,0 +1,22 @@
+{
+  "name": "Crab_Spider_Armor",
+  "display_name": "Crab_Spider_Armor",
+  "display_fullname": "V Arachnos.Crab Spider Armor",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/CRAB_SPIDER_ARMOR.POWERSETS",
+  "icon": "crab_spider_armor_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Crab_Spider_Armor.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Meteor",
+  "display_name": "Meteor",
+  "display_fullname": "TalonsOfVengeance.Meteor",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/METEOR.POWERSETS",
+  "icon": "meteor_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Meteor.Meteor",
+    "TalonsOfVengeance.Meteor.MeteorHit"
+  ],
+  "power_display_names": [
+    "Meteor",
+    "Meteor"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Extreme DMG(Smashing), Moderate DoT(Fire), +DMG, +DEF (Smashing), Knockback, Stun",
+    "Targeted AoE, Extreme DMG(Smashing), Moderate DoT(Fire), +DMG, +DEF (Smashing), Knockback, Stun"
+  ]
+}

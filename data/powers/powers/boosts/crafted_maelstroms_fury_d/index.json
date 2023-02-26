@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Maelstroms_Fury_D",
+  "display_name": "Crafted Maelstroms Fury D",
+  "display_fullname": "Boosts.Crafted Maelstroms Fury D",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, reduces endurance costs by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Maelstroms Fury",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_MAELSTROMS_FURY_D.POWERSETS",
+  "icon": "crafted_maelstroms_fury_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Maelstroms_Fury_D.Crafted_Maelstroms_Fury_D"
+  ],
+  "power_display_names": [
+    "Maelstrom's Fury: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

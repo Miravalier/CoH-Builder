@@ -1,0 +1,30 @@
+{
+  "name": "Dust_Devil",
+  "display_name": "",
+  "display_fullname": "Pets.Dust Devil",
+  "display_help": "Dust_Devil",
+  "display_short_help": "Dust_Devil",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/DUST_DEVIL.POWERSETS",
+  "icon": "dust_devil_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Dust_Devil.Destroy_All",
+    "Pets.Dust_Devil.Positioning",
+    "Pets.Dust_Devil.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Destroy All",
+    "Positioning",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Positioning",
+    "Self Destruct"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Unused",
+  "display_name": "Unused",
+  "display_fullname": "V Rularuu.Unused",
+  "display_help": "Unused",
+  "display_short_help": "Unused",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_RULARUU/UNUSED.POWERSETS",
+  "icon": "unused_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Rularuu.Unused.Summon_Elemental"
+  ],
+  "power_display_names": [
+    "Summon Elemental"
+  ],
+  "power_short_helps": [
+    "Summon Husk"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "DevouringEarthSeed.Resistances",
+  "display_help": "Seedling Innate",
+  "display_short_help": "Seedling Innate",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Resistances.Damage_Burr",
+    "DevouringEarthSeed.Resistances.Damage_Seed"
+  ],
+  "power_display_names": [
+    "Damage Resistance",
+    "Damage Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Resistance"
+  ]
+}

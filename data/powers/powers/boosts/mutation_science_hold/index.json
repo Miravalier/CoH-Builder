@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Hold",
+  "display_name": "Mutation Science Hold",
+  "display_fullname": "Boosts.Mutation Science Hold",
+  "display_help": "Increases the duration of a hold power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_HOLD.POWERSETS",
+  "icon": "mutation_science_hold_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Hold.Mutation_Science_Hold"
+  ],
+  "power_display_names": [
+    "DNA Resequencing Hold Boost (Hold)"
+  ],
+  "power_short_helps": [
+    "Enhances Hold Duration"
+  ]
+}

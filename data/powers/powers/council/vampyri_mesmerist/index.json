@@ -1,0 +1,30 @@
+{
+  "name": "Vampyri_Mesmerist",
+  "display_name": "Vampyri_Mesmerist",
+  "display_fullname": "Council.Vampyri Mesmerist",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/VAMPYRI_MESMERIST.POWERSETS",
+  "icon": "vampyri_mesmerist_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Vampyri_Mesmerist.Mesmerize",
+    "Council.Vampyri_Mesmerist.Dominate",
+    "Council.Vampyri_Mesmerist.Reconstruction"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Dominate",
+    "Reconstruction"
+  ],
+  "power_short_helps": [
+    "Ranged Psionic, Sleep",
+    "Ranged Hold",
+    "Self Heal"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Monument_All",
+  "display_name": "Monument_All",
+  "display_fullname": "Rularuu.Monument All",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/MONUMENT_ALL.POWERSETS",
+  "icon": "monument_all_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Monument_All.Immobilize",
+    "Rularuu.Monument_All.Fly"
+  ],
+  "power_display_names": [
+    "Immobilize",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Immobilize Self",
+    "Self Travel"
+  ]
+}

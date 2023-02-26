@@ -1,0 +1,39 @@
+{
+  "name": "V_Miscellaneous",
+  "display_name": "Miscellaneous",
+  "source_file": "DEFS/POWERS/V_MISCELLANEOUS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_miscellaneous.blast_radius",
+    "v_miscellaneous.blunt_trauma",
+    "v_miscellaneous.charlie_biggs",
+    "v_miscellaneous.johnny_sonata_soul",
+    "v_miscellaneous.keith_nance",
+    "v_miscellaneous.nexus_99",
+    "v_miscellaneous.professor_echo",
+    "v_miscellaneous.professor_echo_boss",
+    "v_miscellaneous.professor_echo_lt",
+    "v_miscellaneous.pyriss",
+    "v_miscellaneous.radio",
+    "v_miscellaneous.trapdoor",
+    "v_miscellaneous.void_ripper"
+  ],
+  "powerset_display_names": [
+    "Blast_Radius",
+    "Blunt Trauma",
+    "Charlie Biggs",
+    "Johnny Sonata Soul",
+    "Keith_Nance",
+    "Nexus 99",
+    "Professor Echo",
+    "Professor Echo Boss",
+    "Professor Echo Lt",
+    "Pyriss",
+    "Radio",
+    "Trapdoor",
+    "Void Ripper"
+  ],
+  "powersets_with_requirements": []
+}

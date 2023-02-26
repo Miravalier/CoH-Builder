@@ -1,0 +1,26 @@
+{
+  "name": "Harbinger_Ghoul",
+  "display_name": "Harbinger Ghoul",
+  "display_fullname": "Incarnate I20.Harbinger Ghoul",
+  "display_help": "Ghouls",
+  "display_short_help": "Ghouls",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/HARBINGER_GHOUL.POWERSETS",
+  "icon": "harbinger_ghoul_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Harbinger_Ghoul.Kamikaze",
+    "Incarnate_I20.Harbinger_Ghoul.Resistance"
+  ],
+  "power_display_names": [
+    "Kamikaze",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Extreme DMG(Fire/Lethal)",
+    "Auto: Self -Max HP"
+  ]
+}

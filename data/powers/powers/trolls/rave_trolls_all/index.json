@@ -1,0 +1,22 @@
+{
+  "name": "Rave_Trolls_All",
+  "display_name": "Trolls_All",
+  "display_fullname": "Trolls.Trolls All",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/RAVE_TROLLS_ALL.POWERSETS",
+  "icon": "rave_trolls_all_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Rave_Trolls_All.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

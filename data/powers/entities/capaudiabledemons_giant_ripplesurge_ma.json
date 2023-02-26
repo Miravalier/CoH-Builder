@@ -1,0 +1,102 @@
+{
+  "name": "CapauDiableDemons_Giant_Ripplesurge_MA",
+  "gender": "GENDER_MALE",
+  "group_name": "CapauDiableDemons",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Raid"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BIGMONSTER",
+    "ai_config": "Ranged_NeverAfraid",
+    "character_class_name": "boss_monster",
+    "description": "This electro-temporal horror has sprung forth from Dr. Zeon's Phase Transmogrification System! Could this be a side-effect of tapping into Mount Diable?<br><br>Unfortunately for you, it appears that creatures of pure energy and ripple spaces are a dangerous combination. This monstrosity has evolved into something else entirely after absorbing so much unstable dimensional flux...<br><br>This unholy abomination born of unethical science only seeks to consume and grow larger.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_CapauDiableDemons.Giant_Ripplesurge.Resistance",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Thunder_Stomp",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Thunder_Strike",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Lightning_Bolt",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Ball_Lightning",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Shock",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Short_Circuit",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Tesla_Cage",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Thunderous_Blast",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Summon_Ripplesparks",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Ripple_Attract",
+      "V_CapauDiableDemons.Giant_Ripplesurge.Fly"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Thunder Stomp Minus",
+      "Thunder Strike Minus",
+      "Lightning Bolt Minus",
+      "Ball Lightning Minus",
+      "Shock",
+      "Short Circuit Minus",
+      "Ripple Cage",
+      "Thunderous Blast MInus",
+      "Condense Energy",
+      "Ripple Attention",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_CapauDiableDemons",
+        "power_set": "Giant_Ripplesurge",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Ripplesurge"
+      ],
+      "costumes": [
+        "V_CapAuDiable_Ripplesurge"
+      ]
+    }
+  ]
+}

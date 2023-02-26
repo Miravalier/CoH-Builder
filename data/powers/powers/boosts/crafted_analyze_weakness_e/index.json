@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Analyze_Weakness_E",
+  "display_name": "Crafted Analyze Weakness E",
+  "display_fullname": "Boosts.Crafted Analyze Weakness E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. NOTE: This enhancement can only be slotted into defense debuff powers that require a To Hit check.",
+  "display_short_help": "Set: Analyze Weakness",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ANALYZE_WEAKNESS_E.POWERSETS",
+  "icon": "crafted_analyze_weakness_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Analyze_Weakness_E.Crafted_Analyze_Weakness_E"
+  ],
+  "power_display_names": [
+    "Analyze Weakness: Accuracy/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost, +Rech"
+  ]
+}

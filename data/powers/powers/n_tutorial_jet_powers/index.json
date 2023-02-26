@@ -1,0 +1,17 @@
+{
+  "name": "N_Tutorial_Jet_Powers",
+  "display_name": "Powers",
+  "source_file": "DEFS/POWERS/N_TUTORIAL_JET_POWERS.CATEGORIES",
+  "archetypes": [
+    "boss_archvillain"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "n_tutorial_jet_powers.airstrike"
+  ],
+  "powerset_display_names": [
+    "Airstrike"
+  ],
+  "powersets_with_requirements": []
+}

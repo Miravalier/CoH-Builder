@@ -1,0 +1,30 @@
+{
+  "name": "Carnival_Ring_Harlequin",
+  "display_name": "Carnival_Ring_Harlequin",
+  "display_fullname": "Carnival.Carnival Ring Harlequin",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_RING_HARLEQUIN.POWERSETS",
+  "icon": "carnival_ring_harlequin_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Ring_Harlequin.Electrical_Rings",
+    "Carnival.Carnival_Ring_Harlequin.Electrical_Ring_Toss",
+    "Carnival.Carnival_Ring_Harlequin.Exploding_Ring"
+  ],
+  "power_display_names": [
+    "Electrical Rings",
+    "Electrical Ring Toss",
+    "Exploding Ring"
+  ],
+  "power_short_helps": [
+    "-Endurance",
+    "-Endurance",
+    "Moderate DoT(Energy), -End"
+  ]
+}

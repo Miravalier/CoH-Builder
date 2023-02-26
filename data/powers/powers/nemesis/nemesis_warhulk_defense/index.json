@@ -1,0 +1,26 @@
+{
+  "name": "Nemesis_WarHulk_Defense",
+  "display_name": "Nemesis_WarHulk_Defense",
+  "display_fullname": "Nemesis.Nemesis WarHulk Defense",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_WARHULK_DEFENSE.POWERSETS",
+  "icon": "nemesis_warhulk_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_WarHulk_Defense.Resistance",
+    "Nemesis.Nemesis_WarHulk_Defense.Explode"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Explode"
+  ],
+  "power_short_helps": [
+    "Self Auto, Res Fear, Confuse, Disorient, KnockBack",
+    "Post Death Special"
+  ]
+}

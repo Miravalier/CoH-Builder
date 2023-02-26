@@ -1,0 +1,34 @@
+{
+  "name": "Ruin_Lt",
+  "display_name": "",
+  "display_fullname": "Midnight Squad.Ruin Lt",
+  "display_help": "Midnight Squad",
+  "display_short_help": "Midnight Squad",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHT_SQUAD/RUIN_LT.POWERSETS",
+  "icon": "ruin_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Midnight_Squad.Ruin_Lt.Falchion",
+    "Midnight_Squad.Ruin_Lt.Tremor",
+    "Midnight_Squad.Ruin_Lt.Dispersion_Bubble",
+    "Midnight_Squad.Ruin_Lt.Fault"
+  ],
+  "power_display_names": [
+    "Falchion",
+    "Tremor",
+    "Dispersion Bubble",
+    "Fault"
+  ],
+  "power_short_helps": [
+    "Melee Lethal/Negative, Low Dam",
+    "AoE Smash, Knockback",
+    "Team AoE Toggle +Res(Special)",
+    "Disorient"
+  ]
+}

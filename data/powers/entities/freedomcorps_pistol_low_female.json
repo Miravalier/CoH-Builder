@@ -1,0 +1,92 @@
+{
+  "name": "FreedomCorps_Pistol_low_female",
+  "gender": "GENDER_FEMALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 9,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "Longbow is a hard-hitting division of Freedom Corps dedicated to stopping evil, and Arachnos in particular. Guardians are wet-behind-the-ears do-gooders looking to prove themselves. Most don't last beyond their first encounter with the big bad bruisers of the Rogue Isles.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.1,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomCorps.Minion_Rifleman.Heavy_Pistol",
+      "V_FreedomCorps.Minion_Rifleman.Brawl",
+      "V_FreedomCorps.Resistance.Tech_Armor"
+    ],
+    "power_display_names": [
+      "Heavy Pistol",
+      "Brawl",
+      "Tech Armor"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Rifleman",
+        "power": "Heavy_Pistol",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Rifleman",
+        "power": "Brawl",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 9,
+      "experience": 0,
+      "display_names": [
+        "Longbow Guardian"
+      ],
+      "costumes": [
+        "Longbow_Female_Group_01_Minion_01",
+        "Longbow_Female_Group_01_Minion_02",
+        "Longbow_Female_Group_01_Minion_03",
+        "Longbow_Female_Group_01_Minion_04",
+        "Longbow_Female_Group_01_Minion_05"
+      ]
+    }
+  ]
+}

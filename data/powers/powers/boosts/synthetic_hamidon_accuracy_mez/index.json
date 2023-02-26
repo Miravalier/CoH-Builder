@@ -1,0 +1,22 @@
+{
+  "name": "Synthetic_Hamidon_Accuracy_Mez",
+  "display_name": "Synthetic Hamidon Accuracy Mez",
+  "display_fullname": "Boosts.Synthetic Hamidon Accuracy Mez",
+  "display_help": "Enhances the accuracy and the duration of all mez powers.",
+  "display_short_help": "Hamidon (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SYNTHETIC_HAMIDON_ACCURACY_MEZ.POWERSETS",
+  "icon": "synthetic_hamidon_accuracy_mez_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Synthetic_Hamidon_Accuracy_Mez.Synthetic_Hamidon_Accuracy_Mez"
+  ],
+  "power_display_names": [
+    "Synthetic Endoplasm Exposure (Acc/Mez)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Mez"
+  ]
+}

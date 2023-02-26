@@ -1,0 +1,26 @@
+{
+  "name": "Devouring_Earth_Mold_Wall",
+  "display_name": "Devouring Earth Mold Wall",
+  "display_fullname": "DevouringEarth.Devouring Earth Mold Wall",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_MOLD_WALL.POWERSETS",
+  "icon": "devouring_earth_mold_wall_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Mold_Wall.Summon_Devouring_Earth",
+    "DevouringEarth.Devouring_Earth_Mold_Wall.Resistance"
+  ],
+  "power_display_names": [
+    "Summon Devouring Earth",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Auto Res Damage"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Pendragon_Swords",
+  "display_name": "Pendragon Swords",
+  "display_fullname": "Magisterium.Pendragon Swords",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/PENDRAGON_SWORDS.POWERSETS",
+  "icon": "pendragon_swords_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Pendragon_Swords.Summon_Swords",
+    "Magisterium.Pendragon_Swords.Summon_Swords_Toggle",
+    "Magisterium.Pendragon_Swords.Swords_Entity_Buff",
+    "Magisterium.Pendragon_Swords.Swords_Target",
+    "Magisterium.Pendragon_Swords.Swords_Damage",
+    "Magisterium.Pendragon_Swords.Visual"
+  ],
+  "power_display_names": [
+    "Summon Swords",
+    "Summon Swords Toggle",
+    "Swords Entity Buff",
+    "Swords Target",
+    "Energized Halberd Strike",
+    "Visual"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant",
+    "Grant",
+    "Grant",
+    "Superior DoT(Lethal), -Fly",
+    "Superior DoT(Lethal), -Fly"
+  ]
+}

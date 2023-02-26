@@ -1,0 +1,50 @@
+{
+  "name": "Hero1",
+  "display_name": "Hero1",
+  "display_fullname": "DevouringEarth.Hero1",
+  "display_help": "Devouring Earth Crystal ranged powers.",
+  "display_short_help": "Devouring Earth Crystal ranged powers.",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/HERO1.POWERSETS",
+  "icon": "hero1_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Hero1.Barb_Swipe",
+    "DevouringEarth.Hero1.Lunge",
+    "DevouringEarth.Hero1.Impale",
+    "DevouringEarth.Hero1.Spine_Throwing",
+    "DevouringEarth.Hero1.Ripper",
+    "DevouringEarth.Hero1.Temp_Invulnerability",
+    "DevouringEarth.Hero1.Invincibility",
+    "DevouringEarth.Hero1.SummonFX"
+  ],
+  "power_display_names": [
+    "Barb Swipe",
+    "Lunge",
+    "Impale",
+    "Spine Throwing",
+    "Ripper",
+    "Temp Invulnerability",
+    "Invincibility",
+    "SummonFX"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge",
+    "-Speed, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge",
+    "Toggle: Self +Res(Smash, Lethal)",
+    "Self Toggle, +DEF +ACC",
+    "Summon"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Defender_Archery_Snipe",
+  "display_name": "Archery",
+  "display_fullname": "Pets.Archery",
+  "display_help": "Archery",
+  "display_short_help": "Archery",
+  "available_level": [
+    23,
+    23
+  ],
+  "source_file": "DEFS/POWERS/PETS/DEFENDER_ARCHERY_SNIPE.POWERSETS",
+  "icon": "defender_archery_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Defender_Archery_Snipe.Ranged_Shot_Normal",
+    "Pets.Defender_Archery_Snipe.Ranged_Shot_Quick"
+  ],
+  "power_display_names": [
+    "Ranged Shot",
+    "Ranged Shot"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Lethal)",
+    "Sniper, High DMG(Lethal)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Banished_Spirit_Movement",
+  "display_name": "Banished_Spirit_Movement",
+  "display_fullname": "BanishedPantheon.Banished Spirit Movement",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_SPIRIT_MOVEMENT.POWERSETS",
+  "icon": "banished_spirit_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Spirit_Movement.Fly",
+    "BanishedPantheon.Banished_Spirit_Movement.Fly_fx"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special"
+  ]
+}

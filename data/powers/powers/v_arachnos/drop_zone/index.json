@@ -1,0 +1,22 @@
+{
+  "name": "Drop_Zone",
+  "display_name": "Drop Zone",
+  "display_fullname": "V Arachnos.Drop Zone",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/DROP_ZONE.POWERSETS",
+  "icon": "drop_zone_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Drop_Zone.Drop_Zone"
+  ],
+  "power_display_names": [
+    "Drop Zone"
+  ],
+  "power_short_helps": [
+    "Summon Bane Spiders"
+  ]
+}

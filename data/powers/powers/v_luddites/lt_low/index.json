@@ -1,0 +1,30 @@
+{
+  "name": "Lt_Low",
+  "display_name": "Lt Low",
+  "display_fullname": "V Luddites.Lt Low",
+  "display_help": "Luddites",
+  "display_short_help": "Luddites",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LUDDITES/LT_LOW.POWERSETS",
+  "icon": "lt_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Luddites.Lt_Low.Shillelagh",
+    "V_Luddites.Lt_Low.Heal_Other",
+    "V_Luddites.Lt_Low.Discipline"
+  ],
+  "power_display_names": [
+    "Shillelagh",
+    "Heal Other",
+    "Discipline"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam",
+    "Ally Heal",
+    "Resistance"
+  ]
+}

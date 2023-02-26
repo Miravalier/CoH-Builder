@@ -1,0 +1,83 @@
+{
+  "name": "ParagonPolice_Backup_Cop",
+  "gender": "GENDER_MALE",
+  "group_name": "ParagonPolice",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 15,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "The Paragon Police Department is charged with the unending duty of keeping the streets of the city safe for its citizens. These brave men and women watch over Paragon City, dedicating their lives to make it a better place.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_ParagonPolice.Police_Heavy_Pistol.Heavy_Pistol",
+      "V_ParagonPolice.Police_Brawl.Brawl"
+    ],
+    "power_display_names": [
+      "Heavy Pistol",
+      "Brawl"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Police_Heavy_Pistol",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Police_Brawl",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 15,
+      "experience": 0,
+      "display_names": [
+        "PPD Cop"
+      ],
+      "costumes": [
+        "PPD_Cop_01",
+        "PPD_Cop_02",
+        "PPD_Cop_03",
+        "PPD_Cop_04",
+        "PPD_Cop_05"
+      ]
+    }
+  ]
+}

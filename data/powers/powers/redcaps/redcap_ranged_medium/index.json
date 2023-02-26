@@ -1,0 +1,22 @@
+{
+  "name": "RedCap_Ranged_Medium",
+  "display_name": "RedCap_Ranged_Medium",
+  "display_fullname": "RedCaps.RedCap Ranged Medium",
+  "display_help": "RedCaps",
+  "display_short_help": "RedCaps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/REDCAP_RANGED_MEDIUM.POWERSETS",
+  "icon": "redcap_ranged_medium_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.RedCap_Ranged_Medium.Aimed_Shot"
+  ],
+  "power_display_names": [
+    "Aimed Shot"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Cold/Smash), Foe -Recharge, -SPD"
+  ]
+}

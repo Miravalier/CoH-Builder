@@ -1,0 +1,30 @@
+{
+  "name": "Debug",
+  "display_name": "Debug",
+  "display_fullname": "Objects.Debug",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/DEBUG.POWERSETS",
+  "icon": "inherent_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Debug.Resistance",
+    "Objects.Debug.Post_Death",
+    "Objects.Debug.Post_Death_Regen"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Post Death",
+    "Post Death"
+  ],
+  "power_short_helps": [
+    "Inherent",
+    "Post Death",
+    "Post Death"
+  ]
+}

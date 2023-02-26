@@ -1,0 +1,26 @@
+{
+  "name": "Lost_Cure_Counter",
+  "display_name": "Lost_Cure_Counter",
+  "display_fullname": "Pets.Lost Cure Counter",
+  "display_help": "Devices",
+  "display_short_help": "Devices",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/LOST_CURE_COUNTER.POWERSETS",
+  "icon": "lost_cure_counter_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Lost_Cure_Counter.Lost_Cured",
+    "Pets.Lost_Cure_Counter.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Lost Cured",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "AoE Lethal/Fire, Knockback",
+    "Self Destruct"
+  ]
+}

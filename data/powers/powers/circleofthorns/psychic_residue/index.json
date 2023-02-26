@@ -1,0 +1,26 @@
+{
+  "name": "Psychic_Residue",
+  "display_name": "Psychic_Residue",
+  "display_fullname": "CircleOfThorns.Psychic Residue",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/PSYCHIC_RESIDUE.POWERSETS",
+  "icon": "psychic_residue_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Psychic_Residue.Psychic_Residue",
+    "CircleOfThorns.Psychic_Residue.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Psychic Residue",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Moderate (Smash/Psionic), +Res(Psionic)",
+    "Self Destruct"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Temblor",
+  "display_name": "Temblor",
+  "display_fullname": "Incarnate I20.Temblor",
+  "display_help": "Vanguard",
+  "display_short_help": "Vanguard",
+  "available_level": [
+    29,
+    0,
+    29,
+    0,
+    0,
+    0,
+    0,
+    0,
+    39
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/TEMBLOR.POWERSETS",
+  "icon": "temblor_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Temblor.Granite_Armor",
+    "Incarnate_I20.Temblor.Earths_Embrace",
+    "Incarnate_I20.Temblor.Mud_Pots",
+    "Incarnate_I20.Temblor.Quicksand",
+    "Incarnate_I20.Temblor.Stone_Prison",
+    "Incarnate_I20.Temblor.Fossilize",
+    "Incarnate_I20.Temblor.Stone_Fist",
+    "Incarnate_I20.Temblor.Tremor",
+    "Incarnate_I20.Temblor.Seismic_Smash"
+  ],
+  "power_display_names": [
+    "Granite Armor",
+    "Earth's Embrace",
+    "Mud Pots",
+    "Quicksand",
+    "Stone Prison",
+    "Fossilize",
+    "Stone Fist",
+    "Tremor",
+    "Seismic Smash"
+  ],
+  "power_short_helps": [
+    "Self, +Res(All but Psionics), +DEF(All but Psionics), -SPD, -Recharge, -DMG",
+    "Self +HP, Res(Toxic)",
+    "Toggle: PBAoE, Minor DoT(Fire), Foe Immobilize, -SPD",
+    "-Speed, -Jump, -Fly, -DEF",
+    "Ranged, Moderate DoT(Smash), Foe Immobilize, -DEF, -Fly",
+    "Ranged, Moderate DMG(Smash), Foe Hold, -DEF",
+    "Melee Moderate DMG(Smash), Foe Minor Disorient",
+    "PBAoE, Moderate DMG(Smash), Knockback",
+    "Melee, Extreme DMG(Smash), Foe Hold"
+  ]
+}

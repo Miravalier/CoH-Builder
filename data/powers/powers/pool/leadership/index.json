@@ -1,0 +1,38 @@
+{
+  "name": "Leadership",
+  "display_name": "Leadership",
+  "display_fullname": "Pool.Leadership",
+  "display_help": "Good leaders are rare. These powers can grant bonuses to your and your teammates.",
+  "display_short_help": "Leadership",
+  "available_level": [
+    0,
+    0,
+    13,
+    13,
+    13
+  ],
+  "source_file": "DEFS/POWERS/POOL/LEADERSHIP.POWERSETS",
+  "icon": "leadership_set.png",
+  "requires": "",
+  "power_names": [
+    "Pool.Leadership.Defense",
+    "Pool.Leadership.Assault",
+    "Pool.Leadership.Tactics",
+    "Pool.Leadership.Vengeance",
+    "Pool.Leadership.Victory_Rush"
+  ],
+  "power_display_names": [
+    "Maneuvers",
+    "Assault",
+    "Tactics",
+    "Vengeance",
+    "Victory Rush"
+  ],
+  "power_short_helps": [
+    "Toggle: PBAoE, Team +DEF(All)",
+    "Toggle: PBAoE, Team +DMG, Res(Taunt, Placate)",
+    "Toggle: PBAoE, Team +To Hit, Res(Confuse, Fear), +Perception",
+    "Ranged (Targeted AoE), Teammates +DMG, +To Hit, +DEF(All), Res(Effects)",
+    "Ranged (Targeted AoE), Team +Recovery, -End Cost"
+  ]
+}

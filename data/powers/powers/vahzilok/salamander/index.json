@@ -1,0 +1,30 @@
+{
+  "name": "Salamander",
+  "display_name": "Salamander",
+  "display_fullname": "Vahzilok.Salamander",
+  "display_help": "Salamander",
+  "display_short_help": "Salamander",
+  "available_level": [
+    0,
+    1,
+    7
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/SALAMANDER.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Salamander.Maiming_Slash",
+    "Vahzilok.Salamander.Shred",
+    "Vahzilok.Salamander.Vicious_Slash"
+  ],
+  "power_display_names": [
+    "Maiming Slash",
+    "Shred",
+    "Vicious Slash"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), Minor DoT(Lethal), Foe -Speed, Self +1 Blood Frenzy",
+    "Melee (Cone), Moderate DMG(Lethal), Foe Minor DoT(Lethal), -Def(All), Self +1 Blood Frenzy",
+    "Melee, High DMG(Lethal), Foe Minor DoT(Lethal), Knockdown, Self +2 Blood Frenzy"
+  ]
+}

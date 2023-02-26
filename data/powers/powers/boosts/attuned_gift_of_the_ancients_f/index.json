@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Gift_of_the_Ancients_F",
+  "display_name": "Attuned Gift of the Ancients F",
+  "display_fullname": "Boosts.Attuned Gift of the Ancients F",
+  "display_help": "Enhances the defense of a power by {Boost.Attrib.Defense.Scale}% and the run speed of a power by {Boost.Attrib.Movement.Scale}%.",
+  "display_short_help": "Set: Gift of the Ancients",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_GIFT_OF_THE_ANCIENTS_F.POWERSETS",
+  "icon": "attuned_gift_of_the_ancients_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Gift_of_the_Ancients_F.Attuned_Gift_of_the_Ancients_F"
+  ],
+  "power_display_names": [
+    "Gift of the Ancients: Defense/Increased Run Speed"
+  ],
+  "power_short_helps": [
+    "+DEF (all) +Run Speed"
+  ]
+}

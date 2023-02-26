@@ -1,0 +1,26 @@
+{
+  "name": "Circle_Blue_Crystal",
+  "display_name": "Circle_Blue_Crystal",
+  "display_fullname": "CircleOfThorns.Circle Blue Crystal",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_BLUE_CRYSTAL.POWERSETS",
+  "icon": "circle_blue_crystal_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Blue_Crystal.Crystal_of_Vitality",
+    "CircleOfThorns.Circle_Blue_Crystal.Immobile"
+  ],
+  "power_display_names": [
+    "Crystal of Vitality",
+    "Immobile"
+  ],
+  "power_short_helps": [
+    "+Recovery",
+    "Immobilize"
+  ]
+}

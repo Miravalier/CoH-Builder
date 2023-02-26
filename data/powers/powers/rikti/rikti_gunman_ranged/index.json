@@ -1,0 +1,22 @@
+{
+  "name": "Rikti_Gunman_Ranged",
+  "display_name": "Rikti_Gunman_Ranged",
+  "display_fullname": "Rikti.Rikti Gunman Ranged",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_GUNMAN_RANGED.POWERSETS",
+  "icon": "rikti_gunman_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Gunman_Ranged.Rikti_Rifle"
+  ],
+  "power_display_names": [
+    "Rikti Rifle"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

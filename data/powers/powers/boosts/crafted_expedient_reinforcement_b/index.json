@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Expedient_Reinforcement_B",
+  "display_name": "Crafted Expedient Reinforcement B",
+  "display_fullname": "Boosts.Crafted Expedient Reinforcement B",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage of a power by {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Expedient Reinforcement",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_EXPEDIENT_REINFORCEMENT_B.POWERSETS",
+  "icon": "crafted_expedient_reinforcement_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Expedient_Reinforcement_B.Crafted_Expedient_Reinforcement_B"
+  ],
+  "power_display_names": [
+    "Expedient Reinforcement: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "+ACC, +DMG"
+  ]
+}

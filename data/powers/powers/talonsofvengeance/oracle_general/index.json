@@ -1,0 +1,22 @@
+{
+  "name": "Oracle_General",
+  "display_name": "Oracle_General",
+  "display_fullname": "TalonsOfVengeance.Oracle General",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/ORACLE_GENERAL.POWERSETS",
+  "icon": "oracle_general_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Oracle_General.Thunderclap"
+  ],
+  "power_display_names": [
+    "Thunderclap"
+  ],
+  "power_short_helps": [
+    "PBAoE, Foe Disorient"
+  ]
+}

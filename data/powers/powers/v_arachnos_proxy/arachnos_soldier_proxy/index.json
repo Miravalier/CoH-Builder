@@ -1,0 +1,50 @@
+{
+  "name": "Arachnos_Soldier_Proxy",
+  "display_name": "Arachnos Soldier Proxy",
+  "display_fullname": "V Arachnos Proxy.Arachnos Soldier Proxy",
+  "display_help": "Character with Arachnos Soldier training begin their careers as Wolf Spiders. Wolf Spider characters have a strong mix of Melee and Ranged attacks and strong protective powers available via their power armor. Beginning at level 24, the player has to choose whether he will progress down the \"Crab Spider\" or \"Bane Spider\" path. Crab Spiders gain access to the \"backpack\" and the powerful claw/cone attacks it provides, while the Bane Spider track provides stealth and a stronger focus on melee.",
+  "display_short_help": "Arachnos Soldiers",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    11,
+    17
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/ARACHNOS_SOLDIER_PROXY.POWERSETS",
+  "icon": "arachnos_soldier_proxy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Single_Shot",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Pummel",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Burst",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.WS_Wide_Area_Web_Grenade",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Heavy_Burst",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Bayonet",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Venom_Grenade",
+    "V_Arachnos_Proxy.Arachnos_Soldier_Proxy.Frag_Grenade"
+  ],
+  "power_display_names": [
+    "Single Shot",
+    "Pummel",
+    "Burst",
+    "Wide Area Web Grenade",
+    "Heavy Burst",
+    "Bayonet",
+    "Venom Grenade",
+    "Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal), Foe -DEF",
+    "Melee, Minor DMG(Smash)",
+    "Ranged, Moderate DMG(Lethal), Foe -DEF",
+    "Ranged (Targeted AoE), Immobilize, -Fly, -Recharge",
+    "Ranged Cone, Moderate DMG(Lethal), Foe -DEF",
+    "Melee, Moderate DMG(Lethal), DoT(Lethal)",
+    "Ranged(Targeted AoE), DoT(Toxic), -Res(All)",
+    "Ranged(Targeted AoE), Moderate DMG (Lethal/Fire), Foe Knockback"
+  ]
+}

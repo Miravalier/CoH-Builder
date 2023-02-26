@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Interrupt",
+  "display_name": "Technology Interrupt",
+  "display_fullname": "Boosts.Technology Interrupt",
+  "display_help": "Decreases the interrupt time of powers that can be interrupted.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_INTERRUPT.POWERSETS",
+  "icon": "technology_interrupt_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Interrupt.Technology_Interrupt"
+  ],
+  "power_display_names": [
+    "WetWare Eng Accelerator (Interrupt)"
+  ],
+  "power_short_helps": [
+    "Decreases Interrupt Time"
+  ]
+}

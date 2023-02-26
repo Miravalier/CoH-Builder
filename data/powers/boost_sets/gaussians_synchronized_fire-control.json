@@ -1,0 +1,550 @@
+{
+  "name": "Gaussians_Synchronized_Fire-Control",
+  "display_name": "Gaussian's Synchronized Fire-Control",
+  "group_name": "To Hit Buff",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: To Hit Buff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Gaussians_Synchronized_FireControl_A.Crafted_Gaussians_Synchronized_FireControl_A",
+      "Boosts.Attuned_Gaussians_Synchronized_FireControl_A.Attuned_Gaussians_Synchronized_FireControl_A"
+    ],
+    [
+      "Boosts.Crafted_Gaussians_Synchronized_FireControl_B.Crafted_Gaussians_Synchronized_FireControl_B",
+      "Boosts.Attuned_Gaussians_Synchronized_FireControl_B.Attuned_Gaussians_Synchronized_FireControl_B"
+    ],
+    [
+      "Boosts.Crafted_Gaussians_Synchronized_FireControl_C.Crafted_Gaussians_Synchronized_FireControl_C",
+      "Boosts.Attuned_Gaussians_Synchronized_FireControl_C.Attuned_Gaussians_Synchronized_FireControl_C"
+    ],
+    [
+      "Boosts.Crafted_Gaussians_Synchronized_FireControl_D.Crafted_Gaussians_Synchronized_FireControl_D",
+      "Boosts.Attuned_Gaussians_Synchronized_FireControl_D.Attuned_Gaussians_Synchronized_FireControl_D"
+    ],
+    [
+      "Boosts.Crafted_Gaussians_Synchronized_FireControl_E.Crafted_Gaussians_Synchronized_FireControl_E",
+      "Boosts.Attuned_Gaussians_Synchronized_FireControl_E.Attuned_Gaussians_Synchronized_FireControl_E"
+    ],
+    [
+      "Boosts.Crafted_Gaussians_Synchronized_FireControl_F.Crafted_Gaussians_Synchronized_FireControl_F",
+      "Boosts.Attuned_Gaussians_Synchronized_FireControl_F.Attuned_Gaussians_Synchronized_FireControl_F"
+    ]
+  ],
+  "min_level": 21,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_3",
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_3",
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_4",
+          "Large Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_3",
+          "Moderate Increased Melee/Lethal/Smashing Def Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_3",
+          "Moderate Increased Ranged/Energy/Negative Energy Def Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_3",
+          "Moderate Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png",
+      "e_icon_synchronizedfirecontrol.png"
+    ],
+    "boosts": [
+      [
+        "Gaussian's Synchronized Fire-Control: ToHit",
+        "Attuned Gaussian's Synchronized Fire-Control: ToHit"
+      ],
+      [
+        "Gaussian's Synchronized Fire-Control: Recharge/ToHit",
+        "Attuned Gaussian's Synchronized Fire-Control: Recharge/ToHit"
+      ],
+      [
+        "Gaussian's Synchronized Fire-Control: Endurance/Recharge/ToHit",
+        "Attuned Gaussian's Synchronized Fire-Control: Endurance/Recharge/ToHit"
+      ],
+      [
+        "Gaussian's Synchronized Fire-Control: Endurance/Recharge",
+        "Attuned Gaussian's Synchronized Fire-Control: Endurance/Recharge"
+      ],
+      [
+        "Gaussian's Synchronized Fire-Control: Endurance/ToHit",
+        "Attuned Gaussian's Synchronized Fire-Control: Endurance/ToHit"
+      ],
+      [
+        "Gaussian's Synchronized Fire-Control: Chance for Build Up",
+        "Attuned Gaussian's Synchronized Fire-Control: Chance for Build Up"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_gaussians_synchronized_firecontrol_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gaussians_synchronized_firecontrol_a.attuned_gaussians_synchronized_firecontrol_a",
+          "Gaussian's Synchronized Fire-Control: To Hit Buff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Gaussian's Synchronized Fire-Control: ToHit",
+        "aspects": [
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "attuned_gaussians_synchronized_firecontrol_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Gaussian's Synchronized Fire-Control: ToHit",
+        "aspects": [
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "crafted_gaussians_synchronized_firecontrol_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gaussians_synchronized_firecontrol_b.attuned_gaussians_synchronized_firecontrol_b",
+          "Gaussian's Synchronized Fire-Control: To Hit Buff/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Gaussian's Synchronized Fire-Control: Recharge/ToHit",
+        "aspects": [
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "attuned_gaussians_synchronized_firecontrol_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Gaussian's Synchronized Fire-Control: Recharge/ToHit",
+        "aspects": [
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "crafted_gaussians_synchronized_firecontrol_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gaussians_synchronized_firecontrol_c.attuned_gaussians_synchronized_firecontrol_c",
+          "Gaussian's Synchronized Fire-Control: To Hit Buff/Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Gaussian's Synchronized Fire-Control: Endurance/Recharge/ToHit",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "attuned_gaussians_synchronized_firecontrol_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Gaussian's Synchronized Fire-Control: Endurance/Recharge/ToHit",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "crafted_gaussians_synchronized_firecontrol_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gaussians_synchronized_firecontrol_d.attuned_gaussians_synchronized_firecontrol_d",
+          "Gaussian's Synchronized Fire-Control: Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Gaussian's Synchronized Fire-Control: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "attuned_gaussians_synchronized_firecontrol_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Gaussian's Synchronized Fire-Control: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "crafted_gaussians_synchronized_firecontrol_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gaussians_synchronized_firecontrol_e.attuned_gaussians_synchronized_firecontrol_e",
+          "Gaussian's Synchronized Fire-Control: To Hit Buff/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Gaussian's Synchronized Fire-Control: Endurance/ToHit",
+        "aspects": [
+          "Endurance",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "attuned_gaussians_synchronized_firecontrol_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Gaussian's Synchronized Fire-Control: Endurance/ToHit",
+        "aspects": [
+          "Endurance",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "crafted_gaussians_synchronized_firecontrol_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gaussians_synchronized_firecontrol_f.attuned_gaussians_synchronized_firecontrol_f",
+          "Gaussian's Synchronized Fire-Control: Chance for Build Up"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Gaussian's Synchronized Fire-Control: Chance for Build Up",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      },
+      "attuned_gaussians_synchronized_firecontrol_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Gaussian's Synchronized Fire-Control: Chance for Build Up",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "gaussians_synchronized_fire-control",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_synchronizedfirecontrol.png"
+      }
+    }
+  }
+}

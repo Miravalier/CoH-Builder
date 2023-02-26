@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Bombardment_B",
+  "display_name": "Attuned Bombardment B",
+  "display_fullname": "Boosts.Attuned Bombardment B",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Bombardment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BOMBARDMENT_B.POWERSETS",
+  "icon": "e_icon_bombardment.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Bombardment_B.Attuned_Bombardment_B"
+  ],
+  "power_display_names": [
+    "Bombardment: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+DMG, +Rech"
+  ]
+}

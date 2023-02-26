@@ -1,0 +1,38 @@
+{
+  "name": "Explosive_Drone",
+  "display_name": "Explosive Drone",
+  "display_fullname": "V Arachnos.Explosive Drone",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/EXPLOSIVE_DRONE.POWERSETS",
+  "icon": "explosive_drone_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Explosive_Drone.Explosive_Drone",
+    "V_Arachnos.Explosive_Drone.Intangible.",
+    "V_Arachnos.Explosive_Drone.Self_Destruct",
+    "V_Arachnos.Explosive_Drone.Fly",
+    "V_Arachnos.Explosive_Drone.Resistance"
+  ],
+  "power_display_names": [
+    "Explosive Drone",
+    "Intangible.",
+    "Self Destruct",
+    "Fly",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "AoE Lethal/Fire, Knockback",
+    "Intangible",
+    "Self Destruct",
+    "Self Travel",
+    "Resistance"
+  ]
+}

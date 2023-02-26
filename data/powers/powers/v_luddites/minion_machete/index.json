@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Machete",
+  "display_name": "Minion Machete",
+  "display_fullname": "V Luddites.Minion Machete",
+  "display_help": "Luddites",
+  "display_short_help": "Luddites",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LUDDITES/MINION_MACHETE.POWERSETS",
+  "icon": "minion_machete_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Luddites.Minion_Machete.Machete"
+  ],
+  "power_display_names": [
+    "Machete"
+  ],
+  "power_short_helps": [
+    "-Speed"
+  ]
+}

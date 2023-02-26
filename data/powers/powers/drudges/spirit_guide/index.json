@@ -1,0 +1,30 @@
+{
+  "name": "Spirit_Guide",
+  "display_name": "Spirit_Guide",
+  "display_fullname": "Drudges.Spirit Guide",
+  "display_help": "Drudges",
+  "display_short_help": "Drudges",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/SPIRIT_GUIDE.POWERSETS",
+  "icon": "spirit_guide_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.Spirit_Guide.Incandescent_Strike",
+    "Drudges.Spirit_Guide.Gleaming_Bolt",
+    "Drudges.Spirit_Guide.Proton_Scatter"
+  ],
+  "power_display_names": [
+    "Soul Strike",
+    "Soul Bolt",
+    "Soul Stream"
+  ],
+  "power_short_helps": [
+    "Melee, Superior DMG(Energy/Negative Energy), -DEF(Foe, All), -Fly(Foe), Chance for Knockdown",
+    "Ranged, Moderate DMG (Energy/Negative Energy), -DEF(Foe, All)",
+    "Ranged (Cone), High DMG(Energy/Negative Energy)"
+  ]
+}

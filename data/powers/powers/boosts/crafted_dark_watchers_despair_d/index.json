@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Dark_Watchers_Despair_D",
+  "display_name": "Crafted Dark Watchers Despair D",
+  "display_fullname": "Boosts.Crafted Dark Watchers Despair D",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and the endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Dark Watcher's Despair",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DARK_WATCHERS_DESPAIR_D.POWERSETS",
+  "icon": "crafted_dark_watchers_despair_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Dark_Watchers_Despair_D.Crafted_Dark_Watchers_Despair_D"
+  ],
+  "power_display_names": [
+    "Dark Watcher's Despair: Recharge/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+Rech, +End"
+  ]
+}

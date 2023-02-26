@@ -1,0 +1,18 @@
+{
+  "tag": "RepositionGeode",
+  "bears": [
+    [
+      "Scrapper Defense.Stone Armor.Geode",
+      "scrapper_defense.stone_armor.geode"
+    ],
+    [
+      "Sentinel Defense.Stone Armor.Geode",
+      "sentinel_defense.stone_armor.geode"
+    ],
+    [
+      "Stalker Defense.Stone Armor.Geode",
+      "stalker_defense.stone_armor.geode"
+    ]
+  ],
+  "affects": []
+}

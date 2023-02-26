@@ -1,0 +1,50 @@
+{
+  "name": "Nictus_Body_Steal_HM",
+  "display_name": "Nictus Body Steal (Advanced Difficulty)",
+  "display_fullname": "Nictus.Nictus Body Steal (Advanced Difficulty)",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/NICTUS_BODY_STEAL_HM.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Nictus_Body_Steal_HM.Nictus_Hijack_Body",
+    "Nictus.Nictus_Body_Steal_HM.Nictus_Doppleganger",
+    "Nictus.Nictus_Body_Steal_HM.Resistance",
+    "Nictus.Nictus_Body_Steal_HM.Nictus_Countdown",
+    "Nictus.Nictus_Body_Steal_HM.Nictus_Wither",
+    "Nictus.Nictus_Body_Steal_HM.Nictus_DisjoinedWithering",
+    "Nictus.Nictus_Body_Steal_HM.Nictus_Hijack_Start",
+    "Nictus.Nictus_Body_Steal_HM.Nictus_Hijack_Complete"
+  ],
+  "power_display_names": [
+    "Hijack Body",
+    "Nictus Doppleganger",
+    "Nictus Possession",
+    "Essence Corruption",
+    "Wither",
+    "Disjoined",
+    "Begin Hijacking",
+    "Complete Hijacking"
+  ],
+  "power_short_helps": [
+    "Foe Hold, Special Defeat",
+    "Spawn Nictus Doppleganger",
+    "Possession",
+    "Countdown",
+    "Self-Death",
+    "Impending Self-Death",
+    "Start Possession",
+    "Complete Possession"
+  ]
+}

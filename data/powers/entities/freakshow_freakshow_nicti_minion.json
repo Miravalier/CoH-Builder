@@ -1,0 +1,89 @@
+{
+  "name": "Freakshow_Freakshow_Nicti_Minion",
+  "gender": "GENDER_MALE",
+  "group_name": "Freakshow",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 39,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "The Freakshow as a group display a twisted kind of Darwinism in action. Only the strong have any privileges, and all the weak try to get stronger. Most do this by abusing Excelsior and cybernetics, but some try other methods regardless of the danger. These Freaks have turned to Arakhn's new N-Fragment technology, granting them some small amount of Nictus power.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.95,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Freakshow.Nictus_Freakshow_Minion.Shadow_Bolt",
+      "Freakshow.Nictus_Freakshow_Minion.Star_Punch",
+      "Freakshow.Freakshow_Freaks_Defense.Dull_Pain"
+    ],
+    "power_display_names": [
+      "Shadow Bolt",
+      "Star Punch",
+      "Dull Pain"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Freakshow",
+        "power_set": "Nictus_Freakshow_Minion",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Freaks_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 39,
+      "experience": 0,
+      "display_names": [
+        "Shadow Freak"
+      ],
+      "costumes": [
+        "Frk_11",
+        "Frk_12",
+        "Frk_13",
+        "Frk_14",
+        "Frk_15",
+        "Frk_16",
+        "Frk_17"
+      ]
+    }
+  ]
+}

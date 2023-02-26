@@ -1,0 +1,97 @@
+{
+  "name": "ParagonPolice_Vic_Johansson",
+  "gender": "GENDER_MALE",
+  "group_name": "ParagonPolice",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "By all accounts, Vic Johansson is one of the good guys. A beat cop who has worked The Gish for years, Vic has become especially concerned with the growing numbers of The Lost, as well as the rising crime rate thanks to the Skulls and their Superadine drug ring.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_ParagonPolice.Police_Assault_Rifle.Assault_Rifle_Spray_Lead",
+      "V_ParagonPolice.Police_Assault_Rifle.Assault_Rifle",
+      "V_ParagonPolice.Police_Assault_Rifle.Assault_Rifle_Butt",
+      "V_ParagonPolice.SWAT_Resists.Resistances"
+    ],
+    "power_display_names": [
+      "Assault Rifle Spray Lead",
+      "Assault Rifle",
+      "Assault Rifle Butt",
+      "Resistances"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Police_Assault_Rifle",
+        "power": "Assault_Rifle_Spray_Lead",
+        "level": 0
+      },
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Police_Assault_Rifle",
+        "power": "Assault_Rifle",
+        "level": 0
+      },
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "Police_Assault_Rifle",
+        "power": "Assault_Rifle_Butt",
+        "level": 0
+      },
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "SWAT_Resists",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "Vic Johansson"
+      ],
+      "costumes": [
+        "Model_VicJohansson_NoRing"
+      ]
+    }
+  ]
+}

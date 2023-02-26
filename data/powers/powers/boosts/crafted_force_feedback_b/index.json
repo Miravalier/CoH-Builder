@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Force_Feedback_B",
+  "display_name": "Crafted Force Feedback B",
+  "display_fullname": "Boosts.Crafted Force Feedback B",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}% and the accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Force Feedback",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_FORCE_FEEDBACK_B.POWERSETS",
+  "icon": "crafted_force_feedback_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Force_Feedback_B.Crafted_Force_Feedback_B"
+  ],
+  "power_display_names": [
+    "Force Feedback: Knockback/Accuracy"
+  ],
+  "power_short_helps": [
+    "+Knockback, +ACC"
+  ]
+}

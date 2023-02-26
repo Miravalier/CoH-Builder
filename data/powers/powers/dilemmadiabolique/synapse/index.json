@@ -1,0 +1,46 @@
+{
+  "name": "Synapse",
+  "display_name": "Synapse",
+  "display_fullname": "DilemmaDiabolique.Synapse",
+  "display_help": "Freedom Phalanx",
+  "display_short_help": "Freedom Phalanx",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/SYNAPSE.POWERSETS",
+  "icon": "synapse_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Synapse.Charged_Bolts",
+    "DilemmaDiabolique.Synapse.Lightning_Bolt",
+    "DilemmaDiabolique.Synapse.Thunderous_Blast",
+    "DilemmaDiabolique.Synapse.Havoc_Punch",
+    "DilemmaDiabolique.Synapse.Lightning_Clap",
+    "DilemmaDiabolique.Synapse.Synaptic_Strike",
+    "DilemmaDiabolique.Synapse.Whirlwind"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Lightning Bolt",
+    "Thunderous Blast",
+    "Havoc Punch",
+    "Lightning Clap",
+    "Synaptic Strike",
+    "Whirlwind"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "Ranged Energy, -End",
+    "-Recovery",
+    "Sleep",
+    "PBAoE, Foe Disorient, Knockback",
+    "Melee Smash/Energy",
+    "Toggle: PBAoE, Foe Knockback"
+  ]
+}

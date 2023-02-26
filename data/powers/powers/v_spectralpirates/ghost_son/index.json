@@ -1,0 +1,26 @@
+{
+  "name": "Ghost_Son",
+  "display_name": "Ghost Son",
+  "display_fullname": "V SpectralPirates.Ghost Son",
+  "display_help": "Spectral Pirates",
+  "display_short_help": "Spectral Pirates",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SPECTRALPIRATES/GHOST_SON.POWERSETS",
+  "icon": "ghost_son_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpectralPirates.Ghost_Son.Shadow_Punch",
+    "V_SpectralPirates.Ghost_Son.Smite"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Animated_Broad_Sword",
+  "display_name": "Animated Broad Sword",
+  "display_fullname": "Incarnate AlphaStrike.Animated Broad Sword",
+  "display_help": "Wield a Broad Sword and master a variety of powerful Lethal attacks. Slower than a Katana, the Broad Sword's weight strikes with more force and damage. The Broadsword can reduce an enemy's Defense, allowing other attacks to hit more reliably. The Broad Sword is a powerful melee weapon that has a bonus to Accuracy. Like all scrapper powers, all Broad Sword attacks can sometimes land a critical hit for double damage.",
+  "display_short_help": "Animated Broad Sword",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/ANIMATED_BROAD_SWORD.POWERSETS",
+  "icon": "animated_broad_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Hack",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Slash",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Slice",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Parry",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Whirling_Sword",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Disembowel",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Head_Splitter",
+    "Incarnate_AlphaStrike.Animated_Broad_Sword.Sword_Draw"
+  ],
+  "power_display_names": [
+    "Hack",
+    "Slash",
+    "Slice",
+    "Parry",
+    "Whirling Sword",
+    "Disembowel",
+    "Head Splitter",
+    "Sword Draw"
+  ],
+  "power_short_helps": [
+    "Melee, High Dam(Lethal), Foe -DEF",
+    "Melee, Moderate Dam(Lethal), Foe -DEF",
+    "Melee (Cone), Moderate Dam(Lethal), Foe -DEF",
+    "Melee, Minor DMG(Lethal), Self +DEF(Melee,Lethal)",
+    "PBAoE Melee, Moderate DMG(Lethal), Foe -Def",
+    "Melee, Superior DMG(Lethal), Knockup, Foe -DEF",
+    "Melee, Extreme DMG(Lethal), Foe Knockback, -DEF",
+    "Grant"
+  ]
+}

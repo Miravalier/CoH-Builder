@@ -1,0 +1,42 @@
+{
+  "name": "Martin_Henri",
+  "display_name": "Martin Henri",
+  "display_fullname": "RoguesGallery.Martin Henri",
+  "display_help": "Martin Henri",
+  "display_short_help": "Martin Henri",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/MARTIN_HENRI.POWERSETS",
+  "icon": "martin_henri_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.Martin_Henri.Slash",
+    "RoguesGallery.Martin_Henri.Slice",
+    "RoguesGallery.Martin_Henri.Luddite_Armor",
+    "RoguesGallery.Martin_Henri.Fire_Blast",
+    "RoguesGallery.Martin_Henri.Flash_Stomp",
+    "RoguesGallery.Martin_Henri.Fire_Breath"
+  ],
+  "power_display_names": [
+    "Slash",
+    "Slice",
+    "Luddite Armor",
+    "Fire Blast",
+    "Flash Stomp",
+    "Fire Breath"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate Dam(Lethal), -Def (Foe, All)",
+    "Melee, High Dam(Lethal), -Def (Foe, All)",
+    "Self, Res(Smashing, Lethal)",
+    "Ranged, Moderate DMG (Fire), Minor DoT (Fire)",
+    "PBAoE, Moderate DMG(Fire), Minor DoT(Fire), Knockback(Foe)",
+    "Ranged Cone, High DoT (Fire)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Rikti_Boss",
+  "display_name": "Rikti Boss",
+  "display_fullname": "Freakshow.Rikti Boss",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/RIKTI_BOSS.POWERSETS",
+  "icon": "rikti_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Rikti_Boss.Cybernetic_Rikti_Blade",
+    "Freakshow.Rikti_Boss.Rikti_Rifle"
+  ],
+  "power_display_names": [
+    "Cybernetic Rikti Blade",
+    "Rikti Rifle"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ViridianFear",
+  "display_name": "ViridianFear",
+  "display_fullname": "Tsoo.ViridianFear",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/VIRIDIANFEAR.POWERSETS",
+  "icon": "viridianfear_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.ViridianFear.Petrifying_Gaze",
+    "Tsoo.ViridianFear.Tenebrous_Tentacles",
+    "Tsoo.ViridianFear.Shadow_Punch",
+    "Tsoo.ViridianFear.Smite"
+  ],
+  "power_display_names": [
+    "Petrifying Gaze",
+    "Tenebrous Tentacles",
+    "Shadow Punch",
+    "Smite"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "Immobilize, -ACC",
+    "-ACC",
+    "-ACC"
+  ]
+}

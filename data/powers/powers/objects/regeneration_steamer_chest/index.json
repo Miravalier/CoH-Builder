@@ -1,0 +1,22 @@
+{
+  "name": "Regeneration_Steamer_Chest",
+  "display_name": "Chest",
+  "display_fullname": "Objects.Chest",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/REGENERATION_STEAMER_CHEST.POWERSETS",
+  "icon": "regeneration_steamer_chest_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Regeneration_Steamer_Chest.Health"
+  ],
+  "power_display_names": [
+    "Health"
+  ],
+  "power_short_helps": [
+    "+Regeneration"
+  ]
+}

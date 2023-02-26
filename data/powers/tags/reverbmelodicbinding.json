@@ -1,0 +1,22 @@
+{
+  "tag": "ReverbMelodicBinding",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Melodic Binding",
+      "controller_control.symphony_control.melodic_binding"
+    ],
+    [
+      "Dominator Control.Symphony Control.Melodic Binding",
+      "dominator_control.symphony_control.melodic_binding"
+    ],
+    [
+      "Mission Maker Attacks.Symphony Control.Melodic Binding",
+      "mission_maker_attacks.symphony_control.melodic_binding"
+    ],
+    [
+      "Mission Maker Secondary.Symphony Control.Melodic Binding",
+      "mission_maker_secondary.symphony_control.melodic_binding"
+    ]
+  ],
+  "affects": []
+}

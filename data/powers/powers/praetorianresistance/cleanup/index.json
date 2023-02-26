@@ -1,0 +1,22 @@
+{
+  "name": "Cleanup",
+  "display_name": "Cleanup",
+  "display_fullname": "PraetorianResistance.Cleanup",
+  "display_help": "Cleanup",
+  "display_short_help": "Cleanup",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANRESISTANCE/CLEANUP.POWERSETS",
+  "icon": "cleanup_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianResistance.Cleanup.Cleanup"
+  ],
+  "power_display_names": [
+    "Cleanup"
+  ],
+  "power_short_helps": [
+    "SilentKill"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Tommy_Gun",
+  "display_name": "Tommy_Gun",
+  "display_fullname": "Guns.Tommy Gun",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/TOMMY_GUN.POWERSETS",
+  "icon": "tommy_gun_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Tommy_Gun.Tommy_Gun_Burst",
+    "Guns.Tommy_Gun.Tommy_Gun_Heavy_Burst",
+    "Guns.Tommy_Gun.Tommy_Gun_Full_Auto"
+  ],
+  "power_display_names": [
+    "Tommy Gun Burst",
+    "Tommy Gun Heavy Burst",
+    "Tommy Gun Full Auto"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "DoT(Lethal)",
+    "DoT(Lethal)"
+  ]
+}

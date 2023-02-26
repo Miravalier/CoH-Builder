@@ -1,0 +1,34 @@
+{
+  "name": "Adamastor",
+  "display_name": "Adamastor",
+  "display_fullname": "MindsOfMayhem.Adamastor",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/ADAMASTOR.POWERSETS",
+  "icon": "adamastor_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Adamastor.Dry_Heave",
+    "MindsOfMayhem.Adamastor.Shockwave_Stomp",
+    "MindsOfMayhem.Adamastor.Blast_of_Decay",
+    "MindsOfMayhem.Adamastor.Earthen_Prison"
+  ],
+  "power_display_names": [
+    "Frigid Blast",
+    "Shockwave Stomp",
+    "Blast of Decay",
+    "Earthen Prison"
+  ],
+  "power_short_helps": [
+    "Ranged Cone, Moderate DMG (Cold), Minor DoT (Negative Energy), -DMG(Foe; All)",
+    "PBAoE, High DMG (Smashing), Knockback(Foe), Stun(Foe)",
+    "Ranged, High DMG(Cold), Minor DoT(Negative Energy), -DMG(Foe; All)",
+    "Ranged, Moderate DoT (Smashing), Hold(Foe), -DEF(Foe; All), -Fly(Foe)"
+  ]
+}

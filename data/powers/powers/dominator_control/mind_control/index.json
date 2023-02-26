@@ -1,0 +1,54 @@
+{
+  "name": "Mind_Control",
+  "display_name": "Mind Control",
+  "display_fullname": "Dominator Control.Mind Control",
+  "display_help": "You can manipulate and control your opponent's mind. Since Mental powers directly affect the mind, most tend to be very accurate, and thus very useful against higher level foes. Few foes can resist Psionic powers, but creatures without minds, like machines and robots, are resistant to many of the effects.",
+  "display_short_help": "Mind Control",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/DOMINATOR_CONTROL/MIND_CONTROL.POWERSETS",
+  "icon": "mind_control_set.png",
+  "requires": "",
+  "power_names": [
+    "Dominator_Control.Mind_Control.Mesmerize",
+    "Dominator_Control.Mind_Control.Levitate",
+    "Dominator_Control.Mind_Control.Dominate",
+    "Dominator_Control.Mind_Control.Confuse",
+    "Dominator_Control.Mind_Control.Mass_Hypnosis",
+    "Dominator_Control.Mind_Control.Telekinesis",
+    "Dominator_Control.Mind_Control.Total_Domination",
+    "Dominator_Control.Mind_Control.Terrify",
+    "Dominator_Control.Mind_Control.Mass_Confusion"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Levitate",
+    "Dominate",
+    "Confuse",
+    "Mass Hypnosis",
+    "Telekinesis",
+    "Total Domination",
+    "Terrify",
+    "Mass Confusion"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Psionic), Foe Sleep",
+    "Ranged, Light DMG(Smash), Foe Knock Up",
+    "Ranged, Light DMG(Psionic), Foe Hold",
+    "Ranged, Target Confuse",
+    "Ranged (Targeted AoE), Foe Sleep",
+    "Toggle: Ranged (Targeted AoE), Foe Hold, Repel",
+    "Ranged (Targeted AoE), Foe Hold",
+    "Ranged (Cone), Light DMG(Psionic), Foe Fear(Special)",
+    "Ranged (Targeted AoE), Foe Confuse"
+  ]
+}

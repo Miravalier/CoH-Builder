@@ -1,0 +1,54 @@
+{
+  "name": "Radiation_Blast",
+  "display_name": "Radiation Blast",
+  "display_fullname": "Blaster Ranged.Radiation Blast",
+  "display_help": "Blast your foes with lethal radiation. Radiation Blast powers can bypass normal defenses, and lower your targets' overall Defense.",
+  "display_short_help": "Radiation Blast",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BLASTER_RANGED/RADIATION_BLAST.POWERSETS",
+  "icon": "radiation_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "Blaster_Ranged.Radiation_Blast.Neutrino_Bolt",
+    "Blaster_Ranged.Radiation_Blast.X-Ray_Beam",
+    "Blaster_Ranged.Radiation_Blast.Irradiate",
+    "Blaster_Ranged.Radiation_Blast.Electron_Haze",
+    "Blaster_Ranged.Radiation_Blast.Aim",
+    "Blaster_Ranged.Radiation_Blast.Proton_Volley",
+    "Blaster_Ranged.Radiation_Blast.Cosmic_Burst",
+    "Blaster_Ranged.Radiation_Blast.Neutron_Bomb",
+    "Blaster_Ranged.Radiation_Blast.Atomic_Blast"
+  ],
+  "power_display_names": [
+    "Neutrino Bolt",
+    "X-Ray Beam",
+    "Irradiate",
+    "Electron Haze",
+    "Aim",
+    "Proton Volley",
+    "Cosmic Burst",
+    "Neutron Bomb",
+    "Atomic Blast"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Energy), Foe -DEF",
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Close (AoE), Moderate DoT(Energy), Foe -DEF",
+    "Close, Moderate Moderate DMG(Energy), Foe -DEF, Knockback",
+    "Self +To-hit, +DMG",
+    "Sniper, Extreme DMG(Energy), Foe -DEF, Self +Range",
+    "Ranged, High DMG(Energy), Foe Disorient, -DEF",
+    "Ranged (Targeted AoE), Light DMG(Energy), Foe -DEF",
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Hold, -DEF"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Willie",
+  "display_name": "Willie",
+  "display_fullname": "Vanguard.Willie",
+  "display_help": "Vanguard",
+  "display_short_help": "Vanguard",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VANGUARD/WILLIE.POWERSETS",
+  "icon": "willie_set.png",
+  "requires": "",
+  "power_names": [
+    "Vanguard.Willie.Willie_Pete"
+  ],
+  "power_display_names": [
+    "Willie Pete"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)"
+  ]
+}

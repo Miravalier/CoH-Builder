@@ -1,0 +1,54 @@
+{
+  "name": "Ravenna_Lieutenant",
+  "display_name": "Ravenna Lieutenant",
+  "display_fullname": "Ravenna.Ravenna Lieutenant",
+  "display_help": "Ravenna",
+  "display_short_help": "Ravenna Lieutenant",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RAVENNA/RAVENNA_LIEUTENANT.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Ravenna.Ravenna_Lieutenant.Raven_Blade_Circle",
+    "Ravenna.Ravenna_Lieutenant.Raven_Blade",
+    "Ravenna.Ravenna_Lieutenant.Push_Back",
+    "Ravenna.Ravenna_Lieutenant.Essence_Drain",
+    "Ravenna.Ravenna_Lieutenant.Pilum",
+    "Ravenna.Ravenna_Lieutenant.Resistance",
+    "Ravenna.Ravenna_Lieutenant.Energized_Shield",
+    "Ravenna.Ravenna_Lieutenant.Phalanx_Fighting",
+    "Ravenna.Ravenna_Lieutenant.Aging_Touch"
+  ],
+  "power_display_names": [
+    "Raven Sword Circle",
+    "Raven Sword",
+    "Push Back",
+    "Essence Drain",
+    "Pilum",
+    "Nictus Imbuement",
+    "Phalanx Fighting",
+    "Roman Armor",
+    "Aging Touch"
+  ],
+  "power_short_helps": [
+    "PBAoE Melee, Moderate DMG(Fire/Lethal)",
+    "Melee, Moderate DMG(Fire/Lethal)",
+    "Melee, Extreme DMG(Smash), High Knockback",
+    "Melee, Moderate DMG(Negative), Foe -Recharge, -SPD; Self +HP",
+    "Ranged, High DMG(Lethal)",
+    "Resistance",
+    "Toggle: Self +DEF(All), Res(Disorient, Hold, Immobilize, Sleep, Knock, Repel)",
+    "Auto: Self +DEF(All), Res(DeBuff DEF)",
+    "Melee, Minor DMG(Psionic)"
+  ]
+}

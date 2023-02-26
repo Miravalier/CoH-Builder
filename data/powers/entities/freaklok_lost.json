@@ -1,0 +1,97 @@
+{
+  "name": "Freaklok_Lost",
+  "gender": "GENDER_MALE",
+  "group_name": "Freaklok",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "Found Freaks are members of the Lost that were, to wit, 'found' by Dr. Pierce's scavenging groups and brought back to be 'volunteered' into the Freaklok army. They've been mentally conditioned to be loyal and offer their abilities for both research and defense.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Freaklok.LT_Attacks.Rikti_Pistol",
+      "Freaklok.LT_Attacks.Psi_Blade",
+      "Freaklok.LT_Attacks.Single_Shot",
+      "Freaklok.LT_Attacks.Confuse"
+    ],
+    "power_display_names": [
+      "Rikti Pistol",
+      "Psi Blade",
+      "Single Shot",
+      "Confuse"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Freaklok",
+        "power_set": "LT_Attacks",
+        "power": "Rikti_Pistol",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "LT_Attacks",
+        "power": "Psi_Blade",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "LT_Attacks",
+        "power": "Single_Shot",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "LT_Attacks",
+        "power": "Confuse",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Found Freak"
+      ],
+      "costumes": [
+        "FRKLK_LostA",
+        "FRKLK_LostB"
+      ]
+    }
+  ]
+}

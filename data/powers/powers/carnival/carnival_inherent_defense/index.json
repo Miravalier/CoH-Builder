@@ -1,0 +1,26 @@
+{
+  "name": "Carnival_Inherent_Defense",
+  "display_name": "Carnival_Inherent_Defense",
+  "display_fullname": "Carnival.Carnival Inherent Defense",
+  "display_help": "Defense powers inherent to all Carnival of Shadows",
+  "display_short_help": "Carnival defense powers.",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_INHERENT_DEFENSE.POWERSETS",
+  "icon": "carnival_inherent_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Inherent_Defense.Resistance",
+    "Carnival.Carnival_Inherent_Defense.Psychic_Visage"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Psychic Visage"
+  ],
+  "power_short_helps": [
+    "Self, +Def(Psionic), +Res(Psionic)",
+    "-END"
+  ]
+}

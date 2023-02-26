@@ -1,0 +1,50 @@
+{
+  "name": "Sentinel",
+  "display_name": "Sentinel",
+  "display_fullname": "DilemmaDiabolique.Sentinel",
+  "display_help": "Sentinel",
+  "display_short_help": "Sentinel",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/SENTINEL.POWERSETS",
+  "icon": "sentinel_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Sentinel.Frigid_Smash",
+    "DilemmaDiabolique.Sentinel.Frigid_Stomp",
+    "DilemmaDiabolique.Sentinel.Reapers_Bolt",
+    "DilemmaDiabolique.Sentinel.Frenzied_Slash",
+    "DilemmaDiabolique.Sentinel.Enervating_Strike",
+    "DilemmaDiabolique.Sentinel.Frigid_Grasp",
+    "DilemmaDiabolique.Sentinel.Impale",
+    "DilemmaDiabolique.Sentinel.Voracious_Maw"
+  ],
+  "power_display_names": [
+    "Frigid Smash",
+    "Frigid Stomp",
+    "Reaper's Bolt",
+    "Frenzied Slash",
+    "Enervating Strike",
+    "Frigid Grasp",
+    "Impale",
+    "Voracious Maw"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Minor DMG (Cold), Minor DoT (Negative Energy), -DEF(Foe, Cold/Negative Energy), -RES(Foe, Cold/Negative Energy), Knockup(Foe), Chance for +EndCost(Foe)",
+    "PBAoE, Moderate DMG (Cold, Negative Energy), EndDrain(Foe), Knockup(Foe), -Regen(Foe), -Rec(Foe), Chance for +EndCost(Foe)",
+    "Ranged (Secondary Target), Moderate DMG(Negative Energy), Minor DoT(Negative Energy), EndDrain(Foe), -Rec(Foe), Chance for +EndCost(Foe)",
+    "Melee, Minor DoT(Cold, Lethal)",
+    "Melee, -Res(Heal, Foe, Stacking), -Regen(Foe, Stacking)",
+    "Ranged (Secondary Target), Moderate DMG(Cold), Minor DoT(Negative Energy), Grounded(Foe), -Speed(Foe,All), -Rech(Foe), Chance for +EndCost(Foe), Heal(Self)",
+    "TAoE (Secondary Target), Special",
+    "TAoE (Secondary Target), Special"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Touch_of_the_Nictus_F",
+  "display_name": "Crafted Touch of the Nictus F",
+  "display_fullname": "Boosts.Crafted Touch of the Nictus F",
+  "display_help": "Provides a small chance to cause minor negative energy damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Touch of the Nictus",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_TOUCH_OF_THE_NICTUS_F.POWERSETS",
+  "icon": "crafted_touch_of_the_nictus_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Touch_of_the_Nictus_F.Crafted_Touch_of_the_Nictus_F"
+  ],
+  "power_display_names": [
+    "Touch of the Nictus: Chance for Negative Energy Damage"
+  ],
+  "power_short_helps": [
+    "Adds Minor DMG (Negative Energy)"
+  ]
+}

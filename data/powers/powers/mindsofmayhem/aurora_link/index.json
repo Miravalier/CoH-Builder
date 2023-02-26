@@ -1,0 +1,34 @@
+{
+  "name": "Aurora_Link",
+  "display_name": "Aurora_Link",
+  "display_fullname": "MindsOfMayhem.Aurora Link",
+  "display_help": "Aurora Borealis",
+  "display_short_help": "Aurora Borealis",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/AURORA_LINK.POWERSETS",
+  "icon": "aurora_link_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Aurora_Link.Grant_Phasing",
+    "MindsOfMayhem.Aurora_Link.Auroras_Mind",
+    "MindsOfMayhem.Aurora_Link.Revoke_Phasing",
+    "MindsOfMayhem.Aurora_Link.Caught_Between_Minds"
+  ],
+  "power_display_names": [
+    "Grant Phasing",
+    "Aurora's Mind",
+    "Revoke Phasing",
+    "Caught Between Minds"
+  ],
+  "power_short_helps": [
+    "Aurora's Mind",
+    "Aurora's Mind",
+    "Aurora's Mind",
+    "Aurora's Mind"
+  ]
+}

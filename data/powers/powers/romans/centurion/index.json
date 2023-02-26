@@ -1,0 +1,50 @@
+{
+  "name": "Centurion",
+  "display_name": "Centurion",
+  "display_fullname": "Romans.Centurion",
+  "display_help": "Centurion",
+  "display_short_help": "Centurion",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/CENTURION.POWERSETS",
+  "icon": "centurion_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Centurion.Phalanx_Fighting",
+    "Romans.Centurion.Energized_Shield",
+    "Romans.Centurion.Push_Back",
+    "Romans.Centurion.Slash",
+    "Romans.Centurion.Slice",
+    "Romans.Centurion.Hack",
+    "Romans.Centurion.Pilum",
+    "Romans.Centurion.Shout_of_Command"
+  ],
+  "power_display_names": [
+    "Roman Armor",
+    "Phalanx Fighting",
+    "Push Back",
+    "Slash",
+    "Slice",
+    "Hack",
+    "Pilum",
+    "Shout of Command"
+  ],
+  "power_short_helps": [
+    "Auto: Self +DEF(All), Res(DeBuff DEF)",
+    "Toggle: Self +DEF(All), Res(Disorient, Hold, Immobilize, Sleep, Knock, Repel)",
+    "Melee, Extreme DMG(Smash), High Knockback",
+    "Melee, Moderate Dam(Lethal), Foe -DEF",
+    "Melee (Cone), Moderate Dam(Lethal), Foe -DEF",
+    "Melee, High Dam(Lethal), Foe -DEF",
+    "Ranged, High DMG(Lethal)",
+    "Ally +Res(Disorient, Hold, Sleep, Immobilize, Terrorize, Confusion), +Perception"
+  ]
+}

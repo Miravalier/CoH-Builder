@@ -1,0 +1,22 @@
+{
+  "name": "Chain_Jolt_Controller_Jump3",
+  "display_name": "Chain Jolt Jump 3",
+  "display_fullname": "Mission Maker Pets.Chain Jolt Jump 3",
+  "display_help": "Chain Jolt Jump 3",
+  "display_short_help": "Chain Jolt Jump 3",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/CHAIN_JOLT_CONTROLLER_JUMP3.POWERSETS",
+  "icon": "chain_jolt_controller_jump3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Chain_Jolt_Controller_Jump3.Charge"
+  ],
+  "power_display_names": [
+    "Charge"
+  ],
+  "power_short_helps": [
+    "Charged"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Resistance",
+  "display_name": "Resistance",
+  "display_fullname": "V Coralax.Resistance",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/RESISTANCE.POWERSETS",
+  "icon": "resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Fire"
+  ]
+}

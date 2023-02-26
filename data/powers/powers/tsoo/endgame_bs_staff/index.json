@@ -1,0 +1,50 @@
+{
+  "name": "Endgame_BS_Staff",
+  "display_name": "Endgame_BS_Staff",
+  "display_fullname": "Tsoo.Endgame BS Staff",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_BS_STAFF.POWERSETS",
+  "icon": "endgame_bs_staff_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_BS_Staff.Mercurial_Blow",
+    "Tsoo.Endgame_BS_Staff.Precise_Strike",
+    "Tsoo.Endgame_BS_Staff.Guarded_Spin",
+    "Tsoo.Endgame_BS_Staff.Eye_of_the_Storm",
+    "Tsoo.Endgame_BS_Staff.Mastery_of_Form",
+    "Tsoo.Endgame_BS_Staff.Serpents_Reach",
+    "Tsoo.Endgame_BS_Staff.Innocuous_Strikes",
+    "Tsoo.Endgame_BS_Staff.Sky_Splitter"
+  ],
+  "power_display_names": [
+    "Mercurial Blow",
+    "Precise Strike",
+    "Guarded Spin",
+    "Eye of the Storm",
+    "Mastery of Form",
+    "Serpent's Reach",
+    "Innocuous Strike",
+    "Sky Splitter"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smashing), -DEF(Foe,All), Chance for Critical DMG",
+    "Melee, Moderate DMG(Smashing), Chance for Stun(Foe), Critical DMG",
+    "Melee (Cone), Moderate DMG (Smashing), +DEF(Self, Melee, Lethal), Chance for Critical DMG",
+    "PBAoE, Moderate DMG(Smashing), -RES(Foe,All), Chance for Knockdown, Critical DMG",
+    "+DMG(Self), +ToHit(Self)",
+    "Ranged, High DMG(Smashing), Chance for Knockdown, Critical Hit",
+    "Melee (Cone), High DMG(Smashing), -Speed(Foe,All), Chance for Immobilize(Foe), Critical DMG",
+    "Melee, Extreme DMG(Smashing), +RES(Self,All), +ToHit(Self), +Regen(Self), +Rec(Self), Knockdown(Foe), Stun(Foe), Chance for Critical DMG"
+  ]
+}

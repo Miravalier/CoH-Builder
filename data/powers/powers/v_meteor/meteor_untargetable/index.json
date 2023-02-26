@@ -1,0 +1,26 @@
+{
+  "name": "Meteor_Untargetable",
+  "display_name": "Meteor Untargetable",
+  "display_fullname": "V Meteor.Meteor Untargetable",
+  "display_help": "Meteor",
+  "display_short_help": "Meteor",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_METEOR/METEOR_UNTARGETABLE.POWERSETS",
+  "icon": "meteor_untargetable_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Meteor.Meteor_Untargetable.Radiation",
+    "V_Meteor.Meteor_Untargetable.Resistance"
+  ],
+  "power_display_names": [
+    "Radiation",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "DoT (Special)",
+    "Resistance"
+  ]
+}

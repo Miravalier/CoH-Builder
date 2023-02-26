@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Ragnarok_E",
+  "display_name": "Superior Attuned Ragnarok E",
+  "display_fullname": "Boosts.Superior Attuned Ragnarok E",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Ragnarok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_RAGNAROK_E.POWERSETS",
+  "icon": "superior_attuned_ragnarok_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Ragnarok_E.Superior_Attuned_Ragnarok_E"
+  ],
+  "power_display_names": [
+    "Ragnarok: Damage/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+DMG, +End"
+  ]
+}

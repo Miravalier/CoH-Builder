@@ -1,0 +1,38 @@
+{
+  "name": "HeavyBarrel_LT",
+  "display_name": "HeavyBarrel_LT",
+  "display_fullname": "Family.HeavyBarrel LT",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0,
+    10,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/HEAVYBARREL_LT.POWERSETS",
+  "icon": "heavybarrel_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.HeavyBarrel_LT.Snap_Shot",
+    "Family.HeavyBarrel_LT.AP_Round",
+    "Family.HeavyBarrel_LT.HE_Shot",
+    "Family.HeavyBarrel_LT.Targeting_Drone",
+    "Family.HeavyBarrel_LT.Training"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "AP Round",
+    "HE Shot",
+    "Targeting Drone",
+    "Training"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Lethal), Minor DoT (Energy),Foe -Res",
+    "Ranged Narrow Cone, High DMG(Lethal), Minor DoT (Energy), Foe -Res, Knockdown",
+    "Targeted AoE, Moderate DMG(Lethal/Smashing), Minor DoT (Energy), Minor DoT(Fire)",
+    "Toggle: Self +To-hit, +Perception, Res(DeBuff ToHit)",
+    "Auto: Self +Res (All), +MaxHealth"
+  ]
+}

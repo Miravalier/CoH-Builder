@@ -1,0 +1,13 @@
+{
+  "group": "Brimstone_Armor_Group",
+  "powers": [
+    [
+      "Brute Defense.Stone Armor.Brimstone Armor",
+      "brute_defense.stone_armor.brimstone_armor"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Brimstone Armor",
+      "tanker_defense.stone_armor.brimstone_armor"
+    ]
+  ]
+}

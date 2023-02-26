@@ -1,0 +1,22 @@
+{
+  "name": "Science_Range",
+  "display_name": "Science Range",
+  "display_fullname": "Boosts.Science Range",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_RANGE.POWERSETS",
+  "icon": "science_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Range.Science_Range"
+  ],
+  "power_display_names": [
+    "Neodymium Irradiation (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

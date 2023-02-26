@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Luck_of_the_Gambler_B",
+  "display_name": "Attuned Luck of the Gambler B",
+  "display_fullname": "Boosts.Attuned Luck of the Gambler B",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Luck of the Gambler",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_LUCK_OF_THE_GAMBLER_B.POWERSETS",
+  "icon": "attuned_luck_of_the_gambler_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Luck_of_the_Gambler_B.Attuned_Luck_of_the_Gambler_B"
+  ],
+  "power_display_names": [
+    "Luck of the Gambler: Defense/Recharge"
+  ],
+  "power_short_helps": [
+    "+DEF (all), +Rech"
+  ]
+}

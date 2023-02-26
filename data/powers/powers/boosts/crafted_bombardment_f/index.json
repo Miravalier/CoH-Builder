@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Bombardment_F",
+  "display_name": "Crafted Bombardment F",
+  "display_fullname": "Boosts.Crafted Bombardment F",
+  "display_help": "Provides a chance to cause minor fire damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Bombardment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_BOMBARDMENT_F.POWERSETS",
+  "icon": "e_icon_bombardment.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Bombardment_F.Crafted_Bombardment_F"
+  ],
+  "power_display_names": [
+    "Bombardment: Chance for Fire Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Minor DMG (Fire)"
+  ]
+}

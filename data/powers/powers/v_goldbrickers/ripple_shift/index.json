@@ -1,0 +1,26 @@
+{
+  "name": "Ripple_Shift",
+  "display_name": "Ripple Shift",
+  "display_fullname": "V GoldBrickers.Ripple Shift",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/RIPPLE_SHIFT.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Ripple_Shift.Ripple_Shift",
+    "V_GoldBrickers.Ripple_Shift.Rippled"
+  ],
+  "power_display_names": [
+    "Ripple Shift",
+    "Rippled"
+  ],
+  "power_short_helps": [
+    "Dimensional Translocation",
+    "Dimensional Translocation"
+  ]
+}

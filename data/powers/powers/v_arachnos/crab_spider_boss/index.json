@@ -1,0 +1,22 @@
+{
+  "name": "Crab_Spider_Boss",
+  "display_name": "Crab_Spider_Boss",
+  "display_fullname": "V Arachnos.Crab Spider Boss",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/CRAB_SPIDER_BOSS.POWERSETS",
+  "icon": "crab_spider_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Crab_Spider_Boss.Arm_Lash"
+  ],
+  "power_display_names": [
+    "Arm Lash"
+  ],
+  "power_short_helps": [
+    "Toxic DoT, Slow"
+  ]
+}

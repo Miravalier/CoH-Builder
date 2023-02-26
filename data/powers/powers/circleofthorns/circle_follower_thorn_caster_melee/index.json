@@ -1,0 +1,38 @@
+{
+  "name": "Circle_Follower_Thorn_Caster_Melee",
+  "display_name": "Circle_Follower_Thorn_Caster_Melee",
+  "display_fullname": "CircleOfThorns.Circle Follower Thorn Caster Melee",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_FOLLOWER_THORN_CASTER_MELEE.POWERSETS",
+  "icon": "circle_follower_thorn_caster_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Follower_Thorn_Caster_Melee.Dagger",
+    "CircleOfThorns.Circle_Follower_Thorn_Caster_Melee.Falchion",
+    "CircleOfThorns.Circle_Follower_Thorn_Caster_Melee.Sword",
+    "CircleOfThorns.Circle_Follower_Thorn_Caster_Melee.Scimitar",
+    "CircleOfThorns.Circle_Follower_Thorn_Caster_Melee.Thorn_Sword"
+  ],
+  "power_display_names": [
+    "Dagger",
+    "Falchion",
+    "Sword",
+    "Scimitar",
+    "Thorn Sword"
+  ],
+  "power_short_helps": [
+    "Melee Lethal",
+    "Melee Lethal/Negative, Low Dam",
+    "Melee Lethal Dam",
+    "Melee Lethal/Negative, High Dam",
+    "Melee Lethal/Negative, +Slow"
+  ]
+}

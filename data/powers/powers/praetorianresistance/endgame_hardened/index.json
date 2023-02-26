@@ -1,0 +1,26 @@
+{
+  "name": "Endgame_Hardened",
+  "display_name": "Endgame Hardened",
+  "display_fullname": "PraetorianResistance.Endgame Hardened",
+  "display_help": "You aren't Invulnerable. Bullets don't bounce off of you, and if you are cut, you bleed. You are, however, tough, grizzled and strong willed. It takes more than a little cut to keep you down! Willpower offers a strong balance of healing, damage resistance and defense. While you have no real vulnerabilities, you can't quite deal with 'alpha strikes' as well as some other protective powers.",
+  "display_short_help": "Endgame Hardened",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANRESISTANCE/ENDGAME_HARDENED.POWERSETS",
+  "icon": "endgame_hardened_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianResistance.Endgame_Hardened.Hardened",
+    "PraetorianResistance.Endgame_Hardened.Phase_Resistance"
+  ],
+  "power_display_names": [
+    "Hardened",
+    "Phase Resistance"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Res (Status)",
+    "Auto: Self +Res (Phase)"
+  ]
+}

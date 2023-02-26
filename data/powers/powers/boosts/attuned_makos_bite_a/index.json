@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Makos_Bite_A",
+  "display_name": "Attuned Makos Bite A",
+  "display_fullname": "Boosts.Attuned Makos Bite A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Mako's Bite",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MAKOS_BITE_A.POWERSETS",
+  "icon": "attuned_makos_bite_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Makos_Bite_A.Attuned_Makos_Bite_A"
+  ],
+  "power_display_names": [
+    "Mako's Bite: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

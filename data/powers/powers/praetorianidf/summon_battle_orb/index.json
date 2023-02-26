@@ -1,0 +1,22 @@
+{
+  "name": "Summon_Battle_Orb",
+  "display_name": "Summon Battle Orb",
+  "display_fullname": "PraetorianIDF.Summon Battle Orb",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/SUMMON_BATTLE_ORB.POWERSETS",
+  "icon": "summon_battle_orb_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Summon_Battle_Orb.Summon_Battle_Orb"
+  ],
+  "power_display_names": [
+    "Summon Battle Orb"
+  ],
+  "power_short_helps": [
+    "Summon Battle Orb"
+  ]
+}

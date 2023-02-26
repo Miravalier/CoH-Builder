@@ -1,0 +1,554 @@
+{
+  "name": "Extreme_Measures",
+  "display_name": "Extreme Measures",
+  "group_name": "Sniper Attacks",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Sniper"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Extreme_Measures_A.Crafted_Extreme_Measures_A",
+      "Boosts.Attuned_Extreme_Measures_A.Attuned_Extreme_Measures_A"
+    ],
+    [
+      "Boosts.Crafted_Extreme_Measures_B.Crafted_Extreme_Measures_B",
+      "Boosts.Attuned_Extreme_Measures_B.Attuned_Extreme_Measures_B"
+    ],
+    [
+      "Boosts.Crafted_Extreme_Measures_C.Crafted_Extreme_Measures_C",
+      "Boosts.Attuned_Extreme_Measures_C.Attuned_Extreme_Measures_C"
+    ],
+    [
+      "Boosts.Crafted_Extreme_Measures_D.Crafted_Extreme_Measures_D",
+      "Boosts.Attuned_Extreme_Measures_D.Attuned_Extreme_Measures_D"
+    ],
+    [
+      "Boosts.Crafted_Extreme_Measures_E.Crafted_Extreme_Measures_E",
+      "Boosts.Attuned_Extreme_Measures_E.Attuned_Extreme_Measures_E"
+    ],
+    [
+      "Boosts.Crafted_Extreme_Measures_F.Crafted_Extreme_Measures_F",
+      "Boosts.Attuned_Extreme_Measures_F.Attuned_Extreme_Measures_F"
+    ]
+  ],
+  "min_level": 35,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_2",
+          "Small Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_3",
+          "Moderate Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_3",
+          "Moderate Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_3",
+          "Moderate Increased Melee/Lethal/Smashing Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png",
+      "e_icon_extrememeasures.png"
+    ],
+    "boosts": [
+      [
+        "Extreme Measures: Accuracy/Damage",
+        "Attuned Extreme Measures: Accuracy/Damage"
+      ],
+      [
+        "Extreme Measures: Damage/Endurance",
+        "Attuned Extreme Measures: Damage/Endurance"
+      ],
+      [
+        "Extreme Measures: Accuracy/InterruptTime/Range",
+        "Attuned Extreme Measures: Accuracy/InterruptTime/Range"
+      ],
+      [
+        "Extreme Measures: Damage/InterruptTime/Recharge",
+        "Attuned Extreme Measures: Damage/InterruptTime/Recharge"
+      ],
+      [
+        "Extreme Measures: Damage/Endurance/Recharge",
+        "Attuned Extreme Measures: Damage/Endurance/Recharge"
+      ],
+      [
+        "Extreme Measures: Accuracy/Range/Recharge",
+        "Attuned Extreme Measures: Accuracy/Range/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_extreme_measures_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_extreme_measures_a.attuned_extreme_measures_a",
+          "Extreme Measures: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Extreme Measures: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "attuned_extreme_measures_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Attuned Extreme Measures: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "crafted_extreme_measures_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_extreme_measures_b.attuned_extreme_measures_b",
+          "Extreme Measures: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Extreme Measures: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "attuned_extreme_measures_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Attuned Extreme Measures: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "crafted_extreme_measures_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_extreme_measures_c.attuned_extreme_measures_c",
+          "Extreme Measures: Accuracy/Interrupt/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Extreme Measures: Accuracy/InterruptTime/Range",
+        "aspects": [
+          "Accuracy",
+          "InterruptTime",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "attuned_extreme_measures_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Attuned Extreme Measures: Accuracy/InterruptTime/Range",
+        "aspects": [
+          "Accuracy",
+          "InterruptTime",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "crafted_extreme_measures_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_extreme_measures_d.attuned_extreme_measures_d",
+          "Extreme Measures: Damage/Interrupt/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Extreme Measures: Damage/InterruptTime/Recharge",
+        "aspects": [
+          "Damage",
+          "InterruptTime",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "attuned_extreme_measures_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Attuned Extreme Measures: Damage/InterruptTime/Recharge",
+        "aspects": [
+          "Damage",
+          "InterruptTime",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "crafted_extreme_measures_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_extreme_measures_e.attuned_extreme_measures_e",
+          "Extreme Measures: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Extreme Measures: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "attuned_extreme_measures_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Attuned Extreme Measures: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "crafted_extreme_measures_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_extreme_measures_f.attuned_extreme_measures_f",
+          "Extreme Measures: Accuracy/Range/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Extreme Measures: Accuracy/Range/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Range",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      },
+      "attuned_extreme_measures_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 31,
+        "min_bonus_level": 28,
+        "computed_name": "Attuned Extreme Measures: Accuracy/Range/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Range",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "extreme_measures",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_extrememeasures.png"
+      }
+    }
+  }
+}

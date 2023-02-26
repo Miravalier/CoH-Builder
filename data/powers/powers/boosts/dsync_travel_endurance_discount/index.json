@@ -1,0 +1,22 @@
+{
+  "name": "DSync_Travel_Endurance_Discount",
+  "display_name": "D-Sync Travel Endurance Discount",
+  "display_fullname": "Boosts.DSync Travel Endurance Discount",
+  "display_help": "Increases the speed of a travel and reduces the endurance cost of a power.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_TRAVEL_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "hamidon_travel_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_Travel_Endurance_Discount.DSync_Travel_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "D-Sync Acceleration (End/Fly/Jump/Run)"
+  ],
+  "power_short_helps": [
+    "Enhances Travel Speed and Reduces Endurance Cost"
+  ]
+}

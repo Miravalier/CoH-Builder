@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Blistering_Cold_C",
+  "display_name": "Superior Attuned Blistering Cold C",
+  "display_fullname": "Boosts.Superior Attuned Blistering Cold C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Superior Blistering Cold",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_BLISTERING_COLD_C.POWERSETS",
+  "icon": "superior_attuned_blistering_cold_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Blistering_Cold_C.Superior_Attuned_Blistering_Cold_C"
+  ],
+  "power_display_names": [
+    "Superior Blistering Cold: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Damage and Recharge"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Arachnoform",
+  "display_name": "Arachnoform",
+  "display_fullname": "V Arachnos.Arachnoform",
+  "display_help": "Arachnoform",
+  "display_short_help": "Arachnoform",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/ARACHNOFORM.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Arachnoform.Cured"
+  ],
+  "power_display_names": [
+    "Arachnoform"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tag": "UndeadForces",
+  "bears": [
+    [
+      "Mastermind Summon.Necromancy.Dark Blast",
+      "mastermind_summon.necromancy.dark_blast"
+    ],
+    [
+      "Mastermind Summon.Necromancy.Gloom",
+      "mastermind_summon.necromancy.gloom"
+    ],
+    [
+      "Mastermind Summon.Necromancy.Life Drain",
+      "mastermind_summon.necromancy.life_drain"
+    ]
+  ],
+  "affects": []
+}

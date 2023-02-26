@@ -1,0 +1,26 @@
+{
+  "name": "Clockwork_Knight_Duke_Prince_Cannon",
+  "display_name": "Clockwork_Knight_Duke_Prince_Cannon",
+  "display_fullname": "Clockwork.Clockwork Knight Duke Prince Cannon",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CLOCKWORK/CLOCKWORK_KNIGHT_DUKE_PRINCE_CANNON.POWERSETS",
+  "icon": "clockwork_knight_duke_prince_cannon_set.png",
+  "requires": "",
+  "power_names": [
+    "Clockwork.Clockwork_Knight_Duke_Prince_Cannon.Lightning_Bolt",
+    "Clockwork.Clockwork_Knight_Duke_Prince_Cannon.Ball_Lightning"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Ball Lightning"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "Targeted AoE Energy, -End"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Banished_Storm_Witch_Doctor",
+  "display_name": "Banished_Storm_Witch_Doctor",
+  "display_fullname": "BanishedPantheon.Banished Storm Witch Doctor",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_STORM_WITCH_DOCTOR.POWERSETS",
+  "icon": "banished_storm_witch_doctor_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Storm_Witch_Doctor.Knife",
+    "BanishedPantheon.Banished_Storm_Witch_Doctor.Thunder_Clap",
+    "BanishedPantheon.Banished_Storm_Witch_Doctor.Charged_Bolts",
+    "BanishedPantheon.Banished_Storm_Witch_Doctor.Hurricane",
+    "BanishedPantheon.Banished_Storm_Witch_Doctor.Lightning_Storm"
+  ],
+  "power_display_names": [
+    "Knife",
+    "Thunder Clap",
+    "Charged Bolts",
+    "Hurricane",
+    "Lightning Storm"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Low Dam",
+    "Stun",
+    "Ranged Energy, -End",
+    "-Range, -ACC",
+    "Summon Lightning Storm"
+  ]
+}

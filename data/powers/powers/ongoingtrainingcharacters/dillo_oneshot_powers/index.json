@@ -1,0 +1,26 @@
+{
+  "name": "Dillo_OneShot_Powers",
+  "display_name": "Dillo_OneShot_Powers",
+  "display_fullname": "OnGoingTrainingCharacters.Dillo OneShot Powers",
+  "display_help": "Dillo_OneShot_Powers",
+  "display_short_help": "Dillo_OneShot_Powers",
+  "available_level": [
+    29,
+    29
+  ],
+  "source_file": "DEFS/POWERS/ONGOINGTRAININGCHARACTERS/DILLO_ONESHOT_POWERS.POWERSETS",
+  "icon": "dillo_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "OnGoingTrainingCharacters.Dillo_OneShot_Powers.Dramatic_Nova",
+    "OnGoingTrainingCharacters.Dillo_OneShot_Powers.Dramatic_Fire_Ball"
+  ],
+  "power_display_names": [
+    "Nova",
+    "Fire Ball"
+  ],
+  "power_short_helps": [
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Knockback, Self -Recovery",
+    "Ranged (Targeted AoE), Moderate DMG(Fire/Smash)"
+  ]
+}

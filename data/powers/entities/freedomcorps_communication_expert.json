@@ -1,0 +1,86 @@
+{
+  "name": "FreedomCorps_Communication_Expert",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 9,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "A Guardian's first advancement is to Sergeant, where he leads his own squad in operations against the nefarious villains of Arachnos and other threats.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.1,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomCorps.Resistance.Tech_Armor",
+      "V_FreedomCorps.Sargeant.Single_Shot",
+      "V_FreedomCorps.Sargeant.Burst",
+      "V_FreedomCorps.Sargeant.AssaultRifle_Butt"
+    ],
+    "power_display_names": [
+      "Tech Armor",
+      "Single Shot",
+      "Burst",
+      "AssaultRifle Butt"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Sargeant",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 9,
+      "experience": 0,
+      "display_names": [
+        "Longbow Sergeant"
+      ],
+      "costumes": [
+        "Longbow_Male_Lieutenant_01",
+        "Longbow_Male_Lieutenant_02"
+      ]
+    }
+  ]
+}

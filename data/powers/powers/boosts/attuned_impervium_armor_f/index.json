@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impervium_Armor_F",
+  "display_name": "Attuned Impervium Armor F",
+  "display_fullname": "Boosts.Attuned Impervium Armor F",
+  "display_help": "Gives a bonus psionic resistance of {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Impervium Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPERVIUM_ARMOR_F.POWERSETS",
+  "icon": "attuned_impervium_armor_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impervium_Armor_F.Attuned_Impervium_Armor_F"
+  ],
+  "power_display_names": [
+    "Impervium Armor: Psionic Resistance"
+  ],
+  "power_short_helps": [
+    "+RES (Psionic)"
+  ]
+}

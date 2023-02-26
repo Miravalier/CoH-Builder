@@ -1,0 +1,26 @@
+{
+  "name": "Equalizer_Traps",
+  "display_name": "Equalizer Traps",
+  "display_fullname": "V ParagonPolice.Equalizer Traps",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/EQUALIZER_TRAPS.POWERSETS",
+  "icon": "equalizer_traps_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Equalizer_Traps.Acid_Mortar",
+    "V_ParagonPolice.Equalizer_Traps.Auto_Turret"
+  ],
+  "power_display_names": [
+    "Acid Mortar",
+    "Auto Turret"
+  ],
+  "power_short_helps": [
+    "Place Trap: Ranged (AoE), Minor DoT(Toxic), Foe -Res(All), -DEF",
+    "Build Turret: Ranged, Moderate DMG(Lethal)"
+  ]
+}

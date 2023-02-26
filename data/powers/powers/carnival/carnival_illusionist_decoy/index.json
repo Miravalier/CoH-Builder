@@ -1,0 +1,30 @@
+{
+  "name": "Carnival_Illusionist_Decoy",
+  "display_name": "Carnival_Illusionist_Decoy",
+  "display_fullname": "Carnival.Carnival Illusionist Decoy",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_ILLUSIONIST_DECOY.POWERSETS",
+  "icon": "carnival_illusionist_decoy_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Illusionist_Decoy.Spectral_Wounds",
+    "Carnival.Carnival_Illusionist_Decoy.Phase_Shift",
+    "Carnival.Carnival_Illusionist_Decoy.Fly"
+  ],
+  "power_display_names": [
+    "Spectral Wounds",
+    "Phase Shift",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "High DMG(Psionic), +Special",
+    "Self Intangible",
+    "Self Travel"
+  ]
+}

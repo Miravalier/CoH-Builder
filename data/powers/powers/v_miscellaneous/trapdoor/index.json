@@ -1,0 +1,58 @@
+{
+  "name": "Trapdoor",
+  "display_name": "Trapdoor",
+  "display_fullname": "V Miscellaneous.Trapdoor",
+  "display_help": "Trapdoor",
+  "display_short_help": "Trapdoor",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_MISCELLANEOUS/TRAPDOOR.POWERSETS",
+  "icon": "trapdoor_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Miscellaneous.Trapdoor.Power_Bolt",
+    "V_Miscellaneous.Trapdoor.Power_Blast",
+    "V_Miscellaneous.Trapdoor.Explosive_Blast",
+    "V_Miscellaneous.Trapdoor.Energy_Torrent",
+    "V_Miscellaneous.Trapdoor.Power_Burst",
+    "V_Miscellaneous.Trapdoor.Power_Thrust",
+    "V_Miscellaneous.Trapdoor.Bone_Smasher",
+    "V_Miscellaneous.Trapdoor.Whirling_Hands",
+    "V_Miscellaneous.Trapdoor.Total_Focus",
+    "V_Miscellaneous.Trapdoor.Teleport"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Explosive Blast",
+    "Energy Torrent",
+    "Power Burst",
+    "Power Thrust",
+    "Bone Smasher",
+    "Whirling Hands",
+    "Total Focus",
+    "Teleport"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback",
+    "Cone Energy/Smash, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback",
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback",
+    "Disorient",
+    "Disorient",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient",
+    "Self Travel"
+  ]
+}

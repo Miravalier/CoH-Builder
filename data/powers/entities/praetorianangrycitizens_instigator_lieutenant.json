@@ -1,0 +1,125 @@
+{
+  "name": "PraetorianAngryCitizens_Instigator_Lieutenant",
+  "gender": "GENDER_MALE",
+  "group_name": "PraetorianAngryCitizens",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 5,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": null,
+    "character_class_name": "lt_grunt",
+    "description": "This Praetorian Citizen is not only angry, but their preaching has driven others into anger against Cole and the government. They've even brought improvised weapons with the pretense of taking the fight to Cole. Who do these people think they are fooling?",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.33,
+    "additional_rewards": [],
+    "power_full_names": [
+      "P_Citizens.Citizen_Lieutenant_Serious.Rock",
+      "P_Citizens.Citizen_Lieutenant_Serious.Molotov_Cocktail",
+      "P_Citizens.Citizen_Lieutenant_Serious.Brawl"
+    ],
+    "power_display_names": [
+      "Rock",
+      "Molotov Cocktail",
+      "Brawl"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "P_Citizens",
+        "power_set": "Citizen_Lieutenant_Serious",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 5,
+      "experience": 0,
+      "display_names": [
+        "Instigator"
+      ],
+      "costumes": [
+        "Citizen_Biz_Male_01",
+        "Citizen_Biz_Male_02",
+        "Citizen_Biz_Male_03",
+        "Citizen_Biz_Male_04",
+        "Citizen_Biz_Male_05",
+        "Citizen_Biz_Male_06",
+        "Citizen_Biz_Male_07",
+        "Citizen_Biz_Male_08",
+        "Citizen_Biz_Male_09",
+        "Citizen_Biz_Male_10",
+        "Citizen_Biz_Male_11",
+        "Citizen_Biz_Male_12",
+        "Citizen_Biz_Male_13",
+        "Citizen_Biz_Male_14",
+        "Citizen_Biz_Male_15",
+        "Citizen_Biz_Male_16",
+        "Citizen_Biz_Male_17",
+        "Citizen_Biz_Male_18",
+        "Citizen_Biz_Male_19",
+        "Citizen_Biz_Male_20",
+        "Citizen_Biz_Male_21",
+        "Citizen_Biz_Male_22",
+        "Citizen_Biz_Male_23",
+        "Citizen_Biz_Male_24",
+        "Citizen_Biz_Male_25",
+        "Citizen_Biz_Male_25",
+        "Citizen_Biz_Male_27",
+        "Citizen_Biz_Male_28",
+        "Citizen_Biz_Male_29",
+        "Citizen_Biz_Male_30",
+        "Citizen_Biz_Male_31",
+        "Citizen_Biz_Male_32",
+        "Citizen_Biz_Male_33",
+        "Citizen_Biz_Male_34",
+        "Citizen_Biz_Male_35",
+        "Citizen_Biz_Male_36",
+        "Citizen_Biz_Male_37",
+        "Citizen_Biz_Male_38",
+        "Citizen_Biz_Male_39",
+        "Citizen_Biz_Male_40",
+        "Citizen_Biz_Male_41",
+        "Citizen_Biz_Male_42",
+        "Citizen_Biz_Male_43",
+        "Citizen_Biz_Male_44",
+        "Citizen_Biz_Male_45",
+        "Citizen_Biz_Male_46",
+        "Citizen_Biz_Male_47",
+        "Citizen_Biz_Male_48",
+        "Citizen_Biz_Male_49",
+        "Citizen_Biz_Male_50"
+      ]
+    }
+  ]
+}

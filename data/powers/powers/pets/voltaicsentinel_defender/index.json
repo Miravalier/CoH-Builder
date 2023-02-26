@@ -1,0 +1,26 @@
+{
+  "name": "VoltaicSentinel_Defender",
+  "display_name": "Voltaic Sentinel Defender",
+  "display_fullname": "Pets.Voltaic Sentinel Defender",
+  "display_help": "Electrical Blast",
+  "display_short_help": "Electrical Blast",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/VOLTAICSENTINEL_DEFENDER.POWERSETS",
+  "icon": "voltaicsentinel_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.VoltaicSentinel_Defender.Electrical_Bolt",
+    "Pets.VoltaicSentinel_Defender.Electrical_Field"
+  ],
+  "power_display_names": [
+    "Electrical Bolt",
+    "Electrical Field"
+  ],
+  "power_short_helps": [
+    "Energy, -End",
+    "Electrical Field"
+  ]
+}

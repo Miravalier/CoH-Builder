@@ -1,0 +1,38 @@
+{
+  "name": "Oracle_Ice",
+  "display_name": "Oracle_Ice",
+  "display_fullname": "TalonsOfVengeance.Oracle Ice",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/ORACLE_ICE.POWERSETS",
+  "icon": "oracle_ice_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Oracle_Ice.Ice_Bolt",
+    "TalonsOfVengeance.Oracle_Ice.Ice_Blast",
+    "TalonsOfVengeance.Oracle_Ice.Block_of_Ice",
+    "TalonsOfVengeance.Oracle_Ice.Bitter_Ice_Blast",
+    "TalonsOfVengeance.Oracle_Ice.Resistance"
+  ],
+  "power_display_names": [
+    "Ice Bolt",
+    "Ice Blast",
+    "Block of Ice",
+    "Bitter Ice Blast",
+    "Affinity"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Cold/Smashing), -Recharge (Foe), -Speed(Foe,All)",
+    "Ranged, Moderate DMG(Cold/Smash), -Recharge (Foe), -Speed(Foe,All)",
+    "Ranged, Moderate DMG(Cold), Hold, -Recharge (Foe), -Speed(Foe,All)",
+    "Ranged, Superior DMG(Cold/Smash), -Recharge (Foe), -Speed(Foe,All), -To-hit (Foe)",
+    "Resistance"
+  ]
+}

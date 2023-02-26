@@ -1,0 +1,22 @@
+{
+  "name": "Irradiated",
+  "display_name": "Irradiated",
+  "display_fullname": "Praetorians.Irradiated",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/IRRADIATED.POWERSETS",
+  "icon": "irradiated_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Irradiated.Irradiated"
+  ],
+  "power_display_names": [
+    "Irradiated"
+  ],
+  "power_short_helps": [
+    "DMG Allies"
+  ]
+}

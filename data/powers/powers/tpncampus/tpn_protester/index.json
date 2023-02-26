@@ -1,0 +1,46 @@
+{
+  "name": "TPN_Protester",
+  "display_name": "TPN_Protester",
+  "display_fullname": "TPNCampus.TPN Protester",
+  "display_help": "Citizens",
+  "display_short_help": "Citizens",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/TPN_PROTESTER.POWERSETS",
+  "icon": "tpn_protester_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.TPN_Protester.Grant_Protest",
+    "TPNCampus.TPN_Protester.Grant_North_Escape",
+    "TPNCampus.TPN_Protester.Grant_South_Escape",
+    "TPNCampus.TPN_Protester.Fleeing_North",
+    "TPNCampus.TPN_Protester.Fleeing_South",
+    "TPNCampus.TPN_Protester.Protesting",
+    "TPNCampus.TPN_Protester.Protection"
+  ],
+  "power_display_names": [
+    "Grant Protest",
+    "Grant North Escape",
+    "Grant South Escape",
+    "Fleeing North",
+    "Fleeing South",
+    "Protesting",
+    "Protection"
+  ],
+  "power_short_helps": [
+    "Converted Citizen",
+    "Converted Citizen",
+    "Converted Citizen",
+    "Converted Citizen",
+    "Converted Citizen",
+    "Converted Citizen",
+    "Script"
+  ]
+}

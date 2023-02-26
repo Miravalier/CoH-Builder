@@ -1,0 +1,34 @@
+{
+  "name": "Banished_Death_Witch_Doctor",
+  "display_name": "Banished_Death_Witch_Doctor",
+  "display_fullname": "BanishedPantheon.Banished Death Witch Doctor",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_DEATH_WITCH_DOCTOR.POWERSETS",
+  "icon": "banished_death_witch_doctor_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Death_Witch_Doctor.Knife",
+    "BanishedPantheon.Banished_Death_Witch_Doctor.Life_Drain",
+    "BanishedPantheon.Banished_Death_Witch_Doctor.Gloom",
+    "BanishedPantheon.Banished_Death_Witch_Doctor.Summon_Husk"
+  ],
+  "power_display_names": [
+    "Knife",
+    "Life Drain",
+    "Gloom",
+    "Summon Husk"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Low Dam",
+    "-ACC",
+    "High DoT(Negative), -ACC",
+    "Summon Husk"
+  ]
+}

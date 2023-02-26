@@ -1,0 +1,22 @@
+{
+  "name": "Axis_America_ChainGun",
+  "display_name": "Axis_America_ChainGun",
+  "display_fullname": "Portal.Axis America ChainGun",
+  "display_help": "Axis America",
+  "display_short_help": "Axis America",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/AXIS_AMERICA_CHAINGUN.POWERSETS",
+  "icon": "axis_america_chaingun_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Axis_America_ChainGun.Chain_Gun"
+  ],
+  "power_display_names": [
+    "Chain Gun"
+  ],
+  "power_short_helps": [
+    "Heavy DoT(Lethal)"
+  ]
+}

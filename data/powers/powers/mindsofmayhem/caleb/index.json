@@ -1,0 +1,42 @@
+{
+  "name": "Caleb",
+  "display_name": "Caleb",
+  "display_fullname": "MindsOfMayhem.Caleb",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/CALEB.POWERSETS",
+  "icon": "caleb_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Caleb.Life_Drain",
+    "MindsOfMayhem.Caleb.Gloom",
+    "MindsOfMayhem.Caleb.Tenebrous_Tentacles",
+    "MindsOfMayhem.Caleb.Dark_Regeneration",
+    "MindsOfMayhem.Caleb.Soul_Drain",
+    "MindsOfMayhem.Caleb.Blackstar"
+  ],
+  "power_display_names": [
+    "Life Drain",
+    "Gloom",
+    "Tenebrous Tentacles",
+    "Dark Regeneration",
+    "Soul Drain",
+    "Blackstar"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "High DoT(Negative/Cold), -Recharge, -SPD",
+    "DoT(Negative/Cold), Immobilize, -ACC",
+    "Ranged Negative, Self +HP",
+    "PBAoE Moderate DMG(Negative), Self +DMG, +ACC",
+    "Close (AoE), Extreme DMG(Negative/Cold), Foe -Speed"
+  ]
+}

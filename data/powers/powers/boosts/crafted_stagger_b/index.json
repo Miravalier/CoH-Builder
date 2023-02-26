@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Stagger_B",
+  "display_name": "Crafted Stagger B",
+  "display_fullname": "Boosts.Crafted Stagger B",
+  "display_help": "Enhances the Stun duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Stagger",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_STAGGER_B.POWERSETS",
+  "icon": "crafted_stagger_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Stagger_B.Crafted_Stagger_B"
+  ],
+  "power_display_names": [
+    "Stagger: Endurance/Stun"
+  ],
+  "power_short_helps": [
+    "+End, +Stun"
+  ]
+}

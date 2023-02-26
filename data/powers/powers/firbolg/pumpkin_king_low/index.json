@@ -1,0 +1,22 @@
+{
+  "name": "Pumpkin_King_Low",
+  "display_name": "Pumpkin King Low",
+  "display_fullname": "FirBolg.Pumpkin King Low",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FIRBOLG/PUMPKIN_KING_LOW.POWERSETS",
+  "icon": "pumpkin_king_low_set.png",
+  "requires": "",
+  "power_names": [
+    "FirBolg.Pumpkin_King_Low.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

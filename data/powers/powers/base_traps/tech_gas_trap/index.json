@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Gas_Trap",
+  "display_name": "Tech Gas Trap",
+  "display_fullname": "Base Traps.Tech Gas Trap",
+  "display_help": "Causes an accuracy debuff on those in the Area of Effect.",
+  "display_short_help": "Base Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_TRAPS/TECH_GAS_TRAP.POWERSETS",
+  "icon": "tech_gas_trap_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Traps.Tech_Gas_Trap.Gas_Trap"
+  ],
+  "power_display_names": [
+    "Gas Trap"
+  ],
+  "power_short_helps": [
+    "-ACC"
+  ]
+}

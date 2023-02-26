@@ -1,0 +1,38 @@
+{
+  "name": "Body_Mastery_Stalker",
+  "display_name": "Body Mastery",
+  "display_fullname": "Epic.Body Mastery",
+  "display_help": "You have Mastery over Body to increase your power and even hurl energy at your foes.",
+  "display_short_help": "Body Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/BODY_MASTERY_STALKER.POWERSETS",
+  "icon": "body_mastery_stalker_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Body_Mastery_Stalker.Conserve_Power",
+    "Epic.Body_Mastery_Stalker.Focused_Accuracy",
+    "Epic.Body_Mastery_Stalker.Laser_Beam_Eyes",
+    "Epic.Body_Mastery_Stalker.Physical_Perfection",
+    "Epic.Body_Mastery_Stalker.Energy_Torrent"
+  ],
+  "power_display_names": [
+    "Superior Conditioning",
+    "Focused Accuracy",
+    "Laser Beam Eyes",
+    "Physical Perfection",
+    "Energy Torrent"
+  ],
+  "power_short_helps": [
+    "Self +Endurance",
+    "Toggle: Self +To Hit, +ACC, +Perception, Res(DeBuff To Hit)",
+    "Ranged, High DMG(Energy), Foe -DEF",
+    "Auto: Self, +Regeneration, +Recovery",
+    "Ranged (Cone), Moderate DMG(Energy/Smash), Foe Knockback"
+  ]
+}

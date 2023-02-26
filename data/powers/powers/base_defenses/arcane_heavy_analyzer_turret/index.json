@@ -1,0 +1,22 @@
+{
+  "name": "Arcane_Heavy_Analyzer_Turret",
+  "display_name": "Arcane_Heavy_Analyzer_Turret",
+  "display_fullname": "Base Defenses.Arcane Heavy Analyzer Turret",
+  "display_help": "Base Defenses",
+  "display_short_help": "Base Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_DEFENSES/ARCANE_HEAVY_ANALYZER_TURRET.POWERSETS",
+  "icon": "arcane_heavy_analyzer_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Defenses.Arcane_Heavy_Analyzer_Turret.Analyzer"
+  ],
+  "power_display_names": [
+    "Analyzer"
+  ],
+  "power_short_helps": [
+    "Foe -DEF, -RES (All)"
+  ]
+}

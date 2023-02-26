@@ -1,0 +1,26 @@
+{
+  "name": "Keyes_Island_Watch",
+  "display_name": "Keyes_Island_Watch",
+  "display_fullname": "Objects.Keyes Island Watch",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/KEYES_ISLAND_WATCH.POWERSETS",
+  "icon": "keyes_island_watch_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Keyes_Island_Watch.Antimatter_Present",
+    "Objects.Keyes_Island_Watch.Drawdown_Hold"
+  ],
+  "power_display_names": [
+    "Antimatter Present",
+    "Drawdown Hold"
+  ],
+  "power_short_helps": [
+    "Antimatter Present!",
+    "Molecular Stop"
+  ]
+}

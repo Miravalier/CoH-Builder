@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Drain_Endurance",
+  "display_name": "Generic endurance",
+  "display_fullname": "Boosts.Generic Drain Endurance",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_DRAIN_ENDURANCE.POWERSETS",
+  "icon": "generic_drain_endurance_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Drain_Endurance.Generic_Drain_Endurance"
+  ],
+  "power_display_names": [
+    "Training: Endurance Modification"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

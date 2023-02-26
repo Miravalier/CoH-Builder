@@ -1,0 +1,114 @@
+{
+  "name": "Freakshow_Portal_Stunner",
+  "gender": "GENDER_MALE",
+  "group_name": "Freakshow",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 2,
+    "spawn_limit_mission": 2,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "Stunners undergo a very specific and unusual cybernetic enhancement, one that sets them apart from all other Freaks and does strange things to their brains. A network of electrical wiring and emitters allows the Stunners to immobilize even the strongest heroes for a short period of time.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.8,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Freakshow.Freakshow_Juicer_Melee.Shock_Punch",
+      "Freakshow.Freakshow_Stunner_Ranged.Charged_Bolts",
+      "Freakshow.Freakshow_Stunner_Ranged.Tesla_Cage",
+      "Freakshow.Freakshow_Juicer_Movement.Fly",
+      "Freakshow.Freakshow_Juicer_Movement.Fly_fx",
+      "Freakshow.Freakshow_Inherent_Defense.Dull_Pain",
+      "Freakshow.Freakshow_Inherent_Defense.Revive",
+      "Freakshow.Freakshow_Inherent_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Shock Punch",
+      "Charged Bolts",
+      "Tesla Cage",
+      "Fly",
+      "Fly fx",
+      "Dull Pain",
+      "Revive",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Juicer_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Stunner_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Juicer_Movement",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Inherent_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Stunner Freak"
+      ],
+      "costumes": [
+        "Frk_50",
+        "Frk_51",
+        "Frk_52",
+        "Frk_53",
+        "Frk_54"
+      ]
+    }
+  ]
+}

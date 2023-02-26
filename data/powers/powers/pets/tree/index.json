@@ -1,0 +1,26 @@
+{
+  "name": "Tree",
+  "display_name": "Tree",
+  "display_fullname": "Pets.Tree",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TREE.POWERSETS",
+  "icon": "tree_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Tree.Tree",
+    "Pets.Tree.Resistance"
+  ],
+  "power_display_names": [
+    "Tree",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Tree",
+    "Resistance"
+  ]
+}

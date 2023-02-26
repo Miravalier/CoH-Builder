@@ -1,0 +1,42 @@
+{
+  "name": "Diviner",
+  "display_name": "Diviner",
+  "display_fullname": "TalonsOfVengeance.Diviner",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/DIVINER.POWERSETS",
+  "icon": "diviner_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Diviner.Seasons_End",
+    "TalonsOfVengeance.Diviner.Winters_Hearth",
+    "TalonsOfVengeance.Diviner.Seasonal_Shift",
+    "TalonsOfVengeance.Diviner.Harvest_Blades",
+    "TalonsOfVengeance.Diviner.Autumnal_Equinox",
+    "TalonsOfVengeance.Diviner.Antipodal_Strike"
+  ],
+  "power_display_names": [
+    "Season's End",
+    "Winter's Hearth",
+    "Seasonal Shift",
+    "Harvest Blades",
+    "Autumnal Equinox",
+    "Antipodal Strike"
+  ],
+  "power_short_helps": [
+    "Melee Cone, High DMG (Fire/Cold), Knockdown(Foe)",
+    "Ranged, Moderate DMG(Cold, Minor DoT(Fire), Immobilize (Foe), -Speed(Foe,All), -Rech(Foe), -Fly(Foe)",
+    "PBAoE, Moderate DoT (Fire or Cold), Special",
+    "Melee, Moderate DMG(Fire/Cold), Minor DoT(Fire), -Speed(Foe, All), -Recharge(Foe)",
+    "Ranged, High DMG(Cold), Minor DoT (Fire), Hold(Foe), -Speed(Foe, All), -Rech(Foe)",
+    "Melee, Moderate DMG(Fire/Cold), -Speed(Foe,All), -Rech(Foe)"
+  ]
+}

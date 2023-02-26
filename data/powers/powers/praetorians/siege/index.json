@@ -1,0 +1,54 @@
+{
+  "name": "Siege",
+  "display_name": "Siege",
+  "display_fullname": "Praetorians.Siege",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/SIEGE.POWERSETS",
+  "icon": "siege_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Siege.Resistance",
+    "Praetorians.Siege.Fly",
+    "Praetorians.Siege.Fly_fx",
+    "Praetorians.Siege.Energy_Punch",
+    "Praetorians.Siege.Bone_Smasher",
+    "Praetorians.Siege.Whirling_Hands",
+    "Praetorians.Siege.Stun",
+    "Praetorians.Siege.Power_Blast",
+    "Praetorians.Siege.Explosive_Blast"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly",
+    "Fly fx",
+    "Energy Punch",
+    "Bone Smasher",
+    "Whirling Hands",
+    "Stun",
+    "Power Blast",
+    "Explosive Blast"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Special",
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback"
+  ]
+}

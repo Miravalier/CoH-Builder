@@ -1,0 +1,26 @@
+{
+  "name": "Marker_Phase",
+  "display_name": "Marker Phase",
+  "display_fullname": "GenericVillains.Marker Phase",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/MARKER_PHASE.POWERSETS",
+  "icon": "marker_phase_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Marker_Phase.Marker_Phase",
+    "GenericVillains.Marker_Phase.See_Marker_Phase"
+  ],
+  "power_display_names": [
+    "Marker Phase",
+    "See Marker Phase"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special"
+  ]
+}

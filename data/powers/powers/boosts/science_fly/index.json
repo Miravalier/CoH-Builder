@@ -1,0 +1,22 @@
+{
+  "name": "Science_Fly",
+  "display_name": "Science Fly",
+  "display_fullname": "Boosts.Science Fly",
+  "display_help": "Increases the flight speed of a flight power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_FLY.POWERSETS",
+  "icon": "science_fly_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Fly.Science_Fly"
+  ],
+  "power_display_names": [
+    "Ionic Bombardment (Fly)"
+  ],
+  "power_short_helps": [
+    "Enhances Flight Speed"
+  ]
+}

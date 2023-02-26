@@ -1,0 +1,121 @@
+{
+  "name": "Event_PraetorianInvasion_Antimatter_Android_Dismantler",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Dismantlers are occasionally called in when their plasma torches can be put to use to tear apart crumbling or collapsed buildings. These behemoth Androids are the heavy lifters, movers and builders of the Android labor units.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "PraetorianClockwork.Android_Dismantler_Ranged.Particle_Blast",
+      "PraetorianClockwork.Android_Dismantler_Ranged.Particle_Burst",
+      "PraetorianClockwork.Android_Dismantler_Ranged.Particle_Spray",
+      "PraetorianClockwork.Android_Dismantler_Ranged.Anti-Matter_Beam",
+      "PraetorianClockwork.Android_Boss_Regen.Rapid_Repair_Low_Boss",
+      "PraetorianClockwork.Android_Boss_Regen.Rapid_Repair_Mid_Boss",
+      "PraetorianClockwork.Android_Boss_Regen.Rapid_Repair_High_Boss",
+      "GenericVillains.Debt_Protection_NoFX.Debt_Protection_NoFX"
+    ],
+    "power_display_names": [
+      "Particle Blast",
+      "Particle Burst",
+      "Particle Spray",
+      "Anti-Matter Beam",
+      "Fast Repair",
+      "Fast Repair",
+      "Fast Repair",
+      "Debt Protection"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Dismantler_Ranged",
+        "power": "Particle_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Dismantler_Ranged",
+        "power": "Particle_Burst",
+        "level": 0
+      },
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Dismantler_Ranged",
+        "power": "Particle_Spray",
+        "level": 0
+      },
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Dismantler_Ranged",
+        "power": "Anti-Matter_Beam",
+        "level": 0
+      },
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Boss_Regen",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Debt_Protection_NoFX",
+        "power": "Debt_Protection_NoFX",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Wrecker Bot"
+      ],
+      "costumes": [
+        "Clockwork_Antimatter_Boss_01",
+        "Clockwork_Antimatter_Boss_02"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "name": "Pacing_of_the_Turtle",
+  "display_name": "Pacing of the Turtle",
+  "group_name": "Slow Movement",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Slow"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Pacing_of_the_Turtle_A.Crafted_Pacing_of_the_Turtle_A",
+      "Boosts.Attuned_Pacing_of_the_Turtle_A.Attuned_Pacing_of_the_Turtle_A"
+    ],
+    [
+      "Boosts.Crafted_Pacing_of_the_Turtle_B.Crafted_Pacing_of_the_Turtle_B",
+      "Boosts.Attuned_Pacing_of_the_Turtle_B.Attuned_Pacing_of_the_Turtle_B"
+    ],
+    [
+      "Boosts.Crafted_Pacing_of_the_Turtle_C.Crafted_Pacing_of_the_Turtle_C",
+      "Boosts.Attuned_Pacing_of_the_Turtle_C.Attuned_Pacing_of_the_Turtle_C"
+    ],
+    [
+      "Boosts.Crafted_Pacing_of_the_Turtle_D.Crafted_Pacing_of_the_Turtle_D",
+      "Boosts.Attuned_Pacing_of_the_Turtle_D.Attuned_Pacing_of_the_Turtle_D"
+    ],
+    [
+      "Boosts.Crafted_Pacing_of_the_Turtle_E.Crafted_Pacing_of_the_Turtle_E",
+      "Boosts.Attuned_Pacing_of_the_Turtle_E.Attuned_Pacing_of_the_Turtle_E"
+    ],
+    [
+      "Boosts.Crafted_Pacing_of_the_Turtle_F.Crafted_Pacing_of_the_Turtle_F",
+      "Boosts.Attuned_Pacing_of_the_Turtle_F.Attuned_Pacing_of_the_Turtle_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_slow_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_2",
+          "Small Toxic, Psionic and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_slow_4",
+          "Large Improved Slow Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_4",
+          "Large Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_4",
+          "Large Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_4",
+          "Large Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png",
+      "e_icon_pacingoftheturtle.png"
+    ],
+    "boosts": [
+      [
+        "Pacing of the Turtle: Accuracy/Slow",
+        "Attuned Pacing of the Turtle: Accuracy/Slow"
+      ],
+      [
+        "Pacing of the Turtle: Damage/Slow",
+        "Attuned Pacing of the Turtle: Damage/Slow"
+      ],
+      [
+        "Pacing of the Turtle: Accuracy/Endurance",
+        "Attuned Pacing of the Turtle: Accuracy/Endurance"
+      ],
+      [
+        "Pacing of the Turtle: Range/Slow",
+        "Attuned Pacing of the Turtle: Range/Slow"
+      ],
+      [
+        "Pacing of the Turtle: Endurance/Recharge/Slow",
+        "Attuned Pacing of the Turtle: Endurance/Recharge/Slow"
+      ],
+      [
+        "Pacing of the Turtle: Chance for Recharge Debuff",
+        "Attuned Pacing of the Turtle: Chance for Recharge Debuff"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_pacing_of_the_turtle_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_pacing_of_the_turtle_a.attuned_pacing_of_the_turtle_a",
+          "Pacing of the Turtle: Accuracy/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Pacing of the Turtle: Accuracy/Slow",
+        "aspects": [
+          "Accuracy",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "attuned_pacing_of_the_turtle_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Pacing of the Turtle: Accuracy/Slow",
+        "aspects": [
+          "Accuracy",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "crafted_pacing_of_the_turtle_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_pacing_of_the_turtle_b.attuned_pacing_of_the_turtle_b",
+          "Pacing of the Turtle: Damage/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Pacing of the Turtle: Damage/Slow",
+        "aspects": [
+          "Damage",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "attuned_pacing_of_the_turtle_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Pacing of the Turtle: Damage/Slow",
+        "aspects": [
+          "Damage",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "crafted_pacing_of_the_turtle_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_pacing_of_the_turtle_c.attuned_pacing_of_the_turtle_c",
+          "Pacing of the Turtle: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Pacing of the Turtle: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "attuned_pacing_of_the_turtle_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Pacing of the Turtle: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "crafted_pacing_of_the_turtle_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_pacing_of_the_turtle_d.attuned_pacing_of_the_turtle_d",
+          "Pacing of the Turtle: Range/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Pacing of the Turtle: Range/Slow",
+        "aspects": [
+          "Range",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "attuned_pacing_of_the_turtle_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Pacing of the Turtle: Range/Slow",
+        "aspects": [
+          "Range",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "crafted_pacing_of_the_turtle_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_pacing_of_the_turtle_e.attuned_pacing_of_the_turtle_e",
+          "Pacing of the Turtle: Endurance/Recharge/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Pacing of the Turtle: Endurance/Recharge/Slow",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "attuned_pacing_of_the_turtle_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Pacing of the Turtle: Endurance/Recharge/Slow",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "crafted_pacing_of_the_turtle_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_pacing_of_the_turtle_f.attuned_pacing_of_the_turtle_f",
+          "Pacing of the Turtle: Chance for Recharge Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Pacing of the Turtle: Chance for Recharge Debuff",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      },
+      "attuned_pacing_of_the_turtle_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Pacing of the Turtle: Chance for Recharge Debuff",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "pacing_of_the_turtle",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_pacingoftheturtle.png"
+      }
+    }
+  }
+}

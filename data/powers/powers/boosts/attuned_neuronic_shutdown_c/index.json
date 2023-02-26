@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Neuronic_Shutdown_C",
+  "display_name": "Attuned Neuronic Shutdown C",
+  "display_fullname": "Boosts.Attuned Neuronic Shutdown C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Neuronic Shutdown",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NEURONIC_SHUTDOWN_C.POWERSETS",
+  "icon": "attuned_neuronic_shutdown_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Neuronic_Shutdown_C.Attuned_Neuronic_Shutdown_C"
+  ],
+  "power_display_names": [
+    "Neuronic Shutdown: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tag": "ShieldFX",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Shield",
+      "peacebringer_defensive.luminous_aura.quantum_shield"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Shining Shield",
+      "peacebringer_defensive.luminous_aura.shining_shield"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Thermal Shield",
+      "peacebringer_defensive.luminous_aura.thermal_shield"
+    ]
+  ],
+  "affects": []
+}

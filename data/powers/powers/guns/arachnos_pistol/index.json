@@ -1,0 +1,22 @@
+{
+  "name": "Arachnos_Pistol",
+  "display_name": "Arachnos_Pistol",
+  "display_fullname": "Guns.Arachnos Pistol",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/ARACHNOS_PISTOL.POWERSETS",
+  "icon": "arachnos_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Arachnos_Pistol.Arachnos_Pistol"
+  ],
+  "power_display_names": [
+    "Arachnos Pistol"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam"
+  ]
+}

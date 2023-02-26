@@ -1,0 +1,26 @@
+{
+  "name": "Repairman_Repair",
+  "display_name": "Repairman_Repair",
+  "display_fullname": "V Arachnos.Repairman Repair",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/REPAIRMAN_REPAIR.POWERSETS",
+  "icon": "repairman_repair_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Repairman_Repair.Repair",
+    "V_Arachnos.Repairman_Repair.Construct"
+  ],
+  "power_display_names": [
+    "Repair",
+    "Construct"
+  ],
+  "power_short_helps": [
+    "Repair Tower",
+    "Repair Tower"
+  ]
+}

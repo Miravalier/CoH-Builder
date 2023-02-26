@@ -1,0 +1,30 @@
+{
+  "name": "Contaminating_Burr",
+  "display_name": "Contaminating_Burr",
+  "display_fullname": "DevouringEarthSeed.Contaminating Burr",
+  "display_help": "Contaminating Seedling",
+  "display_short_help": "Contaminating Seedling",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/CONTAMINATING_BURR.POWERSETS",
+  "icon": "contaminating_burr_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Contaminating_Burr.Hypnotic_Thorn_Tell",
+    "DevouringEarthSeed.Contaminating_Burr.Hypnotic_Thorn_Blast",
+    "DevouringEarthSeed.Contaminating_Burr.The_Seeds_Might"
+  ],
+  "power_display_names": [
+    "Hypnotic Thorn Emanation",
+    "Hypnotic Thorn Blast",
+    "The Seed's Might"
+  ],
+  "power_short_helps": [
+    "Target of Toxic Shock",
+    "PBAoE, Extreme DMG(Toxic/Psionic), -DMG, -ToHit, -Range",
+    "+Drain, +Slow"
+  ]
+}

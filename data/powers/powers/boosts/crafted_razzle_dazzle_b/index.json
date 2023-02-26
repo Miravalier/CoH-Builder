@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Razzle_Dazzle_B",
+  "display_name": "Crafted Razzle Dazzle B",
+  "display_fullname": "Boosts.Crafted Razzle Dazzle B",
+  "display_help": "Enhances the Stun duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Razzle Dazzle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RAZZLE_DAZZLE_B.POWERSETS",
+  "icon": "crafted_razzle_dazzle_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Razzle_Dazzle_B.Crafted_Razzle_Dazzle_B"
+  ],
+  "power_display_names": [
+    "Razzle Dazzle: Endurance/Stun"
+  ],
+  "power_short_helps": [
+    "+End, +Stun"
+  ]
+}

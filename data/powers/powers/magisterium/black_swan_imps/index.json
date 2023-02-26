@@ -1,0 +1,26 @@
+{
+  "name": "Black_Swan_Imps",
+  "display_name": "Black Swan",
+  "display_fullname": "Magisterium.Black Swan",
+  "display_help": "Black Swan",
+  "display_short_help": "Black Swan",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/BLACK_SWAN_IMPS.POWERSETS",
+  "icon": "black_swan_imps_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Black_Swan_Imps.Stained_Soul",
+    "Magisterium.Black_Swan_Imps.Dark_Heart"
+  ],
+  "power_display_names": [
+    "Stained Soul",
+    "Dark Heart"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special"
+  ]
+}

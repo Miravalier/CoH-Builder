@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Triage_A",
+  "display_name": "Crafted Triage A",
+  "display_fullname": "Boosts.Crafted Triage A",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Triage",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_TRIAGE_A.POWERSETS",
+  "icon": "crafted_triage_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Triage_A.Crafted_Triage_A"
+  ],
+  "power_display_names": [
+    "Triage: Healing/Absorb/Endurance"
+  ],
+  "power_short_helps": [
+    "+Heal, +Absorb, -End Cost"
+  ]
+}

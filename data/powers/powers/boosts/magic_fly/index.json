@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Fly",
+  "display_name": "Magic Fly",
+  "display_fullname": "Boosts.Magic Fly",
+  "display_help": "Increases the flight speed of a flight power.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_FLY.POWERSETS",
+  "icon": "magic_fly_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Fly.Magic_Fly"
+  ],
+  "power_display_names": [
+    "Swiftness of Joule (Fly)"
+  ],
+  "power_short_helps": [
+    "Enhances Flight Speed"
+  ]
+}

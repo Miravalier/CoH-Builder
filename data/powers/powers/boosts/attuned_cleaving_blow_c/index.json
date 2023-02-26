@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cleaving_Blow_C",
+  "display_name": "Attuned Cleaving Blow C",
+  "display_fullname": "Boosts.Attuned Cleaving Blow C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Cleaving Blow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CLEAVING_BLOW_C.POWERSETS",
+  "icon": "attuned_cleaving_blow_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cleaving_Blow_C.Attuned_Cleaving_Blow_C"
+  ],
+  "power_display_names": [
+    "Cleaving Blow: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

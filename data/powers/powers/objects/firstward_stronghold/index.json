@@ -1,0 +1,22 @@
+{
+  "name": "FirstWard_Stronghold",
+  "display_name": "FirstWard Stronghold",
+  "display_fullname": "Objects.FirstWard Stronghold",
+  "display_help": "Prisoners",
+  "display_short_help": "Prisoners",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/FIRSTWARD_STRONGHOLD.POWERSETS",
+  "icon": "firstward_stronghold_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.FirstWard_Stronghold.The_Carnivals_Protection"
+  ],
+  "power_display_names": [
+    "The Carnival's Protection"
+  ],
+  "power_short_helps": [
+    "Kill Longbow"
+  ]
+}

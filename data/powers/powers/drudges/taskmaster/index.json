@@ -1,0 +1,42 @@
+{
+  "name": "Taskmaster",
+  "display_name": "Taskmaster",
+  "display_fullname": "Drudges.Taskmaster",
+  "display_help": "Drudges",
+  "display_short_help": "Drudges",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/TASKMASTER.POWERSETS",
+  "icon": "taskmaster_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.Taskmaster.Dawns_Light",
+    "Drudges.Taskmaster.Light_the_Path",
+    "Drudges.Taskmaster.Trap_Soul",
+    "Drudges.Taskmaster.Elucidate",
+    "Drudges.Taskmaster.Radiance",
+    "Drudges.Taskmaster.Summon_Lantern"
+  ],
+  "power_display_names": [
+    "Dusk's Embrace",
+    "Light the Path",
+    "Trap Soul",
+    "Elucidate",
+    "Radiance",
+    "Summon Lantern"
+  ],
+  "power_short_helps": [
+    "PBAoE, High DMG (Energy), High DoT (Negative Energy), -DEF(Foe, All), Chance for Knockdown",
+    "Moving AoE, Moderate DoT (Fire)",
+    "Ranged, High DMG (Negative Energy), Hold",
+    "Ranged, Superior DMG(Psionic), Confuse(Foe)",
+    "Ranged (Chain), Minor DMG(Energy), Knockdown (Foe), -End(Foe), -Rec(Foe)",
+    "Self, Summon"
+  ]
+}

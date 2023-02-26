@@ -1,0 +1,22 @@
+{
+  "name": "Tough",
+  "display_name": "Tough",
+  "display_fullname": "Objects.Tough",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/TOUGH.POWERSETS",
+  "icon": "tough_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Tough.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Inherent"
+  ]
+}

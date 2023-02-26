@@ -1,0 +1,132 @@
+{
+  "name": "Freaklok_IDX_Blinker",
+  "gender": "GENDER_MALE",
+  "group_name": "Freaklok",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "SkyRaiders_Porter",
+    "character_class_name": "boss_grunt",
+    "description": "Members of the Freakshow's IDX faction were some of the first to assist in the Freaklok's start-up, knowing the path forward to Bile was inevitable and his patronage was all but assured. They are efficient and thorough collectors, and erasers, of information under Bile's leadership. The 'Blinker' is proficient in the skillset of data collection.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Freaklok.IDX.Cloak",
+      "Freaklok.Movement.Swift",
+      "Freaklok.Movement.Teleport",
+      "Freaklok.IDX.Pistols",
+      "Freaklok.IDX.Dual_Wield",
+      "Freaklok.IDX.Empty_Clips",
+      "Freaklok.IDX.TPFoe",
+      "Freaklok.IDX.Trip_Mine"
+    ],
+    "power_display_names": [
+      "Cloaking Device",
+      "Swift",
+      "Teleport",
+      "Pistols",
+      "Dual Wield",
+      "Empty Clips",
+      "Teleport Foe",
+      "Trip Mine"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Freaklok",
+        "power_set": "IDX",
+        "power": "Cloak",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Movement",
+        "power": "Swift",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Movement",
+        "power": "Teleport",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "IDX",
+        "power": "Pistols",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "IDX",
+        "power": "Dual_Wield",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "IDX",
+        "power": "Empty_Clips",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "IDX",
+        "power": "TPFoe",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "IDX",
+        "power": "Trip_Mine",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "IDX Blinker"
+      ],
+      "costumes": [
+        "FRKLK_IDX_Blinker"
+      ]
+    }
+  ]
+}

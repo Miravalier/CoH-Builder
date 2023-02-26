@@ -1,0 +1,22 @@
+{
+  "name": "Synthetic_Hamidon_DeBuff_Endurance_Discount",
+  "display_name": "Synthetic Hamidon DeBuff Endurance Discount",
+  "display_fullname": "Boosts.Synthetic Hamidon DeBuff Endurance Discount",
+  "display_help": "Enhances the effectiveness of accuracy and defense debuffs and reduces the endurance cost of a power.",
+  "display_short_help": "Hamidon (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SYNTHETIC_HAMIDON_DEBUFF_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "synthetic_hamidon_debuff_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Synthetic_Hamidon_DeBuff_Endurance_Discount.Synthetic_Hamidon_DeBuff_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "Synthetic Enzyme Exposure (End/Def Debuff/ToHit Debuff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense DeBuffs and Reduces Endurance Cost"
+  ]
+}

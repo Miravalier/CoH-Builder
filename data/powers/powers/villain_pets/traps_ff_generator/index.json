@@ -1,0 +1,30 @@
+{
+  "name": "Traps_FF_Generator",
+  "display_name": "Force Field Generator",
+  "display_fullname": "Villain Pets.Force Field Generator",
+  "display_help": "Traps",
+  "display_short_help": "Traps",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/TRAPS_FF_GENERATOR.POWERSETS",
+  "icon": "traps_ff_generator_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Traps_FF_Generator.Dispersion_Bubble",
+    "Villain_Pets.Traps_FF_Generator.Fly",
+    "Villain_Pets.Traps_FF_Generator.Resistance"
+  ],
+  "power_display_names": [
+    "Dispersion Bubble",
+    "Fly",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "+DEF(All), +Res(Hold, Immobilize, Disorient)",
+    "Movement",
+    "Resistance"
+  ]
+}

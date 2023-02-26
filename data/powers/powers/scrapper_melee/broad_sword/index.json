@@ -1,0 +1,54 @@
+{
+  "name": "Broad_Sword",
+  "display_name": "Broad Sword",
+  "display_fullname": "Scrapper Melee.Broad Sword",
+  "display_help": "Wield a Broad Sword and master a variety of powerful Lethal attacks. Slower than a Katana, the Broad Sword's weight strikes with more force and damage. The Broadsword can reduce an enemy's Defense, allowing other attacks to hit more reliably. The Broad Sword is a powerful melee weapon that has a bonus to Accuracy. Like all scrapper powers, all Broad Sword attacks can sometimes land a critical hit for double damage.",
+  "display_short_help": "Broad Sword",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/SCRAPPER_MELEE/BROAD_SWORD.POWERSETS",
+  "icon": "broad_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "Scrapper_Melee.Broad_Sword.Hack",
+    "Scrapper_Melee.Broad_Sword.Slash",
+    "Scrapper_Melee.Broad_Sword.Slice",
+    "Scrapper_Melee.Broad_Sword.Build_Up",
+    "Scrapper_Melee.Broad_Sword.Parry",
+    "Scrapper_Melee.Broad_Sword.Taunt",
+    "Scrapper_Melee.Broad_Sword.Whirling_Sword",
+    "Scrapper_Melee.Broad_Sword.Disembowel",
+    "Scrapper_Melee.Broad_Sword.Head_Splitter"
+  ],
+  "power_display_names": [
+    "Hack",
+    "Slash",
+    "Slice",
+    "Build Up",
+    "Parry",
+    "Confront",
+    "Whirling Sword",
+    "Disembowel",
+    "Head Splitter"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), Foe -DEF",
+    "Melee, Light DMG(Lethal), Foe -DEF",
+    "Melee (Cone), Moderate DMG(Lethal), Foe -DEF",
+    "Self +DMG, +To Hit",
+    "Melee, Light DMG(Lethal), Self +DEF(Melee,Lethal)",
+    "Ranged, Foe Taunt",
+    "PBAoE Melee, Moderate DMG(Lethal), Foe -Def",
+    "Melee, High DMG(Lethal), Knockup, Foe -DEF",
+    "Melee, Superior DMG(Lethal), Foe Knockback, -DEF"
+  ]
+}

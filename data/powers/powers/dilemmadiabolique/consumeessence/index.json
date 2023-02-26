@@ -1,0 +1,22 @@
+{
+  "name": "ConsumeEssence",
+  "display_name": "ConsumeEssence",
+  "display_fullname": "DilemmaDiabolique.ConsumeEssence",
+  "display_help": "Diabolique",
+  "display_short_help": "Diabolique",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/CONSUMEESSENCE.POWERSETS",
+  "icon": "consumeessence_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.ConsumeEssence.Consume"
+  ],
+  "power_display_names": [
+    "Consume"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

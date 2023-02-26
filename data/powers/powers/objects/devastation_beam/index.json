@@ -1,0 +1,34 @@
+{
+  "name": "Devastation_Beam",
+  "display_name": "Devastation_Beam",
+  "display_fullname": "Objects.Devastation Beam",
+  "display_help": "Obliteration Beam",
+  "display_short_help": "Obliteration Beam",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/DEVASTATION_BEAM.POWERSETS",
+  "icon": "devastation_beam_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Devastation_Beam.Graphic_Entity",
+    "Objects.Devastation_Beam.Attractor",
+    "Objects.Devastation_Beam.Mass_Driver",
+    "Objects.Devastation_Beam.After_Shock"
+  ],
+  "power_display_names": [
+    "Graphic Entity",
+    "Attractor",
+    "Mass Driver",
+    "After Shock"
+  ],
+  "power_short_helps": [
+    "Obliteration Beam",
+    "Stasis Field",
+    "Mass Driver",
+    "After Shock"
+  ]
+}

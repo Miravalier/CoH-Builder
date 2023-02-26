@@ -1,0 +1,62 @@
+{
+  "name": "Hellfire_Gargoyle",
+  "display_name": "Hellfire Gargoyle",
+  "display_fullname": "Mission Maker Pets.Hellfire Gargoyle",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    5,
+    31,
+    31,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/HELLFIRE_GARGOYLE.POWERSETS",
+  "icon": "hellfire_gargoyle_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Resistance",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Claw_Rake",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Claw_Slash",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Corruption",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Super_Leap",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Breath_of_Hellfire",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Hellfire_Aura",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Enchant_Demon",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Hellfire_Smash",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Hellfire_Burst",
+    "Mission_Maker_Pets.Hellfire_Gargoyle.Abyssal_Empowerment"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Claw Rake",
+    "Claw Slash",
+    "Corruption",
+    "Super Leap",
+    "Breath of Hellfire",
+    "Hellfire Aura",
+    "Enchant Demon",
+    "Hellfire Smash",
+    "Hellfire Burst",
+    "Abyssal Empowerment"
+  ],
+  "power_short_helps": [
+    "Auto Res Placate, Disorient, Sleep, Smashing, Lethal, Fire, Cold, Toxic",
+    "Melee, Minor DMG(Lethal/Toxic)",
+    "Melee, Moderate DMG(Lethal/Toxic), Foe Knockdown",
+    "Ranged, Minor DMG(Fire), Foe Minor DoT (Toxic), -Res",
+    "Self Leap",
+    "Close (Cone) Moderate DoT(Toxic), Foe -Res",
+    "Auto: PBAoE, Minor DoT(Toxic)",
+    "Enchant Demon",
+    "Melee, High DMG(Smash/Toxic) Foe Knockdown",
+    "PBAoE, Moderate DoT(Toxic)",
+    "Empower"
+  ]
+}

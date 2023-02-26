@@ -1,0 +1,22 @@
+{
+  "name": "Trick_Shot_Jump1",
+  "display_name": "Trick Shot Jump 1",
+  "display_fullname": "Villain Pets.Trick Shot Jump 1",
+  "display_help": "Trick Shot Jump 1",
+  "display_short_help": "Trick Shot Jump 1",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/TRICK_SHOT_JUMP1.POWERSETS",
+  "icon": "trick_shot_jump1_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Trick_Shot_Jump1.Bounce"
+  ],
+  "power_display_names": [
+    "Bounce"
+  ],
+  "power_short_helps": [
+    "Bounced"
+  ]
+}

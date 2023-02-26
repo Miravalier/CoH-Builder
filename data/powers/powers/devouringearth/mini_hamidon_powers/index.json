@@ -1,0 +1,34 @@
+{
+  "name": "Mini_Hamidon_Powers",
+  "display_name": "Mini Hamidon Powers",
+  "display_fullname": "DevouringEarth.Mini Hamidon Powers",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/MINI_HAMIDON_POWERS.POWERSETS",
+  "icon": "mini_hamidon_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Mini_Hamidon_Powers.Electrolytic_Bolt",
+    "DevouringEarth.Mini_Hamidon_Powers.Resistance",
+    "DevouringEarth.Mini_Hamidon_Powers.Decay",
+    "DevouringEarth.Mini_Hamidon_Powers.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Electrolytic Bolt",
+    "Resistance",
+    "Decay",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy)",
+    "Auto Res Lethal, Smash",
+    "Auto Res Lethal, Smash",
+    "Self Destruct"
+  ]
+}

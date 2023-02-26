@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Interrupt",
+  "display_name": "Magic Interrupt",
+  "display_fullname": "Boosts.Magic Interrupt",
+  "display_help": "Decreases the interrupt time of powers that can be interrupted.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_INTERRUPT.POWERSETS",
+  "icon": "magic_interrupt_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Interrupt.Magic_Interrupt"
+  ],
+  "power_display_names": [
+    "Skip of Joule (Interrupt)"
+  ],
+  "power_short_helps": [
+    "Decreases Interrupt Time"
+  ]
+}

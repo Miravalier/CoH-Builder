@@ -1,0 +1,26 @@
+{
+  "name": "Hero_Flight",
+  "display_name": "Hero_Flight",
+  "display_fullname": "V GenericHeroes.Hero Flight",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/HERO_FLIGHT.POWERSETS",
+  "icon": "hero_flight_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Hero_Flight.Fly",
+    "V_GenericHeroes.Hero_Flight.Fly_fx"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special"
+  ]
+}

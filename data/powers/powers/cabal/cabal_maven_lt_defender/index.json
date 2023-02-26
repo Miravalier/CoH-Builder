@@ -1,0 +1,26 @@
+{
+  "name": "Cabal_Maven_Lt_Defender",
+  "display_name": "Cabal_Maven_Lt_Defender",
+  "display_fullname": "Cabal.Cabal Maven Lt Defender",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_MAVEN_LT_DEFENDER.POWERSETS",
+  "icon": "cabal_maven_lt_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Maven_Lt_Defender.Lightning_Bolt",
+    "Cabal.Cabal_Maven_Lt_Defender.Snow_Storm"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Snow Storm"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "-Speed, -Recharge"
+  ]
+}

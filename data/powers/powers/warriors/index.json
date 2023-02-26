@@ -1,0 +1,41 @@
+{
+  "name": "Warriors",
+  "display_name": "Warriors",
+  "source_file": "DEFS/POWERS/WARRIORS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "warriors.agamemnon",
+    "warriors.heracles",
+    "warriors.warrior_boss_ranged",
+    "warriors.warrior_bow",
+    "warriors.warrior_hand_crossbow",
+    "warriors.warrior_lt_boss_battleaxe_melee",
+    "warriors.warrior_lt_boss_defense",
+    "warriors.warrior_lt_boss_mace_melee",
+    "warriors.warrior_lt_boss_sword_melee",
+    "warriors.warrior_minion_axe",
+    "warriors.warrior_minion_boxing",
+    "warriors.warrior_minion_brawl",
+    "warriors.warrior_minion_mace",
+    "warriors.warrior_minion_sword"
+  ],
+  "powerset_display_names": [
+    "Agamemnon",
+    "Heracles",
+    "Warrior_Boss_Ranged",
+    "Warrior_Bow",
+    "Warrior_Hand_Crossbow",
+    "Warrior_Lt_Boss_BattleAxe_Melee",
+    "Warrior_Lt_Boss_Defense",
+    "Warrior_Lt_Boss_Mace_Melee",
+    "Warrior_Lt_Boss_Sword_Melee",
+    "Warrior_Minion_Axe",
+    "Warrior_Minion_Boxing",
+    "Warrior_Minion_Brawl",
+    "Warrior_Minion_Mace",
+    "Warrior_Minion_Sword"
+  ],
+  "powersets_with_requirements": []
+}

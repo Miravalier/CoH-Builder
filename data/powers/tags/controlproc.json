@@ -1,0 +1,67 @@
+{
+  "tag": "ControlProc",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_1"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_2"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_3"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_4"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_5"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_6"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_7"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_8"
+    ],
+    [
+      "Incarnate.Hybrid.Waylay",
+      "incarnate.hybrid_silent.containment_9"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Hybrid.Control Core Embodiment",
+      "incarnate.hybrid.control_core_embodiment"
+    ],
+    [
+      "Incarnate.Hybrid.Control Core Genome",
+      "incarnate.hybrid.control_core_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Control Genome",
+      "incarnate.hybrid.control_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Control Partial Core Graft",
+      "incarnate.hybrid.control_partial_core_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Control Total Core Graft",
+      "incarnate.hybrid.control_total_core_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Doublehit Grant",
+      "incarnate.hybrid_silent.doublehit_grant"
+    ]
+  ]
+}

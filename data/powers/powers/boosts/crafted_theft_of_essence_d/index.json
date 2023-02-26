@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Theft_of_Essence_D",
+  "display_name": "Crafted Theft of Essence D",
+  "display_fullname": "Boosts.Crafted Theft of Essence D",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, reduces the endurance cost by {Boost.Attrib.Endurance.Scale}% , Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}%. NOTE: This enhancement can only be slotted into healing powers that require a To Hit check.",
+  "display_short_help": "Set: Theft of Essence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_THEFT_OF_ESSENCE_D.POWERSETS",
+  "icon": "crafted_theft_of_essence_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Theft_of_Essence_D.Crafted_Theft_of_Essence_D"
+  ],
+  "power_display_names": [
+    "Theft of Essence: Accuracy/Endurance/Healing/Absorb"
+  ],
+  "power_short_helps": [
+    "+Acc, -End Cost, +Heal, +Absorb"
+  ]
+}

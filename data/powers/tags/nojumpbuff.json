@@ -1,0 +1,14 @@
+{
+  "tag": "NoJumpBuff",
+  "bears": [
+    [
+      "Temporary Powers.Temporary Powers.Disable Travel",
+      "temporary_powers.temporary_powers.disable_travel"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Disable Travel TF",
+      "temporary_powers.temporary_powers.disable_travel_tf"
+    ]
+  ],
+  "affects": []
+}

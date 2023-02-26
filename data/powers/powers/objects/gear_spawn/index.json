@@ -1,0 +1,22 @@
+{
+  "name": "Gear_Spawn",
+  "display_name": "Gears",
+  "display_fullname": "Objects.Gears",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/GEAR_SPAWN.POWERSETS",
+  "icon": "gear_spawn_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Gear_Spawn.Gear_Factory"
+  ],
+  "power_display_names": [
+    "Gear Factory"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

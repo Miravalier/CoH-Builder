@@ -1,0 +1,271 @@
+{
+  "name": "Achilles_Heel",
+  "display_name": "Achilles' Heel",
+  "group_name": "Defense Debuff",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Defense Debuff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Achilles_Heel_A.Crafted_Achilles_Heel_A",
+      "Boosts.Attuned_Achilles_Heel_A.Attuned_Achilles_Heel_A"
+    ],
+    [
+      "Boosts.Crafted_Achilles_Heel_B.Crafted_Achilles_Heel_B",
+      "Boosts.Attuned_Achilles_Heel_B.Attuned_Achilles_Heel_B"
+    ],
+    [
+      "Boosts.Crafted_Achilles_Heel_C.Crafted_Achilles_Heel_C",
+      "Boosts.Attuned_Achilles_Heel_C.Attuned_Achilles_Heel_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 20,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_2",
+          "Small Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_2",
+          "Small Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_achillesheel.png",
+      "e_icon_achillesheel.png",
+      "e_icon_achillesheel.png",
+      "e_icon_achillesheel.png",
+      "e_icon_achillesheel.png",
+      "e_icon_achillesheel.png"
+    ],
+    "boosts": [
+      [
+        "Achilles' Heel: BaseDefense Debuff",
+        "Attuned Achilles' Heel: BaseDefense Debuff"
+      ],
+      [
+        "Achilles' Heel: BaseDefense Debuff/Recharge",
+        "Attuned Achilles' Heel: BaseDefense Debuff/Recharge"
+      ],
+      [
+        "Achilles' Heel: Chance for Resistance Debuff",
+        "Attuned Achilles' Heel: Chance for Resistance Debuff"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_achilles_heel_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_achilles_heel_a.attuned_achilles_heel_a",
+          "Achilles' Heel: Defense Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Achilles' Heel: BaseDefense Debuff",
+        "aspects": [
+          "BaseDefense Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "achilles_heel",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_achillesheel.png"
+      },
+      "attuned_achilles_heel_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Achilles' Heel: BaseDefense Debuff",
+        "aspects": [
+          "BaseDefense Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "achilles_heel",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_achillesheel.png"
+      },
+      "crafted_achilles_heel_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_achilles_heel_b.attuned_achilles_heel_b",
+          "Achilles' Heel: Defense Debuff/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Achilles' Heel: BaseDefense Debuff/Recharge",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "achilles_heel",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_achillesheel.png"
+      },
+      "attuned_achilles_heel_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Achilles' Heel: BaseDefense Debuff/Recharge",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "achilles_heel",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_achillesheel.png"
+      },
+      "crafted_achilles_heel_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_achilles_heel_c.attuned_achilles_heel_c",
+          "Achilles' Heel: Chance for Resistance Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Achilles' Heel: Chance for Resistance Debuff",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "achilles_heel",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_achillesheel.png"
+      },
+      "attuned_achilles_heel_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Achilles' Heel: Chance for Resistance Debuff",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "achilles_heel",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_achillesheel.png"
+      }
+    }
+  }
+}

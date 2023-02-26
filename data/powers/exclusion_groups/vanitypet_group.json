@@ -1,0 +1,117 @@
+{
+  "group": "VanityPet_Group",
+  "powers": [
+    [
+      "Prestige.Vanity Pets.Dismiss Pets",
+      "prestige.vanity_pets.reward_pets_off"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Black Wolf",
+      "prestige.vanity_pets.prestige_blackwolf_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Cherub",
+      "prestige.vanity_pets.prestige_cherub_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Clockwork Sprocket",
+      "prestige.vanity_pets.prestige_clockwork_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Coyote",
+      "prestige.vanity_pets.prestige_coyote_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Demon",
+      "prestige.vanity_pets.prestige_demon_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: German Shepherd",
+      "prestige.vanity_pets.prestige_wolf_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Hamidon Bud",
+      "prestige.vanity_pets.prestige_frost_knight"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Image of the Well",
+      "prestige.vanity_pets.prestige_wellemental_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Leprechaun",
+      "prestige.vanity_pets.prestige_leprechaun_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Liger",
+      "prestige.vanity_pets.prestige_cat_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Lion",
+      "prestige.vanity_pets.prestige_lion_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Lioness",
+      "prestige.vanity_pets.prestige_lioness_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Mekman",
+      "prestige.vanity_pets.prestige_mekman_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Mini Hero 1",
+      "prestige.vanity_pets.reward_minipet_hero1"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Mini Lord Recluse",
+      "prestige.vanity_pets.reward_minipet_recluse"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Mini Snow Beast",
+      "prestige.vanity_pets.mini_snowbeast"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Mini Statesman",
+      "prestige.vanity_pets.reward_minipet_statesman"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Mini Tyrant",
+      "prestige.vanity_pets.reward_minipet_tyrant"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Redcap Rascal",
+      "prestige.vanity_pets.prestige_redcap_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Rikti Monkey",
+      "prestige.vanity_pets.prestige_rikti_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Shadow Hound",
+      "prestige.vanity_pets.prestige_nightstalkerjackal_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Spider",
+      "prestige.vanity_pets.prestige_tarantula_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Spiderling",
+      "prestige.vanity_pets.prestige_spider_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Spirit Panther",
+      "prestige.vanity_pets.prestige_nightstalkerpanther_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Vanguard MVAS",
+      "prestige.vanity_pets.vanguard_mvas"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Winter Wolf",
+      "prestige.vanity_pets.prestige_direwolf_pet"
+    ],
+    [
+      "Prestige.Vanity Pets.Pet: Wolf",
+      "prestige.vanity_pets.prestige_true_wolf_pet"
+    ]
+  ]
+}

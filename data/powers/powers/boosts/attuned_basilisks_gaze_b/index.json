@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Basilisks_Gaze_B",
+  "display_name": "Attuned Basilisks Gaze B",
+  "display_fullname": "Boosts.Attuned Basilisks Gaze B",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Basilisk's Gaze",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BASILISKS_GAZE_B.POWERSETS",
+  "icon": "attuned_basilisks_gaze_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Basilisks_Gaze_B.Attuned_Basilisks_Gaze_B"
+  ],
+  "power_display_names": [
+    "Basilisk's Gaze: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

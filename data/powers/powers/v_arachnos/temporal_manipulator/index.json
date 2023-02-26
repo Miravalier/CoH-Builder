@@ -1,0 +1,26 @@
+{
+  "name": "Temporal_Manipulator",
+  "display_name": "Temporal Manipulator",
+  "display_fullname": "V Arachnos.Temporal Manipulator",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/TEMPORAL_MANIPULATOR.POWERSETS",
+  "icon": "temporal_manipulator_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Temporal_Manipulator.Temporal_Manipulator_FX",
+    "V_Arachnos.Temporal_Manipulator.Temporal_Manipulator"
+  ],
+  "power_display_names": [
+    "Temporal Manipulator",
+    "Temporal Manipulator"
+  ],
+  "power_short_helps": [
+    "+DEF(All), +Res(Hold, Immobilize, Disorient)",
+    "Status Effect Bonus"
+  ]
+}

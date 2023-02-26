@@ -1,0 +1,46 @@
+{
+  "name": "EndgameDeath",
+  "display_name": "EndgameDeath",
+  "display_fullname": "BanishedPantheon.EndgameDeath",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/ENDGAMEDEATH.POWERSETS",
+  "icon": "endgamedeath_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.EndgameDeath.Dark_Blast",
+    "BanishedPantheon.EndgameDeath.Gloom",
+    "BanishedPantheon.EndgameDeath.Night_Fall",
+    "BanishedPantheon.EndgameDeath.Life_Drain",
+    "BanishedPantheon.EndgameDeath.Torrent",
+    "BanishedPantheon.EndgameDeath.Heart_of_Darkness",
+    "BanishedPantheon.EndgameDeath.Dark_Grasp"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Gloom",
+    "Night Fall",
+    "Life Drain",
+    "Torrent",
+    "Heart of Darkness",
+    "Dark Grasp"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Negative Energy), -ToHit(Foe)",
+    "Ranged, High DoT(Negative Energy), -ToHit(Foe)",
+    "Ranged (Cone), Moderate DMG(Negative Energy), -ToHit(Foe)",
+    "Ranged, Moderate DMG(Negative Energy), -ToHit(Foe), Heal(Self)",
+    "Ranged (Cone), Minor DMG(Smashing), Minor DoT(Negative Energy), -ToHit(Foe), Knockback(Foe)",
+    "PBAoE, Minor DoT(Negative Energy), Stun(Foe), -ToHit(Foe)",
+    "Ranged, Moderate DMG(Negative Energy), Hold(Foe), -ToHit(Foe)"
+  ]
+}

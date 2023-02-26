@@ -1,0 +1,22 @@
+{
+  "name": "Tsoo_Bow",
+  "display_name": "Tsoo_Bow",
+  "display_fullname": "Tsoo.Tsoo Bow",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/TSOO_BOW.POWERSETS",
+  "icon": "tsoo_bow_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Tsoo_Bow.Bow"
+  ],
+  "power_display_names": [
+    "Bow"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam"
+  ]
+}

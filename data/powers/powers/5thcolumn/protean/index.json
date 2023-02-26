@@ -1,0 +1,62 @@
+{
+  "name": "Protean",
+  "display_name": "Protean",
+  "display_fullname": "5thColumn.Protean",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    7,
+    0,
+    3,
+    37
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/PROTEAN.POWERSETS",
+  "icon": "protean_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Protean.Resistance",
+    "5thColumn.Protean.Power_Siphon_Tell",
+    "5thColumn.Protean.Power_Siphon_Hit",
+    "5thColumn.Protean.Barrage",
+    "5thColumn.Protean.Energy_Punch",
+    "5thColumn.Protean.Power_Blast",
+    "5thColumn.Protean.Bone_Smasher",
+    "5thColumn.Protean.Whirling_Hands",
+    "5thColumn.Protean.Kinetic_Shield",
+    "5thColumn.Protean.Power_Shield",
+    "5thColumn.Protean.Overload"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Power Siphon",
+    "Power Siphon",
+    "Barrage",
+    "Energy Punch",
+    "Power Blast",
+    "Bone Smasher",
+    "Whirling Hands",
+    "Kinetic Shield",
+    "Power Shield",
+    "Overload"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "PBAoE -END, Self Heal, +END",
+    "PBAoE -END, Self Heal, +END",
+    "Melee, DMG(Energy), Foe Disorient",
+    "Melee, DMG(Energy), Foe Disorient",
+    "Ranged, DMG(Energy), Foe Knockback",
+    "Melee, DMG(Energy), Disorient",
+    "PBAoE Melee, DMG(Energy)",
+    "Toggle: Self +DEF(Smash, Lethal, Energy), Res(DeBuff DEF)",
+    "Toggle: Self +DEF(Fire, Cold, Energy, Negative), Res(DeBuff DEF)",
+    "Self +DEF(All but Psionics), +Recovery, +Max HP, Res(DeBuff DEF), +Special"
+  ]
+}

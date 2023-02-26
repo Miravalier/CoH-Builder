@@ -1,0 +1,26 @@
+{
+  "name": "Lt_Blue",
+  "display_name": "Lt Blue",
+  "display_fullname": "V Coralax.Lt Blue",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/LT_BLUE.POWERSETS",
+  "icon": "lt_blue_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Lt_Blue.Spiny_Urchins",
+    "V_Coralax.Lt_Blue.Wave_of_Cold"
+  ],
+  "power_display_names": [
+    "Spiny Urchins",
+    "Wave of Cold"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam",
+    "DoT(Cold), -Recharge, -SPD"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "initAbsorb",
+  "bears": [
+    [
+      "Pool.Sorcery.Spirit Ward",
+      "pool.sorcery.spirit_ward"
+    ]
+  ],
+  "affects": [
+    [
+      "Pool.Sorcery.Spirit Ward",
+      "pool.sorcery.spirit_ward"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Force_Feedback_C",
+  "display_name": "Attuned Force Feedback C",
+  "display_fullname": "Boosts.Attuned Force Feedback C",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Force Feedback",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FORCE_FEEDBACK_C.POWERSETS",
+  "icon": "attuned_force_feedback_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Force_Feedback_C.Attuned_Force_Feedback_C"
+  ],
+  "power_display_names": [
+    "Force Feedback: Knockback/Recharge"
+  ],
+  "power_short_helps": [
+    "+Knockback, +Rech"
+  ]
+}

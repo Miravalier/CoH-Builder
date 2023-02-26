@@ -1,0 +1,45 @@
+{
+  "name": "Prestige",
+  "display_name": "Prestige",
+  "source_file": "DEFS/POWERS/PRESTIGE.CATEGORIES",
+  "archetypes": [
+    "arachnos_soldier",
+    "arachnos_widow",
+    "blaster",
+    "brute",
+    "controller",
+    "corruptor",
+    "defender",
+    "dominator",
+    "mastermind",
+    "peacebringer",
+    "scrapper",
+    "sentinel",
+    "stalker",
+    "tanker",
+    "warshade"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "prestige.combat_pets",
+    "prestige.fun",
+    "prestige.prestige_attacks",
+    "prestige.prestige_costumes",
+    "prestige.prestige_sprints",
+    "prestige.prestige_travel",
+    "prestige.prestige_utility",
+    "prestige.vanity_pets"
+  ],
+  "powerset_display_names": [
+    "Combat Pets",
+    "Just for Fun",
+    "Prestige Attacks",
+    "Prestige Costumes",
+    "Prestige Sprints",
+    "Prestige Travel",
+    "Prestige Utility",
+    "Vanity Pets"
+  ],
+  "powersets_with_requirements": []
+}

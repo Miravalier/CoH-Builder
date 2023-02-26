@@ -1,0 +1,26 @@
+{
+  "name": "DualPistol_LT",
+  "display_name": "DualPistol_LT",
+  "display_fullname": "KnivesOfVengeance.DualPistol LT",
+  "display_help": "Knives of Vengeance",
+  "display_short_help": "Knives of Vengeance",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KNIVESOFVENGEANCE/DUALPISTOL_LT.POWERSETS",
+  "icon": "dualpistol_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "KnivesOfVengeance.DualPistol_LT.Piercing_Rounds",
+    "KnivesOfVengeance.DualPistol_LT.Weakening_Shot"
+  ],
+  "power_display_names": [
+    "Piercing Rounds",
+    "Weakening Shot"
+  ],
+  "power_short_helps": [
+    "Ranged (Narrow Cone), High DMG(Lethal), Minor DoT(Lethal/Toxic), -DMG(Foe, All), -RES(Foe, All)",
+    "Ranged, -DMG(Foe, All), -DEF(Foe, All), -RES(Foe, Status Effects), -ToHit(Foe), -Heal(Foe), -End(Foe), Chance for High DMG(Toxic), Stun"
+  ]
+}

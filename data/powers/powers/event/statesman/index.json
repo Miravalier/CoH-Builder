@@ -1,0 +1,30 @@
+{
+  "name": "Statesman",
+  "display_name": "Statesman",
+  "display_fullname": "Event.Statesman",
+  "display_help": "Statesman",
+  "display_short_help": "Statesman",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/STATESMAN.POWERSETS",
+  "icon": "statesman_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Statesman.Charged_Bolts",
+    "Event.Statesman.Lightning_Bolt",
+    "Event.Statesman.Thunderous_Blast"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Lightning Bolt",
+    "Thunderous Blast"
+  ],
+  "power_short_helps": [
+    "-Recovery",
+    "-Recovery",
+    "-Recovery"
+  ]
+}

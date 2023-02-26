@@ -1,0 +1,100 @@
+{
+  "name": "Prisoners_Prisoners_Lieutenant",
+  "gender": "GENDER_MALE",
+  "group_name": "Prisoners",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 38,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "Even prisoners have their hierarchies. Some convicts rise to leadership positions because of their ruthlessness and ferocity.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.33,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Prisoners.Prisoners_Lieutenant_Ranged.Revolver"
+    ],
+    "power_display_names": [
+      "Revolver"
+    ],
+    "power_levels": [
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Prisoners",
+        "power_set": "Prisoners_Lieutenant_Ranged",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 38,
+      "experience": 0,
+      "display_names": [
+        "Johnny",
+        "Jackie",
+        "Bobby",
+        "Redd",
+        "Tony",
+        "Vito",
+        "Billy",
+        "Alex",
+        "Frankie",
+        "Jimmy",
+        "Tommy",
+        "Paco",
+        "Matt",
+        "Sean",
+        "Brian",
+        "EJ",
+        "Craig",
+        "Shannon",
+        "Steve",
+        "Doug",
+        "Jeremy",
+        "Mike",
+        "Jayce Kakaris",
+        "Loco Yob",
+        "Mizbhaven",
+        "Ayrych"
+      ],
+      "costumes": [
+        "Lieu_Prisoner_01",
+        "Lieu_Prisoner_02",
+        "Lieu_Prisoner_03",
+        "Lieu_Prisoner_04",
+        "Lieu_Prisoner_05",
+        "Lieu_Prisoner_06"
+      ]
+    }
+  ]
+}

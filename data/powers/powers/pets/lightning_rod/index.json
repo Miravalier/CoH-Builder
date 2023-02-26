@@ -1,0 +1,22 @@
+{
+  "name": "Lightning_Rod",
+  "display_name": "Electric Melee",
+  "display_fullname": "Pets.Electric Melee",
+  "display_help": "Electric Melee",
+  "display_short_help": "Electric Melee",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/LIGHTNING_ROD.POWERSETS",
+  "icon": "lightning_rod_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Lightning_Rod.Lightning_Rod"
+  ],
+  "power_display_names": [
+    "Lightning Rod"
+  ],
+  "power_short_helps": [
+    "PBAoE, Extreme DMG( Energy), Foe Knockback"
+  ]
+}

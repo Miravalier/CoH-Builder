@@ -1,0 +1,23 @@
+{
+  "tag": "QuickCombatTeleport",
+  "bears": [
+    [
+      "Pool.Teleportation.Combat Teleport",
+      "pool.teleportation.teleport_foe"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Starless Step",
+      "warshade_offensive.umbral_blast.starless_step"
+    ]
+  ],
+  "affects": [
+    [
+      "Pool.Teleportation.Combat Teleport",
+      "pool.teleportation.teleport_foe"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Starless Step",
+      "warshade_offensive.umbral_blast.starless_step"
+    ]
+  ]
+}

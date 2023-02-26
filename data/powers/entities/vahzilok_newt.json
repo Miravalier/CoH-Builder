@@ -1,0 +1,91 @@
+{
+  "name": "Vahzilok_Newt",
+  "gender": "GENDER_MALE",
+  "group_name": "Vahzilok",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 35,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Vahzilok_Reaper_Base",
+    "character_class_name": "boss_grunt",
+    "description": "Newt is a devoted follower of Planarian doctrine, and has been experimenting on himself to boost his regenerative capabilities. He probably would not appreciate being called 'Newt the Cute'.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.8,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Vahzilok.Vahzilok_Reaper_All_Melee.BoneSaw",
+      "Vahzilok.Vahzilok_Reaper_All_Melee.Cleaver",
+      "Vahzilok.Vahzilok_Reaper_All_Ranged.DartGun",
+      "Mission_Maker_Secondary.Regeneration.Integration"
+    ],
+    "power_display_names": [
+      "BoneSaw",
+      "Cleaver",
+      "DartGun",
+      "Integration"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Vahzilok",
+        "power_set": "Vahzilok_Reaper_All_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Vahzilok",
+        "power_set": "Vahzilok_Reaper_All_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Regeneration",
+        "power": "Integration",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 35,
+      "experience": 0,
+      "display_names": [
+        "Newt"
+      ],
+      "costumes": [
+        "Reaper_Newt"
+      ]
+    }
+  ]
+}

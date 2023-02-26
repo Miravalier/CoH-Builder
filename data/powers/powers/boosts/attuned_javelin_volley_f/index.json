@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Javelin_Volley_F",
+  "display_name": "Attuned Javelin Volley F",
+  "display_fullname": "Boosts.Attuned Javelin Volley F",
+  "display_help": "Provides a small chance to cause minor lethal damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Javelin Volley",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_JAVELIN_VOLLEY_F.POWERSETS",
+  "icon": "attuned_javelin_volley_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Javelin_Volley_F.Attuned_Javelin_Volley_F"
+  ],
+  "power_display_names": [
+    "Javelin Volley: Chance for Lethal Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Minor DMG (Lethal)"
+  ]
+}

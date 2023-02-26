@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Malaises_Illusions_F",
+  "display_name": "Attuned Malaises Illusions F",
+  "display_fullname": "Boosts.Attuned Malaises Illusions F",
+  "display_help": "Provides a chance to cause minor psionic damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Malaises Illusions",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MALAISES_ILLUSIONS_F.POWERSETS",
+  "icon": "attuned_malaises_illusions_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Malaises_Illusions_F.Attuned_Malaises_Illusions_F"
+  ],
+  "power_display_names": [
+    "Malaise's Illusions: Chance for Psionic Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Psionic DMG"
+  ]
+}

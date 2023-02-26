@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Accuracy",
+  "display_name": "Generic Accuracy",
+  "display_fullname": "Boosts.Generic Accuracy",
+  "display_help": "Increases the accuracy of a power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_ACCURACY.POWERSETS",
+  "icon": "generic_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Accuracy.Generic_Accuracy"
+  ],
+  "power_display_names": [
+    "Training: Accuracy"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy"
+  ]
+}

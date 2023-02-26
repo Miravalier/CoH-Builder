@@ -1,0 +1,22 @@
+{
+  "name": "Rune_Green",
+  "display_name": "Rune",
+  "display_fullname": "Objects.Rune",
+  "display_help": "Rune",
+  "display_short_help": "Rune",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/RUNE_GREEN.POWERSETS",
+  "icon": "rune_green_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Rune_Green.Eoh_Rune"
+  ],
+  "power_display_names": [
+    "Eoh Rune"
+  ],
+  "power_short_helps": [
+    "AoE Toxic DoT"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Forlorn_Forlorn_Commando",
+  "gender": "GENDER_MALE",
+  "group_name": "Forlorn",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Ghoul",
+    "character_class_name": "boss_grunt",
+    "description": "Back when they were Ghouls, the Forlorn Commandos were subject to Praetor Berry's most reckless and dubious genetic experiments. Now cured of their insatiable hunger, they serve as the elite shocktroops of the various Forlorn cadres strewn throughout the tunnels of First Ward.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Forlorn.Resistances.Damage_BS",
+      "Forlorn.Forlorn_Commando.Power_Punch",
+      "Forlorn.Forlorn_Commando.Jab",
+      "Forlorn.Forlorn_Commando.Bone_Smasher",
+      "Forlorn.Forlorn_Commando.Heavy_Burst",
+      "Forlorn.Forlorn_Commando.Single_Shot",
+      "Forlorn.Forlorn_Commando.Dull_Pain"
+    ],
+    "power_display_names": [
+      "Damage Resistance",
+      "Power Punch",
+      "Jab",
+      "Bone Smasher",
+      "Heavy Burst",
+      "Single Shot",
+      "Dull Pain"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Forlorn",
+        "power_set": "Resistances",
+        "power": "Damage_BS",
+        "level": 0
+      },
+      {
+        "power_category": "Forlorn",
+        "power_set": "Forlorn_Commando",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Forlorn Commando"
+      ],
+      "costumes": [
+        "ForlornBoss1",
+        "ForlornBoss2",
+        "ForlornBoss3",
+        "ForlornBoss4",
+        "ForlornBoss5",
+        "ForlornBoss6",
+        "ForlornBoss7",
+        "ForlornBoss8"
+      ]
+    }
+  ]
+}

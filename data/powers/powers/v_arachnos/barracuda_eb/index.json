@@ -1,0 +1,46 @@
+{
+  "name": "Barracuda_EB",
+  "display_name": "Barracuda EB",
+  "display_fullname": "V Arachnos.Barracuda EB",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/BARRACUDA_EB.POWERSETS",
+  "icon": "barracuda_eb_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Barracuda_EB.Wave_of_Cold",
+    "V_Arachnos.Barracuda_EB.Spiny_Urchins",
+    "V_Arachnos.Barracuda_EB.Urchin_Spray",
+    "V_Arachnos.Barracuda_EB.Psychic_Coral_Blast",
+    "V_Arachnos.Barracuda_EB.Subdue",
+    "V_Arachnos.Barracuda_EB.Super_Leap",
+    "V_Arachnos.Barracuda_EB.Resistance"
+  ],
+  "power_display_names": [
+    "Wave of Cold",
+    "Spiny Urchins",
+    "Urchin Spray",
+    "Psychic Coral Blast",
+    "Subdue",
+    "Super Leap",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "DoT(Cold), -Recharge, -SPD",
+    "Ranged Lethal, Med Dam",
+    "Cone Lethal, Knockback",
+    "-Recharge",
+    "Immobilize",
+    "Self Auto, +Jump, +Speed",
+    "Resistance"
+  ]
+}

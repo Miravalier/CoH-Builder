@@ -1,0 +1,30 @@
+{
+  "name": "Upstart_Defense",
+  "display_name": "Upstart_Defense",
+  "display_fullname": "Freakshow.Upstart Defense",
+  "display_help": "Upstart_Defense",
+  "display_short_help": "Upstart_Defense",
+  "available_level": [
+    0,
+    15,
+    29
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/UPSTART_DEFENSE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Upstart_Defense.Resistance",
+    "Freakshow.Upstart_Defense.Spot_Prey",
+    "Freakshow.Upstart_Defense.Upstart_Power_Surge"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Spot Prey",
+    "Power Surge"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self +To Hit, +DMG, +Perception",
+    "Self, +Res(Special)"
+  ]
+}

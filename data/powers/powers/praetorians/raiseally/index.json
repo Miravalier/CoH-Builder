@@ -1,0 +1,22 @@
+{
+  "name": "RaiseAlly",
+  "display_name": "RaiseAlly",
+  "display_fullname": "Praetorians.RaiseAlly",
+  "display_help": "RaiseAlly",
+  "display_short_help": "RaiseAlly",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/RAISEALLY.POWERSETS",
+  "icon": "raiseally_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.RaiseAlly.Resurrect"
+  ],
+  "power_display_names": [
+    "Resurrect"
+  ],
+  "power_short_helps": [
+    "Resurrect"
+  ]
+}

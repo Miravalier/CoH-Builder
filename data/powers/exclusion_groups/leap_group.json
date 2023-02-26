@@ -1,0 +1,37 @@
+{
+  "group": "Leap_Group",
+  "powers": [
+    [
+      "Inherent.Inherent.Walk",
+      "inherent.inherent.walk"
+    ],
+    [
+      "Pool.Utility Belt.Freerunning",
+      "pool.utility_belt.freerunning"
+    ],
+    [
+      "Prestige.Prestige Travel.Cheetah Travel Power",
+      "prestige.prestige_travel.alt_cheetah_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Coyote Travel Power",
+      "prestige.prestige_travel.alt_coyote_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Panther Travel Power",
+      "prestige.prestige_travel.alt_panther_travel_power"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Low-G Pack",
+      "temporary_powers.temporary_powers.low-g_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Low-G Pack",
+      "temporary_powers.temporary_powers.sc_store_low-g_pack"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Zero-G Pack",
+      "temporary_powers.temporary_powers.mayhem_low-g_pack"
+    ]
+  ]
+}

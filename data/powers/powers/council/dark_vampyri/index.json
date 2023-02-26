@@ -1,0 +1,38 @@
+{
+  "name": "Dark_Vampyri",
+  "display_name": "Dark Vampyri",
+  "display_fullname": "Council.Dark Vampyri",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/DARK_VAMPYRI.POWERSETS",
+  "icon": "dark_vampyri_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Dark_Vampyri.Shadow_Blast",
+    "Council.Dark_Vampyri.Dark_Matter_Detonation",
+    "Council.Dark_Vampyri.Essence_Drain",
+    "Council.Dark_Vampyri.Star_Punch",
+    "Council.Dark_Vampyri.Gravity_Well"
+  ],
+  "power_display_names": [
+    "Shadow Blast",
+    "Dark Matter Detonation",
+    "Essence Drain",
+    "Star Punch",
+    "Gravity Well"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD",
+    "Hold, -Recharge, -SPD"
+  ]
+}

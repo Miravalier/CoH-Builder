@@ -1,0 +1,22 @@
+{
+  "name": "Sea_Witch_Boss_Low",
+  "display_name": "Sea Witch Boss Low",
+  "display_fullname": "V Scrapyarders.Sea Witch Boss Low",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/SEA_WITCH_BOSS_LOW.POWERSETS",
+  "icon": "sea_witch_boss_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Sea_Witch_Boss_Low.Havoc_Punch"
+  ],
+  "power_display_names": [
+    "Havoc Punch"
+  ],
+  "power_short_helps": [
+    "Sleep"
+  ]
+}

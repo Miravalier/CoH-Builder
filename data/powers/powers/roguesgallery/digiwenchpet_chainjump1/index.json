@@ -1,0 +1,22 @@
+{
+  "name": "DigiwenchPet_ChainJump1",
+  "display_name": "Chain Jolt Jump 1",
+  "display_fullname": "RoguesGallery.Chain Jolt Jump 1",
+  "display_help": "Chain Jolt Jump 1",
+  "display_short_help": "Chain Jolt Jump 1",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/DIGIWENCHPET_CHAINJUMP1.POWERSETS",
+  "icon": "digiwenchpet_chainjump1_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.DigiwenchPet_ChainJump1.Charge"
+  ],
+  "power_display_names": [
+    "Charge"
+  ],
+  "power_short_helps": [
+    "Charged"
+  ]
+}

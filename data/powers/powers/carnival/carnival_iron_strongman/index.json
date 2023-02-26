@@ -1,0 +1,30 @@
+{
+  "name": "Carnival_Iron_Strongman",
+  "display_name": "Carnival_Iron_Strongman",
+  "display_fullname": "Carnival.Carnival Iron Strongman",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_IRON_STRONGMAN.POWERSETS",
+  "icon": "carnival_iron_strongman_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Iron_Strongman.Giant_Mallet",
+    "Carnival.Carnival_Iron_Strongman.Giant_Mallet_Smash",
+    "Carnival.Carnival_Iron_Strongman.Temp_Invulnerability"
+  ],
+  "power_display_names": [
+    "Giant Mallet",
+    "Giant Mallet Smash",
+    "Temp Invulnerability"
+  ],
+  "power_short_helps": [
+    "Melee, High DMG(Smash), Knockback",
+    "Melee Targeted AoE, High DMG(Smash), Knockback",
+    "Self +Res(Smash, Lethal)"
+  ]
+}

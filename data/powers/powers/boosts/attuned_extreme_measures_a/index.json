@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Extreme_Measures_A",
+  "display_name": "Attuned Extreme Measures A",
+  "display_fullname": "Boosts.Attuned Extreme Measures A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Extreme Measures",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EXTREME_MEASURES_A.POWERSETS",
+  "icon": "attuned_extreme_measures_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Extreme_Measures_A.Attuned_Extreme_Measures_A"
+  ],
+  "power_display_names": [
+    "Extreme Measures: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

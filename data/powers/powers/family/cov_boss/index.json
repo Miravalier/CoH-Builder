@@ -1,0 +1,26 @@
+{
+  "name": "CoV_Boss",
+  "display_name": "",
+  "display_fullname": "Family.CoV Boss",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/COV_BOSS.POWERSETS",
+  "icon": "cov_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.CoV_Boss.Crushing_Field",
+    "Family.CoV_Boss.Gravity_Distortion_Field"
+  ],
+  "power_display_names": [
+    "Crushing Field",
+    "Gravity Distortion Field"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Minor DoT(Smash), Foe Immobilize, -Fly",
+    "Hold"
+  ]
+}

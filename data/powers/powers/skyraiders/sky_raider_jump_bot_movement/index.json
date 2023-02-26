@@ -1,0 +1,22 @@
+{
+  "name": "Sky_Raider_Jump_Bot_Movement",
+  "display_name": "Sky_Raider_Jump_Bot_Movement",
+  "display_fullname": "SkyRaiders.Sky Raider Jump Bot Movement",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_JUMP_BOT_MOVEMENT.POWERSETS",
+  "icon": "sky_raider_jump_bot_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Jump_Bot_Movement.Super_Leap"
+  ],
+  "power_display_names": [
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Self Travel"
+  ]
+}

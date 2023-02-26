@@ -1,0 +1,50 @@
+{
+  "name": "Ravenna_Boss_M",
+  "display_name": "Ravenna Boss Male",
+  "display_fullname": "Ravenna.Ravenna Boss Male",
+  "display_help": "Ravenna",
+  "display_short_help": "Ravenna Boss Male",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RAVENNA/RAVENNA_BOSS_M.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Ravenna.Ravenna_Boss_M.Gravity_Well",
+    "Ravenna.Ravenna_Boss_M.Midnight_Grasp",
+    "Ravenna.Ravenna_Boss_M.Power_Drain",
+    "Ravenna.Ravenna_Boss_M.Shadow_Blast",
+    "Ravenna.Ravenna_Boss_M.Scare",
+    "Ravenna.Ravenna_Boss_M.Quasar",
+    "Ravenna.Ravenna_Boss_M.Umbral_Shield",
+    "Ravenna.Ravenna_Boss_M.Resistance"
+  ],
+  "power_display_names": [
+    "Gravity Well",
+    "Midnight Grasp",
+    "Power Drain",
+    "Shadow Blast",
+    "Scare",
+    "Quasar",
+    "Umbral Shield",
+    "Nictus Imbuement"
+  ],
+  "power_short_helps": [
+    "Hold, -Recharge, -SPD",
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit",
+    "Melee (AoE), Moderate DMG(Negative), Self +DMG, +ACC",
+    "-Recharge, -SPD",
+    "Ranged, Foe Fear",
+    "PBAoE, Extreme DMG(Negative/Void), Foe -Recharge, -SPD, Knockback",
+    "Toggle: Self +Res(All DMG but Psionics)",
+    "Resistance"
+  ]
+}

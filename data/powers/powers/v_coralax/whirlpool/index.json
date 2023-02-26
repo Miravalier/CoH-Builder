@@ -1,0 +1,26 @@
+{
+  "name": "Whirlpool",
+  "display_name": "Whirlpool",
+  "display_fullname": "V Coralax.Whirlpool",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/WHIRLPOOL.POWERSETS",
+  "icon": "whirlpool_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Whirlpool.Whirlpool",
+    "V_Coralax.Whirlpool.Immobile"
+  ],
+  "power_display_names": [
+    "Whirlpool",
+    "Immobile"
+  ],
+  "power_short_helps": [
+    "Knockback",
+    "Immobile"
+  ]
+}

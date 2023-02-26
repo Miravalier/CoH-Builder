@@ -1,0 +1,42 @@
+{
+  "name": "Speed",
+  "display_name": "Speed",
+  "display_fullname": "Pool.Speed",
+  "display_help": "Grants you various feats of super speed.",
+  "display_short_help": "Speed",
+  "available_level": [
+    0,
+    0,
+    3,
+    -1,
+    13,
+    13
+  ],
+  "source_file": "DEFS/POWERS/POOL/SPEED.POWERSETS",
+  "icon": "speed_set.png",
+  "requires": "",
+  "power_names": [
+    "Pool.Speed.Flurry",
+    "Pool.Speed.Hasten",
+    "Pool.Speed.Super_Speed",
+    "Pool.Speed.SpeedPhase",
+    "Pool.Speed.Whirlwind",
+    "Pool.Speed.Burnout"
+  ],
+  "power_display_names": [
+    "Flurry",
+    "Hasten",
+    "Super Speed",
+    "Speed Phase",
+    "Whirlwind",
+    "Burnout"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash), Foe Disorient",
+    "Self +Recharge",
+    "Toggle: Self +Speed",
+    "Self Phase (Special)",
+    "Toggle: PBAoE, Foe Knockback",
+    "Self +Recharge"
+  ]
+}

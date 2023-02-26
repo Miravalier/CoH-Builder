@@ -1,0 +1,22 @@
+{
+  "name": "Outcast_Low_Lt_Fire",
+  "display_name": "Outcast_Low_Lt_Fire",
+  "display_fullname": "Outcasts.Outcast Low Lt Fire",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_LOW_LT_FIRE.POWERSETS",
+  "icon": "outcast_low_lt_fire_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Low_Lt_Fire.Scorch"
+  ],
+  "power_display_names": [
+    "Scorch"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)"
+  ]
+}

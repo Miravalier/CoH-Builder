@@ -1,0 +1,78 @@
+{
+  "name": "MastermindPets_Lich",
+  "gender": "GENDER_NEUTER",
+  "group_name": "MastermindPets",
+  "commandable_pet": 1,
+  "power_tags": [
+    "HumanSkeleton",
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": true,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Ranged_Only",
+    "character_class_name": "boss_henchman",
+    "description": "The lich is an undead entity that, when alive, possessed many dark powers of his own. Perhaps it was a dark wizard, or powerful arch villain. Perhaps it was even a Necromancer. Now it only hungers for the souls of the living, and is quite good at feeding itself.",
+    "group_description": "Necromancy",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Mastermind_Pets.Lich.Dark_Blast",
+      "Mastermind_Pets.Lich.Torrent",
+      "Mastermind_Pets.Lich.Super_Leap"
+    ],
+    "power_display_names": [
+      "Dark Blast",
+      "Torrent",
+      "Super Leap"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Mastermind_Pets",
+        "power_set": "Lich",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Lich"
+      ],
+      "costumes": [
+        "Necromancy_Litch_01_Base",
+        "Necromancy_Litch_02_Base",
+        "Necromancy_Litch_03_Base"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crystal_of_Corruption",
+  "display_name": "Crystal of Corruption",
+  "display_fullname": "Rularuu.Crystal of Corruption",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/CRYSTAL_OF_CORRUPTION.POWERSETS",
+  "icon": "crystal_of_corruption_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Crystal_of_Corruption.Crystal_of_Corruption"
+  ],
+  "power_display_names": [
+    "Crystal of Corruption"
+  ],
+  "power_short_helps": [
+    "-DEF, -RES, -DMG"
+  ]
+}

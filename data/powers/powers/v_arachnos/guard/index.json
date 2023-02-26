@@ -1,0 +1,34 @@
+{
+  "name": "Guard",
+  "display_name": "Guard",
+  "display_fullname": "V Arachnos.Guard",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/GUARD.POWERSETS",
+  "icon": "guard_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Guard.Disintegration_Beam",
+    "V_Arachnos.Guard.Invoke_Panic",
+    "V_Arachnos.Guard.Resistance",
+    "V_Arachnos.Guard.Tactics"
+  ],
+  "power_display_names": [
+    "Disintegration Beam",
+    "Invoke Panic",
+    "Resistance",
+    "Tactics"
+  ],
+  "power_short_helps": [
+    "Disintegrate",
+    "PBAoE, Foe Fear",
+    "Resistance",
+    "+Perception"
+  ]
+}

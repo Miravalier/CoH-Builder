@@ -1,0 +1,29 @@
+{
+  "name": "Destroyers",
+  "display_name": "Destroyers",
+  "source_file": "DEFS/POWERS/DESTROYERS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "destroyers.brawler_high",
+    "destroyers.brawler_low",
+    "destroyers.bruiser",
+    "destroyers.clubber",
+    "destroyers.destroyer",
+    "destroyers.pyro",
+    "destroyers.shredder",
+    "destroyers.weakened_destroyer"
+  ],
+  "powerset_display_names": [
+    "Destroyers",
+    "Destroyers",
+    "Destroyers",
+    "Destroyers",
+    "Destroyers",
+    "Destroyers",
+    "Destroyers",
+    "Destroyers"
+  ],
+  "powersets_with_requirements": []
+}

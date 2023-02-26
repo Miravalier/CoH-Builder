@@ -1,0 +1,30 @@
+{
+  "name": "Hellions_Boss_Melee",
+  "display_name": "Hellions_Boss_Melee",
+  "display_fullname": "Hellions.Hellions Boss Melee",
+  "display_help": "Hellions",
+  "display_short_help": "Hellions",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HELLIONS/HELLIONS_BOSS_MELEE.POWERSETS",
+  "icon": "hellions_boss_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Hellions.Hellions_Boss_Melee.Scorch",
+    "Hellions.Hellions_Boss_Melee.Combustion",
+    "Hellions.Hellions_Boss_Melee.Incinerate"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Combustion",
+    "Incinerate"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

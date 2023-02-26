@@ -1,0 +1,34 @@
+{
+  "name": "PPD_Subduer",
+  "display_name": "PPD Subduer",
+  "display_fullname": "V ParagonPolice.PPD Subduer",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/PPD_SUBDUER.POWERSETS",
+  "icon": "ppd_subduer_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.PPD_Subduer.Psychic_Scream",
+    "V_ParagonPolice.PPD_Subduer.Mental_Blast",
+    "V_ParagonPolice.PPD_Subduer.Subdue",
+    "V_ParagonPolice.PPD_Subduer.Resistances"
+  ],
+  "power_display_names": [
+    "Psychic Scream",
+    "Mental Blast",
+    "Subdue",
+    "Resistances"
+  ],
+  "power_short_helps": [
+    "-Recharge",
+    "-Recharge",
+    "Immobilize",
+    "Resistance"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Sovereign_Right_B",
+  "display_name": "Attuned Sovereign Right B",
+  "display_fullname": "Boosts.Attuned Sovereign Right B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Sovereign Right",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SOVEREIGN_RIGHT_B.POWERSETS",
+  "icon": "attuned_sovereign_right_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Sovereign_Right_B.Attuned_Sovereign_Right_B"
+  ],
+  "power_display_names": [
+    "Sovereign Right: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

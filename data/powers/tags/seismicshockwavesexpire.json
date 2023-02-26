@@ -1,0 +1,10 @@
+{
+  "tag": "SeismicShockwavesExpire",
+  "bears": [
+    [
+      "Redirects.Seismic Blast.Seismic Shockwaves",
+      "redirects.seismic_blast.shockwaves_buff"
+    ]
+  ],
+  "affects": []
+}

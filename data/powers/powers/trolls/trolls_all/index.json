@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_All",
+  "display_name": "Trolls_All",
+  "display_fullname": "Trolls.Trolls All",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_ALL.POWERSETS",
+  "icon": "trolls_all_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_All.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

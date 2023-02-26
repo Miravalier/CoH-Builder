@@ -1,0 +1,22 @@
+{
+  "name": "Lambda_Container_OnDeath",
+  "display_name": "Lambda_Container_OnDeath",
+  "display_fullname": "Objects.Lambda Container OnDeath",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/LAMBDA_CONTAINER_ONDEATH.POWERSETS",
+  "icon": "lambda_container_ondeath_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Lambda_Container_OnDeath.Summon_Cleanup"
+  ],
+  "power_display_names": [
+    "Summon Cleanup"
+  ],
+  "power_short_helps": [
+    "Clear Pets"
+  ]
+}

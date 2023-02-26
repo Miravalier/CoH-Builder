@@ -1,0 +1,22 @@
+{
+  "name": "BounceWorld",
+  "display_name": "Bounce World",
+  "display_fullname": "Pets.Bounce World",
+  "display_help": "Alternate Physics",
+  "display_short_help": "Alternate Physics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/BOUNCEWORLD.POWERSETS",
+  "icon": "bounceworld_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.BounceWorld.Immobilize"
+  ],
+  "power_display_names": [
+    "Immobilize"
+  ],
+  "power_short_helps": [
+    "Immobilize"
+  ]
+}

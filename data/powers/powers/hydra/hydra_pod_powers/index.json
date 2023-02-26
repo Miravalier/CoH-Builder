@@ -1,0 +1,26 @@
+{
+  "name": "Hydra_Pod_Powers",
+  "display_name": "Hydra_Pod_Powers",
+  "display_fullname": "Hydra.Hydra Pod Powers",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_POD_POWERS.POWERSETS",
+  "icon": "hydra_pod_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Pod_Powers.Resistance",
+    "Hydra.Hydra_Pod_Powers.Self_Repair"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Self Repair"
+  ],
+  "power_short_helps": [
+    "Auto Res Knockback, Sleep, Disorient, Fear, Confuse, Teleport, Psionic",
+    "Self Rez"
+  ]
+}

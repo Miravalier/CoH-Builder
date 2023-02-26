@@ -1,0 +1,46 @@
+{
+  "name": "Hro_Dtohz_Teleport",
+  "display_name": "Rikti_Commander",
+  "display_fullname": "Rikti.Rikti Commander",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/HRO_DTOHZ_TELEPORT.POWERSETS",
+  "icon": "hro_dtohz_teleport_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Hro_Dtohz_Teleport.Blade_Swing",
+    "Rikti.Hro_Dtohz_Teleport.Blade_Eviscerate",
+    "Rikti.Hro_Dtohz_Teleport.Blade_Slice",
+    "Rikti.Hro_Dtohz_Teleport.Blade_Carve",
+    "Rikti.Hro_Dtohz_Teleport.Transponder",
+    "Rikti.Hro_Dtohz_Teleport.Teleport",
+    "Rikti.Hro_Dtohz_Teleport.Resistance"
+  ],
+  "power_display_names": [
+    "Blade Swing",
+    "Blade Eviscerate",
+    "Blade Slice",
+    "Blade Carve",
+    "Transponder",
+    "Teleport",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Build Transponder",
+    "Teleport",
+    "Resistance"
+  ]
+}

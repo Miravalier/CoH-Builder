@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Extreme_Measures_B",
+  "display_name": "Attuned Extreme Measures B",
+  "display_fullname": "Boosts.Attuned Extreme Measures B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Extreme Measures",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EXTREME_MEASURES_B.POWERSETS",
+  "icon": "attuned_extreme_measures_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Extreme_Measures_B.Attuned_Extreme_Measures_B"
+  ],
+  "power_display_names": [
+    "Extreme Measures: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

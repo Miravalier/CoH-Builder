@@ -1,0 +1,42 @@
+{
+  "name": "Nexus_99",
+  "display_name": "Nexus 99",
+  "display_fullname": "V Miscellaneous.Nexus 99",
+  "display_help": "Nexus 99",
+  "display_short_help": "Nexus 99",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_MISCELLANEOUS/NEXUS_99.POWERSETS",
+  "icon": "nexus_99_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Miscellaneous.Nexus_99.Power_Bolt",
+    "V_Miscellaneous.Nexus_99.Power_Blast",
+    "V_Miscellaneous.Nexus_99.Explosive_Blast",
+    "V_Miscellaneous.Nexus_99.Power_Thrust",
+    "V_Miscellaneous.Nexus_99.Energy_Torrent",
+    "V_Miscellaneous.Nexus_99.Power_Burst"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Explosive Blast",
+    "Power Thrust",
+    "Energy Torrent",
+    "Power Burst"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback",
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback",
+    "Cone Energy/Smash, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback"
+  ]
+}

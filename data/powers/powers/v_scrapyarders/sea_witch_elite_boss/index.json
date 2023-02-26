@@ -1,0 +1,26 @@
+{
+  "name": "Sea_Witch_Elite_Boss",
+  "display_name": "Sea Witch Elite Boss",
+  "display_fullname": "V Scrapyarders.Sea Witch Elite Boss",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/SEA_WITCH_ELITE_BOSS.POWERSETS",
+  "icon": "sea_witch_elite_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Sea_Witch_Elite_Boss.Hurricane",
+    "V_Scrapyarders.Sea_Witch_Elite_Boss.Static_Discharge"
+  ],
+  "power_display_names": [
+    "Hurricane",
+    "Static Discharge"
+  ],
+  "power_short_helps": [
+    "-Range, -ACC, Knockback",
+    "Ranged (Cone), Moderate DMG(Energy), -END"
+  ]
+}

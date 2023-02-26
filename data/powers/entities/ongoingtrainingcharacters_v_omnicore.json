@@ -1,0 +1,82 @@
+{
+  "name": "OnGoingTrainingCharacters_V_Omnicore",
+  "gender": "GENDER_FEMALE",
+  "group_name": "OnGoingTrainingCharacters_V",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Villain",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 4,
+    "max_level": 20,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Omnicore possesses neither the patience nor the tolerance for anything that does not advance her quest for the perfect weapon. Very little is known about her, which is more due to her being buried in her work and not talking to others than any mysterious or controversial reasons. She has spent years of her life working to create the perfect weapon, incorporating her successes into her armor design incrementally. If you look closely, you might notice that Omnicore is the weapon herself, and her research is integrated into her body... Or, her original body is integrated into her research. It's nearly impossible to tell now.",
+    "group_description": "Hearts of Darkness",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "OnGoingTrainingCharacters.Omnicore_Powers.Power_Bolt",
+      "OnGoingTrainingCharacters.Omnicore_Powers.Power_Blast",
+      "OnGoingTrainingCharacters.Omnicore_Powers.Energy_Torrent",
+      "OnGoingTrainingCharacters.Omnicore_Powers.Siphon_Power",
+      "OnGoingTrainingCharacters.Omnicore_Powers.Siphon_Speed"
+    ],
+    "power_display_names": [
+      "Power Bolt",
+      "Power Blast",
+      "Energy Torrent",
+      "Siphon Power",
+      "Siphon Speed"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "OnGoingTrainingCharacters",
+        "power_set": "Omnicore_Powers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 4,
+      "max_level": 20,
+      "experience": 0,
+      "display_names": [
+        "Omnicore"
+      ],
+      "costumes": [
+        "Model_Omnicore_NoRing"
+      ]
+    }
+  ]
+}

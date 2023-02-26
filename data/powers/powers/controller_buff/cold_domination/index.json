@@ -1,0 +1,54 @@
+{
+  "name": "Cold_Domination",
+  "display_name": "Cold Domination",
+  "display_fullname": "Controller Buff.Cold Domination",
+  "display_help": "Cold Domination powers allow you to manipulate cold and ice to protect your allies and weaken your enemies.",
+  "display_short_help": "Cold Domination",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/CONTROLLER_BUFF/COLD_DOMINATION.POWERSETS",
+  "icon": "cold_domination_set.png",
+  "requires": "",
+  "power_names": [
+    "Controller_Buff.Cold_Domination.Infrigidate",
+    "Controller_Buff.Cold_Domination.Ice_Shield",
+    "Controller_Buff.Cold_Domination.Snow_Storm",
+    "Controller_Buff.Cold_Domination.Glacial_Shield",
+    "Controller_Buff.Cold_Domination.Frostwork",
+    "Controller_Buff.Cold_Domination.Arctic_Fog",
+    "Controller_Buff.Cold_Domination.Benumb",
+    "Controller_Buff.Cold_Domination.Sleet",
+    "Controller_Buff.Cold_Domination.Heat_Loss"
+  ],
+  "power_display_names": [
+    "Infrigidate",
+    "Ice Shield",
+    "Snow Storm",
+    "Glacial Shield",
+    "Frostwork",
+    "Arctic Fog",
+    "Benumb",
+    "Sleet",
+    "Heat Loss"
+  ],
+  "power_short_helps": [
+    "Ranged Foe -Speed, -Recharge, -DEF, -DMG (Fire)",
+    "Ranged, Ally +DEF(Melee, Smash, Lethal), Res(Cold, Fire)",
+    "Toggle: Ranged (Targeted AoE), Foe -Speed, -Recharge, -Fly",
+    "Ranged, Ally +DEF(Ranged, AoE, Energy, Negative), Res(Cold)",
+    "Target +Max HP, Res(Toxic)",
+    "Toggle: PBAoE, Team Stealth, +DEF, +Res(Fire, Cold, Energy, Slow)",
+    "Ranged Foe -DMG, -END, -Regeneration, -Special",
+    "Ranged (Location AoE), Minor DoT(Cold), Foe -Speed, -Recharge, -DEF -Res",
+    "Ranged (Foe AoE), Foe -RES, -END, Slow; Team +END, +Recovery"
+  ]
+}

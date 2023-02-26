@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Knockback",
+  "display_name": "Mutation Science Knockback",
+  "display_fullname": "Boosts.Mutation Science Knockback",
+  "display_help": "Increases the knockback and knockup distance.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_KNOCKBACK.POWERSETS",
+  "icon": "mutation_science_knockback_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Knockback.Mutation_Science_Knockback"
+  ],
+  "power_display_names": [
+    "DNA Resequencing Knockback Boost (Knockback)"
+  ],
+  "power_short_helps": [
+    "Enhances KnockBack Distance"
+  ]
+}

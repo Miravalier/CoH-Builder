@@ -1,0 +1,30 @@
+{
+  "name": "Traps_Seeker2",
+  "display_name": "Seeker 2",
+  "display_fullname": "Villain Pets.Seeker 2",
+  "display_help": "Traps",
+  "display_short_help": "Traps",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/TRAPS_SEEKER2.POWERSETS",
+  "icon": "traps_seeker2_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Traps_Seeker2.FlashPulse",
+    "Villain_Pets.Traps_Seeker2.Self_Destruct",
+    "Villain_Pets.Traps_Seeker2.Fly"
+  ],
+  "power_display_names": [
+    "FlashPulse",
+    "Self Destruct",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Disorient, -DMG, -ACC, -Perception",
+    "Self Destruct",
+    "Movement"
+  ]
+}

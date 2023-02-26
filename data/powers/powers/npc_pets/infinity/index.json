@@ -1,0 +1,22 @@
+{
+  "name": "Infinity",
+  "display_name": "",
+  "display_fullname": "NPC Pets.Infinity",
+  "display_help": "Infinity",
+  "display_short_help": "Infinity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NPC_PETS/INFINITY.POWERSETS",
+  "icon": "infinity_set.png",
+  "requires": "",
+  "power_names": [
+    "NPC_Pets.Infinity.Lancer_Shot"
+  ],
+  "power_display_names": [
+    "Lancer Shot"
+  ],
+  "power_short_helps": [
+    "Ranged, Superior DMG(Energy), Foe Stun, Special"
+  ]
+}

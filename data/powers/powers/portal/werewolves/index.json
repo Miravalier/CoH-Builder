@@ -1,0 +1,34 @@
+{
+  "name": "Werewolves",
+  "display_name": "Werewolves",
+  "display_fullname": "Portal.Werewolves",
+  "display_help": "Werewolves",
+  "display_short_help": "Werewolves",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/WEREWOLVES.POWERSETS",
+  "icon": "werewolves_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Werewolves.Claw_Swipe",
+    "Portal.Werewolves.Hurl",
+    "Portal.Werewolves.Wolf_Jumping",
+    "Portal.Werewolves.Resistance"
+  ],
+  "power_display_names": [
+    "Claw Swipe",
+    "Hurl",
+    "Wolf Jumping",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee(Cone) Heavy Lethal, +Knockback",
+    "Disorient",
+    "Self Auto, +Jump, +Speed",
+    "Auto Res(All Dam, Immobilization)"
+  ]
+}

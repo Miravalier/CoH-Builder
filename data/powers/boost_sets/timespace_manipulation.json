@@ -1,0 +1,269 @@
+{
+  "name": "TimeSpace_Manipulation",
+  "display_name": "Time & Space Manipulation",
+  "group_name": "Teleport",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Teleport"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_TimeSpace_Manipulation_A.Crafted_TimeSpace_Manipulation_A",
+      "Boosts.Attuned_TimeSpace_Manipulation_A.Attuned_TimeSpace_Manipulation_A"
+    ],
+    [
+      "Boosts.Crafted_TimeSpace_Manipulation_B.Crafted_TimeSpace_Manipulation_B",
+      "Boosts.Attuned_TimeSpace_Manipulation_B.Attuned_TimeSpace_Manipulation_B"
+    ],
+    [
+      "Boosts.Crafted_TimeSpace_Manipulation_C.Crafted_TimeSpace_Manipulation_C",
+      "Boosts.Attuned_TimeSpace_Manipulation_C.Attuned_TimeSpace_Manipulation_C"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_3",
+          "Moderate Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_spacetimemanipulation.png",
+      "e_icon_spacetimemanipulation.png",
+      "e_icon_spacetimemanipulation.png",
+      "e_icon_spacetimemanipulation.png",
+      "e_icon_spacetimemanipulation.png",
+      "e_icon_spacetimemanipulation.png"
+    ],
+    "boosts": [
+      [
+        "Time & Space Manipulation: Endurance",
+        "Attuned Time & Space Manipulation: Endurance"
+      ],
+      [
+        "Time & Space Manipulation: Range",
+        "Attuned Time & Space Manipulation: Range"
+      ],
+      [
+        "Time & Space Manipulation: Proc",
+        "Attuned Time & Space Manipulation: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_timespace_manipulation_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_timespace_manipulation_a.attuned_timespace_manipulation_a",
+          "Time & Space Manipulation: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Time & Space Manipulation: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "timespace_manipulation",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_spacetimemanipulation.png"
+      },
+      "attuned_timespace_manipulation_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Time & Space Manipulation: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "timespace_manipulation",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_spacetimemanipulation.png"
+      },
+      "crafted_timespace_manipulation_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_timespace_manipulation_b.attuned_timespace_manipulation_b",
+          "Time & Space Manipulation: Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Time & Space Manipulation: Range",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "timespace_manipulation",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_spacetimemanipulation.png"
+      },
+      "attuned_timespace_manipulation_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Time & Space Manipulation: Range",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "timespace_manipulation",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_spacetimemanipulation.png"
+      },
+      "crafted_timespace_manipulation_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_timespace_manipulation_c.attuned_timespace_manipulation_c",
+          "Time & Space Manipulation: Stealth"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Time & Space Manipulation: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "timespace_manipulation",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_spacetimemanipulation.png"
+      },
+      "attuned_timespace_manipulation_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Time & Space Manipulation: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "timespace_manipulation",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_spacetimemanipulation.png"
+      }
+    }
+  }
+}

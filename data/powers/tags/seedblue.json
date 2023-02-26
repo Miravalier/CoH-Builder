@@ -1,0 +1,15 @@
+{
+  "tag": "SeedBlue",
+  "bears": [
+    [
+      "DevouringEarthSeed.Seed of Hamidon.Confounding Cloud",
+      "devouringearthseed.seed_of_hamidon.confounding_cloud"
+    ]
+  ],
+  "affects": [
+    [
+      "DevouringEarthSeed.Respiring Burr.The Seed's Control",
+      "devouringearthseed.respiring_burr.the_seeds_control"
+    ]
+  ]
+}

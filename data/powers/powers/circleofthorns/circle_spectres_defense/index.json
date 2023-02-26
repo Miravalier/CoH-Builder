@@ -1,0 +1,30 @@
+{
+  "name": "Circle_Spectres_Defense",
+  "display_name": "Circle_Spectres_Defense",
+  "display_fullname": "CircleOfThorns.Circle Spectres Defense",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_SPECTRES_DEFENSE.POWERSETS",
+  "icon": "circle_spectres_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Spectres_Defense.Resistance",
+    "CircleOfThorns.Circle_Spectres_Defense.Ethereal",
+    "CircleOfThorns.Circle_Spectres_Defense.Fly"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Ethereal",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Auto Res Smash, Lethal, Negative, Immobilize",
+    "Self Invisible, Invulnerable",
+    "Self Travel"
+  ]
+}

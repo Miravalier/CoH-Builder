@@ -1,0 +1,43 @@
+{
+  "name": "Stalker_Defense",
+  "display_name": "Defense",
+  "source_file": "DEFS/POWERS/STALKER_DEFENSE.CATEGORIES",
+  "archetypes": [
+    "stalker"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "stalker_defense.bio_organic_armor",
+    "stalker_defense.dark_armor",
+    "stalker_defense.electric_armor",
+    "stalker_defense.energy_aura",
+    "stalker_defense.fiery_aura",
+    "stalker_defense.ice_armor",
+    "stalker_defense.invulnerability",
+    "stalker_defense.ninjitsu",
+    "stalker_defense.radiation_armor",
+    "stalker_defense.regeneration",
+    "stalker_defense.shield_defense",
+    "stalker_defense.stone_armor",
+    "stalker_defense.super_reflexes",
+    "stalker_defense.willpower"
+  ],
+  "powerset_display_names": [
+    "Bio Armor",
+    "Dark Armor",
+    "Electric Armor",
+    "Energy Aura",
+    "Fiery Aura",
+    "Ice Armor",
+    "Invulnerability",
+    "Ninjitsu",
+    "Radiation Armor",
+    "Regeneration",
+    "Shield Defense",
+    "Stone Armor",
+    "Super Reflexes",
+    "Willpower"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Debt_Protection",
+  "display_name": "Debt_Protection",
+  "display_fullname": "GenericVillains.Debt Protection",
+  "display_help": "Debt Protection",
+  "display_short_help": "Debt Protection",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/DEBT_PROTECTION.POWERSETS",
+  "icon": "debt_protection_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Debt_Protection.Debt_Protection"
+  ],
+  "power_display_names": [
+    "Debt Protection"
+  ],
+  "power_short_helps": [
+    "Debt Protection"
+  ]
+}

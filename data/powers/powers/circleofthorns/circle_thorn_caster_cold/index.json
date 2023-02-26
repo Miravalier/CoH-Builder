@@ -1,0 +1,30 @@
+{
+  "name": "Circle_Thorn_Caster_Cold",
+  "display_name": "Circle_Thorn_Caster_Cold",
+  "display_fullname": "CircleOfThorns.Circle Thorn Caster Cold",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_THORN_CASTER_COLD.POWERSETS",
+  "icon": "circle_thorn_caster_cold_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Thorn_Caster_Cold.Ice_Blast",
+    "CircleOfThorns.Circle_Thorn_Caster_Cold.Ice_Sword",
+    "CircleOfThorns.Circle_Thorn_Caster_Cold.Chilblain"
+  ],
+  "power_display_names": [
+    "Ice Blast",
+    "Ice Sword",
+    "Chilblain"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "Melee, Moderate DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Immobilize, DoT(Cold)"
+  ]
+}

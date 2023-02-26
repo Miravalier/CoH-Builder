@@ -1,0 +1,54 @@
+{
+  "name": "Small",
+  "display_name": "Small",
+  "display_fullname": "Inspirations.Small",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Small",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/SMALL.POWERSETS",
+  "icon": "small_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Small.Luck",
+    "Inspirations.Small.Sturdy",
+    "Inspirations.Small.Insight",
+    "Inspirations.Small.Catch_a_Breath",
+    "Inspirations.Small.Respite",
+    "Inspirations.Small.Enrage",
+    "Inspirations.Small.Discipline",
+    "Inspirations.Small.Break_Free",
+    "Inspirations.Small.Awaken"
+  ],
+  "power_display_names": [
+    "Luck",
+    "Sturdy",
+    "Insight",
+    "Catch a Breath",
+    "Respite",
+    "Enrage",
+    "Discipline",
+    "Break Free",
+    "Awaken"
+  ],
+  "power_short_helps": [
+    "+12.5% DEF",
+    "+10% RES DMG, RES Teleport",
+    "+7.5% ACC, +Perception",
+    "+25 END",
+    "+25% HP",
+    "+25% DMG",
+    "Resist effects",
+    "Resist Effects",
+    "Self Minor Rez"
+  ]
+}

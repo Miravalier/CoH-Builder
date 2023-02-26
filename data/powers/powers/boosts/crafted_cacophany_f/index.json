@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Cacophany_F",
+  "display_name": "Crafted Cacophony F",
+  "display_fullname": "Boosts.Crafted Cacophany F",
+  "display_help": "Provides a small chance to cause minor energy damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Cacophony",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_CACOPHANY_F.POWERSETS",
+  "icon": "crafted_cacophany_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Cacophany_F.Crafted_Cacophany_F"
+  ],
+  "power_display_names": [
+    "Cacophony: Chance for Energy Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Energy DMG"
+  ]
+}

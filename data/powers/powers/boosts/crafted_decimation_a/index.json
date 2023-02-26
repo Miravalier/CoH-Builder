@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Decimation_A",
+  "display_name": "Crafted Decimation A",
+  "display_fullname": "Boosts.Crafted Decimation A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Decimation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DECIMATION_A.POWERSETS",
+  "icon": "crafted_decimation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Decimation_A.Crafted_Decimation_A"
+  ],
+  "power_display_names": [
+    "Decimation: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

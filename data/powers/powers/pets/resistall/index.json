@@ -1,0 +1,22 @@
+{
+  "name": "ResistAll",
+  "display_name": "ResistAll",
+  "display_fullname": "Pets.ResistAll",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RESISTALL.POWERSETS",
+  "icon": "resistall_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.ResistAll.ResistAll"
+  ],
+  "power_display_names": [
+    "ResistAll"
+  ],
+  "power_short_helps": [
+    "ResistAll"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Fifth_Column_Nosferatu_Defense",
+  "display_name": "Fifth_Column_Nosferatu_Defense",
+  "display_fullname": "5thColumn.Fifth Column Nosferatu Defense",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_NOSFERATU_DEFENSE.POWERSETS",
+  "icon": "fifth_column_nosferatu_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Nosferatu_Defense.Resistance",
+    "5thColumn.Fifth_Column_Nosferatu_Defense.Chill_of_the_Night",
+    "5thColumn.Fifth_Column_Nosferatu_Defense.Fast_Healing",
+    "5thColumn.Fifth_Column_Nosferatu_Defense.Reconstruction",
+    "5thColumn.Fifth_Column_Nosferatu_Defense.Dull_Pain"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Chill of the Night",
+    "Fast Healing",
+    "Reconstruction",
+    "Dull Pain"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "DoT(Negative), -ACC",
+    "Self Auto, +Regen",
+    "Self Heal, +Res(Toxic)",
+    "Self +HP"
+  ]
+}

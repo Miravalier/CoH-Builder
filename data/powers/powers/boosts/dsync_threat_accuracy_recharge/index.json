@@ -1,0 +1,22 @@
+{
+  "name": "DSync_Threat_Accuracy_Recharge",
+  "display_name": "D-Sync Threat Accuracy Recharge",
+  "display_fullname": "Boosts.DSync Threat Accuracy Recharge",
+  "display_help": "Enhances the threat duration, accuracy, and increases the attack rate of a power.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_THREAT_ACCURACY_RECHARGE.POWERSETS",
+  "icon": "hamidon_accuracy_mez_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_Threat_Accuracy_Recharge.DSync_Threat_Accuracy_Recharge"
+  ],
+  "power_display_names": [
+    "D-Sync Provocation (Threat/Acc/Rech)"
+  ],
+  "power_short_helps": [
+    "Enhances Threat Duration, Accuracy, and Increases Attack Rate"
+  ]
+}

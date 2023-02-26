@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Salvo_B",
+  "display_name": "Attuned Salvo B",
+  "display_fullname": "Boosts.Attuned Salvo B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, reduces the endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Salvo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SALVO_B.POWERSETS",
+  "icon": "attuned_salvo_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Salvo_B.Attuned_Salvo_B"
+  ],
+  "power_display_names": [
+    "Salvo: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

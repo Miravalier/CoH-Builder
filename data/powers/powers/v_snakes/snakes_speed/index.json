@@ -1,0 +1,22 @@
+{
+  "name": "Snakes_Speed",
+  "display_name": "Snakes Speed",
+  "display_fullname": "V Snakes.Snakes Speed",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/SNAKES_SPEED.POWERSETS",
+  "icon": "snakes_speed_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Snakes_Speed.Quick"
+  ],
+  "power_display_names": [
+    "Quick"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD"
+  ]
+}

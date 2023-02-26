@@ -1,0 +1,30 @@
+{
+  "name": "Carnival_Bronze_Strongman",
+  "display_name": "Carnival_Bronze_Strongman",
+  "display_fullname": "Carnival.Carnival Bronze Strongman",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_BRONZE_STRONGMAN.POWERSETS",
+  "icon": "carnival_bronze_strongman_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Bronze_Strongman.Jab",
+    "Carnival.Carnival_Bronze_Strongman.Punch",
+    "Carnival.Carnival_Bronze_Strongman.Haymaker"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Haymaker"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback"
+  ]
+}

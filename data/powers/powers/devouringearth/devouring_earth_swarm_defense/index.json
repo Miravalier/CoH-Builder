@@ -1,0 +1,22 @@
+{
+  "name": "Devouring_Earth_Swarm_Defense",
+  "display_name": "Devouring Earth Swarm Defense",
+  "display_fullname": "DevouringEarth.Devouring Earth Swarm Defense",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_SWARM_DEFENSE.POWERSETS",
+  "icon": "devouring_earth_swarm_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Swarm_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Lethal, Smash"
+  ]
+}

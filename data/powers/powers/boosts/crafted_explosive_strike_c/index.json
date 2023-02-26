@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Explosive_Strike_C",
+  "display_name": "Crafted Explosive Strike C",
+  "display_fullname": "Boosts.Crafted Explosive Strike C",
+  "display_help": "Provides a small chance to cause minor smashing damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Explosive Strike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_EXPLOSIVE_STRIKE_C.POWERSETS",
+  "icon": "crafted_explosive_strike_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Explosive_Strike_C.Crafted_Explosive_Strike_C"
+  ],
+  "power_display_names": [
+    "Explosive Strike: Chance for Smashing Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Smashing Damage"
+  ]
+}

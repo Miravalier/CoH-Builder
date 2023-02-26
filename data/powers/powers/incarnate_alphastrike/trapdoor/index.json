@@ -1,0 +1,58 @@
+{
+  "name": "Trapdoor",
+  "display_name": "Trapdoor",
+  "display_fullname": "Incarnate AlphaStrike.Trapdoor",
+  "display_help": "Trapdoor",
+  "display_short_help": "Trapdoor",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/TRAPDOOR.POWERSETS",
+  "icon": "trapdoor_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Trapdoor.Power_Bolt",
+    "Incarnate_AlphaStrike.Trapdoor.Power_Blast",
+    "Incarnate_AlphaStrike.Trapdoor.Explosive_Blast",
+    "Incarnate_AlphaStrike.Trapdoor.Energy_Torrent",
+    "Incarnate_AlphaStrike.Trapdoor.Power_Burst",
+    "Incarnate_AlphaStrike.Trapdoor.Power_Thrust",
+    "Incarnate_AlphaStrike.Trapdoor.Bone_Smasher",
+    "Incarnate_AlphaStrike.Trapdoor.Whirling_Hands",
+    "Incarnate_AlphaStrike.Trapdoor.Total_Focus",
+    "Incarnate_AlphaStrike.Trapdoor.Bifurcate"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Explosive Blast",
+    "Energy Torrent",
+    "Power Burst",
+    "Power Thrust",
+    "Bone Smasher",
+    "Whirling Hands",
+    "Total Focus",
+    "Bifurcate"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback",
+    "Cone Energy/Smash, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback",
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback",
+    "Disorient",
+    "Disorient",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient",
+    "Grant"
+  ]
+}

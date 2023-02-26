@@ -1,0 +1,53 @@
+{
+  "tag": "Meteor",
+  "bears": [
+    [
+      "meteors_meteor1",
+      [
+        "Meteor Ek"
+      ]
+    ],
+    [
+      "meteors_meteor2",
+      [
+        "Meteor Do"
+      ]
+    ],
+    [
+      "meteors_meteor3",
+      [
+        "Meteor Teen"
+      ]
+    ],
+    [
+      "meteors_meteor4",
+      [
+        "Meteor Char"
+      ]
+    ],
+    [
+      "meteors_meteor5",
+      [
+        "Meteor Panch"
+      ]
+    ],
+    [
+      "meteors_meteor6",
+      [
+        "Meteor Jay"
+      ]
+    ],
+    [
+      "meteors_meteor_nonpet",
+      [
+        "Meteor"
+      ]
+    ]
+  ],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.Ore Extractor",
+      "temporary_powers.temporary_powers.v_ore_extractor"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Willpower",
+  "display_name": "Willpower",
+  "display_fullname": "Tanker Defense.Willpower",
+  "display_help": "You aren't Invulnerable. Bullets don't bounce off of you, and if you are cut, you bleed. You are, however, tough, grizzled and strong willed. It takes more than a little cut to keep you down! Willpower offers a strong balance of healing, damage resistance and defense. While you have no real vulnerabilities, you can't quite deal with 'alpha strikes' as well as some other protective powers.",
+  "display_short_help": "Willpower",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/TANKER_DEFENSE/WILLPOWER.POWERSETS",
+  "icon": "willpower_set.png",
+  "requires": "",
+  "power_names": [
+    "Tanker_Defense.Willpower.High_Pain_Tolerance",
+    "Tanker_Defense.Willpower.Mind_Over_Body",
+    "Tanker_Defense.Willpower.Fast_Healing",
+    "Tanker_Defense.Willpower.Indomitable_Will",
+    "Tanker_Defense.Willpower.Rise_to_the_Challenge",
+    "Tanker_Defense.Willpower.Quick_Recovery",
+    "Tanker_Defense.Willpower.Heightened_Senses",
+    "Tanker_Defense.Willpower.Resurgence",
+    "Tanker_Defense.Willpower.Strength_of_Will"
+  ],
+  "power_display_names": [
+    "High Pain Tolerance",
+    "Mind Over Body",
+    "Fast Healing",
+    "Indomitable Will",
+    "Rise to the Challenge",
+    "Quick Recovery",
+    "Heightened Senses",
+    "Resurgence",
+    "Strength of Will"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Res (All), +MaxHealth",
+    "Toggle: Self +Res(Smash, Lethal, Psionics)",
+    "Auto: Self +Regeneration",
+    "Toggle: Self Res (Disorient, Hold, Immobilize, Sleep, Fear, Confuse, Repel, Knockback). DEF(Psionics)",
+    "Toggle: Self +Regen, Foe -ACC",
+    "Auto: Self +Recovery",
+    "Toggle: Self +DEF(Smash, Lethal, Fire, Cold, Energy, Negative Energy), +Per",
+    "Self Rez, Special",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, Repel, Knockback, All DMG), +Recovery"
+  ]
+}

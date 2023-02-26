@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Obliteration_D",
+  "display_name": "Attuned Obliteration D",
+  "display_fullname": "Boosts.Attuned Obliteration D",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}% .",
+  "display_short_help": "Set: Obliteration",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_OBLITERATION_D.POWERSETS",
+  "icon": "attuned_obliteration_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Obliteration_D.Attuned_Obliteration_D"
+  ],
+  "power_display_names": [
+    "Obliteration: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +DMG, +Rech"
+  ]
+}

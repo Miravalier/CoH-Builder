@@ -1,0 +1,453 @@
+{
+  "name": "Regenerative_Tissue",
+  "display_name": "Regenerative Tissue",
+  "group_name": "Healing",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Healing"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Regenerative_Tissue_A.Crafted_Regenerative_Tissue_A",
+      "Boosts.Attuned_Regenerative_Tissue_A.Attuned_Regenerative_Tissue_A"
+    ],
+    [
+      "Boosts.Crafted_Regenerative_Tissue_B.Crafted_Regenerative_Tissue_B",
+      "Boosts.Attuned_Regenerative_Tissue_B.Attuned_Regenerative_Tissue_B"
+    ],
+    [
+      "Boosts.Crafted_Regenerative_Tissue_C.Crafted_Regenerative_Tissue_C",
+      "Boosts.Attuned_Regenerative_Tissue_C.Attuned_Regenerative_Tissue_C"
+    ],
+    [
+      "Boosts.Crafted_Regenerative_Tissue_D.Crafted_Regenerative_Tissue_D",
+      "Boosts.Attuned_Regenerative_Tissue_D.Attuned_Regenerative_Tissue_D"
+    ],
+    [
+      "Boosts.Crafted_Regenerative_Tissue_E.Crafted_Regenerative_Tissue_E",
+      "Boosts.Attuned_Regenerative_Tissue_E.Attuned_Regenerative_Tissue_E"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_heal_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_3",
+          "Moderate Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_heal_3",
+          "Moderate Improved Heal Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_3",
+          "Moderate Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png",
+      "e_icon_regenerativetissue.png"
+    ],
+    "boosts": [
+      [
+        "Regenerative Tissue: Endurance/Heal",
+        "Attuned Regenerative Tissue: Endurance/Heal"
+      ],
+      [
+        "Regenerative Tissue: Endurance/Recharge",
+        "Attuned Regenerative Tissue: Endurance/Recharge"
+      ],
+      [
+        "Regenerative Tissue: Heal/Recharge",
+        "Attuned Regenerative Tissue: Heal/Recharge"
+      ],
+      [
+        "Regenerative Tissue: Endurance/Heal/Recharge",
+        "Attuned Regenerative Tissue: Endurance/Heal/Recharge"
+      ],
+      [
+        "Regenerative Tissue: Proc",
+        "Attuned Regenerative Tissue: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_regenerative_tissue_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_regenerative_tissue_a.attuned_regenerative_tissue_a",
+          "Regenerative Tissue: Healing/Absorb/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Regenerative Tissue: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "attuned_regenerative_tissue_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Regenerative Tissue: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "crafted_regenerative_tissue_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_regenerative_tissue_b.attuned_regenerative_tissue_b",
+          "Regenerative Tissue: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Regenerative Tissue: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "attuned_regenerative_tissue_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Regenerative Tissue: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "crafted_regenerative_tissue_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_regenerative_tissue_c.attuned_regenerative_tissue_c",
+          "Regenerative Tissue: Healing/Absorb/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Regenerative Tissue: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "attuned_regenerative_tissue_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Regenerative Tissue: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "crafted_regenerative_tissue_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_regenerative_tissue_d.attuned_regenerative_tissue_d",
+          "Regenerative Tissue: Healing/Absorb/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Regenerative Tissue: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "attuned_regenerative_tissue_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Regenerative Tissue: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "crafted_regenerative_tissue_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_regenerative_tissue_e.attuned_regenerative_tissue_e",
+          "Regenerative Tissue: Regeneration"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Regenerative Tissue: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      },
+      "attuned_regenerative_tissue_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Regenerative Tissue: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "regenerative_tissue",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_regenerativetissue.png"
+      }
+    }
+  }
+}

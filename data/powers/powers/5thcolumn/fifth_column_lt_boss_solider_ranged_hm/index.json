@@ -1,0 +1,30 @@
+{
+  "name": "Fifth_Column_Lt_Boss_Solider_Ranged_HM",
+  "display_name": "Fifth Column Lt Boss Solider Ranged (Advanced Difficulty)",
+  "display_fullname": "5thColumn.Fifth Column Lt Boss Solider Ranged (Advanced Difficulty)",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_LT_BOSS_SOLIDER_RANGED_HM.POWERSETS",
+  "icon": "fifth_column_lt_boss_solider_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged_HM.Call_Reinforcements",
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged_HM.Tactics",
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged_HM.Fortitude_Serum"
+  ],
+  "power_display_names": [
+    "Call Reinforcements",
+    "Tactics",
+    "Fortitude Serum"
+  ],
+  "power_short_helps": [
+    "Call Reinforcements: Ranged Moderate DMG(Lethal)",
+    "PBAoE, Team +ACC, Res(Confuse), +Perception",
+    "Self Heal, +Max HP, +DEF(All), +DMG, +To-hit"
+  ]
+}

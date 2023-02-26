@@ -1,0 +1,50 @@
+{
+  "name": "Minotaur",
+  "display_name": "Minotaur",
+  "display_fullname": "SummerEvent.Minotaur",
+  "display_help": "Cornutus",
+  "display_short_help": "Cornutus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/MINOTAUR.POWERSETS",
+  "icon": "minotaur_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.Minotaur.Defensive_Sweep",
+    "SummerEvent.Minotaur.Crushing_Blow",
+    "SummerEvent.Minotaur.Shockwave_Strike",
+    "SummerEvent.Minotaur.Follow_Through",
+    "SummerEvent.Minotaur.Sweeping_Strike",
+    "SummerEvent.Minotaur.Shatter_Armor",
+    "SummerEvent.Minotaur.Whirling_Slice",
+    "SummerEvent.Minotaur.Arc_of_Destruction"
+  ],
+  "power_display_names": [
+    "Defensive Sweep",
+    "Crushing Blow",
+    "Shockwave Strike",
+    "Follow Through",
+    "Sweeping Strike",
+    "Shatter Armor",
+    "Whirling Smash",
+    "Arc of Destruction"
+  ],
+  "power_short_helps": [
+    "Melee (Cone), Light DMG(Smashing), Self +DEF",
+    "Melee, High DMG(Smashing)",
+    "Melee, High DMG (Smashing), Knockback(Foe), -Regen(Foe), -Rec(Foe)",
+    "Melee, Superior DMG(Smashing), Foe Minor DoT(Lethal), Knockdown, Stun, Requires Momentum",
+    "Melee (Cone), High DMG(Smashing), Foe Knockdown",
+    "Melee, Extreme DMG(Smashing), Foe -Def(All), -Res(All)",
+    "PBAoE Melee, Moderate DMG(Smashing), Foe Minor DoT(Lethal), Knockdown, Requires Momentum",
+    "Melee (Cone), Superior DMG(Smashing), Foe Knockback"
+  ]
+}

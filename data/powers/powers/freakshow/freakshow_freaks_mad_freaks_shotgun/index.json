@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Freaks_Mad_Freaks_Shotgun",
+  "display_name": "Freakshow_Freaks_Mad_Freaks_Shotgun",
+  "display_fullname": "Freakshow.Freakshow Freaks Mad Freaks Shotgun",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_FREAKS_MAD_FREAKS_SHOTGUN.POWERSETS",
+  "icon": "freakshow_freaks_mad_freaks_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Freaks_Mad_Freaks_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

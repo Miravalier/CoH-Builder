@@ -1,0 +1,54 @@
+{
+  "name": "Decoy",
+  "display_name": "Decoy",
+  "display_fullname": "Pets.Decoy",
+  "display_help": "Illusion Control",
+  "display_short_help": "Illusion Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/DECOY.POWERSETS",
+  "icon": "decoy_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Decoy.Decoy",
+    "Pets.Decoy.Fire_Sword",
+    "Pets.Decoy.Ice_Sword",
+    "Pets.Decoy.Punch",
+    "Pets.Decoy.Hurl",
+    "Pets.Decoy.Power_Bolt",
+    "Pets.Decoy.Fire_Blast",
+    "Pets.Decoy.Ice_Blast",
+    "Pets.Decoy.Lightning_Bolt"
+  ],
+  "power_display_names": [
+    "Decoy",
+    "Fire Sword",
+    "Ice Sword",
+    "Punch",
+    "Hurl",
+    "Power Bolt",
+    "Fire Blast",
+    "Ice Blast",
+    "Lightning Bolt"
+  ],
+  "power_short_helps": [
+    "Intangible",
+    "Melee Taunt",
+    "Melee Taunt",
+    "Melee Smash, Knockback",
+    "Ranged Taunt",
+    "Ranged Taunt",
+    "Ranged Fire, DoT",
+    "Ranged Cold/Smash, -Recharge",
+    "Ranged Taunt"
+  ]
+}

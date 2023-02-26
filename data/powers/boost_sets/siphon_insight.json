@@ -1,0 +1,542 @@
+{
+  "name": "Siphon_Insight",
+  "display_name": "Siphon Insight",
+  "group_name": "Accurate To-Hit Debuff",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Accurate To Hit Debuff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Siphon_Insight_A.Crafted_Siphon_Insight_A",
+      "Boosts.Attuned_Siphon_Insight_A.Attuned_Siphon_Insight_A"
+    ],
+    [
+      "Boosts.Crafted_Siphon_Insight_B.Crafted_Siphon_Insight_B",
+      "Boosts.Attuned_Siphon_Insight_B.Attuned_Siphon_Insight_B"
+    ],
+    [
+      "Boosts.Crafted_Siphon_Insight_C.Crafted_Siphon_Insight_C",
+      "Boosts.Attuned_Siphon_Insight_C.Attuned_Siphon_Insight_C"
+    ],
+    [
+      "Boosts.Crafted_Siphon_Insight_D.Crafted_Siphon_Insight_D",
+      "Boosts.Attuned_Siphon_Insight_D.Attuned_Siphon_Insight_D"
+    ],
+    [
+      "Boosts.Crafted_Siphon_Insight_E.Crafted_Siphon_Insight_E",
+      "Boosts.Attuned_Siphon_Insight_E.Attuned_Siphon_Insight_E"
+    ],
+    [
+      "Boosts.Crafted_Siphon_Insight_F.Crafted_Siphon_Insight_F",
+      "Boosts.Attuned_Siphon_Insight_F.Attuned_Siphon_Insight_F"
+    ]
+  ],
+  "min_level": 30,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_lethal_smash_melee_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_3",
+          "Moderate Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_3",
+          "Moderate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_4",
+          "Large Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_lethal_smash_melee_def_5",
+          "Huge Increased Lethal/Smashing/Melee Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_5",
+          "Huge Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png",
+      "e_icon_siphoninsight.png"
+    ],
+    "boosts": [
+      [
+        "Siphon Insight: ToHit Debuff",
+        "Attuned Siphon Insight: ToHit Debuff"
+      ],
+      [
+        "Siphon Insight: Accuracy/ToHit Debuff",
+        "Attuned Siphon Insight: Accuracy/ToHit Debuff"
+      ],
+      [
+        "Siphon Insight: Accuracy/Recharge",
+        "Attuned Siphon Insight: Accuracy/Recharge"
+      ],
+      [
+        "Siphon Insight: Endurance/Recharge/ToHit Debuff",
+        "Attuned Siphon Insight: Endurance/Recharge/ToHit Debuff"
+      ],
+      [
+        "Siphon Insight: Accuracy/Endurance/Recharge",
+        "Attuned Siphon Insight: Accuracy/Endurance/Recharge"
+      ],
+      [
+        "Siphon Insight: Proc",
+        "Attuned Siphon Insight: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_siphon_insight_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_siphon_insight_a.attuned_siphon_insight_a",
+          "Siphon Insight: To Hit Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Siphon Insight: ToHit Debuff",
+        "aspects": [
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "attuned_siphon_insight_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Siphon Insight: ToHit Debuff",
+        "aspects": [
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "crafted_siphon_insight_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_siphon_insight_b.attuned_siphon_insight_b",
+          "Siphon Insight: Accuracy/To Hit Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Siphon Insight: Accuracy/ToHit Debuff",
+        "aspects": [
+          "Accuracy",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "attuned_siphon_insight_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Siphon Insight: Accuracy/ToHit Debuff",
+        "aspects": [
+          "Accuracy",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "crafted_siphon_insight_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_siphon_insight_c.attuned_siphon_insight_c",
+          "Siphon Insight: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Siphon Insight: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "attuned_siphon_insight_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Siphon Insight: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "crafted_siphon_insight_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_siphon_insight_d.attuned_siphon_insight_d",
+          "Siphon Insight: To Hit Debuff/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Siphon Insight: Endurance/Recharge/ToHit Debuff",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "attuned_siphon_insight_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Siphon Insight: Endurance/Recharge/ToHit Debuff",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "crafted_siphon_insight_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_siphon_insight_e.attuned_siphon_insight_e",
+          "Siphon Insight: Accuracy/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Siphon Insight: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "attuned_siphon_insight_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Siphon Insight: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "crafted_siphon_insight_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_siphon_insight_f.attuned_siphon_insight_f",
+          "Siphon Insight: Chance for +To Hit"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Siphon Insight: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      },
+      "attuned_siphon_insight_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Siphon Insight: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "siphon_insight",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_siphoninsight.png"
+      }
+    }
+  }
+}

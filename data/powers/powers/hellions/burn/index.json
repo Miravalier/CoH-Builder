@@ -1,0 +1,22 @@
+{
+  "name": "Burn",
+  "display_name": "Burn",
+  "display_fullname": "Hellions.Burn",
+  "display_help": "Hellions",
+  "display_short_help": "Hellions",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HELLIONS/BURN.POWERSETS",
+  "icon": "burn_set.png",
+  "requires": "",
+  "power_names": [
+    "Hellions.Burn.Burn"
+  ],
+  "power_display_names": [
+    "Burn"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)"
+  ]
+}

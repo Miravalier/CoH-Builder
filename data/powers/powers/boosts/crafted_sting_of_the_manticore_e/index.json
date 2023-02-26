@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Sting_of_the_Manticore_E",
+  "display_name": "Crafted Sting of the Manticore E",
+  "display_fullname": "Boosts.Crafted Sting of the Manticore E",
+  "display_help": "Enhances the damage by {Boost.Attrib.Damage.Scale}%, endurance costs by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Sting of the Manticore",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_STING_OF_THE_MANTICORE_E.POWERSETS",
+  "icon": "crafted_sting_of_the_manticore_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Sting_of_the_Manticore_E.Crafted_Sting_of_the_Manticore_E"
+  ],
+  "power_display_names": [
+    "Sting of the Manticore: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Triage_B",
+  "display_name": "Attuned Triage B",
+  "display_fullname": "Boosts.Attuned Triage B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Triage",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TRIAGE_B.POWERSETS",
+  "icon": "attuned_triage_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Triage_B.Attuned_Triage_B"
+  ],
+  "power_display_names": [
+    "Triage: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Rech"
+  ]
+}

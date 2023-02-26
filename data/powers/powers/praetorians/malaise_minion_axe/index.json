@@ -1,0 +1,22 @@
+{
+  "name": "Malaise_minion_Axe",
+  "display_name": "Malaise_minion_Axe",
+  "display_fullname": "Praetorians.Malaise minion Axe",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/MALAISE_MINION_AXE.POWERSETS",
+  "icon": "malaise_minion_axe_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Malaise_minion_Axe.Fireman_Axe"
+  ],
+  "power_display_names": [
+    "Fireman Axe"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

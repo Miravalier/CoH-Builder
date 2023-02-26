@@ -1,0 +1,30 @@
+{
+  "name": "StickyArrow_Blaster",
+  "display_name": "Sticky Arrow",
+  "display_fullname": "Pets.Sticky Arrow",
+  "display_help": "Trick Arrow",
+  "display_short_help": "Trick Arrow",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/STICKYARROW_BLASTER.POWERSETS",
+  "icon": "stickyarrow_blaster_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.StickyArrow_Blaster.StickyArrow",
+    "Pets.StickyArrow_Blaster.StickyToxin",
+    "Pets.StickyArrow_Blaster.Self_Destruct"
+  ],
+  "power_display_names": [
+    "StickyArrow",
+    "StickyToxin",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "-Speed, -Recharge",
+    "-Speed, Low Lethal",
+    "Self Destruct"
+  ]
+}

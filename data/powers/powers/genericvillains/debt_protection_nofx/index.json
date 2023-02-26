@@ -1,0 +1,22 @@
+{
+  "name": "Debt_Protection_NoFX",
+  "display_name": "Debt_Protection_NoFX",
+  "display_fullname": "GenericVillains.Debt Protection NoFX",
+  "display_help": "Debt Protection",
+  "display_short_help": "Debt Protection",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/DEBT_PROTECTION_NOFX.POWERSETS",
+  "icon": "debt_protection_nofx_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Debt_Protection_NoFX.Debt_Protection_NoFX"
+  ],
+  "power_display_names": [
+    "Debt Protection"
+  ],
+  "power_short_helps": [
+    "Debt Protection"
+  ]
+}

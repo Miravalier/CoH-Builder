@@ -1,0 +1,26 @@
+{
+  "name": "Dual_Blades_Assassins_Strike",
+  "display_name": "",
+  "display_fullname": "Villain Pets.Dual Blades Assassins Strike",
+  "display_help": "You are a master of fighting with a blade in each hand. Your precision and skill with the blades enable you to strike in numerous combinations, each of which has unique secondary effects on a target which withstands your onslaught.",
+  "display_short_help": "Dual Blades",
+  "available_level": [
+    5,
+    5
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/DUAL_BLADES_ASSASSINS_STRIKE.POWERSETS",
+  "icon": "dual_blades_assassins_strike_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Dual_Blades_Assassins_Strike.Assassins_Blades_Stealth",
+    "Villain_Pets.Dual_Blades_Assassins_Strike.Assassins_Blades_Quick"
+  ],
+  "power_display_names": [
+    "Assassin's Blades",
+    "Assassin's Blades"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Lethal)",
+    "Melee, Superior DMG(Lethal)"
+  ]
+}

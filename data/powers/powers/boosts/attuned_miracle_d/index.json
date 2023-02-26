@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Miracle_D",
+  "display_name": "Attuned Miracle D",
+  "display_fullname": "Boosts.Attuned Miracle D",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Miracle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MIRACLE_D.POWERSETS",
+  "icon": "attuned_miracle_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Miracle_D.Attuned_Miracle_D"
+  ],
+  "power_display_names": [
+    "Miracle: Healing/Absorb/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+Heal, -End Cost, +Rech, +Absorb"
+  ]
+}

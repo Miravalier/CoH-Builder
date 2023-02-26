@@ -1,0 +1,22 @@
+{
+  "name": "TempPower_Warwolf_Wistel_Pet",
+  "display_name": "Warwolf",
+  "display_fullname": "Pets.Warwolf",
+  "display_help": "These Powers are given to heroes on a temporary basis.",
+  "display_short_help": "TempPower_Warwolf_Wistel_Pet",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TEMPPOWER_WARWOLF_WISTEL_PET.POWERSETS",
+  "icon": "temppower_warwolf_wistel_pet_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.TempPower_Warwolf_Wistel_Pet.Metamorphosis"
+  ],
+  "power_display_names": [
+    "Metamorphosis"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

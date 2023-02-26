@@ -1,0 +1,26 @@
+{
+  "name": "Blaster_Dark_Snipe",
+  "display_name": "Dark Blast",
+  "display_fullname": "Pets.Dark Blast",
+  "display_help": "Dark Blast",
+  "display_short_help": "Dark Blast",
+  "available_level": [
+    7,
+    7
+  ],
+  "source_file": "DEFS/POWERS/PETS/BLASTER_DARK_SNIPE.POWERSETS",
+  "icon": "blaster_dark_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Blaster_Dark_Snipe.Moonbeam_Normal",
+    "Pets.Blaster_Dark_Snipe.Moonbeam_Quick"
+  ],
+  "power_display_names": [
+    "Moonbeam",
+    "Moonbeam"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Negative), Target -To Hit",
+    "Sniper, High DMG(Negative), Target -To Hit"
+  ]
+}

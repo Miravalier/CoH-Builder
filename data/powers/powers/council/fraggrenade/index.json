@@ -1,0 +1,22 @@
+{
+  "name": "FragGrenade",
+  "display_name": "Frag Grenade",
+  "display_fullname": "Council.Frag Grenade",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/FRAGGRENADE.POWERSETS",
+  "icon": "fraggrenade_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.FragGrenade.Frag_Grenade"
+  ],
+  "power_display_names": [
+    "Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

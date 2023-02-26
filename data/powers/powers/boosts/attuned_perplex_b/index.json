@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Perplex_B",
+  "display_name": "Attuned Perplex B",
+  "display_fullname": "Boosts.Attuned Perplex B",
+  "display_help": "Enhances the confuse duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Perplex",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_PERPLEX_B.POWERSETS",
+  "icon": "attuned_perplex_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Perplex_B.Attuned_Perplex_B"
+  ],
+  "power_display_names": [
+    "Perplex: Endurance/Confuse"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Confuse"
+  ]
+}

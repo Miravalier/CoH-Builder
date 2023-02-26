@@ -1,0 +1,54 @@
+{
+  "name": "Stone_Melee",
+  "display_name": "Stone Melee",
+  "display_fullname": "Brute Melee.Stone Melee",
+  "display_help": "You can use the powers of earth and stone to do battle with your foes. Stone Melee allows you to strike with fists of stone, summon earthen weapons, and even quake the very ground itself.",
+  "display_short_help": "Stone Melee",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BRUTE_MELEE/STONE_MELEE.POWERSETS",
+  "icon": "stone_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Brute_Melee.Stone_Melee.Stone_Fist",
+    "Brute_Melee.Stone_Melee.Stone_Mallet",
+    "Brute_Melee.Stone_Melee.Heavy_Mallet",
+    "Brute_Melee.Stone_Melee.Build_Up",
+    "Brute_Melee.Stone_Melee.Fault",
+    "Brute_Melee.Stone_Melee.Taunt",
+    "Brute_Melee.Stone_Melee.Seismic_Smash",
+    "Brute_Melee.Stone_Melee.Hurl_Boulder",
+    "Brute_Melee.Stone_Melee.Tremor"
+  ],
+  "power_display_names": [
+    "Stone Fist",
+    "Stone Mallet",
+    "Heavy Mallet",
+    "Build Up",
+    "Fault",
+    "Taunt",
+    "Seismic Smash",
+    "Hurl Boulder",
+    "Tremor"
+  ],
+  "power_short_helps": [
+    "Melee Light DMG(Smashing), Foe Minor Disorient",
+    "Melee, Moderate DMG(Smashing), Knockback",
+    "Melee, High DMG(Smashing), Knockback",
+    "Self +DMG, +To Hit",
+    "Close (Targeted AoE), Minor DMG(Smashing), Foe Knockback, Disorient",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Melee, Extreme DMG(Smashing), Foe Hold",
+    "Ranged, Moderate DMG(Smashing), Foe Knockback, -Fly",
+    "PBAoE, Light DMG(Smashing), Knockback"
+  ]
+}

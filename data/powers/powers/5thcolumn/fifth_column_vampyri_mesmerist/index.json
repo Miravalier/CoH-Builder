@@ -1,0 +1,30 @@
+{
+  "name": "Fifth_Column_Vampyri_Mesmerist",
+  "display_name": "Fifth_Column_Vampyri_Mesmerist",
+  "display_fullname": "5thColumn.Fifth Column Vampyri Mesmerist",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_VAMPYRI_MESMERIST.POWERSETS",
+  "icon": "fifth_column_vampyri_mesmerist_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Vampyri_Mesmerist.Mesmerize",
+    "5thColumn.Fifth_Column_Vampyri_Mesmerist.Dominate",
+    "5thColumn.Fifth_Column_Vampyri_Mesmerist.Reconstruction"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Dominate",
+    "Reconstruction"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Hold",
+    "Self Heal, +Res(Toxic)"
+  ]
+}

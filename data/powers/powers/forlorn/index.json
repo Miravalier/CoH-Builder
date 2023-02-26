@@ -1,0 +1,21 @@
+{
+  "name": "Forlorn",
+  "display_name": "Forlorn",
+  "source_file": "DEFS/POWERS/FORLORN.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "forlorn.forlorn_commando",
+    "forlorn.liberated_brawler",
+    "forlorn.rehabilitated_soldier",
+    "forlorn.resistances"
+  ],
+  "powerset_display_names": [
+    "Forlorn Commando",
+    "Liberated Brawler",
+    "Rehabilitated Soldier",
+    "Resistances"
+  ],
+  "powersets_with_requirements": []
+}

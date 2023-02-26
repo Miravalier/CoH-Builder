@@ -1,0 +1,58 @@
+{
+  "name": "Lady_Grey",
+  "display_name": "Lady Grey",
+  "display_fullname": "Vanguard.Lady Grey",
+  "display_help": "Vanguard",
+  "display_short_help": "Vanguard",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VANGUARD/LADY_GREY.POWERSETS",
+  "icon": "lady_grey_set.png",
+  "requires": "",
+  "power_names": [
+    "Vanguard.Lady_Grey.Resistance",
+    "Vanguard.Lady_Grey.Gloom",
+    "Vanguard.Lady_Grey.Twilight_Grasp",
+    "Vanguard.Lady_Grey.Night_Fall",
+    "Vanguard.Lady_Grey.Fearsome_Stare",
+    "Vanguard.Lady_Grey.Petrifying_Gaze",
+    "Vanguard.Lady_Grey.Life_Drain",
+    "Vanguard.Lady_Grey.Dark_Servant",
+    "Vanguard.Lady_Grey.Blackstar",
+    "Vanguard.Lady_Grey.Tactics"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Gloom",
+    "Twilight Grasp",
+    "Night Fall",
+    "Fearsome Stare",
+    "Petrifying Gaze",
+    "Life Drain",
+    "Dark Servant",
+    "Blackstar",
+    "Tactics"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged, High DoT(Negative), Foe -ACC",
+    "Ranged, Foe -Acc -DMG, Team Heal",
+    "Ranged (Cone), Moderate DMG(Negative), Foe -ACC",
+    "Ranged (Cone), Foe Fear, -ACC",
+    "Ranged Hold",
+    "Ranged, Moderate DMG(Negative), Target -ACC, Self +HP",
+    "Summon Dark Servant: Ranged Debuff Special",
+    "Close (AoE), Extreme DMG(Negative), Foe -ACC, Self -Recovery",
+    "+ACC, Res(Confuse, Fear), +Perception"
+  ]
+}

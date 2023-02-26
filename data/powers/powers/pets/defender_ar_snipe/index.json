@@ -1,0 +1,26 @@
+{
+  "name": "Defender_AR_Snipe",
+  "display_name": "",
+  "display_fullname": "Pets.Defender AR Snipe",
+  "display_help": "Assault Rifle",
+  "display_short_help": "Assault Rifle",
+  "available_level": [
+    19,
+    19
+  ],
+  "source_file": "DEFS/POWERS/PETS/DEFENDER_AR_SNIPE.POWERSETS",
+  "icon": "defender_ar_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Defender_AR_Snipe.Sniper_Rifle_Normal",
+    "Pets.Defender_AR_Snipe.Sniper_Rifle_Quick"
+  ],
+  "power_display_names": [
+    "Sniper Rifle",
+    "Sniper Rifle"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Lethal), Foe Knockback",
+    "Sniper, High DMG(Lethal), Foe Knockback"
+  ]
+}

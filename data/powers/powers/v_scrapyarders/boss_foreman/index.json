@@ -1,0 +1,42 @@
+{
+  "name": "Boss_Foreman",
+  "display_name": "Boss_Foreman",
+  "display_fullname": "V Scrapyarders.Boss Foreman",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/BOSS_FOREMAN.POWERSETS",
+  "icon": "boss_foreman_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Boss_Foreman.Punch",
+    "V_Scrapyarders.Boss_Foreman.Haymaker",
+    "V_Scrapyarders.Boss_Foreman.Hurl",
+    "V_Scrapyarders.Boss_Foreman.Assault",
+    "V_Scrapyarders.Boss_Foreman.Summon_Miner",
+    "V_Scrapyarders.Boss_Foreman.Dynamite"
+  ],
+  "power_display_names": [
+    "Punch",
+    "Haymaker",
+    "Hurl",
+    "Assault",
+    "Summon Miner",
+    "Dynamite"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "PBAoE, Team +DMG",
+    "Summon 1-2 Enraged Miners.",
+    "Targeted AoE Lethal/Fire, Knockback, Stun"
+  ]
+}

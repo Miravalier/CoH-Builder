@@ -1,0 +1,34 @@
+{
+  "name": "Lt_Sirens_Call_Phantom",
+  "display_name": "Lt Sirens Call Phantom",
+  "display_fullname": "V SirensCallPhantom.Lt Sirens Call Phantom",
+  "display_help": "Siren's Call Phantom",
+  "display_short_help": "Siren's Call Phantom",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SIRENSCALLPHANTOM/LT_SIRENS_CALL_PHANTOM.POWERSETS",
+  "icon": "lt_sirens_call_phantom_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SirensCallPhantom.Lt_Sirens_Call_Phantom.Shriek",
+    "V_SirensCallPhantom.Lt_Sirens_Call_Phantom.Scream",
+    "V_SirensCallPhantom.Lt_Sirens_Call_Phantom.Shout",
+    "V_SirensCallPhantom.Lt_Sirens_Call_Phantom.Ethereal"
+  ],
+  "power_display_names": [
+    "Shriek",
+    "Scream",
+    "Shout",
+    "Ethereal"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Smashing/Energy), -Resist, -Speed",
+    "Ranged, Moderate DoT(Smashing/Energy), -Resist, -Speed",
+    "Ranged, Heavy DMG(Smashing/Energy), Foe -Res(All)",
+    "Self Invisible, Invulnerable"
+  ]
+}

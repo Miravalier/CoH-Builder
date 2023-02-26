@@ -1,0 +1,22 @@
+{
+  "name": "CyberwarriorsBossUtility",
+  "display_name": "CyberwarriorsBossUtility",
+  "display_fullname": "SummerEvent.CyberwarriorsBossUtility",
+  "display_help": "Gotterdammerung",
+  "display_short_help": "Gotterdammerung",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/CYBERWARRIORSBOSSUTILITY.POWERSETS",
+  "icon": "cyberwarriorsbossutility_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.CyberwarriorsBossUtility.Grant_Force_Field"
+  ],
+  "power_display_names": [
+    "Grant Force Field"
+  ],
+  "power_short_helps": [
+    "Special, Grant Force Field"
+  ]
+}

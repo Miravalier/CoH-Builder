@@ -1,0 +1,26 @@
+{
+  "name": "TEST_Minion",
+  "display_name": "Test Minion",
+  "display_fullname": "PraetorianPolice.Test Minion",
+  "display_help": "PPD Ranger",
+  "display_short_help": "PPD Ranger",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/TEST_MINION.POWERSETS",
+  "icon": "test_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.TEST_Minion.Force_Brawl",
+    "PraetorianPolice.TEST_Minion.Plasma_Blast"
+  ],
+  "power_display_names": [
+    "Force Brawl",
+    "Plasma Blast"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash/Energy), Foe Disorient",
+    "Ranged, High DMG(Smash/Energy), Foe Knockdown, -Regen"
+  ]
+}

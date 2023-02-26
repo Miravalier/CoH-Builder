@@ -1,0 +1,42 @@
+{
+  "name": "Neuron_Clone",
+  "display_name": "Neuron Clone",
+  "display_fullname": "Incarnate AlphaStrike.Neuron Clone",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/NEURON_CLONE.POWERSETS",
+  "icon": "neuron_clone_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Neuron_Clone.Super_Speed",
+    "Incarnate_AlphaStrike.Neuron_Clone.ADHD",
+    "Incarnate_AlphaStrike.Neuron_Clone.Charged_Bolts",
+    "Incarnate_AlphaStrike.Neuron_Clone.Lightning_Bolt",
+    "Incarnate_AlphaStrike.Neuron_Clone.Charged_Brawl",
+    "Incarnate_AlphaStrike.Neuron_Clone.Lightning_Field"
+  ],
+  "power_display_names": [
+    "Super Speed",
+    "ADHD",
+    "Charged Bolts",
+    "Lightning Bolt",
+    "Charged Brawl",
+    "Lightning Field"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +Speed",
+    "Self Flee",
+    "-Recovery",
+    "-Recovery",
+    "Sleep, -Recovery",
+    "Minor DoT(Energy), -End"
+  ]
+}

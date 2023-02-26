@@ -1,0 +1,38 @@
+{
+  "name": "FarFire",
+  "display_name": "FarFire",
+  "display_fullname": "Tsoo.FarFire",
+  "display_help": "Far Fire powers.",
+  "display_short_help": "Far Fire powers.",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/FARFIRE.POWERSETS",
+  "icon": "farfire_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.FarFire.Flares",
+    "Tsoo.FarFire.Ring_of_Fire",
+    "Tsoo.FarFire.Flashfire",
+    "Tsoo.FarFire.Fire_Katana_Hack",
+    "Tsoo.FarFire.Fire_Katana_Slash"
+  ],
+  "power_display_names": [
+    "Flares",
+    "Ring of Fire",
+    "Flashfire",
+    "Fire Katana Hack",
+    "Fire Katana Slash"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Immobilize, DoT(Fire)",
+    "Disorient, DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

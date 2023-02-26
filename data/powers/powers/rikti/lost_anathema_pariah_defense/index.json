@@ -1,0 +1,22 @@
+{
+  "name": "Lost_Anathema_Pariah_Defense",
+  "display_name": "Lost_Anathema_Pariah_Defense",
+  "display_fullname": "Rikti.Lost Anathema Pariah Defense",
+  "display_help": "The Lost",
+  "display_short_help": "The Lost",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/LOST_ANATHEMA_PARIAH_DEFENSE.POWERSETS",
+  "icon": "lost_anathema_pariah_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Lost_Anathema_Pariah_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Sleep, Disorient, Hold, KB"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lambda_Sector_SibylSummon",
+  "display_name": "Lambda_Sector_SibylSummon",
+  "display_fullname": "Objects.Lambda Sector SibylSummon",
+  "display_help": "Protected",
+  "display_short_help": "Protected",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/LAMBDA_SECTOR_SIBYLSUMMON.POWERSETS",
+  "icon": "lambda_sector_sibylsummon_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Lambda_Sector_SibylSummon.Summon_Sibyl"
+  ],
+  "power_display_names": [
+    "Summon Sibyl"
+  ],
+  "power_short_helps": [
+    "Summon Sibyl"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Red_Fortune_A",
+  "display_name": "Attuned Red Fortune A",
+  "display_fullname": "Boosts.Attuned Red Fortune A",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Red Fortune",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_RED_FORTUNE_A.POWERSETS",
+  "icon": "attuned_red_fortune_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Red_Fortune_A.Attuned_Red_Fortune_A"
+  ],
+  "power_display_names": [
+    "Red Fortune: Defense/Endurance"
+  ],
+  "power_short_helps": [
+    "+DEF (all), Reduces End cost"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "TitanWeapon",
+  "display_name": "TitanWeapon",
+  "display_fullname": "BlackKnights.TitanWeapon",
+  "display_help": "Black Knights",
+  "display_short_help": "Black Knights",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKKNIGHTS/TITANWEAPON.POWERSETS",
+  "icon": "titanweapon_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackKnights.TitanWeapon.Defensive_Sweep",
+    "BlackKnights.TitanWeapon.Crushing_Blow",
+    "BlackKnights.TitanWeapon.Penumbral_Strike",
+    "BlackKnights.TitanWeapon.Follow_Through"
+  ],
+  "power_display_names": [
+    "Defensive Sweep",
+    "Crushing Blow",
+    "Penumbral Strike",
+    "Follow Through"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smashing), +DEF(Self, Melee, Smashing), +ToHit(Self), Chance for -Rech(Foe)",
+    "Melee, High DMG(Smashing), Minor DoT (Lethal), -Speed(Foe,All), -Fly(Foe)",
+    "Ranged, Minor DMG (Negative Energy), Knockback(Foe) OR Immobilize(Foe)",
+    "Melee, High DMG (Smashing), Minor DoT (Lethal), Chance for Knockup(Foe), -Fly(Foe)"
+  ]
+}

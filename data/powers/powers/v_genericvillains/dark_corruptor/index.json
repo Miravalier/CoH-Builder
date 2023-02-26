@@ -1,0 +1,42 @@
+{
+  "name": "Dark_Corruptor",
+  "display_name": "Dark Corruptor",
+  "display_fullname": "V GenericVillains.Dark Corruptor",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/DARK_CORRUPTOR.POWERSETS",
+  "icon": "dark_corruptor_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Dark_Corruptor.Gloom",
+    "V_GenericVillains.Dark_Corruptor.Tenebrous_Tentacles",
+    "V_GenericVillains.Dark_Corruptor.Twilight_Grasp",
+    "V_GenericVillains.Dark_Corruptor.Night_Fall",
+    "V_GenericVillains.Dark_Corruptor.Fearsome_Stare",
+    "V_GenericVillains.Dark_Corruptor.Torrent"
+  ],
+  "power_display_names": [
+    "Gloom",
+    "Tenebrous Tentacles",
+    "Twilight Grasp",
+    "Night Fall",
+    "Fearsome Stare",
+    "Torrent"
+  ],
+  "power_short_helps": [
+    "Ranged, High DoT(Negative), Foe -ACC",
+    "Ranged (Cone), Moderate DMG(Negative), Foe Immobilize, -ACC",
+    "Ranged, Foe -Acc -DMG, Team Heal",
+    "Ranged (Cone), Moderate DMG(Negative), Foe -ACC",
+    "Ranged (Cone), Foe Fear, -ACC",
+    "Ranged (Cone), Minor DMG(Smashing), Foe -ACC, Knockback"
+  ]
+}

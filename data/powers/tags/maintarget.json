@@ -1,0 +1,10 @@
+{
+  "tag": "MainTarget",
+  "bears": [
+    [
+      "Mastermind Summon.Necromancy.Soul Extraction",
+      "mastermind_summon.necromancy.soul_extraction"
+    ]
+  ],
+  "affects": []
+}

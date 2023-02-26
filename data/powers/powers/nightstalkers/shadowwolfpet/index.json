@@ -1,0 +1,22 @@
+{
+  "name": "ShadowWolfPet",
+  "display_name": "ShadowWolfPet",
+  "display_fullname": "Nightstalkers.ShadowWolfPet",
+  "display_help": "Spirit Stalkers",
+  "display_short_help": "Spirit Stalkers",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NIGHTSTALKERS/SHADOWWOLFPET.POWERSETS",
+  "icon": "shadowwolfpet_set.png",
+  "requires": "",
+  "power_names": [
+    "Nightstalkers.ShadowWolfPet.Raking_Claws"
+  ],
+  "power_display_names": [
+    "Raking Claws"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), Moderate DoT (Lethal)"
+  ]
+}

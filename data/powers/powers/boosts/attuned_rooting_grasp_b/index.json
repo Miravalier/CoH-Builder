@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Rooting_Grasp_B",
+  "display_name": "Attuned Rooting Grasp B",
+  "display_fullname": "Boosts.Attuned Rooting Grasp B",
+  "display_help": "Enhances the Immobilize duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Rooting Grasp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ROOTING_GRASP_B.POWERSETS",
+  "icon": "attuned_rooting_grasp_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Rooting_Grasp_B.Attuned_Rooting_Grasp_B"
+  ],
+  "power_display_names": [
+    "Rooting Grasp: Endurance/Immobilize"
+  ],
+  "power_short_helps": [
+    "+End, +Immobilize"
+  ]
+}

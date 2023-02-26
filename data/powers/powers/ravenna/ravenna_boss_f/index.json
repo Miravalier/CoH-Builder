@@ -1,0 +1,46 @@
+{
+  "name": "Ravenna_Boss_F",
+  "display_name": "Ravenna Boss Female",
+  "display_fullname": "Ravenna.Ravenna Boss Female",
+  "display_help": "Ravenna",
+  "display_short_help": "Ravenna Boss Female",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RAVENNA/RAVENNA_BOSS_F.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Ravenna.Ravenna_Boss_F.Gloom",
+    "Ravenna.Ravenna_Boss_F.Shadow_Blast",
+    "Ravenna.Ravenna_Boss_F.Life_Drain",
+    "Ravenna.Ravenna_Boss_F.Gravitic_Emanation",
+    "Ravenna.Ravenna_Boss_F.Quasar",
+    "Ravenna.Ravenna_Boss_F.Umbral_Shield",
+    "Ravenna.Ravenna_Boss_F.Resistance"
+  ],
+  "power_display_names": [
+    "Gloom",
+    "Shadow Blast",
+    "Life Drain",
+    "Gravitic Emanation",
+    "Quasar",
+    "Umbral Shield",
+    "Nictus Imbuement"
+  ],
+  "power_short_helps": [
+    "Ranged, High DoT(Negative), Foe -To-hit",
+    "-Recharge, -SPD",
+    "Ranged Negative, -ACC, Self +HP",
+    "Disorient, -Recharge, -SPD",
+    "PBAoE, Extreme DMG(Negative/Void), Foe -Recharge, -SPD, Knockback",
+    "Toggle: Self +Res(All DMG but Psionics)",
+    "Resistance"
+  ]
+}

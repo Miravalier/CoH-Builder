@@ -1,0 +1,30 @@
+{
+  "name": "Lava",
+  "display_name": "Lava",
+  "display_fullname": "Igneous.Lava",
+  "display_help": "Igneous",
+  "display_short_help": "Igneous",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/IGNEOUS/LAVA.POWERSETS",
+  "icon": "lava_set.png",
+  "requires": "",
+  "power_names": [
+    "Igneous.Lava.Lava",
+    "Igneous.Lava.Immobilize",
+    "Igneous.Lava.Lava_Heal"
+  ],
+  "power_display_names": [
+    "Lava",
+    "Immobilize",
+    "Lava Heal"
+  ],
+  "power_short_helps": [
+    "DoT(Fire ), -SPD, -Fly, -Jump",
+    "Immobilize Self",
+    "Heal"
+  ]
+}

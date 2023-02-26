@@ -1,0 +1,22 @@
+{
+  "name": "CoV_Carnival_Inherent_Defense",
+  "display_name": "CoV_Carnival_Inherent_Defense",
+  "display_fullname": "Carnival.CoV Carnival Inherent Defense",
+  "display_help": "Defense powers inherent to all Carnival of Shadows",
+  "display_short_help": "Carnival defense powers.",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/COV_CARNIVAL_INHERENT_DEFENSE.POWERSETS",
+  "icon": "cov_carnival_inherent_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.CoV_Carnival_Inherent_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Self, +Def(Psionic), +Res(Psionic)"
+  ]
+}

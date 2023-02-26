@@ -1,0 +1,22 @@
+{
+  "name": "Crystal_Titan_Intermediate_Powers",
+  "display_name": "Crystal_Titan_Intermediate_Powers",
+  "display_fullname": "DevouringEarth.Crystal Titan Intermediate Powers",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/CRYSTAL_TITAN_INTERMEDIATE_POWERS.POWERSETS",
+  "icon": "crystal_titan_intermediate_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Crystal_Titan_Intermediate_Powers.Shatter"
+  ],
+  "power_display_names": [
+    "Shatter"
+  ],
+  "power_short_helps": [
+    "Summon Crystalbeast"
+  ]
+}

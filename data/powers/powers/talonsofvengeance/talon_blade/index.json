@@ -1,0 +1,22 @@
+{
+  "name": "Talon_Blade",
+  "display_name": "Talon_Blade",
+  "display_fullname": "TalonsOfVengeance.Talon Blade",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/TALON_BLADE.POWERSETS",
+  "icon": "talon_blade_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Talon_Blade.Talon_Blade"
+  ],
+  "power_display_names": [
+    "Talon Blade"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Lethal/Negative Energy), Slow"
+  ]
+}

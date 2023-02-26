@@ -1,0 +1,22 @@
+{
+  "name": "DistortionField_Defender",
+  "display_name": "Time Manipulation",
+  "display_fullname": "Pets.Time Manipulation",
+  "display_help": "Time Manipulation",
+  "display_short_help": "Time Manipulation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/DISTORTIONFIELD_DEFENDER.POWERSETS",
+  "icon": "distortionfield_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.DistortionField_Defender.Distortion_Field"
+  ],
+  "power_display_names": [
+    "Distortion Field"
+  ],
+  "power_short_helps": [
+    "-Speed, -Recharge, Chance for Hold"
+  ]
+}

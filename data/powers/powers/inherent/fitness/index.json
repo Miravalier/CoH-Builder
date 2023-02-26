@@ -1,0 +1,34 @@
+{
+  "name": "Fitness",
+  "display_name": "Inherent Fitness",
+  "display_fullname": "Inherent.Inherent Fitness",
+  "display_help": "You become a pillar of fitness, and can receive a bonus to your basic physical attributes. These abilities are always on and do not cost any Endurance.",
+  "display_short_help": "Fitness",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INHERENT/FITNESS.POWERSETS",
+  "icon": "fitness_set.png",
+  "requires": "",
+  "power_names": [
+    "Inherent.Fitness.Swift",
+    "Inherent.Fitness.Hurdle",
+    "Inherent.Fitness.Health",
+    "Inherent.Fitness.Stamina"
+  ],
+  "power_display_names": [
+    "Swift",
+    "Hurdle",
+    "Health",
+    "Stamina"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD",
+    "Auto: Self +Leap",
+    "Auto: Self +Regeneration, Res(Sleep)",
+    "Auto: Self +Recovery"
+  ]
+}

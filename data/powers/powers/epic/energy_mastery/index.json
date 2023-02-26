@@ -1,0 +1,38 @@
+{
+  "name": "Energy_Mastery",
+  "display_name": "Energy Mastery",
+  "display_fullname": "Epic.Energy Mastery",
+  "display_help": "You have Mastery over your bodies Energy to increase your power and even hurl energy at your foes.",
+  "display_short_help": "Energy Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/ENERGY_MASTERY.POWERSETS",
+  "icon": "energy_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Energy_Mastery.Conserve_Power",
+    "Epic.Energy_Mastery.Focused_Accuracy",
+    "Epic.Energy_Mastery.Laser_Beam_Eyes",
+    "Epic.Energy_Mastery.Physical_Perfection",
+    "Epic.Energy_Mastery.Energy_Torrent"
+  ],
+  "power_display_names": [
+    "Conserve Power",
+    "Focused Accuracy",
+    "Laser Beam Eyes",
+    "Physical Perfection",
+    "Energy Torrent"
+  ],
+  "power_short_helps": [
+    "Self Endurance Discount",
+    "Toggle: Self +To Hit, +ACC, +Perception, Res(DeBuff To Hit)",
+    "Ranged, Light DMG(Energy), Foe -DEF",
+    "Auto: Self, +Regeneration, +Recovery",
+    "Ranged (Cone), Light DMG(Energy/Smash), Foe Knockback"
+  ]
+}

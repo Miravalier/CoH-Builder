@@ -1,0 +1,54 @@
+{
+  "name": "Riptide",
+  "display_name": "Riptide",
+  "display_fullname": "NewPraetorians.Riptide",
+  "display_help": "Riptide",
+  "display_short_help": "Riptide",
+  "available_level": [
+    0,
+    0,
+    15,
+    0,
+    27,
+    11,
+    0,
+    0,
+    19
+  ],
+  "source_file": "DEFS/POWERS/NEWPRAETORIANS/RIPTIDE.POWERSETS",
+  "icon": "riptide_set.png",
+  "requires": "",
+  "power_names": [
+    "NewPraetorians.Riptide.Barb_Swipe",
+    "NewPraetorians.Riptide.Lunge",
+    "NewPraetorians.Riptide.Spine_Burst",
+    "NewPraetorians.Riptide.Impale",
+    "NewPraetorians.Riptide.Ripper",
+    "NewPraetorians.Riptide.Throw_Spines",
+    "NewPraetorians.Riptide.Coruscating_Armor",
+    "NewPraetorians.Riptide.Lightning_Field",
+    "NewPraetorians.Riptide.Electric_Fence"
+  ],
+  "power_display_names": [
+    "Barb Swipe",
+    "Lunge",
+    "Spine Burst",
+    "Impale",
+    "Ripper",
+    "Spine Throw",
+    "Coruscating Armor",
+    "Bioelectric Field",
+    "Bioelectric Fence"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG (Lethal), -Speed(Foe,All), -Rech(Foe), Chance for Minor DoT (Toxic), Immobilize (Foe)",
+    "Melee, Moderate DMG (Lethal), -Speed(Foe,All), -Rech(Foe), Chance for Minor DoT (Toxic), Immobilize (Foe)",
+    "PBAoE, High DMG (Lethal), -Speed(Foe,All), -Rech(Foe), Chance for Minor DoT (Toxic), Immobilize (Foe)",
+    "Ranged, High DMG (Lethal), -Speed(Foe,All), -Rech(Foe), -Fly(Foe), Chance for Minor DoT (Toxic), Immobilize (Foe)",
+    "Melee (Cone), High DMG (Lethal), -Speed(Foe,All), -Rech(Foe), Chance for Minor DoT (Toxic), Immobilize (Foe)",
+    "Ranged (Cone), High DMG (Lethal), -Speed(Foe,All), -Rech(Foe), Chance for Minor DoT (Toxic), Immobilize (Foe)",
+    "Auto (Self), +RES(Smashing, Lethal, Fire, Cold, Energy, Negative Energy)",
+    "Auto (PBAoE), Minor DMG(Energy), -End(Foe)",
+    "Ranged, Moderate DoT(Energy), -End (Foe), Immobilize (Foe), Chance for -Rec(Foe)"
+  ]
+}

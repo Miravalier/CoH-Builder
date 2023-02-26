@@ -1,0 +1,22 @@
+{
+  "name": "Cirle_Thorn_Caster_Fire_Char",
+  "display_name": "Cirle_Thorn_Caster_Fire_Char",
+  "display_fullname": "CircleOfThorns.Cirle Thorn Caster Fire Char",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRLE_THORN_CASTER_FIRE_CHAR.POWERSETS",
+  "icon": "cirle_thorn_caster_fire_char_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Cirle_Thorn_Caster_Fire_Char.Char"
+  ],
+  "power_display_names": [
+    "Char"
+  ],
+  "power_short_helps": [
+    "Hold"
+  ]
+}

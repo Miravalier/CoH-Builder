@@ -1,0 +1,22 @@
+{
+  "name": "Arcane_Stealth_Suppression_Field",
+  "display_name": "Arcane_Stealth_Suppression_Field",
+  "display_fullname": "Base Fields.Arcane Stealth Suppression Field",
+  "display_help": "This reduces the effectiveness of stealth powers in this room.",
+  "display_short_help": "Base Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_FIELDS/ARCANE_STEALTH_SUPPRESSION_FIELD.POWERSETS",
+  "icon": "arcane_stealth_suppression_field_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Fields.Arcane_Stealth_Suppression_Field.Stealth_Suppression_Field"
+  ],
+  "power_display_names": [
+    "Stealth Suppression Field"
+  ],
+  "power_short_helps": [
+    "Foe -Stealth"
+  ]
+}

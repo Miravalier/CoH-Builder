@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Defense_DeBuff",
+  "display_name": "Mutation Magic Defense DeBuff",
+  "display_fullname": "Boosts.Mutation Magic Defense DeBuff",
+  "display_help": "Enhances the effectiveness of defense debuffs.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_DEFENSE_DEBUFF.POWERSETS",
+  "icon": "mutation_magic_defense_debuff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Defense_DeBuff.Mutation_Magic_Defense_DeBuff"
+  ],
+  "power_display_names": [
+    "Chain (Defense DeBuff)"
+  ],
+  "power_short_helps": [
+    "Enhances Defense DeBuffs"
+  ]
+}

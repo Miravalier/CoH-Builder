@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Absolute_Amazement_A",
+  "display_name": "Superior Attuned Absolute Amazement A",
+  "display_fullname": "Boosts.Superior Attuned Absolute Amazement A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the Stun duration of a power by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Absolute Amazement",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_ABSOLUTE_AMAZEMENT_A.POWERSETS",
+  "icon": "superior_attuned_absolute_amazement_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Absolute_Amazement_A.Superior_Attuned_Absolute_Amazement_A"
+  ],
+  "power_display_names": [
+    "Absolute Amazement: Stun Duration"
+  ],
+  "power_short_helps": [
+    "+Stun"
+  ]
+}

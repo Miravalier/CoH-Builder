@@ -1,0 +1,22 @@
+{
+  "tag": "Scrapper",
+  "bears": [
+    [
+      "Pool.Fighting.Boxing",
+      "pool.fighting.boxing"
+    ],
+    [
+      "Pool.Fighting.Cross Punch",
+      "pool.fighting.cross_punch"
+    ],
+    [
+      "Pool.Fighting.Kick",
+      "pool.fighting.kick"
+    ],
+    [
+      "Pool.Sorcery.Arcane Bolt",
+      "pool.sorcery.arcane_bolt"
+    ]
+  ],
+  "affects": []
+}

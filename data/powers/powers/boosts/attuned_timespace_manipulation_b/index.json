@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_TimeSpace_Manipulation_B",
+  "display_name": "Attuned Time & Space Manipulation B",
+  "display_fullname": "Boosts.Attuned TimeSpace Manipulation B",
+  "display_help": "Enhances the range of a teleport power by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Set: Jaunt",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TIMESPACE_MANIPULATION_B.POWERSETS",
+  "icon": "attuned_timespace_manipulation_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_TimeSpace_Manipulation_B.Attuned_TimeSpace_Manipulation_B"
+  ],
+  "power_display_names": [
+    "Time & Space Manipulation: Range"
+  ],
+  "power_short_helps": [
+    "+Range"
+  ]
+}

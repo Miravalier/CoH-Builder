@@ -1,0 +1,10 @@
+{
+  "tag": "SpecialCrit",
+  "bears": [
+    [
+      "Stalker Melee.Kinetic Melee.Concentrated Strike",
+      "stalker_melee.kinetic_attack.total_focus"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fury_Monument",
+  "display_name": "Fury Monument",
+  "display_fullname": "Rularuu.Fury Monument",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/FURY_MONUMENT.POWERSETS",
+  "icon": "fury_monument_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Fury_Monument.Fury"
+  ],
+  "power_display_names": [
+    "Fury"
+  ],
+  "power_short_helps": [
+    "+DMG, -Recovery"
+  ]
+}

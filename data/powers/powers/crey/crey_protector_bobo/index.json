@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Protector_Bobo",
+  "display_name": "Crey_Protector_Bobo",
+  "display_fullname": "Crey.Crey Protector Bobo",
+  "display_help": "Crey_Protector_Bobo",
+  "display_short_help": "Crey_Protector_Bobo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_PROTECTOR_BOBO.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Protector_Bobo.Crey_Death_Gas"
+  ],
+  "power_display_names": [
+    "Crey_Death_Gas"
+  ],
+  "power_short_helps": [
+    "Crey_Death_Gas"
+  ]
+}

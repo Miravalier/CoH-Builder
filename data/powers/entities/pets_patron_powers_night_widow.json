@@ -1,0 +1,94 @@
+{
+  "name": "Pets_Patron_Powers_Night_Widow",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Pets",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": true,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Base",
+    "character_class_name": "minion_pets",
+    "description": "Night Widows are trained in stealth, infiltration, disguise, and cold-blooded murder. Most of their victims never even see them coming.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Villain_Pets.Night_Widow.Stealth",
+      "Villain_Pets.Night_Widow.Self_Destruct",
+      "Villain_Pets.Night_Widow.Mental_Training",
+      "Villain_Pets.Night_Widow.Smoke_Grenade",
+      "Villain_Pets.Night_Widow.Mental_Blast",
+      "Villain_Pets.Night_Widow.Swipe",
+      "Villain_Pets.Night_Widow.Lunge",
+      "Villain_Pets.Night_Widow.Strike",
+      "Villain_Pets.Night_Widow.Slash"
+    ],
+    "power_display_names": [
+      "Stealth",
+      "Self Destruct",
+      "Mental Training",
+      "Smoke Grenade",
+      "Mental Blast",
+      "Swipe",
+      "Lunge",
+      "Strike",
+      "Slash"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Villain_Pets",
+        "power_set": "Night_Widow",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Night Widow"
+      ],
+      "costumes": [
+        "Arachnos_Widow_05_Tintable"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "ReverbChordsOfDespair",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Chords of Despair",
+      "controller_control.symphony_control.chords_of_despair"
+    ],
+    [
+      "Dominator Control.Symphony Control.Chords of Despair",
+      "dominator_control.symphony_control.chords_of_despair"
+    ],
+    [
+      "Mission Maker Attacks.Symphony Control.Chords of Despair",
+      "mission_maker_attacks.symphony_control.chords_of_despair"
+    ],
+    [
+      "Mission Maker Secondary.Symphony Control.Chords of Despair",
+      "mission_maker_secondary.symphony_control.chords_of_despair"
+    ]
+  ],
+  "affects": []
+}

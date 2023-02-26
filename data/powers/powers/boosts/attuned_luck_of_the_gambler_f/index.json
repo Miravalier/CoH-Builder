@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Luck_of_the_Gambler_F",
+  "display_name": "Attuned Luck of the Gambler F",
+  "display_fullname": "Boosts.Attuned Luck of the Gambler F",
+  "display_help": "Enhances the defense of a power by {Boost.Attrib.Defense.Scale}% and reduces the recharge time all of the user's powers by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Luck of the Gambler",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_LUCK_OF_THE_GAMBLER_F.POWERSETS",
+  "icon": "attuned_luck_of_the_gambler_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Luck_of_the_Gambler_F.Attuned_Luck_of_the_Gambler_F"
+  ],
+  "power_display_names": [
+    "Luck of the Gambler: Defense/Increased Global Recharge Speed"
+  ],
+  "power_short_helps": [
+    "+Global Recharge Speed, +DEF (all)"
+  ]
+}

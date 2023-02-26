@@ -1,0 +1,22 @@
+{
+  "name": "Rikti_Sword",
+  "display_name": "Rikti_Sword",
+  "display_fullname": "Rikti.Rikti Sword",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_SWORD.POWERSETS",
+  "icon": "rikti_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Sword.Rikti_Sword"
+  ],
+  "power_display_names": [
+    "Rikti Sword"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

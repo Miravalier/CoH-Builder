@@ -1,0 +1,54 @@
+{
+  "name": "Mynx_Low",
+  "display_name": "Mynx Low",
+  "display_fullname": "V Vindicators.Mynx Low",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_VINDICATORS/MYNX_LOW.POWERSETS",
+  "icon": "mynx_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Vindicators.Mynx_Low.Strike",
+    "V_Vindicators.Mynx_Low.Slash",
+    "V_Vindicators.Mynx_Low.Spin",
+    "V_Vindicators.Mynx_Low.Follow_Up",
+    "V_Vindicators.Mynx_Low.Focus",
+    "V_Vindicators.Mynx_Low.Shockwave",
+    "V_Vindicators.Mynx_Low.Focused_Fighting",
+    "V_Vindicators.Mynx_Low.Feral_Flurry",
+    "V_Vindicators.Mynx_Low.Super_Leap"
+  ],
+  "power_display_names": [
+    "Strike",
+    "Slash",
+    "Spin",
+    "Follow Up",
+    "Focus",
+    "Shockwave",
+    "Focused Fighting",
+    "Feral Flurry",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Melee Lethal",
+    "-DEF",
+    "Melee AoE Lethal",
+    "Melee, Moderate DMG(Lethal), Self +DMG",
+    "Ranged Lethal, Knockback",
+    "Melee (Cone), Moderate DMG(Lethal), Foe Knockback",
+    "Toggle: Self +DEF(Melee, Ranged, AoE), Res(Confuse), +Perception",
+    "-DEF",
+    "Self Auto, +Jump"
+  ]
+}

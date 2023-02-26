@@ -1,0 +1,42 @@
+{
+  "name": "Leon",
+  "display_name": "Leon",
+  "display_fullname": "RoguesGallery.Leon",
+  "display_help": "Leon",
+  "display_short_help": "Leon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/LEON.POWERSETS",
+  "icon": "leon_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.Leon.Nimble_Slash",
+    "RoguesGallery.Leon.Power_Slice",
+    "RoguesGallery.Leon.Ablating_Strike",
+    "RoguesGallery.Leon.Throwing_Knives",
+    "RoguesGallery.Leon.Kinetic_Shield",
+    "RoguesGallery.Leon.Power_Shield"
+  ],
+  "power_display_names": [
+    "Nimble Slash",
+    "Power Slice",
+    "Ablating Strike",
+    "Throwing Knives",
+    "Kinetic Shield",
+    "Power Shield"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Lethal)",
+    "Melee, Moderate DMG(Lethal), Knockback (Foe)",
+    "Melee, Moderate DMG(Lethal), -DEF(Foe, All)",
+    "Ranged, Minor DMG(Lethal), Minor DoT(Lethal)",
+    "Toggle: Self +DEF(Smashing, Lethal, Energy), Res(Defense Debuff)",
+    "Toggle: Self +DEF(Fire, Cold, Energy, Negative), Res(Defense Debuff)"
+  ]
+}

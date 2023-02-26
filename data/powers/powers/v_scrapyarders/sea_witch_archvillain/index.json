@@ -1,0 +1,38 @@
+{
+  "name": "Sea_Witch_Archvillain",
+  "display_name": "Sea Witch Archvillain",
+  "display_fullname": "V Scrapyarders.Sea Witch Archvillain",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/SEA_WITCH_ARCHVILLAIN.POWERSETS",
+  "icon": "sea_witch_archvillain_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Sea_Witch_Archvillain.Lightning_Storm",
+    "V_Scrapyarders.Sea_Witch_Archvillain.Thunder_Strike",
+    "V_Scrapyarders.Sea_Witch_Archvillain.Thunder_Clap",
+    "V_Scrapyarders.Sea_Witch_Archvillain.Tornado",
+    "V_Scrapyarders.Sea_Witch_Archvillain.Resistance"
+  ],
+  "power_display_names": [
+    "Lightning Storm",
+    "Thunder Strike",
+    "Thunder Clap",
+    "Tornado",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon Lightning Storm",
+    "Disorient",
+    "Stun",
+    "Summon Tornado: PBAoE Minor DAM (Smash), Foe Knockback, Fear, Disorient",
+    "Resistance"
+  ]
+}

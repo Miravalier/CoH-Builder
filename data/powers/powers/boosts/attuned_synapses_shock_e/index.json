@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Synapses_Shock_E",
+  "display_name": "Attuned Synapses Shock E",
+  "display_fullname": "Boosts.Attuned Synapses Shock E",
+  "display_help": "Enhances accuracy by {Boost.Attrib.Accuracy.Scale}%. Enhances damage by {Boost.Attrib.Damage.Scale}%. Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Synapse's Shock",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SYNAPSES_SHOCK_E.POWERSETS",
+  "icon": "e_icon_synapses_shock.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Synapses_Shock_E.Attuned_Synapses_Shock_E"
+  ],
+  "power_display_names": [
+    "Synapse's Shock: Accuracy/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, +DMG, -End Cost"
+  ]
+}

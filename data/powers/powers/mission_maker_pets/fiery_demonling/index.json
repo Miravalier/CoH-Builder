@@ -1,0 +1,50 @@
+{
+  "name": "Fiery_Demonling",
+  "display_name": "Fiery Demonling",
+  "display_fullname": "Mission Maker Pets.Fiery Demonling",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    31,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/FIERY_DEMONLING.POWERSETS",
+  "icon": "fiery_demonling_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Fiery_Demonling.Resistance",
+    "Mission_Maker_Pets.Fiery_Demonling.Flares",
+    "Mission_Maker_Pets.Fiery_Demonling.Claw_Rake",
+    "Mission_Maker_Pets.Fiery_Demonling.Super_Leap",
+    "Mission_Maker_Pets.Fiery_Demonling.Fire_Blast",
+    "Mission_Maker_Pets.Fiery_Demonling.Enchant_Demon",
+    "Mission_Maker_Pets.Fiery_Demonling.Fire_Breath",
+    "Mission_Maker_Pets.Fiery_Demonling.Abyssal_Empowerment"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Flares",
+    "Claw Rake",
+    "Super Leap",
+    "Fire Blast",
+    "Enchant Demon",
+    "Fire Breath",
+    "Abyssal Empowerment"
+  ],
+  "power_short_helps": [
+    "Auto Res Placate, Disorient, Terrorize, Smashing, Lethal, Fire, Cold, Toxic",
+    "Ranged, Minor DMG(Fire)",
+    "Melee, Moderate DMG(Lethal/Fire)",
+    "Self Leap",
+    "Ranged, Moderate DMG(Fire)",
+    "Enchant Demon",
+    "Close (Cone), Moderate DoT(Fire)",
+    "Abyssal Empowerment"
+  ]
+}

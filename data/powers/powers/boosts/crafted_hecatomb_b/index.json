@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Hecatomb_B",
+  "display_name": "Crafted Hecatomb B",
+  "display_fullname": "Boosts.Crafted Hecatomb B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Hecatomb",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_HECATOMB_B.POWERSETS",
+  "icon": "crafted_hecatomb_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Hecatomb_B.Crafted_Hecatomb_B"
+  ],
+  "power_display_names": [
+    "Hecatomb: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+DMG, +Rech"
+  ]
+}

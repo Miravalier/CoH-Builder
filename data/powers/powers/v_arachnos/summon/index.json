@@ -1,0 +1,22 @@
+{
+  "name": "Summon",
+  "display_name": "Summon",
+  "display_fullname": "V Arachnos.Summon",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/SUMMON.POWERSETS",
+  "icon": "summon_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Summon.Teleport"
+  ],
+  "power_display_names": [
+    "Teleport"
+  ],
+  "power_short_helps": [
+    "Teleport"
+  ]
+}

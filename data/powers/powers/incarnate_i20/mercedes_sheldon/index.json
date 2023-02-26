@@ -1,0 +1,30 @@
+{
+  "name": "Mercedes_Sheldon",
+  "display_name": "Mercedes Sheldon",
+  "display_fullname": "Incarnate I20.Mercedes Sheldon",
+  "display_help": "Focus the dark power of the Netherworld to weaken your foes. Dark Miasma focuses on draining your opponent.",
+  "display_short_help": "Mercedes Sheldon",
+  "available_level": [
+    0,
+    29,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/MERCEDES_SHELDON.POWERSETS",
+  "icon": "mercedes_sheldon_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Mercedes_Sheldon.Twilight_Grasp",
+    "Incarnate_I20.Mercedes_Sheldon.Gloom",
+    "Incarnate_I20.Mercedes_Sheldon.Summon_Exorcist"
+  ],
+  "power_display_names": [
+    "Twilight Grasp",
+    "Gloom",
+    "Summon Exorcist"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -To-hit -DMG, Team Heal",
+    "Ranged, High DoT(Negative), Foe -To-hit",
+    "Grant"
+  ]
+}

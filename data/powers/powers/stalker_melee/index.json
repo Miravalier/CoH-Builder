@@ -1,0 +1,51 @@
+{
+  "name": "Stalker_Melee",
+  "display_name": "Melee",
+  "source_file": "DEFS/POWERS/STALKER_MELEE.CATEGORIES",
+  "archetypes": [
+    "stalker"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "stalker_melee.brawling",
+    "stalker_melee.broad_sword",
+    "stalker_melee.claws",
+    "stalker_melee.dark_melee",
+    "stalker_melee.dual_blades",
+    "stalker_melee.electrical_melee",
+    "stalker_melee.energy_melee",
+    "stalker_melee.fiery_melee",
+    "stalker_melee.ice_melee",
+    "stalker_melee.kinetic_attack",
+    "stalker_melee.martial_arts",
+    "stalker_melee.ninja_sword",
+    "stalker_melee.psionic_melee",
+    "stalker_melee.radiation_melee",
+    "stalker_melee.savage_melee",
+    "stalker_melee.spines",
+    "stalker_melee.staff_fighting",
+    "stalker_melee.stone_melee"
+  ],
+  "powerset_display_names": [
+    "Street Justice",
+    "Broad Sword",
+    "Claws",
+    "Dark Melee",
+    "Dual Blades",
+    "Electrical Melee",
+    "Energy Melee",
+    "Fiery Melee",
+    "Ice Melee",
+    "Kinetic Melee",
+    "Martial Arts",
+    "Ninja Blade",
+    "Psionic Melee",
+    "Radiation Melee",
+    "Savage Melee",
+    "Spines",
+    "Staff Fighting",
+    "Stone Melee"
+  ],
+  "powersets_with_requirements": []
+}

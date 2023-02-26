@@ -1,0 +1,34 @@
+{
+  "name": "Lambda_CleanUp_Entity",
+  "display_name": "Lambda_CleanUp_Entity",
+  "display_fullname": "Objects.Lambda CleanUp Entity",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/LAMBDA_CLEANUP_ENTITY.POWERSETS",
+  "icon": "lambda_cleanup_entity_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Lambda_CleanUp_Entity.Explosion",
+    "Objects.Lambda_CleanUp_Entity.Clear_Sibyls",
+    "Objects.Lambda_CleanUp_Entity.Clear_Clones",
+    "Objects.Lambda_CleanUp_Entity.Clear_Self"
+  ],
+  "power_display_names": [
+    "Explosion",
+    "Clear Sibyls",
+    "Clear Clones",
+    "Clear Self"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Clear Pets",
+    "Clear Pets",
+    "Clear Pets"
+  ]
+}

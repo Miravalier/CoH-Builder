@@ -1,0 +1,22 @@
+{
+  "name": "Translucent_Aura",
+  "display_name": "Translucent Aura",
+  "display_fullname": "GenericVillains.Translucent Aura",
+  "display_help": "Aura",
+  "display_short_help": "Aura",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/TRANSLUCENT_AURA.POWERSETS",
+  "icon": "translucent_aura_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Translucent_Aura.Aura"
+  ],
+  "power_display_names": [
+    "Aura"
+  ],
+  "power_short_helps": [
+    "Aura"
+  ]
+}

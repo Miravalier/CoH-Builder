@@ -1,0 +1,22 @@
+{
+  "name": "Door_Dampening_Field",
+  "display_name": "Door_Dampening_Field",
+  "display_fullname": "V FreedomCorps.Door Dampening Field",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/DOOR_DAMPENING_FIELD.POWERSETS",
+  "icon": "door_dampening_field_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Door_Dampening_Field.Dampening_Field"
+  ],
+  "power_display_names": [
+    "Dampening Field"
+  ],
+  "power_short_helps": [
+    "-Teleport"
+  ]
+}

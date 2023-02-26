@@ -1,0 +1,54 @@
+{
+  "name": "Diabolique",
+  "display_name": "Diabolique",
+  "display_fullname": "Praetorians.Diabolique",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/DIABOLIQUE.POWERSETS",
+  "icon": "diabolique_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Diabolique.Resistance",
+    "Praetorians.Diabolique.Fly",
+    "Praetorians.Diabolique.Fly_fx",
+    "Praetorians.Diabolique.Phase_Shift",
+    "Praetorians.Diabolique.Personal_Force_Field",
+    "Praetorians.Diabolique.Siphon_Power",
+    "Praetorians.Diabolique.Siphon_Speed",
+    "Praetorians.Diabolique.Force_Bolt",
+    "Praetorians.Diabolique.Force_Bomb"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly",
+    "Fly fx",
+    "Phase Shift",
+    "Personal Force Field",
+    "Siphon Power",
+    "Siphon Speed",
+    "Force Bolt",
+    "Force Bomb"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Special",
+    "Self Intangible",
+    "Self Toggle Invulnerable, Special",
+    "-DMG",
+    "-SPD",
+    "Ranged, Moderate DMG(Smash), Foe Knockback",
+    "Ranged (Targeted Ally AoE), Foe Moderate DMG(Smash), Knockback"
+  ]
+}

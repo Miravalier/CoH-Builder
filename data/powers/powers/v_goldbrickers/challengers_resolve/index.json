@@ -1,0 +1,42 @@
+{
+  "name": "Challengers_Resolve",
+  "display_name": "Challengers Resolve",
+  "display_fullname": "V GoldBrickers.Challengers Resolve",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    0,
+    44,
+    44,
+    44,
+    44,
+    44
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/CHALLENGERS_RESOLVE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Challengers_Resolve.Challengers_Resolve",
+    "V_GoldBrickers.Challengers_Resolve.Fire_Breath",
+    "V_GoldBrickers.Challengers_Resolve.Inferno",
+    "V_GoldBrickers.Challengers_Resolve.Fire_Imps",
+    "V_GoldBrickers.Challengers_Resolve.Healing_Flames",
+    "V_GoldBrickers.Challengers_Resolve.Fiery_Embrace"
+  ],
+  "power_display_names": [
+    "Challenger's Resolve",
+    "Fire Breath",
+    "Inferno",
+    "Fire Imps",
+    "Healing Flames",
+    "Fiery Embrace"
+  ],
+  "power_short_helps": [
+    "Protection KB, +Range",
+    "Close (Cone), Moderate DoT(Fire)",
+    "PBAoE, Extreme DMG(Fire/Smash), Self -Recovery",
+    "Summon Imps: Melee Minor DMG(Fire)",
+    "Self Heal, +Res(Toxic)",
+    "Self +DMG"
+  ]
+}

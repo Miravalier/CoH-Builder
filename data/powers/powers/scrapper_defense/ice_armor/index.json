@@ -1,0 +1,54 @@
+{
+  "name": "Ice_Armor",
+  "display_name": "Ice Armor",
+  "display_fullname": "Scrapper Defense.Ice Armor",
+  "display_help": "You can dramatically reduce your core body temperature to form various armors of ice around yourself. You can protect yourself from many different damage types, and you gain exceptional resistance to Cold based attacks. However, this set offers little protection to Fire based powers and no protection against Psionics.",
+  "display_short_help": "Ice Armor",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/SCRAPPER_DEFENSE/ICE_ARMOR.POWERSETS",
+  "icon": "ice_armor_set.png",
+  "requires": "",
+  "power_names": [
+    "Scrapper_Defense.Ice_Armor.Ice_Armor",
+    "Scrapper_Defense.Ice_Armor.Hoarfrost",
+    "Scrapper_Defense.Ice_Armor.Chilling_Embrace",
+    "Scrapper_Defense.Ice_Armor.Wet_Ice",
+    "Scrapper_Defense.Ice_Armor.Glacial_Armor",
+    "Scrapper_Defense.Ice_Armor.Energy_Absorption",
+    "Scrapper_Defense.Ice_Armor.Permafrost",
+    "Scrapper_Defense.Ice_Armor.Icicles",
+    "Scrapper_Defense.Ice_Armor.Icy_Bastion"
+  ],
+  "power_display_names": [
+    "Frozen Armor",
+    "Hoarfrost",
+    "Chilling Embrace",
+    "Wet Ice",
+    "Glacial Armor",
+    "Energy Absorption",
+    "Permafrost",
+    "Icicles",
+    "Icy Bastion"
+  ],
+  "power_short_helps": [
+    "Self, +Def(Smash, Lethal), +Res(Cold, Fire, DeBuff DEF)",
+    "Self Heal, +Max HP, Res(Toxic)",
+    "Toggle: PBAoE, Foe -Recharge, -Speed, -DMG",
+    "Self, +DEF(All), +Res(Cold, Disorient, Immobilize, Hold, Sleep, Slow, Knockback, DeBuff DEF)",
+    "Toggle: Self +DEF(Energy, Negative), Res (Cold, DeBuff DEF), +Perception",
+    "PBAoE, Self +End, +DEF(All), Res (Slow), Foe -End",
+    "Auto: Self +Res(All damage, Slow)",
+    "Toggle: PBAoE, Minor DoT(Lethal)",
+    "Self +Res(All DMG, but Psionics), +Res(Knockback, Repel, Disorient, Hold, Immobilize, Sleep), +Regen, +Recovery"
+  ]
+}

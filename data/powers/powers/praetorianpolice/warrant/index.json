@@ -1,0 +1,38 @@
+{
+  "name": "Warrant",
+  "display_name": "Warrant",
+  "display_fullname": "PraetorianPolice.Warrant",
+  "display_help": "Energy Blast allows you to hurl bolts of energy at your foes, and can often send them flying with Knockback.",
+  "display_short_help": "Warrant",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/WARRANT.POWERSETS",
+  "icon": "warrant_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.Warrant.Power_Bolt",
+    "PraetorianPolice.Warrant.Power_Blast",
+    "PraetorianPolice.Warrant.Explosive_Blast",
+    "PraetorianPolice.Warrant.Personal_Force_Field",
+    "PraetorianPolice.Warrant.Force_Bolt"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Explosive Blast",
+    "Personal Force Field",
+    "Force Bolt"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Targeted AoE), Moderate DMG(Smash/Energy), Foe Knockback",
+    "Toggle: Self +Def, Res(All)",
+    "Ranged, Minor DMG(Smash), Foe Knockback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Power_Transfer_C",
+  "display_name": "Attuned Power Transfer C",
+  "display_fullname": "Boosts.Attuned Power Transfer C",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%. Enhances the Endurance Modification potential of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Power Transfer",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_POWER_TRANSFER_C.POWERSETS",
+  "icon": "e_icon_power_transfer.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Power_Transfer_C.Attuned_Power_Transfer_C"
+  ],
+  "power_display_names": [
+    "Power Transfer: Damage/Endurance Modification"
+  ],
+  "power_short_helps": [
+    "+DMG, +EndMod"
+  ]
+}

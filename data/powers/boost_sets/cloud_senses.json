@@ -1,0 +1,542 @@
+{
+  "name": "Cloud_Senses",
+  "display_name": "Cloud Senses",
+  "group_name": "Accurate To-Hit Debuff",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Accurate To Hit Debuff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Cloud_Senses_A.Crafted_Cloud_Senses_A",
+      "Boosts.Attuned_Cloud_Senses_A.Attuned_Cloud_Senses_A"
+    ],
+    [
+      "Boosts.Crafted_Cloud_Senses_B.Crafted_Cloud_Senses_B",
+      "Boosts.Attuned_Cloud_Senses_B.Attuned_Cloud_Senses_B"
+    ],
+    [
+      "Boosts.Crafted_Cloud_Senses_C.Crafted_Cloud_Senses_C",
+      "Boosts.Attuned_Cloud_Senses_C.Attuned_Cloud_Senses_C"
+    ],
+    [
+      "Boosts.Crafted_Cloud_Senses_D.Crafted_Cloud_Senses_D",
+      "Boosts.Attuned_Cloud_Senses_D.Attuned_Cloud_Senses_D"
+    ],
+    [
+      "Boosts.Crafted_Cloud_Senses_E.Crafted_Cloud_Senses_E",
+      "Boosts.Attuned_Cloud_Senses_E.Attuned_Cloud_Senses_E"
+    ],
+    [
+      "Boosts.Crafted_Cloud_Senses_F.Crafted_Cloud_Senses_F",
+      "Boosts.Attuned_Cloud_Senses_F.Attuned_Cloud_Senses_F"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs",
+      "Enhance ToHit DeBuffs"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_2",
+          "Small Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_4",
+          "Large Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_4",
+          "Large Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_move_4",
+          "Large Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_5",
+          "Huge Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png",
+      "e_icon_cloudsenses.png"
+    ],
+    "boosts": [
+      [
+        "Cloud Senses: ToHit Debuff",
+        "Attuned Cloud Senses: ToHit Debuff"
+      ],
+      [
+        "Cloud Senses: Accuracy/ToHit Debuff",
+        "Attuned Cloud Senses: Accuracy/ToHit Debuff"
+      ],
+      [
+        "Cloud Senses: Accuracy/Recharge",
+        "Attuned Cloud Senses: Accuracy/Recharge"
+      ],
+      [
+        "Cloud Senses: Endurance/Recharge/ToHit Debuff",
+        "Attuned Cloud Senses: Endurance/Recharge/ToHit Debuff"
+      ],
+      [
+        "Cloud Senses: Accuracy/Endurance/Recharge",
+        "Attuned Cloud Senses: Accuracy/Endurance/Recharge"
+      ],
+      [
+        "Cloud Senses: Chance for NegativeEnergy Damage",
+        "Attuned Cloud Senses: Chance for NegativeEnergy Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_cloud_senses_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_cloud_senses_a.attuned_cloud_senses_a",
+          "Cloud Senses: To Hit Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Cloud Senses: ToHit Debuff",
+        "aspects": [
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "attuned_cloud_senses_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Cloud Senses: ToHit Debuff",
+        "aspects": [
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "crafted_cloud_senses_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_cloud_senses_b.attuned_cloud_senses_b",
+          "Cloud Senses: Accuracy/To Hit Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Cloud Senses: Accuracy/ToHit Debuff",
+        "aspects": [
+          "Accuracy",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "attuned_cloud_senses_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Cloud Senses: Accuracy/ToHit Debuff",
+        "aspects": [
+          "Accuracy",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "crafted_cloud_senses_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_cloud_senses_c.attuned_cloud_senses_c",
+          "Cloud Senses: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Cloud Senses: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "attuned_cloud_senses_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Cloud Senses: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "crafted_cloud_senses_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_cloud_senses_d.attuned_cloud_senses_d",
+          "Cloud Senses: To Hit Debuff/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Cloud Senses: Endurance/Recharge/ToHit Debuff",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "attuned_cloud_senses_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Cloud Senses: Endurance/Recharge/ToHit Debuff",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "crafted_cloud_senses_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_cloud_senses_e.attuned_cloud_senses_e",
+          "Cloud Senses: Accuracy/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Cloud Senses: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "attuned_cloud_senses_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Cloud Senses: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "crafted_cloud_senses_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_cloud_senses_f.attuned_cloud_senses_f",
+          "Cloud Senses: Chance for Negative Energy Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Cloud Senses: Chance for NegativeEnergy Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      },
+      "attuned_cloud_senses_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Cloud Senses: Chance for NegativeEnergy Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "cloud_senses",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit DeBuffs",
+        "icon": "e_icon_cloudsenses.png"
+      }
+    }
+  }
+}

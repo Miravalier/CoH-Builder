@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Tempered_Readiness_C",
+  "display_name": "Attuned Tempered Readiness C",
+  "display_fullname": "Boosts.Attuned Tempered Readiness C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Tempered Readiness",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TEMPERED_READINESS_C.POWERSETS",
+  "icon": "attuned_tempered_readiness_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Tempered_Readiness_C.Attuned_Tempered_Readiness_C"
+  ],
+  "power_display_names": [
+    "Tempered Readiness: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

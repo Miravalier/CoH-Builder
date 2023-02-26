@@ -1,0 +1,30 @@
+{
+  "name": "Maestro_RippleAV",
+  "display_name": "Maestro RippleAV",
+  "display_fullname": "5thColumn.Maestro RippleAV",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/MAESTRO_RIPPLEAV.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Maestro_RippleAV.Living_Shadows",
+    "5thColumn.Maestro_RippleAV.Fearsome_Stare",
+    "5thColumn.Maestro_RippleAV.Haunt"
+  ],
+  "power_display_names": [
+    "Living Shadows",
+    "Fearsome Stare",
+    "Haunt"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Minor DoT(Negative), Foe Immobilize, -To Hit, -Fly",
+    "Ranged (Cone), Foe Fear, -To Hit",
+    "Foe Targeted, Summon Shades"
+  ]
+}

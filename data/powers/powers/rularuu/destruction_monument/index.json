@@ -1,0 +1,22 @@
+{
+  "name": "Destruction_Monument",
+  "display_name": "Destruction Monument",
+  "display_fullname": "Rularuu.Destruction Monument",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/DESTRUCTION_MONUMENT.POWERSETS",
+  "icon": "destruction_monument_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Destruction_Monument.Destruction"
+  ],
+  "power_display_names": [
+    "Destruction"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

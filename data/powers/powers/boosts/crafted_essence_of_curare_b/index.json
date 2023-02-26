@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Essence_of_Curare_B",
+  "display_name": "Crafted Essence of Curare B",
+  "display_fullname": "Boosts.Crafted Essence of Curare B",
+  "display_help": "Enhances the hold duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Essence of Curare",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ESSENCE_OF_CURARE_B.POWERSETS",
+  "icon": "crafted_essence_of_curare_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Essence_of_Curare_B.Crafted_Essence_of_Curare_B"
+  ],
+  "power_display_names": [
+    "Essence of Curare: Endurance/Hold"
+  ],
+  "power_short_helps": [
+    "+End, +Hold"
+  ]
+}

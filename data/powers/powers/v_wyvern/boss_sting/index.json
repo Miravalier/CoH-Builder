@@ -1,0 +1,22 @@
+{
+  "name": "Boss_Sting",
+  "display_name": "Boss Sting",
+  "display_fullname": "V Wyvern.Boss Sting",
+  "display_help": "Wyvern",
+  "display_short_help": "Wyvern",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_WYVERN/BOSS_STING.POWERSETS",
+  "icon": "boss_sting_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Wyvern.Boss_Sting.Talon_Blazing_Arrow"
+  ],
+  "power_display_names": [
+    "Talon Blazing Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal), Moderate DoT(Fire)"
+  ]
+}

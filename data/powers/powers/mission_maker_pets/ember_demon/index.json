@@ -1,0 +1,62 @@
+{
+  "name": "Ember_Demon",
+  "display_name": "Ember Demon",
+  "display_fullname": "Mission Maker Pets.Ember Demon",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    5,
+    31,
+    31,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/EMBER_DEMON.POWERSETS",
+  "icon": "ember_demon_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Ember_Demon.Resistance",
+    "Mission_Maker_Pets.Ember_Demon.Fire_Blast",
+    "Mission_Maker_Pets.Ember_Demon.Shield_of_Hellfire",
+    "Mission_Maker_Pets.Ember_Demon.Ember_Shield_Owner",
+    "Mission_Maker_Pets.Ember_Demon.Super_Leap",
+    "Mission_Maker_Pets.Ember_Demon.Fire_Breath",
+    "Mission_Maker_Pets.Ember_Demon.Abyssal_Mending",
+    "Mission_Maker_Pets.Ember_Demon.Enchant_Demon",
+    "Mission_Maker_Pets.Ember_Demon.Fire_Ball",
+    "Mission_Maker_Pets.Ember_Demon.Abyssal_Reconstruction",
+    "Mission_Maker_Pets.Ember_Demon.Abyssal_Empowerment"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fire Blast",
+    "Ember Shield",
+    "Ember Shield Owner",
+    "Super Leap",
+    "Fire Breath",
+    "Abyssal Mending",
+    "Enchant Demon",
+    "Fire Ball",
+    "Abyssal Reconstruction",
+    "Abyssal Empowerment"
+  ],
+  "power_short_helps": [
+    "Auto Res Fear, Smashing, Lethal, Fire, Cold, Toxic",
+    "Ranged, Moderate DMG(Fire)",
+    "Auto PBAoE, Ally +Res(Fire, Lethal, Smash, Cold, Toxic)",
+    "Auto PBAoE, Owner +Res(Fire, Lethal, Smash, Cold, Toxic)",
+    "Self Leap",
+    "Close (Cone), Moderate DoT(Fire)",
+    "Demon Ally Heal",
+    "Enchant Demon",
+    "Ranged (Targeted AoE), Moderate DMG(Fire/Smash)",
+    "PBAoE, Demon Ally +Heal",
+    "Empower"
+  ]
+}

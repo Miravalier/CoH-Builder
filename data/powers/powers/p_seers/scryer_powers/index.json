@@ -1,0 +1,30 @@
+{
+  "name": "Scryer_Powers",
+  "display_name": "Scryer Powers",
+  "display_fullname": "P Seers.Scryer Powers",
+  "display_help": "Scryer",
+  "display_short_help": "Scryer",
+  "available_level": [
+    0,
+    39,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/SCRYER_POWERS.POWERSETS",
+  "icon": "scryer_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Scryer_Powers.Psionic_Dart",
+    "P_Seers.Scryer_Powers.Reveal_Weakness",
+    "P_Seers.Scryer_Powers.Subdual"
+  ],
+  "power_display_names": [
+    "Psionic Dart",
+    "Reveal Weakness",
+    "Subdual"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Psionic), Target -Recharge",
+    "Ranged Foe -DEF, -RES (All)",
+    "Ranged, Moderate DOT(Psionic), Foe Immobilize"
+  ]
+}

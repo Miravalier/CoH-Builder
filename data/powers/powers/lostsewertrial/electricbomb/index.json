@@ -1,0 +1,30 @@
+{
+  "name": "ElectricBomb",
+  "display_name": "",
+  "display_fullname": "LostSewerTrial.ElectricBomb",
+  "display_help": "Vahzilok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/LOSTSEWERTRIAL/ELECTRICBOMB.POWERSETS",
+  "icon": "electricbomb_set.png",
+  "requires": "",
+  "power_names": [
+    "LostSewerTrial.ElectricBomb.Electric_Bomb",
+    "LostSewerTrial.ElectricBomb.Electric_Bomb_Summon",
+    "LostSewerTrial.ElectricBomb.Electric_Bomb_Blast"
+  ],
+  "power_display_names": [
+    "Electric Bomb",
+    "Electric Bomb Summon",
+    "Electric Bomb Blast"
+  ],
+  "power_short_helps": [
+    "The Reaper can resurrect a fallen Cadaver or Abomination.",
+    "TEXT",
+    "TEXT"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Harmonized_Healing_B",
+  "display_name": "Attuned Harmonized Healing B",
+  "display_fullname": "Boosts.Attuned Harmonized Healing B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Harmonized Healing",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_HARMONIZED_HEALING_B.POWERSETS",
+  "icon": "attuned_harmonized_healing_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Harmonized_Healing_B.Attuned_Harmonized_Healing_B"
+  ],
+  "power_display_names": [
+    "Harmonized Healing: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Rech"
+  ]
+}

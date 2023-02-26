@@ -1,0 +1,38 @@
+{
+  "name": "Special",
+  "display_name": "Special",
+  "display_fullname": "Inspirations.Special",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Special",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/SPECIAL.POWERSETS",
+  "icon": "special_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Special.Hide",
+    "Inspirations.Special.Ambrosia",
+    "Inspirations.Special.Essence_of_the_Earth",
+    "Inspirations.Special.Consignment_House_Transporter",
+    "Inspirations.Special.Black_Market_Transporter"
+  ],
+  "power_display_names": [
+    "Conceal",
+    "Ambrosia",
+    "Essence of the Earth",
+    "Consignment House Transporter",
+    "Black Market Transporter"
+  ],
+  "power_short_helps": [
+    "Self Stealth",
+    "Res Crystal Titan DMG",
+    "Res Hamidon DMG",
+    "Teleport to Wentworth's",
+    "Teleport to Black Market"
+  ]
+}

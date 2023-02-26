@@ -1,0 +1,175 @@
+{
+  "tag": "Contaminated",
+  "bears": [
+    [
+      "Brute Melee.Radiation Melee.Atom Smasher",
+      "brute_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Contaminated Strike",
+      "brute_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Devastating Blow",
+      "brute_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Proton Sweep",
+      "brute_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Radiation Siphon",
+      "brute_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Brute Melee.Radiation Melee.Radioactive Smash",
+      "brute_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Atom Smasher",
+      "dominator_assault.radioactive_assault.atom_smasher"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Contaminated Strike",
+      "dominator_assault.radioactive_assault.contaminated_strike"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Devastating Blow",
+      "dominator_assault.radioactive_assault.devastating_blow"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Electron Haze",
+      "dominator_assault.radioactive_assault.electron_haze"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Neutrino Bolt",
+      "dominator_assault.radioactive_assault.neutrino_bolt"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Radiation Siphon",
+      "dominator_assault.radioactive_assault.radiation_siphon"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.X-Ray Beam",
+      "dominator_assault.radioactive_assault.x-ray_beam"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Atom Smasher",
+      "scrapper_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Contaminated Strike",
+      "scrapper_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Devastating Blow",
+      "scrapper_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Proton Sweep",
+      "scrapper_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Radiation Siphon",
+      "scrapper_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Radioactive Smash",
+      "scrapper_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Stalker Melee.Radiation Melee.Atom Smasher",
+      "stalker_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Stalker Melee.Radiation Melee.Contaminated Strike",
+      "stalker_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Stalker Melee.Radiation Melee.Devastating Blow",
+      "stalker_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Stalker Melee.Radiation Melee.Proton Sweep",
+      "stalker_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Stalker Melee.Radiation Melee.Radiation Siphon",
+      "stalker_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Stalker Melee.Radiation Melee.Radioactive Smash",
+      "stalker_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Atom Smasher",
+      "tanker_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Contaminated Strike",
+      "tanker_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Devastating Blow",
+      "tanker_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Proton Sweep",
+      "tanker_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Radiation Siphon",
+      "tanker_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Radioactive Smash",
+      "tanker_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Vahzilok.Vahzilok Decay Luminous Eidolon Powers.Radiation Siphon",
+      "vahzilok.vahzilok_decay_luminous_eidolon_powers.radiation_siphon"
+    ],
+    [
+      "Vahzilok.Vahzilok Decay Luminous Eidolon Powers.X-Ray Beam",
+      "vahzilok.vahzilok_decay_luminous_eidolon_powers.x-ray_beam"
+    ],
+    [
+      "Villain Pets.Dominator RadioactiveAssault Snipe.Proton Volley",
+      "villain_pets.dominator_radioactiveassault_snipe.proton_volley_normal"
+    ],
+    [
+      "Villain Pets.Dominator RadioactiveAssault Snipe.Proton Volley",
+      "villain_pets.dominator_radioactiveassault_snipe.proton_volley_quick"
+    ],
+    [
+      "Villain Pets.Radiation Melee Assassins Corruption.Assassins Strike Quick",
+      "villain_pets.radiation_melee_assassins_corruption.assassins_strike_quick"
+    ],
+    [
+      "Villain Pets.Radiation Melee Assassins Corruption.Assassins Strike Stealth",
+      "villain_pets.radiation_melee_assassins_corruption.assassins_strike_stealth"
+    ]
+  ],
+  "affects": [
+    [
+      "Brute Melee.Radiation Melee.Fusion",
+      "brute_melee.radiation_melee.fusion"
+    ],
+    [
+      "Dominator Assault.Radioactive Assault.Fusion",
+      "dominator_assault.radioactive_assault.fusion"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Fusion",
+      "scrapper_melee.radiation_melee.fusion"
+    ],
+    [
+      "Tanker Melee.Radiation Melee.Fusion",
+      "tanker_melee.radiation_melee.fusion"
+    ],
+    [
+      "Vahzilok.Vahzilok Decay Luminous Eidolon Powers.Fusion",
+      "vahzilok.vahzilok_decay_luminous_eidolon_powers.fusion"
+    ]
+  ]
+}

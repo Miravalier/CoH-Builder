@@ -1,0 +1,26 @@
+{
+  "name": "Rikti_Pistol",
+  "display_name": "Rikti_Pistol",
+  "display_fullname": "Guns.Rikti Pistol",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/RIKTI_PISTOL.POWERSETS",
+  "icon": "rikti_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Rikti_Pistol.Rikti_Gun",
+    "Guns.Rikti_Pistol.Human_Rikti_Gun"
+  ],
+  "power_display_names": [
+    "Rikti Gun",
+    "Human Rikti Gun"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient"
+  ]
+}

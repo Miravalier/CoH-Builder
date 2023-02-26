@@ -1,0 +1,38 @@
+{
+  "name": "Duray_SkyRaiders_Special",
+  "display_name": "Duray SkyRaiders Special",
+  "display_fullname": "Incarnate I20.Duray SkyRaiders Special",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/DURAY_SKYRAIDERS_SPECIAL.POWERSETS",
+  "icon": "duray_skyraiders_special_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Duray_SkyRaiders_Special.Hang_Back",
+    "Incarnate_I20.Duray_SkyRaiders_Special.Duray_Check",
+    "Incarnate_I20.Duray_SkyRaiders_Special.Airstrike",
+    "Incarnate_I20.Duray_SkyRaiders_Special.Airstrike_Alert",
+    "Incarnate_I20.Duray_SkyRaiders_Special.Summon_Jumpbots"
+  ],
+  "power_display_names": [
+    "Hang Back",
+    "Duray Check",
+    "Airstrike",
+    "Airstrike",
+    "Summon Jumpbots"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant",
+    "Grant",
+    "Grant",
+    "Summon 2 Jump Bots"
+  ]
+}

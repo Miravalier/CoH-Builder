@@ -1,0 +1,22 @@
+{
+  "name": "PPD_Lieutenant_Resistance",
+  "display_name": "PPD Lieutenant Resistance",
+  "display_fullname": "PraetorianPolice.PPD Lieutenant Resistance",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/PPD_LIEUTENANT_RESISTANCE.POWERSETS",
+  "icon": "ppd_lieutenant_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.PPD_Lieutenant_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto, Res(Lethal, Smashing, Energy)"
+  ]
+}

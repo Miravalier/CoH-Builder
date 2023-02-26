@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Siphon_Insight_B",
+  "display_name": "Attuned Siphon Insight B",
+  "display_fullname": "Boosts.Attuned Siphon Insight B",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and to hit debuff potential of a power by {Boost.Attrib.ToHit.Scale}%. NOTE: This enhancement can only be slotted into to hit debuff powers that require a to hit check.",
+  "display_short_help": "Set: Siphon Insight",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SIPHON_INSIGHT_B.POWERSETS",
+  "icon": "attuned_siphon_insight_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Siphon_Insight_B.Attuned_Siphon_Insight_B"
+  ],
+  "power_display_names": [
+    "Siphon Insight: Accuracy/To Hit Debuff"
+  ],
+  "power_short_helps": [
+    "+ACC, +To Hit Debuff"
+  ]
+}

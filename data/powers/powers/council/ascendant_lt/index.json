@@ -1,0 +1,26 @@
+{
+  "name": "Ascendant_Lt",
+  "display_name": "Ascendant_Lt",
+  "display_fullname": "Council.Ascendant Lt",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/ASCENDANT_LT.POWERSETS",
+  "icon": "ascendant_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Ascendant_Lt.Dispersion_Bubble",
+    "Council.Ascendant_Lt.Protection_Shield"
+  ],
+  "power_display_names": [
+    "Dispersion Bubble",
+    "Protection Shield"
+  ],
+  "power_short_helps": [
+    "Toggle: PBAoE, Team +Res(Hold, Immobilize, Disorient) +DEF",
+    "Ranged, Ally +DEF(Fire, Cold, Energy, Negative)"
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "name": "Malice_of_the_Corruptor",
+  "display_name": "Malice of the Corruptor",
+  "group_name": "Corruptor Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Corruptor"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Malice_of_the_Corruptor_A.Attuned_Malice_of_the_Corruptor_A"
+    ],
+    [
+      "Boosts.Attuned_Malice_of_the_Corruptor_B.Attuned_Malice_of_the_Corruptor_B"
+    ],
+    [
+      "Boosts.Attuned_Malice_of_the_Corruptor_C.Attuned_Malice_of_the_Corruptor_C"
+    ],
+    [
+      "Boosts.Attuned_Malice_of_the_Corruptor_D.Attuned_Malice_of_the_Corruptor_D"
+    ],
+    [
+      "Boosts.Attuned_Malice_of_the_Corruptor_E.Attuned_Malice_of_the_Corruptor_E"
+    ],
+    [
+      "Boosts.Attuned_Malice_of_the_Corruptor_F.Attuned_Malice_of_the_Corruptor_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_range_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_range_5",
+          "Huge Increased Range"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_5",
+          "Huge Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_5",
+          "Huge Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_6",
+          "Gargantuan Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_maliceofthecorruptor.png",
+      "e_icon_maliceofthecorruptor.png",
+      "e_icon_maliceofthecorruptor.png",
+      "e_icon_maliceofthecorruptor.png",
+      "e_icon_maliceofthecorruptor.png",
+      "e_icon_maliceofthecorruptor.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Malice of the Corruptor: Accuracy/Damage"
+      ],
+      [
+        "Attuned Malice of the Corruptor: Damage/Recharge"
+      ],
+      [
+        "Attuned Malice of the Corruptor: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Malice of the Corruptor: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Malice of the Corruptor: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Malice of the Corruptor: Recharge/Chance for NegativeEnergy Damage"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_malice_of_the_corruptor_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_malice_of_the_corruptor_a.superior_attuned_superior_malice_of_the_corruptor_a",
+          "Superior Malice of the Corruptor: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Malice of the Corruptor: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "malice_of_the_corruptor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_maliceofthecorruptor.png"
+      },
+      "attuned_malice_of_the_corruptor_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_malice_of_the_corruptor_b.superior_attuned_superior_malice_of_the_corruptor_b",
+          "Superior Malice of the Corruptor: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Malice of the Corruptor: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "malice_of_the_corruptor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_maliceofthecorruptor.png"
+      },
+      "attuned_malice_of_the_corruptor_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_malice_of_the_corruptor_c.superior_attuned_superior_malice_of_the_corruptor_c",
+          "Superior Malice of the Corruptor: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Malice of the Corruptor: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "malice_of_the_corruptor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_maliceofthecorruptor.png"
+      },
+      "attuned_malice_of_the_corruptor_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_malice_of_the_corruptor_d.superior_attuned_superior_malice_of_the_corruptor_d",
+          "Superior Malice of the Corruptor: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Malice of the Corruptor: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "malice_of_the_corruptor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_maliceofthecorruptor.png"
+      },
+      "attuned_malice_of_the_corruptor_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_malice_of_the_corruptor_e.superior_attuned_superior_malice_of_the_corruptor_e",
+          "Superior Malice of the Corruptor: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Malice of the Corruptor: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "malice_of_the_corruptor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_maliceofthecorruptor.png"
+      },
+      "attuned_malice_of_the_corruptor_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_malice_of_the_corruptor_f.superior_attuned_superior_malice_of_the_corruptor_f",
+          "Superior Malice of the Corruptor: Recharge/Chance for Negative Energy Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Malice of the Corruptor: Recharge/Chance for NegativeEnergy Damage",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "malice_of_the_corruptor",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_maliceofthecorruptor.png"
+      }
+    }
+  }
+}

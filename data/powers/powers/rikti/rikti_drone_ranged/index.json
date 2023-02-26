@@ -1,0 +1,22 @@
+{
+  "name": "Rikti_Drone_Ranged",
+  "display_name": "Rikti_Drone_Ranged",
+  "display_fullname": "Rikti.Rikti Drone Ranged",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_DRONE_RANGED.POWERSETS",
+  "icon": "rikti_drone_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Drone_Ranged.Drone_Blast"
+  ],
+  "power_display_names": [
+    "Drone Blast"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, Knockback"
+  ]
+}

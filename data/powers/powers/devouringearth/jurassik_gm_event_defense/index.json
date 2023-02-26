@@ -1,0 +1,26 @@
+{
+  "name": "Jurassik_GM_Event_Defense",
+  "display_name": "Jurassik Monster Event Defense",
+  "display_fullname": "DevouringEarth.Jurassik Monster Event Defense",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/JURASSIK_GM_EVENT_DEFENSE.POWERSETS",
+  "icon": "jurassik_gm_event_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Jurassik_GM_Event_Defense.Resistance",
+    "DevouringEarth.Jurassik_GM_Event_Defense.Jurassik_Rubble"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Jurassik Rubble"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Summon Rockbeast"
+  ]
+}

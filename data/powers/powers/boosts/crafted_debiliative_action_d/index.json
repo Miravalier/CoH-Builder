@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Debiliative_Action_D",
+  "display_name": "Crafted Debilitative Action D",
+  "display_fullname": "Boosts.Crafted Debiliative Action D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and immobilize duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Debilitative Action",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DEBILIATIVE_ACTION_D.POWERSETS",
+  "icon": "crafted_debiliative_action_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Debiliative_Action_D.Crafted_Debiliative_Action_D"
+  ],
+  "power_display_names": [
+    "Debilitative Action: Immobilize/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Immobilize"
+  ]
+}

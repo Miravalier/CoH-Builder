@@ -1,0 +1,22 @@
+{
+  "name": "Turret_Defenses",
+  "display_name": "Turret_Defenses",
+  "display_fullname": "Base Defenses.Turret Defenses",
+  "display_help": "Base Defenses",
+  "display_short_help": "Base Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_DEFENSES/TURRET_DEFENSES.POWERSETS",
+  "icon": "turret_defenses_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Defenses.Turret_Defenses.Auto_Turret"
+  ],
+  "power_display_names": [
+    "Auto Turret"
+  ],
+  "power_short_helps": [
+    "Auto Turret"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "RoguesGallery_Polar_Shift_SL8-9",
+  "gender": "GENDER_FEMALE",
+  "group_name": "RoguesGallery",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 39,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Polar Shift was orphaned when a tragic avalanche buried her parent's cabin. She barely survived by becoming one with the bone chilling ice, changing her life forever.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericHeroes.Ice_Blaster_Low.Ice_Bolt",
+      "V_GenericHeroes.Ice_Blaster_Low.Ice_Blast",
+      "V_GenericHeroes.Ice_Blaster_Low.Frost_Breath",
+      "V_GenericHeroes.Ice_Blaster_Low.Ice_Sword",
+      "V_GenericHeroes.Ice_Blaster_Mid.Ice_Storm",
+      "V_GenericHeroes.Ice_Blaster_Mid.Chilling_Embrace",
+      "V_GenericHeroes.Ice_Blaster_High.Bitter_Ice_Blast",
+      "V_GenericVillains.Ice_Corruptor.Blizzard"
+    ],
+    "power_display_names": [
+      "Ice Bolt",
+      "Ice Blast",
+      "Frost Breath",
+      "Ice Sword",
+      "Ice Storm",
+      "Chilling Embrace",
+      "Bitter Ice Blast",
+      "Blizzard"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Ice_Blaster_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Ice_Blaster_Mid",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Ice_Blaster_High",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Blizzard",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 39,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Polar Shift"
+      ],
+      "costumes": [
+        "Model_Polar_Shift"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Clockwork_Boss_Assembler",
+  "gender": "GENDER_MALE",
+  "group_name": "Clockwork",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 10,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Clockwork_Base",
+    "character_class_name": "boss_grunt",
+    "description": "Like any monarch, the Clockwork King has his own court, although in his case it's composed of mechanical nobles called Dukes. The Assembler Dukes can summon more Clockwork minions to their side during battle.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Clockwork.Clockwork_Knight_Duke_Inherent.Resistance",
+      "Clockwork.Clockwork_Knight_Duke_Inherent.Charged_Bolts",
+      "Clockwork.Clockwork_Knight_Duke_Inherent.Charged_Brawl",
+      "Clockwork.Clockwork_Boss_Assembler_Powers.Summon_Clockwork"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Charged Bolts",
+      "Charged Brawl",
+      "Summon Clockwork"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Clockwork",
+        "power_set": "Clockwork_Knight_Duke_Inherent",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Clockwork",
+        "power_set": "Clockwork_Boss_Assembler_Powers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 10,
+      "experience": 0,
+      "display_names": [
+        "Assembler Duke"
+      ],
+      "costumes": [
+        "Sprocket_09",
+        "Sprocket_091",
+        "Sprocket_092",
+        "Sprocket_093",
+        "Sprocket_094"
+      ]
+    }
+  ]
+}

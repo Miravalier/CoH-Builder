@@ -1,0 +1,46 @@
+{
+  "name": "Minion_Rifleman",
+  "display_name": "Minion Rifleman",
+  "display_fullname": "V FreedomCorps.Minion Rifleman",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/MINION_RIFLEMAN.POWERSETS",
+  "icon": "minion_rifleman_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Minion_Rifleman.Heavy_Pistol",
+    "V_FreedomCorps.Minion_Rifleman.Adv_Assault_Rifle_Burst",
+    "V_FreedomCorps.Minion_Rifleman.Adv_Assault_Rifle_Heavy_Burst",
+    "V_FreedomCorps.Minion_Rifleman.Adv_Assault_Rifle_Slug",
+    "V_FreedomCorps.Minion_Rifleman.Frag_Grenade",
+    "V_FreedomCorps.Minion_Rifleman.Rifle_Butt",
+    "V_FreedomCorps.Minion_Rifleman.Brawl"
+  ],
+  "power_display_names": [
+    "Heavy Pistol",
+    "Adv Assault Rifle Burst",
+    "Adv Assault Rifle Heavy Burst",
+    "Adv Assault Rifle Slug",
+    "Frag Grenade",
+    "Rifle Butt",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam",
+    "-Def",
+    "DoT(Lethal)",
+    "Ranged Lethal, +KB",
+    "Targeted AoE Lethal/Fire, Knockback",
+    "Melee Smash",
+    "Melee Smash"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Pumicite",
+  "display_name": "Pumicite",
+  "display_fullname": "Igneous.Pumicite",
+  "display_help": "Igneous",
+  "display_short_help": "Igneous",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/IGNEOUS/PUMICITE.POWERSETS",
+  "icon": "pumicite_set.png",
+  "requires": "",
+  "power_names": [
+    "Igneous.Pumicite.Resistance",
+    "Igneous.Pumicite.Poison_Gas",
+    "Igneous.Pumicite.Stone_Claw",
+    "Igneous.Pumicite.Hurl_Boulder"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Poison Gas",
+    "Stone Claw",
+    "Hurl Boulder"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Minor DoT(Toxic)",
+    "Melee Lethal",
+    "Ranged Smash, Knockback"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Sapper_Gun",
+  "display_name": "Sapper_Gun",
+  "display_fullname": "Guns.Sapper Gun",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/SAPPER_GUN.POWERSETS",
+  "icon": "sapper_gun_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Sapper_Gun.Sapper",
+    "Guns.Sapper_Gun.Sapper_Overload"
+  ],
+  "power_display_names": [
+    "Sapper",
+    "Sapper Overload"
+  ],
+  "power_short_helps": [
+    "-End",
+    "-End"
+  ]
+}

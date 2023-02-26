@@ -1,0 +1,22 @@
+{
+  "name": "DSync_Accuracy_Mez",
+  "display_name": "D-Sync Accuracy Mez",
+  "display_fullname": "Boosts.DSync Accuracy Mez",
+  "display_help": "Enhances the accuracy and the duration of all mez powers.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_ACCURACY_MEZ.POWERSETS",
+  "icon": "hamidon_accuracy_mez_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_Accuracy_Mez.DSync_Accuracy_Mez"
+  ],
+  "power_display_names": [
+    "D-Sync Binding (Acc/Mez)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Mez"
+  ]
+}

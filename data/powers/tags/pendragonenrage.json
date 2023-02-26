@@ -1,0 +1,35 @@
+{
+  "tag": "PendragonEnrage",
+  "bears": [
+    [
+      "Magisterium.Pendragon.Arc of Devastation",
+      "magisterium.pendragon.arc_of_devastation"
+    ],
+    [
+      "Magisterium.Pendragon.Crushing Blow",
+      "magisterium.pendragon.crushing_blow"
+    ],
+    [
+      "Magisterium.Pendragon.Defensive Sweep",
+      "magisterium.pendragon.defensive_sweep"
+    ],
+    [
+      "Magisterium.Pendragon.Follow Through",
+      "magisterium.pendragon.follow_through"
+    ],
+    [
+      "Magisterium.Pendragon.Shatter Armor",
+      "magisterium.pendragon.shatter_armor"
+    ],
+    [
+      "Magisterium.Pendragon.Shockwave Strike",
+      "magisterium.pendragon.shockwave_strike"
+    ]
+  ],
+  "affects": [
+    [
+      "Magisterium.Pendragon.Tectonic Assault",
+      "magisterium.pendragon.tectonic_assault"
+    ]
+  ]
+}

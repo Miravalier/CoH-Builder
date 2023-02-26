@@ -1,0 +1,22 @@
+{
+  "name": "Banished_Minion_Defense",
+  "display_name": "Banished_Minion_Defense",
+  "display_fullname": "BanishedPantheon.Banished Minion Defense",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_MINION_DEFENSE.POWERSETS",
+  "icon": "banished_minion_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Minion_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Sleep, Fear, Disorient, Cold, Negative, Psionic, Slow"
+  ]
+}

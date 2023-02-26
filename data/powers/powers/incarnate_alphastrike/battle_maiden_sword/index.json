@@ -1,0 +1,46 @@
+{
+  "name": "Battle_Maiden_Sword",
+  "display_name": "Battle Maiden Sword",
+  "display_fullname": "Incarnate AlphaStrike.Battle Maiden Sword",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/BATTLE_MAIDEN_SWORD.POWERSETS",
+  "icon": "battle_maiden_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Sword_Draw",
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Hack",
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Slash",
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Slice",
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Parry",
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Whirling_Sword",
+    "Incarnate_AlphaStrike.Battle_Maiden_Sword.Disembowel"
+  ],
+  "power_display_names": [
+    "Sword Draw",
+    "Hack",
+    "Slash",
+    "Slice",
+    "Parry",
+    "Whirling Sword",
+    "Disembowel"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "Melee, Minor DMG(Lethal), Self +DEF",
+    "-DEF",
+    "-DEF"
+  ]
+}

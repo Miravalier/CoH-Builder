@@ -1,0 +1,22 @@
+{
+  "name": "Evil_Turret_FlameThrower",
+  "display_name": "Evil_Turret_FlameThrower",
+  "display_fullname": "Turrets.Evil Turret FlameThrower",
+  "display_help": "Turrets",
+  "display_short_help": "Turrets",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TURRETS/EVIL_TURRET_FLAMETHROWER.POWERSETS",
+  "icon": "evil_turret_flamethrower_set.png",
+  "requires": "",
+  "power_names": [
+    "Turrets.Evil_Turret_FlameThrower.Flame_Thrower"
+  ],
+  "power_display_names": [
+    "Flame Thrower"
+  ],
+  "power_short_helps": [
+    "Moderate DoT(Fire)"
+  ]
+}

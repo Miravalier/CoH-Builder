@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Touch_of_the_Nictus_E",
+  "display_name": "Attuned Touch of the Nictus E",
+  "display_fullname": "Boosts.Attuned Touch of the Nictus E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, reduces the endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. NOTE: This enhancement can only be slotted into healing powers that require a To Hit check.",
+  "display_short_help": "Set: Touch of the Nictus",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TOUCH_OF_THE_NICTUS_E.POWERSETS",
+  "icon": "attuned_touch_of_the_nictus_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Touch_of_the_Nictus_E.Attuned_Touch_of_the_Nictus_E"
+  ],
+  "power_display_names": [
+    "Touch of the Nictus: Accuracy/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+Acc, -End Cost, +Rech"
+  ]
+}

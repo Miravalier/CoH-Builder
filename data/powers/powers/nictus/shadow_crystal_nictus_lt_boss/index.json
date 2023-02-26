@@ -1,0 +1,26 @@
+{
+  "name": "Shadow_Crystal_Nictus_Lt_Boss",
+  "display_name": "Shadow Crystal Nictus Lt Boss",
+  "display_fullname": "Nictus.Shadow Crystal Nictus Lt Boss",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/SHADOW_CRYSTAL_NICTUS_LT_BOSS.POWERSETS",
+  "icon": "shadow_crystal_nictus_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Shadow_Crystal_Nictus_Lt_Boss.Dark_Nova_Blast",
+    "Nictus.Shadow_Crystal_Nictus_Lt_Boss.Dark_Nova_Emanation"
+  ],
+  "power_display_names": [
+    "Dark Nova Blast",
+    "Dark Nova Emanation"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "-Recharge, -SPD"
+  ]
+}

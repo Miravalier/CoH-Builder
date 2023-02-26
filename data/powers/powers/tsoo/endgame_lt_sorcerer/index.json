@@ -1,0 +1,50 @@
+{
+  "name": "Endgame_LT_Sorcerer",
+  "display_name": "Endgame_LT_Sorcerer",
+  "display_fullname": "Tsoo.Endgame LT Sorcerer",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_LT_SORCERER.POWERSETS",
+  "icon": "endgame_lt_sorcerer_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_LT_Sorcerer.Brawl",
+    "Tsoo.Endgame_LT_Sorcerer.Punch",
+    "Tsoo.Endgame_LT_Sorcerer.O2_Boost",
+    "Tsoo.Endgame_LT_Sorcerer.Hurricane",
+    "Tsoo.Endgame_LT_Sorcerer.Petrifying_Gaze",
+    "Tsoo.Endgame_LT_Sorcerer.Chill_of_the_Night",
+    "Tsoo.Endgame_LT_Sorcerer.Darkest_Night",
+    "Tsoo.Endgame_LT_Sorcerer.Teleport"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Punch",
+    "O2 Boost",
+    "Hurricane",
+    "Petrifying Gaze",
+    "Chill of the Night",
+    "Darkest Night",
+    "Teleport"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "Melee Smash, Knockback",
+    "Ally Heal +Res(Effects)",
+    "-Range, -ACC",
+    "Moderate DMG(Negative Energy), Hold",
+    "DoT(Negative), -ACC",
+    "-DMG, -ACC",
+    "Self Travel"
+  ]
+}

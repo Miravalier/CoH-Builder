@@ -1,0 +1,31 @@
+{
+  "name": "Midnight_Squad",
+  "display_name": "Squad",
+  "source_file": "DEFS/POWERS/MIDNIGHT_SQUAD.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "midnight_squad.force_minion",
+    "midnight_squad.lady_jane",
+    "midnight_squad.living_armor",
+    "midnight_squad.major_spector",
+    "midnight_squad.minion_base",
+    "midnight_squad.minor_spectre",
+    "midnight_squad.ruin_lt",
+    "midnight_squad.soul_minion",
+    "midnight_squad.spectres_defense"
+  ],
+  "powerset_display_names": [
+    "Midnight Squad",
+    "Lady Jane",
+    "Living Armor",
+    "Circle of Thorns",
+    "Midnight Squad",
+    "Midnight Squad",
+    "Midnight Squad",
+    "Midnight Squad",
+    "Spectres_Defense"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Perfect_Zinger_A",
+  "display_name": "Attuned Perfect Zinger A",
+  "display_fullname": "Boosts.Attuned Perfect Zinger A",
+  "display_help": "Enhances the taunt and placate duration of a power by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Perfect Zinger",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_PERFECT_ZINGER_A.POWERSETS",
+  "icon": "attuned_perfect_zinger_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Perfect_Zinger_A.Attuned_Perfect_Zinger_A"
+  ],
+  "power_display_names": [
+    "Perfect Zinger: Taunt/Placate"
+  ],
+  "power_short_helps": [
+    "+Taunt, +Placate"
+  ]
+}

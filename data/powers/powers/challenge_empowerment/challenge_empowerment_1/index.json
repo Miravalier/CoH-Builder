@@ -1,0 +1,22 @@
+{
+  "name": "Challenge_Empowerment_1",
+  "display_name": "Challenge Empowerment I",
+  "display_fullname": "Challenge Empowerment.Challenge Empowerment I",
+  "display_help": "Challenge Empowerment I",
+  "display_short_help": "Challenge Empowerment I",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CHALLENGE_EMPOWERMENT/CHALLENGE_EMPOWERMENT_1.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Challenge_Empowerment.Challenge_Empowerment_1.Hard_Mode_1"
+  ],
+  "power_display_names": [
+    "Empowerment "
+  ],
+  "power_short_helps": [
+    "+DMG, +ToHit, +DEF, +RES, +Perception"
+  ]
+}

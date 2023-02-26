@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Run",
+  "display_name": "Mutation Science Run",
+  "display_fullname": "Boosts.Mutation Science Run",
+  "display_help": "Increases the speed of a run power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_RUN.POWERSETS",
+  "icon": "mutation_science_run_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Run.Mutation_Science_Run"
+  ],
+  "power_display_names": [
+    "Molecular Bonding Run Boost (Run)"
+  ],
+  "power_short_helps": [
+    "Enhances Running Speed"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The_American_Ambassador",
+  "display_name": "The_American_Ambassador",
+  "display_fullname": "Mission Pets.The American Ambassador",
+  "display_help": "The Ambassador",
+  "display_short_help": "The Ambassador",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/THE_AMERICAN_AMBASSADOR.POWERSETS",
+  "icon": "the_american_ambassador_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.The_American_Ambassador.Adv_Assault_Rifle",
+    "Mission_Pets.The_American_Ambassador.Brawl"
+  ],
+  "power_display_names": [
+    "Adv Assault Rifle",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, +KB",
+    "Minor Smash DAM"
+  ]
+}

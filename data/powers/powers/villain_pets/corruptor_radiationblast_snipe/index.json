@@ -1,0 +1,26 @@
+{
+  "name": "Corruptor_RadiationBlast_Snipe",
+  "display_name": "Corruptor_RadiationBlast_Snipe",
+  "display_fullname": "Villain Pets.Corruptor RadiationBlast Snipe",
+  "display_help": "Radiation Blast",
+  "display_short_help": "Radiation Blast",
+  "available_level": [
+    7,
+    7
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/CORRUPTOR_RADIATIONBLAST_SNIPE.POWERSETS",
+  "icon": "corruptor_radiationblast_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Corruptor_RadiationBlast_Snipe.Proton_Volley_Quick",
+    "Villain_Pets.Corruptor_RadiationBlast_Snipe.Proton_Volley_Normal"
+  ],
+  "power_display_names": [
+    "Proton Volley",
+    "Proton Volley"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy), Foe -DEF",
+    "Sniper, Extreme DMG(Energy), Foe -DEF"
+  ]
+}

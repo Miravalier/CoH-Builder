@@ -1,0 +1,30 @@
+{
+  "name": "Witch_Boss",
+  "display_name": "Witch Boss",
+  "display_fullname": "Event.Witch Boss",
+  "display_help": "Witch",
+  "display_short_help": "Witch",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/WITCH_BOSS.POWERSETS",
+  "icon": "witch_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Witch_Boss.Tenebrous_Tentacles",
+    "Event.Witch_Boss.Petrifying_Gaze",
+    "Event.Witch_Boss.Chill_of_the_Night"
+  ],
+  "power_display_names": [
+    "Tenebrous Tentacles",
+    "Petrifying Gaze",
+    "Chill of the Night"
+  ],
+  "power_short_helps": [
+    "Immobilize, -ACC",
+    "Hold",
+    "DoT (Negative), -ACC"
+  ]
+}

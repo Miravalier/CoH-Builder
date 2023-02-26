@@ -1,0 +1,22 @@
+{
+  "name": "Synthetic_Hamidon_DeBuff_Accuracy",
+  "display_name": "Synthetic Hamidon DeBuff Accuracy",
+  "display_fullname": "Boosts.Synthetic Hamidon DeBuff Accuracy",
+  "display_help": "Enhances the effectiveness of accuracy and defense debuffs and increases the accuracy of a power.",
+  "display_short_help": "Hamidon (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SYNTHETIC_HAMIDON_DEBUFF_ACCURACY.POWERSETS",
+  "icon": "synthetic_hamidon_debuff_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Synthetic_Hamidon_DeBuff_Accuracy.Synthetic_Hamidon_DeBuff_Accuracy"
+  ],
+  "power_display_names": [
+    "Synthetic Lysosome Exposure (Acc/Def Debuff/ToHit Debuff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense DeBuffs and Accuracy"
+  ]
+}

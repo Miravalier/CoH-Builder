@@ -1,0 +1,97 @@
+{
+  "name": "Arachnos_Nocturne_2",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton",
+    "Raid"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 27,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN2",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "The Nightwidows serve Arachnos as elite assassins and spies. It is whispered among their murderous ranks that a Nightwidow code-named Nocturne may be the deadliest operative Arachnos has ever produced. No living soul knows any details of her history, just rumors of her ruthlessness and tales of her many victims. Some suspect that her only weakness might be her arrogant pride, but none have survived to exploit it.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.33,
+    "additional_rewards": [
+      "I_Killed_AV2"
+    ],
+    "power_full_names": [
+      "V_Arachnos.Nocturne.Stealth",
+      "V_Arachnos.Nocturne.Mental_Training",
+      "V_Arachnos.Nocturne.Mental_Blast",
+      "V_Arachnos.Nocturne.Strike",
+      "V_Arachnos.Nocturne.Spin",
+      "V_Arachnos.Nocturne.Slash",
+      "V_Arachnos.AV_Resistances.Resistance"
+    ],
+    "power_display_names": [
+      "Stealth",
+      "Mental Training",
+      "Mental Blast",
+      "Strike",
+      "Spin",
+      "Slash",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Nocturne",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "AV_Resistances",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 27,
+      "experience": 0,
+      "display_names": [
+        "Nocturne"
+      ],
+      "costumes": [
+        "Model_NWNocturne"
+      ]
+    }
+  ]
+}

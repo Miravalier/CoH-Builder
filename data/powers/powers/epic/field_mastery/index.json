@@ -1,0 +1,38 @@
+{
+  "name": "Field_Mastery",
+  "display_name": "Field Mastery",
+  "display_fullname": "Epic.Field Mastery",
+  "display_help": "You have Mastery over Energy and Force to protect yourself and defeat your foes.",
+  "display_short_help": "Field Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/FIELD_MASTERY.POWERSETS",
+  "icon": "field_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Field_Mastery.Personal_Force_Field",
+    "Epic.Field_Mastery.Power_Blast",
+    "Epic.Field_Mastery.Energy_Torrent",
+    "Epic.Field_Mastery.Repulsion_Bomb",
+    "Epic.Field_Mastery.Foce_of_Nature"
+  ],
+  "power_display_names": [
+    "Temp Invulnerability",
+    "Power Blast",
+    "Energy Torrent",
+    "Explosive Blast",
+    "Force of Nature"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +Res(Smash, Lethal)",
+    "Ranged, Light DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Cone), Light DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Targeted AoE), Light DMG(Smash/Energy), Foe Knockback",
+    "Self, +Res(All DMG but Psionics)"
+  ]
+}

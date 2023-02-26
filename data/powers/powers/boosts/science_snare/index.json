@@ -1,0 +1,22 @@
+{
+  "name": "Science_Snare",
+  "display_name": "Science Snare",
+  "display_fullname": "Boosts.Science Snare",
+  "display_help": "Increases the effectiveness of powers that slow",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_SNARE.POWERSETS",
+  "icon": "science_snare_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Snare.Science_Snare"
+  ],
+  "power_display_names": [
+    "Hydrogen Exposure (Slow)"
+  ],
+  "power_short_helps": [
+    "Enhances Slow Powers"
+  ]
+}

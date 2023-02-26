@@ -1,0 +1,39 @@
+{
+  "name": "KnivesOfVengeance",
+  "display_name": "KnivesOfVengeance",
+  "source_file": "DEFS/POWERS/KNIVESOFVENGEANCE.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "knivesofvengeance.dualblade_bs",
+    "knivesofvengeance.dualblade_lt",
+    "knivesofvengeance.dualblade_mn",
+    "knivesofvengeance.dualpistol_bs",
+    "knivesofvengeance.dualpistol_lt",
+    "knivesofvengeance.dualpistol_mn",
+    "knivesofvengeance.resistances",
+    "knivesofvengeance.streetjustice_bs",
+    "knivesofvengeance.streetjustice_lt",
+    "knivesofvengeance.streetjustice_mn",
+    "knivesofvengeance.titanweapon_bs",
+    "knivesofvengeance.titanweapon_lt",
+    "knivesofvengeance.titanweapon_mn"
+  ],
+  "powerset_display_names": [
+    "DualBlade_BS",
+    "DualBlade_LT",
+    "DualBlade_MN",
+    "DualPistol_BS",
+    "DualPistol_LT",
+    "DualPistol_MN",
+    "Resistances",
+    "StreetJustice_BS",
+    "StreetJustice_LT",
+    "StreetJustice_MN",
+    "TitanWeapon_BS",
+    "TitanWeapon_LT",
+    "TitanWeapon_MN"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impeded_Swiftness_F",
+  "display_name": "Attuned Impeded Swiftness F",
+  "display_fullname": "Boosts.Attuned Impeded Swiftness F",
+  "display_help": "Provides a chance to cause minor smashing damage to your targets. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Impeded Swiftness",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPEDED_SWIFTNESS_F.POWERSETS",
+  "icon": "attuned_impeded_swiftness_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impeded_Swiftness_F.Attuned_Impeded_Swiftness_F"
+  ],
+  "power_display_names": [
+    "Impeded Swiftness: Chance for Smashing Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Smashing DMG"
+  ]
+}

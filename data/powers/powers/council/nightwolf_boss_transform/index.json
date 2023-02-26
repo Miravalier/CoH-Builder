@@ -1,0 +1,22 @@
+{
+  "name": "Nightwolf_Boss_Transform",
+  "display_name": "Nightwolf_Boss_Transform",
+  "display_fullname": "Council.Nightwolf Boss Transform",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/NIGHTWOLF_BOSS_TRANSFORM.POWERSETS",
+  "icon": "nightwolf_boss_transform_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Nightwolf_Boss_Transform.Lycanthropy"
+  ],
+  "power_display_names": [
+    "Lycanthropy"
+  ],
+  "power_short_helps": [
+    "Lycanthropy"
+  ]
+}

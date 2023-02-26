@@ -1,0 +1,22 @@
+{
+  "name": "Security_Guard_Leadership_Assault",
+  "display_name": "Security_Guard_Leadership_Assault",
+  "display_fullname": "V Security Guards.Security Guard Leadership Assault",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_LEADERSHIP_ASSAULT.POWERSETS",
+  "icon": "security_guard_leadership_assault_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_Leadership_Assault.Assault"
+  ],
+  "power_display_names": [
+    "Assault"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +DMG"
+  ]
+}

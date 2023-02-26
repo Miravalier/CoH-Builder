@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Freaks_Mad_Freaks_Revolver",
+  "display_name": "Freakshow_Freaks_Mad_Freaks_Revolver",
+  "display_fullname": "Freakshow.Freakshow Freaks Mad Freaks Revolver",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_FREAKS_MAD_FREAKS_REVOLVER.POWERSETS",
+  "icon": "freakshow_freaks_mad_freaks_revolver_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Freaks_Mad_Freaks_Revolver.Heavy_Revolver"
+  ],
+  "power_display_names": [
+    "Heavy Revolver"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam, Knockback"
+  ]
+}

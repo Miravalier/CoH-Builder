@@ -1,0 +1,46 @@
+{
+  "name": "Cleopatra",
+  "display_name": "Cleopatra",
+  "display_fullname": "PraetorianPolice.Cleopatra",
+  "display_help": "A compilation of various fighting techniques from around the world, Martial Arts makes you a master in the art of hand to hand combat. Martial Artists tend to be very accurate with their strikes. Like all scrapper powers, all Martial Arts attacks can sometimes land a critical hit for double damage.",
+  "display_short_help": "Cleopatra",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/CLEOPATRA.POWERSETS",
+  "icon": "cleopatra_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.Cleopatra.Thunder_Kick",
+    "PraetorianPolice.Cleopatra.Storm_Kick",
+    "PraetorianPolice.Cleopatra.Shuriken",
+    "PraetorianPolice.Cleopatra.Crippling_Axe_Kick",
+    "PraetorianPolice.Cleopatra.High_Pain_Tolerance",
+    "PraetorianPolice.Cleopatra.Fast_Healing",
+    "PraetorianPolice.Cleopatra.Quick_Recovery"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Storm Kick",
+    "Shuriken",
+    "Crippling Axe Kick",
+    "High Pain Tolerance",
+    "Fast Healing",
+    "Quick Recovery"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smash), Minor Disorient",
+    "Melee, Moderate DMG(Smash)",
+    "Ranged, Minor DMG(Lethal)",
+    "Melee, Moderate DMG(Smash), Foe Immobilize, -SPD, -Fly",
+    "Auto: Self +Res (All), +MaxHealth",
+    "Auto: Self +Regeneration",
+    "Auto: Self +Recovery"
+  ]
+}

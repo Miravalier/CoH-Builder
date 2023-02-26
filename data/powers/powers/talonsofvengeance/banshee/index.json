@@ -1,0 +1,34 @@
+{
+  "name": "Banshee",
+  "display_name": "Banshee",
+  "display_fullname": "TalonsOfVengeance.Banshee",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/BANSHEE.POWERSETS",
+  "icon": "banshee_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Banshee.Curse",
+    "TalonsOfVengeance.Banshee.Condemnation",
+    "TalonsOfVengeance.Banshee.Castigation",
+    "TalonsOfVengeance.Banshee.Lamentation"
+  ],
+  "power_display_names": [
+    "Curse",
+    "Condemnation",
+    "Castigation",
+    "Lamentation"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG (Energy), Minor DoT(Negative Energy), -RES(Heal,Foe), -Rech(Foe), -ToHit(Foe), -Range(Foe)",
+    "Targeted AoE, Moderate DMG(Energy), Minor DoT (Negative Energy), Chance for Fear(Foe)",
+    "Ranged, Minor DMG(Energy), Minor DoT(Negative Energy), -Regen(Foe), -Rec(Foe), -Def(Foe,All), -Res(Foe, All)",
+    "PBAoE, High DMG(Energy), Moderate DoT(Negative Energy), -DMG(Foe,All), Chance for Heal(Self) and +EndCost(Foe)"
+  ]
+}

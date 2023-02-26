@@ -1,0 +1,42 @@
+{
+  "name": "Cabal_Sorceress_Boss_Attack",
+  "display_name": "Cabal_Sorceress_Boss_Attack",
+  "display_fullname": "Cabal.Cabal Sorceress Boss Attack",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_SORCERESS_BOSS_ATTACK.POWERSETS",
+  "icon": "cabal_sorceress_boss_attack_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Sorceress_Boss_Attack.Lightning_Bolt",
+    "Cabal.Cabal_Sorceress_Boss_Attack.Ball_Lightning",
+    "Cabal.Cabal_Sorceress_Boss_Attack.Hurricane",
+    "Cabal.Cabal_Sorceress_Boss_Attack.Lightning_Storm",
+    "Cabal.Cabal_Sorceress_Boss_Attack.Gale",
+    "Cabal.Cabal_Sorceress_Boss_Attack.Charged_Brawl"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Ball Lightning",
+    "Hurricane",
+    "Lightning Storm",
+    "Gale",
+    "Charged Brawl"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "Targeted AoE Energy, -End",
+    "-Range, -ACC, Knockback",
+    "Summon Lightning Storm",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "-Recovery"
+  ]
+}

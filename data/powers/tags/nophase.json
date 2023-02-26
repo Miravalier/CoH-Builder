@@ -1,0 +1,39 @@
+{
+  "tag": "NoPhase",
+  "bears": [
+    [
+      "Redirects.Teleportation.Shadow Step",
+      "redirects.pool_teleportation.shadow_step"
+    ],
+    [
+      "Redirects.Teleportation.Shadow Step",
+      "redirects.pool_teleportation.shadow_step_lowend"
+    ],
+    [
+      "Redirects.Teleportation.Teleport",
+      "redirects.pool_teleportation.teleport"
+    ],
+    [
+      "Redirects.Teleportation.Teleport",
+      "redirects.pool_teleportation.teleport_lowend"
+    ]
+  ],
+  "affects": [
+    [
+      "Redirects.Teleportation.Shadow Step",
+      "redirects.pool_teleportation.shadow_step"
+    ],
+    [
+      "Redirects.Teleportation.Shadow Step",
+      "redirects.pool_teleportation.shadow_step_lowend"
+    ],
+    [
+      "Redirects.Teleportation.Teleport",
+      "redirects.pool_teleportation.teleport"
+    ],
+    [
+      "Redirects.Teleportation.Teleport",
+      "redirects.pool_teleportation.teleport_lowend"
+    ]
+  ]
+}

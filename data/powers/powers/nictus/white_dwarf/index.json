@@ -1,0 +1,34 @@
+{
+  "name": "White_Dwarf",
+  "display_name": "White Dwarf",
+  "display_fullname": "Nictus.White Dwarf",
+  "display_help": "Peacebringer",
+  "display_short_help": "Peacebringer",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/WHITE_DWARF.POWERSETS",
+  "icon": "white_dwarf_set.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.White_Dwarf.White_Dwarf_Strike",
+    "Nictus.White_Dwarf.White_Dwarf_Smite",
+    "Nictus.White_Dwarf.White_Dwarf_Flare",
+    "Nictus.White_Dwarf.White_Dwarf_Sublimation"
+  ],
+  "power_display_names": [
+    "White Dwarf Strike",
+    "White Dwarf Smite",
+    "White Dwarf Flare",
+    "White Dwarf Sublimation"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Disorient, -DEF, -Fly",
+    "-DEF",
+    "Self Heal"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Nemesis_Monstrosity",
+  "display_name": "Nemesis Monstrosity",
+  "display_fullname": "Nemesis.Nemesis Monstrosity",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_MONSTROSITY.POWERSETS",
+  "icon": "nemesis_monstrosity_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_Monstrosity.Gatling_Gun_Burst",
+    "Nemesis.Nemesis_Monstrosity.Gatling_Gun_Sweep",
+    "Nemesis.Nemesis_Monstrosity.Saw_Swipe",
+    "Nemesis.Nemesis_Monstrosity.Pandora_Beam_Tell",
+    "Nemesis.Nemesis_Monstrosity.Pandora_Beam",
+    "Nemesis.Nemesis_Monstrosity.Foot_Stomp",
+    "Nemesis.Nemesis_Monstrosity.Resistance"
+  ],
+  "power_display_names": [
+    "Gatling Gun Burst",
+    "Gatling Gun Sweep",
+    "Claw Drill",
+    "Pandora Beam",
+    "Pandora Beam",
+    "Foot Stomp",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Lethal), Foe -Def",
+    "Ranged (Cone), Moderate DMG(Lethal), Foe -Def",
+    "Melee, High DMG(Smash), Moderate DoT(Lethal), Foe Disorient, Knockback",
+    "Target of Pandora Beam",
+    "Ranged Facing Cone, Extreme DMG(Energy)",
+    "PBAoE Melee, Moderate DMG(Smash), Foe Knockdown, Disorient",
+    "Resistance"
+  ]
+}

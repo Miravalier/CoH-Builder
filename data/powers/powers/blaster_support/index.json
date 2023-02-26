@@ -1,0 +1,45 @@
+{
+  "name": "Blaster_Support",
+  "display_name": "Support",
+  "source_file": "DEFS/POWERS/BLASTER_SUPPORT.CATEGORIES",
+  "archetypes": [
+    "blaster"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "blaster_support.darkness_manipulation",
+    "blaster_support.earth_manipulation",
+    "blaster_support.electricity_manipulation",
+    "blaster_support.energy_manipulation",
+    "blaster_support.fire_manipulation",
+    "blaster_support.gadgets",
+    "blaster_support.ice_manipulation",
+    "blaster_support.martial_manipulation",
+    "blaster_support.mental_manipulation",
+    "blaster_support.ninja_training",
+    "blaster_support.plant_manipulation",
+    "blaster_support.radiation_manipulation",
+    "blaster_support.sonic_manipulation",
+    "blaster_support.tactical_arrow",
+    "blaster_support.time_manipulation"
+  ],
+  "powerset_display_names": [
+    "Darkness Manipulation",
+    "Earth Manipulation",
+    "Electricity Manipulation",
+    "Energy Manipulation",
+    "Fire Manipulation",
+    "Devices",
+    "Ice Manipulation",
+    "Martial Combat",
+    "Mental Manipulation",
+    "Ninja Training",
+    "Plant Manipulation",
+    "Atomic Manipulation",
+    "Sonic Manipulation",
+    "Tactical Arrow",
+    "Temporal Manipulation"
+  ],
+  "powersets_with_requirements": []
+}

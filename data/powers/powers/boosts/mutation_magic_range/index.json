@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Range",
+  "display_name": "Mutation Magic Range",
+  "display_fullname": "Boosts.Mutation Magic Range",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_RANGE.POWERSETS",
+  "icon": "mutation_magic_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Range.Mutation_Magic_Range"
+  ],
+  "power_display_names": [
+    "Helmet (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

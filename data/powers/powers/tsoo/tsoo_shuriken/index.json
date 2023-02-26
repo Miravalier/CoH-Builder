@@ -1,0 +1,22 @@
+{
+  "name": "Tsoo_Shuriken",
+  "display_name": "Tsoo_Shuriken",
+  "display_fullname": "Tsoo.Tsoo Shuriken",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/TSOO_SHURIKEN.POWERSETS",
+  "icon": "tsoo_shuriken_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Tsoo_Shuriken.Shuriken"
+  ],
+  "power_display_names": [
+    "Shuriken"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Low Dam"
+  ]
+}

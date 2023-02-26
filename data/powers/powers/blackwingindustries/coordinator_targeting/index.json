@@ -1,0 +1,22 @@
+{
+  "name": "Coordinator_Targeting",
+  "display_name": "Coordinator Targeting",
+  "display_fullname": "BlackwingIndustries.Coordinator Targeting",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/COORDINATOR_TARGETING.POWERSETS",
+  "icon": "bwi_keeper_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Coordinator_Targeting.Psionic_Targeting"
+  ],
+  "power_display_names": [
+    "Psionic Targeting"
+  ],
+  "power_short_helps": [
+    "Enemy Coordination"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "PPD_Sergeant",
+  "display_name": "PPD Sergeant",
+  "display_fullname": "Pets.PPD Sergeant",
+  "display_help": "PPD Sergeant",
+  "display_short_help": "PPD Sergeant",
+  "available_level": [
+    24,
+    14,
+    9,
+    9,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/PPD_SERGEANT.POWERSETS",
+  "icon": "ppd_sergeant_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.PPD_Sergeant.Force_Maul",
+    "Pets.PPD_Sergeant.Force_Wave",
+    "Pets.PPD_Sergeant.Force_Brawl",
+    "Pets.PPD_Sergeant.Force_Blast",
+    "Pets.PPD_Sergeant.Resistances"
+  ],
+  "power_display_names": [
+    "Force Maul",
+    "Force Wave",
+    "Force Brawl",
+    "Force Blast",
+    "Resistances"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash/Energy), Foe Knockdown",
+    "Ranged (Cone), Moderate DMG(Smash/Energy), Foe -Knockdown",
+    "Melee, Light DMG(Smash/Energy), Foe Disorient",
+    "Ranged, Light DMG(Energy/Smash), Foe Knockback",
+    "Resistance"
+  ]
+}

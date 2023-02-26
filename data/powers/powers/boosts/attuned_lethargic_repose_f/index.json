@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Lethargic_Repose_F",
+  "display_name": "Attuned Lethargic Repose F",
+  "display_fullname": "Boosts.Attuned Lethargic Repose F",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and sleep duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Lethargic Repose",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_LETHARGIC_REPOSE_F.POWERSETS",
+  "icon": "attuned_lethargic_repose_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Lethargic_Repose_F.Attuned_Lethargic_Repose_F"
+  ],
+  "power_display_names": [
+    "Lethargic Repose: Accuracy/Sleep"
+  ],
+  "power_short_helps": [
+    "+ACC, +Sleep"
+  ]
+}

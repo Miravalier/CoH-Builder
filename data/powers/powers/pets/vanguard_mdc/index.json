@@ -1,0 +1,26 @@
+{
+  "name": "Vanguard_MDC",
+  "display_name": "Vanguard_MDC",
+  "display_fullname": "Pets.Vanguard MDC",
+  "display_help": "Vanguard MDC",
+  "display_short_help": "Vanguard MDC",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/VANGUARD_MDC.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Vanguard_MDC.Generate_Target",
+    "Pets.Vanguard_MDC.MDC_Self_Kill"
+  ],
+  "power_display_names": [
+    "Generate Target",
+    "Self Kill"
+  ],
+  "power_short_helps": [
+    "Knockback, -Speed",
+    "Self Kill"
+  ]
+}

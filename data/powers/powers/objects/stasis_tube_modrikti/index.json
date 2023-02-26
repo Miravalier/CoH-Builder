@@ -1,0 +1,26 @@
+{
+  "name": "Stasis_Tube_ModRikti",
+  "display_name": "Stasis_Tube_ModRikti",
+  "display_fullname": "Objects.Stasis Tube ModRikti",
+  "display_help": "Stasis_Tube_ModRikti",
+  "display_short_help": "Stasis_Tube_ModRikti",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/STASIS_TUBE_MODRIKTI.POWERSETS",
+  "icon": "stasis_tube_arachnoid_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Stasis_Tube_ModRikti.Rikti_Stasis_Tube",
+    "Objects.Stasis_Tube_ModRikti.Resistance"
+  ],
+  "power_display_names": [
+    "Stasis Tube",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon Eidolified Rikti",
+    "Resistance"
+  ]
+}

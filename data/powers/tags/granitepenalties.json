@@ -1,0 +1,14 @@
+{
+  "tag": "GranitePenalties",
+  "bears": [
+    [
+      "Brute Defense.Stone Armor.Granite Armor",
+      "brute_defense.stone_armor.granite_armor"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Granite Armor",
+      "tanker_defense.stone_armor.granite_armor"
+    ]
+  ],
+  "affects": []
+}

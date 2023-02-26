@@ -1,0 +1,38 @@
+{
+  "name": "Android_Dismantler_Ranged",
+  "display_name": "Android Dismantler Ranged",
+  "display_fullname": "PraetorianClockwork.Android Dismantler Ranged",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    15,
+    0,
+    0,
+    30
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANCLOCKWORK/ANDROID_DISMANTLER_RANGED.POWERSETS",
+  "icon": "android_dismantler_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianClockwork.Android_Dismantler_Ranged.Particle_Blast",
+    "PraetorianClockwork.Android_Dismantler_Ranged.Particle_Burst",
+    "PraetorianClockwork.Android_Dismantler_Ranged.Particle_Spray",
+    "PraetorianClockwork.Android_Dismantler_Ranged.Anti-Matter_Beam",
+    "PraetorianClockwork.Android_Dismantler_Ranged.Anti-Matter_Ray"
+  ],
+  "power_display_names": [
+    "Particle Blast",
+    "Particle Burst",
+    "Particle Spray",
+    "Anti-Matter Beam",
+    "Anti-Matter Ray"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy) Foe -Regen",
+    "Ranged (Targeted AoE), Moderate DMG(Energy), Foe Minor DoT(Energy)",
+    "Ranged (Cone), Minor DMG(Energy), Foe Minor DoT(Energy)",
+    "Ranged (Cone), Superior DMG(Energy), Foe -Def, Knockback",
+    "Superior DoT(Energy), Foe -Def"
+  ]
+}

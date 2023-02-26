@@ -1,0 +1,26 @@
+{
+  "name": "Bulwark_Burr",
+  "display_name": "Bulwark_Burr",
+  "display_fullname": "DevouringEarthSeed.Bulwark Burr",
+  "display_help": "Bulwark Seedling",
+  "display_short_help": "Bulwark Seedling",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/BULWARK_BURR.POWERSETS",
+  "icon": "bulwark_burr_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Bulwark_Burr.The_Seeds_Shell",
+    "DevouringEarthSeed.Bulwark_Burr.Decomposition"
+  ],
+  "power_display_names": [
+    "The Seed's Shell",
+    "Decomposition"
+  ],
+  "power_short_helps": [
+    "+DEF, +RES",
+    "Extreme DMG, Special(Divisible)"
+  ]
+}

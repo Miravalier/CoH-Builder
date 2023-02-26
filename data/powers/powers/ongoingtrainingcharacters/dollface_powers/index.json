@@ -1,0 +1,38 @@
+{
+  "name": "Dollface_Powers",
+  "display_name": "Dollface's Powers",
+  "display_fullname": "OnGoingTrainingCharacters.Dollface's Powers",
+  "display_help": "You can manipulate and control your opponent's mind. Since Mental powers directly affect the mind, most tend to be very accurate, and thus very useful against higher level foes. Few foes can resist Psionic powers, but creatures without minds, like machines and robots, are resistant to many of the effects.",
+  "display_short_help": "Dollface's Powers",
+  "available_level": [
+    0,
+    0,
+    0,
+    15,
+    9
+  ],
+  "source_file": "DEFS/POWERS/ONGOINGTRAININGCHARACTERS/DOLLFACE_POWERS.POWERSETS",
+  "icon": "dollface_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "OnGoingTrainingCharacters.Dollface_Powers.Mesmerize",
+    "OnGoingTrainingCharacters.Dollface_Powers.Levitate",
+    "OnGoingTrainingCharacters.Dollface_Powers.Psionic_Dart",
+    "OnGoingTrainingCharacters.Dollface_Powers.Mind_Probe",
+    "OnGoingTrainingCharacters.Dollface_Powers.Mental_Blast"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Levitate",
+    "Psionic Dart",
+    "Mind Probe",
+    "Mental Blast"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Foe Sleep",
+    "Ranged, Moderate DMG(Smash)",
+    "Ranged, Minor DMG(Psionic), Target -Recharge",
+    "Melee, Moderate DMG(Psionic), Target -Recharge",
+    "Ranged, Moderate DMG(Psionic), Target -Recharge"
+  ]
+}

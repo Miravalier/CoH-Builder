@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Immobilize",
+  "display_name": "Mutation Science Immobilize",
+  "display_fullname": "Boosts.Mutation Science Immobilize",
+  "display_help": "Increases the duration of a immobilization power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_IMMOBILIZE.POWERSETS",
+  "icon": "mutation_science_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Immobilize.Mutation_Science_Immobilize"
+  ],
+  "power_display_names": [
+    "Molecular Bonding Entangle Boost (Immobilize)"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

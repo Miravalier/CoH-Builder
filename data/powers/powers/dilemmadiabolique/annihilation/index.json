@@ -1,0 +1,22 @@
+{
+  "name": "Annihilation",
+  "display_name": "Annihilation",
+  "display_fullname": "DilemmaDiabolique.Annihilation",
+  "display_help": "Annihilation",
+  "display_short_help": "Annihilation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/ANNIHILATION.POWERSETS",
+  "icon": "annihilation_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Annihilation.Annihilation"
+  ],
+  "power_display_names": [
+    "Annihilation"
+  ],
+  "power_short_helps": [
+    "Annihilation"
+  ]
+}

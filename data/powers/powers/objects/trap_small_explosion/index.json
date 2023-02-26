@@ -1,0 +1,26 @@
+{
+  "name": "Trap_Small_Explosion",
+  "display_name": "Trap",
+  "display_fullname": "Objects.Trap",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/TRAP_SMALL_EXPLOSION.POWERSETS",
+  "icon": "trap_small_explosion_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Trap_Small_Explosion.Explosive_Trap",
+    "Objects.Trap_Small_Explosion.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Explosive Trap",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "AoE Moderate Dam(Lethal/Fire), Knockback",
+    "Self Destruct"
+  ]
+}

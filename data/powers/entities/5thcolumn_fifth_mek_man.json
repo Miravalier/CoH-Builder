@@ -1,0 +1,94 @@
+{
+  "name": "5thColumn_Fifth_Mek_Man",
+  "gender": "GENDER_MALE",
+  "group_name": "5thColumn",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "5thColumn_Fifth_Mek_Man",
+    "character_class_name": "minion_grunt",
+    "description": "Vandal, the genius behind the 5th Column's technology, created the first Mek Men during World War II. He's been improving on them ever since. The tough and deadly versions in operation today are 100 times more dangerous than their predecessors of 60 years ago. Modern Mek Men have tough, thick armor, redundant systems that resist damage, and a powerful onboard AI that makes them faster and smarter than most human soldiers.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.1,
+    "additional_rewards": [],
+    "power_full_names": [
+      "5thColumn.Fifth_Column_Mek_Man_Melee.Energy_Punch",
+      "5thColumn.Fifth_Column_Mek_Man_Melee.Barrage",
+      "5thColumn.Fifth_Column_Mek_Man_Melee.Whirling_Hands",
+      "5thColumn.Fifth_Column_Mek_Man_Melee.Stun",
+      "5thColumn.Fifth_Column_Mek_Man_Ranged.Mek_Man_Blast",
+      "5thColumn.Fifth_Column_Robot_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Energy Punch",
+      "Barrage",
+      "Whirling Hands",
+      "Stun",
+      "Mek Man Blast",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Mek_Man_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Mek_Man_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "5thColumn",
+        "power_set": "Fifth_Column_Robot_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Mek Man"
+      ],
+      "costumes": [
+        "5th_Mek_Man"
+      ]
+    }
+  ]
+}

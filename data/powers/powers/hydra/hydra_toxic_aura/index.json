@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Toxic_Aura",
+  "display_name": "Hydra Toxic Aura",
+  "display_fullname": "Hydra.Hydra Toxic Aura",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_TOXIC_AURA.POWERSETS",
+  "icon": "hydra_toxic_aura_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Toxic_Aura.Toxic_Aura"
+  ],
+  "power_display_names": [
+    "Toxic Aura"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic)"
+  ]
+}

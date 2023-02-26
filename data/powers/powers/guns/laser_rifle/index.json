@@ -1,0 +1,30 @@
+{
+  "name": "Laser_Rifle",
+  "display_name": "Laser_Rifle",
+  "display_fullname": "Guns.Laser Rifle",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    1,
+    7
+  ],
+  "source_file": "DEFS/POWERS/GUNS/LASER_RIFLE.POWERSETS",
+  "icon": "laser_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Laser_Rifle.Pulse_Rifle_Blast",
+    "Guns.Laser_Rifle.Pulse_Rifle_Burst",
+    "Guns.Laser_Rifle.Photon_Grenade"
+  ],
+  "power_display_names": [
+    "Pulse Rifle Blast",
+    "Pulse Rifle Burst",
+    "Photon Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy/Smash)",
+    "Ranged, High DoT(Energy/Smash), Foe Knockback",
+    "Ranged (Targeted AoE), Moderate DMG(Energy/Smash), Disorient"
+  ]
+}

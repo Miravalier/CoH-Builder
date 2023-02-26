@@ -1,0 +1,30 @@
+{
+  "name": "Goldbricker_Sonic_Rifle",
+  "display_name": "Goldbricker_Sonic_Rifle",
+  "display_fullname": "Guns.Goldbricker Sonic Rifle",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/GOLDBRICKER_SONIC_RIFLE.POWERSETS",
+  "icon": "goldbricker_sonic_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Goldbricker_Sonic_Rifle.Sonic_Rifle_Blast",
+    "Guns.Goldbricker_Sonic_Rifle.Sonic_Rifle_Heavy_Blast",
+    "Guns.Goldbricker_Sonic_Rifle.Sonic_Rifle_Grenade"
+  ],
+  "power_display_names": [
+    "Sonic Rifle Blast",
+    "Sonic Rifle Heavy Blast",
+    "Sonic Rifle Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, Heavy Dam, -DMG",
+    "Ranged Energy, Heavy Dam, -DMG",
+    "Targeted AoE Energy, -DMG"
+  ]
+}

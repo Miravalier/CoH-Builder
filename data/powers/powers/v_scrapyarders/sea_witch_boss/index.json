@@ -1,0 +1,38 @@
+{
+  "name": "Sea_Witch_Boss",
+  "display_name": "Sea Witch Boss",
+  "display_fullname": "V Scrapyarders.Sea Witch Boss",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/SEA_WITCH_BOSS.POWERSETS",
+  "icon": "sea_witch_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Sea_Witch_Boss.Fly",
+    "V_Scrapyarders.Sea_Witch_Boss.Fly_fx",
+    "V_Scrapyarders.Sea_Witch_Boss.Gale",
+    "V_Scrapyarders.Sea_Witch_Boss.Lightning_Bolt",
+    "V_Scrapyarders.Sea_Witch_Boss.Ball_Lightning"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx",
+    "Gale",
+    "Lightning Bolt",
+    "Ball Lightning"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "Ranged Energy, -End",
+    "Targeted AoE Energy, -End"
+  ]
+}

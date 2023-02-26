@@ -1,0 +1,50 @@
+{
+  "name": "Staff_Fighting",
+  "display_name": "Staff Fighting",
+  "display_fullname": "V Arachnos Proxy.Staff Fighting",
+  "display_help": "You have mastered the art of staff fighting, allowing you to strike at your foes in great sweeping arcs. Staff Fighting provides a good amount of control effects as well as some self buffs. By selecting the Staff Mastery power, you will gain access to techniques that further empower your Staff Fighting techniques and grant you useful augmentations that build up as you fight.",
+  "display_short_help": "Staff Fighting",
+  "available_level": [
+    0,
+    0,
+    0,
+    1,
+    5,
+    7,
+    25,
+    31
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/STAFF_FIGHTING.POWERSETS",
+  "icon": "staff_fighting_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Staff_Fighting.Mercurial_Blow",
+    "V_Arachnos_Proxy.Staff_Fighting.Precise_Strike",
+    "V_Arachnos_Proxy.Staff_Fighting.Serpents_Reach",
+    "V_Arachnos_Proxy.Staff_Fighting.Guarded_Spin",
+    "V_Arachnos_Proxy.Staff_Fighting.Build_Up",
+    "V_Arachnos_Proxy.Staff_Fighting.Eye_of_the_Storm",
+    "V_Arachnos_Proxy.Staff_Fighting.Innocuous_Strikes",
+    "V_Arachnos_Proxy.Staff_Fighting.Sky_Splitter"
+  ],
+  "power_display_names": [
+    "Mercurial Blow",
+    "Precise Strike",
+    "Serpent's Reach",
+    "Guarded Spin",
+    "Build Up",
+    "Eye of the Storm",
+    "Innocuous Strikes",
+    "Sky Splitter"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash), Foe -Def",
+    "Melee, Moderate DMG(Smash), Foe Disorient",
+    "Ranged, Moderate Dmg(Smash), Foe Knockdown",
+    "Melee (Cone), Moderate DMG (Smash), Self +Def(Melee, Lethal)",
+    "Self +DMG, +To Hit",
+    "PBAoE Melee, Moderate DMG(Smash), Foe Knockdown, Consumes Perfection",
+    "Melee Cone, High DMG(Smash), Foe Immobilize, -Speed",
+    "Melee, Extreme DMG(Smash), Foe Knockdown, Disorient, Consumes Perfection"
+  ]
+}

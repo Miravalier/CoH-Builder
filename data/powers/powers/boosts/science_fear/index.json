@@ -1,0 +1,22 @@
+{
+  "name": "Science_Fear",
+  "display_name": "Science Fear",
+  "display_fullname": "Boosts.Science Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_FEAR.POWERSETS",
+  "icon": "science_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Fear.Science_Fear"
+  ],
+  "power_display_names": [
+    "Cosmic Ray Exposure (Fear)"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Explosion",
+  "display_name": "Explosion",
+  "display_fullname": "V CapauDiableDemons.Explosion",
+  "display_help": "Cap au Diable Demons",
+  "display_short_help": "Cap au Diable Demons",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CAPAUDIABLEDEMONS/EXPLOSION.POWERSETS",
+  "icon": "explosion_set.png",
+  "requires": "",
+  "power_names": [
+    "V_CapauDiableDemons.Explosion.Explosion"
+  ],
+  "power_display_names": [
+    "Explosion"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

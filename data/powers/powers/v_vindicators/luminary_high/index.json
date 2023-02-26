@@ -1,0 +1,30 @@
+{
+  "name": "Luminary_High",
+  "display_name": "Luminary High",
+  "display_fullname": "V Vindicators.Luminary High",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_VINDICATORS/LUMINARY_HIGH.POWERSETS",
+  "icon": "luminary_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Vindicators.Luminary_High.Nova",
+    "V_Vindicators.Luminary_High.EM_Pulse",
+    "V_Vindicators.Luminary_High.Total_Focus"
+  ],
+  "power_display_names": [
+    "Nova",
+    "EM Pulse",
+    "Total Focus"
+  ],
+  "power_short_helps": [
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Knockback, Self -Recovery",
+    "Hold, -Regen",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient"
+  ]
+}

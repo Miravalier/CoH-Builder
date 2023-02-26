@@ -1,0 +1,22 @@
+{
+  "name": "Lost_Faith_Absorb",
+  "display_name": "",
+  "display_fullname": "LostSewerTrial.Lost Faith Absorb",
+  "display_help": "Blah",
+  "display_short_help": "Blah",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/LOSTSEWERTRIAL/LOST_FAITH_ABSORB.POWERSETS",
+  "icon": "lost_faith_absorb_set.png",
+  "requires": "",
+  "power_names": [
+    "LostSewerTrial.Lost_Faith_Absorb.Absorb_Faith"
+  ],
+  "power_display_names": [
+    "Absorb Faith"
+  ],
+  "power_short_helps": [
+    "PBAoE Minor DMG(Negative), Self +HP"
+  ]
+}

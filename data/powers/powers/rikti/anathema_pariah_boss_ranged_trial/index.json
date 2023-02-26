@@ -1,0 +1,30 @@
+{
+  "name": "Anathema_Pariah_Boss_Ranged_Trial",
+  "display_name": "Anathema_Pariah_Boss_Ranged_Trial",
+  "display_fullname": "Rikti.Anathema Pariah Boss Ranged Trial",
+  "display_help": "The Lost",
+  "display_short_help": "The Lost",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/ANATHEMA_PARIAH_BOSS_RANGED_TRIAL.POWERSETS",
+  "icon": "anathema_pariah_boss_ranged_trial_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Anathema_Pariah_Boss_Ranged_Trial.Mental_Blast",
+    "Rikti.Anathema_Pariah_Boss_Ranged_Trial.Mesmerize",
+    "Rikti.Anathema_Pariah_Boss_Ranged_Trial.Dominate"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Mesmerize",
+    "Dominate"
+  ],
+  "power_short_helps": [
+    "-Recharge",
+    "Sleep",
+    "Hold"
+  ]
+}

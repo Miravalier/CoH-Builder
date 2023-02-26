@@ -1,0 +1,54 @@
+{
+  "tag": "Polarize",
+  "bears": [
+    [
+      "Blaster Support.Atomic Manipulation.Electron Shackles",
+      "blaster_support.radiation_manipulation.electron_shackles"
+    ],
+    [
+      "Blaster Support.Atomic Manipulation.Negatron Slam",
+      "blaster_support.radiation_manipulation.negatron_slam"
+    ],
+    [
+      "Blaster Support.Atomic Manipulation.Positron Cell",
+      "blaster_support.radiation_manipulation.positron_cell"
+    ],
+    [
+      "Blaster Support.Atomic Manipulation.Positronic Fist",
+      "blaster_support.radiation_manipulation.positronic_fist"
+    ],
+    [
+      "Mission Maker Secondary.Atomic Manipulation.Electron Shackles",
+      "mission_maker_secondary.radiation_manipulation.electron_shackles"
+    ],
+    [
+      "Mission Maker Secondary.Atomic Manipulation.Negatron Slam",
+      "mission_maker_secondary.radiation_manipulation.negatron_slam"
+    ],
+    [
+      "Mission Maker Secondary.Atomic Manipulation.Positron Cell",
+      "mission_maker_secondary.radiation_manipulation.positron_cell"
+    ],
+    [
+      "Mission Maker Secondary.Atomic Manipulation.Positronic Fist",
+      "mission_maker_secondary.radiation_manipulation.positronic_fist"
+    ],
+    [
+      "V Arachnos Proxy.Atomic Manipulation.Electron Shackles",
+      "v_arachnos_proxy.radiation_manipulation.electron_shackles"
+    ],
+    [
+      "V Arachnos Proxy.Atomic Manipulation.Negatron Slam",
+      "v_arachnos_proxy.radiation_manipulation.negatron_slam"
+    ],
+    [
+      "V Arachnos Proxy.Atomic Manipulation.Positron Cell",
+      "v_arachnos_proxy.radiation_manipulation.positron_cell"
+    ],
+    [
+      "V Arachnos Proxy.Atomic Manipulation.Positronic Fist",
+      "v_arachnos_proxy.radiation_manipulation.positronic_fist"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,18 @@
+{
+  "tag": "Combo1",
+  "bears": [
+    [
+      "Stalker Melee.Street Justice.Crushing Uppercut",
+      "stalker_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Stalker Melee.Street Justice.Spinning Strike",
+      "stalker_melee.brawling.spinning_strike"
+    ],
+    [
+      "Stalker Melee.Street Justice.Sweeping Cross",
+      "stalker_melee.brawling.sweeping_cross"
+    ]
+  ],
+  "affects": []
+}

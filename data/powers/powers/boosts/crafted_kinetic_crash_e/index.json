@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Kinetic_Crash_E",
+  "display_name": "Crafted Kinetic Crash E",
+  "display_fullname": "Boosts.Crafted Kinetic Crash E",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}%, the damage by {Boost.Attrib.Damage.Scale}% and reduces the endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Kinetic Crash",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_KINETIC_CRASH_E.POWERSETS",
+  "icon": "crafted_kinetic_crash_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Kinetic_Crash_E.Crafted_Kinetic_Crash_E"
+  ],
+  "power_display_names": [
+    "Kinetic Crash: Knockback/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "+Knockback, +DMG, +End"
+  ]
+}

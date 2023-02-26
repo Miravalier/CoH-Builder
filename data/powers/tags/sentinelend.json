@@ -1,0 +1,71 @@
+{
+  "tag": "SentinelEnd",
+  "bears": [
+    [
+      "BanishedPantheon.Sentinel.Frigid Grasp",
+      "banishedpantheon.sentinel.frigid_grasp"
+    ],
+    [
+      "BanishedPantheon.Sentinel.Frigid Smash",
+      "banishedpantheon.sentinel.frigid_smash"
+    ],
+    [
+      "BanishedPantheon.Sentinel.Frigid Stomp",
+      "banishedpantheon.sentinel.frigid_stomp"
+    ],
+    [
+      "BanishedPantheon.Sentinel.Reaper's Bolt",
+      "banishedpantheon.sentinel.reapers_bolt"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Frigid Grasp",
+      "dilemmadiabolique.sentinel.frigid_grasp"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Frigid Smash",
+      "dilemmadiabolique.sentinel.frigid_smash"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Frigid Stomp",
+      "dilemmadiabolique.sentinel.frigid_stomp"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Reaper's Bolt",
+      "dilemmadiabolique.sentinel.reapers_bolt"
+    ]
+  ],
+  "affects": [
+    [
+      "BanishedPantheon.Sentinel.Frigid Grasp",
+      "banishedpantheon.sentinel.frigid_grasp"
+    ],
+    [
+      "BanishedPantheon.Sentinel.Frigid Smash",
+      "banishedpantheon.sentinel.frigid_smash"
+    ],
+    [
+      "BanishedPantheon.Sentinel.Frigid Stomp",
+      "banishedpantheon.sentinel.frigid_stomp"
+    ],
+    [
+      "BanishedPantheon.Sentinel.Reaper's Bolt",
+      "banishedpantheon.sentinel.reapers_bolt"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Frigid Grasp",
+      "dilemmadiabolique.sentinel.frigid_grasp"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Frigid Smash",
+      "dilemmadiabolique.sentinel.frigid_smash"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Frigid Stomp",
+      "dilemmadiabolique.sentinel.frigid_stomp"
+    ],
+    [
+      "DilemmaDiabolique.Sentinel.Reaper's Bolt",
+      "dilemmadiabolique.sentinel.reapers_bolt"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "SuppressiblePhase",
+  "bears": [
+    [
+      "Temporary Powers.Temporary Powers.Ethereal Shift",
+      "temporary_powers.temporary_powers.invention_ethereal"
+    ]
+  ],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.NoPhase",
+      "temporary_powers.temporary_powers.nophase"
+    ]
+  ]
+}

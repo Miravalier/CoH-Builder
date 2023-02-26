@@ -1,0 +1,22 @@
+{
+  "name": "Professor_Echo_Boss",
+  "display_name": "Professor Echo Boss",
+  "display_fullname": "V Miscellaneous.Professor Echo Boss",
+  "display_help": "Professor Echo",
+  "display_short_help": "Professor Echo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_MISCELLANEOUS/PROFESSOR_ECHO_BOSS.POWERSETS",
+  "icon": "professor_echo_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Miscellaneous.Professor_Echo_Boss.Escape"
+  ],
+  "power_display_names": [
+    "Escape"
+  ],
+  "power_short_helps": [
+    "Self Escape"
+  ]
+}

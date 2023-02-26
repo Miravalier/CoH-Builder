@@ -1,0 +1,26 @@
+{
+  "tag": "Perception",
+  "bears": [
+    [
+      "Boosts.Attuned Rectified Reticle C.Increased Perception",
+      "boosts.attuned_rectified_reticle_c.attuned_rectified_reticle_c"
+    ],
+    [
+      "Boosts.Attuned Warp D.Range/Increased Perception",
+      "boosts.attuned_warp_d.attuned_warp_d"
+    ],
+    [
+      "Boosts.Crafted Rectified Reticle C.Increased Perception",
+      "boosts.crafted_rectified_reticle_c.crafted_rectified_reticle_c"
+    ],
+    [
+      "Boosts.Crafted Warp D.Range/Increased Perception",
+      "boosts.crafted_warp_d.crafted_warp_d"
+    ],
+    [
+      "Set Bonus.Set Bonus.Rectified Reticle: Increased Perception",
+      "set_bonus.set_bonus.rectified_reticle"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Pounding_Slugfest_A",
+  "display_name": "Attuned Pounding Slugfest A",
+  "display_fullname": "Boosts.Attuned Pounding Slugfest A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Pounding Slugfest",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_POUNDING_SLUGFEST_A.POWERSETS",
+  "icon": "attuned_pounding_slugfest_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Pounding_Slugfest_A.Attuned_Pounding_Slugfest_A"
+  ],
+  "power_display_names": [
+    "Pounding Slugfest: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

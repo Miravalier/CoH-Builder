@@ -1,0 +1,34 @@
+{
+  "name": "Android_Builder_Ranged",
+  "display_name": "Android Builder Ranged",
+  "display_fullname": "PraetorianClockwork.Android Builder Ranged",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    10,
+    15,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANCLOCKWORK/ANDROID_BUILDER_RANGED.POWERSETS",
+  "icon": "android_builder_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianClockwork.Android_Builder_Ranged.Particle_Blast",
+    "PraetorianClockwork.Android_Builder_Ranged.Particle_Stunner",
+    "PraetorianClockwork.Android_Builder_Ranged.Particle_Spray",
+    "PraetorianClockwork.Android_Builder_Ranged.Quick_Repair"
+  ],
+  "power_display_names": [
+    "Particle Blast",
+    "Particle Stunner",
+    "Particle Spray",
+    "Quick Repair"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy) Foe -Regen",
+    "Ranged, Minor DoT(Energy), Foe Disorient",
+    "Ranged (Cone), Minor DMG(Energy), Foe Minor DoT(Energy)",
+    "Resurrect Clockwork"
+  ]
+}

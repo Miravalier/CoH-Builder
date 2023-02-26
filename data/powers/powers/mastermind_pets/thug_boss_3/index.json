@@ -1,0 +1,58 @@
+{
+  "name": "Thug_Boss_3",
+  "display_name": "Thug Boss",
+  "display_fullname": "Mastermind Pets.Thug Boss",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    7,
+    25,
+    31,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_BOSS_3.POWERSETS",
+  "icon": "thug_boss_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Boss_3.Knockout_Blow",
+    "Mastermind_Pets.Thug_Boss_3.Hurl",
+    "Mastermind_Pets.Thug_Boss_3.Foot_Stomp",
+    "Mastermind_Pets.Thug_Boss_3.Upgraded",
+    "Mastermind_Pets.Thug_Boss_3.Upgrade_Equipment_1_3",
+    "Mastermind_Pets.Thug_Boss_3.Upgrade_Equipment_1_4",
+    "Mastermind_Pets.Thug_Boss_3.Upgrade_Equipment_2_3",
+    "Mastermind_Pets.Thug_Boss_3.Upgrade_Equipment_2_4",
+    "Mastermind_Pets.Thug_Boss_3.Upgrade_Equipment_3_3",
+    "Mastermind_Pets.Thug_Boss_3.Upgrade_Equipment_3_4"
+  ],
+  "power_display_names": [
+    "Knockout Blow",
+    "Hurl",
+    "Foot Stomp",
+    "Upgrade Equipment",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Smash), Foe Hold",
+    "Ranged, Moderate DMG(Smash), Knockback, -Fly",
+    "PBAoE Melee, Moderate DMG(Smash), Knockback",
+    "Upgrade Equipment",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1",
+    "Upgrade Equipment 1"
+  ]
+}

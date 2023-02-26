@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Dominating_Grasp_B",
+  "display_name": "Attuned Dominating Grasp B",
+  "display_fullname": "Boosts.Attuned Dominating Grasp B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the hold duration of a power by {Boost.Attrib.Mez.Scale}%, the hold duration by {Boost.Attrib.Mez.Scale}%, the immobilization duration by {Boost.Attrib.Mez.Scale}%, the sleep duration by {Boost.Attrib.Mez.Scale}%, the fear duration by {Boost.Attrib.Mez.Scale}% and the confuse duration by {Boost.Attrib.Mez.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Dominators and may be slotted into most control powers.",
+  "display_short_help": "Set: Dominating Grasp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DOMINATING_GRASP_B.POWERSETS",
+  "icon": "attuned_dominating_grasp_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Dominating_Grasp_B.Attuned_Dominating_Grasp_B"
+  ],
+  "power_display_names": [
+    "Dominating Grasp: Control Duration/Recharge (Dominator)"
+  ],
+  "power_short_helps": [
+    "Enhances Control Duration and Recharge"
+  ]
+}

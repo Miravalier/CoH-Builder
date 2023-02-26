@@ -1,0 +1,59 @@
+{
+  "name": "Blackwing_Elite_PEACE_Keeper",
+  "gender": "GENDER_NEUTER",
+  "group_name": "Blackwing",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Raid",
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BIGMONSTER",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_monster",
+    "description": "Blackwing Industries is a private military company which has been contracted by Paragon City to replace the police in Kallisti Wharf.<br><br><b>P.E.A.C.E.</b> <i>(Police Emergency Action & Crisis Engagement)</i> is their heavy response division.<br><br>The P.E.A.C.E. Keeper is BWI's ultimate display of authority, an enormous humanoid mech that has every technological bell and whistle installed. These are not a common sight, as the prohibitive cost makes widespread deployment not feasible, but when the need arises, one of Blackwing's P.E.A.C.E. Keepers can be deployed to annihilate anything that possibly threatens the peace in Kallisti Wharf.",
+    "group_description": "Blackwing Industries",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [
+      "Giant_Monster_Merit"
+    ],
+    "power_full_names": [],
+    "power_display_names": [],
+    "power_levels": [],
+    "is_dynamic": false,
+    "powers": [],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "P.E.A.C.E. Keeper"
+      ],
+      "costumes": [
+        "BWI_Drone"
+      ]
+    }
+  ]
+}

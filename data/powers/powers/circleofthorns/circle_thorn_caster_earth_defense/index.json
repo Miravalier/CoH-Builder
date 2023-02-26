@@ -1,0 +1,22 @@
+{
+  "name": "Circle_Thorn_Caster_Earth_Defense",
+  "display_name": "Circle_Thorn_Caster_Earth_Defense",
+  "display_fullname": "CircleOfThorns.Circle Thorn Caster Earth Defense",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_THORN_CASTER_EARTH_DEFENSE.POWERSETS",
+  "icon": "circle_thorn_caster_earth_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Thorn_Caster_Earth_Defense.Rock_Armor"
+  ],
+  "power_display_names": [
+    "Rock Armor"
+  ],
+  "power_short_helps": [
+    "Self Toggle, +Res(Lethal, Smashing)"
+  ]
+}

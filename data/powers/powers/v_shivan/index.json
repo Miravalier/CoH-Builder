@@ -1,0 +1,41 @@
+{
+  "name": "V_Shivan",
+  "display_name": "Shivan",
+  "source_file": "DEFS/POWERS/V_SHIVAN.CATEGORIES",
+  "archetypes": [
+    "boss_elite"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_shivan.neoshivan_archvillain",
+    "v_shivan.neoshivan_archvillain_resistance",
+    "v_shivan.neoshivan_boss",
+    "v_shivan.neoshivan_elite_boss",
+    "v_shivan.neoshivan_lt",
+    "v_shivan.neoshivan_minion",
+    "v_shivan.resistance",
+    "v_shivan.shivan_boss",
+    "v_shivan.shivan_elite_boss",
+    "v_shivan.shivan_health",
+    "v_shivan.shivan_lt",
+    "v_shivan.shivan_minion_lt",
+    "v_shivan.shivan_minion_tutorial"
+  ],
+  "powerset_display_names": [
+    "Shivan Archvillain",
+    "Neo Shivan Archvillain Resistance",
+    "Shivan Boss",
+    "Shivan Elite Boss",
+    "Shivan Lt",
+    "Shivan Minion Lt",
+    "Resistance",
+    "Shivan Boss",
+    "Shivan Elite Boss",
+    "Shivan Health",
+    "Shivan Lt",
+    "Shivan Minion Lt",
+    "Shivan Minion Tutorial"
+  ],
+  "powersets_with_requirements": []
+}

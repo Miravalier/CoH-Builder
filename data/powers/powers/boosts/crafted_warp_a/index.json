@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Warp_A",
+  "display_name": "Crafted Warp A",
+  "display_fullname": "Boosts.Crafted Warp A",
+  "display_help": "Increases range by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Set: Warp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_WARP_A.POWERSETS",
+  "icon": "e_icon_warp.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Warp_A.Crafted_Warp_A"
+  ],
+  "power_display_names": [
+    "Warp: Range"
+  ],
+  "power_short_helps": [
+    "+Range"
+  ]
+}

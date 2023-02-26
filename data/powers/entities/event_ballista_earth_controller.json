@@ -1,0 +1,149 @@
+{
+  "name": "Event_Ballista_Earth_Controller",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton",
+    "Raid"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 50,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_monster",
+    "description": "Longbow is a hard-hitting division of Freedom Corps dedicated to stopping evil, and Arachnos in particular.",
+    "group_description": "Longbow",
+    "display_class_name": "Elite Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 2.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Controller_Control.Earth_Control.Stone_Prison",
+      "Controller_Control.Earth_Control.Fossilize",
+      "Controller_Control.Earth_Control.Stone_Cages",
+      "Controller_Control.Earth_Control.Quicksand",
+      "Controller_Control.Earth_Control.Salt_Crystals",
+      "Controller_Control.Earth_Control.Stalagmites",
+      "Controller_Control.Earth_Control.Earthquake",
+      "Controller_Control.Earth_Control.Volcanic_Gasses",
+      "Controller_Control.Earth_Control.Animate_Stone",
+      "Controller_Buff.Kinetics.Transfusion",
+      "Controller_Buff.Kinetics.Siphon_Power",
+      "Controller_Buff.Kinetics.Repel",
+      "Controller_Buff.Kinetics.Siphon_Speed",
+      "Controller_Buff.Kinetics.Increase_Density",
+      "Controller_Buff.Kinetics.Speed_Boost",
+      "Controller_Buff.Kinetics.Inertial_Reduction",
+      "Controller_Buff.Kinetics.Transference",
+      "Controller_Buff.Kinetics.Kinetic_Transfer",
+      "Event.Event_Boss_Resistance.Resistance",
+      "Event.Event_Fly.Fly"
+    ],
+    "power_display_names": [
+      "Stone Prison",
+      "Fossilize",
+      "Stone Cages",
+      "Quicksand",
+      "Salt Crystals",
+      "Stalagmites",
+      "Earthquake",
+      "Volcanic Gasses",
+      "Animate Stone",
+      "Transfusion",
+      "Siphon Power",
+      "Repel",
+      "Siphon Speed",
+      "Increase Density",
+      "Speed Boost",
+      "Inertial Reduction",
+      "Transference",
+      "Fulcrum Shift",
+      "Resistance",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Controller_Control",
+        "power_set": "Earth_Control",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Controller_Buff",
+        "power_set": "Kinetics",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Event_Boss_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Event_Fly",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 50,
+      "experience": 0,
+      "display_names": [
+        "Longbow Warden"
+      ],
+      "costumes": [
+        "Longbow_Male_Boss_04",
+        "Longbow_Male_Boss_05",
+        "Longbow_Female_Boss_03",
+        "Longbow_Female_Boss_05"
+      ]
+    }
+  ]
+}

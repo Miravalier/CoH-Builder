@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impervious_Skin_C",
+  "display_name": "Attuned Impervious Skin C",
+  "display_fullname": "Boosts.Attuned Impervious Skin C",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Impervious Skin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPERVIOUS_SKIN_C.POWERSETS",
+  "icon": "attuned_impervious_skin_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impervious_Skin_C.Attuned_Impervious_Skin_C"
+  ],
+  "power_display_names": [
+    "Impervious Skin: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

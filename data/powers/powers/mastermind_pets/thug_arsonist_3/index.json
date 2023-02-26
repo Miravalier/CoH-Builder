@@ -1,0 +1,50 @@
+{
+  "name": "Thug_Arsonist_3",
+  "display_name": "Arsonist",
+  "display_fullname": "Mastermind Pets.Arsonist",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_ARSONIST_3.POWERSETS",
+  "icon": "thug_arsonist_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Arsonist_3.Fire_Bomb",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgraded",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgrade_Equipment_1_3",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgrade_Equipment_1_4",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgrade_Equipment_2_3",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgrade_Equipment_2_4",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgrade_Equipment_3_3",
+    "Mastermind_Pets.Thug_Arsonist_3.Upgrade_Equipment_3_4"
+  ],
+  "power_display_names": [
+    "Fire Bomb",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment",
+    "Upgrade Equipment"
+  ]
+}

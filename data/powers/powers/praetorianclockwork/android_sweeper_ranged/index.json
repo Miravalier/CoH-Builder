@@ -1,0 +1,26 @@
+{
+  "name": "Android_Sweeper_Ranged",
+  "display_name": "Android Sweeper Ranged",
+  "display_fullname": "PraetorianClockwork.Android Sweeper Ranged",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    20
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANCLOCKWORK/ANDROID_SWEEPER_RANGED.POWERSETS",
+  "icon": "android_sweeper_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianClockwork.Android_Sweeper_Ranged.Plasma_Spray",
+    "PraetorianClockwork.Android_Sweeper_Ranged.Plasma_Ray"
+  ],
+  "power_display_names": [
+    "Plasma Spray",
+    "Plasma Ray"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Minor DMG(Energy), Foe -Regen",
+    "Ranged (Narrow Cone), Moderate DMG(Energy), Foe -Regen"
+  ]
+}

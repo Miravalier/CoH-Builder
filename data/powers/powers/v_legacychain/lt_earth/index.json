@@ -1,0 +1,34 @@
+{
+  "name": "Lt_Earth",
+  "display_name": "Lt Earth",
+  "display_fullname": "V LegacyChain.Lt Earth",
+  "display_help": "Legacy of Earth",
+  "display_short_help": "Legacy of Earth",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/LT_EARTH.POWERSETS",
+  "icon": "lt_earth_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Lt_Earth.Stone_Fist",
+    "V_LegacyChain.Lt_Earth.Entangle",
+    "V_LegacyChain.Lt_Earth.Propel_Boulder",
+    "V_LegacyChain.Lt_Earth.Resistance"
+  ],
+  "power_display_names": [
+    "Stone Fist",
+    "Entangle",
+    "Propel Boulder",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Moderate DoT(Smash), Immobilize, -Def, -Fly",
+    "Ranged Smash, Knockback",
+    "Auto Res Smashing/Toxic"
+  ]
+}

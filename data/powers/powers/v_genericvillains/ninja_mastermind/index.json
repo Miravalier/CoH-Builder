@@ -1,0 +1,54 @@
+{
+  "name": "Ninja_Mastermind",
+  "display_name": "Ninja Mastermind",
+  "display_fullname": "V GenericVillains.Ninja Mastermind",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/NINJA_MASTERMIND.POWERSETS",
+  "icon": "ninja_mastermind_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Ninja_Mastermind.Snap_Shot",
+    "V_GenericVillains.Ninja_Mastermind.Aimed_Shot",
+    "V_GenericVillains.Ninja_Mastermind.Fistful_of_Arrows",
+    "V_GenericVillains.Ninja_Mastermind.Call_Genin",
+    "V_GenericVillains.Ninja_Mastermind.Call_Jounin",
+    "V_GenericVillains.Ninja_Mastermind.Oni",
+    "V_GenericVillains.Ninja_Mastermind.Ice_Arrow",
+    "V_GenericVillains.Ninja_Mastermind.Acid_Arrow",
+    "V_GenericVillains.Ninja_Mastermind.EMP_Arrow"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "Aimed Shot",
+    "Fistful of Arrows",
+    "Call Genin",
+    "Call Jounin",
+    "Oni",
+    "Ice Arrow",
+    "Acid Arrow",
+    "EMP Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal)",
+    "Ranged, Moderate DMG(Lethal)",
+    "Ranged (Cone), Moderate DMG(Lethal)",
+    "Summon Genin",
+    "Summon Jounin",
+    "Summon Oni",
+    "Ranged, Foe Hold, -SPD, -Recharge",
+    "Ranged (AoE) Minor DoT(Toxic), Foe -Res(All), -DEF",
+    "PBAoE, Foe Hold, Special vs. Robots, Self -Recovery"
+  ]
+}

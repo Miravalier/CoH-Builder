@@ -1,0 +1,1265 @@
+{
+  "name": "Ripper",
+  "full_name": "Tanker_Melee.Spines.Ripper",
+  "short_name": "Ripper",
+  "type": "Click",
+  "display_name": "Ripper",
+  "display_fullname": "Tanker Melee.Spines.Ripper",
+  "display_help": "You can unleash a spectacular slashing maneuver that attacks all villains in a wide arc in front of you. Ripper deals massive damage and poisons multiple targets. It can even knock foes down. Spine poison Slows affected targets and deals additional Toxic damage.<br><br><color #fcfc95>Damage: High.</color><br><color #fcfc95>Recharge: Slow.</color>",
+  "display_short_help": "Melee (Cone), High DMG(Lethal), DoT(Toxic), Knockback, -SPD, -Recharge",
+  "icon": "quills_bonesword.png",
+  "auto_issue": false,
+  "auto_issue_keeps_level": false,
+  "message_caster": null,
+  "message_floater": null,
+  "message_attacker_hit": null,
+  "message_target_hit": null,
+  "message_target_confirm": null,
+  "message_float_reward": null,
+  "message_defense_avoidance": null,
+  "attack_types": [
+    "Area",
+    "Lethal"
+  ],
+  "requires": "",
+  "activate_requires": "",
+  "accuracy": 1.0,
+  "number_allowed": 1,
+  "caster_near_ground": false,
+  "target_near_ground": false,
+  "cast_when_dead": "AliveOnly",
+  "cast_through": [],
+  "toggle_ignores": [],
+  "ignore_level_gained": false,
+  "works_on_untouchable": false,
+  "works_through_vision_phase": false,
+  "target_untargetable": false,
+  "interrupt_like_sleep": false,
+  "notify_ai_when": "Always",
+  "effect_area": "Cone",
+  "max_targets_hit": 10,
+  "radius": 7.0,
+  "arc": 1.5708,
+  "range": 7.0,
+  "range_secondary": 0.0,
+  "activation_time": 2.17,
+  "root_time": 2.17,
+  "interrupt_time": 0.0,
+  "recharge_time": 11.0,
+  "activate_period": 0.0,
+  "endurance_cost": 11.024,
+  "cancelable": false,
+  "self_confirm": false,
+  "confirm_requires": "",
+  "time_to_confirm": 0,
+  "chain_delay": 0.0,
+  "chain_effect_expr": "",
+  "chain_forks": [],
+  "chain_into_power_name": null,
+  "chain_into_optional": false,
+  "vec_box_offset": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "vec_box_size": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "number_of_charges": 0,
+  "max_num_charges": 0,
+  "destroy_on_last_use": true,
+  "power_lifetime": 0.0,
+  "max_power_lifetime": 0.0,
+  "power_lifetime_ingame": 0.0,
+  "max_power_lifetime_ingame": 0.0,
+  "stacking_lifetime": false,
+  "toggle_on_time": 0.0,
+  "max_toggle_on_time": 0.0,
+  "toggle_detoggle_time": 0.0,
+  "toggle_droppable": "Sometimes",
+  "ignore_toggle_max_distance": false,
+  "target_type": "Foe (Alive)",
+  "target_type_secondary": null,
+  "target_visibility": "LineOfSight",
+  "targets_affected": [
+    "Foe (Alive)"
+  ],
+  "targets_autohit": [],
+  "target_requires": "",
+  "proc_allowed": "All",
+  "boosts_allowed": [
+    "Enhance Slow Movement",
+    "Enhance Threat Duration",
+    "Reduce Endurance Cost",
+    "Enhance Recharge Speed",
+    "Enhance KnockBack",
+    "Enhance Damage",
+    "Enhance Accuracy"
+  ],
+  "allowed_boostset_cats": [
+    "Knockback",
+    "Melee AoE Damage",
+    "Slow Movement",
+    "Tanker Archetype Sets",
+    "Threat Duration",
+    "Universal Damage Sets"
+  ],
+  "exclusion_groups": [],
+  "modes_required": [],
+  "modes_disallowed": [
+    "Disable_All"
+  ],
+  "modes_suspended": [],
+  "recharge_groups": [],
+  "ignore_strength": false,
+  "strengths_disallowed": [
+    "Range"
+  ],
+  "global_strengths_disallowed": [],
+  "procs_only_on_main_target": false,
+  "vars_attribmods_can_reference": [],
+  "show_buff_icon": true,
+  "show_in_info": true,
+  "show_in_manage": true,
+  "show_in_inventory": "Show",
+  "deletable": false,
+  "tradeable": false,
+  "do_not_save": false,
+  "max_boosts": 6,
+  "boost_info": {
+    "slot_requires": null,
+    "ignores_level_differences": false,
+    "bonuses_ignore_exemplar": false,
+    "combinable": true,
+    "tradeable": true,
+    "account_bound": false,
+    "boostable": false,
+    "attuned": false,
+    "catalyzes_to": null,
+    "max_level": 50,
+    "min_slot_level": -3,
+    "min_bonus_level": 1,
+    "computed_name": null,
+    "aspects": [],
+    "superior_scales": false,
+    "boostset_name": null,
+    "global_bonuses": null,
+    "is_proc": false,
+    "is_unique": false,
+    "restricted_ats": null,
+    "unique_group": null,
+    "only_at_50": false,
+    "boost_type": null,
+    "icon": null
+  },
+  "instance_locked": false,
+  "is_environment_hit": false,
+  "shuffle_target_list": false,
+  "enforced_level_bought": -1,
+  "refreshes_on_active_player_change": false,
+  "highlight_expression": "",
+  "highlight_icon": null,
+  "highlight_color": "#00000000",
+  "travel_suppression_time": 1.0,
+  "server_tray_priority": 0,
+  "server_tray_requires": "",
+  "abusive_buff": true,
+  "position_center": "kModTarget_Caster",
+  "position_distance": 0.0,
+  "position_height": 0.0,
+  "position_yaw": 0.0,
+  "face_target": true,
+  "attrib_cache": [
+    "Lethal_Dmg",
+    "Fire_Dmg",
+    "Toxic_Dmg",
+    "RunningSpeed",
+    "FlyingSpeed",
+    "JumpingSpeed",
+    "JumpHeight",
+    "Immobilized",
+    "Knockback",
+    "RechargeTime"
+  ],
+  "max_targets_expression": "10 - 5 * Source.Mode?(kDisable_GauntletTargetCap)",
+  "chain_target_expr": "",
+  "powerset": "Tanker_Melee.Spines",
+  "available_level": 15,
+  "archetypes": [
+    "tanker"
+  ],
+  "redirect": [],
+  "effects": [
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'critter'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 1.7,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVE_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 0.6,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'critter'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Knockback"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Current",
+          "target": "AnyAffected",
+          "table": "Melee_Ones",
+          "scale": 0.67,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You knock {PlayerDest} off their feet with your {PowerName}!",
+            "display_victim_hit": "{PlayerSource} knocks you off your feet with their {PowerName}!",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVE_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 0.6,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'player'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Knockback"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Current",
+          "target": "AnyAffected",
+          "table": "Melee_Ones",
+          "scale": 0.67,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You knock {PlayerDest} off their feet with your {PowerName}!",
+            "display_victim_hit": "{PlayerSource} knocks you off your feet with their {PowerName}!",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [
+            {
+              "event": "Knocked",
+              "post_event_duration": 10.0,
+              "always": false
+            }
+          ],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVP_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "RechargeTime"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "AnyAffected",
+          "table": "Melee_Slow",
+          "scale": 0.1,
+          "duration": "10 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "IgnoreStrength (4)",
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        },
+        {
+          "attribs": [
+            "RunningSpeed",
+            "FlyingSpeed",
+            "JumpingSpeed"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Current",
+          "target": "AnyAffected",
+          "table": "Melee_Slow",
+          "scale": 0.2,
+          "duration": "15 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        },
+        {
+          "attribs": [
+            "JumpHeight"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "AnyAffected",
+          "table": "Melee_Slow",
+          "scale": 0.2,
+          "duration": "15 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "IgnoreStrength (4)",
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Toxic_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 0.2,
+          "duration": "4.1 seconds",
+          "magnitude": 1.0,
+          "delay": 0.5,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 1.0,
+          "tick_chance": 0.8,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "CancelOnMiss (2)",
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Toxic damage over time.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Toxic damage over time.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "EITHER"
+    },
+    {
+      "tags": [],
+      "chance": 0.5,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'critter'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Immobilized"
+          ],
+          "type": "Duration",
+          "application_type": "OnTick",
+          "aspect": "Current",
+          "target": "AnyAffected",
+          "table": "Melee_Immobilize",
+          "scale": 10.0,
+          "duration": "0 seconds",
+          "magnitude": 0.67,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "CancelOnMiss (2)",
+            "ResistDuration (8)",
+            "CombatModDuration (10)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You Immobilize {PlayerDest} with your {PowerName}.",
+            "display_victim_hit": "{PlayerSource} Immobilizes you with their {PowerName}.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": {
+            "continuing_bits": [],
+            "continuing_fx": "PFX",
+            "conditional_bits": [],
+            "conditional_fx": null
+          }
+        }
+      ],
+      "is_pvp": "PVE_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 0.5,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'player'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Immobilized"
+          ],
+          "type": "Duration",
+          "application_type": "OnTick",
+          "aspect": "Current",
+          "target": "AnyAffected",
+          "table": "Melee_PvPMez",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 0.67,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "CancelOnMiss (2)",
+            "ResistDuration (8)",
+            "CombatModDuration (10)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You Immobilize {PlayerDest} with your {PowerName}.",
+            "display_victim_hit": "{PlayerSource} Immobilizes you with their {PowerName}.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [
+            {
+              "event": "Stunned",
+              "post_event_duration": 15.0,
+              "always": false
+            },
+            {
+              "event": "Immobilized",
+              "post_event_duration": 15.0,
+              "always": false
+            },
+            {
+              "event": "Held",
+              "post_event_duration": 15.0,
+              "always": false
+            },
+            {
+              "event": "Sleep",
+              "post_event_duration": 15.0,
+              "always": false
+            },
+            {
+              "event": "Terrorized",
+              "post_event_duration": 15.0,
+              "always": false
+            }
+          ],
+          "required_events": [],
+          "params": null,
+          "fx": {
+            "continuing_bits": [],
+            "continuing_fx": "PFX",
+            "conditional_bits": [],
+            "conditional_fx": null
+          }
+        }
+      ],
+      "is_pvp": "PVP_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'player'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_PvPDamage",
+          "scale": 1.2311,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVP_ONLY"
+    },
+    {
+      "tags": [
+        "FieryEmbrace"
+      ],
+      "chance": 0.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Fire_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 0.765,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Fire damage.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Fire damage.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": {
+            "continuing_bits": [],
+            "continuing_fx": "POWERS/FIRECONTROL/CINDERSHIT.FX",
+            "conditional_bits": [],
+            "conditional_fx": null
+          }
+        }
+      ],
+      "is_pvp": "EITHER"
+    }
+  ],
+  "activation_effects": [],
+  "fx": {
+    "source_file": "MENU/POWERS/ANIMFX/PLAYERPOWERS/SCRAPPERMELEE_QUILLS_RIPPER.PFX",
+    "attack_bits": [
+      20,
+      138,
+      141,
+      146,
+      213
+    ],
+    "block_bits": [],
+    "wind_up_bits": [],
+    "hit_bits": [
+      49,
+      689
+    ],
+    "death_bits": [],
+    "activation_bits": [
+      20,
+      138,
+      141,
+      146,
+      196
+    ],
+    "deactivation_bits": [],
+    "initial_attack_bits": [
+      20,
+      138,
+      141,
+      146,
+      213,
+      196
+    ],
+    "continuing_bits": [],
+    "conditional_bits": [],
+    "activation_fx": "POWERS/POISONCONTROL/POISONHTHDAMAGENOSPIKES.FX",
+    "deactivation_fx": null,
+    "attack_fx": "POWERS/POISONCONTROL/CLAWSEVISCERATEB.FX",
+    "secondary_attack_fx": null,
+    "hit_fx": "POWERS/POISONCONTROL/QUILLSRIPPERHIT.FX",
+    "wind_up_fx": null,
+    "block_fx": null,
+    "death_fx": null,
+    "initial_attack_fx": "POWERS/POISONCONTROL/CLAWSEVISCERATEB.FX",
+    "continuing_fx": [
+      "POWERS/POISONCONTROL/IMPALEHIT.FX"
+    ],
+    "conditional_fx": [],
+    "mode_bits": [
+      20,
+      138,
+      141,
+      146
+    ],
+    "frames_before_hit": 51,
+    "frames_before_secondary_hit": 0,
+    "delayed_hit": false,
+    "frames_attack": 65,
+    "initial_frames_before_hit": 70,
+    "initial_attack_fx_frame_delay": 19,
+    "projectile_speed": 3.4028234663852886e38,
+    "secondary_projectile_speed": 0.0,
+    "initial_frames_before_block": 0,
+    "ignore_attack_time_errors": null,
+    "frames_before_block": 0,
+    "fx_important": false
+  },
+  "custom_fx": [
+    {
+      "display_name": null,
+      "token": "Color Tintable",
+      "alt_themes": [],
+      "category": null,
+      "palette_name": null,
+      "fx": {
+        "source_file": "MENU/POWERS/ANIMFX/PLAYERPOWERS/SCRAPPERMELEE_QUILLS_RIPPER.PFX",
+        "attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213
+        ],
+        "block_bits": [],
+        "wind_up_bits": [],
+        "hit_bits": [
+          49,
+          689
+        ],
+        "death_bits": [],
+        "activation_bits": [
+          20,
+          138,
+          141,
+          146,
+          196
+        ],
+        "deactivation_bits": [],
+        "initial_attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213,
+          196
+        ],
+        "continuing_bits": [],
+        "conditional_bits": [],
+        "activation_fx": "CUSTOMIZEABLEPOWERS/SPINES/SPINES/SPINES_ACTIVATION.FX",
+        "deactivation_fx": null,
+        "attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/SPINES/RIPPER_ATTACK.FX",
+        "secondary_attack_fx": null,
+        "hit_fx": "CUSTOMIZEABLEPOWERS/SPINES/SPINES/RIPPER_HIT.FX",
+        "wind_up_fx": null,
+        "block_fx": null,
+        "death_fx": null,
+        "initial_attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/SPINES/RIPPER_ATTACK.FX",
+        "continuing_fx": [
+          "CUSTOMIZEABLEPOWERS/SPINES/SPINES/SPINES_CONTINUING.FX"
+        ],
+        "conditional_fx": [],
+        "mode_bits": [
+          20,
+          138,
+          141,
+          146
+        ],
+        "frames_before_hit": 51,
+        "frames_before_secondary_hit": 0,
+        "delayed_hit": false,
+        "frames_attack": 65,
+        "initial_frames_before_hit": 70,
+        "initial_attack_fx_frame_delay": 19,
+        "projectile_speed": 3.4028234663852886e38,
+        "secondary_projectile_speed": 0.0,
+        "initial_frames_before_block": 0,
+        "ignore_attack_time_errors": null,
+        "frames_before_block": 0,
+        "fx_important": false
+      }
+    },
+    {
+      "display_name": null,
+      "token": "Thorns",
+      "alt_themes": [],
+      "category": null,
+      "palette_name": "ExtendedEarth",
+      "fx": {
+        "source_file": "MENU/POWERS/ANIMFX/PLAYERPOWERS/SCRAPPERMELEE_QUILLS_RIPPER.PFX",
+        "attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213
+        ],
+        "block_bits": [],
+        "wind_up_bits": [],
+        "hit_bits": [
+          49,
+          689
+        ],
+        "death_bits": [],
+        "activation_bits": [
+          20,
+          138,
+          141,
+          146,
+          196
+        ],
+        "deactivation_bits": [],
+        "initial_attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213,
+          196
+        ],
+        "continuing_bits": [],
+        "conditional_bits": [],
+        "activation_fx": "CUSTOMIZEABLEPOWERS/SPINES/THORNS/THORNS_ACTIVATION.FX",
+        "deactivation_fx": null,
+        "attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/THORNS/RIPPER_ATTACK.FX",
+        "secondary_attack_fx": null,
+        "hit_fx": "CUSTOMIZEABLEPOWERS/SPINES/THORNS/RIPPER_HIT.FX",
+        "wind_up_fx": null,
+        "block_fx": null,
+        "death_fx": null,
+        "initial_attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/THORNS/RIPPER_ATTACK.FX",
+        "continuing_fx": [
+          "CUSTOMIZEABLEPOWERS/SPINES/THORNS/THORNS_CONTINUING.FX"
+        ],
+        "conditional_fx": [],
+        "mode_bits": [
+          20,
+          138,
+          141,
+          146
+        ],
+        "frames_before_hit": 51,
+        "frames_before_secondary_hit": 0,
+        "delayed_hit": false,
+        "frames_attack": 65,
+        "initial_frames_before_hit": 70,
+        "initial_attack_fx_frame_delay": 19,
+        "projectile_speed": 3.4028234663852886e38,
+        "secondary_projectile_speed": 0.0,
+        "initial_frames_before_block": 0,
+        "ignore_attack_time_errors": null,
+        "frames_before_block": 0,
+        "fx_important": false
+      }
+    },
+    {
+      "display_name": "P2822492124",
+      "token": "MetalSpikes",
+      "alt_themes": [],
+      "category": null,
+      "palette_name": null,
+      "fx": {
+        "source_file": "MENU/POWERS/ANIMFX/PLAYERPOWERS/SCRAPPERMELEE_QUILLS_RIPPER.PFX",
+        "attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213
+        ],
+        "block_bits": [],
+        "wind_up_bits": [],
+        "hit_bits": [
+          49,
+          689
+        ],
+        "death_bits": [],
+        "activation_bits": [
+          20,
+          138,
+          141,
+          146,
+          196
+        ],
+        "deactivation_bits": [],
+        "initial_attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213,
+          196
+        ],
+        "continuing_bits": [],
+        "conditional_bits": [],
+        "activation_fx": "CUSTOMIZEABLEPOWERS/SPINES/METALSPINES/SPINES_ACTIVATION.FX",
+        "deactivation_fx": null,
+        "attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/METALSPINES/RIPPER_ATTACK.FX",
+        "secondary_attack_fx": null,
+        "hit_fx": "CUSTOMIZEABLEPOWERS/SPINES/METALSPINES/RIPPER_HIT.FX",
+        "wind_up_fx": null,
+        "block_fx": null,
+        "death_fx": null,
+        "initial_attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/METALSPINES/RIPPER_ATTACK.FX",
+        "continuing_fx": [
+          "CUSTOMIZEABLEPOWERS/SPINES/METALSPINES/SPINES_CONTINUING.FX"
+        ],
+        "conditional_fx": [],
+        "mode_bits": [
+          20,
+          138,
+          141,
+          146
+        ],
+        "frames_before_hit": 51,
+        "frames_before_secondary_hit": 0,
+        "delayed_hit": false,
+        "frames_attack": 65,
+        "initial_frames_before_hit": 70,
+        "initial_attack_fx_frame_delay": 19,
+        "projectile_speed": 3.4028234663852886e38,
+        "secondary_projectile_speed": 0.0,
+        "initial_frames_before_block": 0,
+        "ignore_attack_time_errors": null,
+        "frames_before_block": 0,
+        "fx_important": false
+      }
+    },
+    {
+      "display_name": "P2371400324",
+      "token": "CrystalSpines",
+      "alt_themes": [],
+      "category": null,
+      "palette_name": "ExtendedEarth",
+      "fx": {
+        "source_file": "MENU/POWERS/ANIMFX/PLAYERPOWERS/SCRAPPERMELEE_QUILLS_RIPPER.PFX",
+        "attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213
+        ],
+        "block_bits": [],
+        "wind_up_bits": [],
+        "hit_bits": [
+          49,
+          689
+        ],
+        "death_bits": [],
+        "activation_bits": [
+          20,
+          138,
+          141,
+          146,
+          196
+        ],
+        "deactivation_bits": [],
+        "initial_attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213,
+          196
+        ],
+        "continuing_bits": [],
+        "conditional_bits": [],
+        "activation_fx": "CUSTOMIZEABLEPOWERS/SPINES/CRYSTALSPINES/SPINES_ACTIVATION.FX",
+        "deactivation_fx": null,
+        "attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/CRYSTALSPINES/RIPPER_ATTACK.FX",
+        "secondary_attack_fx": null,
+        "hit_fx": "CUSTOMIZEABLEPOWERS/SPINES/CRYSTALSPINES/RIPPER_HIT.FX",
+        "wind_up_fx": null,
+        "block_fx": null,
+        "death_fx": null,
+        "initial_attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/CRYSTALSPINES/RIPPER_ATTACK.FX",
+        "continuing_fx": [
+          "CUSTOMIZEABLEPOWERS/SPINES/CRYSTALSPINES/SPINES_CONTINUING.FX"
+        ],
+        "conditional_fx": [],
+        "mode_bits": [
+          20,
+          138,
+          141,
+          146
+        ],
+        "frames_before_hit": 51,
+        "frames_before_secondary_hit": 0,
+        "delayed_hit": false,
+        "frames_attack": 65,
+        "initial_frames_before_hit": 70,
+        "initial_attack_fx_frame_delay": 19,
+        "projectile_speed": 3.4028234663852886e38,
+        "secondary_projectile_speed": 0.0,
+        "initial_frames_before_block": 0,
+        "ignore_attack_time_errors": null,
+        "frames_before_block": 0,
+        "fx_important": false
+      }
+    },
+    {
+      "display_name": "P134962153",
+      "token": "SlateSpines",
+      "alt_themes": [],
+      "category": null,
+      "palette_name": "Earth",
+      "fx": {
+        "source_file": "MENU/POWERS/ANIMFX/PLAYERPOWERS/SCRAPPERMELEE_QUILLS_RIPPER.PFX",
+        "attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213
+        ],
+        "block_bits": [],
+        "wind_up_bits": [],
+        "hit_bits": [
+          49,
+          689
+        ],
+        "death_bits": [],
+        "activation_bits": [
+          20,
+          138,
+          141,
+          146,
+          196
+        ],
+        "deactivation_bits": [],
+        "initial_attack_bits": [
+          20,
+          138,
+          141,
+          146,
+          213,
+          196
+        ],
+        "continuing_bits": [],
+        "conditional_bits": [],
+        "activation_fx": "CUSTOMIZEABLEPOWERS/SPINES/SLATE/SPINES_ACTIVATION.FX",
+        "deactivation_fx": null,
+        "attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/SLATE/RIPPER_ATTACK.FX",
+        "secondary_attack_fx": null,
+        "hit_fx": "CUSTOMIZEABLEPOWERS/SPINES/SLATE/RIPPER_HIT.FX",
+        "wind_up_fx": null,
+        "block_fx": null,
+        "death_fx": null,
+        "initial_attack_fx": "CUSTOMIZEABLEPOWERS/SPINES/SLATE/RIPPER_ATTACK.FX",
+        "continuing_fx": [
+          "CUSTOMIZEABLEPOWERS/SPINES/SLATE/SPINES_CONTINUING.FX"
+        ],
+        "conditional_fx": [],
+        "mode_bits": [
+          20,
+          138,
+          141,
+          146
+        ],
+        "frames_before_hit": 51,
+        "frames_before_secondary_hit": 0,
+        "delayed_hit": false,
+        "frames_attack": 65,
+        "initial_frames_before_hit": 70,
+        "initial_attack_fx_frame_delay": 19,
+        "projectile_speed": 3.4028234663852886e38,
+        "secondary_projectile_speed": 0.0,
+        "initial_frames_before_block": 0,
+        "ignore_attack_time_errors": null,
+        "frames_before_block": 0,
+        "fx_important": false
+      }
+    }
+  ],
+  "fx_only_on_main_target": false
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Martial_Arts",
+  "display_name": "Martial Arts",
+  "display_fullname": "Brute Melee.Martial Arts",
+  "display_help": "A compilation of various fighting techniques from around the world, Martial Arts makes you a master in the art of hand to hand combat. Martial Artists tend to be very accurate with their strikes.",
+  "display_short_help": "Martial Arts",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BRUTE_MELEE/MARTIAL_ARTS.POWERSETS",
+  "icon": "martial_arts_set.png",
+  "requires": "",
+  "power_names": [
+    "Brute_Melee.Martial_Arts.Thunder_Kick",
+    "Brute_Melee.Martial_Arts.Storm_Kick",
+    "Brute_Melee.Martial_Arts.Cobra_Strike",
+    "Brute_Melee.Martial_Arts.Focus_Chi",
+    "Brute_Melee.Martial_Arts.Crane_Kick",
+    "Brute_Melee.Martial_Arts.Warriors_Provocation",
+    "Brute_Melee.Martial_Arts.Crippling_Axe_Kick",
+    "Brute_Melee.Martial_Arts.Dragons_Tail",
+    "Brute_Melee.Martial_Arts.Eagles_Claw"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Storm Kick",
+    "Cobra Strike",
+    "Focus Chi",
+    "Crane Kick",
+    "Warrior's Provocation",
+    "Crippling Axe Kick",
+    "Dragon's Tail",
+    "Eagles Claw"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash), Minor Disorient",
+    "Melee, Light DMG(Smash), Self +Defense(Melee, Ranged, AoE)",
+    "Melee, High DMG(Smash), Foe Disorient",
+    "Self +DMG, +To Hit",
+    "Melee, High DMG(Smash), Knockback",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Melee, High DMG(Smash), Foe Immobilize, -SPD, -Fly, -DEF",
+    "PBAoE Melee, Light DMG(Smash), Foe Knockback",
+    "Melee, High DMG(Smash), Foe Minor Disorient, +DMG(All)"
+  ]
+}

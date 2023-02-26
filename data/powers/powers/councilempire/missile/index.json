@@ -1,0 +1,22 @@
+{
+  "name": "Missile",
+  "display_name": "Missile",
+  "display_fullname": "CouncilEmpire.Missile",
+  "display_help": "Council Empire",
+  "display_short_help": "Council Empire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCILEMPIRE/MISSILE.POWERSETS",
+  "icon": "missile_set.png",
+  "requires": "",
+  "power_names": [
+    "CouncilEmpire.Missile.Missile_Launcher"
+  ],
+  "power_display_names": [
+    "Missile Launcher"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal/Fire, +KB"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mitochondria_Healer_Powers",
+  "display_name": "Mitochondria Healer Powers",
+  "display_fullname": "DevouringEarth.Mitochondria Healer Powers",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/MITOCHONDRIA_HEALER_POWERS.POWERSETS",
+  "icon": "mitochondria_healer_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Mitochondria_Healer_Powers.Heal_Other",
+    "DevouringEarth.Mitochondria_Healer_Powers.Healing_Aura",
+    "DevouringEarth.Mitochondria_Healer_Powers.Endocronic_Blast",
+    "DevouringEarth.Mitochondria_Healer_Powers.Mitosis",
+    "DevouringEarth.Mitochondria_Healer_Powers.Fly",
+    "DevouringEarth.Mitochondria_Healer_Powers.Regenerative_Aura",
+    "DevouringEarth.Mitochondria_Healer_Powers.Resistance"
+  ],
+  "power_display_names": [
+    "Heal Other",
+    "Healing Aura",
+    "Endocronic Blast",
+    "Mitosis",
+    "Fly",
+    "Regenerative Aura",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ally Heal",
+    "PBAoE, Team +Heal",
+    "DoT(Toxic), -Heal, -Regen",
+    "Duplicate",
+    "Self Hover",
+    "Toggle DMG Res, +Regen",
+    "Auto Res Knockback, Sleep, Disorient, Immobilize, Hold, Fear, Confuse, Teleport, Lethal"
+  ]
+}

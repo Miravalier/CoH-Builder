@@ -1,0 +1,22 @@
+{
+  "name": "Banished_Death_Ranged",
+  "display_name": "Banished_Death_Ranged",
+  "display_fullname": "BanishedPantheon.Banished Death Ranged",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_DEATH_RANGED.POWERSETS",
+  "icon": "banished_death_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Death_Ranged.Dark_Blast"
+  ],
+  "power_display_names": [
+    "Dark Blast"
+  ],
+  "power_short_helps": [
+    "-ACC"
+  ]
+}

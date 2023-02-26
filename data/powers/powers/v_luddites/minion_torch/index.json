@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Torch",
+  "display_name": "Minion Torch",
+  "display_fullname": "V Luddites.Minion Torch",
+  "display_help": "Luddites",
+  "display_short_help": "Luddites",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LUDDITES/MINION_TORCH.POWERSETS",
+  "icon": "minion_torch_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Luddites.Minion_Torch.Torch"
+  ],
+  "power_display_names": [
+    "Torch"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)"
+  ]
+}

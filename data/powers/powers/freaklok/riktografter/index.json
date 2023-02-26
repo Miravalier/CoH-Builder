@@ -1,0 +1,26 @@
+{
+  "name": "Riktografter",
+  "display_name": "Riktografter",
+  "display_fullname": "Freaklok.Riktografter",
+  "display_help": "A set of powers unique to the Freaklok Riftografter.",
+  "display_short_help": "Freaklok Riktigrafter",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/RIKTOGRAFTER.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Riktografter.Particle_Cannon",
+    "Freaklok.Riktografter.Rikti_Rifle"
+  ],
+  "power_display_names": [
+    "Particle Cannon",
+    "Rikti Rifle"
+  ],
+  "power_short_helps": [
+    "Ranged, Special",
+    "Disorient"
+  ]
+}

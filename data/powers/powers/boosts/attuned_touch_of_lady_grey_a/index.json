@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Touch_of_Lady_Grey_A",
+  "display_name": "Attuned Touch of Lady Grey A",
+  "display_fullname": "Boosts.Attuned Touch of Lady Grey A",
+  "display_help": "Enhances the defense debuff potential of a power by {Boost.Attrib.Defense.Scale}%.",
+  "display_short_help": "Set: Touch of Lady Grey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TOUCH_OF_LADY_GREY_A.POWERSETS",
+  "icon": "attuned_touch_of_lady_grey_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Touch_of_Lady_Grey_A.Attuned_Touch_of_Lady_Grey_A"
+  ],
+  "power_display_names": [
+    "Touch of Lady Grey: Defense Debuff"
+  ],
+  "power_short_helps": [
+    "+Defense Debuff"
+  ]
+}

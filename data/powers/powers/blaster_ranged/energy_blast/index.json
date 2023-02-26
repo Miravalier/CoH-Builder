@@ -1,0 +1,54 @@
+{
+  "name": "Energy_Blast",
+  "display_name": "Energy Blast",
+  "display_fullname": "Blaster Ranged.Energy Blast",
+  "display_help": "Energy Blast allows you to hurl bolts of energy at your foes, and can often send them flying with Knockback.",
+  "display_short_help": "Energy Blast",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BLASTER_RANGED/ENERGY_BLAST.POWERSETS",
+  "icon": "energy_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "Blaster_Ranged.Energy_Blast.Power_Bolt",
+    "Blaster_Ranged.Energy_Blast.Power_Blast",
+    "Blaster_Ranged.Energy_Blast.Energy_Torrent",
+    "Blaster_Ranged.Energy_Blast.Power_Burst",
+    "Blaster_Ranged.Energy_Blast.Sniper_Blast",
+    "Blaster_Ranged.Energy_Blast.Aim",
+    "Blaster_Ranged.Energy_Blast.Power_Push",
+    "Blaster_Ranged.Energy_Blast.Explosive_Blast",
+    "Blaster_Ranged.Energy_Blast.Nova"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Energy Torrent",
+    "Power Burst",
+    "Sniper Blast",
+    "Aim",
+    "Power Push",
+    "Explosive Blast",
+    "Nova"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Cone), Light DMG(Energy/Smash), Foe Knockback",
+    "Ranged, High DMG(Energy/Smash), Foe Knockback",
+    "Sniper, Extreme DMG(Energy/Smash), Foe Knockback, Self +Range",
+    "Self +To Hit, +DMG",
+    "Ranged Minor DMG(Energy/Smash), Foe High Knockback",
+    "Ranged (Targeted AoE), Light DMG(Smash/Energy), Foe Knockback",
+    "PBAoE, Extreme DMG(Energy), Foe Knockback"
+  ]
+}

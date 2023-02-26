@@ -1,0 +1,22 @@
+{
+  "name": "Goliath_Event_Generator",
+  "display_name": "Goliath Event Generator",
+  "display_fullname": "Council.Goliath Event Generator",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/GOLIATH_EVENT_GENERATOR.POWERSETS",
+  "icon": "goliath_event_generator_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Goliath_Event_Generator.Energy_Field"
+  ],
+  "power_display_names": [
+    "Energy Field"
+  ],
+  "power_short_helps": [
+    "DoT(Energy), -ACC"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Malta_Ops_AV",
+  "display_name": "Malta Ops AV",
+  "display_fullname": "Incarnate AlphaStrike.Malta Ops AV",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/MALTA_OPS_AV.POWERSETS",
+  "icon": "malta_ops_av_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Resistance",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Brawl",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Taser",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Adv_Assault_Rifle",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Frag_Grenade",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Web_Grenade",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Stun_Grenades",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Minelayer",
+    "Incarnate_AlphaStrike.Malta_Ops_AV.Tactical_Retreat"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Brawl",
+    "Taser",
+    "Adv Assault Rifle",
+    "Frag Grenade",
+    "Web Grenade",
+    "Stun Grenades",
+    "Minelayer",
+    "Tactical Retreat"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Melee Smash",
+    "Disorient",
+    "Ranged Lethal, +KB",
+    "Targeted AoE Lethal/Fire, Knockback",
+    "Immobilize, -Recharge, -Fly",
+    "Disorient",
+    "Mines",
+    "Self Flee"
+  ]
+}

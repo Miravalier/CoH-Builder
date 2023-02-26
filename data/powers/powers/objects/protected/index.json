@@ -1,0 +1,22 @@
+{
+  "name": "Protected",
+  "display_name": "Protected",
+  "display_fullname": "Objects.Protected",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/PROTECTED.POWERSETS",
+  "icon": "protected_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Protected.Protection"
+  ],
+  "power_display_names": [
+    "Protection"
+  ],
+  "power_short_helps": [
+    "Untouchable"
+  ]
+}

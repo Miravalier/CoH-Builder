@@ -1,0 +1,22 @@
+{
+  "name": "Nemesis_Fake_Nemesis_Range",
+  "display_name": "Nemesis_Fake_Nemesis_Range",
+  "display_fullname": "Nemesis.Nemesis Fake Nemesis Range",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_FAKE_NEMESIS_RANGE.POWERSETS",
+  "icon": "nemesis_fake_nemesis_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_Fake_Nemesis_Range.Staff_Bolt"
+  ],
+  "power_display_names": [
+    "Staff Bolt"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

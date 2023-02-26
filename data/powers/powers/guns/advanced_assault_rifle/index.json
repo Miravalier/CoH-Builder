@@ -1,0 +1,54 @@
+{
+  "name": "Advanced_Assault_Rifle",
+  "display_name": "Advanced_Assault_Rifle",
+  "display_fullname": "Guns.Advanced Assault Rifle",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/ADVANCED_ASSAULT_RIFLE.POWERSETS",
+  "icon": "advanced_assault_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Snipe",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Burst",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Heavy_Burst",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Fire",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Cold",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Frag_Grenade",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_M30_Grenade",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_Web_Grenade",
+    "Guns.Advanced_Assault_Rifle.Advanced_Assault_Rifle_EMP_Grenade"
+  ],
+  "power_display_names": [
+    "Advanced Assault Rifle Snipe",
+    "Advanced Assault Rifle Burst",
+    "Advanced Assault Rifle Heavy Burst",
+    "Advanced Assault Rifle Fire",
+    "Advanced Assault Rifle Cold",
+    "Advanced Assault Rifle Frag Grenade",
+    "Advanced Assault Rifle M30 Grenade",
+    "Advanced Assault Rifle Web Grenade",
+    "Advanced Assault Rifle EMP Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, +KB",
+    "-Def",
+    "-Def",
+    "Minor DoT(Fire)",
+    "-Recharge, -SPD",
+    "Targeted AoE Lethal/Fire, Knockback",
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Fire), Knockback",
+    "Immobilize, -Recharge, -Fly",
+    "PBAoE, Foe Hold, Special vs. Robots, Self -Recovery"
+  ]
+}

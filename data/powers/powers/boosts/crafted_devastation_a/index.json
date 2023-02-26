@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Devastation_A",
+  "display_name": "Crafted Devastation A",
+  "display_fullname": "Boosts.Crafted Devastation A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Devastation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DEVASTATION_A.POWERSETS",
+  "icon": "crafted_devastation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Devastation_A.Crafted_Devastation_A"
+  ],
+  "power_display_names": [
+    "Devastation: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

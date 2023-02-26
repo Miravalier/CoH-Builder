@@ -1,0 +1,35 @@
+{
+  "name": "NPC_Pets",
+  "display_name": "Pets",
+  "source_file": "DEFS/POWERS/NPC_PETS.CATEGORIES",
+  "archetypes": [
+    "minion_unkillablenpc"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "npc_pets.ally_debuff",
+    "npc_pets.blunt_trauma",
+    "npc_pets.civilian_panic",
+    "npc_pets.infinity",
+    "npc_pets.nexus_99",
+    "npc_pets.pyriss",
+    "npc_pets.small_explosion_fx",
+    "npc_pets.summon_rikti",
+    "npc_pets.testcritter",
+    "npc_pets.void_ripper"
+  ],
+  "powerset_display_names": [
+    "Ally Specia",
+    "Blunt Trauma",
+    "Civilian Panic",
+    "Infinity",
+    "Nexus 99",
+    "Pyriss",
+    "Small_Explosion_FX",
+    "Summon_Rikti",
+    "The Cabal",
+    "Void Ripper"
+  ],
+  "powersets_with_requirements": []
+}

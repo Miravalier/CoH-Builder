@@ -1,0 +1,29 @@
+{
+  "name": "Base_Aux",
+  "display_name": "Aux",
+  "source_file": "DEFS/POWERS/BASE_AUX.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "base_aux.arcane_accuracy",
+    "base_aux.arcane_damage",
+    "base_aux.arcane_energy_shield",
+    "base_aux.arcane_recharge",
+    "base_aux.tech_accuracy",
+    "base_aux.tech_damage",
+    "base_aux.tech_energy_shield",
+    "base_aux.tech_recharge"
+  ],
+  "powerset_display_names": [
+    "Arcane Accuracy",
+    "Arcane Damage",
+    "Arcane Energy Shield",
+    "Arcane Recharge",
+    "Tech Accuracy",
+    "Tech Damage",
+    "Tech Energy Shield",
+    "Tech Recharge"
+  ],
+  "powersets_with_requirements": []
+}

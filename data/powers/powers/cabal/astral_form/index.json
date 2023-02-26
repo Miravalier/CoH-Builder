@@ -1,0 +1,22 @@
+{
+  "name": "Astral_Form",
+  "display_name": "Astral Form",
+  "display_fullname": "Cabal.Astral Form",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/ASTRAL_FORM.POWERSETS",
+  "icon": "astral_form_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Astral_Form.Astral_Form"
+  ],
+  "power_display_names": [
+    "Astral Form"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Stealth, +DEF"
+  ]
+}

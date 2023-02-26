@@ -1,0 +1,26 @@
+{
+  "name": "Escort_Warburg",
+  "display_name": "Escort_Warburg",
+  "display_fullname": "Objects.Escort Warburg",
+  "display_help": "Highly_Visible",
+  "display_short_help": "Highly_Visible",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/ESCORT_WARBURG.POWERSETS",
+  "icon": "escort_warburg_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Escort_Warburg.Negative_Stealth",
+    "Objects.Escort_Warburg.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Negative Stealth",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "-Stealth",
+    "Self Destruct"
+  ]
+}

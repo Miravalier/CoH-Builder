@@ -1,0 +1,22 @@
+{
+  "name": "N_Tutorial_Shivan",
+  "display_name": "Shivan",
+  "source_file": "DEFS/POWERS/N_TUTORIAL_SHIVAN.CATEGORIES",
+  "archetypes": [
+    "boss_archvillain",
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "n_tutorial_shivan.knockbackroar",
+    "n_tutorial_shivan.shivan_melee",
+    "n_tutorial_shivan.shivan_meteor"
+  ],
+  "powerset_display_names": [
+    "Knockback_Roar",
+    "Shivan_Melee",
+    "Incarnate"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Knives_of_Artemis_Lt",
+  "display_name": "Knives_of_Artemis_Lt",
+  "display_fullname": "Malta.Knives of Artemis Lt",
+  "display_help": "Knives of Artemis",
+  "display_short_help": "Knives of Artemis",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/KNIVES_OF_ARTEMIS_LT.POWERSETS",
+  "icon": "knives_of_artemis_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Knives_of_Artemis_Lt.Disembowel",
+    "Malta.Knives_of_Artemis_Lt.Poison_Dart",
+    "Malta.Knives_of_Artemis_Lt.Web_Grenade"
+  ],
+  "power_display_names": [
+    "Disembowel",
+    "Poison Dart",
+    "Web Grenade"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Poison: DoT(Toxic), -Regeneration",
+    "Immobilize, -Recharge, -Fly"
+  ]
+}

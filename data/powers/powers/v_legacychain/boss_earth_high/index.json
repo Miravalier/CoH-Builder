@@ -1,0 +1,26 @@
+{
+  "name": "Boss_Earth_High",
+  "display_name": "Boss Earth High",
+  "display_fullname": "V LegacyChain.Boss Earth High",
+  "display_help": "Legacy of Earth",
+  "display_short_help": "Legacy of Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/BOSS_EARTH_HIGH.POWERSETS",
+  "icon": "boss_earth_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Boss_Earth_High.Heavy_Mallet",
+    "V_LegacyChain.Boss_Earth_High.Roots"
+  ],
+  "power_display_names": [
+    "Heavy Mallet",
+    "Roots"
+  ],
+  "power_short_helps": [
+    "Melee, Superior DMG(Smash), Knockback",
+    "Moderate DoT(Smash), Immobilize, -Def, -Fly"
+  ]
+}

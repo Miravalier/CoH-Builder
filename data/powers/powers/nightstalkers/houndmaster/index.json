@@ -1,0 +1,38 @@
+{
+  "name": "Houndmaster",
+  "display_name": "Houndmaster",
+  "display_fullname": "Nightstalkers.Houndmaster",
+  "display_help": "Spirit Stalkers",
+  "display_short_help": "Spirit Stalkers",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NIGHTSTALKERS/HOUNDMASTER.POWERSETS",
+  "icon": "houndmaster_set.png",
+  "requires": "",
+  "power_names": [
+    "Nightstalkers.Houndmaster.Blazing_Arrow",
+    "Nightstalkers.Houndmaster.Shadow_Arrow",
+    "Nightstalkers.Houndmaster.Crystal_Arrow",
+    "Nightstalkers.Houndmaster.Entangling_Arrow",
+    "Nightstalkers.Houndmaster.Call_of_the_Pack"
+  ],
+  "power_display_names": [
+    "Blazing Arrow",
+    "Shadow Arrow",
+    "Crystal Arrow",
+    "Entangling Arrow",
+    "Call of the Pack"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Lethal), Minor DoT(Fire)",
+    "Ranged, Minor DMG(Smashing), Minor DoT(Negative Energy), Chance for Debuff(Foe)",
+    "Ranged, High DMG(Lethal/Cold), Chance for Hold(Foe)",
+    "Ranged, Immobilize(Foe), -Fly(Foe), -Speed(Foe, All), -Rech(Foe)",
+    "Summon"
+  ]
+}

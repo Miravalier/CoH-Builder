@@ -1,0 +1,30 @@
+{
+  "name": "GhoulX_Melee",
+  "display_name": "GhoulX_Melee",
+  "display_fullname": "P Ghouls.GhoulX Melee",
+  "display_help": "GhoulX",
+  "display_short_help": "GhoulX",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_GHOULS/GHOULX_MELEE.POWERSETS",
+  "icon": "ghoulx_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Ghouls.GhoulX_Melee.Hack",
+    "P_Ghouls.GhoulX_Melee.Slash",
+    "P_Ghouls.GhoulX_Melee.Throwing_Knives"
+  ],
+  "power_display_names": [
+    "Hack",
+    "Slash",
+    "Throwing Knives"
+  ],
+  "power_short_helps": [
+    "Melee, High Dam(Lethal/Energy), Foe -DEF",
+    "Melee, Moderate Dam(Lethal/Energy), Foe -DEF",
+    "Ranged High DMG(Lethal/Energy)"
+  ]
+}

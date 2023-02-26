@@ -1,0 +1,54 @@
+{
+  "name": "Reverberant",
+  "display_name": "Reverberant",
+  "display_fullname": "Pets.Reverberant",
+  "display_help": "Use the power of music to captivate and control the spirits of your enemies. Most of your symphonic abilities influence the mind of your enemies, causing psionic damage.",
+  "display_short_help": "Symphony Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/REVERBERANT.POWERSETS",
+  "icon": "siren_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Reverberant.Melodic_Binding",
+    "Pets.Reverberant.Hymn_of_Dissonance",
+    "Pets.Reverberant.Aria_of_Stasis",
+    "Pets.Reverberant.Impassioned_Serenade",
+    "Pets.Reverberant.Dreadful_Discord",
+    "Pets.Reverberant.Enfeebling_Lullaby",
+    "Pets.Reverberant.Confounding_Chant",
+    "Pets.Reverberant.Chords_of_Despair",
+    "Pets.Reverberant.Resistance"
+  ],
+  "power_display_names": [
+    "Melodic Binding",
+    "Hymn of Dissonance",
+    "Aria of Stasis",
+    "Impassioned Serenade",
+    "Dreadful Discord",
+    "Enfeebling Lullaby",
+    "Confounding Chant",
+    "Chords of Despair",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged, DMG(Psionic), Immobilize, -Speed",
+    "Ranged, DMG(Psionic), Hold, -Recharge",
+    "Cone, DMG(Psionic), Immobilize, -Speed",
+    "Ranged, DMG(Psionic), Confuse",
+    "Cone, DMG(Psionic), Fear",
+    "Cone, DMG(Psionic), Sleep",
+    "Cone, DoT (Psionic), Foe Disorient",
+    "Targeted AoE, Hold",
+    "Resistance"
+  ]
+}

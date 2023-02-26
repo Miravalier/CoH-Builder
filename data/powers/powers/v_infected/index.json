@@ -1,0 +1,25 @@
+{
+  "name": "V_Infected",
+  "display_name": "Infected",
+  "source_file": "DEFS/POWERS/V_INFECTED.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_infected.boss",
+    "v_infected.brawl",
+    "v_infected.inherent",
+    "v_infected.pipe",
+    "v_infected.pistol",
+    "v_infected.shotgun"
+  ],
+  "powerset_display_names": [
+    "Boss",
+    "Brawl",
+    "Inherent",
+    "Pipe",
+    "Pistol",
+    "Shotgun"
+  ],
+  "powersets_with_requirements": []
+}

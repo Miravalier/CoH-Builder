@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Jump",
+  "display_name": "Technology Jump",
+  "display_fullname": "Boosts.Technology Jump",
+  "display_help": "Increases the distance and height of a jump power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_JUMP.POWERSETS",
+  "icon": "technology_jump_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Jump.Technology_Jump"
+  ],
+  "power_display_names": [
+    "Benedict Tech Cyberlegs (Jump)"
+  ],
+  "power_short_helps": [
+    "Enhances Jump"
+  ]
+}

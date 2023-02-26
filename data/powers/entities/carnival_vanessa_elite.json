@@ -1,0 +1,104 @@
+{
+  "name": "Carnival_Vanessa_Elite",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Carnival",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 39,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_elite",
+    "description": "Vanessa DeVore is many things to many people: sly trickster, peppy party girl, cold-hearted killer. For years she's been wearing the delicate porcelain mask that contains the soul of the powerful psychic, Giovanna Scaldi. Even with Giovanna vastly weakened by her defeat on the psychic plane, Vanessa is as strong, and as evil, as ever. She has made Giovanna's power her own, and in doing so, she has destroyed the innocent woman she once was.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Carnival.Carnival_Vanessa.Resistance",
+      "Carnival.Carnival_Vanessa.Vanessas_Psyche",
+      "Carnival.Carnival_Vanessa.Psychic_Scream",
+      "Carnival.Carnival_Vanessa.Telekinetic_blast",
+      "Carnival.Carnival_Vanessa.Subdue",
+      "Carnival.Carnival_Vanessa.Psionic_Tornado",
+      "Carnival.Carnival_Vanessa.Dominate",
+      "Carnival.Carnival_Vanessa.Total_Domination",
+      "Carnival.Carnival_Vanessa.Twilight_Grasp",
+      "Carnival.Carnival_Vanessa.Darkest_Night",
+      "Carnival.Carnival_Vanessa.Dark_Servant",
+      "Carnival.Carnival_Vanessa.Mask_of_Feebleness"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Vanessa's Psyche",
+      "Psychic Scream",
+      "Telekinetic blast",
+      "Subdue",
+      "Psionic Tornado",
+      "Dominate",
+      "Total Domination",
+      "Twilight Grasp",
+      "Darkest Night",
+      "Dark Servant",
+      "Mask of Feebleness"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Carnival",
+        "power_set": "Carnival_Vanessa",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 39,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Vanessa DeVore"
+      ],
+      "costumes": [
+        "Carnival_Vanessa"
+      ]
+    }
+  ]
+}

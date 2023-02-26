@@ -1,0 +1,26 @@
+{
+  "name": "Trap_Massive_Explosion",
+  "display_name": "Trap",
+  "display_fullname": "Objects.Trap",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/TRAP_MASSIVE_EXPLOSION.POWERSETS",
+  "icon": "trap_massive_explosion_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Trap_Massive_Explosion.Explosive_Trap",
+    "Objects.Trap_Massive_Explosion.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Explosive Trap",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Self Destruct"
+  ]
+}

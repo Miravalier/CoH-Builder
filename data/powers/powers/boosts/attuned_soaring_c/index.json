@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Soaring_C",
+  "display_name": "Attuned Soaring C",
+  "display_fullname": "Boosts.Attuned Soaring C",
+  "display_help": "Enhances the flight speed of a power by {Boost.Attrib.Movement.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Soaring",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SOARING_C.POWERSETS",
+  "icon": "attuned_soaring_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Soaring_C.Attuned_Soaring_C"
+  ],
+  "power_display_names": [
+    "Soaring: Endurance/Fly"
+  ],
+  "power_short_helps": [
+    "+Fly, -End Cost"
+  ]
+}

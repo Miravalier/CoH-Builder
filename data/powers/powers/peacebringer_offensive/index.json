@@ -1,0 +1,17 @@
+{
+  "name": "Peacebringer_Offensive",
+  "display_name": "Offensive",
+  "source_file": "DEFS/POWERS/PEACEBRINGER_OFFENSIVE.CATEGORIES",
+  "archetypes": [
+    "peacebringer"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "peacebringer_offensive.luminous_blast"
+  ],
+  "powerset_display_names": [
+    "Luminous Blast"
+  ],
+  "powersets_with_requirements": []
+}

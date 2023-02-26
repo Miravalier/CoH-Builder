@@ -1,0 +1,14 @@
+{
+  "tag": "MaxJumpHeight",
+  "bears": [
+    [
+      "Boosts.Attuned Launch D.Jumping Speed/Increased Jump Height",
+      "boosts.attuned_launch_d.attuned_launch_d"
+    ],
+    [
+      "Boosts.Crafted Launch D.Jumping Speed/Increased Jump Height",
+      "boosts.crafted_launch_d.crafted_launch_d"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sky_Raider_SubmachineGun",
+  "display_name": "Sky_Raider_SubmachineGun",
+  "display_fullname": "SkyRaiders.Sky Raider SubmachineGun",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_SUBMACHINEGUN.POWERSETS",
+  "icon": "sky_raider_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_SubmachineGun.Adv_Sub_Machine_Gun"
+  ],
+  "power_display_names": [
+    "Adv Sub Machine Gun"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

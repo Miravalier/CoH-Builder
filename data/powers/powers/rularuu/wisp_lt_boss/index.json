@@ -1,0 +1,26 @@
+{
+  "name": "Wisp_Lt_Boss",
+  "display_name": "Wisp_Lt_Boss",
+  "display_fullname": "Rularuu.Wisp Lt Boss",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/WISP_LT_BOSS.POWERSETS",
+  "icon": "wisp_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Wisp_Lt_Boss.Domination",
+    "Rularuu.Wisp_Lt_Boss.Telekinetic_blast"
+  ],
+  "power_display_names": [
+    "Domination",
+    "Telekinetic blast"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "Ranged Smash/Psionic, Knockback"
+  ]
+}

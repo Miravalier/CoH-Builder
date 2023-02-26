@@ -1,0 +1,22 @@
+{
+  "name": "Impending_Death",
+  "display_name": "Impending Death",
+  "display_fullname": "DilemmaDiabolique.Impending Death",
+  "display_help": "Annihilation",
+  "display_short_help": "Annihilation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/IMPENDING_DEATH.POWERSETS",
+  "icon": "impending_death_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Impending_Death.Impending_Death"
+  ],
+  "power_display_names": [
+    "Impending Death"
+  ],
+  "power_short_helps": [
+    "Special, DoT(Unique)"
+  ]
+}

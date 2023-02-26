@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Crushing_Impact_F",
+  "display_name": "Crafted Crushing Impact F",
+  "display_fullname": "Boosts.Crafted Crushing Impact F",
+  "display_help": "Enhances the damage by {Boost.Attrib.Damage.Scale}% reduces recharge time by {Boost.Attrib.RechargeTime.Scale}% and endurance costs by {Boost.Attrib.Endurance.Scale}% .",
+  "display_short_help": "Set: Crushing Impact",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_CRUSHING_IMPACT_F.POWERSETS",
+  "icon": "crafted_crushing_impact_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Crushing_Impact_F.Crafted_Crushing_Impact_F"
+  ],
+  "power_display_names": [
+    "Crushing Impact: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

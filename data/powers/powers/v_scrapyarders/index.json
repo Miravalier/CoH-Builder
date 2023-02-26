@@ -1,0 +1,43 @@
+{
+  "name": "V_Scrapyarders",
+  "display_name": "Scrapyarders",
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS.CATEGORIES",
+  "archetypes": [
+    "minion_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_scrapyarders.boss_foreman",
+    "v_scrapyarders.dockworker_boss",
+    "v_scrapyarders.dockworker_lt",
+    "v_scrapyarders.dockworker_minion",
+    "v_scrapyarders.giant_ghost_of_scrapyard",
+    "v_scrapyarders.lt_demolitionist",
+    "v_scrapyarders.minion_enraged_miner_pick_axe",
+    "v_scrapyarders.minion_enraged_miner_scrap",
+    "v_scrapyarders.minion_enraged_miner_shovel",
+    "v_scrapyarders.minion_enraged_miner_sledgehammer",
+    "v_scrapyarders.sea_witch_archvillain",
+    "v_scrapyarders.sea_witch_boss",
+    "v_scrapyarders.sea_witch_boss_low",
+    "v_scrapyarders.sea_witch_elite_boss"
+  ],
+  "powerset_display_names": [
+    "Boss_Foreman",
+    "Dockworker Boss",
+    "Dockworker Lt",
+    "Dockworker Minion",
+    "Giant Ghost of Scrapyard",
+    "Lt Demolitionist",
+    "Minion Enraged Miner Pick Axe",
+    "Minion Enraged Miner Scrap",
+    "Minion Enraged Miner Shovel",
+    "Minion Enraged Miner Sledgehammer",
+    "Sea Witch Archvillain",
+    "Sea Witch Boss",
+    "Sea Witch Boss Low",
+    "Sea Witch Elite Boss"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Science_Res_Damage",
+  "display_name": "Science Res Damage",
+  "display_fullname": "Boosts.Science Res Damage",
+  "display_help": "Enhances the damage resistance of a power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_RES_DAMAGE.POWERSETS",
+  "icon": "science_res_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Res_Damage.Science_Res_Damage"
+  ],
+  "power_display_names": [
+    "Argon Experiment (Resist Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage Resistance"
+  ]
+}

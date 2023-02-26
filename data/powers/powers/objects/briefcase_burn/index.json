@@ -1,0 +1,30 @@
+{
+  "name": "Briefcase_Burn",
+  "display_name": "Burn",
+  "display_fullname": "Objects.Burn",
+  "display_help": "Fire",
+  "display_short_help": "Fire",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BRIEFCASE_BURN.POWERSETS",
+  "icon": "briefcase_burn_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Briefcase_Burn.Burn",
+    "Objects.Briefcase_Burn.Avoid",
+    "Objects.Briefcase_Burn.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Burn",
+    "Avoid",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Burn",
+    "Avoid",
+    "Self Destruct"
+  ]
+}

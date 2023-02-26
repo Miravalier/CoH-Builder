@@ -1,0 +1,26 @@
+{
+  "name": "Jack_O_Lantern_Close",
+  "display_name": "Jack O Lantern",
+  "display_fullname": "FirBolg.Jack O Lantern",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FIRBOLG/JACK_O_LANTERN_CLOSE.POWERSETS",
+  "icon": "jack_o_lantern_close_set.png",
+  "requires": "",
+  "power_names": [
+    "FirBolg.Jack_O_Lantern_Close.Scorch",
+    "FirBolg.Jack_O_Lantern_Close.Slash"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Slash"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Fire)",
+    "Melee Moderate (Lethal)"
+  ]
+}

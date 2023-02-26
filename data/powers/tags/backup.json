@@ -1,0 +1,46 @@
+{
+  "tag": "Backup",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Combat Flight",
+      "peacebringer_defensive.luminous_aura.combat_flight"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.Group Energy Flight",
+      "peacebringer_defensive.luminous_aura.group_energy_flight"
+    ],
+    [
+      "Pool.Flight.Fly",
+      "pool.flight.fly"
+    ],
+    [
+      "Pool.Flight.Group Fly",
+      "pool.flight.group_fly"
+    ],
+    [
+      "Pool.Flight.Hover",
+      "pool.flight.combat_flight"
+    ],
+    [
+      "Pool.Gadgetry.Jetpack",
+      "pool.gadgetry.jetpack"
+    ],
+    [
+      "Pool.Sorcery.Mystic Flight",
+      "pool.sorcery.mystic_flight"
+    ],
+    [
+      "Prestige.Prestige Travel.Flying Carpet",
+      "prestige.prestige_travel.alt_magic_carpet"
+    ],
+    [
+      "Prestige.Prestige Travel.Rocket Board",
+      "prestige.prestige_travel.alt_hover_board"
+    ],
+    [
+      "Prestige.Prestige Travel.Void Skiff",
+      "prestige.prestige_travel.alt_void_skiff"
+    ]
+  ],
+  "affects": []
+}

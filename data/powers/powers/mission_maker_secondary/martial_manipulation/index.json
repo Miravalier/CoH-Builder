@@ -1,0 +1,58 @@
+{
+  "name": "Martial_Manipulation",
+  "display_name": "Martial Combat",
+  "display_fullname": "Mission Maker Secondary.Martial Combat",
+  "display_help": "Your mastery of Martial Combat allows you to draw on the physical energy stored within your body to perform remarkable feats. You deliver damage to your enemies via withering kicks and punches, while your preternatural senses keep you moving faster and striking harder than any who oppose you.",
+  "display_short_help": "Martial Combat",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37,
+    1
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/MARTIAL_MANIPULATION.POWERSETS",
+  "icon": "martial_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Martial_Manipulation.Ki_Push",
+    "Mission_Maker_Secondary.Martial_Manipulation.Storm_Kick",
+    "Mission_Maker_Secondary.Martial_Manipulation.Reach_for_the_Limit",
+    "Mission_Maker_Secondary.Martial_Manipulation.Burst_of_Speed",
+    "Mission_Maker_Secondary.Martial_Manipulation.Dragons_Tail",
+    "Mission_Maker_Secondary.Martial_Manipulation.Reaction_Time",
+    "Mission_Maker_Secondary.Martial_Manipulation.Inner_Will",
+    "Mission_Maker_Secondary.Martial_Manipulation.Throw_Sand",
+    "Mission_Maker_Secondary.Martial_Manipulation.Eagles_Claw",
+    "Mission_Maker_Secondary.Martial_Manipulation.Build_Up_Proc"
+  ],
+  "power_display_names": [
+    "Ki Push",
+    "Storm Kick",
+    "Reach for the Limit",
+    "Burst of Speed",
+    "Dragon's Tail",
+    "Reaction Time",
+    "Inner Will",
+    "Throw Sand",
+    "Eagles Claw",
+    "Reach for the Limit"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash), Foe Repel, KB",
+    "Melee, Moderate DMG(Smash), DoT(Lethal), Foe Knockdown",
+    "All Attacks: Chance for +ToHit, +DMG(All)",
+    "Location AoE Moderate DMG (Smash), Self Teleport",
+    "PBAoE Melee, Light DMG(Smash), Foe Knockdown",
+    "Toggle (PBAoE), Self Absorb over Time, +Recovery, Foe Rech, - Move, Special",
+    "Self Heal, Special",
+    "Ranged (Cone), Foe Disorient, -Perception",
+    "Melee, Extreme DMG(Smash), DoT(Lethal), Foe Minor Disorient, +Special",
+    "Self +DMG, +To Hit"
+  ]
+}

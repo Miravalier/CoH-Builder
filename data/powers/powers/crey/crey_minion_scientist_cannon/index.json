@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Minion_Scientist_Cannon",
+  "display_name": "Crey_Minion_Scientist_Cannon",
+  "display_fullname": "Crey.Crey Minion Scientist Cannon",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_SCIENTIST_CANNON.POWERSETS",
+  "icon": "crey_minion_scientist_cannon_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Scientist_Cannon.N2_Cannon"
+  ],
+  "power_display_names": [
+    "N2 Cannon"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed"
+  ]
+}

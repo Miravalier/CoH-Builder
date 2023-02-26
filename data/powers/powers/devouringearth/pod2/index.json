@@ -1,0 +1,26 @@
+{
+  "name": "Pod2",
+  "display_name": "Pod2",
+  "display_fullname": "DevouringEarth.Pod2",
+  "display_help": "Devouring Earth Crystal ranged powers.",
+  "display_short_help": "Devouring Earth Crystal ranged powers.",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/POD2.POWERSETS",
+  "icon": "pod2_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Pod2.Imprisonment",
+    "DevouringEarth.Pod2.Release"
+  ],
+  "power_display_names": [
+    "Imprisonment",
+    "Release"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Release"
+  ]
+}

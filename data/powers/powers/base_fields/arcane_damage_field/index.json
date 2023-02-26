@@ -1,0 +1,22 @@
+{
+  "name": "Arcane_Damage_Field",
+  "display_name": "Arcane_Damage_Field",
+  "display_fullname": "Base Fields.Arcane Damage Field",
+  "display_help": "This causes damage to all enemies in its radius.",
+  "display_short_help": "Base Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_FIELDS/ARCANE_DAMAGE_FIELD.POWERSETS",
+  "icon": "arcane_damage_field_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Fields.Arcane_Damage_Field.Pain_Field"
+  ],
+  "power_display_names": [
+    "Pain Field"
+  ],
+  "power_short_helps": [
+    "DoT"
+  ]
+}

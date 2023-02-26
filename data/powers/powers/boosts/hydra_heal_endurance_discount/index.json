@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Heal_Endurance_Discount",
+  "display_name": "Hydra Heal Endurance Discount",
+  "display_fullname": "Boosts.Hydra Heal Endurance Discount",
+  "display_help": "Enhances the healing ability and reduces the endurance cost of a power.",
+  "display_short_help": "Hydra (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/HYDRA_HEAL_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "hydra_heal_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Hydra_Heal_Endurance_Discount.Hydra_Heal_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "Positron Exposure (End/Heal/Absorb)"
+  ],
+  "power_short_helps": [
+    "Enhances Heal, Enhanced Absorb and Reduces Endurance Cost"
+  ]
+}

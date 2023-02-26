@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Essence_of_Curare_E",
+  "display_name": "Attuned Essence of Curare E",
+  "display_fullname": "Boosts.Attuned Essence of Curare E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and the hold duration of a power by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Essence of Curare",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ESSENCE_OF_CURARE_E.POWERSETS",
+  "icon": "attuned_essence_of_curare_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Essence_of_Curare_E.Attuned_Essence_of_Curare_E"
+  ],
+  "power_display_names": [
+    "Essence of Curare: Accuracy/Hold"
+  ],
+  "power_short_helps": [
+    "+ACC, +Hold"
+  ]
+}

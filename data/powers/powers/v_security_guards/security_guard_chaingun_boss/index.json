@@ -1,0 +1,30 @@
+{
+  "name": "Security_Guard_ChainGun_Boss",
+  "display_name": "Security_Guard_ChainGun_Boss",
+  "display_fullname": "V Security Guards.Security Guard ChainGun Boss",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_CHAINGUN_BOSS.POWERSETS",
+  "icon": "security_guard_chaingun_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_ChainGun_Boss.Short_Burst",
+    "V_Security_Guards.Security_Guard_ChainGun_Boss.Auto_Fire",
+    "V_Security_Guards.Security_Guard_ChainGun_Boss.Frag_Grenade"
+  ],
+  "power_display_names": [
+    "Short Burst",
+    "Auto Fire",
+    "Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, High Dam, +Acc",
+    "Ranged Lethal, High Dam, +Acc",
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

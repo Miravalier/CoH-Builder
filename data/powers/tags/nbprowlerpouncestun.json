@@ -1,0 +1,15 @@
+{
+  "tag": "NBProwlerPounceStun",
+  "bears": [
+    [
+      "Feral Might.Feral Might.Pounce",
+      "feral_might.feral_might.pounce"
+    ]
+  ],
+  "affects": [
+    [
+      "Feral Might.Feral Might.Nature's Boon",
+      "feral_might.feral_might.natures_boon"
+    ]
+  ]
+}

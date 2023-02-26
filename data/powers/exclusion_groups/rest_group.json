@@ -1,0 +1,53 @@
+{
+  "group": "Rest_Group",
+  "powers": [
+    [
+      "Controller Buff.Force Field.Personal Force Field",
+      "controller_buff.force_field.personal_force_field"
+    ],
+    [
+      "Corruptor Buff.Force Field.Personal Force Field",
+      "corruptor_buff.force_field.personal_force_field"
+    ],
+    [
+      "Defender Buff.Force Field.Personal Force Field",
+      "defender_buff.force_field.personal_force_field"
+    ],
+    [
+      "Epic.Force Mastery.Personal Force Field",
+      "epic.force_mastery.personal_force_field"
+    ],
+    [
+      "Epic.Mace Mastery.Personal Force Field",
+      "epic.dominator_mace_mastery.personal_force_field"
+    ],
+    [
+      "Inherent.Inherent.Rest",
+      "inherent.inherent.rest"
+    ],
+    [
+      "Mastermind Buff.Force Field.Personal Force Field",
+      "mastermind_buff.force_field.personal_force_field"
+    ],
+    [
+      "Pool.Concealment.Phase Shift",
+      "pool.invisibility.phase_shift"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Ethereal Shift",
+      "temporary_powers.temporary_powers.invention_ethereal"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Hyper Phase",
+      "temporary_powers.temporary_powers.hyper_phase"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Spirit Potion",
+      "temporary_powers.temporary_powers.spirit_potion"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Nebulous Form",
+      "warshade_defensive.umbral_aura.nebulous_form"
+    ]
+  ]
+}

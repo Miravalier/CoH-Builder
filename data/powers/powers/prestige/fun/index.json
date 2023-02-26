@@ -1,0 +1,26 @@
+{
+  "name": "Fun",
+  "display_name": "Just for Fun",
+  "display_fullname": "Prestige.Just for Fun",
+  "display_help": "Just for Fun",
+  "display_short_help": "Just for Fun",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRESTIGE/FUN.POWERSETS",
+  "icon": "temporary_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Prestige.Fun.SnowBall",
+    "Prestige.Fun.Alt_Frisbee_Granter"
+  ],
+  "power_display_names": [
+    "SnowBall",
+    "Flying Disc"
+  ],
+  "power_short_helps": [
+    "Ranged Special",
+    "Ranged, Throw Flying Disc"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Morana",
+  "display_name": "Morana",
+  "display_fullname": "Skulls.Morana",
+  "display_help": "Morana",
+  "display_short_help": "Morana",
+  "available_level": [
+    0,
+    0,
+    0,
+    9,
+    13,
+    17,
+    19,
+    21
+  ],
+  "source_file": "DEFS/POWERS/SKULLS/MORANA.POWERSETS",
+  "icon": "morana_set.png",
+  "requires": "",
+  "power_names": [
+    "Skulls.Morana.Shadow_Punch",
+    "Skulls.Morana.Smite",
+    "Skulls.Morana.Dark_Blast",
+    "Skulls.Morana.Shadow_Maul",
+    "Skulls.Morana.Dark_Regeneration",
+    "Skulls.Morana.Placate",
+    "Skulls.Morana.Aura_of_Fear",
+    "Skulls.Morana.Midnight_Grasp"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite",
+    "Dark Blast",
+    "Shadow Maul",
+    "Dark Regeneration",
+    "Placate",
+    "Aura of Fear",
+    "Midnight Grasp"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG (Smashing/Negative Energy), -ToHit (Foe)",
+    "Melee, High DMG (Smashing/Negative Energy), -ToHit (Foe)",
+    "Ranged, Minor DMG (Negative Energy), -ToHit (Foe)",
+    "Melee (Cone), High DMG (Smashing/Negative Energy), -ToHit (Foe)",
+    "PBAoE Minor DMG(Negative), Heal (Self)",
+    "Ranged, Placate (Foe), Stealth (Self)",
+    "PBAoE, Terrorize (Foe), -ToHit (Foe)",
+    "Ranged, Superior DoT (Negative Energy), Immobilize (Foe), -ToHit (Foe)"
+  ]
+}

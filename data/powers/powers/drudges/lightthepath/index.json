@@ -1,0 +1,22 @@
+{
+  "name": "LightThePath",
+  "display_name": "LightThePath",
+  "display_fullname": "Drudges.LightThePath",
+  "display_help": "Fire",
+  "display_short_help": "Fire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/LIGHTTHEPATH.POWERSETS",
+  "icon": "lightthepath_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.LightThePath.Light_The_Path"
+  ],
+  "power_display_names": [
+    "Light The Path"
+  ],
+  "power_short_helps": [
+    "Light The Path"
+  ]
+}

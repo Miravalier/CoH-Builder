@@ -1,0 +1,46 @@
+{
+  "name": "Black_Dwarf_Alpha",
+  "display_name": "Black Dwarf Alpha",
+  "display_fullname": "Nictus.Black Dwarf Alpha",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/BLACK_DWARF_ALPHA.POWERSETS",
+  "icon": "black_dwarf_set.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Black_Dwarf_Alpha.Black_Dwarf_Strike",
+    "Nictus.Black_Dwarf_Alpha.Black_Dwarf_Smite",
+    "Nictus.Black_Dwarf_Alpha.Black_Dwarf_Drain",
+    "Nictus.Black_Dwarf_Alpha.Black_Dwarf_Mire",
+    "Nictus.Black_Dwarf_Alpha.Black_Dwarf_Antagonize",
+    "Nictus.Black_Dwarf_Alpha.Black_Dwarf_Step",
+    "Nictus.Black_Dwarf_Alpha.Orbiting_Death"
+  ],
+  "power_display_names": [
+    "Black Dwarf Strike",
+    "Black Dwarf Smite",
+    "Black Dwarf Drain",
+    "Black Dwarf Mire",
+    "Black Dwarf Antagonize",
+    "Black Dwarf Step",
+    "Orbiting Death"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD, -Fly",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Ranged (Location), Self Teleport, ToHit",
+    "Auto: PBAoE Minor DoT(Negative)"
+  ]
+}

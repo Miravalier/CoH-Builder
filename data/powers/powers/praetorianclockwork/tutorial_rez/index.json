@@ -1,0 +1,22 @@
+{
+  "name": "Tutorial_Rez",
+  "display_name": "Tutorial_Rez",
+  "display_fullname": "PraetorianClockwork.Tutorial Rez",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANCLOCKWORK/TUTORIAL_REZ.POWERSETS",
+  "icon": "tutorial_rez_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianClockwork.Tutorial_Rez.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Rez"
+  ]
+}

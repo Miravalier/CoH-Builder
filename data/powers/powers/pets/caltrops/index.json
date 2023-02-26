@@ -1,0 +1,22 @@
+{
+  "name": "Caltrops",
+  "display_name": "Caltrops",
+  "display_fullname": "Pets.Caltrops",
+  "display_help": "Devices",
+  "display_short_help": "Devices",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/CALTROPS.POWERSETS",
+  "icon": "caltrops_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Caltrops.Caltrops"
+  ],
+  "power_display_names": [
+    "Caltrops"
+  ],
+  "power_short_helps": [
+    "-Speed, Low Lethal"
+  ]
+}

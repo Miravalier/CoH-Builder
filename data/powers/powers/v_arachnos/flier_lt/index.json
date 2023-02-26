@@ -1,0 +1,30 @@
+{
+  "name": "Flier_Lt",
+  "display_name": "Flier_Lt",
+  "display_fullname": "V Arachnos.Flier Lt",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/FLIER_LT.POWERSETS",
+  "icon": "flier_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Flier_Lt.Disintegration_Beam",
+    "V_Arachnos.Flier_Lt.Disruption_Blast",
+    "V_Arachnos.Flier_Lt.Resistance"
+  ],
+  "power_display_names": [
+    "Disintegration Beam",
+    "Disruption Blast",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy)",
+    "Ranged, Moderate DMG(Energy)",
+    "Resistance"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Water_Spout_Stalker",
+  "display_name": "Water Spout",
+  "display_fullname": "Villain Pets.Water Spout",
+  "display_help": "Leviathan Mastery",
+  "display_short_help": "Leviathan Mastery",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/WATER_SPOUT_STALKER.POWERSETS",
+  "icon": "water_spout_stalker_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Water_Spout_Stalker.Water_Spout",
+    "Villain_Pets.Water_Spout_Stalker.Water_Spout_Attack",
+    "Villain_Pets.Water_Spout_Stalker.Water_Spout_Fear",
+    "Villain_Pets.Water_Spout_Stalker.Self_Destruct",
+    "Villain_Pets.Water_Spout_Stalker.Invisible"
+  ],
+  "power_display_names": [
+    "Water Spout",
+    "Tornado",
+    "Water Spout Fear",
+    "Self Destruct",
+    "Invisible"
+  ],
+  "power_short_helps": [
+    "DoT(Smashin), -DEF, Disorient",
+    "DoT(Smashin), -DEF, Disorient",
+    "DoT(Smashin), -DEF, Disorient",
+    "Self Destruct",
+    "DoT(Smashin), -DEF, Disorient"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "ROFLSTOMP",
+  "display_name": "ROFLSTOMP",
+  "display_fullname": "RoguesGallery.ROFLSTOMP",
+  "display_help": "ROFLSTOMP",
+  "display_short_help": "ROFLSTOMP",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/ROFLSTOMP.POWERSETS",
+  "icon": "roflstomp_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.ROFLSTOMP.Dull_Pain",
+    "RoguesGallery.ROFLSTOMP.Resistance",
+    "RoguesGallery.ROFLSTOMP.Sawblade",
+    "RoguesGallery.ROFLSTOMP.Cybernetic_Hammers",
+    "RoguesGallery.ROFLSTOMP.Hammer_Clap",
+    "RoguesGallery.ROFLSTOMP.Tank_Grenade"
+  ],
+  "power_display_names": [
+    "Dull Pain",
+    "Resistance",
+    "Sawblade",
+    "Cybernetic Hammers",
+    "Hammer Clap",
+    "Tank Grenade"
+  ],
+  "power_short_helps": [
+    "Self, +MaxHP",
+    "Self (Auto), +RES (Smashing, Lethal, Cold), -RES (Energy)",
+    "Ranged, Minor DMG (Lethal), Minor DoT (Lethal), -Regen (Foe), -Rec (Foe), Chance for Knockback (Foe)",
+    "Melee, High DMG (Smashing), -DEF (Foe, All), Chance for Stun (Foe)",
+    "PBAoE, High DMG (Smashing), Chance for Stun (Foe), Knockback (Foe)",
+    "Ranged (Targeted AoE), Superior DMG (Lethal/Smashing), Chance for Knockback (Foe)"
+  ]
+}

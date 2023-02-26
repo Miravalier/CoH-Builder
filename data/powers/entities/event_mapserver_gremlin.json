@@ -1,0 +1,114 @@
+{
+  "name": "Event_Mapserver_Gremlin",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "MapserverPlot"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "Gremlins, much like bugs, are just as annoying but harder to catch, and sometimes compromise other things unexpectedly. A true mischief maker!",
+    "group_description": "D.O.O.M.",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 10.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericVillains.Electrical_Brute.Charged_Brawl",
+      "V_GenericVillains.Electrical_Brute.Havoc_Punch",
+      "V_GenericVillains.Electrical_Brute.Jacobs_Ladder",
+      "V_GenericVillains.Electrical_Brute.Lightning_Blast",
+      "V_GenericVillains.Electrical_Brute.Charged_Armor",
+      "V_GenericVillains.Electrical_Brute_Low.Thunder_Strike",
+      "V_GenericVillains.Electrical_Brute_Low.Power_Sink",
+      "V_GenericVillains.Electrical_Brute_Low.Static_Shield",
+      "V_GenericVillains.Electrical_Brute_Low.Ball_Lightning",
+      "V_GenericVillains.Electrical_Brute_Low.Chain_Induction",
+      "Nemesis.Nemesis_Soldier_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Charged Brawl",
+      "Havoc Punch",
+      "Jacobs Ladder",
+      "Lightning Blast",
+      "Charged Armor",
+      "Thunder Strike",
+      "Power Sink",
+      "Static Shield",
+      "Ball Lightning",
+      "Chain Induction",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Electrical_Brute",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Electrical_Brute_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Soldier_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Code Gremlin"
+      ],
+      "costumes": [
+        "Event_MapGremlin_01",
+        "Event_MapGremlin_02",
+        "Event_MapGremlin_03",
+        "Event_MapGremlin_04"
+      ]
+    }
+  ]
+}

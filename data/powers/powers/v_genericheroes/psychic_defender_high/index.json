@@ -1,0 +1,22 @@
+{
+  "name": "Psychic_Defender_High",
+  "display_name": "Psychic Defender High",
+  "display_fullname": "V GenericHeroes.Psychic Defender High",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/PSYCHIC_DEFENDER_HIGH.POWERSETS",
+  "icon": "psychic_defender_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Psychic_Defender_High.Psychic_Wail"
+  ],
+  "power_display_names": [
+    "Psychic Wail"
+  ],
+  "power_short_helps": [
+    "Close (AoE), Extreme DMG(Psionic), Foe Disorient -Recharge"
+  ]
+}

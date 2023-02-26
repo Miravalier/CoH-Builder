@@ -1,0 +1,76 @@
+{
+  "name": "Event_DADarkFiend_WerewolfLieutenant",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 30,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Event_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "The depraved ugliness festering in the underbelly of humanity is called forth at The Banner of Fiends. These Dark Fiends are a physical manifestation of pure malice, seeking calculated cruelty and malevolence, just because they can.",
+    "group_description": "Dark Fiends",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.5,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Portal.Werewolves.Claw_Swipe",
+      "Portal.Werewolves.Hurl",
+      "Portal.Werewolves.Wolf_Jumping",
+      "Portal.Werewolves.Resistance"
+    ],
+    "power_display_names": [
+      "Claw Swipe",
+      "Hurl",
+      "Wolf Jumping",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Portal",
+        "power_set": "Werewolves",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 30,
+      "experience": 0,
+      "display_names": [
+        "Dark Fiend"
+      ],
+      "costumes": [
+        "Council_Nightwolf_02"
+      ]
+    }
+  ]
+}

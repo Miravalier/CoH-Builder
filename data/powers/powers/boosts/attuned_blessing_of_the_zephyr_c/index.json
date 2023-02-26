@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Blessing_of_the_Zephyr_C",
+  "display_name": "Attuned Blessing of the Zephyr C",
+  "display_fullname": "Boosts.Attuned Blessing of the Zephyr C",
+  "display_help": "Reduces Knockback effects by -4. NOTE: This enhancement can be slotted into any travel power.",
+  "display_short_help": "Set: Blessing of the Zephyr",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BLESSING_OF_THE_ZEPHYR_C.POWERSETS",
+  "icon": "attuned_blessing_of_the_zephyr_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Blessing_of_the_Zephyr_C.Attuned_Blessing_of_the_Zephyr_C"
+  ],
+  "power_display_names": [
+    "Blessing of the Zephyr: Knockback Reduction (4 points)"
+  ],
+  "power_short_helps": [
+    "-Knockback"
+  ]
+}

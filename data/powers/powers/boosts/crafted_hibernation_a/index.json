@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Hibernation_A",
+  "display_name": "Crafted Hibernation A",
+  "display_fullname": "Boosts.Crafted Hibernation A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Hibernation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_HIBERNATION_A.POWERSETS",
+  "icon": "crafted_hibernation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Hibernation_A.Crafted_Hibernation_A"
+  ],
+  "power_display_names": [
+    "Hibernation: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

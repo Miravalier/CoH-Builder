@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Fear",
+  "display_name": "Magic Fear",
+  "display_fullname": "Boosts.Magic Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_FEAR.POWERSETS",
+  "icon": "magic_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Fear.Magic_Fear"
+  ],
+  "power_display_names": [
+    "Horror of Hermes (Fear)"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Minion_Security_AssaultRifle",
+  "display_name": "Crey_Minion_Security_AssaultRifle",
+  "display_fullname": "Crey.Crey Minion Security AssaultRifle",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_SECURITY_ASSAULTRIFLE.POWERSETS",
+  "icon": "crey_minion_security_assaultrifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Security_AssaultRifle.Assault_Rifle"
+  ],
+  "power_display_names": [
+    "Assault Rifle"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

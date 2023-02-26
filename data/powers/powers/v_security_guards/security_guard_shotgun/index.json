@@ -1,0 +1,22 @@
+{
+  "name": "Security_Guard_Shotgun",
+  "display_name": "Security_Guard_Shotgun",
+  "display_fullname": "V Security Guards.Security Guard Shotgun",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_SHOTGUN.POWERSETS",
+  "icon": "security_guard_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

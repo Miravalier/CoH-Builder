@@ -1,0 +1,22 @@
+{
+  "name": "Cabal_Sorceress_ArchVillain_Resists",
+  "display_name": "Cabal Sorceress ArchVillain Resists",
+  "display_fullname": "Cabal.Cabal Sorceress ArchVillain Resists",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_SORCERESS_ARCHVILLAIN_RESISTS.POWERSETS",
+  "icon": "cabal_sorceress_archvillain_resists_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Sorceress_ArchVillain_Resists.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

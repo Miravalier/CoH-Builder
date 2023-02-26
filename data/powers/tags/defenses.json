@@ -1,0 +1,22 @@
+{
+  "tag": "Defenses",
+  "bears": [
+    [
+      "Mastermind Pets.Mercenary Commando.Tactical Upgrade",
+      "mastermind_pets.commando_3.tactical_upgrade"
+    ],
+    [
+      "Mastermind Pets.Mercenary Medic.Tactical Upgrade",
+      "mastermind_pets.medic_3.tactical_upgrade"
+    ],
+    [
+      "Mastermind Pets.Mercenary Soldier.Tactical Upgrade",
+      "mastermind_pets.soldier_3.tactical_upgrade"
+    ],
+    [
+      "Mastermind Pets.Mercenary Spec Ops.Tactical Upgrade",
+      "mastermind_pets.spec_ops_3.tactical_upgrade"
+    ]
+  ],
+  "affects": []
+}

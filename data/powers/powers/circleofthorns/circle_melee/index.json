@@ -1,0 +1,22 @@
+{
+  "name": "Circle_Melee",
+  "display_name": "Circle_Melee",
+  "display_fullname": "CircleOfThorns.Circle Melee",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_MELEE.POWERSETS",
+  "icon": "circle_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Melee.Falchion"
+  ],
+  "power_display_names": [
+    "Falchion"
+  ],
+  "power_short_helps": [
+    "Melee Lethal/Negative, Low Dam"
+  ]
+}

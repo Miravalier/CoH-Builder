@@ -1,0 +1,22 @@
+{
+  "name": "Shield",
+  "display_name": "Shield",
+  "display_fullname": "TerraVolta.Shield",
+  "display_help": "Terra Volta",
+  "display_short_help": "Terra Volta",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TERRAVOLTA/SHIELD.POWERSETS",
+  "icon": "shield_set.png",
+  "requires": "",
+  "power_names": [
+    "TerraVolta.Shield.Radiation_Shield"
+  ],
+  "power_display_names": [
+    "Radiation Shield"
+  ],
+  "power_short_helps": [
+    "Auto: +Res (Special)"
+  ]
+}

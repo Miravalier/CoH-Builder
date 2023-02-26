@@ -1,0 +1,22 @@
+{
+  "name": "Circle_Kamakaze",
+  "display_name": "Circle_Kamakaze",
+  "display_fullname": "CircleOfThorns.Circle Kamakaze",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_KAMAKAZE.POWERSETS",
+  "icon": "circle_kamakaze_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Kamakaze.Kamikaze"
+  ],
+  "power_display_names": [
+    "Kamikaze"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

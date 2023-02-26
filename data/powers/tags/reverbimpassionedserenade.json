@@ -1,0 +1,22 @@
+{
+  "tag": "ReverbImpassionedSerenade",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Impassioned Serenade",
+      "controller_control.symphony_control.impassioned_serenade"
+    ],
+    [
+      "Dominator Control.Symphony Control.Impassioned Serenade",
+      "dominator_control.symphony_control.impassioned_serenade"
+    ],
+    [
+      "Mission Maker Attacks.Symphony Control.Impassioned Serenade",
+      "mission_maker_attacks.symphony_control.impassioned_serenade"
+    ],
+    [
+      "Mission Maker Secondary.Symphony Control.Impassioned Serenade",
+      "mission_maker_secondary.symphony_control.impassioned_serenade"
+    ]
+  ],
+  "affects": []
+}

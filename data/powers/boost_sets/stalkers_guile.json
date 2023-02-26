@@ -1,0 +1,351 @@
+{
+  "name": "Stalkers_Guile",
+  "display_name": "Stalker's Guile",
+  "group_name": "Stalker Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Stalker"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Stalkers_Guile_A.Attuned_Stalkers_Guile_A"
+    ],
+    [
+      "Boosts.Attuned_Stalkers_Guile_B.Attuned_Stalkers_Guile_B"
+    ],
+    [
+      "Boosts.Attuned_Stalkers_Guile_C.Attuned_Stalkers_Guile_C"
+    ],
+    [
+      "Boosts.Attuned_Stalkers_Guile_D.Attuned_Stalkers_Guile_D"
+    ],
+    [
+      "Boosts.Attuned_Stalkers_Guile_E.Attuned_Stalkers_Guile_E"
+    ],
+    [
+      "Boosts.Attuned_Stalkers_Guile_F.Attuned_Stalkers_Guile_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_lethal_smash_melee_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_lethal_smash_melee_def_3",
+          "Moderate Increased Lethal/Smashing/Melee Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_6",
+          "Gargantuan Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_6",
+          "Gargantuan Lethal, Smash and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_stalkersguile.png",
+      "e_icon_stalkersguile.png",
+      "e_icon_stalkersguile.png",
+      "e_icon_stalkersguile.png",
+      "e_icon_stalkersguile.png",
+      "e_icon_stalkersguile.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Stalker's Guile: Accuracy/Damage"
+      ],
+      [
+        "Attuned Stalker's Guile: Damage/Recharge"
+      ],
+      [
+        "Attuned Stalker's Guile: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Stalker's Guile: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Stalker's Guile: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Stalker's Guile: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_stalkers_guile_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_stalkers_guile_a.superior_attuned_superior_stalkers_guile_a",
+          "Superior Stalker's Guile: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Stalker's Guile: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stalkers_guile",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_stalkersguile.png"
+      },
+      "attuned_stalkers_guile_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_stalkers_guile_b.superior_attuned_superior_stalkers_guile_b",
+          "Superior Stalker's Guile: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Stalker's Guile: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stalkers_guile",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_stalkersguile.png"
+      },
+      "attuned_stalkers_guile_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_stalkers_guile_c.superior_attuned_superior_stalkers_guile_c",
+          "Superior Stalker's Guile: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Stalker's Guile: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stalkers_guile",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_stalkersguile.png"
+      },
+      "attuned_stalkers_guile_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_stalkers_guile_d.superior_attuned_superior_stalkers_guile_d",
+          "Superior Stalker's Guile: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Stalker's Guile: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stalkers_guile",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_stalkersguile.png"
+      },
+      "attuned_stalkers_guile_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_stalkers_guile_e.superior_attuned_superior_stalkers_guile_e",
+          "Superior Stalker's Guile: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Stalker's Guile: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stalkers_guile",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_stalkersguile.png"
+      },
+      "attuned_stalkers_guile_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_stalkers_guile_f.superior_attuned_superior_stalkers_guile_f",
+          "Superior Stalker's Guile: Recharge/Chance to Hide"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Stalker's Guile: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stalkers_guile",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_stalkersguile.png"
+      }
+    }
+  }
+}

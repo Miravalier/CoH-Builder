@@ -1,0 +1,22 @@
+{
+  "name": "Mu_Hold",
+  "display_name": "Mu_Hold",
+  "display_fullname": "V Arachnos.Mu Hold",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/MU_HOLD.POWERSETS",
+  "icon": "mu_hold_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Mu_Hold.Shocking_Bolt"
+  ],
+  "power_display_names": [
+    "Shocking Bolt"
+  ],
+  "power_short_helps": [
+    "Hold"
+  ]
+}

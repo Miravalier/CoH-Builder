@@ -1,0 +1,34 @@
+{
+  "name": "Assault_Rifle",
+  "display_name": "Assault_Rifle",
+  "display_fullname": "Guns.Assault Rifle",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/ASSAULT_RIFLE.POWERSETS",
+  "icon": "assault_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Assault_Rifle.Assault_Rifle_Single_Shot",
+    "Guns.Assault_Rifle.Assault_Rifle_Burst",
+    "Guns.Assault_Rifle.Assault_Rifle_Heavy_Burst",
+    "Guns.Assault_Rifle.Assault_Rifle_Auto_Fire"
+  ],
+  "power_display_names": [
+    "Assault Rifle Single Shot",
+    "Assault Rifle Burst",
+    "Assault Rifle Heavy Burst",
+    "Assault Rifle Auto Fire"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, +KB",
+    "-Def",
+    "-Def",
+    "-Def"
+  ]
+}

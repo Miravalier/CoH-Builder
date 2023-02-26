@@ -1,0 +1,19 @@
+{
+  "tag": "NeuronClone",
+  "bears": [
+    [
+      "Incarnate AlphaStrike.Neuron.Activate Clones",
+      "incarnate_alphastrike.neuron.activate_clones"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate AlphaStrike.Neuron.True Love",
+      "incarnate_alphastrike.neuron.true_love"
+    ],
+    [
+      "Incarnate AlphaStrike.Neuron.True Love",
+      "incarnate_alphastrike.neuron.true_love_revenge"
+    ]
+  ]
+}

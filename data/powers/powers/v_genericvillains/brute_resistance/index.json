@@ -1,0 +1,22 @@
+{
+  "name": "Brute_Resistance",
+  "display_name": "Brute Resistance",
+  "display_fullname": "V GenericVillains.Brute Resistance",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/BRUTE_RESISTANCE.POWERSETS",
+  "icon": "brute_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Brute_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Lethal, Smash, Fire, Cold, Energy, Negative Energy, Toxic, Radiation"
+  ]
+}

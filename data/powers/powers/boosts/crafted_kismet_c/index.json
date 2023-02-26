@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Kismet_C",
+  "display_name": "Crafted Kismet C",
+  "display_fullname": "Boosts.Crafted Kismet C",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Kismet",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_KISMET_C.POWERSETS",
+  "icon": "crafted_kismet_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Kismet_C.Crafted_Kismet_C"
+  ],
+  "power_display_names": [
+    "Kismet: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

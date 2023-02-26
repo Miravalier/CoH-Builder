@@ -1,0 +1,22 @@
+{
+  "name": "Skulls_Brawl",
+  "display_name": "Skulls_Brawl",
+  "display_fullname": "Skulls.Skulls Brawl",
+  "display_help": "Skulls",
+  "display_short_help": "Skulls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKULLS/SKULLS_BRAWL.POWERSETS",
+  "icon": "skulls_brawl_set.png",
+  "requires": "",
+  "power_names": [
+    "Skulls.Skulls_Brawl.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

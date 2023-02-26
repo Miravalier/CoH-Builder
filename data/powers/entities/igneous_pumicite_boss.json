@@ -1,0 +1,85 @@
+{
+  "name": "Igneous_Pumicite_Boss",
+  "gender": "GENDER_MALE",
+  "group_name": "Igneous",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 5,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "DevouringEarth_Boss",
+    "character_class_name": "boss_grunt",
+    "description": "The Pumicites may look ponderous and stupid, but get too close and you'll see why the police prefer to take on the Trolls. The creatures' porous stone bodies make them surprisingly quick and agile fighters, and their skin is hard and abrasive, like that of a shark. More than one hero has come to regret closing ranks with a Pumicite, and their ability to rip boulders from the ground and hurl them at enemies makes them deadly even at a distance.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Igneous.Pumicite.Resistance",
+      "Igneous.Pumicite.Poison_Gas",
+      "Igneous.Pumicite.Stone_Claw",
+      "Igneous.Pumicite.Hurl_Boulder",
+      "Igneous.Pumicite_Lt_Boss.Gravel"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Poison Gas",
+      "Stone Claw",
+      "Hurl Boulder",
+      "Gravel"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Igneous",
+        "power_set": "Pumicite",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Igneous",
+        "power_set": "Pumicite_Lt_Boss",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 5,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "Pumicite Lord"
+      ],
+      "costumes": [
+        "Magmite_Pumicite_03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Drain_Endurance",
+  "display_name": "Mutation Endurance",
+  "display_fullname": "Boosts.Mutation Drain Endurance",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_DRAIN_ENDURANCE.POWERSETS",
+  "icon": "mutation_drain_endurance_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Drain_Endurance.Mutation_Drain_Endurance"
+  ],
+  "power_display_names": [
+    "Awakening: Endurance Modification (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Sorceress_Serene",
+  "display_name": "Sorceress_Serene",
+  "display_fullname": "TalonsOfVengeance.Sorceress Serene",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/SORCERESS_SERENE.POWERSETS",
+  "icon": "sorceress_serene_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Sorceress_Serene.Fireball",
+    "TalonsOfVengeance.Sorceress_Serene.Harvest_Blades",
+    "TalonsOfVengeance.Sorceress_Serene.Autumnal_Equinox",
+    "TalonsOfVengeance.Sorceress_Serene.Antipodal_Strike",
+    "TalonsOfVengeance.Sorceress_Serene.Resistance"
+  ],
+  "power_display_names": [
+    "Fireball",
+    "Harvest Blades",
+    "Autumnal Equinox",
+    "Antipodal Strike",
+    "Autumn's Embrace"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Moderate DMG(Fire/Smash)",
+    "Melee, Moderate DMG(Fire/Cold), Minor DoT(Fire), -Recharge(Foe), -Speed(Foe, All)",
+    "Ranged, Superior DMG(Cold), Moderate DMG (Fire, DoT), Foe Hold, -SPD, -Recharge",
+    "Melee, Extreme DMG(Fire/Cold), -Speed(Foe,All), -Rech(Foe)",
+    "Resistance"
+  ]
+}

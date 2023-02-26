@@ -1,0 +1,26 @@
+{
+  "name": "RainofArrows_Defender",
+  "display_name": "Rain of Arrows",
+  "display_fullname": "Pets.Rain of Arrows",
+  "display_help": "Archery",
+  "display_short_help": "Archery",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RAINOFARROWS_DEFENDER.POWERSETS",
+  "icon": "rainofarrows_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.RainofArrows_Defender.RainofArrows",
+    "Pets.RainofArrows_Defender.Avoid"
+  ],
+  "power_display_names": [
+    "RainofArrows",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "DoT(Lethal)",
+    "Avoid"
+  ]
+}

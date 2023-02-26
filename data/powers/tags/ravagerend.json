@@ -1,0 +1,47 @@
+{
+  "tag": "RavagerEnd",
+  "bears": [
+    [
+      "BanishedPantheon.Ravager.Frigid Beam",
+      "banishedpantheon.ravager.frigid_beam"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Blast",
+      "banishedpantheon.ravager.frigid_blast"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Crush",
+      "banishedpantheon.ravager.frigid_stomp"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Grasp",
+      "banishedpantheon.ravager.frigid_grasp"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Slam",
+      "banishedpantheon.ravager.frigid_smash"
+    ]
+  ],
+  "affects": [
+    [
+      "BanishedPantheon.Ravager.Frigid Beam",
+      "banishedpantheon.ravager.frigid_beam"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Blast",
+      "banishedpantheon.ravager.frigid_blast"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Crush",
+      "banishedpantheon.ravager.frigid_stomp"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Grasp",
+      "banishedpantheon.ravager.frigid_grasp"
+    ],
+    [
+      "BanishedPantheon.Ravager.Frigid Slam",
+      "banishedpantheon.ravager.frigid_smash"
+    ]
+  ]
+}

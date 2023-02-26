@@ -1,0 +1,42 @@
+{
+  "name": "Force_of_Will",
+  "display_name": "Force of Will",
+  "display_fullname": "Pool.Force of Will",
+  "display_help": "Force of Will grants you access to various powers that allow you to manifest your own willpower and use it to harm your foes. This power pool gives you access to Mighty Leap as your travel power, which allows you to leap great distances. Additionally, while Mighty Leap is active you gain access to Takeoff. Use the Takeoff power to knockdown nearby foes and boost your jumping speed for a short time.",
+  "display_short_help": "Force of Will",
+  "available_level": [
+    0,
+    0,
+    3,
+    -1,
+    13,
+    19
+  ],
+  "source_file": "DEFS/POWERS/POOL/FORCE_OF_WILL.POWERSETS",
+  "icon": "force_of_will_set.png",
+  "requires": "",
+  "power_names": [
+    "Pool.Force_of_Will.Weaken_Resolve",
+    "Pool.Force_of_Will.Project_Will",
+    "Pool.Force_of_Will.Mighty_Leap",
+    "Pool.Force_of_Will.Stomp",
+    "Pool.Force_of_Will.Wall_of_Force",
+    "Pool.Force_of_Will.Unleash_Potential"
+  ],
+  "power_display_names": [
+    "Weaken Resolve",
+    "Project Will",
+    "Mighty Leap",
+    "Takeoff",
+    "Wall of Force",
+    "Unleash Potential"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -Resist, -Defense, -To Hit",
+    "Ranged, Light DMG(Psionic), Foe Knockdown",
+    "Toggle: Self Long Jump, (Special)",
+    "PBAoE Melee, Self +Jump, Foe Knockdown",
+    "Ranged Cone, Minor DMG(Psionic/Smashing), Foe Knockdown",
+    "Self, +Regen, +Recovery, +Defense"
+  ]
+}

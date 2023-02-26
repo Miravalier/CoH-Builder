@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Stupefy_E",
+  "display_name": "Attuned Stupefy E",
+  "display_fullname": "Boosts.Attuned Stupefy E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, stun duration by {Boost.Attrib.Mez.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Stupefy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_STUPEFY_E.POWERSETS",
+  "icon": "attuned_stupefy_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Stupefy_E.Attuned_Stupefy_E"
+  ],
+  "power_display_names": [
+    "Stupefy: Accuracy/Stun/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Stun"
+  ]
+}

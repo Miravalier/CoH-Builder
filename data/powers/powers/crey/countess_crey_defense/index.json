@@ -1,0 +1,22 @@
+{
+  "name": "Countess_Crey_Defense",
+  "display_name": "Countess_Crey_Defense",
+  "display_fullname": "Crey.Countess Crey Defense",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/COUNTESS_CREY_DEFENSE.POWERSETS",
+  "icon": "countess_crey_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Countess_Crey_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

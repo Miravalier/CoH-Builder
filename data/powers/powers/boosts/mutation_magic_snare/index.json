@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Snare",
+  "display_name": "Mutation Magic Snare",
+  "display_fullname": "Boosts.Mutation Magic Snare",
+  "display_help": "Increases the effectiveness of powers that slow",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_SNARE.POWERSETS",
+  "icon": "mutation_magic_snare_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Snare.Mutation_Magic_Snare"
+  ],
+  "power_display_names": [
+    "Breastplate (Slow)"
+  ],
+  "power_short_helps": [
+    "Enhances Slow Powers"
+  ]
+}

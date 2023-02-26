@@ -1,0 +1,37 @@
+{
+  "name": "V_Wyvern",
+  "display_name": "Wyvern",
+  "source_file": "DEFS/POWERS/V_WYVERN.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_wyvern.boss_sting",
+    "v_wyvern.boss_sting_high",
+    "v_wyvern.boss_sting_low",
+    "v_wyvern.elite_boss_raptor_high",
+    "v_wyvern.elite_boss_raptor_low",
+    "v_wyvern.lt_fang",
+    "v_wyvern.lt_fang_high",
+    "v_wyvern.lt_fang_low",
+    "v_wyvern.minion_talon",
+    "v_wyvern.minion_talon_high",
+    "v_wyvern.minion_talon_low",
+    "v_wyvern.wing_agent"
+  ],
+  "powerset_display_names": [
+    "Boss Sting",
+    "Boss Sting High",
+    "Boss Sting Low",
+    "Elite Boss Raptor High",
+    "Elite Boss Raptor Low",
+    "Lt Fang",
+    "Lt Fang High",
+    "Lt Fang Low",
+    "Minion Talon",
+    "Minion Talon High",
+    "Minion Talon Low",
+    "Wing Agent"
+  ],
+  "powersets_with_requirements": []
+}

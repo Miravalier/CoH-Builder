@@ -1,0 +1,26 @@
+{
+  "name": "DualBlade_BS",
+  "display_name": "DualBlade_BS",
+  "display_fullname": "KnivesOfVengeance.DualBlade BS",
+  "display_help": "Knives of Vengeance",
+  "display_short_help": "Knives of Vengeance",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KNIVESOFVENGEANCE/DUALBLADE_BS.POWERSETS",
+  "icon": "dualblade_bs_set.png",
+  "requires": "",
+  "power_names": [
+    "KnivesOfVengeance.DualBlade_BS.Blade_Frenzy",
+    "KnivesOfVengeance.DualBlade_BS.Wrathful_Blade"
+  ],
+  "power_display_names": [
+    "Blade Frenzy",
+    "Wrathful Blade"
+  ],
+  "power_short_helps": [
+    "Melee (Cone), Superior DMG(Lethal), Moderate DoT (Lethal), Knockup(Foe), Chance to Stun(Foe), -RES(Foe,All), +DMG(Self), +ToHit(Self)",
+    "Melee, Superior DMG(Lethal), Moderate DoT (Lethal), Heal(Self), RES(Heal,Foe), -Rec(Foe), -Regen(Foe), Chance for -MaxHP(Foe), -End(Foe)"
+  ]
+}

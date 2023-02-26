@@ -1,0 +1,135 @@
+{
+  "name": "ShadowHunter_NightWard_ShadowHunter",
+  "gender": "GENDER_MALE",
+  "group_name": "ShadowHunter",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid",
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.ShadowHunter_ShadowHunter",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 44,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Infused with the fury of the Wild Hunt, Shadowhunter roams with his Pack, cutting down everything in his path. He loathes humanity for the most part and his alliance with Tyrant is an uneasy one at best. It is held together by the fact that Tyrant cares nothing for the wilderness and is happy to give it over to Shadowhunter. If Tyrant ever begins to strip the land for resources, things will quickly unravel.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "GenericVillains.AV_Resistance.AV_Resistance",
+      "Magisterium.Shadowhunter.Mercurial_Blow",
+      "Magisterium.Shadowhunter.Precise_Strike",
+      "Magisterium.Shadowhunter.Guarded_Spin",
+      "Magisterium.Shadowhunter.Serpents_Reach",
+      "Magisterium.Shadowhunter.Innocuous_Strikes",
+      "Magisterium.Shadowhunter.Sky_Splitter",
+      "Magisterium.Shadowhunter.Twilight_Grasp"
+    ],
+    "power_display_names": [
+      "Archvillain's Might",
+      "Mercurial Blow",
+      "Precise Strike",
+      "Guarded Spin",
+      "Serpent's Reach",
+      "Innocuous Strikes",
+      "Sky Splitter",
+      "Twilight Grasp"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "GenericVillains",
+        "power_set": "AV_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Mercurial_Blow",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Precise_Strike",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Guarded_Spin",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Serpents_Reach",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Innocuous_Strikes",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Sky_Splitter",
+        "level": 0
+      },
+      {
+        "power_category": "Magisterium",
+        "power_set": "Shadowhunter",
+        "power": "Twilight_Grasp",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 44,
+      "experience": 0,
+      "display_names": [
+        "Shadow Hunter"
+      ],
+      "costumes": [
+        "NW_ShadowHunter_01"
+      ]
+    }
+  ]
+}

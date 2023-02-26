@@ -1,0 +1,30 @@
+{
+  "name": "Monitor_Sphere",
+  "display_name": "Monitor Sphere",
+  "display_fullname": "PraetorianPolice.Monitor Sphere",
+  "display_help": "Monitor Sphere",
+  "display_short_help": "Monitor Sphere",
+  "available_level": [
+    0,
+    10,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/MONITOR_SPHERE.POWERSETS",
+  "icon": "monitor_sphere_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.Monitor_Sphere.Sonic_Blast",
+    "PraetorianPolice.Monitor_Sphere.Tactical_Appraisal",
+    "PraetorianPolice.Monitor_Sphere.Call_Reinforcements"
+  ],
+  "power_display_names": [
+    "Sonic Blast",
+    "Tactical Appraisal",
+    "Call Reinforcements"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy/Smash), Foe -Res",
+    "PBAoE, Team +To Hit, +Perception",
+    "Summon PPD"
+  ]
+}

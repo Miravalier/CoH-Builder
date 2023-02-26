@@ -1,0 +1,30 @@
+{
+  "name": "Freekshow_Noisetank",
+  "display_name": "Freekshow_Noisetank",
+  "display_fullname": "Freakshow.Freekshow Noisetank",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREEKSHOW_NOISETANK.POWERSETS",
+  "icon": "freekshow_noisetank_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freekshow_Noisetank.Scream",
+    "Freakshow.Freekshow_Noisetank.Howl",
+    "Freakshow.Freekshow_Noisetank.Shockwave"
+  ],
+  "power_display_names": [
+    "Scream",
+    "Howl",
+    "Shockwave"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Smashing), -Res",
+    "Ranged Cone, Medium DMG(Smashing), -Res",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback"
+  ]
+}

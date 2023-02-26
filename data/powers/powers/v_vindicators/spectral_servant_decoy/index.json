@@ -1,0 +1,42 @@
+{
+  "name": "Spectral_Servant_Decoy",
+  "display_name": "Spectral Servant Decoy",
+  "display_fullname": "V Vindicators.Spectral Servant Decoy",
+  "display_help": "Malaise",
+  "display_short_help": "Malaise",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_VINDICATORS/SPECTRAL_SERVANT_DECOY.POWERSETS",
+  "icon": "spectral_servant_decoy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Vindicators.Spectral_Servant_Decoy.Translucency",
+    "V_Vindicators.Spectral_Servant_Decoy.Shadow_Punch",
+    "V_Vindicators.Spectral_Servant_Decoy.Smite",
+    "V_Vindicators.Spectral_Servant_Decoy.Dark_Blast",
+    "V_Vindicators.Spectral_Servant_Decoy.Fly",
+    "V_Vindicators.Spectral_Servant_Decoy.Fly_fx"
+  ],
+  "power_display_names": [
+    "Translucency",
+    "Shadow Punch",
+    "Smite",
+    "Dark Blast",
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Intangible",
+    "Melee Taunt",
+    "Melee Taunt",
+    "Ranged Taunt",
+    "Self Travel",
+    "Special"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bright_Nova",
+  "display_name": "Bright Nova",
+  "display_fullname": "Nictus.Bright Nova",
+  "display_help": "Peacebringer",
+  "display_short_help": "Peacebringer",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/BRIGHT_NOVA.POWERSETS",
+  "icon": "bright_nova_set.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Bright_Nova.Bright_Nova_Bolt",
+    "Nictus.Bright_Nova.Bright_Nova_Blast",
+    "Nictus.Bright_Nova.Bright_Nova_Scatter",
+    "Nictus.Bright_Nova.Bright_Nova_Detonation"
+  ],
+  "power_display_names": [
+    "Bright Nova Bolt",
+    "Bright Nova Blast",
+    "Bright Nova Scatter",
+    "Bright Nova Detonation"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF"
+  ]
+}

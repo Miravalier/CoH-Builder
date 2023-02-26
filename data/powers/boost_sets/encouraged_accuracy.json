@@ -1,0 +1,279 @@
+{
+  "name": "Encouraged_Accuracy",
+  "display_name": "Encouraged Accuracy",
+  "group_name": "To Hit Buff",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: To Hit Buff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Encouraged_Accuracy_A.Crafted_Encouraged_Accuracy_A",
+      "Boosts.Attuned_Encouraged_Accuracy_A.Attuned_Encouraged_Accuracy_A"
+    ],
+    [
+      "Boosts.Crafted_Encouraged_Accuracy_B.Crafted_Encouraged_Accuracy_B",
+      "Boosts.Attuned_Encouraged_Accuracy_B.Attuned_Encouraged_Accuracy_B"
+    ],
+    [
+      "Boosts.Crafted_Encouraged_Accuracy_C.Crafted_Encouraged_Accuracy_C",
+      "Boosts.Attuned_Encouraged_Accuracy_C.Attuned_Encouraged_Accuracy_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 20,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs",
+      "Enhance ToHit Buffs"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.accuracy_2",
+          "Small Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_2",
+          "Small Increased Damage Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_encouragedaccuracy.png",
+      "e_icon_encouragedaccuracy.png",
+      "e_icon_encouragedaccuracy.png",
+      "e_icon_encouragedaccuracy.png",
+      "e_icon_encouragedaccuracy.png",
+      "e_icon_encouragedaccuracy.png"
+    ],
+    "boosts": [
+      [
+        "Encouraged Accuracy: ToHit",
+        "Attuned Encouraged Accuracy: ToHit"
+      ],
+      [
+        "Encouraged Accuracy: Recharge/ToHit",
+        "Attuned Encouraged Accuracy: Recharge/ToHit"
+      ],
+      [
+        "Encouraged Accuracy: Endurance/Recharge/ToHit",
+        "Attuned Encouraged Accuracy: Endurance/Recharge/ToHit"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_encouraged_accuracy_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_encouraged_accuracy_a.attuned_encouraged_accuracy_a",
+          "Encouraged Accuracy: To Hit Buff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Encouraged Accuracy: ToHit",
+        "aspects": [
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "encouraged_accuracy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_encouragedaccuracy.png"
+      },
+      "attuned_encouraged_accuracy_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Encouraged Accuracy: ToHit",
+        "aspects": [
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "encouraged_accuracy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_encouragedaccuracy.png"
+      },
+      "crafted_encouraged_accuracy_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_encouraged_accuracy_b.attuned_encouraged_accuracy_b",
+          "Encouraged Accuracy: To Hit Buff/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Encouraged Accuracy: Recharge/ToHit",
+        "aspects": [
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "encouraged_accuracy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_encouragedaccuracy.png"
+      },
+      "attuned_encouraged_accuracy_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Encouraged Accuracy: Recharge/ToHit",
+        "aspects": [
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "encouraged_accuracy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_encouragedaccuracy.png"
+      },
+      "crafted_encouraged_accuracy_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_encouraged_accuracy_c.attuned_encouraged_accuracy_c",
+          "Encouraged Accuracy: To Hit Buff/Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Encouraged Accuracy: Endurance/Recharge/ToHit",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "encouraged_accuracy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_encouragedaccuracy.png"
+      },
+      "attuned_encouraged_accuracy_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Encouraged Accuracy: Endurance/Recharge/ToHit",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "ToHit"
+        ],
+        "superior_scales": false,
+        "boostset_name": "encouraged_accuracy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance ToHit Buffs",
+        "icon": "e_icon_encouragedaccuracy.png"
+      }
+    }
+  }
+}

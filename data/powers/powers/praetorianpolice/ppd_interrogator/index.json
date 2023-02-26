@@ -1,0 +1,34 @@
+{
+  "name": "PPD_Interrogator",
+  "display_name": "PPD Interrogator",
+  "display_fullname": "PraetorianPolice.PPD Interrogator",
+  "display_help": "PPD Interrogator",
+  "display_short_help": "PPD Interrogator",
+  "available_level": [
+    0,
+    0,
+    0,
+    10
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/PPD_INTERROGATOR.POWERSETS",
+  "icon": "ppd_interrogator_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.PPD_Interrogator.Force_Brawl",
+    "PraetorianPolice.PPD_Interrogator.Force_Bolts",
+    "PraetorianPolice.PPD_Interrogator.Force_Blast",
+    "PraetorianPolice.PPD_Interrogator.Force_Cage"
+  ],
+  "power_display_names": [
+    "Force Brawl",
+    "Force Bolts",
+    "Force Blast",
+    "Force Cage"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash/Energy), Foe Disorient",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged Minor DMG(Energy), Foe Sleep"
+  ]
+}

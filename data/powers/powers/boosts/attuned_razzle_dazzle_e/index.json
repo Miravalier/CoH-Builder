@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Razzle_Dazzle_E",
+  "display_name": "Attuned Razzle Dazzle E",
+  "display_fullname": "Boosts.Attuned Razzle Dazzle E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, stun duration by {Boost.Attrib.Mez.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Razzle Dazzle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_RAZZLE_DAZZLE_E.POWERSETS",
+  "icon": "attuned_razzle_dazzle_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Razzle_Dazzle_E.Attuned_Razzle_Dazzle_E"
+  ],
+  "power_display_names": [
+    "Razzle Dazzle: Accuracy/Stun/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Stun"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Natterlings_Minion",
+  "display_name": "Natterlings_Minion",
+  "display_fullname": "Rularuu.Natterlings Minion",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/NATTERLINGS_MINION.POWERSETS",
+  "icon": "natterlings_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Natterlings_Minion.Merge"
+  ],
+  "power_display_names": [
+    "Merge"
+  ],
+  "power_short_helps": [
+    "Merge"
+  ]
+}

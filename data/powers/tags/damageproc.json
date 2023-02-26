@@ -1,0 +1,22 @@
+{
+  "tag": "DamageProc",
+  "bears": [
+    [
+      "Boosts.Generic Clockwork Efficiency.Dam/Rech/Chance for Energy Damage",
+      "boosts.generic_clockwork_efficiency.generic_clockwork_efficiency"
+    ],
+    [
+      "Boosts.Generic Resistance Tactics.Dam/Rech/Chance for Smashing damage",
+      "boosts.generic_resistance_tactics.generic_resistance_tactics"
+    ],
+    [
+      "Boosts.Generic Syndicate Techniques.Dam/Rech/Chance for Lethal damage",
+      "boosts.generic_syndicate_techniques.generic_syndicate_techniques"
+    ],
+    [
+      "Boosts.Generic Will of the Seers.Dam/Rech/Chance for Psionic Damage",
+      "boosts.generic_will_of_the_seers.generic_will_of_the_seers"
+    ]
+  ],
+  "affects": []
+}

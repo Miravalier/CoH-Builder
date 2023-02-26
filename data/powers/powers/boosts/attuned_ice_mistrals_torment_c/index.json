@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Ice_Mistrals_Torment_C",
+  "display_name": "Attuned Ice Mistrals Torment C",
+  "display_fullname": "Boosts.Attuned Ice Mistrals Torment C",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%. Increases slow durations by {Boost.Attrib.Movement.Scale}%.",
+  "display_short_help": "Set: Ice Mistral's Torment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ICE_MISTRALS_TORMENT_C.POWERSETS",
+  "icon": "savagemelee_hemorrhage.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Ice_Mistrals_Torment_C.Attuned_Ice_Mistrals_Torment_C"
+  ],
+  "power_display_names": [
+    "Ice Mistral's Torment: Damage/Slow"
+  ],
+  "power_short_helps": [
+    "+DMG, +Slow"
+  ]
+}

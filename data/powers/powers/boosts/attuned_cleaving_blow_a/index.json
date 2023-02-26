@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cleaving_Blow_A",
+  "display_name": "Attuned Cleaving Blow A",
+  "display_fullname": "Boosts.Attuned Cleaving Blow A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Cleaving Blow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CLEAVING_BLOW_A.POWERSETS",
+  "icon": "attuned_cleaving_blow_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cleaving_Blow_A.Attuned_Cleaving_Blow_A"
+  ],
+  "power_display_names": [
+    "Cleaving Blow: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

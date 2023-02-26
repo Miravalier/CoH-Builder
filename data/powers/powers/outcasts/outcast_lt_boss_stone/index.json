@@ -1,0 +1,30 @@
+{
+  "name": "Outcast_Lt_Boss_Stone",
+  "display_name": "Outcast_Lt_Boss_Stone",
+  "display_fullname": "Outcasts.Outcast Lt Boss Stone",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_LT_BOSS_STONE.POWERSETS",
+  "icon": "outcast_lt_boss_stone_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Lt_Boss_Stone.Resistance",
+    "Outcasts.Outcast_Lt_Boss_Stone.Stone_Fist",
+    "Outcasts.Outcast_Lt_Boss_Stone.Hurl_Boulder"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Stone Fist",
+    "Hurl Boulder"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Disorient",
+    "Ranged Smash, Knockback"
+  ]
+}

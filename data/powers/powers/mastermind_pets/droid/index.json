@@ -1,0 +1,30 @@
+{
+  "name": "Droid",
+  "display_name": "Robot Droid",
+  "display_fullname": "Mastermind Pets.Robot Droid",
+  "display_help": "Only the most insidious Mastermind could construct such an army. Cold and relentless, these Bots obey only one voice, and will execute any order without hesitation.",
+  "display_short_help": "Droid",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/DROID.POWERSETS",
+  "icon": "droid_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Droid.Super_Leap",
+    "Mastermind_Pets.Droid.Laser_Burst",
+    "Mastermind_Pets.Droid.Smash"
+  ],
+  "power_display_names": [
+    "Super Leap",
+    "Laser Burst",
+    "Smash"
+  ],
+  "power_short_helps": [
+    "Self Leap",
+    "Ranged, DoT (Energy)",
+    "Melee, DMG(Smash)"
+  ]
+}

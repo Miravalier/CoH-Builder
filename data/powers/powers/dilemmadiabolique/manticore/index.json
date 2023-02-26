@@ -1,0 +1,46 @@
+{
+  "name": "Manticore",
+  "display_name": "Manticore",
+  "display_fullname": "DilemmaDiabolique.Manticore",
+  "display_help": "Freedom Phalanx",
+  "display_short_help": "Freedom Phalanx",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/MANTICORE.POWERSETS",
+  "icon": "manticore_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Manticore.Fistful_of_Arrows",
+    "DilemmaDiabolique.Manticore.Blazing_Arrow",
+    "DilemmaDiabolique.Manticore.Explosive_Arrow",
+    "DilemmaDiabolique.Manticore.Stunning_Shot",
+    "DilemmaDiabolique.Manticore.Poison_Gas_Arrow",
+    "DilemmaDiabolique.Manticore.Acid_Arrow",
+    "DilemmaDiabolique.Manticore.EMP_Arrow"
+  ],
+  "power_display_names": [
+    "Fistful of Arrows",
+    "Blazing Arrow",
+    "Explosive Arrow",
+    "Stunning Shot",
+    "Poison Gas Arrow",
+    "Acid Arrow",
+    "Fusion Pulse Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Moderate DMG(Lethal), Minor DoT(Lethal)",
+    "Ranged, Minor DMG(Lethal), Moderate DoT(Fire)",
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Fire), Knockback",
+    "Ranged Disorient, Minor DMG(Smashing)",
+    "Ranged (Targeted AoE), Foe -DMG",
+    "Ranged AoE Minor DoT(Toxic), Foe -Res(All), -DEF",
+    "AoE, Foe Hold, Special vs. Robots, Self -Recovery"
+  ]
+}

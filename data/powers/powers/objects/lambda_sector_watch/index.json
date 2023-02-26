@@ -1,0 +1,22 @@
+{
+  "name": "Lambda_Sector_Watch",
+  "display_name": "Lambda_Sector_Watch",
+  "display_fullname": "Objects.Lambda Sector Watch",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/LAMBDA_SECTOR_WATCH.POWERSETS",
+  "icon": "lambda_sector_watch_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Lambda_Sector_Watch.Marauder_Present"
+  ],
+  "power_display_names": [
+    "Marauder Present"
+  ],
+  "power_short_helps": [
+    "Marauder Present!"
+  ]
+}

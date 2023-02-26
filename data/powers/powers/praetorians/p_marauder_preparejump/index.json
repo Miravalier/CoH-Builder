@@ -1,0 +1,22 @@
+{
+  "name": "P_Marauder_PrepareJump",
+  "display_name": "P_Marauder_PrepareJump",
+  "display_fullname": "Praetorians.P Marauder PrepareJump",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/P_MARAUDER_PREPAREJUMP.POWERSETS",
+  "icon": "p_marauder_preparejump_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.P_Marauder_PrepareJump.Prepare_to_Jump"
+  ],
+  "power_display_names": [
+    "Prepare to Jump"
+  ],
+  "power_short_helps": [
+    "Self Immune to Control"
+  ]
+}

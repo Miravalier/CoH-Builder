@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Soulbound_Allegiance_F",
+  "display_name": "Crafted Soulbound Allegiance F",
+  "display_fullname": "Boosts.Crafted Soulbound Allegiance F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives a small chance to have a \"Build Up\" power effect the pets using this enhancement. This effect will trigger roughly 3 times per minute.",
+  "display_short_help": "Set: Soulbound Allegiance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_SOULBOUND_ALLEGIANCE_F.POWERSETS",
+  "icon": "crafted_soulbound_allegiance_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Soulbound_Allegiance_F.Crafted_Soulbound_Allegiance_F"
+  ],
+  "power_display_names": [
+    "Soulbound Allegiance: Chance for Build Up"
+  ],
+  "power_short_helps": [
+    "Chance for Buildup"
+  ]
+}

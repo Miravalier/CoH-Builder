@@ -1,0 +1,106 @@
+{
+  "name": "Crey_Hero_BioRanger_BackupA_NoSpawn",
+  "gender": "GENDER_MALE",
+  "group_name": "Crey",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default",
+    "character_class_name": "lt_grunt",
+    "description": "This backup Paragon Protector is a specialized unit to assist the Command Unit in containing a scene.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Crey.Revenant_BioRanger_BackupA.Incinerate",
+      "Crey.Revenant_BioRanger_BackupA.Fire_Ball",
+      "Crey.Revenant_BioRanger_BackupA.Seeker_Drones",
+      "Crey.Revenant_BioRanger_BackupA.Time_Bomb_Alternate",
+      "Crey.Revenant_BioRanger_BackupA.Accelerate_Metabolism",
+      "Crey.Revenant_BioRanger_BackupA.Resistances",
+      "Crey.Crey_Boss_Hero_Clone_Movement.Fly",
+      "Crey.Crey_Boss_Hero_Clone_Movement.Fly_fx",
+      "Inherent.Fitness.Swift"
+    ],
+    "power_display_names": [
+      "Incinerate",
+      "Fire Ball",
+      "Seeker Drones",
+      "Purge Bomb",
+      "Accelerate Metabolism",
+      "Resistances",
+      "Fly",
+      "Fly fx",
+      "Swift"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Crey",
+        "power_set": "Revenant_BioRanger_BackupA",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Boss_Hero_Clone_Movement",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Inherent",
+        "power_set": "Fitness",
+        "power": "Swift",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Classified Crey Demolitionist"
+      ],
+      "costumes": [
+        "CMRA"
+      ]
+    }
+  ]
+}

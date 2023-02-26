@@ -1,0 +1,42 @@
+{
+  "name": "LT",
+  "display_name": "Lt",
+  "display_fullname": "V SpetsnazCommandos.Lt",
+  "display_help": "Spetsnaz Commandos",
+  "display_short_help": "Spetsnaz Commandos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    27,
+    27
+  ],
+  "source_file": "DEFS/POWERS/V_SPETSNAZCOMMANDOS/LT.POWERSETS",
+  "icon": "lt_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpetsnazCommandos.Lt.Adv_Assault_Rifle_Burst",
+    "V_SpetsnazCommandos.Lt.Spetsnaz_Frag_Grenade",
+    "V_SpetsnazCommandos.Lt.Rifle_Butt",
+    "V_SpetsnazCommandos.Lt.Brawl",
+    "V_SpetsnazCommandos.Lt.Sting_of_the_Wasp",
+    "V_SpetsnazCommandos.Lt.Sapp_Stick"
+  ],
+  "power_display_names": [
+    "Adv Assault Rifle Burst",
+    "Frag Grenade",
+    "Rifle Butt",
+    "Brawl",
+    "Sting of the Wasp",
+    "Sapp Stick"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "Targeted AoE Lethal/Fire, Knockback",
+    "Melee Smash",
+    "Melee Smash",
+    "Melee, Moderate DMG(Lethal), Foe -Def",
+    "Hold, -End"
+  ]
+}

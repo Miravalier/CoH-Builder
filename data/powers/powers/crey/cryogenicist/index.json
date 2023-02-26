@@ -1,0 +1,42 @@
+{
+  "name": "Cryogenicist",
+  "display_name": "Cryogenicist",
+  "display_fullname": "Crey.Cryogenicist",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    39,
+    0,
+    44,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CRYOGENICIST.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Cryogenicist.Cryogenic_Shot",
+    "Crey.Cryogenicist.Cryogenic_Beam",
+    "Crey.Cryogenicist.Absolute_Zero_Beam",
+    "Crey.Cryogenicist.Ice_Shield",
+    "Crey.Cryogenicist.Benumb",
+    "Crey.Cryogenicist.Serum"
+  ],
+  "power_display_names": [
+    "Cryogenic Shot",
+    "Cryogenic Beam",
+    "Absolute-Zero Beam",
+    "Ice Shield",
+    "Benumb",
+    "Serum"
+  ],
+  "power_short_helps": [
+    "Ranged, DMG(Cold), Foe Immobolize, Foe Slow, Foe -Rech",
+    "Ranged (Cone), DMG(Cold), Foes -Def(All), Foes Slow, Foes -Rech",
+    "Narrow Ranged (Cone), DMG(Cold), Foes -Res, Foes Slow, Foes -Rech",
+    "Ranged, Ally +DEF(Melee, Smash, Lethal), Res(Cold, Fire)",
+    "High Accuracy, Ranged Foe -DMG, -END, -Regeneration, -Special",
+    "Self Heal, +Max HP"
+  ]
+}

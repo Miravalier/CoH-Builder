@@ -1,0 +1,21 @@
+{
+  "name": "Wisps",
+  "display_name": "Wisps",
+  "source_file": "DEFS/POWERS/WISPS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "wisps.blue_wisp",
+    "wisps.red_wisp_attack",
+    "wisps.wisp_defence",
+    "wisps.wisp_movement"
+  ],
+  "powerset_display_names": [
+    "Blue_Wisp",
+    "Red_Wisp_Attack",
+    "Wisp_Defence",
+    "Wisp_Movement"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clockwork_Summon_FX",
+  "display_name": "Clockwork_Summon_FX",
+  "display_fullname": "Portal.Clockwork Summon FX",
+  "display_help": "Psychic Clockwork",
+  "display_short_help": "Psychic Clockwork",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CLOCKWORK_SUMMON_FX.POWERSETS",
+  "icon": "clockwork_summon_fx_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Clockwork_Summon_FX.SummonFX"
+  ],
+  "power_display_names": [
+    "SummonFX"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

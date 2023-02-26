@@ -1,0 +1,275 @@
+{
+  "name": "Soaring",
+  "display_name": "Soaring",
+  "group_name": "Flight",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Flight"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Soaring_A.Crafted_Soaring_A",
+      "Boosts.Attuned_Soaring_A.Attuned_Soaring_A"
+    ],
+    [
+      "Boosts.Crafted_Soaring_B.Crafted_Soaring_B",
+      "Boosts.Attuned_Soaring_B.Attuned_Soaring_B"
+    ],
+    [
+      "Boosts.Crafted_Soaring_C.Crafted_Soaring_C",
+      "Boosts.Attuned_Soaring_C.Attuned_Soaring_C"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Flying Speed",
+      "Enhance Flying Speed",
+      "Enhance Flying Speed",
+      "Enhance Flying Speed",
+      "Enhance Flying Speed",
+      "Enhance Flying Speed"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_1",
+          "Tiny Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_1",
+          "Tiny Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_soaring.png",
+      "e_icon_soaring.png",
+      "e_icon_soaring.png",
+      "e_icon_soaring.png",
+      "e_icon_soaring.png",
+      "e_icon_soaring.png"
+    ],
+    "boosts": [
+      [
+        "Soaring: FlyingSpeed",
+        "Attuned Soaring: FlyingSpeed"
+      ],
+      [
+        "Soaring: Endurance",
+        "Attuned Soaring: Endurance"
+      ],
+      [
+        "Soaring: Endurance/FlyingSpeed",
+        "Attuned Soaring: Endurance/FlyingSpeed"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_soaring_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_soaring_a.attuned_soaring_a",
+          "Soaring: Fly"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Soaring: FlyingSpeed",
+        "aspects": [
+          "FlyingSpeed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "soaring",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Flying Speed",
+        "icon": "e_icon_soaring.png"
+      },
+      "attuned_soaring_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Soaring: FlyingSpeed",
+        "aspects": [
+          "FlyingSpeed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "soaring",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Flying Speed",
+        "icon": "e_icon_soaring.png"
+      },
+      "crafted_soaring_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_soaring_b.attuned_soaring_b",
+          "Soaring: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Soaring: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "soaring",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Flying Speed",
+        "icon": "e_icon_soaring.png"
+      },
+      "attuned_soaring_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Soaring: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "soaring",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Flying Speed",
+        "icon": "e_icon_soaring.png"
+      },
+      "crafted_soaring_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_soaring_c.attuned_soaring_c",
+          "Soaring: Endurance/Fly"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Soaring: Endurance/FlyingSpeed",
+        "aspects": [
+          "Endurance",
+          "FlyingSpeed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "soaring",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Flying Speed",
+        "icon": "e_icon_soaring.png"
+      },
+      "attuned_soaring_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Soaring: Endurance/FlyingSpeed",
+        "aspects": [
+          "Endurance",
+          "FlyingSpeed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "soaring",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Flying Speed",
+        "icon": "e_icon_soaring.png"
+      }
+    }
+  }
+}

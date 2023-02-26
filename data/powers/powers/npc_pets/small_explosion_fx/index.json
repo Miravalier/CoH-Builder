@@ -1,0 +1,22 @@
+{
+  "name": "Small_Explosion_FX",
+  "display_name": "Small_Explosion_FX",
+  "display_fullname": "NPC Pets.Small Explosion FX",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NPC_PETS/SMALL_EXPLOSION_FX.POWERSETS",
+  "icon": "small_explosion_fx_set.png",
+  "requires": "",
+  "power_names": [
+    "NPC_Pets.Small_Explosion_FX.Explosion"
+  ],
+  "power_display_names": [
+    "Explosion"
+  ],
+  "power_short_helps": [
+    "Untouchable"
+  ]
+}

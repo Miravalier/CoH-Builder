@@ -1,0 +1,540 @@
+{
+  "name": "Miracle",
+  "display_name": "Miracle",
+  "group_name": "Healing",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Healing"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Miracle_A.Crafted_Miracle_A",
+      "Boosts.Attuned_Miracle_A.Attuned_Miracle_A"
+    ],
+    [
+      "Boosts.Crafted_Miracle_B.Crafted_Miracle_B",
+      "Boosts.Attuned_Miracle_B.Attuned_Miracle_B"
+    ],
+    [
+      "Boosts.Crafted_Miracle_C.Crafted_Miracle_C",
+      "Boosts.Attuned_Miracle_C.Attuned_Miracle_C"
+    ],
+    [
+      "Boosts.Crafted_Miracle_D.Crafted_Miracle_D",
+      "Boosts.Attuned_Miracle_D.Attuned_Miracle_D"
+    ],
+    [
+      "Boosts.Crafted_Miracle_E.Crafted_Miracle_E",
+      "Boosts.Attuned_Miracle_E.Attuned_Miracle_E"
+    ],
+    [
+      "Boosts.Crafted_Miracle_F.Crafted_Miracle_F",
+      "Boosts.Attuned_Miracle_F.Attuned_Miracle_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 40,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_heal_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_psionic_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_heal_4",
+          "Large Improved Heal Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_2",
+          "Small Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_psionic_def_2",
+          "Small Increased Psionic Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png",
+      "e_icon_miracle.png"
+    ],
+    "boosts": [
+      [
+        "Miracle: Endurance/Heal",
+        "Attuned Miracle: Endurance/Heal"
+      ],
+      [
+        "Miracle: Endurance/Recharge",
+        "Attuned Miracle: Endurance/Recharge"
+      ],
+      [
+        "Miracle: Heal/Recharge",
+        "Attuned Miracle: Heal/Recharge"
+      ],
+      [
+        "Miracle: Endurance/Heal/Recharge",
+        "Attuned Miracle: Endurance/Heal/Recharge"
+      ],
+      [
+        "Miracle: Heal",
+        "Attuned Miracle: Heal"
+      ],
+      [
+        "Miracle: Proc",
+        "Attuned Miracle: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_miracle_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_miracle_a.attuned_miracle_a",
+          "Miracle: Healing/Absorb/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Miracle: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "attuned_miracle_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Miracle: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "crafted_miracle_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_miracle_b.attuned_miracle_b",
+          "Miracle: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Miracle: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "attuned_miracle_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Miracle: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "crafted_miracle_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_miracle_c.attuned_miracle_c",
+          "Miracle: Healing/Absorb/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Miracle: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "attuned_miracle_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Miracle: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "crafted_miracle_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_miracle_d.attuned_miracle_d",
+          "Miracle: Healing/Absorb/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Miracle: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "attuned_miracle_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Miracle: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "crafted_miracle_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_miracle_e.attuned_miracle_e",
+          "Miracle: Healing/Absorb"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Miracle: Heal",
+        "aspects": [
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "attuned_miracle_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Miracle: Heal",
+        "aspects": [
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "crafted_miracle_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_miracle_f.attuned_miracle_f",
+          "Miracle: +Recovery"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Miracle: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      },
+      "attuned_miracle_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Miracle: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "miracle",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_miracle.png"
+      }
+    }
+  }
+}

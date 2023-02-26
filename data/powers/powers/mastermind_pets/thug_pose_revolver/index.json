@@ -1,0 +1,22 @@
+{
+  "name": "Thug_Pose_Revolver",
+  "display_name": "Thug Posse",
+  "display_fullname": "Mastermind Pets.Thug Posse",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_POSE_REVOLVER.POWERSETS",
+  "icon": "thug_pose_revolver_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Pose_Revolver.Revolver"
+  ],
+  "power_display_names": [
+    "Revolver"
+  ],
+  "power_short_helps": [
+    "Ranged Light DMG(Lethal)"
+  ]
+}

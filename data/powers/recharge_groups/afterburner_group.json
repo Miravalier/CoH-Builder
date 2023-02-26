@@ -1,0 +1,13 @@
+{
+  "group": "Afterburner_Group",
+  "powers": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Quantum Acceleration",
+      "peacebringer_defensive.luminous_aura.quantum_boost"
+    ],
+    [
+      "Pool.Flight.Afterburner",
+      "pool.flight.fly_boost"
+    ]
+  ]
+}

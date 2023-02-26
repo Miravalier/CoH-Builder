@@ -1,0 +1,22 @@
+{
+  "name": "Trapdoor_Bifurcation",
+  "display_name": "Trapdoor_Bifurcation",
+  "display_fullname": "Incarnate AlphaStrike.Trapdoor Bifurcation",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/TRAPDOOR_BIFURCATION.POWERSETS",
+  "icon": "trapdoor_bifurcation_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Trapdoor_Bifurcation.Recuperate"
+  ],
+  "power_display_names": [
+    "Recuperate"
+  ],
+  "power_short_helps": [
+    "Grant"
+  ]
+}

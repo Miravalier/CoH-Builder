@@ -1,0 +1,100 @@
+{
+  "name": "Arachnos_Arachnos_Flier_SSF",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic",
+    "Raid"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 52,
+    "max_level": 52,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_ARCHVILLAIN2",
+    "ai_config": "Default_GiantMonster",
+    "character_class_name": "boss_archvillain_flying",
+    "description": "Arachnos no doubt stole the technology for these drones from the Rikti. Or perhaps they bargained for it. Lord Recluse will deal with anyone who gives him what he wants.",
+    "group_description": null,
+    "display_class_name": "Transport",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Flier.Energy_Blast",
+      "V_Arachnos.Flier.Energy_Burst",
+      "V_Arachnos.Flier.Energy_Saturation",
+      "V_Arachnos.Flier.Swarm_Missile",
+      "V_Arachnos.Flier.Drop_Zone",
+      "V_Arachnos.Flier.Explosive_Drone",
+      "V_Arachnos.Flier.Drone_Repel",
+      "V_Arachnos.Flier.Fly",
+      "V_Arachnos.Flier.Transition",
+      "V_Arachnos.Flier.Kill_Mine",
+      "V_Arachnos.Flier.Resistance"
+    ],
+    "power_display_names": [
+      "Energy Blast",
+      "Energy Burst",
+      "Energy Saturation",
+      "Swarm Missile",
+      "Drop Zone",
+      "Explosive Drone",
+      "Drone Repel",
+      "Fly",
+      "Transition",
+      "Kill Mine",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 52,
+      "max_level": 52,
+      "experience": 0,
+      "display_names": [
+        "Arachnos Flier"
+      ],
+      "costumes": [
+        "V_Arachnos_Flyer_Critter"
+      ]
+    }
+  ]
+}

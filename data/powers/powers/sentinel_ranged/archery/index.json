@@ -1,0 +1,54 @@
+{
+  "name": "Archery",
+  "display_name": "Archery",
+  "display_fullname": "Sentinel Ranged.Archery",
+  "display_help": "The ancient art of Archery allows you to use a Bow and Arrow to great effect. This power set has an inherent bonus to Accuracy.",
+  "display_short_help": "Archery",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/SENTINEL_RANGED/ARCHERY.POWERSETS",
+  "icon": "archery_set.png",
+  "requires": "",
+  "power_names": [
+    "Sentinel_Ranged.Archery.Snap_Shot",
+    "Sentinel_Ranged.Archery.Aimed_Shot",
+    "Sentinel_Ranged.Archery.Fistful_of_Arrows",
+    "Sentinel_Ranged.Archery.Stunning_Shot",
+    "Sentinel_Ranged.Archery.Aim",
+    "Sentinel_Ranged.Archery.Explosive_Arrow",
+    "Sentinel_Ranged.Archery.Blazing_Arrow",
+    "Sentinel_Ranged.Archery.Ranged_Shot",
+    "Sentinel_Ranged.Archery.Rain_of_Arrows"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "Aimed Shot",
+    "Fistful of Arrows",
+    "Stunning Shot",
+    "Aim",
+    "Explosive Arrow",
+    "Blazing Arrow",
+    "Perfect Shot",
+    "Rain of Arrows"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Lethal)",
+    "Ranged, Light DMG(Lethal)",
+    "Ranged (Cone), Light DMG(Lethal)",
+    "Ranged Disorient, Moderate DMG(Smashing)",
+    "Self +To Hit, +DMG, +Range",
+    "Ranged (Targeted AoE), Light DMG(Lethal/Fire), Knockback",
+    "Ranged, Superior DMG(Lethal), Minor DoT(Fire)",
+    "Ranged, High DMG(Lethal)",
+    "Ranged (Location AoE), Extreme DoT(Lethal)"
+  ]
+}

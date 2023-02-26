@@ -1,0 +1,30 @@
+{
+  "name": "Energy_Drone2",
+  "display_name": "Energy_Drone2",
+  "display_fullname": "Kheldian Pets.Energy Drone2",
+  "display_help": "Peacebringer",
+  "display_short_help": "Peacebringer",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KHELDIAN_PETS/ENERGY_DRONE2.POWERSETS",
+  "icon": "energy_drone2_set.png",
+  "requires": "",
+  "power_names": [
+    "Kheldian_Pets.Energy_Drone2.Impact",
+    "Kheldian_Pets.Energy_Drone2.Self_Destruct",
+    "Kheldian_Pets.Energy_Drone2.Fly"
+  ],
+  "power_display_names": [
+    "Impact",
+    "Self Destruct",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "AoE Energy, Knockback",
+    "Self Destruct",
+    "Movement"
+  ]
+}

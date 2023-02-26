@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Tank_Freak_Ranged",
+  "display_name": "Freakshow_Tank_Freak_Ranged",
+  "display_fullname": "Freakshow.Freakshow Tank Freak Ranged",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_TANK_FREAK_RANGED.POWERSETS",
+  "icon": "freakshow_tank_freak_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Tank_Freak_Ranged.Tank_Grenade"
+  ],
+  "power_display_names": [
+    "Tank Grenade"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Lethal/Smash, Knockback"
+  ]
+}

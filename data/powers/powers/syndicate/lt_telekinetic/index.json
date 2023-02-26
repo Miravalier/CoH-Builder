@@ -1,0 +1,38 @@
+{
+  "name": "LT_Telekinetic",
+  "display_name": "LT_Telekinetic",
+  "display_fullname": "Syndicate.LT Telekinetic",
+  "display_help": "Syndicate",
+  "display_short_help": "Syndicate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SYNDICATE/LT_TELEKINETIC.POWERSETS",
+  "icon": "lt_telekinetic_set.png",
+  "requires": "",
+  "power_names": [
+    "Syndicate.LT_Telekinetic.Resistance",
+    "Syndicate.LT_Telekinetic.Kinetic_Shackles",
+    "Syndicate.LT_Telekinetic.Force_Blast",
+    "Syndicate.LT_Telekinetic.Kinetic_Strike",
+    "Syndicate.LT_Telekinetic.Siphon_Speed"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Kinetic Shackles",
+    "Force Blast",
+    "Kinetic Strike",
+    "Siphon Speed"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Energy, Psi)",
+    "Moderate DoT(Smash), Foe -SPD, -Recharge, -Fly",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Melee, Moderate DMG(Smash/Energy), Foe -DMG, Self +DMG",
+    "-SPD"
+  ]
+}

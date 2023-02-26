@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Sciroccos_Dervish_C",
+  "display_name": "Attuned Sciroccos Dervish C",
+  "display_fullname": "Boosts.Attuned Sciroccos Dervish C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Scirocco's Dervish",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SCIROCCOS_DERVISH_C.POWERSETS",
+  "icon": "attuned_sciroccos_dervish_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Sciroccos_Dervish_C.Attuned_Sciroccos_Dervish_C"
+  ],
+  "power_display_names": [
+    "Scirocco's Dervish: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

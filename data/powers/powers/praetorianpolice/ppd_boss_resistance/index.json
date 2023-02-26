@@ -1,0 +1,22 @@
+{
+  "name": "PPD_Boss_Resistance",
+  "display_name": "PPD Boss Resistance",
+  "display_fullname": "PraetorianPolice.PPD Boss Resistance",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/PPD_BOSS_RESISTANCE.POWERSETS",
+  "icon": "ppd_boss_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.PPD_Boss_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto, Res(Lethal, Smashing, Energy)"
+  ]
+}

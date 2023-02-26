@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Jump",
+  "display_name": "Mutation Magic Jump",
+  "display_fullname": "Boosts.Mutation Magic Jump",
+  "display_help": "Increases the distance and height of a jump power.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_JUMP.POWERSETS",
+  "icon": "mutation_magic_jump_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Jump.Mutation_Magic_Jump"
+  ],
+  "power_display_names": [
+    "Belt (Jump)"
+  ],
+  "power_short_helps": [
+    "Enhances Jump"
+  ]
+}

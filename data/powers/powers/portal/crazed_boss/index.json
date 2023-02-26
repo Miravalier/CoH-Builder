@@ -1,0 +1,30 @@
+{
+  "name": "Crazed_Boss",
+  "display_name": "Crazed_Boss",
+  "display_fullname": "Portal.Crazed Boss",
+  "display_help": "The Crazed",
+  "display_short_help": "The Crazed",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CRAZED_BOSS.POWERSETS",
+  "icon": "crazed_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Crazed_Boss.Jab",
+    "Portal.Crazed_Boss.Punch",
+    "Portal.Crazed_Boss.Haymaker"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Haymaker"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback"
+  ]
+}

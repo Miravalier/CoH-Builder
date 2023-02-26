@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Artillery_F",
+  "display_name": "Attuned Artillery F",
+  "display_fullname": "Boosts.Attuned Artillery F",
+  "display_help": "Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%. Increases range by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Set: Artillery",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ARTILLERY_F.POWERSETS",
+  "icon": "e_icon_artillery.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Artillery_F.Attuned_Artillery_F"
+  ],
+  "power_display_names": [
+    "Artillery: Endurance/Recharge/Range"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Rech, +Range"
+  ]
+}

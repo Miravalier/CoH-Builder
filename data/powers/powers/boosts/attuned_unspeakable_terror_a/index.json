@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Unspeakable_Terror_A",
+  "display_name": "Attuned Unspeakable Terror A",
+  "display_fullname": "Boosts.Attuned Unspeakable Terror A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Unspeakable Terror",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNSPEAKABLE_TERROR_A.POWERSETS",
+  "icon": "attuned_unspeakable_terror_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Unspeakable_Terror_A.Attuned_Unspeakable_Terror_A"
+  ],
+  "power_display_names": [
+    "Unspeakable Terror: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

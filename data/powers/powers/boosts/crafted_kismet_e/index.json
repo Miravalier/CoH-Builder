@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Kismet_E",
+  "display_name": "Crafted Kismet E",
+  "display_fullname": "Boosts.Crafted Kismet E",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Increases ToHit for all attacks by {Boost.Attrib.ToHit.Scale}% for 120 seconds.",
+  "display_short_help": "Set: Kismet",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_KISMET_E.POWERSETS",
+  "icon": "crafted_kismet_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Kismet_E.Crafted_Kismet_E"
+  ],
+  "power_display_names": [
+    "Kismet: +ToHit"
+  ],
+  "power_short_helps": [
+    "+ToHit"
+  ]
+}

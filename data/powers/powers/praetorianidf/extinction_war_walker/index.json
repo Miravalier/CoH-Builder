@@ -1,0 +1,58 @@
+{
+  "name": "Extinction_War_Walker",
+  "display_name": "Extinction War Walker",
+  "display_fullname": "PraetorianIDF.Extinction War Walker",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/EXTINCTION_WAR_WALKER.POWERSETS",
+  "icon": "extinction_war_walker_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Extinction_War_Walker.Targeting_Reticule",
+    "PraetorianIDF.Extinction_War_Walker.Combat_Helper",
+    "PraetorianIDF.Extinction_War_Walker.Grant_Specials",
+    "PraetorianIDF.Extinction_War_Walker.Execute_Special",
+    "PraetorianIDF.Extinction_War_Walker.Extinction",
+    "PraetorianIDF.Extinction_War_Walker.Extinction2",
+    "PraetorianIDF.Extinction_War_Walker.Delay_Combat",
+    "PraetorianIDF.Extinction_War_Walker.Arrest_Mode",
+    "PraetorianIDF.Extinction_War_Walker.Lethal_Force_Authorized",
+    "PraetorianIDF.Extinction_War_Walker.Crowd_Dispersal"
+  ],
+  "power_display_names": [
+    "Targeting Reticule",
+    "Combat Helper",
+    "Grant Specials",
+    "Execute Special",
+    "Extinction",
+    "Extinction2",
+    "Delay Combat",
+    "Arrest Mode",
+    "Lethal Force Authorized",
+    "Crowd Dispersal"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Targeted AoE, Causes PBAoE Hold",
+    "Targeted AoE, Causes PBAoE DoT",
+    "Targeted AoE, Causes PBAoE Terrorize"
+  ]
+}

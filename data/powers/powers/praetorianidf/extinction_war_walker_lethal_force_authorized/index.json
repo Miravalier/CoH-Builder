@@ -1,0 +1,22 @@
+{
+  "name": "Extinction_War_Walker_Lethal_Force_Authorized",
+  "display_name": "Extinction War Walker",
+  "display_fullname": "PraetorianIDF.Extinction War Walker",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/EXTINCTION_WAR_WALKER_LETHAL_FORCE_AUTHORIZED.POWERSETS",
+  "icon": "extinction_war_walker_lethal_force_authorized_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Extinction_War_Walker_Lethal_Force_Authorized.Lethal_Force_Authorized"
+  ],
+  "power_display_names": [
+    "Lethal Force Authorized"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Causes PBAoE DoT"
+  ]
+}

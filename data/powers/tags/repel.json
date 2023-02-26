@@ -1,0 +1,22 @@
+{
+  "tag": "Repel",
+  "bears": [
+    [
+      "Controller Buff.Force Field.Repulsion Field",
+      "controller_buff.force_field.repulsion_field"
+    ],
+    [
+      "Corruptor Buff.Force Field.Repulsion Field",
+      "corruptor_buff.force_field.repulsion_field"
+    ],
+    [
+      "Defender Buff.Force Field.Repulsion Field",
+      "defender_buff.force_field.repulsion_field"
+    ],
+    [
+      "Mastermind Buff.Force Field.Repulsion Field",
+      "mastermind_buff.force_field.repulsion_field"
+    ]
+  ],
+  "affects": []
+}

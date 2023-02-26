@@ -1,0 +1,22 @@
+{
+  "name": "Cathedral_Force_Field",
+  "display_name": "Cathedral Willforge",
+  "display_fullname": "Objects.Cathedral Willforge",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/CATHEDRAL_FORCE_FIELD.POWERSETS",
+  "icon": "cathedral_force_field_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Cathedral_Force_Field.Force_Field"
+  ],
+  "power_display_names": [
+    "Force Field"
+  ],
+  "power_short_helps": [
+    "Untouchable"
+  ]
+}

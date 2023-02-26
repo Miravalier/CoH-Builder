@@ -1,0 +1,26 @@
+{
+  "name": "Impression_Merged",
+  "display_name": "Impression_Merged",
+  "display_fullname": "Apparitions.Impression Merged",
+  "display_help": "Apparitions",
+  "display_short_help": "Apparitions",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/APPARITIONS/IMPRESSION_MERGED.POWERSETS",
+  "icon": "impression_merged_set.png",
+  "requires": "",
+  "power_names": [
+    "Apparitions.Impression_Merged.Baleful_Thrash",
+    "Apparitions.Impression_Merged.Aura_of_Aggression"
+  ],
+  "power_display_names": [
+    "Baleful Thrash",
+    "Aura of Aggression"
+  ],
+  "power_short_helps": [
+    "Short Ranged (Cone), Moderate DMG(Negative Energy/Lethal), DoT (Lethal), -DMG (All)",
+    "Minor DoT(Negative Energy), -Rech"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Static_Field_Dominator",
+  "display_name": "Static Field Dominator",
+  "display_fullname": "Villain Pets.Static Field Dominator",
+  "display_help": "Electrical Blast",
+  "display_short_help": "Electrical Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/STATIC_FIELD_DOMINATOR.POWERSETS",
+  "icon": "static_field_dominator_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Static_Field_Dominator.Static_Field"
+  ],
+  "power_display_names": [
+    "Static Field"
+  ],
+  "power_short_helps": [
+    "Static Field"
+  ]
+}

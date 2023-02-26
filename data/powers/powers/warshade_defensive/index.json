@@ -1,0 +1,17 @@
+{
+  "name": "Warshade_Defensive",
+  "display_name": "Defensive",
+  "source_file": "DEFS/POWERS/WARSHADE_DEFENSIVE.CATEGORIES",
+  "archetypes": [
+    "warshade"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "warshade_defensive.umbral_aura"
+  ],
+  "powerset_display_names": [
+    "Umbral Aura"
+  ],
+  "powersets_with_requirements": []
+}

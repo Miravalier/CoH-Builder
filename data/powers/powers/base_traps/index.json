@@ -1,0 +1,37 @@
+{
+  "name": "Base_Traps",
+  "display_name": "Traps",
+  "source_file": "DEFS/POWERS/BASE_TRAPS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "base_traps.arcane_gas_trap",
+    "base_traps.arcane_repulsor",
+    "base_traps.arcane_slow_field",
+    "base_traps.arcane_tesla",
+    "base_traps.arcane_trip_mine",
+    "base_traps.tech_gas_trap",
+    "base_traps.tech_repulsor",
+    "base_traps.tech_slow_field",
+    "base_traps.tech_tesla",
+    "base_traps.tech_trip_mine",
+    "base_traps.trap_defenses",
+    "base_traps.trap_destruct"
+  ],
+  "powerset_display_names": [
+    "Arcane Gas Trap",
+    "Arcane Repulsor",
+    "Arcane Slow Field",
+    "Arcane Tesla",
+    "Arcane Trip Mine",
+    "Tech Gas Trap",
+    "Tech Repulsor",
+    "Tech Slow Field",
+    "Tech Tesla",
+    "Tech Trip Mine",
+    "Trap_Defenses",
+    "Trap_Destruct"
+  ],
+  "powersets_with_requirements": []
+}

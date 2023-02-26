@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Heal",
+  "display_name": "Generic Heal",
+  "display_fullname": "Boosts.Generic Heal",
+  "display_help": "Enhances the healing ability of a power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_HEAL.POWERSETS",
+  "icon": "generic_heal_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Heal.Generic_Heal"
+  ],
+  "power_display_names": [
+    "Training: Healing/Absorb"
+  ],
+  "power_short_helps": [
+    "Enhances Heal and Absorb"
+  ]
+}

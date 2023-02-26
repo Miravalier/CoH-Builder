@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Decimation_F",
+  "display_name": "Attuned Decimation F",
+  "display_fullname": "Boosts.Attuned Decimation F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives a chance to have a \"Build Up\" power effect the caster. This effect will trigger roughly 1 time per minute.",
+  "display_short_help": "Set: Decimation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DECIMATION_F.POWERSETS",
+  "icon": "attuned_decimation_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Decimation_F.Attuned_Decimation_F"
+  ],
+  "power_display_names": [
+    "Decimation: Chance for Build Up"
+  ],
+  "power_short_helps": [
+    "Chance for Build Up"
+  ]
+}

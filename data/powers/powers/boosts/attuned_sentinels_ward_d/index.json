@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Sentinels_Ward_D",
+  "display_name": "Attuned Sentinels Ward D",
+  "display_fullname": "Boosts.Attuned Sentinels Ward D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%. This enhancement can only be slotted by Sentinels and may be slotted into any Sentinel damage power.",
+  "display_short_help": "Set: Sentinel's Ward",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SENTINELS_WARD_D.POWERSETS",
+  "icon": "attuned_sentinels_ward_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Sentinels_Ward_D.Attuned_Sentinels_Ward_D"
+  ],
+  "power_display_names": [
+    "Sentinel's Ward: Accuracy/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Damage, and Reduces Endurance Cost"
+  ]
+}

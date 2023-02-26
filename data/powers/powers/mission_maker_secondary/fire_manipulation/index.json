@@ -1,0 +1,54 @@
+{
+  "name": "Fire_Manipulation",
+  "display_name": "Fire Manipulation",
+  "display_fullname": "Mission Maker Secondary.Fire Manipulation",
+  "display_help": "Fire Manipulation lets you surround yourself with various manifestations of fire and flames, assaulting and burning nearby foes. Fire Manipulation powers tend to set foes ablaze for added damage over time.",
+  "display_short_help": "Fire Manipulation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/FIRE_MANIPULATION.POWERSETS",
+  "icon": "fire_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Fire_Manipulation.Ring_of_Fire",
+    "Mission_Maker_Secondary.Fire_Manipulation.Fire_Sword",
+    "Mission_Maker_Secondary.Fire_Manipulation.Combustion",
+    "Mission_Maker_Secondary.Fire_Manipulation.Fire_Sword_Circle",
+    "Mission_Maker_Secondary.Fire_Manipulation.Build_Up",
+    "Mission_Maker_Secondary.Fire_Manipulation.Blazing_Aura",
+    "Mission_Maker_Secondary.Fire_Manipulation.Consume",
+    "Mission_Maker_Secondary.Fire_Manipulation.Burn",
+    "Mission_Maker_Secondary.Fire_Manipulation.Hot_Feet"
+  ],
+  "power_display_names": [
+    "Ring of Fire",
+    "Fire Sword",
+    "Combustion",
+    "Fire Sword Circle",
+    "Build Up",
+    "Cauterizing Aura",
+    "Consume",
+    "Burn",
+    "Hot Feet"
+  ],
+  "power_short_helps": [
+    "Ranged, DoT (Fire), Foe Immobilize",
+    "Melee, Moderate DMG(Fire), -Defense",
+    "Melee (AoE), Moderate DoT(Fire)",
+    "PBAoE Melee, Moderate DMG(Fire), -Defense",
+    "Self +DMG +To-hit",
+    "Toggle: PBAoE, DoT (Fire), Self +Heal Over Time, +Recovery",
+    "PBAoE, DMG(Fire), Self +End",
+    "Location (PBAoE), DoT (Fire), Self Res(Immobilize)",
+    "Toggle: PBAoE, DoT (Fire), Foe -SPD"
+  ]
+}

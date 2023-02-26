@@ -1,0 +1,30 @@
+{
+  "name": "Improved",
+  "display_name": "Improved",
+  "display_fullname": "P Ghouls.Improved",
+  "display_help": "Ghouls",
+  "display_short_help": "Ghouls",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_GHOULS/IMPROVED.POWERSETS",
+  "icon": "improved_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Ghouls.Improved.Fast_Healing",
+    "P_Ghouls.Improved.Dull_Pain",
+    "P_Ghouls.Improved.Integration"
+  ],
+  "power_display_names": [
+    "Fast Healing",
+    "Dull Pain",
+    "Integration"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Regeneration",
+    "Self +Max HP",
+    "Toggle: Self +Res(Knockback, Disorient, Hold, Sleep, Immobilize), +Regeneration"
+  ]
+}

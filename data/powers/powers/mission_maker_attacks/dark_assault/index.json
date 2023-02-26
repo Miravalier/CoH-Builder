@@ -1,0 +1,54 @@
+{
+  "name": "Dark_Assault",
+  "display_name": "Dark Assault",
+  "display_fullname": "Mission Maker Attacks.Dark Assault",
+  "display_help": "Blind and drain your foes with dark energies. Dark Assault allows you to pummel your foes with heavy hitting melee attacks as well as several ranged attacks. Many of Dark Assaults powers reduce their victims' chance to hit.",
+  "display_short_help": "Dark Assault",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    25,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_ATTACKS/DARK_ASSAULT.POWERSETS",
+  "icon": "dark_assault_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Attacks.Dark_Assault.Dark_Blast",
+    "Mission_Maker_Attacks.Dark_Assault.Smite",
+    "Mission_Maker_Attacks.Dark_Assault.Gloom",
+    "Mission_Maker_Attacks.Dark_Assault.Night_Fall",
+    "Mission_Maker_Attacks.Dark_Assault.Gather_Shadows",
+    "Mission_Maker_Attacks.Dark_Assault.Moonbeam",
+    "Mission_Maker_Attacks.Dark_Assault.Life_Drain",
+    "Mission_Maker_Attacks.Dark_Assault.Death_Shroud",
+    "Mission_Maker_Attacks.Dark_Assault.Midnight_Grasp"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Smite",
+    "Gloom",
+    "Night Fall",
+    "Gather Shadows",
+    "Moonbeam",
+    "Life Drain",
+    "Death Shroud",
+    "Midnight Grasp"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Negative), Foe -To Hit",
+    "Melee, High DMG (Smash/Negative), Foe -To Hit",
+    "Ranged, High DoT(Negative), Foe -To Hit",
+    "Ranged (Cone), Moderate DMG(Negative), Foe -To Hit",
+    "Self +Special, +Dmg(All)",
+    "Sniper, Superior DMG(Negative), Target -To Hit",
+    "Ranged, High DMG(Negative), Target -To Hit, Self +HP",
+    "Toggle: PBAoE Minor DoT(Negative)",
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit"
+  ]
+}

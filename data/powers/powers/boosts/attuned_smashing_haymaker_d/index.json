@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Smashing_Haymaker_D",
+  "display_name": "Attuned Smashing Haymaker D",
+  "display_fullname": "Boosts.Attuned Smashing Haymaker D",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}%, reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Smashing Haymaker",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SMASHING_HAYMAKER_D.POWERSETS",
+  "icon": "attuned_smashing_haymaker_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Smashing_Haymaker_D.Attuned_Smashing_Haymaker_D"
+  ],
+  "power_display_names": [
+    "Smashing Haymaker: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

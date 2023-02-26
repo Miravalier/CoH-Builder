@@ -1,0 +1,609 @@
+{
+  "name": "Panacea",
+  "display_name": "Panacea",
+  "group_name": "Healing",
+  "conversion_groups": [
+    "Rarity: PvP"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Panacea_A.Crafted_Panacea_A",
+      "Boosts.Attuned_Panacea_A.Attuned_Panacea_A"
+    ],
+    [
+      "Boosts.Crafted_Panacea_B.Crafted_Panacea_B",
+      "Boosts.Attuned_Panacea_B.Attuned_Panacea_B"
+    ],
+    [
+      "Boosts.Crafted_Panacea_C.Crafted_Panacea_C",
+      "Boosts.Attuned_Panacea_C.Attuned_Panacea_C"
+    ],
+    [
+      "Boosts.Crafted_Panacea_D.Crafted_Panacea_D",
+      "Boosts.Attuned_Panacea_D.Attuned_Panacea_D"
+    ],
+    [
+      "Boosts.Crafted_Panacea_E.Crafted_Panacea_E",
+      "Boosts.Attuned_Panacea_E.Attuned_Panacea_E"
+    ],
+    [
+      "Boosts.Crafted_Panacea_F.Crafted_Panacea_F",
+      "Boosts.Attuned_Panacea_F.Attuned_Panacea_F"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.repel_resist_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.fire_cold_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.increased_range_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_heal_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.increased_melee_lethal_smash_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance (PvP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_4",
+          "Large Improved Regeneration Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.repel_resist_4",
+          "Huge Increased Repel Resistance (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.fire_cold_mez_res_3",
+          "Moderate Fire, Cold and Mez Resistance (PvP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_5",
+          "Huge Improved Recharge Time Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.increased_range_5",
+          "Huge Increased Range (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_heal_5",
+          "Huge Improved Heal Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.increased_melee_lethal_smash_def_4",
+          "Large Increased Melee/Lethal/Smashing Def Bonus (PVP)"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png",
+      "e_icon_panacea.png"
+    ],
+    "boosts": [
+      [
+        "Panacea: Endurance/Heal",
+        "Attuned Panacea: Endurance/Heal"
+      ],
+      [
+        "Panacea: Endurance/Recharge",
+        "Attuned Panacea: Endurance/Recharge"
+      ],
+      [
+        "Panacea: Heal/Recharge",
+        "Attuned Panacea: Heal/Recharge"
+      ],
+      [
+        "Panacea: Endurance/Heal/Recharge",
+        "Attuned Panacea: Endurance/Heal/Recharge"
+      ],
+      [
+        "Panacea: Heal",
+        "Attuned Panacea: Heal"
+      ],
+      [
+        "Panacea: Proc",
+        "Attuned Panacea: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_panacea_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_panacea_a.attuned_panacea_a",
+          "Panacea: Healing/Absorb/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Panacea: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "attuned_panacea_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Panacea: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "crafted_panacea_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_panacea_b.attuned_panacea_b",
+          "Panacea: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Panacea: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "attuned_panacea_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Panacea: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "crafted_panacea_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_panacea_c.attuned_panacea_c",
+          "Panacea: Healing/Absorb/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Panacea: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "attuned_panacea_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Panacea: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "crafted_panacea_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_panacea_d.attuned_panacea_d",
+          "Panacea: Healing/Absorb/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Panacea: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "attuned_panacea_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Panacea: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "crafted_panacea_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_panacea_e.attuned_panacea_e",
+          "Panacea: Healing/Absorb"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Panacea: Heal",
+        "aspects": [
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "attuned_panacea_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Panacea: Heal",
+        "aspects": [
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "crafted_panacea_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_panacea_f.attuned_panacea_f",
+          "Panacea: Chance for +Hit Points/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Panacea: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      },
+      "attuned_panacea_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Panacea: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "panacea",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_panacea.png"
+      }
+    }
+  }
+}

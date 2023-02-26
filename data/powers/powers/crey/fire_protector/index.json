@@ -1,0 +1,46 @@
+{
+  "name": "Fire_Protector",
+  "display_name": "Fire Protector",
+  "display_fullname": "Crey.Fire Protector",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/FIRE_PROTECTOR.POWERSETS",
+  "icon": "fire_protector_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Fire_Protector.Fire_Smash",
+    "Crey.Fire_Protector.Scorch",
+    "Crey.Fire_Protector.Blaze",
+    "Crey.Fire_Protector.Flares",
+    "Crey.Fire_Protector.Fire_Ball",
+    "Crey.Fire_Protector.Combustion",
+    "Crey.Fire_Protector.Demon_Transformation"
+  ],
+  "power_display_names": [
+    "Fire Smash",
+    "Scorch",
+    "Blaze",
+    "Flares",
+    "Fire Ball",
+    "Combustion",
+    "Demon Transformation"
+  ],
+  "power_short_helps": [
+    "Melee DMG(Fire)",
+    "DoT (Fire)",
+    "Close, DMG(Fire)",
+    "DMG(Fire)",
+    "DoT (Fire)",
+    "DoT (Fire)",
+    "Toggle: Shapeshift, Special"
+  ]
+}

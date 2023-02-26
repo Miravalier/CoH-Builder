@@ -1,0 +1,34 @@
+{
+  "name": "HoloMan_Phantasm",
+  "display_name": "Phantasm",
+  "display_fullname": "RoguesGallery.Phantasm",
+  "display_help": "Illusion Control",
+  "display_short_help": "Illusion Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/HOLOMAN_PHANTASM.POWERSETS",
+  "icon": "holoman_phantasm_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.HoloMan_Phantasm.Power_Bolt",
+    "RoguesGallery.HoloMan_Phantasm.Energy_Torrent",
+    "RoguesGallery.HoloMan_Phantasm.Resistance",
+    "RoguesGallery.HoloMan_Phantasm.Fly"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Energy Torrent",
+    "Resistance",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Ranged (Cone), Superior DMG (Energy/Smashing), Chance for Knockback (Foe)",
+    "Resistance",
+    "Self Travel"
+  ]
+}

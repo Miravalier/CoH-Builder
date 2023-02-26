@@ -1,0 +1,22 @@
+{
+  "name": "12Gauge",
+  "display_name": "12 Gauge",
+  "display_fullname": "Council.12 Gauge",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/12GAUGE.POWERSETS",
+  "icon": "12gauge_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.12Gauge.12_Gauge"
+  ],
+  "power_display_names": [
+    "12 Gauge"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

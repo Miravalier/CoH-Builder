@@ -1,0 +1,22 @@
+{
+  "name": "Security_Guard_Pistol",
+  "display_name": "Security_Guard_Pistol",
+  "display_fullname": "V Security Guards.Security Guard Pistol",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_PISTOL.POWERSETS",
+  "icon": "security_guard_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_Pistol.Pistol"
+  ],
+  "power_display_names": [
+    "Pistol"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam"
+  ]
+}

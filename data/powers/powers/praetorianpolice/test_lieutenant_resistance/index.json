@@ -1,0 +1,26 @@
+{
+  "name": "Test_Lieutenant_Resistance",
+  "display_name": "TEST Lieutenant Resistance",
+  "display_fullname": "PraetorianPolice.TEST Lieutenant Resistance",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0,
+    -1
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/TEST_LIEUTENANT_RESISTANCE.POWERSETS",
+  "icon": "test_lieutenant_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.Test_Lieutenant_Resistance.Resistance",
+    "PraetorianPolice.Test_Lieutenant_Resistance.Call_Reinforcements"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Call Reinforcements"
+  ],
+  "power_short_helps": [
+    "Auto, Res(All)",
+    "Summon PPD"
+  ]
+}

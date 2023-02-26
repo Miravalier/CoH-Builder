@@ -1,0 +1,30 @@
+{
+  "name": "Blechley",
+  "display_name": "Blechley",
+  "display_fullname": "Council.Blechley",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/BLECHLEY.POWERSETS",
+  "icon": "blechley_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Blechley.Mesmerize",
+    "Council.Blechley.Tenebrous_Tentacles",
+    "Council.Blechley.Reconstruction"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Tenebrous Tentacles",
+    "Reconstruction"
+  ],
+  "power_short_helps": [
+    "Ranged Psionic, Sleep",
+    "Immobilize, -ACC",
+    "Self Heal"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Experienced_Marksman_D",
+  "display_name": "Experienced Marksman D",
+  "display_fullname": "Boosts.Crafted Experienced Marksman D",
+  "display_help": "Enhances accuracy by {Boost.Attrib.Accuracy.Scale}%. Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%. NOTE: This is a PvP enhancement, this type of enhancement has two groups of set bonuses. You get the set bonuses not marked \"(PvP)\" while experiencing PvE content, but you get both the PvP set bonuses and the PvE set bonuses when fighting players.",
+  "display_short_help": "Set: Experienced Marksman",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_EXPERIENCED_MARKSMAN_D.POWERSETS",
+  "icon": "e_icon_experienced_marksman.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Experienced_Marksman_D.Crafted_Experienced_Marksman_D"
+  ],
+  "power_display_names": [
+    "Experienced Marksman: Accuracy/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost, +Rech"
+  ]
+}

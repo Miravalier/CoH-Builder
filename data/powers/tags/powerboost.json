@@ -1,0 +1,22 @@
+{
+  "tag": "PowerBoost",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Support Core Embodiment",
+      "incarnate.hybrid.support_genome_8"
+    ],
+    [
+      "Incarnate.Hybrid.Support Partial Core Graft",
+      "incarnate.hybrid.support_genome_5"
+    ],
+    [
+      "Incarnate.Hybrid.Support Radial Embodiment",
+      "incarnate.hybrid.support_genome_9"
+    ],
+    [
+      "Incarnate.Hybrid.Support Total Radial Graft",
+      "incarnate.hybrid.support_genome_7"
+    ]
+  ],
+  "affects": []
+}

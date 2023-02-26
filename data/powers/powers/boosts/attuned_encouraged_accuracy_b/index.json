@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Encouraged_Accuracy_B",
+  "display_name": "Attuned Encouraged Accuracy B",
+  "display_fullname": "Boosts.Attuned Encouraged Accuracy B",
+  "display_help": "Enhances the to hit buff potential of a power by {Boost.Attrib.ToHit.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Encouraged Accuracy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ENCOURAGED_ACCURACY_B.POWERSETS",
+  "icon": "attuned_encouraged_accuracy_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Encouraged_Accuracy_B.Attuned_Encouraged_Accuracy_B"
+  ],
+  "power_display_names": [
+    "Encouraged Accuracy: To Hit Buff/Recharge"
+  ],
+  "power_short_helps": [
+    "+To Hit Buff, +Rech"
+  ]
+}

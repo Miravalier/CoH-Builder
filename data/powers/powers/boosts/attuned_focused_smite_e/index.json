@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Focused_Smite_E",
+  "display_name": "Attuned Focused Smite E",
+  "display_fullname": "Boosts.Attuned Focused Smite E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Focused Smite",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FOCUSED_SMITE_E.POWERSETS",
+  "icon": "attuned_focused_smite_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Focused_Smite_E.Attuned_Focused_Smite_E"
+  ],
+  "power_display_names": [
+    "Focused Smite: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Damage and Increases Attack Rate"
+  ]
+}

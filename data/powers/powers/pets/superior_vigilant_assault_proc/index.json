@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Vigilant_Assault_Proc",
+  "display_name": "Superior Vigilant Assault",
+  "display_fullname": "Pets.Superior Vigilant Assault",
+  "display_help": "Vigilant Assault",
+  "display_short_help": "Vigilant Assault",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/SUPERIOR_VIGILANT_ASSAULT_PROC.POWERSETS",
+  "icon": "superior_vigilant_assault_proc_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Superior_Vigilant_Assault_Proc.Superior_Vigilant_Assault"
+  ],
+  "power_display_names": [
+    "Superior Vigilant Assault"
+  ],
+  "power_short_helps": [
+    "PBAoe +Absorb"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Lt_Boss_Armored_Defense",
+  "display_name": "Crey_Lt_Boss_Armored_Defense",
+  "display_fullname": "Crey.Crey Lt Boss Armored Defense",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_LT_BOSS_ARMORED_DEFENSE.POWERSETS",
+  "icon": "crey_lt_boss_armored_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Lt_Boss_Armored_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Lethal Smash Energy Fire Cold"
+  ]
+}

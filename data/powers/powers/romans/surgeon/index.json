@@ -1,0 +1,30 @@
+{
+  "name": "Surgeon",
+  "display_name": "Surgeon",
+  "display_fullname": "Romans.Surgeon",
+  "display_help": "Surgeon",
+  "display_short_help": "Surgeon",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/SURGEON.POWERSETS",
+  "icon": "surgeon_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Surgeon.Healing_Aura",
+    "Romans.Surgeon.Heal_Other",
+    "Romans.Surgeon.Resurrect"
+  ],
+  "power_display_names": [
+    "Healing Aura",
+    "Heal Other",
+    "Resurrect"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +Heal",
+    "Ally Heal",
+    "Resurrect"
+  ]
+}

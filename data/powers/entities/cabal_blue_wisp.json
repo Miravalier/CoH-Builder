@@ -1,0 +1,85 @@
+{
+  "name": "Cabal_Blue_Wisp",
+  "gender": "GENDER_MALE",
+  "group_name": "Cabal",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": "GhostCabalFirbolg",
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "UltraCoward",
+    "character_class_name": "minion_pets",
+    "description": "The true nature of the Sprites is a matter of some controversy among paranormal experts. Many believe that they are the byproducts of the Cabal's magic. They seem to be intelligent, and will aid any person they perceive as worthy of their assistance.",
+    "group_description": null,
+    "display_class_name": "Minion",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Wisps.Blue_Wisp.Sprite_Aura",
+      "Wisps.Wisp_Movement.Fly",
+      "Wisps.Wisp_Defence.Resistance"
+    ],
+    "power_display_names": [
+      "Sprite Aura",
+      "Fly",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Wisps",
+        "power_set": "Blue_Wisp",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Wisps",
+        "power_set": "Wisp_Movement",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Wisps",
+        "power_set": "Wisp_Defence",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Sprite"
+      ],
+      "costumes": [
+        "Croatoa_Wisp_Blue"
+      ]
+    }
+  ]
+}

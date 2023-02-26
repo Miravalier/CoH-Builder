@@ -1,0 +1,26 @@
+{
+  "name": "Carnival_Attendant",
+  "display_name": "Carnival_Attendant",
+  "display_fullname": "Carnival.Carnival Attendant",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_ATTENDANT.POWERSETS",
+  "icon": "carnival_attendant_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Attendant.Energy_Rings",
+    "Carnival.Carnival_Attendant.Energy_Ring_Toss"
+  ],
+  "power_display_names": [
+    "Energy Rings",
+    "Energy Ring Toss"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient"
+  ]
+}

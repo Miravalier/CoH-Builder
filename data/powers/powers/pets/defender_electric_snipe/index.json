@@ -1,0 +1,26 @@
+{
+  "name": "Defender_Electric_Snipe",
+  "display_name": "",
+  "display_fullname": "Pets.Defender Electric Snipe",
+  "display_help": "Electric Blast",
+  "display_short_help": "Electric Blast",
+  "available_level": [
+    19,
+    19
+  ],
+  "source_file": "DEFS/POWERS/PETS/DEFENDER_ELECTRIC_SNIPE.POWERSETS",
+  "icon": "defender_electric_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Defender_Electric_Snipe.Zapp_Normal",
+    "Pets.Defender_Electric_Snipe.Zapp_Quick"
+  ],
+  "power_display_names": [
+    "Zapp",
+    "Zapp"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy), Foe -End",
+    "Sniper, High DMG(Energy), Foe -End"
+  ]
+}

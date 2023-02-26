@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Force_Feedback_D",
+  "display_name": "Attuned Force Feedback D",
+  "display_fullname": "Boosts.Attuned Force Feedback D",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Force Feedback",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FORCE_FEEDBACK_D.POWERSETS",
+  "icon": "attuned_force_feedback_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Force_Feedback_D.Attuned_Force_Feedback_D"
+  ],
+  "power_display_names": [
+    "Force Feedback: Recharge/Endurance"
+  ],
+  "power_short_helps": [
+    "+Rech, +End"
+  ]
+}

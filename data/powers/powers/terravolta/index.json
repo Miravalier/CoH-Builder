@@ -1,0 +1,19 @@
+{
+  "name": "TerraVolta",
+  "display_name": "TerraVolta",
+  "source_file": "DEFS/POWERS/TERRAVOLTA.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "terravolta.core",
+    "terravolta.shield",
+    "terravolta.trap"
+  ],
+  "powerset_display_names": [
+    "Core",
+    "Shield",
+    "Trap"
+  ],
+  "powersets_with_requirements": []
+}

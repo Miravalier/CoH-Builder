@@ -1,0 +1,46 @@
+{
+  "name": "Large_Team",
+  "display_name": "Large Team",
+  "display_fullname": "Inspirations.Large Team",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Large Team",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/LARGE_TEAM.POWERSETS",
+  "icon": "large_team_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Large_Team.Good_Luck_Imbuement",
+    "Inspirations.Large_Team.Rugged_Imbuement",
+    "Inspirations.Large_Team.Keen_Insight_Imbuement",
+    "Inspirations.Large_Team.Greater_Endurance_Imbuement",
+    "Inspirations.Large_Team.Greater_Health_Imbuement",
+    "Inspirations.Large_Team.Focused_Rage_Imbuement",
+    "Inspirations.Large_Team.Greater_Protection_Imbuement"
+  ],
+  "power_display_names": [
+    "Good Luck Imbuement",
+    "Rugged Imbuement",
+    "Keen Insight Imbuement",
+    "Greater Endurance Imbuement",
+    "Greater Health Imbuement",
+    "Focused Rage Imbuement",
+    "Greater Protection Imbuement"
+  ],
+  "power_short_helps": [
+    "+25% Defense to Team",
+    "+15% Res(All), RES Teleport, to Team",
+    "+18.75% To Hit, +Perception to Team",
+    "+33% Endurance to Team",
+    "+33% Health to Team",
+    "+33% DMG(All) to Team",
+    "Team Resist Status Effects"
+  ]
+}

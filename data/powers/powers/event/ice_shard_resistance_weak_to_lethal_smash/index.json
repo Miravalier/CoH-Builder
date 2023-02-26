@@ -1,0 +1,22 @@
+{
+  "name": "Ice_Shard_Resistance_Weak_to_Lethal_Smash",
+  "display_name": "Ice Shard Resistance Weak to Lethal Smash",
+  "display_fullname": "Event.Ice Shard Resistance Weak to Lethal Smash",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/ICE_SHARD_RESISTANCE_WEAK_TO_LETHAL_SMASH.POWERSETS",
+  "icon": "ice_shard_resistance_weak_to_lethal_smash_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Ice_Shard_Resistance_Weak_to_Lethal_Smash.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

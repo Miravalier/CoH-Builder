@@ -1,0 +1,22 @@
+{
+  "name": "LevelUpEffect",
+  "display_name": "LevelUpEffect",
+  "display_fullname": "DilemmaDiabolique.LevelUpEffect",
+  "display_help": "Diabolique",
+  "display_short_help": "Diabolique",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/LEVELUPEFFECT.POWERSETS",
+  "icon": "levelupeffect_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.LevelUpEffect.ShowEffects"
+  ],
+  "power_display_names": [
+    "Might of the Dead"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

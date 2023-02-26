@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Damage_Accuracy",
+  "display_name": "Hydra Damage Accuracy",
+  "display_fullname": "Boosts.Hydra Damage Accuracy",
+  "display_help": "Enhances the damage and accuracy of a power.",
+  "display_short_help": "Hydra (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/HYDRA_DAMAGE_ACCURACY.POWERSETS",
+  "icon": "hydra_damage_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Hydra_Damage_Accuracy.Hydra_Damage_Accuracy"
+  ],
+  "power_display_names": [
+    "Neutrino Exposure (Acc/Dam)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Accuracy"
+  ]
+}

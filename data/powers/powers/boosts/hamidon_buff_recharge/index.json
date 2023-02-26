@@ -1,0 +1,22 @@
+{
+  "name": "Hamidon_Buff_Recharge",
+  "display_name": "Hamidon Buff Recharge",
+  "display_fullname": "Boosts.Hamidon Buff Recharge",
+  "display_help": "Enhances the effectiveness of accuracy and defense buffs and increases the attack rate of a power.",
+  "display_short_help": "Hamidon (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/HAMIDON_BUFF_RECHARGE.POWERSETS",
+  "icon": "hamidon_buff_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Hamidon_Buff_Recharge.Hamidon_Buff_Recharge"
+  ],
+  "power_display_names": [
+    "Membrane Exposure (Rech/ToHit/Def)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense Buffs and Increases Attack Rate"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Wretch_EB",
+  "display_name": "Wretch EB",
+  "display_fullname": "V Arachnos.Wretch EB",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/WRETCH_EB.POWERSETS",
+  "icon": "wretch_eb_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Wretch_EB.Jab",
+    "V_Arachnos.Wretch_EB.Punch",
+    "V_Arachnos.Wretch_EB.Haymaker",
+    "V_Arachnos.Wretch_EB.Hurl",
+    "V_Arachnos.Wretch_EB.Hand_Clap",
+    "V_Arachnos.Wretch_EB.Super_Leap"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Haymaker",
+    "Hurl",
+    "Hand Clap",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "Disorient",
+    "Self Auto, +Jump, +Speed"
+  ]
+}

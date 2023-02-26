@@ -1,0 +1,34 @@
+{
+  "name": "Barracuda_AV",
+  "display_name": "Barracuda AV",
+  "display_fullname": "V Arachnos.Barracuda AV",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/BARRACUDA_AV.POWERSETS",
+  "icon": "barracuda_av_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Barracuda_AV.Water_Spout",
+    "V_Arachnos.Barracuda_AV.Psychic_Coral_Scream",
+    "V_Arachnos.Barracuda_AV.Psychic_Coral_Wail",
+    "V_Arachnos.Barracuda_AV.Resistance"
+  ],
+  "power_display_names": [
+    "Water Spout",
+    "Psychic Coral Scream",
+    "Psychic Coral Wail",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Cold), Foe Hold",
+    "-Recharge",
+    "-Recharge",
+    "Resistance"
+  ]
+}

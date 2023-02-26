@@ -1,0 +1,22 @@
+{
+  "name": "Engineer",
+  "display_name": "BWI PEACE Engineer",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Engineer",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/ENGINEER.POWERSETS",
+  "icon": "bwi_keeper_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Engineer.Deploy_Drone"
+  ],
+  "power_display_names": [
+    "Deploy Drone"
+  ],
+  "power_short_helps": [
+    "Summon: AoE Buff Resistance"
+  ]
+}

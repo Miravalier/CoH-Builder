@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Faultline_Ranged_Tentacle_Divide",
+  "display_name": "Hydra_Large_Ranged_Tentacle_Divide",
+  "display_fullname": "Hydra.Hydra Large Ranged Tentacle Divide",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_FAULTLINE_RANGED_TENTACLE_DIVIDE.POWERSETS",
+  "icon": "hydra_faultline_ranged_tentacle_divide_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Faultline_Ranged_Tentacle_Divide.Split"
+  ],
+  "power_display_names": [
+    "Split"
+  ],
+  "power_short_helps": [
+    "Tentacle Split"
+  ]
+}

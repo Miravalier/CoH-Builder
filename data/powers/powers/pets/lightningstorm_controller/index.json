@@ -1,0 +1,30 @@
+{
+  "name": "LightningStorm_Controller",
+  "display_name": "LightningStorm_Controller",
+  "display_fullname": "Pets.LightningStorm Controller",
+  "display_help": "Storm Summoning",
+  "display_short_help": "Storm Summoning",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/LIGHTNINGSTORM_CONTROLLER.POWERSETS",
+  "icon": "lightningstorm_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.LightningStorm_Controller.Lightning",
+    "Pets.LightningStorm_Controller.Immobilize",
+    "Pets.LightningStorm_Controller.Fly"
+  ],
+  "power_display_names": [
+    "Lightning",
+    "Immobilize",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Lightning",
+    "Immobilize",
+    "Self Hover"
+  ]
+}

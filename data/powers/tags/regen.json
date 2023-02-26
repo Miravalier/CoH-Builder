@@ -1,0 +1,14 @@
+{
+  "tag": "Regen",
+  "bears": [
+    [
+      "Boosts.Attuned Numinas Convalesence F.Regeneration/Recovery",
+      "boosts.attuned_numinas_convalesence_f.attuned_numinas_convalesence_f"
+    ],
+    [
+      "Boosts.Crafted Numinas Convalesence F.Regeneration/Recovery",
+      "boosts.crafted_numinas_convalesence_f.crafted_numinas_convalesence_f"
+    ]
+  ],
+  "affects": []
+}

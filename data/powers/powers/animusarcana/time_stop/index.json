@@ -1,0 +1,42 @@
+{
+  "name": "Time_Stop",
+  "display_name": "Time Stop",
+  "display_fullname": "AnimusArcana.Time Stop",
+  "display_help": "Animus Arcana",
+  "display_short_help": "Animus Arcana",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ANIMUSARCANA/TIME_STOP.POWERSETS",
+  "icon": "time_stop_set.png",
+  "requires": "",
+  "power_names": [
+    "AnimusArcana.Time_Stop.Lift",
+    "AnimusArcana.Time_Stop.Time_Crawl",
+    "AnimusArcana.Time_Stop.Distortion_Field",
+    "AnimusArcana.Time_Stop.Time_Stop",
+    "AnimusArcana.Time_Stop.Chrono_Shift",
+    "AnimusArcana.Time_Stop.Propel"
+  ],
+  "power_display_names": [
+    "Lift",
+    "Time Crawl",
+    "Distortion Field",
+    "Time Stop",
+    "Chrono Shift",
+    "Propel"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Smashing), Knockup(Foe), -Fly",
+    "Ranged, -Rech(Foe), -Speed(Foe, All), -Regen(Foe), Special",
+    "Targeted AoE, -Rech(Foe), -Speed(Foe, All), Chance for Hold(Foe)",
+    "Ranged, Hold(Foe), -Regen(Foe), +RES(Foe, Heal)",
+    "PBAoE, Heal(Team), +HoT(Team), +End(Team), +Rec(Team), +Rech(Team)",
+    "Ranged, Extreme DMG(Smashing), Knockback (Foe)"
+  ]
+}

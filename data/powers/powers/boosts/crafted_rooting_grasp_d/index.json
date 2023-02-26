@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Rooting_Grasp_D",
+  "display_name": "Crafted Rooting Grasp D",
+  "display_fullname": "Boosts.Crafted Rooting Grasp D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and immobilize duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Rooting Grasp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ROOTING_GRASP_D.POWERSETS",
+  "icon": "crafted_rooting_grasp_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Rooting_Grasp_D.Crafted_Rooting_Grasp_D"
+  ],
+  "power_display_names": [
+    "Rooting Grasp: Immobilize/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Immobilize"
+  ]
+}

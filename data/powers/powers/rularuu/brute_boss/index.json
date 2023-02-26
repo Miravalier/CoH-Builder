@@ -1,0 +1,34 @@
+{
+  "name": "Brute_Boss",
+  "display_name": "Brute_Boss",
+  "display_fullname": "Rularuu.Brute Boss",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/BRUTE_BOSS.POWERSETS",
+  "icon": "brute_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Brute_Boss.Crystal_of_Corruption_Cast",
+    "Rularuu.Brute_Boss.Degradation_Blast",
+    "Rularuu.Brute_Boss.Energy_Blast",
+    "Rularuu.Brute_Boss.Energy_Salvo"
+  ],
+  "power_display_names": [
+    "Crystal of Corruption Cast",
+    "Degradation Blast",
+    "Energy Blast",
+    "Energy Salvo"
+  ],
+  "power_short_helps": [
+    "-DEF, -RES, -DMG",
+    "-DEF, -RES, -DMG",
+    "Ranged Energy, Knockback",
+    "Targeted AoE Energy, Knockback"
+  ]
+}

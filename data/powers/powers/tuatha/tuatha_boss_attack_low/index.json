@@ -1,0 +1,26 @@
+{
+  "name": "Tuatha_Boss_Attack_Low",
+  "display_name": "Tuatha_Boss_Attack",
+  "display_fullname": "Tuatha.Tuatha Boss Attack",
+  "display_help": "The Tuatha",
+  "display_short_help": "The Tuatha",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TUATHA/TUATHA_BOSS_ATTACK_LOW.POWERSETS",
+  "icon": "tuatha_boss_attack_low_set.png",
+  "requires": "",
+  "power_names": [
+    "Tuatha.Tuatha_Boss_Attack_Low.Seismic_Smash",
+    "Tuatha.Tuatha_Boss_Attack_Low.Stump_Toss"
+  ],
+  "power_display_names": [
+    "Seismic Smash",
+    "Stump Toss"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Smash), Foe Hold",
+    "Ranged, Moderate DMG(Smash), Knockback, -Fly"
+  ]
+}

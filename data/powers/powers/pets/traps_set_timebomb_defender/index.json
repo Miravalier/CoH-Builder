@@ -1,0 +1,22 @@
+{
+  "name": "Traps_Set_TimeBomb_Defender",
+  "display_name": "Time Bomb",
+  "display_fullname": "Pets.Time Bomb",
+  "display_help": "Traps",
+  "display_short_help": "Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TRAPS_SET_TIMEBOMB_DEFENDER.POWERSETS",
+  "icon": "traps_set_timebomb_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Traps_Set_TimeBomb_Defender.Time_Bomb"
+  ],
+  "power_display_names": [
+    "Time Bomb"
+  ],
+  "power_short_helps": [
+    "Place Bomb: PBAoE, Extreme DMG(Lethal/Fire), Foe Knockback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Numinas_Convalesence_D",
+  "display_name": "Attuned Numina's Convalescence D",
+  "display_fullname": "Boosts.Attuned Numinas Convalesence D",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Numinas Convalescence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NUMINAS_CONVALESENCE_D.POWERSETS",
+  "icon": "attuned_numinas_convalesence_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Numinas_Convalesence_D.Attuned_Numinas_Convalesence_D"
+  ],
+  "power_display_names": [
+    "Numina's Convalescence: Healing/Absorb/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "+Heal, -End Cost, +Rech, +Absorb"
+  ]
+}

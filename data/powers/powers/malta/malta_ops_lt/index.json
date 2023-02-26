@@ -1,0 +1,22 @@
+{
+  "name": "Malta_Ops_Lt",
+  "display_name": "Malta_Ops_Lt",
+  "display_fullname": "Malta.Malta Ops Lt",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/MALTA_OPS_LT.POWERSETS",
+  "icon": "malta_ops_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Malta_Ops_Lt.Stun_Grenades"
+  ],
+  "power_display_names": [
+    "Stun Grenades"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

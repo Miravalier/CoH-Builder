@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Shield_Wall_E",
+  "display_name": "Attuned Shield Wall E",
+  "display_fullname": "Boosts.Attuned Shield Wall E",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Shield Wall",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SHIELD_WALL_E.POWERSETS",
+  "icon": "attuned_shield_wall_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Shield_Wall_E.Attuned_Shield_Wall_E"
+  ],
+  "power_display_names": [
+    "Shield Wall: Defense"
+  ],
+  "power_short_helps": [
+    "+DEF (all)"
+  ]
+}

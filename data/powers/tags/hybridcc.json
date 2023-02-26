@@ -1,0 +1,35 @@
+{
+  "tag": "HybridCC",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_fear"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_immobilize"
+    ],
+    [
+      "Incarnate.Hybrid.Control",
+      "incarnate.hybrid_silent.control_stun"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Hybrid.Control Partial Radial Graft",
+      "incarnate.hybrid.control_partial_radial_graft"
+    ],
+    [
+      "Incarnate.Hybrid.Control Radial Embodiment",
+      "incarnate.hybrid.control_radial_embodiment"
+    ],
+    [
+      "Incarnate.Hybrid.Control Radial Genome",
+      "incarnate.hybrid.control_radial_genome"
+    ],
+    [
+      "Incarnate.Hybrid.Control Total Radial Graft",
+      "incarnate.hybrid.control_total_radial_graft"
+    ]
+  ]
+}

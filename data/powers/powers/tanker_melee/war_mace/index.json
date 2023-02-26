@@ -1,0 +1,54 @@
+{
+  "name": "War_Mace",
+  "display_name": "War Mace",
+  "display_fullname": "Tanker Melee.War Mace",
+  "display_help": "You can wield a Medieval Mace and master a variety of powerful Smashing attacks. Attack speeds are good, and the weight of the Mace has good Disorienting capabilities. The sheer weight of this weapon gives it a bonus to hit.",
+  "display_short_help": "War Mace",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/TANKER_MELEE/WAR_MACE.POWERSETS",
+  "icon": "war_mace_set.png",
+  "requires": "",
+  "power_names": [
+    "Tanker_Melee.War_Mace.Bash",
+    "Tanker_Melee.War_Mace.Pulverize",
+    "Tanker_Melee.War_Mace.Jawbreaker",
+    "Tanker_Melee.War_Mace.Taunt",
+    "Tanker_Melee.War_Mace.Build_Up",
+    "Tanker_Melee.War_Mace.Whirling_Mace",
+    "Tanker_Melee.War_Mace.Clobber",
+    "Tanker_Melee.War_Mace.Shatter",
+    "Tanker_Melee.War_Mace.Crowd_Control"
+  ],
+  "power_display_names": [
+    "Bash",
+    "Pulverize",
+    "Jawbreaker",
+    "Taunt",
+    "Build Up",
+    "Whirling Mace",
+    "Clobber",
+    "Shatter",
+    "Crowd Control"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash), Minor Disorient,",
+    "Melee, Moderate DMG(Smash), Minor Disorient",
+    "Melee, High DMG(Smash), Knockup",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Self +DMG, +To Hit",
+    "PBAoE Melee, Light DMG(Smash), Minor Disorient",
+    "Melee, Superior DMG(Smash), Disorient",
+    "Melee, High DMG(Smash), High Knockback",
+    "Melee (Cone), Moderate DMG(Smash), Knockback"
+  ]
+}

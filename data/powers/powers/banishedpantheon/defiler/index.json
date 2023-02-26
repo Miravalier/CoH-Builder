@@ -1,0 +1,38 @@
+{
+  "name": "Defiler",
+  "display_name": "Defiler",
+  "display_fullname": "BanishedPantheon.Defiler",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/DEFILER.POWERSETS",
+  "icon": "defiler_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Defiler.Frigid_Slash",
+    "BanishedPantheon.Defiler.Frigid_Thorns",
+    "BanishedPantheon.Defiler.Frigid_Blast",
+    "BanishedPantheon.Defiler.Frigid_Storm",
+    "BanishedPantheon.Defiler.Frigid_Burst"
+  ],
+  "power_display_names": [
+    "Frigid Slash",
+    "Frigid Thorns",
+    "Frigid Blast",
+    "Frigid Storm",
+    "Frigid Burst"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG (Cold/Negative Energy), -RES(Foe, Cold/Negative Energy), Chance for +EndCost(Foe)",
+    "PBAoE, High DMG (Cold/Negative Energy), -Speed(Foe, All), -Rech(Foe), -Fly(Foe), Chance for +EndCost(Foe)",
+    "Ranged (Cone), Superior DMG(Cold/Negative Energy), -ToHit(Foe), -RES(Foe, Cold/Negative Energy), Chance for +EndCost(Foe)",
+    "Targeted AoE, Minor DoT(Cold/Negative Energy), -DMG(Foe, All)",
+    "Targeted AoE, Superior DMG(Cold/Negative Energy), -DEF(Foe, All), -Regen(Foe), -Rec(Foe), -End(Foe)"
+  ]
+}

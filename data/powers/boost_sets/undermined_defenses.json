@@ -1,0 +1,544 @@
+{
+  "name": "Undermined_Defenses",
+  "display_name": "Undermined Defenses",
+  "group_name": "Defense Debuff",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Defense Debuff"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Undermined_Defenses_A.Crafted_Undermined_Defenses_A",
+      "Boosts.Attuned_Undermined_Defenses_A.Attuned_Undermined_Defenses_A"
+    ],
+    [
+      "Boosts.Crafted_Undermined_Defenses_B.Crafted_Undermined_Defenses_B",
+      "Boosts.Attuned_Undermined_Defenses_B.Attuned_Undermined_Defenses_B"
+    ],
+    [
+      "Boosts.Crafted_Undermined_Defenses_C.Crafted_Undermined_Defenses_C",
+      "Boosts.Attuned_Undermined_Defenses_C.Attuned_Undermined_Defenses_C"
+    ],
+    [
+      "Boosts.Crafted_Undermined_Defenses_D.Crafted_Undermined_Defenses_D",
+      "Boosts.Attuned_Undermined_Defenses_D.Attuned_Undermined_Defenses_D"
+    ],
+    [
+      "Boosts.Crafted_Undermined_Defenses_E.Crafted_Undermined_Defenses_E",
+      "Boosts.Attuned_Undermined_Defenses_E.Attuned_Undermined_Defenses_E"
+    ],
+    [
+      "Boosts.Crafted_Undermined_Defenses_F.Crafted_Undermined_Defenses_F",
+      "Boosts.Attuned_Undermined_Defenses_F.Attuned_Undermined_Defenses_F"
+    ]
+  ],
+  "min_level": 21,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff",
+      "Enhance Defense DeBuff"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_3",
+          "Moderate Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_3",
+          "Moderate Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_3",
+          "Moderate Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png",
+      "e_icon_undermineddefenses.png"
+    ],
+    "boosts": [
+      [
+        "Undermined Defenses: BaseDefense Debuff",
+        "Attuned Undermined Defenses: BaseDefense Debuff"
+      ],
+      [
+        "Undermined Defenses: BaseDefense Debuff/Recharge",
+        "Attuned Undermined Defenses: BaseDefense Debuff/Recharge"
+      ],
+      [
+        "Undermined Defenses: BaseDefense Debuff/Endurance/Recharge",
+        "Attuned Undermined Defenses: BaseDefense Debuff/Endurance/Recharge"
+      ],
+      [
+        "Undermined Defenses: Endurance/Recharge",
+        "Attuned Undermined Defenses: Endurance/Recharge"
+      ],
+      [
+        "Undermined Defenses: BaseDefense Debuff/Endurance",
+        "Attuned Undermined Defenses: BaseDefense Debuff/Endurance"
+      ],
+      [
+        "Undermined Defenses: Recharge",
+        "Attuned Undermined Defenses: Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_undermined_defenses_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_undermined_defenses_a.attuned_undermined_defenses_a",
+          "Undermined Defenses: Defense Debuff"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Undermined Defenses: BaseDefense Debuff",
+        "aspects": [
+          "BaseDefense Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "attuned_undermined_defenses_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Undermined Defenses: BaseDefense Debuff",
+        "aspects": [
+          "BaseDefense Debuff"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "crafted_undermined_defenses_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_undermined_defenses_b.attuned_undermined_defenses_b",
+          "Undermined Defenses: Defense Debuff/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Undermined Defenses: BaseDefense Debuff/Recharge",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "attuned_undermined_defenses_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Undermined Defenses: BaseDefense Debuff/Recharge",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "crafted_undermined_defenses_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_undermined_defenses_c.attuned_undermined_defenses_c",
+          "Undermined Defenses: Defense Debuff/Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Undermined Defenses: BaseDefense Debuff/Endurance/Recharge",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "attuned_undermined_defenses_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Undermined Defenses: BaseDefense Debuff/Endurance/Recharge",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "crafted_undermined_defenses_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_undermined_defenses_d.attuned_undermined_defenses_d",
+          "Undermined Defenses: Recharge/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Undermined Defenses: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "attuned_undermined_defenses_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Undermined Defenses: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "crafted_undermined_defenses_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_undermined_defenses_e.attuned_undermined_defenses_e",
+          "Undermined Defenses: Defense Debuff/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Undermined Defenses: BaseDefense Debuff/Endurance",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "attuned_undermined_defenses_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Undermined Defenses: BaseDefense Debuff/Endurance",
+        "aspects": [
+          "BaseDefense Debuff",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "crafted_undermined_defenses_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_undermined_defenses_f.attuned_undermined_defenses_f",
+          "Undermined Defenses: Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Undermined Defenses: Recharge",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      },
+      "attuned_undermined_defenses_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Undermined Defenses: Recharge",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "undermined_defenses",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense DeBuff",
+        "icon": "e_icon_undermineddefenses.png"
+      }
+    }
+  }
+}

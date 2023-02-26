@@ -1,0 +1,30 @@
+{
+  "name": "Dominatrix_Minions",
+  "display_name": "Dominatrix_Minions",
+  "display_fullname": "Praetorians.Dominatrix Minions",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/DOMINATRIX_MINIONS.POWERSETS",
+  "icon": "dominatrix_minions_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Dominatrix_Minions.Resistance",
+    "Praetorians.Dominatrix_Minions.Crop",
+    "Praetorians.Dominatrix_Minions.Static_Bolt"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Crop",
+    "Static Bolt"
+  ],
+  "power_short_helps": [
+    "Self Auto, Resistance",
+    "DoT(Energy), Sleep",
+    "Ranged Energy, Med Dam"
+  ]
+}

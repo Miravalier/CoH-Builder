@@ -1,0 +1,552 @@
+{
+  "name": "Thunderstrike",
+  "display_name": "Thunderstrike",
+  "group_name": "Ranged Damage",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Ranged"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Thunderstrike_A.Crafted_Thunderstrike_A",
+      "Boosts.Attuned_Thunderstrike_A.Attuned_Thunderstrike_A"
+    ],
+    [
+      "Boosts.Crafted_Thunderstrike_B.Crafted_Thunderstrike_B",
+      "Boosts.Attuned_Thunderstrike_B.Attuned_Thunderstrike_B"
+    ],
+    [
+      "Boosts.Crafted_Thunderstrike_C.Crafted_Thunderstrike_C",
+      "Boosts.Attuned_Thunderstrike_C.Attuned_Thunderstrike_C"
+    ],
+    [
+      "Boosts.Crafted_Thunderstrike_D.Crafted_Thunderstrike_D",
+      "Boosts.Attuned_Thunderstrike_D.Attuned_Thunderstrike_D"
+    ],
+    [
+      "Boosts.Crafted_Thunderstrike_E.Crafted_Thunderstrike_E",
+      "Boosts.Attuned_Thunderstrike_E.Attuned_Thunderstrike_E"
+    ],
+    [
+      "Boosts.Crafted_Thunderstrike_F.Crafted_Thunderstrike_F",
+      "Boosts.Attuned_Thunderstrike_F.Attuned_Thunderstrike_F"
+    ]
+  ],
+  "min_level": 30,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_energy_neg_ranged_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_3",
+          "Moderate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_energy_neg_ranged_def_3",
+          "Moderate Increased Energy/Negative Energy/Ranged Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_move_3",
+          "Moderate Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_3",
+          "Moderate Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png",
+      "e_icon_thunderstrike.png"
+    ],
+    "boosts": [
+      [
+        "Thunderstrike: Accuracy/Damage",
+        "Attuned Thunderstrike: Accuracy/Damage"
+      ],
+      [
+        "Thunderstrike: Damage/Endurance",
+        "Attuned Thunderstrike: Damage/Endurance"
+      ],
+      [
+        "Thunderstrike: Damage/Recharge",
+        "Attuned Thunderstrike: Damage/Recharge"
+      ],
+      [
+        "Thunderstrike: Accuracy/Damage/Recharge",
+        "Attuned Thunderstrike: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Thunderstrike: Accuracy/Damage/Endurance",
+        "Attuned Thunderstrike: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Thunderstrike: Damage/Endurance/Recharge",
+        "Attuned Thunderstrike: Damage/Endurance/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_thunderstrike_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_thunderstrike_a.attuned_thunderstrike_a",
+          "Thunderstrike: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Thunderstrike: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "attuned_thunderstrike_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Thunderstrike: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "crafted_thunderstrike_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_thunderstrike_b.attuned_thunderstrike_b",
+          "Thunderstrike: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Thunderstrike: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "attuned_thunderstrike_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Thunderstrike: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "crafted_thunderstrike_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_thunderstrike_c.attuned_thunderstrike_c",
+          "Thunderstrike: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Thunderstrike: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "attuned_thunderstrike_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Thunderstrike: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "crafted_thunderstrike_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_thunderstrike_d.attuned_thunderstrike_d",
+          "Thunderstrike: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Thunderstrike: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "attuned_thunderstrike_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Thunderstrike: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "crafted_thunderstrike_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_thunderstrike_e.attuned_thunderstrike_e",
+          "Thunderstrike: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Thunderstrike: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "attuned_thunderstrike_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Thunderstrike: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "crafted_thunderstrike_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_thunderstrike_f.attuned_thunderstrike_f",
+          "Thunderstrike: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Thunderstrike: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      },
+      "attuned_thunderstrike_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 26,
+        "min_bonus_level": 23,
+        "computed_name": "Attuned Thunderstrike: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "thunderstrike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_thunderstrike.png"
+      }
+    }
+  }
+}

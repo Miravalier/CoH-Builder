@@ -1,0 +1,39 @@
+{
+  "name": "AnimusArcana",
+  "display_name": "AnimusArcana",
+  "source_file": "DEFS/POWERS/ANIMUSARCANA.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "animusarcana.animated_staff",
+    "animusarcana.ball_of_light",
+    "animusarcana.cloud_of_ice",
+    "animusarcana.counter_spell",
+    "animusarcana.crystal_ball",
+    "animusarcana.dispel_magic",
+    "animusarcana.fireball",
+    "animusarcana.forbidden_knowledge",
+    "animusarcana.gate",
+    "animusarcana.lightning_storm",
+    "animusarcana.resistances",
+    "animusarcana.time_stop",
+    "animusarcana.vorpal_sword"
+  ],
+  "powerset_display_names": [
+    "Animated Staff",
+    "Ball of Light",
+    "Cloud of Ice",
+    "Counter Spell",
+    "Crystal Ball",
+    "Dispel Magic",
+    "Fireball",
+    "Forbidden Knowledge",
+    "Gate",
+    "Lightning Storm",
+    "Resistances",
+    "Time Stop",
+    "Vorpal Sword"
+  ],
+  "powersets_with_requirements": []
+}

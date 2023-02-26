@@ -1,0 +1,46 @@
+{
+  "name": "Yanamari",
+  "display_name": "Yanamari",
+  "display_fullname": "Mission Pets.Yanamari",
+  "display_help": "Yanamari",
+  "display_short_help": "Yanamari",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/YANAMARI.POWERSETS",
+  "icon": "yanamari_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.Yanamari.Twilight_Grasp",
+    "Mission_Pets.Yanamari.Darkest_Night",
+    "Mission_Pets.Yanamari.Shadow_Fall",
+    "Mission_Pets.Yanamari.Fearsome_Stare",
+    "Mission_Pets.Yanamari.Lift",
+    "Mission_Pets.Yanamari.Gravity_Distortion",
+    "Mission_Pets.Yanamari.Propel"
+  ],
+  "power_display_names": [
+    "Twilight Grasp",
+    "Darkest Night",
+    "Shadow Fall",
+    "Fearsome Stare",
+    "Lift",
+    "Gravity Distortion",
+    "Propel"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -Acc -DMG, Team Heal",
+    "Toggle: Ranged (Targeted AoE), Foe -DMG -ACC",
+    "Toggle: PBAoE, Team Stealth, +DEF, +Res(Energy, Negative, Psionics, Fear)",
+    "Ranged (Cone), Foe Fear, -ACC",
+    "Ranged, Moderate DMG(Smash)",
+    "Ranged, Moderate DoT(Smash), Foe Hold, -Fly",
+    "Ranged, High DMG(Smash), Foe Knockback"
+  ]
+}

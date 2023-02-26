@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Stupefy_B",
+  "display_name": "Attuned Stupefy B",
+  "display_fullname": "Boosts.Attuned Stupefy B",
+  "display_help": "Enhances the Stun duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Stupefy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_STUPEFY_B.POWERSETS",
+  "icon": "attuned_stupefy_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Stupefy_B.Attuned_Stupefy_B"
+  ],
+  "power_display_names": [
+    "Stupefy: Endurance/Stun"
+  ],
+  "power_short_helps": [
+    "+End, +Stun"
+  ]
+}

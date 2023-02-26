@@ -1,0 +1,34 @@
+{
+  "name": "Endgame_Level_Shift",
+  "display_name": "Endgame Level Shift",
+  "display_fullname": "PraetorianIDF.Endgame Level Shift",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/ENDGAME_LEVEL_SHIFT.POWERSETS",
+  "icon": "endgame_level_shift_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Endgame_Level_Shift.Level_Shift_Application",
+    "PraetorianIDF.Endgame_Level_Shift.Level_Shift_01",
+    "PraetorianIDF.Endgame_Level_Shift.Level_Shift_02",
+    "PraetorianIDF.Endgame_Level_Shift.Level_Shift_03"
+  ],
+  "power_display_names": [
+    "Level Shift Application",
+    "Level Shift 01",
+    "Level Shift 02",
+    "Level Shift 03"
+  ],
+  "power_short_helps": [
+    "Level Shift",
+    "Level Shift +1",
+    "Level Shift +2",
+    "Level Shift +3"
+  ]
+}

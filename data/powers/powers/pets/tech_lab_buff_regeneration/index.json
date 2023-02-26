@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Lab_Buff_Regeneration",
+  "display_name": "Tech Lab",
+  "display_fullname": "Pets.Tech Lab",
+  "display_help": "Lab Equipment",
+  "display_short_help": "Lab Equipment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TECH_LAB_BUFF_REGENERATION.POWERSETS",
+  "icon": "tech_lab_buff_regeneration_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Tech_Lab_Buff_Regeneration.Invigorate"
+  ],
+  "power_display_names": [
+    "Invigorate"
+  ],
+  "power_short_helps": [
+    "+Regeneration"
+  ]
+}

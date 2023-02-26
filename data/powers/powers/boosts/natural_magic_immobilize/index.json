@@ -1,0 +1,22 @@
+{
+  "name": "Natural_Magic_Immobilize",
+  "display_name": "Natural Magic Immobilize",
+  "display_fullname": "Boosts.Natural Magic Immobilize",
+  "display_help": "Increases the duration of a immobilization power.",
+  "display_short_help": "Relic (Natural, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/NATURAL_MAGIC_IMMOBILIZE.POWERSETS",
+  "icon": "natural_magic_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Natural_Magic_Immobilize.Natural_Magic_Immobilize"
+  ],
+  "power_display_names": [
+    "Li Tieh Kuai's Lens (Immobilize)"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

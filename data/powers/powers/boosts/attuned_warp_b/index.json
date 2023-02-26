@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Warp_B",
+  "display_name": "Attuned Warp B",
+  "display_fullname": "Boosts.Attuned Warp B",
+  "display_help": "Increases range by {Boost.Attrib.Range.Scale}%. Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Warp",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_WARP_B.POWERSETS",
+  "icon": "e_icon_warp.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Warp_B.Attuned_Warp_B"
+  ],
+  "power_display_names": [
+    "Warp: Range/Endurance"
+  ],
+  "power_short_helps": [
+    "+Range, -End Cost"
+  ]
+}

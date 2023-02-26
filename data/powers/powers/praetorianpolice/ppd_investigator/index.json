@@ -1,0 +1,34 @@
+{
+  "name": "PPD_Investigator",
+  "display_name": "PPD Investigator",
+  "display_fullname": "PraetorianPolice.PPD Investigator",
+  "display_help": "PPD Investigator",
+  "display_short_help": "PPD Investigator",
+  "available_level": [
+    0,
+    0,
+    0,
+    10
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/PPD_INVESTIGATOR.POWERSETS",
+  "icon": "ppd_investigator_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.PPD_Investigator.Force_Brawl",
+    "PraetorianPolice.PPD_Investigator.Force_Bolts",
+    "PraetorianPolice.PPD_Investigator.Force_Blast",
+    "PraetorianPolice.PPD_Investigator.Impact_Bomb"
+  ],
+  "power_display_names": [
+    "Force Brawl",
+    "Force Bolts",
+    "Force Blast",
+    "Impact Bomb"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash/Energy), Foe Disorient",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Targeted AoE), Damage Moderate (Smash/Energy) Foe Knockdown, Disorient"
+  ]
+}

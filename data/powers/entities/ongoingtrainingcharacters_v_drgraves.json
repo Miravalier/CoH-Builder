@@ -1,0 +1,85 @@
+{
+  "name": "OnGoingTrainingCharacters_V_DrGraves",
+  "gender": "GENDER_MALE",
+  "group_name": "OnGoingTrainingCharacters_V",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Villain",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 4,
+    "max_level": 20,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Todd Graves has lived a life of irony that some might find impossible to bear. A prominent surgeon who had a talent for successful organ transplants, Dr. Graves would contract a flesh-eating virus that attacked his largest organ: his skin. Introducing an DNA-altered strain of the virus to another skin 'organ', he managed to successfully complete the first ever full body skin transplant upon his own person. Additionally, the two viruses wound up counteracting each other, creating another that benignly caused all cells within his body to stop deteriorating. Thus, Dr. Graves managed to discover immortality, albeit at a high cost. Although his cells no longer age and 'die', once damaged, they can no longer be healed, but new parts CAN be transplanted onto his body to 'repair' the cell damage. Shunned by the medical community as a modern-day Frankenstein and Monster, Dr. Graves has fled to the Rogue Isles to continue his research and draw from a supply of never-to-be-missed body parts.",
+    "group_description": "Hearts of Darkness",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "OnGoingTrainingCharacters.DrGraves_Powers.Dark_Blast",
+      "OnGoingTrainingCharacters.DrGraves_Powers.Zombie_Horde",
+      "OnGoingTrainingCharacters.DrGraves_Powers.Gloom",
+      "OnGoingTrainingCharacters.DrGraves_Powers.Grave_Knight",
+      "OnGoingTrainingCharacters.DrGraves_Powers.Nullify_Pain",
+      "OnGoingTrainingCharacters.DrGraves_Powers.Soothe"
+    ],
+    "power_display_names": [
+      "Dark Blast",
+      "Zombie Horde",
+      "Gloom",
+      "Grave Knight",
+      "Nullify Pain",
+      "Soothe"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "OnGoingTrainingCharacters",
+        "power_set": "DrGraves_Powers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 4,
+      "max_level": 20,
+      "experience": 0,
+      "display_names": [
+        "Dr. Graves"
+      ],
+      "costumes": [
+        "Model_DrGraves_NoRing"
+      ]
+    }
+  ]
+}

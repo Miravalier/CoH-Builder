@@ -1,0 +1,26 @@
+{
+  "name": "Skulls_MN_SubmachineGun",
+  "display_name": "Skulls_MN_SubmachineGun",
+  "display_fullname": "Skulls.Skulls MN SubmachineGun",
+  "display_help": "Skulls",
+  "display_short_help": "Skulls",
+  "available_level": [
+    0,
+    14
+  ],
+  "source_file": "DEFS/POWERS/SKULLS/SKULLS_MN_SUBMACHINEGUN.POWERSETS",
+  "icon": "skulls_mn_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Skulls.Skulls_MN_SubmachineGun.Submachine_Gun",
+    "Skulls.Skulls_MN_SubmachineGun.Focused_Burst"
+  ],
+  "power_display_names": [
+    "Submachine Gun",
+    "Focused Burst"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT (Lethal), -DEF (Foe, All)",
+    "Ranged, Moderate DoT (Lethal), Chance for Knockdown (Foe)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Fusion_Special",
+  "display_name": "Fusion Special",
+  "display_fullname": "Incarnate I20.Fusion Special",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/FUSION_SPECIAL.POWERSETS",
+  "icon": "fusion_special_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Fusion_Special.Pushback",
+    "Incarnate_I20.Fusion_Special.Pushback_Tell",
+    "Incarnate_I20.Fusion_Special.Ow"
+  ],
+  "power_display_names": [
+    "Pushback",
+    "Pushback",
+    "Ow"
+  ],
+  "power_short_helps": [
+    "Knockback",
+    "Knockback",
+    "Knockback"
+  ]
+}

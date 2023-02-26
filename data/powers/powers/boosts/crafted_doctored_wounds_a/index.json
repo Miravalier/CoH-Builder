@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Doctored_Wounds_A",
+  "display_name": "Crafted Doctored Wounds A",
+  "display_fullname": "Boosts.Crafted Doctored Wounds A",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Doctored Wounds",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DOCTORED_WOUNDS_A.POWERSETS",
+  "icon": "crafted_doctored_wounds_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Doctored_Wounds_A.Crafted_Doctored_Wounds_A"
+  ],
+  "power_display_names": [
+    "Doctored Wounds: Healing/Absorb/Endurance"
+  ],
+  "power_short_helps": [
+    "+Heal, -End Cost, +Absorb"
+  ]
+}

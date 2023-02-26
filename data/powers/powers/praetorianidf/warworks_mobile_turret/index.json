@@ -1,0 +1,22 @@
+{
+  "name": "Warworks_Mobile_Turret",
+  "display_name": "Warworks Mobile Turret",
+  "display_fullname": "PraetorianIDF.Warworks Mobile Turret",
+  "display_help": "Warworks",
+  "display_short_help": "Warworks",
+  "available_level": [
+    20
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/WARWORKS_MOBILE_TURRET.POWERSETS",
+  "icon": "warworks_mobile_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Warworks_Mobile_Turret.Plasma_Vent"
+  ],
+  "power_display_names": [
+    "Plasma Vent"
+  ],
+  "power_short_helps": [
+    "PBAoE, Moderate DoT(Energy), Foe -Regen"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Shield_Defense",
+  "display_name": "Shield Defense",
+  "display_fullname": "BlackKnights.Shield Defense",
+  "display_help": "Black Knights",
+  "display_short_help": "Black Knights",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKKNIGHTS/SHIELD_DEFENSE.POWERSETS",
+  "icon": "shield_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackKnights.Shield_Defense.Deflection",
+    "BlackKnights.Shield_Defense.Active_Defense",
+    "BlackKnights.Shield_Defense.Phalanx_Fighting",
+    "BlackKnights.Shield_Defense.Grant_Cover"
+  ],
+  "power_display_names": [
+    "Deflection",
+    "Active Defense",
+    "Phalanx Fighting",
+    "Grant Cover"
+  ],
+  "power_short_helps": [
+    "Auto (Self), +DEF(Melee), +RES(Lethal, Smashing)",
+    "Auto (Self), +RES (Disorient, Hold, Immobilize, Sleep, Fear, Confuse, Repel, Knockback, Defense Debuff)",
+    "Auto (Self), Special, +DEF(Melee, Ranged, AoE)",
+    "PBAoE, +DEF(Team, All but Psionic), +RES(Team, Defense Debuff, Recharge Debuff)"
+  ]
+}

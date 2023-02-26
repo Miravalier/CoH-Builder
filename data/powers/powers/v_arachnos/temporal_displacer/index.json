@@ -1,0 +1,22 @@
+{
+  "name": "Temporal_Displacer",
+  "display_name": "Temporal_Displacer",
+  "display_fullname": "V Arachnos.Temporal Displacer",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/TEMPORAL_DISPLACER.POWERSETS",
+  "icon": "temporal_displacer_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Temporal_Displacer.Temporal_Displacer"
+  ],
+  "power_display_names": [
+    "Temporal Displacer"
+  ],
+  "power_short_helps": [
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG), +DMG, +ACC"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Fusion",
+  "display_name": "Fusion",
+  "display_fullname": "Incarnate I20.Fusion",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    29,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/FUSION.POWERSETS",
+  "icon": "fusion_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Fusion.Power_Bolt",
+    "Incarnate_I20.Fusion.Power_Blast",
+    "Incarnate_I20.Fusion.Power_Beam",
+    "Incarnate_I20.Fusion.Explosive_Blast",
+    "Incarnate_I20.Fusion.Power_Burst"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Power Beam",
+    "Explosive Blast",
+    "Power Burst"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback"
+  ]
+}

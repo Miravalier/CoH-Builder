@@ -1,0 +1,22 @@
+{
+  "name": "Skulls_Lt_SubmachineGun",
+  "display_name": "Skulls_Lt_SubmachineGun",
+  "display_fullname": "Skulls.Skulls Lt SubmachineGun",
+  "display_help": "Skulls",
+  "display_short_help": "Skulls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKULLS/SKULLS_LT_SUBMACHINEGUN.POWERSETS",
+  "icon": "skulls_lt_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Skulls.Skulls_Lt_SubmachineGun.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Galaxy_Lt_Boss",
+  "display_name": "Galaxy_Lt_Boss",
+  "display_fullname": "Council.Galaxy Lt Boss",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/GALAXY_LT_BOSS.POWERSETS",
+  "icon": "galaxy_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Galaxy_Lt_Boss.Gravimetric_Snare",
+    "Council.Galaxy_Lt_Boss.Shadow_Blast",
+    "Council.Galaxy_Lt_Boss.Star_Punch"
+  ],
+  "power_display_names": [
+    "Gravimetric Snare",
+    "Shadow Blast",
+    "Star Punch"
+  ],
+  "power_short_helps": [
+    "Immobilize, -Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD"
+  ]
+}

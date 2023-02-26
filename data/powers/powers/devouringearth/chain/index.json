@@ -1,0 +1,30 @@
+{
+  "name": "Chain",
+  "display_name": "Chain",
+  "display_fullname": "DevouringEarth.Chain",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/CHAIN.POWERSETS",
+  "icon": "chain_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Chain.Charge",
+    "DevouringEarth.Chain.Charge2",
+    "DevouringEarth.Chain.Charge3"
+  ],
+  "power_display_names": [
+    "Contagion",
+    "Contagion",
+    "Contagion"
+  ],
+  "power_short_helps": [
+    "Fear, DoT, -Recharge, -SPD",
+    "Fear, DoT, -Recharge, -SPD",
+    "Fear, DoT, -Recharge, -SPD"
+  ]
+}

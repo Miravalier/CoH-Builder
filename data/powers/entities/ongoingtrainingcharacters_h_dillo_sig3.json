@@ -1,0 +1,136 @@
+{
+  "name": "OnGoingTrainingCharacters_H_Dillo_Sig3",
+  "gender": "GENDER_MALE",
+  "group_name": "OnGoingTrainingCharacters_H",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 45,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "One of the Maaxigada'arzildilo, aliens from a distant solar system , \"Dillo\" has traveled to Earth to warn the Humans of the impending threat of the Shivans. Dillo's homeworld was destroyed centuries by a devastating assault by the Shivans leaving him and his people as space-faring nomads. Upon finding radio waves  sent from Earth, Dillo's people have sent him as a scout to warn the Humans of dangers of Shivans or to return with sad news of another race of lifeforms annihilated by these unstoppable devastators. Having arrived just as the invasion began, Dillo chose to stay and help the Earthlings fight off the menace instead of potentially luring them back to his own people.",
+    "group_description": "Shining Stars",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Mission_Maker_Attacks.Super_Strength.Punch",
+      "Mission_Maker_Attacks.Super_Strength.Hurl",
+      "Mission_Maker_Attacks.Super_Strength.Haymaker",
+      "Mission_Maker_Attacks.Super_Strength.Knockout_Blow",
+      "Mission_Maker_Secondary.Invulnerability.Unyielding",
+      "Mission_Maker_Secondary.Invulnerability.Invincibility",
+      "Mission_Maker_Secondary.Invulnerability.Dull_Pain",
+      "OnGoingTrainingCharacters.Dillo_OneShot_Powers.Dramatic_Nova",
+      "OnGoingTrainingCharacters.Dillo_OneShot_Powers.Dramatic_Fire_Ball"
+    ],
+    "power_display_names": [
+      "Punch",
+      "Hurl",
+      "Haymaker",
+      "Knockout Blow",
+      "Unyielding",
+      "Invincibility",
+      "Dull Pain",
+      "Nova",
+      "Fire Ball"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Mission_Maker_Attacks",
+        "power_set": "Super_Strength",
+        "power": "Punch",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Attacks",
+        "power_set": "Super_Strength",
+        "power": "Hurl",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Attacks",
+        "power_set": "Super_Strength",
+        "power": "Haymaker",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Attacks",
+        "power_set": "Super_Strength",
+        "power": "Knockout_Blow",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Invulnerability",
+        "power": "Unyielding",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Invulnerability",
+        "power": "Invincibility",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Invulnerability",
+        "power": "Dull_Pain",
+        "level": 0
+      },
+      {
+        "power_category": "OnGoingTrainingCharacters",
+        "power_set": "Dillo_OneShot_Powers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 45,
+      "experience": 0,
+      "display_names": [
+        "Dillo"
+      ],
+      "costumes": [
+        "Model_Dillo_NoRing"
+      ]
+    }
+  ]
+}

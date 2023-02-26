@@ -1,0 +1,375 @@
+{
+  "name": "Dominating_Grasp",
+  "display_name": "Dominating Grasp",
+  "group_name": "Dominator Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Dominator"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Dominating_Grasp_A.Attuned_Dominating_Grasp_A"
+    ],
+    [
+      "Boosts.Attuned_Dominating_Grasp_B.Attuned_Dominating_Grasp_B"
+    ],
+    [
+      "Boosts.Attuned_Dominating_Grasp_C.Attuned_Dominating_Grasp_C"
+    ],
+    [
+      "Boosts.Attuned_Dominating_Grasp_D.Attuned_Dominating_Grasp_D"
+    ],
+    [
+      "Boosts.Attuned_Dominating_Grasp_E.Attuned_Dominating_Grasp_E"
+    ],
+    [
+      "Boosts.Attuned_Dominating_Grasp_F.Attuned_Dominating_Grasp_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.immob_dur_5",
+        "set_bonus.set_bonus.sleep_dur_5",
+        "set_bonus.set_bonus.fear_dur_5",
+        "set_bonus.set_bonus.confuse_dur_5",
+        "set_bonus.set_bonus.hold_dur_5",
+        "set_bonus.set_bonus.stun_dur_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_energy_neg_ranged_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.immob_dur_5",
+          "Huge Immobilize Duration Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.sleep_dur_5",
+          "Huge Sleep Duration Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.fear_dur_5",
+          "Huge Fear Duration Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.confuse_dur_5",
+          "Huge Confuse Duration Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.hold_dur_5",
+          "Huge Hold Duration Bonus"
+        ],
+        [
+          "set_bonus.set_bonus.stun_dur_5",
+          "Huge Stun Duration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_6",
+          "Gargantuan Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_5",
+          "Huge Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_energy_neg_ranged_def_5",
+          "Huge Increased Energy/Negative Energy/Ranged Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_dominating_grasp_ato.png",
+      "e_icon_dominating_grasp_ato.png",
+      "e_icon_dominating_grasp_ato.png",
+      "e_icon_dominating_grasp_ato.png",
+      "e_icon_dominating_grasp_ato.png",
+      "e_icon_dominating_grasp_ato.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Dominating Grasp: Accuracy/Mez"
+      ],
+      [
+        "Attuned Dominating Grasp: Mez/Recharge"
+      ],
+      [
+        "Attuned Dominating Grasp: Endurance/Recharge"
+      ],
+      [
+        "Attuned Dominating Grasp: Accuracy/Endurance/Mez"
+      ],
+      [
+        "Attuned Dominating Grasp: Accuracy/Endurance/Mez/Recharge"
+      ],
+      [
+        "Attuned Dominating Grasp: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_dominating_grasp_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominating_grasp_a.superior_attuned_superior_dominating_grasp_a",
+          "Superior Dominating Grasp: Accuracy/Control Duration (Dominator)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominating Grasp: Accuracy/Mez",
+        "aspects": [
+          "Accuracy",
+          "Mez"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominating_grasp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_dominating_grasp_ato.png"
+      },
+      "attuned_dominating_grasp_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominating_grasp_b.superior_attuned_superior_dominating_grasp_b",
+          "Superior Dominating Grasp: Control Duration/Recharge (Dominator)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominating Grasp: Mez/Recharge",
+        "aspects": [
+          "Mez",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominating_grasp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_dominating_grasp_ato.png"
+      },
+      "attuned_dominating_grasp_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominating_grasp_c.superior_attuned_superior_dominating_grasp_c",
+          "Superior Dominating Grasp: Endurance/Recharge (Dominator)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominating Grasp: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominating_grasp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_dominating_grasp_ato.png"
+      },
+      "attuned_dominating_grasp_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominating_grasp_d.superior_attuned_superior_dominating_grasp_d",
+          "Superior Dominating Grasp: Accuracy/Control Duration/Endurance (Dominator)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominating Grasp: Accuracy/Endurance/Mez",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Mez"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominating_grasp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_dominating_grasp_ato.png"
+      },
+      "attuned_dominating_grasp_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominating_grasp_e.superior_attuned_superior_dominating_grasp_e",
+          "Superior Dominating Grasp: Accuracy/Control Duration/Endurance/Recharge (Dominator)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominating Grasp: Accuracy/Endurance/Mez/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Mez",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominating_grasp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_dominating_grasp_ato.png"
+      },
+      "attuned_dominating_grasp_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominating_grasp_f.superior_attuned_superior_dominating_grasp_f",
+          "Superior Dominating Grasp: Recharge/Chance for Fiery Orb (Dominator)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominating Grasp: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominating_grasp",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_dominating_grasp_ato.png"
+      }
+    }
+  }
+}

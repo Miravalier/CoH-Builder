@@ -1,0 +1,30 @@
+{
+  "name": "Alpha_Wolf_3",
+  "display_name": "Alpha Wolf",
+  "display_fullname": "Mastermind Pets.Alpha Wolf",
+  "display_help": "Beasts",
+  "display_short_help": "Beasts",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/ALPHA_WOLF_3.POWERSETS",
+  "icon": "alpha_wolf_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Alpha_Wolf_3.Howl",
+    "Mastermind_Pets.Alpha_Wolf_3.Lick_Wounds",
+    "Mastermind_Pets.Alpha_Wolf_3.Tame_Beasts"
+  ],
+  "power_display_names": [
+    "Howl",
+    "Lick Wounds",
+    "Tame Beasts"
+  ],
+  "power_short_helps": [
+    "PBAoE, Beast Ally +DMG, +To-Hit",
+    "Self, +HP, +Regen",
+    "Tame Beasts"
+  ]
+}

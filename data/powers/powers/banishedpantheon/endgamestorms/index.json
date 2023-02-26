@@ -1,0 +1,46 @@
+{
+  "name": "EndgameStorms",
+  "display_name": "EndgameStorms",
+  "display_fullname": "BanishedPantheon.EndgameStorms",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/ENDGAMESTORMS.POWERSETS",
+  "icon": "endgamestorms_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.EndgameStorms.Lightning_Bolt",
+    "BanishedPantheon.EndgameStorms.Ball_Lightning",
+    "BanishedPantheon.EndgameStorms.Gust_of_Wind",
+    "BanishedPantheon.EndgameStorms.Summon_Storm",
+    "BanishedPantheon.EndgameStorms.Gale",
+    "BanishedPantheon.EndgameStorms.Hurricane",
+    "BanishedPantheon.EndgameStorms.Thunderclap"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Ball Lightning",
+    "Gust of Wind",
+    "Lightning Storm",
+    "Gale",
+    "Hurricane",
+    "Thunderclap"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy), -End (Foe), -Rec (Foe)",
+    "Ranged (Targeted AoE), Moderate DoT(Energy), -End (Foe), -Rec (Foe)",
+    "Heal(Self and Allies), +Res(Sleep, Stun, Recovery, EndDrain)",
+    "Summon",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "PBAoE (Toggle), -Range(Non-Melee Foes), -ToHit(Foe), Chance for Knockback(Foe)",
+    "PBAoE, Stun(Foe)"
+  ]
+}

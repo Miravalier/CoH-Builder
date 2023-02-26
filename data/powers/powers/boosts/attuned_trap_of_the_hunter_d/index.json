@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Trap_of_the_Hunter_D",
+  "display_name": "Attuned Trap of the Hunter D",
+  "display_fullname": "Boosts.Attuned Trap of the Hunter D",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and immobilize duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Trap of the Hunter",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TRAP_OF_THE_HUNTER_D.POWERSETS",
+  "icon": "attuned_trap_of_the_hunter_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Trap_of_the_Hunter_D.Attuned_Trap_of_the_Hunter_D"
+  ],
+  "power_display_names": [
+    "Trap of the Hunter: Immobilize/Accuracy"
+  ],
+  "power_short_helps": [
+    "+ACC, +Immobilize"
+  ]
+}

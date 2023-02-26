@@ -1,0 +1,42 @@
+{
+  "name": "Circle_Ruin_Ranged",
+  "display_name": "Circle_Ruin_Ranged",
+  "display_fullname": "CircleOfThorns.Circle Ruin Ranged",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_RUIN_RANGED.POWERSETS",
+  "icon": "circle_ruin_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Ruin_Ranged.Tremor",
+    "CircleOfThorns.Circle_Ruin_Ranged.Stone_Prison",
+    "CircleOfThorns.Circle_Ruin_Ranged.Earthquake",
+    "CircleOfThorns.Circle_Ruin_Ranged.Fossilize",
+    "CircleOfThorns.Circle_Ruin_Ranged.Dispersion_Bubble",
+    "CircleOfThorns.Circle_Ruin_Ranged.Fault"
+  ],
+  "power_display_names": [
+    "Tremor",
+    "Stone Prison",
+    "Earthquake",
+    "Fossilize",
+    "Dispersion Bubble",
+    "Fault"
+  ],
+  "power_short_helps": [
+    "AoE Smash, Knockback",
+    "Immobilize, DoT(Smashing), -Fly",
+    "Location AoE KB",
+    "Hold, -DEF",
+    "Team AoE Toggle +Res(Special)",
+    "Disorient"
+  ]
+}

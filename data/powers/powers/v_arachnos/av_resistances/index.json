@@ -1,0 +1,22 @@
+{
+  "name": "AV_Resistances",
+  "display_name": "AV Resistances",
+  "display_fullname": "V Arachnos.AV Resistances",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/AV_RESISTANCES.POWERSETS",
+  "icon": "av_resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.AV_Resistances.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

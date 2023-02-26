@@ -1,0 +1,22 @@
+{
+  "name": "Snake_Egg_High_8",
+  "display_name": "Snake Egg",
+  "display_fullname": "Objects.Snake Egg",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/SNAKE_EGG_HIGH_8.POWERSETS",
+  "icon": "snake_egg_high_8_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Snake_Egg_High_8.Egg_Hatch"
+  ],
+  "power_display_names": [
+    "Egg Hatch"
+  ],
+  "power_short_helps": [
+    "Summon Snake"
+  ]
+}

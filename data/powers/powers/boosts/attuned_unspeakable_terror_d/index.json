@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Unspeakable_Terror_D",
+  "display_name": "Attuned Unspeakable Terror D",
+  "display_fullname": "Boosts.Attuned Unspeakable Terror D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and fear duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Unspeakable Terror",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNSPEAKABLE_TERROR_D.POWERSETS",
+  "icon": "attuned_unspeakable_terror_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Unspeakable_Terror_D.Attuned_Unspeakable_Terror_D"
+  ],
+  "power_display_names": [
+    "Unspeakable Terror: Fear/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Fear"
+  ]
+}

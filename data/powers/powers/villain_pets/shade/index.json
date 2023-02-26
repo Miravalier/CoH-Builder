@@ -1,0 +1,34 @@
+{
+  "name": "Shade",
+  "display_name": "Shade",
+  "display_fullname": "Villain Pets.Shade",
+  "display_help": "Darkness Control",
+  "display_short_help": "Darkness Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/SHADE.POWERSETS",
+  "icon": "shade_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Shade.Shadow_Punch",
+    "Villain_Pets.Shade.Resistance",
+    "Villain_Pets.Shade.Scare",
+    "Villain_Pets.Shade.Self_Destruct"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Resistance",
+    "Scare",
+    "Self Destruct"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash/Negative), Foe -To Hit",
+    "Resistance",
+    "Ranged, Foe Fear",
+    "Self Destruct"
+  ]
+}

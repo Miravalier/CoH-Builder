@@ -1,0 +1,38 @@
+{
+  "name": "Sentinel_Mu_Mastery",
+  "display_name": "Mu Mastery",
+  "display_fullname": "Epic.Mu Mastery",
+  "display_help": "Scirocco has taught you the ancient powers of the Mu. In their eternal struggle against the Oranbega, the Mu have unlocked many mystical powers, including their very signature crimson lightning. Now you possess their secrets.",
+  "display_short_help": "Mu Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/SENTINEL_MU_MASTERY.POWERSETS",
+  "icon": "sentinel_mu_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Sentinel_Mu_Mastery.Electrifying_Fences",
+    "Epic.Sentinel_Mu_Mastery.Thunder_Strike",
+    "Epic.Sentinel_Mu_Mastery.Electric_Shackles",
+    "Epic.Sentinel_Mu_Mastery.Static_Discharge",
+    "Epic.Sentinel_Mu_Mastery.Summon_Adept"
+  ],
+  "power_display_names": [
+    "Electrifying Fences",
+    "Thunder Strike",
+    "Electric Shackles",
+    "Static Discharge",
+    "Summon Adept"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Minor DoT(Energy), Foe Immobilize, -END",
+    "Melee (AoE), High DMG(Smash, Energy), Foe Disorient, Knockback, -End",
+    "Ranged, Light DMG(Energy), Foe Hold, -End",
+    "Ranged (Cone), Light DMG(Energy), -END",
+    "Summon Mu Adept: Ranged Moderate DMG(Energy)"
+  ]
+}

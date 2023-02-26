@@ -1,0 +1,22 @@
+{
+  "name": "Warworks_Defense_Turret",
+  "display_name": "Warworks Defense Turret",
+  "display_fullname": "PraetorianIDF.Warworks Defense Turret",
+  "display_help": "Warworks",
+  "display_short_help": "Warworks",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/WARWORKS_DEFENSE_TURRET.POWERSETS",
+  "icon": "warworks_defense_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Warworks_Defense_Turret.Perception"
+  ],
+  "power_display_names": [
+    "Perception"
+  ],
+  "power_short_helps": [
+    "+Perception"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bast_Statue",
+  "display_name": "Bast Statue",
+  "display_fullname": "Objects.Bast Statue",
+  "display_help": "Bast Statue",
+  "display_short_help": "Bast Statue",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BAST_STATUE.POWERSETS",
+  "icon": "bast_statue_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Bast_Statue.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

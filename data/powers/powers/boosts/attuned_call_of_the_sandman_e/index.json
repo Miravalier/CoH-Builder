@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Call_of_the_Sandman_E",
+  "display_name": "Attuned Call of the Sandman E",
+  "display_fullname": "Boosts.Attuned Call of the Sandman E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, sleep duration by {Boost.Attrib.Mez.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Call of the Sandman",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CALL_OF_THE_SANDMAN_E.POWERSETS",
+  "icon": "attuned_call_of_the_sandman_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Call_of_the_Sandman_E.Attuned_Call_of_the_Sandman_E"
+  ],
+  "power_display_names": [
+    "Call of the Sandman: Accuracy/Sleep/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Sleep"
+  ]
+}

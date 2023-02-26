@@ -1,0 +1,34 @@
+{
+  "name": "Herald",
+  "display_name": "Herald",
+  "display_fullname": "Tsoo.Herald",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/HERALD.POWERSETS",
+  "icon": "herald_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Herald.Mesmerize",
+    "Tsoo.Herald.Dominate",
+    "Tsoo.Herald.Kama",
+    "Tsoo.Herald.Sai"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Dominate",
+    "Kama",
+    "Sai"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Hold",
+    "-ACC",
+    "Melee Lethal, Self +Def"
+  ]
+}

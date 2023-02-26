@@ -1,0 +1,38 @@
+{
+  "name": "Jonin",
+  "display_name": "Ninja Jounin",
+  "display_fullname": "Mastermind Pets.Ninja Jounin",
+  "display_help": "Ninjas",
+  "display_short_help": "Ninjas",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/JONIN.POWERSETS",
+  "icon": "jonin_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Jonin.Hack",
+    "Mastermind_Pets.Jonin.Slash",
+    "Mastermind_Pets.Jonin.Caltrops",
+    "Mastermind_Pets.Jonin.Super_Leap",
+    "Mastermind_Pets.Jonin.Resistance"
+  ],
+  "power_display_names": [
+    "Sting of the Wasp",
+    "Gambler's Cut",
+    "Caltrops",
+    "Super Leap",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "-DEF",
+    "DoT (Lethal), -SPD",
+    "Self Leap",
+    "Auto +DEF(Melee, Ranged, AoE), Res(Confuse, Taunt), +SPD,"
+  ]
+}

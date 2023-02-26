@@ -1,0 +1,34 @@
+{
+  "name": "White_Magic",
+  "display_name": "White Magic",
+  "display_fullname": "Cabal.White Magic",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/WHITE_MAGIC.POWERSETS",
+  "icon": "white_magic_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.White_Magic.Healing_Aura",
+    "Cabal.White_Magic.Heal_Other",
+    "Cabal.White_Magic.Clear_Mind",
+    "Cabal.White_Magic.Adrenalin_Boost"
+  ],
+  "power_display_names": [
+    "Healing Aura",
+    "Heal Other",
+    "Clear Mind",
+    "Adrenalin Boost"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +Heal",
+    "Ally Heal",
+    "Ally +Res(Disorient, Hold, Sleep, Immobilize, Fear, Confuse), +Perception",
+    "Ranged, Ally +End, +Regeneration, +Recharge, Res (Slow)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BAFConsole2",
+  "display_name": "BAFConsole2",
+  "display_fullname": "Turrets.BAFConsole2",
+  "display_help": "Turret",
+  "display_short_help": "Turret",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TURRETS/BAFCONSOLE2.POWERSETS",
+  "icon": "bafconsole2_set.png",
+  "requires": "",
+  "power_names": [
+    "Turrets.BAFConsole2.Shutdown2"
+  ],
+  "power_display_names": [
+    "Shutdown2"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

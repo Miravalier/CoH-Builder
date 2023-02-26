@@ -1,0 +1,26 @@
+{
+  "name": "Fifth_Column_Vandal_Melee",
+  "display_name": "Fifth_Column_Vandal_Melee",
+  "display_fullname": "5thColumn.Fifth Column Vandal Melee",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_VANDAL_MELEE.POWERSETS",
+  "icon": "fifth_column_vandal_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Vandal_Melee.Energy_Punch",
+    "5thColumn.Fifth_Column_Vandal_Melee.Bone_Smasher"
+  ],
+  "power_display_names": [
+    "Energy Punch",
+    "Bone Smasher"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient"
+  ]
+}

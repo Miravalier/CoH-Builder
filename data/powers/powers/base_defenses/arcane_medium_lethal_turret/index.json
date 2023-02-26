@@ -1,0 +1,22 @@
+{
+  "name": "Arcane_Medium_Lethal_Turret",
+  "display_name": "Arcane_Medium_Lethal_Turret",
+  "display_fullname": "Base Defenses.Arcane Medium Lethal Turret",
+  "display_help": "Base Defenses",
+  "display_short_help": "Base Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_DEFENSES/ARCANE_MEDIUM_LETHAL_TURRET.POWERSETS",
+  "icon": "arcane_medium_lethal_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Defenses.Arcane_Medium_Lethal_Turret.Chain_Gun"
+  ],
+  "power_display_names": [
+    "Stonethrower"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal"
+  ]
+}

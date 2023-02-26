@@ -1,0 +1,539 @@
+{
+  "name": "Soulbound_Allegiance",
+  "display_name": "Soulbound Allegiance",
+  "group_name": "Pet Damage",
+  "conversion_groups": [
+    "Rarity: Very Rare"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Soulbound_Allegiance_A.Crafted_Soulbound_Allegiance_A",
+      "Boosts.Superior_Attuned_Soulbound_Allegiance_A.Superior_Attuned_Soulbound_Allegiance_A"
+    ],
+    [
+      "Boosts.Crafted_Soulbound_Allegiance_B.Crafted_Soulbound_Allegiance_B",
+      "Boosts.Superior_Attuned_Soulbound_Allegiance_B.Superior_Attuned_Soulbound_Allegiance_B"
+    ],
+    [
+      "Boosts.Crafted_Soulbound_Allegiance_C.Crafted_Soulbound_Allegiance_C",
+      "Boosts.Superior_Attuned_Soulbound_Allegiance_C.Superior_Attuned_Soulbound_Allegiance_C"
+    ],
+    [
+      "Boosts.Crafted_Soulbound_Allegiance_D.Crafted_Soulbound_Allegiance_D",
+      "Boosts.Superior_Attuned_Soulbound_Allegiance_D.Superior_Attuned_Soulbound_Allegiance_D"
+    ],
+    [
+      "Boosts.Crafted_Soulbound_Allegiance_E.Crafted_Soulbound_Allegiance_E",
+      "Boosts.Superior_Attuned_Soulbound_Allegiance_E.Superior_Attuned_Soulbound_Allegiance_E"
+    ],
+    [
+      "Boosts.Crafted_Soulbound_Allegiance_F.Crafted_Soulbound_Allegiance_F",
+      "Boosts.Superior_Attuned_Soulbound_Allegiance_F.Superior_Attuned_Soulbound_Allegiance_F"
+    ]
+  ],
+  "min_level": 50,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_psionic_def_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_7",
+          "Ultimate Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_7",
+          "Ultimate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_7",
+          "Ultimate Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_7",
+          "Ultimate Toxic, Psionic and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_psionic_def_7",
+          "Ultimate Increased Psionic Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png",
+      "e_icon_soulboundallegiance.png"
+    ],
+    "boosts": [
+      [
+        "Superior Soulbound Allegiance: Damage",
+        "Attuned Superior Soulbound Allegiance: Damage"
+      ],
+      [
+        "Superior Soulbound Allegiance: Damage/Recharge",
+        "Attuned Superior Soulbound Allegiance: Damage/Recharge"
+      ],
+      [
+        "Superior Soulbound Allegiance: Accuracy/Damage/Recharge",
+        "Attuned Superior Soulbound Allegiance: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Superior Soulbound Allegiance: Accuracy/Recharge",
+        "Attuned Superior Soulbound Allegiance: Accuracy/Recharge"
+      ],
+      [
+        "Superior Soulbound Allegiance: Damage/Endurance",
+        "Attuned Superior Soulbound Allegiance: Damage/Endurance"
+      ],
+      [
+        "Soulbound Allegiance: Chance for Build Up",
+        "Attuned Soulbound Allegiance: Chance for Build Up"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_soulbound_allegiance_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_soulbound_allegiance_a.superior_attuned_soulbound_allegiance_a",
+          "Soulbound Allegiance: Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Soulbound Allegiance: Damage",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "superior_attuned_soulbound_allegiance_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Soulbound Allegiance: Damage",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "crafted_soulbound_allegiance_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_soulbound_allegiance_b.superior_attuned_soulbound_allegiance_b",
+          "Soulbound Allegiance: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Soulbound Allegiance: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "superior_attuned_soulbound_allegiance_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Soulbound Allegiance: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "crafted_soulbound_allegiance_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_soulbound_allegiance_c.superior_attuned_soulbound_allegiance_c",
+          "Soulbound Allegiance: Damage/Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Soulbound Allegiance: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "superior_attuned_soulbound_allegiance_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Soulbound Allegiance: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "crafted_soulbound_allegiance_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_soulbound_allegiance_d.superior_attuned_soulbound_allegiance_d",
+          "Soulbound Allegiance: Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Soulbound Allegiance: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "superior_attuned_soulbound_allegiance_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Soulbound Allegiance: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "crafted_soulbound_allegiance_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_soulbound_allegiance_e.superior_attuned_soulbound_allegiance_e",
+          "Soulbound Allegiance: Damage/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Soulbound Allegiance: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "superior_attuned_soulbound_allegiance_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Soulbound Allegiance: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "crafted_soulbound_allegiance_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_soulbound_allegiance_f.superior_attuned_soulbound_allegiance_f",
+          "Soulbound Allegiance: Chance for Build Up"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Soulbound Allegiance: Chance for Build Up",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      },
+      "superior_attuned_soulbound_allegiance_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Soulbound Allegiance: Chance for Build Up",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "soulbound_allegiance",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_soulboundallegiance.png"
+      }
+    }
+  }
+}

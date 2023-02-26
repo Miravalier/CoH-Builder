@@ -1,0 +1,22 @@
+{
+  "name": "Experimentation_Corrosive_Vial",
+  "display_name": "Experimentation",
+  "display_fullname": "Pets.Experimentation",
+  "display_help": "Experimentation",
+  "display_short_help": "Experimentation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/EXPERIMENTATION_CORROSIVE_VIAL.POWERSETS",
+  "icon": "experimentation_corrosive_vial_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Experimentation_Corrosive_Vial.Corrosive_Vial_Splat"
+  ],
+  "power_display_names": [
+    "Corrosive Vial"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), High DoT(Toxic), -Defense"
+  ]
+}

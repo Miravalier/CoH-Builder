@@ -1,0 +1,540 @@
+{
+  "name": "Perfect_Zinger",
+  "display_name": "Perfect Zinger",
+  "group_name": "Threat Duration",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Threat"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Perfect_Zinger_A.Crafted_Perfect_Zinger_A",
+      "Boosts.Attuned_Perfect_Zinger_A.Attuned_Perfect_Zinger_A"
+    ],
+    [
+      "Boosts.Crafted_Perfect_Zinger_B.Crafted_Perfect_Zinger_B",
+      "Boosts.Attuned_Perfect_Zinger_B.Attuned_Perfect_Zinger_B"
+    ],
+    [
+      "Boosts.Crafted_Perfect_Zinger_C.Crafted_Perfect_Zinger_C",
+      "Boosts.Attuned_Perfect_Zinger_C.Attuned_Perfect_Zinger_C"
+    ],
+    [
+      "Boosts.Crafted_Perfect_Zinger_D.Crafted_Perfect_Zinger_D",
+      "Boosts.Attuned_Perfect_Zinger_D.Attuned_Perfect_Zinger_D"
+    ],
+    [
+      "Boosts.Crafted_Perfect_Zinger_E.Crafted_Perfect_Zinger_E",
+      "Boosts.Attuned_Perfect_Zinger_E.Attuned_Perfect_Zinger_E"
+    ],
+    [
+      "Boosts.Crafted_Perfect_Zinger_F.Crafted_Perfect_Zinger_F",
+      "Boosts.Attuned_Perfect_Zinger_F.Attuned_Perfect_Zinger_F"
+    ]
+  ],
+  "min_level": 21,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_lethal_smash_melee_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration",
+      "Enhance Threat Duration"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_2",
+          "Small Toxic, Psionic and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_4",
+          "Large Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_3",
+          "Moderate Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_lethal_smash_melee_def_4",
+          "Large Increased Lethal/Smashing/Melee Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png",
+      "e_icon_perfectzinger.png"
+    ],
+    "boosts": [
+      [
+        "Perfect Zinger: Threat",
+        "Attuned Perfect Zinger: Threat"
+      ],
+      [
+        "Perfect Zinger: Recharge/Threat",
+        "Attuned Perfect Zinger: Recharge/Threat"
+      ],
+      [
+        "Perfect Zinger: Range/Recharge/Threat",
+        "Attuned Perfect Zinger: Range/Recharge/Threat"
+      ],
+      [
+        "Perfect Zinger: Accuracy/Recharge",
+        "Attuned Perfect Zinger: Accuracy/Recharge"
+      ],
+      [
+        "Perfect Zinger: Range/Threat",
+        "Attuned Perfect Zinger: Range/Threat"
+      ],
+      [
+        "Perfect Zinger: Chance for Psionic Damage",
+        "Attuned Perfect Zinger: Chance for Psionic Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_perfect_zinger_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_perfect_zinger_a.attuned_perfect_zinger_a",
+          "Perfect Zinger: Taunt/Placate"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Perfect Zinger: Threat",
+        "aspects": [
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "attuned_perfect_zinger_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Perfect Zinger: Threat",
+        "aspects": [
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "crafted_perfect_zinger_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_perfect_zinger_b.attuned_perfect_zinger_b",
+          "Perfect Zinger: Taunt/Placate/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Perfect Zinger: Recharge/Threat",
+        "aspects": [
+          "Recharge",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "attuned_perfect_zinger_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Perfect Zinger: Recharge/Threat",
+        "aspects": [
+          "Recharge",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "crafted_perfect_zinger_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_perfect_zinger_c.attuned_perfect_zinger_c",
+          "Perfect Zinger: Taunt/Placate/Recharge/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Perfect Zinger: Range/Recharge/Threat",
+        "aspects": [
+          "Range",
+          "Recharge",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "attuned_perfect_zinger_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Perfect Zinger: Range/Recharge/Threat",
+        "aspects": [
+          "Range",
+          "Recharge",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "crafted_perfect_zinger_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_perfect_zinger_d.attuned_perfect_zinger_d",
+          "Perfect Zinger: Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Perfect Zinger: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "attuned_perfect_zinger_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Perfect Zinger: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "crafted_perfect_zinger_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_perfect_zinger_e.attuned_perfect_zinger_e",
+          "Perfect Zinger: Taunt/Placate/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Perfect Zinger: Range/Threat",
+        "aspects": [
+          "Range",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "attuned_perfect_zinger_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Perfect Zinger: Range/Threat",
+        "aspects": [
+          "Range",
+          "Threat"
+        ],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "crafted_perfect_zinger_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_perfect_zinger_f.attuned_perfect_zinger_f",
+          "Perfect Zinger: Chance for Psionic Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Perfect Zinger: Chance for Psionic Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      },
+      "attuned_perfect_zinger_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Perfect Zinger: Chance for Psionic Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "perfect_zinger",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Threat Duration",
+        "icon": "e_icon_perfectzinger.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wolf_Spider_Pistol",
+  "display_name": "Wolf_Spider_Pistol",
+  "display_fullname": "V Arachnos.Wolf Spider Pistol",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/WOLF_SPIDER_PISTOL.POWERSETS",
+  "icon": "wolf_spider_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Wolf_Spider_Pistol.Pistol"
+  ],
+  "power_display_names": [
+    "Pistol"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam"
+  ]
+}

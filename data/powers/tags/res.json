@@ -1,0 +1,14 @@
+{
+  "tag": "Res",
+  "bears": [
+    [
+      "Boosts.Attuned Shield Wall F.Teleportation Protection, +Res(All)",
+      "boosts.attuned_shield_wall_f.attuned_shield_wall_f"
+    ],
+    [
+      "Boosts.Crafted Shield Wall F.Teleportation Protection, +Res(All)",
+      "boosts.crafted_shield_wall_f.crafted_shield_wall_f"
+    ]
+  ],
+  "affects": []
+}

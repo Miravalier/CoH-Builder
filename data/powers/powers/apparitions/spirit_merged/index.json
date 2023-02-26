@@ -1,0 +1,26 @@
+{
+  "name": "Spirit_Merged",
+  "display_name": "Spirit_Merged",
+  "display_fullname": "Apparitions.Spirit Merged",
+  "display_help": "Apparitions",
+  "display_short_help": "Apparitions",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/APPARITIONS/SPIRIT_MERGED.POWERSETS",
+  "icon": "spirit_merged_set.png",
+  "requires": "",
+  "power_names": [
+    "Apparitions.Spirit_Merged.Baleful_Lash",
+    "Apparitions.Spirit_Merged.Wrathful_Strike"
+  ],
+  "power_display_names": [
+    "Baleful Lash",
+    "Wrathful Strike"
+  ],
+  "power_short_helps": [
+    "Close, Moderate DMG(Negative Energy), Minor DoT (Lethal), -Res (All), Knockdown",
+    "Melee, Moderate DMG (Smash/Negative Energy), Chance for Knockdown and Knockback"
+  ]
+}

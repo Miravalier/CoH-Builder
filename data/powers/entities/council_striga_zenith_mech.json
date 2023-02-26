@@ -1,0 +1,81 @@
+{
+  "name": "Council_Striga_Zenith_Mech",
+  "gender": "GENDER_MALE",
+  "group_name": "Council",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 32,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "5thColumn_Fifth_Mek_Man",
+    "character_class_name": "minion_grunt",
+    "description": "Vandal, the genius behind the Council's technology, created his first robots during the 1940's. He's been improving on them ever since. Now known as the Zenith Mech Men, these tough and deadly machines are 100 times more dangerous than their predecessors of 60 years ago. Modern Mech Men have tough, thick armor, redundant systems that resist damage, and a powerful onboard AI that makes them faster and smarter than most human soldiers.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Council.Zenith_Mech.Cybernetic_Blade",
+      "Council.Zenith_Mech.Blast",
+      "Council.Robot_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Cybernetic Blade",
+      "Blast",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Council",
+        "power_set": "Zenith_Mech",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Council",
+        "power_set": "Robot_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 32,
+      "experience": 0,
+      "display_names": [
+        "Zenith Mech Man"
+      ],
+      "costumes": [
+        "Council_Mek_Man_V2"
+      ]
+    }
+  ]
+}

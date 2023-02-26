@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Obliteration_C",
+  "display_name": "Attuned Obliteration C",
+  "display_fullname": "Boosts.Attuned Obliteration C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Obliteration",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_OBLITERATION_C.POWERSETS",
+  "icon": "attuned_obliteration_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Obliteration_C.Attuned_Obliteration_C"
+  ],
+  "power_display_names": [
+    "Obliteration: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+DMG, +Rech"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Well_Watcher",
+  "display_name": "Well_Watcher",
+  "display_fullname": "MindsOfMayhem.Well Watcher",
+  "display_help": "Mother Mayhem",
+  "display_short_help": "Mother Mayhem",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/WELL_WATCHER.POWERSETS",
+  "icon": "well_watcher_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Well_Watcher.Shalice_Present"
+  ],
+  "power_display_names": [
+    "Shalice Present"
+  ],
+  "power_short_helps": [
+    "Tilman Present"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Montague",
+  "display_name": "Montague",
+  "display_fullname": "Incarnate I20.Montague",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    29,
+    39,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/MONTAGUE.POWERSETS",
+  "icon": "montague_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Montague.Light_Bolt",
+    "Incarnate_I20.Montague.Light_Blast",
+    "Incarnate_I20.Montague.Light_Explosion",
+    "Incarnate_I20.Montague.Hammer_of_Light",
+    "Incarnate_I20.Montague.Light_Torrent",
+    "Incarnate_I20.Montague.Radiance"
+  ],
+  "power_display_names": [
+    "Light Bolt",
+    "Light Blast",
+    "Light Explosion",
+    "Hammer of Light",
+    "Light Torrent",
+    "Radiance"
+  ],
+  "power_short_helps": [
+    "Ranged Energy Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback",
+    "Disorient",
+    "Cone Energy/Smash, Knockback",
+    "Ally Heal, Special Stun"
+  ]
+}

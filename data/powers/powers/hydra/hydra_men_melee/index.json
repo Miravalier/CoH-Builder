@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Men_Melee",
+  "display_name": "Hydra_Men_Melee",
+  "display_fullname": "Hydra.Hydra Men Melee",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_MEN_MELEE.POWERSETS",
+  "icon": "hydra_men_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Men_Melee.Pummel"
+  ],
+  "power_display_names": [
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Melee Smash +Knockback"
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "name": "Dominion_of_Arachnos",
+  "display_name": "Dominion of Arachnos",
+  "group_name": "Soldiers of Arachnos Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Archetype",
+    "Category: Soldiers of Arachnos"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Dominion_of_Arachnos_A.Attuned_Dominion_of_Arachnos_A"
+    ],
+    [
+      "Boosts.Attuned_Dominion_of_Arachnos_B.Attuned_Dominion_of_Arachnos_B"
+    ],
+    [
+      "Boosts.Attuned_Dominion_of_Arachnos_C.Attuned_Dominion_of_Arachnos_C"
+    ],
+    [
+      "Boosts.Attuned_Dominion_of_Arachnos_D.Attuned_Dominion_of_Arachnos_D"
+    ],
+    [
+      "Boosts.Attuned_Dominion_of_Arachnos_E.Attuned_Dominion_of_Arachnos_E"
+    ],
+    [
+      "Boosts.Attuned_Dominion_of_Arachnos_F.Attuned_Dominion_of_Arachnos_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_6"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_5",
+          "Huge Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_6",
+          "Gargantuan Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_6",
+          "Gargantuan Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_dominionofarachnos.png",
+      "e_icon_dominionofarachnos.png",
+      "e_icon_dominionofarachnos.png",
+      "e_icon_dominionofarachnos.png",
+      "e_icon_dominionofarachnos.png",
+      "e_icon_dominionofarachnos.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Dominion of Arachnos: Accuracy/Damage"
+      ],
+      [
+        "Attuned Dominion of Arachnos: Damage/Recharge"
+      ],
+      [
+        "Attuned Dominion of Arachnos: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Dominion of Arachnos: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Dominion of Arachnos: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Dominion of Arachnos: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_dominion_of_arachnos_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominion_of_arachnos_a.superior_attuned_superior_dominion_of_arachnos_a",
+          "Superior Dominion of Arachnos: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominion of Arachnos: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominion_of_arachnos",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_dominionofarachnos.png"
+      },
+      "attuned_dominion_of_arachnos_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominion_of_arachnos_b.superior_attuned_superior_dominion_of_arachnos_b",
+          "Superior Dominion of Arachnos: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominion of Arachnos: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominion_of_arachnos",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_dominionofarachnos.png"
+      },
+      "attuned_dominion_of_arachnos_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominion_of_arachnos_c.superior_attuned_superior_dominion_of_arachnos_c",
+          "Superior Dominion of Arachnos: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominion of Arachnos: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominion_of_arachnos",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_dominionofarachnos.png"
+      },
+      "attuned_dominion_of_arachnos_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominion_of_arachnos_d.superior_attuned_superior_dominion_of_arachnos_d",
+          "Superior Dominion of Arachnos: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominion of Arachnos: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominion_of_arachnos",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_dominionofarachnos.png"
+      },
+      "attuned_dominion_of_arachnos_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominion_of_arachnos_e.superior_attuned_superior_dominion_of_arachnos_e",
+          "Superior Dominion of Arachnos: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominion of Arachnos: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominion_of_arachnos",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_dominionofarachnos.png"
+      },
+      "attuned_dominion_of_arachnos_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_superior_dominion_of_arachnos_f.superior_attuned_superior_dominion_of_arachnos_f",
+          "Superior Dominion of Arachnos: Recharge/Chance for -Dmg and Terrorize"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Dominion of Arachnos: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "dominion_of_arachnos",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_dominionofarachnos.png"
+      }
+    }
+  }
+}

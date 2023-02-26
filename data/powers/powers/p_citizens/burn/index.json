@@ -1,0 +1,26 @@
+{
+  "name": "Burn",
+  "display_name": "Burn",
+  "display_fullname": "P Citizens.Burn",
+  "display_help": "Citizens",
+  "display_short_help": "Citizens",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_CITIZENS/BURN.POWERSETS",
+  "icon": "burn_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Citizens.Burn.Burn",
+    "P_Citizens.Burn.Avoid"
+  ],
+  "power_display_names": [
+    "Burn",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "Burn",
+    "Avoid"
+  ]
+}

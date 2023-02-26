@@ -1,0 +1,22 @@
+{
+  "name": "Hibernate",
+  "display_name": "Hibernate",
+  "display_fullname": "Pets.Hibernate",
+  "display_help": "Ice Armor",
+  "display_short_help": "Ice Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/HIBERNATE.POWERSETS",
+  "icon": "hibernate_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Hibernate.Glacier"
+  ],
+  "power_display_names": [
+    "Glacier"
+  ],
+  "power_short_helps": [
+    "Hold, -SPD, -Recharge"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Mindcrasher",
+  "display_name": "Mindcrasher",
+  "display_fullname": "Awakened.Mindcrasher",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/MINDCRASHER.POWERSETS",
+  "icon": "mindcrasher_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Mindcrasher.Psionic_Cut",
+    "Awakened.Mindcrasher.Psionic_Thrust",
+    "Awakened.Mindcrasher.Psionic_Slash",
+    "Awakened.Mindcrasher.Metabolic_Superiority",
+    "Awakened.Mindcrasher.Mental_Breakdown",
+    "Awakened.Mindcrasher.Psionic_Carapace"
+  ],
+  "power_display_names": [
+    "Psionic Cut",
+    "Psionic Thrust",
+    "Psionic Slash",
+    "Metabolic Superiority",
+    "Mental Breakdown",
+    "Psionic Carapace"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG (Psionic), Minor DoT (Lethal), -Rech(Foe)",
+    "Melee, Moderate DMG (Psionic), Moderate DoT (Lethal), -Rech(Foe), -ToHit(Foe), -Regen(Foe), -Rec(Foe), Chance for Taunt(Foe)",
+    "Melee (Cone), Moderate DMG (Psionic), Minor DoT (Lethal), -Regen(Foe), -DMG(Foe, All)",
+    "Self (Auto), +Regen, +Rech, +ToHit, +RES(Regen, Rech, Speed)",
+    "Ranged (Targeted AoE), High DMG (Psionic), Minor DoT (Psionic), -Regen(Foe), -Rec(Foe), +RES(Foe, Heal), Heal(Self)",
+    "Self, +Absorb, +Regen"
+  ]
+}

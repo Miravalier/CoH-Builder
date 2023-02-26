@@ -1,0 +1,22 @@
+{
+  "name": "Terminal_Teleport",
+  "display_name": "Terminal Teleport",
+  "display_fullname": "Objects.Terminal Teleport",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/TERMINAL_TELEPORT.POWERSETS",
+  "icon": "terminal_teleport_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Terminal_Teleport.Terminal_Teleport"
+  ],
+  "power_display_names": [
+    "Terminal Teleport"
+  ],
+  "power_short_helps": [
+    "Random Teleport"
+  ]
+}

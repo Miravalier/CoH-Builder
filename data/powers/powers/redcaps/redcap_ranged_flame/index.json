@@ -1,0 +1,22 @@
+{
+  "name": "RedCap_Ranged_Flame",
+  "display_name": "RedCap_Ranged_Flame",
+  "display_fullname": "RedCaps.RedCap Ranged Flame",
+  "display_help": "RedCaps",
+  "display_short_help": "RedCaps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/REDCAP_RANGED_FLAME.POWERSETS",
+  "icon": "redcap_ranged_flame_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.RedCap_Ranged_Flame.Blazing_Arrow"
+  ],
+  "power_display_names": [
+    "Blazing Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal), Moderate DoT(Fire)"
+  ]
+}

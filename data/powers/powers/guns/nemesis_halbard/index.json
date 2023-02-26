@@ -1,0 +1,22 @@
+{
+  "name": "Nemesis_Halbard",
+  "display_name": "Nemesis_Halbard",
+  "display_fullname": "Guns.Nemesis Halbard",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/NEMESIS_HALBARD.POWERSETS",
+  "icon": "nemesis_halbard_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Nemesis_Halbard.Lance_Rifle"
+  ],
+  "power_display_names": [
+    "Lance Rifle"
+  ],
+  "power_short_helps": [
+    "Sniper Lethal/Fire, AoE Knockback"
+  ]
+}

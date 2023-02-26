@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Gaussians_Synchronized_FireControl_B",
+  "display_name": "Attuned Gaussians Synchronized FireControl B",
+  "display_fullname": "Boosts.Attuned Gaussians Synchronized FireControl B",
+  "display_help": "Enhances the to hit buff potential of a power by {Boost.Attrib.ToHit.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Gaussian's Synchronized Fire-Control",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_GAUSSIANS_SYNCHRONIZED_FIRECONTROL_B.POWERSETS",
+  "icon": "attuned_gaussians_synchronized_firecontrol_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Gaussians_Synchronized_FireControl_B.Attuned_Gaussians_Synchronized_FireControl_B"
+  ],
+  "power_display_names": [
+    "Gaussian's Synchronized Fire-Control: To Hit Buff/Recharge"
+  ],
+  "power_short_helps": [
+    "+To Hit Buff, +Rech"
+  ]
+}

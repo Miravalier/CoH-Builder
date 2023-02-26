@@ -1,0 +1,26 @@
+{
+  "name": "RainofArrows_Critter",
+  "display_name": "Rain of Arrows",
+  "display_fullname": "Pets.Rain of Arrows",
+  "display_help": "Archery",
+  "display_short_help": "Archery",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RAINOFARROWS_CRITTER.POWERSETS",
+  "icon": "rainofarrows_critter_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.RainofArrows_Critter.RainofArrows",
+    "Pets.RainofArrows_Critter.Avoid"
+  ],
+  "power_display_names": [
+    "RainofArrows",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "DoT(Lethal)",
+    "Avoid"
+  ]
+}

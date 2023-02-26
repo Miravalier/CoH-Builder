@@ -1,0 +1,136 @@
+{
+  "name": "Vahzilok_PathogenCMRj",
+  "gender": "GENDER_MALE",
+  "group_name": "Vahzilok",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.Vahzilok_Pathogen",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 35,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_NeverAfraid",
+    "character_class_name": "boss_elite",
+    "description": "The Reapers seem to be the only normal humans among the ranks of Dr. Vahzilok's reanimated legions. They are trained surgeons who collect body parts with the help of poison darts and industrial strength hacksaws.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.8,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Vahzilok.Pathogen_Stage2.Quickness_Stage2",
+      "Vahzilok.Pathogen_Stage2.Corrosive_Vial_Stage2",
+      "Vahzilok.Pathogen_Stage2.Weaken_Stage2",
+      "Vahzilok.Pathogen_Stage2.BoneSaw_Stage2",
+      "Vahzilok.Pathogen_Stage2.Cleaver_Stage2",
+      "Vahzilok.Pathogen_Stage2.Resistance_Stage2",
+      "Vahzilok.Pathogen_Stage2.Poison_Dart_Stage1",
+      "Vahzilok.Pathogen_Stage2.Sleep_Dart_Stage1",
+      "NewPraetorians.Grant_Creston.Plasma_Spray",
+      "NewPraetorians.Grant_Creston.Plasma_Vortex",
+      "Freaklok.Flesh_Wrench.Lightning_Rod",
+      "Mission_Maker_Secondary.Willpower.Strength_of_Will",
+      "Mission_Maker_Secondary.Electrical_Blast.Lightning_Bolt"
+    ],
+    "power_display_names": [
+      "Quickness",
+      "Corrosive Vial",
+      "Weaken",
+      "BoneSaw",
+      "Cleaver",
+      "Resistance",
+      "Poison Dart",
+      "Sleep Dart",
+      "Plasma Spray",
+      "Plasma Vortex",
+      "Lightning Rod",
+      "Strength of Will",
+      "Lightning Bolt"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Vahzilok",
+        "power_set": "Pathogen_Stage2",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "NewPraetorians",
+        "power_set": "Grant_Creston",
+        "power": "Plasma_Spray",
+        "level": 0
+      },
+      {
+        "power_category": "NewPraetorians",
+        "power_set": "Grant_Creston",
+        "power": "Plasma_Vortex",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Flesh_Wrench",
+        "power": "Lightning_Rod",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Willpower",
+        "power": "Strength_of_Will",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Electrical_Blast",
+        "power": "Lightning_Bolt",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 35,
+      "experience": 0,
+      "display_names": [
+        "Pathogen"
+      ],
+      "costumes": [
+        "Pathogen_CMRj"
+      ]
+    }
+  ]
+}

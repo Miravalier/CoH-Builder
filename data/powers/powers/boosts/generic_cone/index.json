@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Cone",
+  "display_name": "Generic Range",
+  "display_fullname": "Boosts.Generic Cone",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Training (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_CONE.POWERSETS",
+  "icon": "generic_cone_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Cone.Generic_Cone"
+  ],
+  "power_display_names": [
+    "Training: Range Increase"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

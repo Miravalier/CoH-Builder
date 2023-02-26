@@ -1,0 +1,131 @@
+{
+  "name": "GenericVillains_P_Nightstar",
+  "gender": "GENDER_FEMALE",
+  "group_name": "GenericVillains",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic",
+    "Raid",
+    "IncarnateBoss"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_praetorianarchvillain",
+    "description": "This android is the creation of Anti-Matter as a testament to his love for Dominatrix. Nightstar is patterned after her in the same way that Siege is patterned after Tyrant. Neuron considers it an inferior design but Anti-Matter knows that one day victory will be his.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Praetorians.P_Nightstar.Damage_Resistance",
+      "Praetorians.P_Nightstar.Fly",
+      "Praetorians.P_Nightstar.Fly_fx",
+      "Praetorians.P_Nightstar.Power_Bolt",
+      "Praetorians.P_Nightstar.Power_Blast",
+      "Praetorians.P_Nightstar.Explosive_Blast",
+      "Praetorians.P_Nightstar.Power_Burst",
+      "Praetorians.P_Nightstar.Energy_Torrent",
+      "Praetorians.P_Nightstar.Nova",
+      "Praetorians.Sequestration_Field.Sequestration_Field",
+      "Praetorians.RaiseAlly.Resurrect",
+      "GenericVillains.Scaling.HP_15_Dmg_4_Min_8",
+      "GenericVillains.Supervillain_Resistance.Resistance"
+    ],
+    "power_display_names": [
+      "Damage Resistance",
+      "Fly",
+      "Fly fx",
+      "Power Bolt",
+      "Power Blast",
+      "Explosive Blast",
+      "Power Burst",
+      "Energy Torrent",
+      "Nova",
+      "Sequestration Field",
+      "Resurrect",
+      "Scaling",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Praetorians",
+        "power_set": "P_Nightstar",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "Sequestration_Field",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Praetorians",
+        "power_set": "RaiseAlly",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_15_Dmg_4_Min_8",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Resistance",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Nightstar"
+      ],
+      "costumes": [
+        "WarWalker_Nightstar_BAF"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Arachnos_Ice_Mistral",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Irena Rudenko was chosen by one of the Monks of the Four Winds to become the Ice Mistral. Receiving the power changed her; she retained the icy-cold aloofness and desire for mastery of the wind, but none of the control. Her own rage overrode the honor normally imbued to the Knights of the Wind and she went on a mad killing spree. Scirocco took her under his wing to protect her from the Monks - many of which have fallen trying to reclaim their lost power.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Ice_Mistral.Ice_Bolt",
+      "V_Arachnos.Ice_Mistral.Ice_Blast",
+      "V_Arachnos.Ice_Mistral.Frost_Breath",
+      "V_Arachnos.Ice_Mistral.Ice_Storm",
+      "V_Arachnos.Ice_Mistral.Frozen_Armor",
+      "V_Arachnos.Ice_Mistral.Gale",
+      "V_Arachnos.Ice_Mistral.Freeze_Ray",
+      "V_Arachnos.Ice_Mistral.Fly",
+      "V_Arachnos.Ice_Mistral.Fly_fx",
+      "V_Arachnos.Ice_Mistral.Resistance",
+      "V_Arachnos.Ice_Mistral.Bitter_Ice_Blast",
+      "V_Arachnos.Ice_Mistral.Blizzard",
+      "V_Arachnos.Ice_Mistral.Snow_Storm",
+      "V_Arachnos.Ice_Mistral.Glacier"
+    ],
+    "power_display_names": [
+      "Ice Bolt",
+      "Ice Blast",
+      "Frost Breath",
+      "Ice Storm",
+      "Frozen Armor",
+      "Gale",
+      "Freeze Ray",
+      "Fly",
+      "Fly fx",
+      "Resistance",
+      "Bitter Ice Blast",
+      "Blizzard",
+      "Snow Storm",
+      "Glacier"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Ice_Mistral",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Ice Mistral"
+      ],
+      "costumes": [
+        "Arachnos_Ice_Mistral"
+      ]
+    }
+  ]
+}

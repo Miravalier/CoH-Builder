@@ -1,0 +1,30 @@
+{
+  "name": "Tsoo_Ancestor_Spirit_Melee",
+  "display_name": "Tsoo_Ancestor_Spirit_Melee",
+  "display_fullname": "Tsoo.Tsoo Ancestor Spirit Melee",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/TSOO_ANCESTOR_SPIRIT_MELEE.POWERSETS",
+  "icon": "tsoo_ancestor_spirit_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Tsoo_Ancestor_Spirit_Melee.Hand_Clap",
+    "Tsoo.Tsoo_Ancestor_Spirit_Melee.Punch",
+    "Tsoo.Tsoo_Ancestor_Spirit_Melee.Haymaker"
+  ],
+  "power_display_names": [
+    "Hand Clap",
+    "Punch",
+    "Haymaker"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CoV_CopperSerpent_High",
+  "display_name": "CoV CopperSerpent High",
+  "display_fullname": "Tsoo.CoV CopperSerpent High",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/COV_COPPERSERPENT_HIGH.POWERSETS",
+  "icon": "cov_copperserpent_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.CoV_CopperSerpent_High.Ripper"
+  ],
+  "power_display_names": [
+    "Ripper"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -SPD, -Recharge"
+  ]
+}

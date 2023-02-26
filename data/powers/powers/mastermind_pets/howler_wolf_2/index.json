@@ -1,0 +1,30 @@
+{
+  "name": "Howler_Wolf_2",
+  "display_name": "Howler Wolf",
+  "display_fullname": "Mastermind Pets.Howler Wolf",
+  "display_help": "Beasts",
+  "display_short_help": "Beasts",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/HOWLER_WOLF_2.POWERSETS",
+  "icon": "howler_wolf_2_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Howler_Wolf_2.Maiming_Bite",
+    "Mastermind_Pets.Howler_Wolf_2.PM_Maiming_Bite",
+    "Mastermind_Pets.Howler_Wolf_2.Train_Beasts"
+  ],
+  "power_display_names": [
+    "Maiming Bite",
+    "Pack Mentality Granter",
+    "Train Beasts"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Lethal), Foe -Speed, -Def",
+    "Grants Pack Mentality",
+    "Train Beasts"
+  ]
+}

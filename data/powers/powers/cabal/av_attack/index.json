@@ -1,0 +1,26 @@
+{
+  "name": "AV_Attack",
+  "display_name": "AV_Attack",
+  "display_fullname": "Cabal.AV Attack",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/AV_ATTACK.POWERSETS",
+  "icon": "av_attack_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.AV_Attack.Lightning_Clap",
+    "Cabal.AV_Attack.Lightning_Field"
+  ],
+  "power_display_names": [
+    "Lightning Clap",
+    "Lightning Field"
+  ],
+  "power_short_helps": [
+    "PBAoE, Foe Disorient, Knockback",
+    "Toggle: PBAoE, Minor DoT(Energy), Foe -End"
+  ]
+}

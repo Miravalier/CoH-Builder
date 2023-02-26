@@ -1,0 +1,22 @@
+{
+  "name": "Malaise_minion_SubmachineGun",
+  "display_name": "Malaise_minion_SubmachineGun",
+  "display_fullname": "Praetorians.Malaise minion SubmachineGun",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/MALAISE_MINION_SUBMACHINEGUN.POWERSETS",
+  "icon": "malaise_minion_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Malaise_minion_SubmachineGun.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

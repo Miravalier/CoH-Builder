@@ -1,0 +1,22 @@
+{
+  "name": "Timer_15",
+  "display_name": "Timer_15",
+  "display_fullname": "Objects.Timer 15",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/TIMER_15.POWERSETS",
+  "icon": "timer_15_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Timer_15.Timer"
+  ],
+  "power_display_names": [
+    "Timer"
+  ],
+  "power_short_helps": [
+    "Self Destruct"
+  ]
+}

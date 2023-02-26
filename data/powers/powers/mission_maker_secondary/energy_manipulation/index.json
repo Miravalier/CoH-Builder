@@ -1,0 +1,54 @@
+{
+  "name": "Energy_Manipulation",
+  "display_name": "Energy Manipulation",
+  "display_fullname": "Mission Maker Secondary.Energy Manipulation",
+  "display_help": "Energy Manipulation allows you to channel energy to deliver deadly blows. These powers also help you focus your power to increase your own abilities.",
+  "display_short_help": "Energy Manipulation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/ENERGY_MANIPULATION.POWERSETS",
+  "icon": "energy_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Energy_Manipulation.Power_Thrust",
+    "Mission_Maker_Secondary.Energy_Manipulation.Energy_Punch",
+    "Mission_Maker_Secondary.Energy_Manipulation.Build_Up",
+    "Mission_Maker_Secondary.Energy_Manipulation.Bone_Smasher",
+    "Mission_Maker_Secondary.Energy_Manipulation.Conserve_Power",
+    "Mission_Maker_Secondary.Energy_Manipulation.Stun",
+    "Mission_Maker_Secondary.Energy_Manipulation.Power_Boost",
+    "Mission_Maker_Secondary.Energy_Manipulation.Boost_Range",
+    "Mission_Maker_Secondary.Energy_Manipulation.Total_Focus"
+  ],
+  "power_display_names": [
+    "Power Thrust",
+    "Energy Punch",
+    "Build Up",
+    "Bone Smasher",
+    "Energize",
+    "Stun",
+    "Power Boost",
+    "Boost Range",
+    "Total Focus"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback",
+    "Melee, Moderate DMG(Smash/Energy), Foe Disorient",
+    "Self +DMG, +To-hit",
+    "Melee, High DMG(Smash/Energy), Foe Disorient",
+    "Self Endurance Discount, Heal, +Regen, Res(Stun)",
+    "Melee, Minor DMG(Energy/Smashing), Foe Disorient",
+    "Self +Special",
+    "Self Range Increase",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient"
+  ]
+}

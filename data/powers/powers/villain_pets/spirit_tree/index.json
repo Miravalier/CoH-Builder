@@ -1,0 +1,22 @@
+{
+  "name": "Spirit_Tree",
+  "display_name": "Spirit Tree",
+  "display_fullname": "Villain Pets.Spirit Tree",
+  "display_help": "Plant Control",
+  "display_short_help": "Plant Control",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/SPIRIT_TREE.POWERSETS",
+  "icon": "spirit_tree_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Spirit_Tree.Spirit_Tree"
+  ],
+  "power_display_names": [
+    "Spirit Tree"
+  ],
+  "power_short_helps": [
+    "+Regeneration"
+  ]
+}

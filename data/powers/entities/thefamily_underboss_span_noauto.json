@@ -1,0 +1,101 @@
+{
+  "name": "TheFamily_Underboss_Span_NoAuto",
+  "gender": "GENDER_MALE",
+  "group_name": "TheFamily",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 25,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "The Prima Capo is the 'Head Capo' and report directly to the Don. In Paragon City, you don't rise to the top without a little super-powered help, and many Underbosses have heightened abilities or access to specialized gear that helps them stay on top in their cutthroat business. Some Prima Capos have become so strong that they carry around a huge chunk of concrete to show their opponents 'who is the real boss around here'. They're able to swing these huge weapons with ease and use them for intimidation, though usually it's used to bash in someone's head.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Family.TitanWeapon_BS.Agile_Sweep",
+      "Family.TitanWeapon_BS.Crushing_Blow",
+      "Family.TitanWeapon_BS.Shockwave_Strike",
+      "Family.TitanWeapon_BS.Overpower",
+      "Family.TitanWeapon_BS.Shatter_Armor",
+      "Family.TitanWeapon_BS.Painless",
+      "Family.TitanWeapon_BS.Arc_of_Devastation",
+      "Family.TitanWeapon_BS.Business_Time",
+      "Family.Resistances.Damage_BS"
+    ],
+    "power_display_names": [
+      "Agile Sweep",
+      "Crushing Blow",
+      "Shockwave Strike",
+      "Overpower",
+      "Shatter Armor",
+      "Painless",
+      "Arc of Devastation",
+      "Business Time",
+      "Damage Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Family",
+        "power_set": "TitanWeapon_BS",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Family",
+        "power_set": "Resistances",
+        "power": "Damage_BS",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 25,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Prima Capo"
+      ],
+      "costumes": [
+        "Family_Boss_01_TW",
+        "Family_Boss_02_TW"
+      ]
+    }
+  ]
+}

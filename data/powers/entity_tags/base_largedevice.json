@@ -1,0 +1,450 @@
+{
+  "tag": "Base_LargeDevice",
+  "bears": [
+    [
+      "base_autodoc_tech",
+      [
+        "Auto-Doc"
+      ]
+    ],
+    [
+      "base_basicreclaimator_tech",
+      [
+        "Basic Reclaimator"
+      ]
+    ],
+    [
+      "base_battery1_arcane",
+      [
+        "Mana Crystal"
+      ]
+    ],
+    [
+      "base_battery1_arcane_i14",
+      [
+        "Mana Crystal"
+      ]
+    ],
+    [
+      "base_battery1_tech",
+      [
+        "Brief Capacitor"
+      ]
+    ],
+    [
+      "base_battery1_tech_i14",
+      [
+        "Brief Capacitor"
+      ]
+    ],
+    [
+      "base_battery2_arcane",
+      [
+        "Mana Seal"
+      ]
+    ],
+    [
+      "base_battery2_arcane_i14",
+      [
+        "Mana Seal"
+      ]
+    ],
+    [
+      "base_battery2_tech",
+      [
+        "Backup Capacitor"
+      ]
+    ],
+    [
+      "base_battery2_tech_i14",
+      [
+        "Backup Capacitor"
+      ]
+    ],
+    [
+      "base_bookshelf",
+      [
+        "Bookshelf"
+      ]
+    ],
+    [
+      "base_bookshelf_i14",
+      [
+        "Bookshelf"
+      ]
+    ],
+    [
+      "base_crimecomputer_tech",
+      [
+        "Mission Computer"
+      ]
+    ],
+    [
+      "base_crimecomputer_tech_v",
+      [
+        "Mission Computer"
+      ]
+    ],
+    [
+      "base_database",
+      [
+        "Database"
+      ]
+    ],
+    [
+      "base_database_i14",
+      [
+        "Database"
+      ]
+    ],
+    [
+      "base_dimensionalanchor_arcane",
+      [
+        "P2927683950"
+      ]
+    ],
+    [
+      "base_dimensionalanchor_tech",
+      [
+        "P2927683950"
+      ]
+    ],
+    [
+      "base_edgedatabase",
+      [
+        "Advanced Database"
+      ]
+    ],
+    [
+      "base_edgedatabase_i14",
+      [
+        "Advanced Database"
+      ]
+    ],
+    [
+      "base_eliteanalyzer",
+      [
+        "Elite Analyzer"
+      ]
+    ],
+    [
+      "base_elitechaingun",
+      [
+        "Elite Chain Gun"
+      ]
+    ],
+    [
+      "base_elitechillcannon",
+      [
+        "Elite Chill Cannon"
+      ]
+    ],
+    [
+      "base_elitedampeningray_arcane",
+      [
+        "Elite Dampening Ray"
+      ]
+    ],
+    [
+      "base_elitedampeningray_tech",
+      [
+        "Elite Dampening Ray"
+      ]
+    ],
+    [
+      "base_eliteenergybeam_arcane",
+      [
+        "Elite Energy Beam"
+      ]
+    ],
+    [
+      "base_eliteenergybeam_tech",
+      [
+        "Elite Energy Beam"
+      ]
+    ],
+    [
+      "base_eliteigniter_arcane",
+      [
+        "Elite Igniter"
+      ]
+    ],
+    [
+      "base_eliteigniter_tech",
+      [
+        "Elite Igniter"
+      ]
+    ],
+    [
+      "base_elitesapper_arcane",
+      [
+        "Elite Sapper"
+      ]
+    ],
+    [
+      "base_elitesapper_tech",
+      [
+        "Elite Sapper"
+      ]
+    ],
+    [
+      "base_elitescanner",
+      [
+        "Elite Scanner"
+      ]
+    ],
+    [
+      "base_elitesnowcrystal",
+      [
+        "Elite Snow Crystal"
+      ]
+    ],
+    [
+      "base_elitestonethrower",
+      [
+        "Elite Stonethrower"
+      ]
+    ],
+    [
+      "base_energyl2_arcane",
+      [
+        "Ley Tap"
+      ]
+    ],
+    [
+      "base_energyl2_arcane_i14",
+      [
+        "Ley Tap"
+      ]
+    ],
+    [
+      "base_energyl2_tech",
+      [
+        "Turbine Generator"
+      ]
+    ],
+    [
+      "base_energyl2_tech_i14",
+      [
+        "Turbine Generator"
+      ]
+    ],
+    [
+      "base_energyshieldl1_arcane",
+      [
+        "Crystal Ward"
+      ]
+    ],
+    [
+      "base_energyshieldl1_tech",
+      [
+        "Generator Energy Curtain"
+      ]
+    ],
+    [
+      "base_invsalv_storage_arcane1",
+      [
+        "Personal Storage Vault"
+      ]
+    ],
+    [
+      "base_invsalv_storage_tech1",
+      [
+        "Personal Storage Vault"
+      ]
+    ],
+    [
+      "base_magicaxis",
+      [
+        "Magic Axis"
+      ]
+    ],
+    [
+      "base_magicaxis_i14",
+      [
+        "Magic Axis"
+      ]
+    ],
+    [
+      "base_mainframe",
+      [
+        "Mainframe"
+      ]
+    ],
+    [
+      "base_mainframe_i14",
+      [
+        "Mainframe"
+      ]
+    ],
+    [
+      "base_mysticalbookshelf",
+      [
+        "Mystical Bookshelf"
+      ]
+    ],
+    [
+      "base_mysticalbookshelf_i14",
+      [
+        "Mystical Bookshelf"
+      ]
+    ],
+    [
+      "base_oracle_arcane",
+      [
+        "Oracle"
+      ]
+    ],
+    [
+      "base_oracle_arcane_v",
+      [
+        "Oracle"
+      ]
+    ],
+    [
+      "base_orbitsofcontrol",
+      [
+        "Orbits of Control"
+      ]
+    ],
+    [
+      "base_orbitsofcontrol_i14",
+      [
+        "Orbits of Control"
+      ]
+    ],
+    [
+      "base_ouroboros_heroes",
+      [
+        "Pillar of Ice and Flame"
+      ]
+    ],
+    [
+      "base_ouroboros_heroes_t",
+      [
+        "Pillar of Ice and Flame"
+      ]
+    ],
+    [
+      "base_ouroboros_villains",
+      [
+        "Pillar of Ice and Flame"
+      ]
+    ],
+    [
+      "base_ouroboros_villains_t",
+      [
+        "Pillar of Ice and Flame"
+      ]
+    ],
+    [
+      "base_resurectioncircle_arcane",
+      [
+        "Resurrection Circle"
+      ]
+    ],
+    [
+      "base_riktiplasmaturret",
+      [
+        "Rikti Plasma Turret"
+      ]
+    ],
+    [
+      "base_runespire",
+      [
+        "Spirit Signal"
+      ]
+    ],
+    [
+      "base_scorpionssurprise",
+      [
+        "Scorpion's Surprise"
+      ]
+    ],
+    [
+      "base_slowfield_arcane",
+      [
+        "Slow Field"
+      ]
+    ],
+    [
+      "base_slowfield_tech",
+      [
+        "Slow Field"
+      ]
+    ],
+    [
+      "base_supercomputer",
+      [
+        "Supercomputer"
+      ]
+    ],
+    [
+      "base_supercomputer_i14",
+      [
+        "Supercomputer"
+      ]
+    ],
+    [
+      "base_tpstabilizer_tech",
+      [
+        "Robo-Surgery"
+      ]
+    ],
+    [
+      "base_treeofwonders_arcane",
+      [
+        "Tree of Wonders"
+      ]
+    ],
+    [
+      "base_worktable_arcane",
+      [
+        "Basic Forge"
+      ]
+    ],
+    [
+      "base_worktable_arcane2",
+      [
+        "Advanced Forge"
+      ]
+    ],
+    [
+      "base_worktable_arcane3",
+      [
+        "Expert Forge"
+      ]
+    ],
+    [
+      "base_worktable_arcane_invention",
+      [
+        "Invention Worktable"
+      ]
+    ],
+    [
+      "base_worktable_tech",
+      [
+        "Basic Worktable"
+      ]
+    ],
+    [
+      "base_worktable_tech2",
+      [
+        "Advanced Worktable"
+      ]
+    ],
+    [
+      "base_worktable_tech3",
+      [
+        "Expert Worktable"
+      ]
+    ],
+    [
+      "base_worktable_tech_invention",
+      [
+        "Invention Worktable"
+      ]
+    ]
+  ],
+  "affects": []
+}

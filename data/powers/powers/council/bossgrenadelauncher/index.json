@@ -1,0 +1,22 @@
+{
+  "name": "BossGrenadeLauncher",
+  "display_name": "Grenade Launcher",
+  "display_fullname": "Council.Grenade Launcher",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/BOSSGRENADELAUNCHER.POWERSETS",
+  "icon": "bossgrenadelauncher_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.BossGrenadeLauncher.Grenade_Launcher"
+  ],
+  "power_display_names": [
+    "Grenade Launcher"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

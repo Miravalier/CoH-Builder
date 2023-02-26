@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Pounding_Slugfest_C",
+  "display_name": "Attuned Pounding Slugfest C",
+  "display_fullname": "Boosts.Attuned Pounding Slugfest C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge cost by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Pounding Slugfest",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_POUNDING_SLUGFEST_C.POWERSETS",
+  "icon": "attuned_pounding_slugfest_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Pounding_Slugfest_C.Attuned_Pounding_Slugfest_C"
+  ],
+  "power_display_names": [
+    "Pounding Slugfest: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

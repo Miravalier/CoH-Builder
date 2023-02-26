@@ -1,0 +1,22 @@
+{
+  "name": "Keyes_Island_Rift",
+  "display_name": "Keyes_Island_Rift",
+  "display_fullname": "Objects.Keyes Island Rift",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/KEYES_ISLAND_RIFT.POWERSETS",
+  "icon": "keyes_island_rift_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Keyes_Island_Rift.Create_Rift"
+  ],
+  "power_display_names": [
+    "Create Rift"
+  ],
+  "power_short_helps": [
+    "Rift Spawn"
+  ]
+}

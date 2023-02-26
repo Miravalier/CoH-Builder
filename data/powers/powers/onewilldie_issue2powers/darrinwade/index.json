@@ -1,0 +1,34 @@
+{
+  "name": "DarrinWade",
+  "display_name": "",
+  "display_fullname": "OneWillDie Issue2Powers.DarrinWade",
+  "display_help": "Darrin Wade",
+  "display_short_help": "Darrin Wade",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE2POWERS/DARRINWADE.POWERSETS",
+  "icon": "darrinwade_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue2Powers.DarrinWade.Shadow_Bolt",
+    "OneWillDie_Issue2Powers.DarrinWade.Shadow_Blast",
+    "OneWillDie_Issue2Powers.DarrinWade.Sunless_Mire",
+    "OneWillDie_Issue2Powers.DarrinWade.Essence_Drain"
+  ],
+  "power_display_names": [
+    "Shadow Bolt",
+    "Shadow Blast",
+    "Sunless Mire",
+    "Essence Drain"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Negative), Foe -Recharge, -SPD",
+    "Ranged, Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD",
+    "PBAoE, Moderate DMG(Negative), Foe -Recharge, -SPD; Self +DMG, +To Hit",
+    "Melee, Moderate DMG(Negative), Foe -Recharge, -SPD; Self +HP"
+  ]
+}

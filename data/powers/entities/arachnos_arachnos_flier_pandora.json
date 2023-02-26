@@ -1,0 +1,151 @@
+{
+  "name": "Arachnos_Arachnos_Flier_Pandora",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic",
+    "Raid"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "The Arachnos Flyers are used primarily for troop deployment. If you see one, pray that it's not here for you.",
+    "group_description": null,
+    "display_class_name": "Transport",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Flier.Fly",
+      "V_Arachnos.Flier.Energy_Blast",
+      "V_Arachnos.Flier.Explosive_Drone",
+      "V_Arachnos.Flier.Energy_Saturation",
+      "V_Arachnos.Flier.Energy_Burst",
+      "V_Arachnos.Flier.Transition",
+      "V_Arachnos.Flier.Swarm_Missile",
+      "V_Arachnos.Flier.Drone_Repel",
+      "V_Arachnos.Flier.Kill_Mine",
+      "V_Arachnos.Flier.Resistance"
+    ],
+    "power_display_names": [
+      "Fly",
+      "Energy Blast",
+      "Explosive Drone",
+      "Energy Saturation",
+      "Energy Burst",
+      "Transition",
+      "Swarm Missile",
+      "Drone Repel",
+      "Kill Mine",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Fly",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Energy_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Explosive_Drone",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Energy_Saturation",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Energy_Burst",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Transition",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Swarm_Missile",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Drone_Repel",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Kill_Mine",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Flier",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Arachnos Flier"
+      ],
+      "costumes": [
+        "V_Arachnos_Flyer_Critter"
+      ]
+    }
+  ]
+}

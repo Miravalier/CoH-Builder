@@ -1,0 +1,125 @@
+{
+  "name": "Event_ZA_Lt",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 30,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Zombie_Minion",
+    "character_class_name": "lt_grunt",
+    "description": "The dead are restless and are walking the earth. They hunger for your flesh!",
+    "group_description": "Zombies",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.25,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Zombies.Zombie.Zombie_Brawl",
+      "Zombies.Zombie.Projectile_Vomit",
+      "Zombies.Zombie_Resists.Resistance",
+      "Zombies.Zombie_Lt.Flies"
+    ],
+    "power_display_names": [
+      "Zombie Brawl",
+      "Projectile Vomit",
+      "Resistance",
+      "Flies"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Zombies",
+        "power_set": "Zombie",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Zombies",
+        "power_set": "Zombie_Resists",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Zombies",
+        "power_set": "Zombie_Lt",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 30,
+      "experience": 0,
+      "display_names": [
+        "Reanimated Corpse"
+      ],
+      "costumes": [
+        "Zombie_Invasion_11",
+        "Zombie_Invasion_12",
+        "Zombie_Invasion_13",
+        "Zombie_Invasion_14",
+        "Zombie_Invasion_15",
+        "Zombie_Invasion_16",
+        "Zombie_Invasion_17",
+        "Zombie_Invasion_18",
+        "Zombie_Invasion_19",
+        "Zombie_Invasion_20",
+        "Zombie_Invasion_21",
+        "Zombie_Invasion_22",
+        "Zombie_Invasion_23",
+        "Zombie_Invasion_24",
+        "Zombie_Invasion_25",
+        "Zombie_Invasion_26",
+        "Zombie_Invasion_27",
+        "Zombie_Invasion_28",
+        "Zombie_Invasion_29",
+        "Zombie_Invasion_30",
+        "Zombie_Invasion_31",
+        "Zombie_Invasion_32",
+        "Zombie_Invasion_33",
+        "Zombie_Invasion_34",
+        "Zombie_Invasion_35",
+        "Zombie_Invasion_36",
+        "Zombie_Invasion_37",
+        "Zombie_Invasion_38",
+        "Zombie_Invasion_39",
+        "Zombie_Invasion_40",
+        "Zombie_Invasion_41",
+        "Zombie_Invasion_42",
+        "Zombie_Invasion_43",
+        "Zombie_Invasion_44",
+        "Zombie_Invasion_45",
+        "Zombie_Invasion_TrafficCone"
+      ]
+    }
+  ]
+}

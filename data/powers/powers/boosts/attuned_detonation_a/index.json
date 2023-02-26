@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Detonation_A",
+  "display_name": "Attuned Detonation A",
+  "display_fullname": "Boosts.Attuned Detonation A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Detonation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DETONATION_A.POWERSETS",
+  "icon": "attuned_detonation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Detonation_A.Attuned_Detonation_A"
+  ],
+  "power_display_names": [
+    "Detonation: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

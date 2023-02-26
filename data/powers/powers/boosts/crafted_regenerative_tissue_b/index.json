@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Regenerative_Tissue_B",
+  "display_name": "Crafted Regenerative Tissue B",
+  "display_fullname": "Boosts.Crafted Regenerative Tissue B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Regenerative Tissue",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_REGENERATIVE_TISSUE_B.POWERSETS",
+  "icon": "crafted_regenerative_tissue_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Regenerative_Tissue_B.Crafted_Regenerative_Tissue_B"
+  ],
+  "power_display_names": [
+    "Regenerative Tissue: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Rech"
+  ]
+}

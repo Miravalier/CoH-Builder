@@ -1,0 +1,30 @@
+{
+  "name": "Outcast_Air",
+  "display_name": "Outcast_Air",
+  "display_fullname": "Outcasts.Outcast Air",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_AIR.POWERSETS",
+  "icon": "outcast_air_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Air.Resistance",
+    "Outcasts.Outcast_Air.Charged_Bolts",
+    "Outcasts.Outcast_Air.Charged_Brawl"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Charged Bolts",
+    "Charged Brawl"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged Energy, -End",
+    "Melee Smash/Energy, -END"
+  ]
+}

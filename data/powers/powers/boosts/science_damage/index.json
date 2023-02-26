@@ -1,0 +1,22 @@
+{
+  "name": "Science_Damage",
+  "display_name": "Science Damage",
+  "display_fullname": "Boosts.Science Damage",
+  "display_help": "Enhances the damage of a power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_DAMAGE.POWERSETS",
+  "icon": "science_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Damage.Science_Damage"
+  ],
+  "power_display_names": [
+    "Xenon Exposure (Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage"
+  ]
+}

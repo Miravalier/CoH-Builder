@@ -1,0 +1,26 @@
+{
+  "name": "Tuatha_Boss_Melee",
+  "display_name": "Tuatha_Boss_Melee",
+  "display_fullname": "Tuatha.Tuatha Boss Melee",
+  "display_help": "The Tuatha",
+  "display_short_help": "The Tuatha",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TUATHA/TUATHA_BOSS_MELEE.POWERSETS",
+  "icon": "tuatha_boss_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Tuatha.Tuatha_Boss_Melee.Smash",
+    "Tuatha.Tuatha_Boss_Melee.Head_Butt"
+  ],
+  "power_display_names": [
+    "Smash",
+    "Head Butt"
+  ],
+  "power_short_helps": [
+    "Melee Smashing",
+    "Melee Smashing"
+  ]
+}

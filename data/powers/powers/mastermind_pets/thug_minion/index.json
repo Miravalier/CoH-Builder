@@ -1,0 +1,34 @@
+{
+  "name": "Thug_Minion",
+  "display_name": "Thug Minion",
+  "display_fullname": "Mastermind Pets.Thug Minion",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_MINION.POWERSETS",
+  "icon": "thug_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Minion.Resistance",
+    "Mastermind_Pets.Thug_Minion.Brawl",
+    "Mastermind_Pets.Thug_Minion.Pistol",
+    "Mastermind_Pets.Thug_Minion.Super_Leap"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Brawl",
+    "Pistol",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Thugs",
+    "Melee, Light DMG(Smash)",
+    "Ranged, Light DMG(Lethal)",
+    "Self Leap"
+  ]
+}

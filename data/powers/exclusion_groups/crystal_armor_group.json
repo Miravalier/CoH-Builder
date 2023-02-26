@@ -1,0 +1,13 @@
+{
+  "group": "Crystal_Armor_Group",
+  "powers": [
+    [
+      "Brute Defense.Stone Armor.Crystal Armor",
+      "brute_defense.stone_armor.crystal_armor"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Crystal Armor",
+      "tanker_defense.stone_armor.crystal_armor"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Pumpkin_King",
+  "display_name": "Pumpkin King",
+  "display_fullname": "Event.Pumpkin King",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/PUMPKIN_KING.POWERSETS",
+  "icon": "pumpkin_king_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Pumpkin_King.Pumpkin",
+    "Event.Pumpkin_King.Pumpkin_Bomb",
+    "Event.Pumpkin_King.Fire_Stomp"
+  ],
+  "power_display_names": [
+    "Pumpkin",
+    "Pumpkin Bomb",
+    "Fire Stomp"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

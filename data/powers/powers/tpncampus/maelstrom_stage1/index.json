@@ -1,0 +1,38 @@
+{
+  "name": "Maelstrom_Stage1",
+  "display_name": "Maelstrom",
+  "display_fullname": "TPNCampus.Maelstrom",
+  "display_help": "Maelstrom",
+  "display_short_help": "Maelstrom",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/MAELSTROM_STAGE1.POWERSETS",
+  "icon": "maelstrom_stage1_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.Maelstrom_Stage1.Chemical_Ammunition",
+    "TPNCampus.Maelstrom_Stage1.Twin_Pistols",
+    "TPNCampus.Maelstrom_Stage1.Twin_Pistols2",
+    "TPNCampus.Maelstrom_Stage1.Toxic_Rain",
+    "TPNCampus.Maelstrom_Stage1.Piercing_Rounds"
+  ],
+  "power_display_names": [
+    "Chemical Ammunition",
+    "Twin Pistols",
+    "Twin Pistols",
+    "Toxic Rain",
+    "Piercing Rounds"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Ranged, Moderate DMG(Lethal/Special), Foe Knockback/Special",
+    "Ranged, Moderate DMG(Lethal/Special), Foe Knockback/Special",
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Special), Knockback/Special",
+    "Narrow Ranged (Cone), High DMG(Lethal/Special), Foes -Res(All)/Special"
+  ]
+}

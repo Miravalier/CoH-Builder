@@ -1,0 +1,162 @@
+{
+  "tag": "InterruptTime",
+  "bears": [
+    [
+      "Boosts.Attuned Calibrated Accuracy C.Acc/Interrupt",
+      "boosts.attuned_calibrated_accuracy_c.attuned_calibrated_accuracy_c"
+    ],
+    [
+      "Boosts.Attuned Executioners Contract C.Dam/Interrupt",
+      "boosts.attuned_executioners_contract_c.attuned_executioners_contract_c"
+    ],
+    [
+      "Boosts.Attuned Experienced Marksman C.Dam/End/Interrupt",
+      "boosts.attuned_experienced_marksman_c.attuned_experienced_marksman_c"
+    ],
+    [
+      "Boosts.Attuned Experienced Marksman E.Dam/Interrupt/Range/Rech",
+      "boosts.attuned_experienced_marksman_e.attuned_experienced_marksman_e"
+    ],
+    [
+      "Boosts.Attuned Extreme Measures C.Acc/Interrupt/Range",
+      "boosts.attuned_extreme_measures_c.attuned_extreme_measures_c"
+    ],
+    [
+      "Boosts.Attuned Extreme Measures D.Dam/Interrupt/Rech",
+      "boosts.attuned_extreme_measures_d.attuned_extreme_measures_d"
+    ],
+    [
+      "Boosts.Attuned Sting of the Manticore C.Acc/Interrupt/Range",
+      "boosts.attuned_sting_of_the_manticore_c.attuned_sting_of_the_manticore_c"
+    ],
+    [
+      "Boosts.Attuned Sting of the Manticore D.Dam/Interrupt/Rech",
+      "boosts.attuned_sting_of_the_manticore_d.attuned_sting_of_the_manticore_d"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy C.Acc/Interrupt",
+      "boosts.crafted_calibrated_accuracy_c.crafted_calibrated_accuracy_c"
+    ],
+    [
+      "Boosts.Crafted Executioners Contract C.Dam/Interrupt",
+      "boosts.crafted_executioners_contract_c.crafted_executioners_contract_c"
+    ],
+    [
+      "Boosts.Crafted Experienced Marksman C.Dam/End/Interrupt",
+      "boosts.crafted_experienced_marksman_c.crafted_experienced_marksman_c"
+    ],
+    [
+      "Boosts.Crafted Experienced Marksman E.Dam/Interrupt/Range/Rech",
+      "boosts.crafted_experienced_marksman_e.crafted_experienced_marksman_e"
+    ],
+    [
+      "Boosts.Crafted Extreme Measures C.Acc/Interrupt/Range",
+      "boosts.crafted_extreme_measures_c.crafted_extreme_measures_c"
+    ],
+    [
+      "Boosts.Crafted Extreme Measures D.Dam/Interrupt/Rech",
+      "boosts.crafted_extreme_measures_d.crafted_extreme_measures_d"
+    ],
+    [
+      "Boosts.Crafted Interrupt 10.Interrupt Duration",
+      "boosts.crafted_interrupt_10.crafted_interrupt_10"
+    ],
+    [
+      "Boosts.Crafted Interrupt 15.Interrupt Duration",
+      "boosts.crafted_interrupt_15.crafted_interrupt_15"
+    ],
+    [
+      "Boosts.Crafted Interrupt 20.Interrupt Duration",
+      "boosts.crafted_interrupt_20.crafted_interrupt_20"
+    ],
+    [
+      "Boosts.Crafted Interrupt 25.Interrupt Duration",
+      "boosts.crafted_interrupt_25.crafted_interrupt_25"
+    ],
+    [
+      "Boosts.Crafted Interrupt 30.Interrupt Duration",
+      "boosts.crafted_interrupt_30.crafted_interrupt_30"
+    ],
+    [
+      "Boosts.Crafted Interrupt 35.Interrupt Duration",
+      "boosts.crafted_interrupt_35.crafted_interrupt_35"
+    ],
+    [
+      "Boosts.Crafted Interrupt 40.Interrupt Duration",
+      "boosts.crafted_interrupt_40.crafted_interrupt_40"
+    ],
+    [
+      "Boosts.Crafted Interrupt 45.Interrupt Duration",
+      "boosts.crafted_interrupt_45.crafted_interrupt_45"
+    ],
+    [
+      "Boosts.Crafted Interrupt 50.Interrupt Duration",
+      "boosts.crafted_interrupt_50.crafted_interrupt_50"
+    ],
+    [
+      "Boosts.Crafted Interrupt.Interrupt Duration",
+      "boosts.crafted_interrupt.crafted_interrupt"
+    ],
+    [
+      "Boosts.Crafted Sting of the Manticore C.Acc/Interrupt/Range",
+      "boosts.crafted_sting_of_the_manticore_c.crafted_sting_of_the_manticore_c"
+    ],
+    [
+      "Boosts.Crafted Sting of the Manticore D.Dam/Interrupt/Rech",
+      "boosts.crafted_sting_of_the_manticore_d.crafted_sting_of_the_manticore_d"
+    ],
+    [
+      "Boosts.Generic Interrupt.Activation Acceleration",
+      "boosts.generic_interrupt.generic_interrupt"
+    ],
+    [
+      "Boosts.Magic Interrupt.Skip of Joule (Interrupt)",
+      "boosts.magic_interrupt.magic_interrupt"
+    ],
+    [
+      "Boosts.Mutation Interrupt.Chronometric Manipulation (Interrupt)",
+      "boosts.mutation_interrupt.mutation_interrupt"
+    ],
+    [
+      "Boosts.Mutation Magic Interrupt.Ring (Interrupt)",
+      "boosts.mutation_magic_interrupt.mutation_magic_interrupt"
+    ],
+    [
+      "Boosts.Mutation Science Interrupt.Molecular Bonding Time Manipulation Boost (Interrupt)",
+      "boosts.mutation_science_interrupt.mutation_science_interrupt"
+    ],
+    [
+      "Boosts.Natural Interrupt.Back Alley Abbreviation (Interrupt)",
+      "boosts.natural_interrupt.natural_interrupt"
+    ],
+    [
+      "Boosts.Natural Magic Interrupt.Li Tieh Kuai's Sheath (Interrupt)",
+      "boosts.natural_magic_interrupt.natural_magic_interrupt"
+    ],
+    [
+      "Boosts.Science Interrupt.Thermodynamic Bombardment (Interrupt)",
+      "boosts.science_interrupt.science_interrupt"
+    ],
+    [
+      "Boosts.Science Technology Interrupt.Chronotranstabilizer (Interrupt)",
+      "boosts.science_technology_interrupt.science_technology_interrupt"
+    ],
+    [
+      "Boosts.Technology Interrupt.WetWare Eng Accelerator (Interrupt)",
+      "boosts.technology_interrupt.technology_interrupt"
+    ],
+    [
+      "Boosts.Technology Natural Interrupt.Chronoenhancer Device (Interrupt)",
+      "boosts.technology_natural_interrupt.technology_natural_interrupt"
+    ],
+    [
+      "Incarnate.Alpha Silent.Interrupt Rare",
+      "incarnate.alpha_silent.interrupt_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Interrupt Very Rare",
+      "incarnate.alpha_silent.interrupt_very_rare"
+    ]
+  ],
+  "affects": []
+}

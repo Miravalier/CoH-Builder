@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Focused_Smite_C",
+  "display_name": "Crafted Focused Smite C",
+  "display_fullname": "Boosts.Crafted Focused Smite C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Focused Smite",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_FOCUSED_SMITE_C.POWERSETS",
+  "icon": "crafted_focused_smite_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Focused_Smite_C.Crafted_Focused_Smite_C"
+  ],
+  "power_display_names": [
+    "Focused Smite: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

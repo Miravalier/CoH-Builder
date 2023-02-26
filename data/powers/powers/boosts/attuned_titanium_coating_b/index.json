@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Titanium_Coating_B",
+  "display_name": "Attuned Titanium Coating B",
+  "display_fullname": "Boosts.Attuned Titanium Coating B",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Titanium Coating",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TITANIUM_COATING_B.POWERSETS",
+  "icon": "attuned_titanium_coating_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Titanium_Coating_B.Attuned_Titanium_Coating_B"
+  ],
+  "power_display_names": [
+    "Titanium Coating: Resistance/Recharge"
+  ],
+  "power_short_helps": [
+    "+RES (all), +Rech"
+  ]
+}

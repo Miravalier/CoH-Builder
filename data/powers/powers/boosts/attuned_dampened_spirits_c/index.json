@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Dampened_Spirits_C",
+  "display_name": "Attuned Dampened Spirits C",
+  "display_fullname": "Boosts.Attuned Dampened Spirits C",
+  "display_help": "Enhances the to hit debuff potential of a power by {Boost.Attrib.ToHit.Scale}%, reduces the endurance cost by {Boost.Attrib.Endurance.Scale}% and the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Dampened Spirits",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DAMPENED_SPIRITS_C.POWERSETS",
+  "icon": "attuned_dampened_spirits_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Dampened_Spirits_C.Attuned_Dampened_Spirits_C"
+  ],
+  "power_display_names": [
+    "Dampened Spirits: To Hit Debuff/Recharge/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+To Hit Debuff, +Rech, +End"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Arakhn_RippleAV",
+  "display_name": "Arakhn RippleAV",
+  "display_fullname": "5thColumn.Arakhn RippleAV",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    50
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/ARAKHN_RIPPLEAV.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Arakhn_RippleAV.Twilight_Grasp"
+  ],
+  "power_display_names": [
+    "Twilight Grasp"
+  ],
+  "power_short_helps": [
+    "Ranged (Negative), Foe -To-hit -DMG, Team Heal"
+  ]
+}

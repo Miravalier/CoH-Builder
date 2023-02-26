@@ -1,0 +1,87 @@
+{
+  "name": "PraetorianClockworkResistance_GuardianTurret_Mobile",
+  "gender": "GENDER_MALE",
+  "group_name": "PraetorianClockworkResistance",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Guardian Turrets are mobile turrets that ensure the security of sensitive areas.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "PraetorianClockwork.Guardian_Turret_Ranged.Charged_Shot",
+      "PraetorianClockwork.Guardian_Turret_Ranged.Plasma_Detonation",
+      "PraetorianClockwork.Android_Boss_Regen.Rapid_Repair_Low_Boss",
+      "PraetorianClockwork.Android_Boss_Regen.Rapid_Repair_Mid_Boss",
+      "PraetorianClockwork.Android_Boss_Regen.Rapid_Repair_High_Boss"
+    ],
+    "power_display_names": [
+      "Charged Shot",
+      "Plasma Detonation",
+      "Fast Repair",
+      "Fast Repair",
+      "Fast Repair"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Guardian_Turret_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "PraetorianClockwork",
+        "power_set": "Android_Boss_Regen",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Mobile Guardian Turret"
+      ],
+      "costumes": [
+        "V_Antimatter_TurretA"
+      ]
+    }
+  ]
+}

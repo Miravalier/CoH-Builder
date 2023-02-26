@@ -1,0 +1,30 @@
+{
+  "name": "Cabal_Maven_Lt_Movement",
+  "display_name": "Cabal_Maven_Lt_Movement",
+  "display_fullname": "Cabal.Cabal Maven Lt Movement",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_MAVEN_LT_MOVEMENT.POWERSETS",
+  "icon": "cabal_maven_lt_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Maven_Lt_Movement.Fly",
+    "Cabal.Cabal_Maven_Lt_Movement.Fly_fx",
+    "Cabal.Cabal_Maven_Lt_Movement.Positioning"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx",
+    "Positioning"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special",
+    "Positioning"
+  ]
+}

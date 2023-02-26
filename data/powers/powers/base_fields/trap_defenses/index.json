@@ -1,0 +1,22 @@
+{
+  "name": "Trap_Defenses",
+  "display_name": "Trap_Defenses",
+  "display_fullname": "Base Fields.Trap Defenses",
+  "display_help": "Base Traps",
+  "display_short_help": "Base Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_FIELDS/TRAP_DEFENSES.POWERSETS",
+  "icon": "trap_defenses_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Fields.Trap_Defenses.Defenses"
+  ],
+  "power_display_names": [
+    "Defenses"
+  ],
+  "power_short_helps": [
+    "Defenses"
+  ]
+}

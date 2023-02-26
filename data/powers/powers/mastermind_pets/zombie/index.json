@@ -1,0 +1,26 @@
+{
+  "name": "Zombie",
+  "display_name": "Necro Zombie",
+  "display_fullname": "Mastermind Pets.Necro Zombie",
+  "display_help": "The walking dead may be slow and stupid, but wise heroes know better than to underestimate them. Even when a person survives an encounter with a zombie, he rarely escapes entirely unscathed. He will often find himself waking in the night, shuddering at the memory of a dry and lifeless touch.",
+  "display_short_help": "Zombie",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/ZOMBIE.POWERSETS",
+  "icon": "zombie_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Zombie.Zombie_Brawl",
+    "Mastermind_Pets.Zombie.Super_Leap"
+  ],
+  "power_display_names": [
+    "Zombie Brawl",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "Self Leap"
+  ]
+}

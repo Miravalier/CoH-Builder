@@ -1,0 +1,22 @@
+{
+  "name": "Malta_Ops_Minion",
+  "display_name": "Malta_Ops_Minion",
+  "display_fullname": "Malta.Malta Ops Minion",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MALTA/MALTA_OPS_MINION.POWERSETS",
+  "icon": "malta_ops_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Malta.Malta_Ops_Minion.Web_Grenade"
+  ],
+  "power_display_names": [
+    "Web Grenade"
+  ],
+  "power_short_helps": [
+    "Immobilize, -Recharge, -Fly"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "name": "TimeEchoes_Black_Scorpion",
+  "gender": "GENDER_MALE",
+  "group_name": "TimeEchoes",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Electronic",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_PET",
+    "ai_config": "Signatures_Melee",
+    "character_class_name": "boss_archvillain",
+    "description": "This Time Echo of Black Scorpion stands little chance against your future self.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Rularuu.Reflections.Resistance",
+      "V_Arachnos.AV_Resistances.Resistance",
+      "V_Arachnos.Black_Scorpion.Punch",
+      "V_Arachnos.Black_Scorpion.Haymaker",
+      "V_Arachnos.Black_Scorpion.Hammer_Punch",
+      "V_Arachnos.Black_Scorpion.Foot_Stomp",
+      "V_Arachnos.Black_Scorpion.Arm_Blast",
+      "V_Arachnos.Black_Scorpion.Tail_Blast",
+      "V_Arachnos.Black_Scorpion.Tail_Sting",
+      "V_Arachnos.Black_Scorpion.Tail_Lash",
+      "V_Arachnos.Black_Scorpion.Taunt",
+      "V_Arachnos.Black_Scorpion.Rage",
+      "V_Arachnos.Black_Scorpion.Super_Leap",
+      "V_Arachnos.Black_Scorpion.Resistance"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Resistance",
+      "Punch",
+      "Haymaker",
+      "Hammer Punch",
+      "Foot Stomp",
+      "Arm Blast",
+      "Tail Blast",
+      "Tail Sting",
+      "Tail Lash",
+      "Taunt",
+      "Rage",
+      "Super Leap",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Rularuu",
+        "power_set": "Reflections",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "AV_Resistances",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Black_Scorpion",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Echo of Black Scorpion"
+      ],
+      "costumes": [
+        "Signature_Black_Scorpion"
+      ]
+    }
+  ]
+}

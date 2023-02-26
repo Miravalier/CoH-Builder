@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Run",
+  "display_name": "Technology Run",
+  "display_fullname": "Boosts.Technology Run",
+  "display_help": "Increases the speed of a run power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_RUN.POWERSETS",
+  "icon": "technology_run_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Run.Technology_Run"
+  ],
+  "power_display_names": [
+    "Benedict Tech Cyberhips (Run)"
+  ],
+  "power_short_helps": [
+    "Enhances Running Speed"
+  ]
+}

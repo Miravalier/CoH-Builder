@@ -1,0 +1,750 @@
+{
+  "tag": "Movement",
+  "bears": [
+    [
+      "Boosts.Attuned Blessing of the Zephyr A.Run Speed, Jump, Flight Speed, Range",
+      "boosts.attuned_blessing_of_the_zephyr_a.attuned_blessing_of_the_zephyr_a"
+    ],
+    [
+      "Boosts.Attuned Blessing of the Zephyr B.Run Speed, Jump, Flight Speed, Range/End",
+      "boosts.attuned_blessing_of_the_zephyr_b.attuned_blessing_of_the_zephyr_b"
+    ],
+    [
+      "Boosts.Attuned Celerity B.Run",
+      "boosts.attuned_celerity_b.attuned_celerity_b"
+    ],
+    [
+      "Boosts.Attuned Curtail Speed A.Acc/Slow",
+      "boosts.attuned_curtail_speed_a.attuned_curtail_speed_a"
+    ],
+    [
+      "Boosts.Attuned Curtail Speed B.Dam/Slow",
+      "boosts.attuned_curtail_speed_b.attuned_curtail_speed_b"
+    ],
+    [
+      "Boosts.Attuned Curtail Speed D.Range/Slow",
+      "boosts.attuned_curtail_speed_d.attuned_curtail_speed_d"
+    ],
+    [
+      "Boosts.Attuned Curtail Speed E.End/Rech/Slow",
+      "boosts.attuned_curtail_speed_e.attuned_curtail_speed_e"
+    ],
+    [
+      "Boosts.Attuned Freebird B.Fly",
+      "boosts.attuned_freebird_b.attuned_freebird_b"
+    ],
+    [
+      "Boosts.Attuned Gift of the Ancients F.Def/Increased Run Speed",
+      "boosts.attuned_gift_of_the_ancients_f.attuned_gift_of_the_ancients_f"
+    ],
+    [
+      "Boosts.Attuned Hypersonic A.Flying Speed",
+      "boosts.attuned_hypersonic_a.attuned_hypersonic_a"
+    ],
+    [
+      "Boosts.Attuned Hypersonic B.Flying Speed/End",
+      "boosts.attuned_hypersonic_b.attuned_hypersonic_b"
+    ],
+    [
+      "Boosts.Attuned Hypersonic D.Flying Speed/Increased Fly Protection",
+      "boosts.attuned_hypersonic_d.attuned_hypersonic_d"
+    ],
+    [
+      "Boosts.Attuned Ice Mistrals Torment A.Slow/End",
+      "boosts.attuned_ice_mistrals_torment_a.attuned_ice_mistrals_torment_a"
+    ],
+    [
+      "Boosts.Attuned Ice Mistrals Torment C.Dam/Slow",
+      "boosts.attuned_ice_mistrals_torment_c.attuned_ice_mistrals_torment_c"
+    ],
+    [
+      "Boosts.Attuned Impeded Swiftness A.Acc/Slow",
+      "boosts.attuned_impeded_swiftness_a.attuned_impeded_swiftness_a"
+    ],
+    [
+      "Boosts.Attuned Impeded Swiftness B.Dam/Slow",
+      "boosts.attuned_impeded_swiftness_b.attuned_impeded_swiftness_b"
+    ],
+    [
+      "Boosts.Attuned Impeded Swiftness D.Range/Slow",
+      "boosts.attuned_impeded_swiftness_d.attuned_impeded_swiftness_d"
+    ],
+    [
+      "Boosts.Attuned Impeded Swiftness E.End/Rech/Slow",
+      "boosts.attuned_impeded_swiftness_e.attuned_impeded_swiftness_e"
+    ],
+    [
+      "Boosts.Attuned Launch A.Jumping Speed",
+      "boosts.attuned_launch_a.attuned_launch_a"
+    ],
+    [
+      "Boosts.Attuned Launch B.Jumping Speed/End",
+      "boosts.attuned_launch_b.attuned_launch_b"
+    ],
+    [
+      "Boosts.Attuned Launch D.Jumping Speed/Increased Jump Height",
+      "boosts.attuned_launch_d.attuned_launch_d"
+    ],
+    [
+      "Boosts.Attuned Pacing of the Turtle A.Acc/Slow",
+      "boosts.attuned_pacing_of_the_turtle_a.attuned_pacing_of_the_turtle_a"
+    ],
+    [
+      "Boosts.Attuned Pacing of the Turtle B.Dam/Slow",
+      "boosts.attuned_pacing_of_the_turtle_b.attuned_pacing_of_the_turtle_b"
+    ],
+    [
+      "Boosts.Attuned Pacing of the Turtle D.Range/Slow",
+      "boosts.attuned_pacing_of_the_turtle_d.attuned_pacing_of_the_turtle_d"
+    ],
+    [
+      "Boosts.Attuned Pacing of the Turtle E.End/Rech/Slow",
+      "boosts.attuned_pacing_of_the_turtle_e.attuned_pacing_of_the_turtle_e"
+    ],
+    [
+      "Boosts.Attuned Quickfoot A.Run",
+      "boosts.attuned_quickfoot_a.attuned_quickfoot_a"
+    ],
+    [
+      "Boosts.Attuned Quickfoot C.End/Run",
+      "boosts.attuned_quickfoot_c.attuned_quickfoot_c"
+    ],
+    [
+      "Boosts.Attuned Soaring A.Fly",
+      "boosts.attuned_soaring_a.attuned_soaring_a"
+    ],
+    [
+      "Boosts.Attuned Soaring C.End/Fly",
+      "boosts.attuned_soaring_c.attuned_soaring_c"
+    ],
+    [
+      "Boosts.Attuned Springfoot A.Jump",
+      "boosts.attuned_springfoot_a.attuned_springfoot_a"
+    ],
+    [
+      "Boosts.Attuned Springfoot C.End/Jump",
+      "boosts.attuned_springfoot_c.attuned_springfoot_c"
+    ],
+    [
+      "Boosts.Attuned Synapses Shock F.Endurance Modification/Increased Run Speed",
+      "boosts.attuned_synapses_shock_f.attuned_synapses_shock_f"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness A.Acc/Slow",
+      "boosts.attuned_tempered_readiness_a.attuned_tempered_readiness_a"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness B.Dam/Slow",
+      "boosts.attuned_tempered_readiness_b.attuned_tempered_readiness_b"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness D.Range/Slow",
+      "boosts.attuned_tempered_readiness_d.attuned_tempered_readiness_d"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness E.End/Rech/Slow",
+      "boosts.attuned_tempered_readiness_e.attuned_tempered_readiness_e"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness F.Acc/Dam/Slow",
+      "boosts.attuned_tempered_readiness_f.attuned_tempered_readiness_f"
+    ],
+    [
+      "Boosts.Attuned Thrust A.Running Speed",
+      "boosts.attuned_thrust_a.attuned_thrust_a"
+    ],
+    [
+      "Boosts.Attuned Thrust B.Running Speed/End",
+      "boosts.attuned_thrust_b.attuned_thrust_b"
+    ],
+    [
+      "Boosts.Attuned Thrust D.Running Speed/Increased Run Speed",
+      "boosts.attuned_thrust_d.attuned_thrust_d"
+    ],
+    [
+      "Boosts.Attuned Unbounded Leap B.Jump",
+      "boosts.attuned_unbounded_leap_b.attuned_unbounded_leap_b"
+    ],
+    [
+      "Boosts.Attuned Winters Gift A.Run Speed, Jump, Flight Speed, Range",
+      "boosts.attuned_winters_gift_a.attuned_winters_gift_a"
+    ],
+    [
+      "Boosts.Attuned Winters Gift B.Run Speed, Jump, Flight Speed, Range/End",
+      "boosts.attuned_winters_gift_b.attuned_winters_gift_b"
+    ],
+    [
+      "Boosts.Crafted Blessing of the Zephyr A.Run Speed, Jump, Flight Speed, Range",
+      "boosts.crafted_blessing_of_the_zephyr_a.crafted_blessing_of_the_zephyr_a"
+    ],
+    [
+      "Boosts.Crafted Blessing of the Zephyr B.Run Speed, Jump, Flight Speed, Range/End",
+      "boosts.crafted_blessing_of_the_zephyr_b.crafted_blessing_of_the_zephyr_b"
+    ],
+    [
+      "Boosts.Crafted Celerity B.Run",
+      "boosts.crafted_celerity_b.crafted_celerity_b"
+    ],
+    [
+      "Boosts.Crafted Curtail Speed A.Acc/Slow",
+      "boosts.crafted_curtail_speed_a.crafted_curtail_speed_a"
+    ],
+    [
+      "Boosts.Crafted Curtail Speed B.Dam/Slow",
+      "boosts.crafted_curtail_speed_b.crafted_curtail_speed_b"
+    ],
+    [
+      "Boosts.Crafted Curtail Speed D.Range/Slow",
+      "boosts.crafted_curtail_speed_d.crafted_curtail_speed_d"
+    ],
+    [
+      "Boosts.Crafted Curtail Speed E.End/Rech/Slow",
+      "boosts.crafted_curtail_speed_e.crafted_curtail_speed_e"
+    ],
+    [
+      "Boosts.Crafted Fly 10.Flight Speed",
+      "boosts.crafted_fly_10.crafted_fly_10"
+    ],
+    [
+      "Boosts.Crafted Fly 15.Flight Speed",
+      "boosts.crafted_fly_15.crafted_fly_15"
+    ],
+    [
+      "Boosts.Crafted Fly 20.Flight Speed",
+      "boosts.crafted_fly_20.crafted_fly_20"
+    ],
+    [
+      "Boosts.Crafted Fly 25.Flight Speed",
+      "boosts.crafted_fly_25.crafted_fly_25"
+    ],
+    [
+      "Boosts.Crafted Fly 30.Flight Speed",
+      "boosts.crafted_fly_30.crafted_fly_30"
+    ],
+    [
+      "Boosts.Crafted Fly 35.Flight Speed",
+      "boosts.crafted_fly_35.crafted_fly_35"
+    ],
+    [
+      "Boosts.Crafted Fly 40.Flight Speed",
+      "boosts.crafted_fly_40.crafted_fly_40"
+    ],
+    [
+      "Boosts.Crafted Fly 45.Flight Speed",
+      "boosts.crafted_fly_45.crafted_fly_45"
+    ],
+    [
+      "Boosts.Crafted Fly 50.Flight Speed",
+      "boosts.crafted_fly_50.crafted_fly_50"
+    ],
+    [
+      "Boosts.Crafted Fly.Flight Speed",
+      "boosts.crafted_fly.crafted_fly"
+    ],
+    [
+      "Boosts.Crafted Freebird B.Fly",
+      "boosts.crafted_freebird_b.crafted_freebird_b"
+    ],
+    [
+      "Boosts.Crafted Gift of the Ancients F.Def/Increased Run Speed",
+      "boosts.crafted_gift_of_the_ancients_f.crafted_gift_of_the_ancients_f"
+    ],
+    [
+      "Boosts.Crafted Hypersonic A.Flying Speed",
+      "boosts.crafted_hypersonic_a.crafted_hypersonic_a"
+    ],
+    [
+      "Boosts.Crafted Hypersonic B.Flying Speed/End",
+      "boosts.crafted_hypersonic_b.crafted_hypersonic_b"
+    ],
+    [
+      "Boosts.Crafted Hypersonic D.Flying Speed/Increased Fly Protection",
+      "boosts.crafted_hypersonic_d.crafted_hypersonic_d"
+    ],
+    [
+      "Boosts.Crafted Ice Mistrals Torment A.Slow/End",
+      "boosts.crafted_ice_mistrals_torment_a.crafted_ice_mistrals_torment_a"
+    ],
+    [
+      "Boosts.Crafted Ice Mistrals Torment C.Dam/Slow",
+      "boosts.crafted_ice_mistrals_torment_c.crafted_ice_mistrals_torment_c"
+    ],
+    [
+      "Boosts.Crafted Impeded Swiftness A.Acc/Slow",
+      "boosts.crafted_impeded_swiftness_a.crafted_impeded_swiftness_a"
+    ],
+    [
+      "Boosts.Crafted Impeded Swiftness B.Dam/Slow",
+      "boosts.crafted_impeded_swiftness_b.crafted_impeded_swiftness_b"
+    ],
+    [
+      "Boosts.Crafted Impeded Swiftness D.Range/Slow",
+      "boosts.crafted_impeded_swiftness_d.crafted_impeded_swiftness_d"
+    ],
+    [
+      "Boosts.Crafted Impeded Swiftness E.End/Rech/Slow",
+      "boosts.crafted_impeded_swiftness_e.crafted_impeded_swiftness_e"
+    ],
+    [
+      "Boosts.Crafted Jump 10.Jumping",
+      "boosts.crafted_jump_10.crafted_jump_10"
+    ],
+    [
+      "Boosts.Crafted Jump 15.Jumping",
+      "boosts.crafted_jump_15.crafted_jump_15"
+    ],
+    [
+      "Boosts.Crafted Jump 20.Jumping",
+      "boosts.crafted_jump_20.crafted_jump_20"
+    ],
+    [
+      "Boosts.Crafted Jump 25.Jumping",
+      "boosts.crafted_jump_25.crafted_jump_25"
+    ],
+    [
+      "Boosts.Crafted Jump 30.Jumping",
+      "boosts.crafted_jump_30.crafted_jump_30"
+    ],
+    [
+      "Boosts.Crafted Jump 35.Jumping",
+      "boosts.crafted_jump_35.crafted_jump_35"
+    ],
+    [
+      "Boosts.Crafted Jump 40.Jumping",
+      "boosts.crafted_jump_40.crafted_jump_40"
+    ],
+    [
+      "Boosts.Crafted Jump 45.Jumping",
+      "boosts.crafted_jump_45.crafted_jump_45"
+    ],
+    [
+      "Boosts.Crafted Jump 50.Jumping",
+      "boosts.crafted_jump_50.crafted_jump_50"
+    ],
+    [
+      "Boosts.Crafted Jump.Jumping",
+      "boosts.crafted_jump.crafted_jump"
+    ],
+    [
+      "Boosts.Crafted Launch A.Jumping Speed",
+      "boosts.crafted_launch_a.crafted_launch_a"
+    ],
+    [
+      "Boosts.Crafted Launch B.Jumping Speed/End",
+      "boosts.crafted_launch_b.crafted_launch_b"
+    ],
+    [
+      "Boosts.Crafted Launch D.Jumping Speed/Increased Jump Height",
+      "boosts.crafted_launch_d.crafted_launch_d"
+    ],
+    [
+      "Boosts.Crafted Pacing of the Turtle A.Acc/Slow",
+      "boosts.crafted_pacing_of_the_turtle_a.crafted_pacing_of_the_turtle_a"
+    ],
+    [
+      "Boosts.Crafted Pacing of the Turtle B.Dam/Slow",
+      "boosts.crafted_pacing_of_the_turtle_b.crafted_pacing_of_the_turtle_b"
+    ],
+    [
+      "Boosts.Crafted Pacing of the Turtle D.Range/Slow",
+      "boosts.crafted_pacing_of_the_turtle_d.crafted_pacing_of_the_turtle_d"
+    ],
+    [
+      "Boosts.Crafted Pacing of the Turtle E.End/Rech/Slow",
+      "boosts.crafted_pacing_of_the_turtle_e.crafted_pacing_of_the_turtle_e"
+    ],
+    [
+      "Boosts.Crafted Quickfoot A.Run",
+      "boosts.crafted_quickfoot_a.crafted_quickfoot_a"
+    ],
+    [
+      "Boosts.Crafted Quickfoot C.End/Run",
+      "boosts.crafted_quickfoot_c.crafted_quickfoot_c"
+    ],
+    [
+      "Boosts.Crafted Run 10.Run Speed Increase",
+      "boosts.crafted_run_10.crafted_run_10"
+    ],
+    [
+      "Boosts.Crafted Run 15.Run Speed Increase",
+      "boosts.crafted_run_15.crafted_run_15"
+    ],
+    [
+      "Boosts.Crafted Run 20.Run Speed Increase",
+      "boosts.crafted_run_20.crafted_run_20"
+    ],
+    [
+      "Boosts.Crafted Run 25.Run Speed Increase",
+      "boosts.crafted_run_25.crafted_run_25"
+    ],
+    [
+      "Boosts.Crafted Run 30.Run Speed Increase",
+      "boosts.crafted_run_30.crafted_run_30"
+    ],
+    [
+      "Boosts.Crafted Run 35.Run Speed Increase",
+      "boosts.crafted_run_35.crafted_run_35"
+    ],
+    [
+      "Boosts.Crafted Run 40.Run Speed Increase",
+      "boosts.crafted_run_40.crafted_run_40"
+    ],
+    [
+      "Boosts.Crafted Run 45.Run Speed Increase",
+      "boosts.crafted_run_45.crafted_run_45"
+    ],
+    [
+      "Boosts.Crafted Run 50.Run Speed Increase",
+      "boosts.crafted_run_50.crafted_run_50"
+    ],
+    [
+      "Boosts.Crafted Run.Run Speed Increase",
+      "boosts.crafted_run.crafted_run"
+    ],
+    [
+      "Boosts.Crafted Snare 10.Slow",
+      "boosts.crafted_snare_10.crafted_snare_10"
+    ],
+    [
+      "Boosts.Crafted Snare 15.Slow",
+      "boosts.crafted_snare_15.crafted_snare_15"
+    ],
+    [
+      "Boosts.Crafted Snare 20.Slow",
+      "boosts.crafted_snare_20.crafted_snare_20"
+    ],
+    [
+      "Boosts.Crafted Snare 25.Slow",
+      "boosts.crafted_snare_25.crafted_snare_25"
+    ],
+    [
+      "Boosts.Crafted Snare 30.Slow",
+      "boosts.crafted_snare_30.crafted_snare_30"
+    ],
+    [
+      "Boosts.Crafted Snare 35.Slow",
+      "boosts.crafted_snare_35.crafted_snare_35"
+    ],
+    [
+      "Boosts.Crafted Snare 40.Slow",
+      "boosts.crafted_snare_40.crafted_snare_40"
+    ],
+    [
+      "Boosts.Crafted Snare 45.Slow",
+      "boosts.crafted_snare_45.crafted_snare_45"
+    ],
+    [
+      "Boosts.Crafted Snare 50.Slow",
+      "boosts.crafted_snare_50.crafted_snare_50"
+    ],
+    [
+      "Boosts.Crafted Snare.Slow",
+      "boosts.crafted_snare.crafted_snare"
+    ],
+    [
+      "Boosts.Crafted Soaring A.Fly",
+      "boosts.crafted_soaring_a.crafted_soaring_a"
+    ],
+    [
+      "Boosts.Crafted Soaring C.End/Fly",
+      "boosts.crafted_soaring_c.crafted_soaring_c"
+    ],
+    [
+      "Boosts.Crafted Springfoot A.Jump",
+      "boosts.crafted_springfoot_a.crafted_springfoot_a"
+    ],
+    [
+      "Boosts.Crafted Springfoot C.End/Jump",
+      "boosts.crafted_springfoot_c.crafted_springfoot_c"
+    ],
+    [
+      "Boosts.Crafted Synapses Shock F.Endurance Modification/Increased Run Speed",
+      "boosts.crafted_synapses_shock_f.crafted_synapses_shock_f"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness A.Acc/Slow",
+      "boosts.crafted_tempered_readiness_a.crafted_tempered_readiness_a"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness B.Dam/Slow",
+      "boosts.crafted_tempered_readiness_b.crafted_tempered_readiness_b"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness D.Range/Slow",
+      "boosts.crafted_tempered_readiness_d.crafted_tempered_readiness_d"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness E.End/Rech/Slow",
+      "boosts.crafted_tempered_readiness_e.crafted_tempered_readiness_e"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness F.Acc/Dam/Slow",
+      "boosts.crafted_tempered_readiness_f.crafted_tempered_readiness_f"
+    ],
+    [
+      "Boosts.Crafted Thrust A.Running Speed",
+      "boosts.crafted_thrust_a.crafted_thrust_a"
+    ],
+    [
+      "Boosts.Crafted Thrust B.Running Speed/End",
+      "boosts.crafted_thrust_b.crafted_thrust_b"
+    ],
+    [
+      "Boosts.Crafted Thrust D.Running Speed/Increased Run Speed",
+      "boosts.crafted_thrust_d.crafted_thrust_d"
+    ],
+    [
+      "Boosts.Crafted Unbounded Leap B.Jump",
+      "boosts.crafted_unbounded_leap_b.crafted_unbounded_leap_b"
+    ],
+    [
+      "Boosts.Crafted Winters Gift A.Run Speed, Jump, Flight Speed, Range",
+      "boosts.crafted_winters_gift_a.crafted_winters_gift_a"
+    ],
+    [
+      "Boosts.Crafted Winters Gift B.Run Speed, Jump, Flight Speed, Range/End",
+      "boosts.crafted_winters_gift_b.crafted_winters_gift_b"
+    ],
+    [
+      "Boosts.DSync Slow Recharge Endurance Discount.D-Sync Deceleration (Slow/Rech/End)",
+      "boosts.dsync_slow_recharge_endurance_discount.dsync_slow_recharge_endurance_discount"
+    ],
+    [
+      "Boosts.DSync Travel Endurance Discount.D-Sync Acceleration (End/Fly/Jump/Run)",
+      "boosts.dsync_travel_endurance_discount.dsync_travel_endurance_discount"
+    ],
+    [
+      "Boosts.Generic Fly.Flight Speed",
+      "boosts.generic_fly.generic_fly"
+    ],
+    [
+      "Boosts.Generic Jump.Jumping",
+      "boosts.generic_jump.generic_jump"
+    ],
+    [
+      "Boosts.Generic Run.Run Speed Increase",
+      "boosts.generic_run.generic_run"
+    ],
+    [
+      "Boosts.Generic Snare.Slow",
+      "boosts.generic_snare.generic_snare"
+    ],
+    [
+      "Boosts.Hamidon Travel Endurance Discount.Microfilament Exposure (End/Fly/Jump/Run)",
+      "boosts.hamidon_travel_endurance_discount.hamidon_travel_endurance_discount"
+    ],
+    [
+      "Boosts.Hydra Travel Endurance Discount.Theta Exposure (End/Fly/Jump/Run)",
+      "boosts.hydra_travel_endurance_discount.hydra_travel_endurance_discount"
+    ],
+    [
+      "Boosts.Magic Fly.Swiftness of Joule (Fly)",
+      "boosts.magic_fly.magic_fly"
+    ],
+    [
+      "Boosts.Magic Jump.Hurdle of Grey (Jump)",
+      "boosts.magic_jump.magic_jump"
+    ],
+    [
+      "Boosts.Magic Run.Stride of Grey (Run)",
+      "boosts.magic_run.magic_run"
+    ],
+    [
+      "Boosts.Magic Snare.Pacification of Hermes (Slow)",
+      "boosts.magic_snare.magic_snare"
+    ],
+    [
+      "Boosts.Mutation Fly.Amplified Flying (Fly)",
+      "boosts.mutation_fly.mutation_fly"
+    ],
+    [
+      "Boosts.Mutation Jump.Improved Jump (Jump)",
+      "boosts.mutation_jump.mutation_jump"
+    ],
+    [
+      "Boosts.Mutation Magic Fly.Boots (Fly)",
+      "boosts.mutation_magic_fly.mutation_magic_fly"
+    ],
+    [
+      "Boosts.Mutation Magic Jump.Belt (Jump)",
+      "boosts.mutation_magic_jump.mutation_magic_jump"
+    ],
+    [
+      "Boosts.Mutation Magic Run.Greaves (Run)",
+      "boosts.mutation_magic_run.mutation_magic_run"
+    ],
+    [
+      "Boosts.Mutation Magic Snare.Breastplate (Slow)",
+      "boosts.mutation_magic_snare.mutation_magic_snare"
+    ],
+    [
+      "Boosts.Mutation Run.Amplified Running (Run)",
+      "boosts.mutation_run.mutation_run"
+    ],
+    [
+      "Boosts.Mutation Science Fly.Genome Alteration Flight Boost (Fly)",
+      "boosts.mutation_science_fly.mutation_science_fly"
+    ],
+    [
+      "Boosts.Mutation Science Jump.Molecular Bonding Jump Boost (Jump)",
+      "boosts.mutation_science_jump.mutation_science_jump"
+    ],
+    [
+      "Boosts.Mutation Science Run.Molecular Bonding Run Boost (Run)",
+      "boosts.mutation_science_run.mutation_science_run"
+    ],
+    [
+      "Boosts.Mutation Science Snare.Molecular Bonding Deadliness Drain (Slow)",
+      "boosts.mutation_science_snare.mutation_science_snare"
+    ],
+    [
+      "Boosts.Mutation Snare.Movement Degradation (Slow)",
+      "boosts.mutation_snare.mutation_snare"
+    ],
+    [
+      "Boosts.Natural Fly.Dragon Flight (Fly)",
+      "boosts.natural_fly.natural_fly"
+    ],
+    [
+      "Boosts.Natural Jump.Dragon Leap (Jump)",
+      "boosts.natural_jump.natural_jump"
+    ],
+    [
+      "Boosts.Natural Magic Fly.Li Tieh Kuai's Gem (Fly)",
+      "boosts.natural_magic_fly.natural_magic_fly"
+    ],
+    [
+      "Boosts.Natural Magic Jump.Nectanebo's Phylactery (Jump)",
+      "boosts.natural_magic_jump.natural_magic_jump"
+    ],
+    [
+      "Boosts.Natural Magic Run.Li Tieh Kuai's Goblet (Run)",
+      "boosts.natural_magic_run.natural_magic_run"
+    ],
+    [
+      "Boosts.Natural Magic Snare.Crowley's Bracelet (Slow)",
+      "boosts.natural_magic_snare.natural_magic_snare"
+    ],
+    [
+      "Boosts.Natural Run.Military Sprint (Run)",
+      "boosts.natural_run.natural_run"
+    ],
+    [
+      "Boosts.Natural Snare.Back Alley Crippling Blow (Slow)",
+      "boosts.natural_snare.natural_snare"
+    ],
+    [
+      "Boosts.Science Fly.Ionic Bombardment (Fly)",
+      "boosts.science_fly.science_fly"
+    ],
+    [
+      "Boosts.Science Jump.Butadiene Exposure (Jump)",
+      "boosts.science_jump.science_jump"
+    ],
+    [
+      "Boosts.Science Run.Electromagnetic Wave Bombardment (Run)",
+      "boosts.science_run.science_run"
+    ],
+    [
+      "Boosts.Science Snare.Hydrogen Exposure (Slow)",
+      "boosts.science_snare.science_snare"
+    ],
+    [
+      "Boosts.Science Technology Fly.Micro Adaptive Flow Control (Fly)",
+      "boosts.science_technology_fly.science_technology_fly"
+    ],
+    [
+      "Boosts.Science Technology Jump.Centripetal Augmenter (Jump)",
+      "boosts.science_technology_jump.science_technology_jump"
+    ],
+    [
+      "Boosts.Science Technology Run.Transmatrix Bipedal Amplifier (Run)",
+      "boosts.science_technology_run.science_technology_run"
+    ],
+    [
+      "Boosts.Science Technology Snare.Muscular Atrophier (Slow)",
+      "boosts.science_technology_snare.science_technology_snare"
+    ],
+    [
+      "Boosts.Synthetic Hamidon Travel Endurance Discount.Synthetic Microfilament Exposure (End/Fly/Jump/Run)",
+      "boosts.synthetic_hamidon_travel_endurance_discount.synthetic_hamidon_travel_endurance_discount"
+    ],
+    [
+      "Boosts.Technology Fly.WetWare Eng Auxiliary Boosters (Fly)",
+      "boosts.technology_fly.technology_fly"
+    ],
+    [
+      "Boosts.Technology Jump.Benedict Tech Cyberlegs (Jump)",
+      "boosts.technology_jump.technology_jump"
+    ],
+    [
+      "Boosts.Technology Natural Fly.Ascendance Device (Fly)",
+      "boosts.technology_natural_fly.technology_natural_fly"
+    ],
+    [
+      "Boosts.Technology Natural Jump.Hydraulic Device (Jump)",
+      "boosts.technology_natural_jump.technology_natural_jump"
+    ],
+    [
+      "Boosts.Technology Natural Run.Acceleration Device (Run)",
+      "boosts.technology_natural_run.technology_natural_run"
+    ],
+    [
+      "Boosts.Technology Natural Snare.Nullifier Device (Slow)",
+      "boosts.technology_natural_snare.technology_natural_snare"
+    ],
+    [
+      "Boosts.Technology Run.Benedict Tech Cyberhips (Run)",
+      "boosts.technology_run.technology_run"
+    ],
+    [
+      "Boosts.Technology Snare.Portacio Ind Nanodegenerators (Slow)",
+      "boosts.technology_snare.technology_snare"
+    ],
+    [
+      "Boosts.Titan Travel Endurance Discount.Titan Selenite Shard (End/Fly/Jump/Run)",
+      "boosts.titan_travel_endurance_discount.titan_travel_endurance_discount"
+    ],
+    [
+      "Incarnate.Alpha Silent.Fly Rare",
+      "incarnate.alpha_silent.fly_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Fly Very Rare",
+      "incarnate.alpha_silent.fly_very_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Jump Rare",
+      "incarnate.alpha_silent.jump_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Jump Very Rare",
+      "incarnate.alpha_silent.jump_very_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Run Rare",
+      "incarnate.alpha_silent.run_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Run Very Rare",
+      "incarnate.alpha_silent.run_very_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Snare Rare",
+      "incarnate.alpha_silent.snare_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Snare Very Rare",
+      "incarnate.alpha_silent.snare_very_rare"
+    ],
+    [
+      "Set Bonus.Set Bonus.Gift of the Ancients: Run Speed",
+      "set_bonus.set_bonus.gift_of_the_ancients"
+    ],
+    [
+      "Set Bonus.Set Bonus.Synapse's Shock: Run Speed",
+      "set_bonus.set_bonus.synapses_shock"
+    ]
+  ],
+  "affects": []
+}

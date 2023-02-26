@@ -1,0 +1,38 @@
+{
+  "name": "Stone_Mastery",
+  "display_name": "Stone Mastery",
+  "display_fullname": "Epic.Stone Mastery",
+  "display_help": "You have Mastery over Earth and Stone to attack your foes and to add some much needed armor and defense.",
+  "display_short_help": "Stone Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/STONE_MASTERY.POWERSETS",
+  "icon": "stone_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Stone_Mastery.Hurl_Boulder",
+    "Epic.Stone_Mastery.Fissure",
+    "Epic.Stone_Mastery.Stone_Armor",
+    "Epic.Stone_Mastery.Seismic_Smash",
+    "Epic.Stone_Mastery.Earths_Embrace"
+  ],
+  "power_display_names": [
+    "Hurl Boulder",
+    "Fissure",
+    "Rock Armor",
+    "Seismic Smash",
+    "Earth's Embrace"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Smash), Foe Knockback",
+    "Close (Targeted AoE), Light DMG(Lethal/Smash), Foe Knockback, Disorient",
+    "Toggle: Self +DEF(Lethal, Smashing)",
+    "Melee, Superior DMG(Smash), Foe Hold",
+    "Self +HP"
+  ]
+}

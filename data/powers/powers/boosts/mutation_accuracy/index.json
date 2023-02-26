@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Accuracy",
+  "display_name": "Mutation Accuracy",
+  "display_fullname": "Boosts.Mutation Accuracy",
+  "display_help": "Increases the accuracy of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_ACCURACY.POWERSETS",
+  "icon": "mutation_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Accuracy.Mutation_Accuracy"
+  ],
+  "power_display_names": [
+    "Awakening: Improved Accuracy (Accuracy)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy"
+  ]
+}

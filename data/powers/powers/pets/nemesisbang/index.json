@@ -1,0 +1,22 @@
+{
+  "name": "NemesisBang",
+  "display_name": "Nemesis",
+  "display_fullname": "Pets.Nemesis",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/NEMESISBANG.POWERSETS",
+  "icon": "nemesisbang_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.NemesisBang.Explode"
+  ],
+  "power_display_names": [
+    "Explode"
+  ],
+  "power_short_helps": [
+    "Explode"
+  ]
+}

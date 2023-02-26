@@ -1,0 +1,38 @@
+{
+  "name": "NictusOrb_3",
+  "display_name": "NictusOrb_3",
+  "display_fullname": "Romans.NictusOrb 3",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/NICTUSORB_3.POWERSETS",
+  "icon": "nictusorb_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.NictusOrb_3.Chill_of_the_Night",
+    "Romans.NictusOrb_3.Sunless_Mire",
+    "Romans.NictusOrb_3.Resistance",
+    "Romans.NictusOrb_3.Fly",
+    "Romans.NictusOrb_3.Chill_of_the_Night_Romulus"
+  ],
+  "power_display_names": [
+    "Chill of the Night",
+    "Sunless Mire",
+    "Resistance",
+    "Fly",
+    "Chill of the Night"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "PBAoE, Moderate DMG(Negative), Foe -Recharge, -SPD; Self +DMG, +To Hit",
+    "Resistance",
+    "Self Travel",
+    "-ACC"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "RedCap_Melee1",
+  "display_name": "RedCap_Melee1",
+  "display_fullname": "RedCaps.RedCap Melee1",
+  "display_help": "RedCaps",
+  "display_short_help": "RedCaps",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/REDCAP_MELEE1.POWERSETS",
+  "icon": "redcap_melee1_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.RedCap_Melee1.Stab",
+    "RedCaps.RedCap_Melee1.Jump_Stab"
+  ],
+  "power_display_names": [
+    "Stab",
+    "Jump Stab"
+  ],
+  "power_short_helps": [
+    "Melee Lethal",
+    "Melee Lethal Dam"
+  ]
+}

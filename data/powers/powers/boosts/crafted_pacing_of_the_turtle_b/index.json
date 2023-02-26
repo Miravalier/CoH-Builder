@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Pacing_of_the_Turtle_B",
+  "display_name": "Crafted Pacing of the Turtle B",
+  "display_fullname": "Boosts.Crafted Pacing of the Turtle B",
+  "display_help": "Enhances the damage by {Boost.Attrib.Damage.Scale}% and slowing ability of a power by {Boost.Attrib.Movement.Scale}%.",
+  "display_short_help": "Set: Pacing of the Turtle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_PACING_OF_THE_TURTLE_B.POWERSETS",
+  "icon": "crafted_pacing_of_the_turtle_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Pacing_of_the_Turtle_B.Crafted_Pacing_of_the_Turtle_B"
+  ],
+  "power_display_names": [
+    "Pacing of the Turtle: Damage/Slow"
+  ],
+  "power_short_helps": [
+    "+DMG, +Slow"
+  ]
+}

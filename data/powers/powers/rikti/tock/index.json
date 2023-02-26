@@ -1,0 +1,22 @@
+{
+  "name": "Tock",
+  "display_name": "Tock",
+  "display_fullname": "Rikti.Tock",
+  "display_help": "Tock",
+  "display_short_help": "Tock",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/TOCK.POWERSETS",
+  "icon": "tock_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Tock.Tick_Tick_Tick"
+  ],
+  "power_display_names": [
+    "Tick Tick Tick"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

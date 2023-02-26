@@ -1,0 +1,22 @@
+{
+  "name": "Night_Widow_High",
+  "display_name": "Night_Widow_High",
+  "display_fullname": "V Arachnos.Night Widow High",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/NIGHT_WIDOW_HIGH.POWERSETS",
+  "icon": "night_widow_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Night_Widow_High.Eviscerate"
+  ],
+  "power_display_names": [
+    "Eviscerate"
+  ],
+  "power_short_helps": [
+    "Toxic DoT, Slow"
+  ]
+}

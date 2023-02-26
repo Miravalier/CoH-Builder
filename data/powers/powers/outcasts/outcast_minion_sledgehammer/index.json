@@ -1,0 +1,22 @@
+{
+  "name": "Outcast_Minion_Sledgehammer",
+  "display_name": "Outcast_Minion_Sledgehammer",
+  "display_fullname": "Outcasts.Outcast Minion Sledgehammer",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_MINION_SLEDGEHAMMER.POWERSETS",
+  "icon": "outcast_minion_sledgehammer_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Minion_Sledgehammer.Sledgehammer"
+  ],
+  "power_display_names": [
+    "Sledgehammer"
+  ],
+  "power_short_helps": [
+    "Melee Smash, High Dam, Knockback"
+  ]
+}

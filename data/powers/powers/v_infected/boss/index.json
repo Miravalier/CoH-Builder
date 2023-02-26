@@ -1,0 +1,34 @@
+{
+  "name": "Boss",
+  "display_name": "Boss",
+  "display_fullname": "V Infected.Boss",
+  "display_help": "Infected",
+  "display_short_help": "Infected",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_INFECTED/BOSS.POWERSETS",
+  "icon": "boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Infected.Boss.Contaminated_Strike",
+    "V_Infected.Boss.Neutrino_Bolt",
+    "V_Infected.Boss.X-Ray_Beam",
+    "V_Infected.Boss.Electron_Haze"
+  ],
+  "power_display_names": [
+    "Contaminated Strike",
+    "Neutrino Bolt",
+    "X-Ray Beam",
+    "Electron Haze"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal/Energy), Foe -DEF, Knockback",
+    "Ranged, Minor DMG(Energy), Foe -DEF",
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Close, Moderate DMG(Energy), Foe -DEF, Knockback"
+  ]
+}

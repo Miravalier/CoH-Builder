@@ -1,0 +1,30 @@
+{
+  "name": "Rikti_Mesmerist_Ranged",
+  "display_name": "Rikti_Mesmerist_Ranged",
+  "display_fullname": "Rikti.Rikti Mesmerist Ranged",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_MESMERIST_RANGED.POWERSETS",
+  "icon": "rikti_mesmerist_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Mesmerist_Ranged.Mental_Blast",
+    "Rikti.Rikti_Mesmerist_Ranged.Mass_Hypnosis",
+    "Rikti.Rikti_Mesmerist_Ranged.Total_Domination"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Mass Hypnosis",
+    "Total Domination"
+  ],
+  "power_short_helps": [
+    "-Recharge",
+    "Sleep",
+    "Hold"
+  ]
+}

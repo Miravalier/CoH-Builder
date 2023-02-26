@@ -1,0 +1,26 @@
+{
+  "name": "Cirle_Thorn_Caster_Fire_Ranged",
+  "display_name": "Cirle_Thorn_Caster_Fire_Ranged",
+  "display_fullname": "CircleOfThorns.Cirle Thorn Caster Fire Ranged",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRLE_THORN_CASTER_FIRE_RANGED.POWERSETS",
+  "icon": "cirle_thorn_caster_fire_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Cirle_Thorn_Caster_Fire_Ranged.Flares",
+    "CircleOfThorns.Cirle_Thorn_Caster_Fire_Ranged.Fire_Ball"
+  ],
+  "power_display_names": [
+    "Flares",
+    "Fire Ball"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

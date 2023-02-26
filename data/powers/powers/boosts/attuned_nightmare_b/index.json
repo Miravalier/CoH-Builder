@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Nightmare_B",
+  "display_name": "Attuned Nightmare B",
+  "display_fullname": "Boosts.Attuned Nightmare B",
+  "display_help": "Enhances the fear duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Nightmare",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NIGHTMARE_B.POWERSETS",
+  "icon": "attuned_nightmare_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Nightmare_B.Attuned_Nightmare_B"
+  ],
+  "power_display_names": [
+    "Nightmare: Endurance/Fear"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Fear"
+  ]
+}

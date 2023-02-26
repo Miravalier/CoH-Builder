@@ -1,0 +1,34 @@
+{
+  "name": "Axis_America_MartialArts",
+  "display_name": "Fifth_Column_Soldier_MartialArts",
+  "display_fullname": "Portal.Fifth Column Soldier MartialArts",
+  "display_help": "Axis America",
+  "display_short_help": "Axis America",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/AXIS_AMERICA_MARTIALARTS.POWERSETS",
+  "icon": "axis_america_martialarts_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Axis_America_MartialArts.Thunder_Kick",
+    "Portal.Axis_America_MartialArts.Crane_Kick",
+    "Portal.Axis_America_MartialArts.Crippling_Axe_Kick",
+    "Portal.Axis_America_MartialArts.Eagles_Claw"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Crane Kick",
+    "Crippling Axe Kick",
+    "Eagles Claw"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, High DMG, Knockback",
+    "Immobilize, -SPD",
+    "Disorient"
+  ]
+}

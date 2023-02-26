@@ -1,0 +1,34 @@
+{
+  "name": "Creeper_Vine",
+  "display_name": "Creeper Vine",
+  "display_fullname": "Villain Pets.Creeper Vine",
+  "display_help": "Plant Control",
+  "display_short_help": "Plant Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/CREEPER_VINE.POWERSETS",
+  "icon": "creeper_vine_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Creeper_Vine.Vine_Smash",
+    "Villain_Pets.Creeper_Vine.Vine_Thorns",
+    "Villain_Pets.Creeper_Vine.Self_Destruct",
+    "Villain_Pets.Creeper_Vine.Resistance"
+  ],
+  "power_display_names": [
+    "Vine Smash",
+    "Vine Thorns",
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), Slow, -Fly",
+    "DoT(Toxic), Slow, -Fly",
+    "Self Destruct",
+    "Auto: Self +Res(Toxic, Psionic)"
+  ]
+}

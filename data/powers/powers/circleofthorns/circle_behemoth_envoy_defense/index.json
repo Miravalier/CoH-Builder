@@ -1,0 +1,30 @@
+{
+  "name": "Circle_Behemoth_Envoy_Defense",
+  "display_name": "Circle_Behemoth_Envoy_Defense",
+  "display_fullname": "CircleOfThorns.Circle Behemoth Envoy Defense",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_BEHEMOTH_ENVOY_DEFENSE.POWERSETS",
+  "icon": "circle_behemoth_envoy_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Behemoth_Envoy_Defense.Shadow",
+    "CircleOfThorns.Circle_Behemoth_Envoy_Defense.Healing_Flames",
+    "CircleOfThorns.Circle_Behemoth_Envoy_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Shadow",
+    "Healing Flames",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Toggle AoE Negative, -ACC",
+    "Self Heal, Res(Disorient)",
+    "Resistance"
+  ]
+}

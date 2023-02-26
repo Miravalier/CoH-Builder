@@ -1,0 +1,23 @@
+{
+  "name": "Ravenna",
+  "display_name": "Ravenna",
+  "source_file": "DEFS/POWERS/RAVENNA.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "ravenna.ravenna_boss_f",
+    "ravenna.ravenna_boss_m",
+    "ravenna.ravenna_lieutenant",
+    "ravenna.ravenna_minion",
+    "ravenna.ravenna_sybil"
+  ],
+  "powerset_display_names": [
+    "Ravenna Boss Female",
+    "Ravenna Boss Male",
+    "Ravenna Lieutenant",
+    "Ravenna Minion",
+    "Ravenna Sybil"
+  ],
+  "powersets_with_requirements": []
+}

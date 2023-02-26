@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Calibrated_Accuracy_F",
+  "display_name": "Attuned Calibrated Accuracy F",
+  "display_fullname": "Boosts.Attuned Calibrated Accuracy F",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Calibrated Accuracy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CALIBRATED_ACCURACY_F.POWERSETS",
+  "icon": "attuned_calibrated_accuracy_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Calibrated_Accuracy_F.Attuned_Calibrated_Accuracy_F"
+  ],
+  "power_display_names": [
+    "Calibrated Accuracy: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Overwhelming_Force_B",
+  "display_name": "Attuned Overwhelming Force B",
+  "display_fullname": "Boosts.Attuned Overwhelming Force B",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Reduces recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and decreases its endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Overwhelming Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_OVERWHELMING_FORCE_B.POWERSETS",
+  "icon": "attuned_overwhelming_force_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Overwhelming_Force_B.Attuned_Overwhelming_Force_B"
+  ],
+  "power_display_names": [
+    "Overwhelming Force: Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Rech"
+  ]
+}

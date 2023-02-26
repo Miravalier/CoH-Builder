@@ -1,0 +1,22 @@
+{
+  "name": "Aeon_Special",
+  "display_name": "Aeon_Special",
+  "display_fullname": "V Arachnos.Aeon Special",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/AEON_SPECIAL.POWERSETS",
+  "icon": "aeon_special_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Aeon_Special.Aeon_Special"
+  ],
+  "power_display_names": [
+    "Aeon Special"
+  ],
+  "power_short_helps": [
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG), +DMG, +ACC"
+  ]
+}

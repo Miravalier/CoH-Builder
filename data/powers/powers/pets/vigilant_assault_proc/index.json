@@ -1,0 +1,22 @@
+{
+  "name": "Vigilant_Assault_Proc",
+  "display_name": "Vigilant Assault",
+  "display_fullname": "Pets.Vigilant Assault",
+  "display_help": "Vigilant Assault",
+  "display_short_help": "Vigilant Assault",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/VIGILANT_ASSAULT_PROC.POWERSETS",
+  "icon": "vigilant_assault_proc_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Vigilant_Assault_Proc.Vigilant_Assault"
+  ],
+  "power_display_names": [
+    "Vigilant Assault"
+  ],
+  "power_short_helps": [
+    "PBAoE +Absorb"
+  ]
+}

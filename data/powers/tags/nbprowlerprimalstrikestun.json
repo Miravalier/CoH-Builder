@@ -1,0 +1,23 @@
+{
+  "tag": "NBProwlerPrimalStrikeStun",
+  "bears": [
+    [
+      "Primalist Misc.Feral Might.Primal Strike",
+      "primalist_misc.prowler_form_powers.primal_strike_prowler"
+    ],
+    [
+      "Primalist Misc.Feral Might.Savage Blow",
+      "primalist_misc.prowler_form_powers.savage_blow_prowler"
+    ],
+    [
+      "Primalist Misc.Feral Might.Upheaval",
+      "primalist_misc.prowler_form_powers.upheaval_prowler"
+    ]
+  ],
+  "affects": [
+    [
+      "Feral Might.Feral Might.Nature's Boon",
+      "feral_might.feral_might.natures_boon"
+    ]
+  ]
+}

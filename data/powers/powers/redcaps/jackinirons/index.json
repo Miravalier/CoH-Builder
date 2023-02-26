@@ -1,0 +1,46 @@
+{
+  "name": "JackInIrons",
+  "display_name": "Jack in Irons",
+  "display_fullname": "RedCaps.Jack in Irons",
+  "display_help": "RedCaps",
+  "display_short_help": "RedCaps",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/JACKINIRONS.POWERSETS",
+  "icon": "jackinirons_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.JackInIrons.Resistance",
+    "RedCaps.JackInIrons.Sweeping_Blow",
+    "RedCaps.JackInIrons.Overhead_Smash",
+    "RedCaps.JackInIrons.Noxious_Odor",
+    "RedCaps.JackInIrons.Skull_Stare",
+    "RedCaps.JackInIrons.Dry_Heave",
+    "RedCaps.JackInIrons.Howling_Skull"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Sweeping Blow",
+    "Overhead Smash",
+    "Noxious Odor",
+    "Skull Stare",
+    "Dry Heave",
+    "Howling Skull"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Melee, Extreme DMG(Lethal), Foe Knockback",
+    "Melee, Extreme DMG(Lethal), Foe Knockback, -DEF",
+    "Toggle: PBAoE Minor DoT(Negative)",
+    "Ranged (Cone), Foe Fear, -ACC",
+    "-DAM",
+    "Ranged Cone, Medium DMG(Smashing)"
+  ]
+}

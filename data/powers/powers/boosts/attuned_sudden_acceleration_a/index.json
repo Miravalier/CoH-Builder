@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Sudden_Acceleration_A",
+  "display_name": "Attuned Sudden Acceleration A",
+  "display_fullname": "Boosts.Attuned Sudden Acceleration A",
+  "display_help": "Enhances the knockback distance of a power by {Boost.Attrib.Knock.Scale}% and the accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Sudden Acceleration",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SUDDEN_ACCELERATION_A.POWERSETS",
+  "icon": "e_icon_sudden_acceleration.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Sudden_Acceleration_A.Attuned_Sudden_Acceleration_A"
+  ],
+  "power_display_names": [
+    "Sudden Acceleration: Knockback/Accuracy"
+  ],
+  "power_short_helps": [
+    "+Knockback, +ACC"
+  ]
+}

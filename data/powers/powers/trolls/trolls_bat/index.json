@@ -1,0 +1,22 @@
+{
+  "name": "Trolls_Bat",
+  "display_name": "Trolls_Bat",
+  "display_fullname": "Trolls.Trolls Bat",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLLS_BAT.POWERSETS",
+  "icon": "trolls_bat_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Trolls_Bat.Baseball_Bat"
+  ],
+  "power_display_names": [
+    "Baseball Bat"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam"
+  ]
+}

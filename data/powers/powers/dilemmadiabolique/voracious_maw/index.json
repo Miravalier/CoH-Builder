@@ -1,0 +1,30 @@
+{
+  "name": "Voracious_Maw",
+  "display_name": "Voracious Maw",
+  "display_fullname": "DilemmaDiabolique.Voracious Maw",
+  "display_help": "Voracious Maw",
+  "display_short_help": "Voracious Maw",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/VORACIOUS_MAW.POWERSETS",
+  "icon": "voracious_maw_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Voracious_Maw.MawMaster",
+    "DilemmaDiabolique.Voracious_Maw.MawStart",
+    "DilemmaDiabolique.Voracious_Maw.MawEnd"
+  ],
+  "power_display_names": [
+    "Voracious Maw",
+    "Voracious Maw",
+    "Voracious Maw"
+  ],
+  "power_short_helps": [
+    "TAoE (Secondary Target), Special",
+    "TAoE (Secondary Target), Special",
+    "TAoE (Secondary Target), Special"
+  ]
+}

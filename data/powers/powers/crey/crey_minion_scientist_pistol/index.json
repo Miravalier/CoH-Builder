@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Minion_Scientist_Pistol",
+  "display_name": "Crey_Minion_Scientist_Pistol",
+  "display_fullname": "Crey.Crey Minion Scientist Pistol",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_SCIENTIST_PISTOL.POWERSETS",
+  "icon": "crey_minion_scientist_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Scientist_Pistol.Cryo_Pistol"
+  ],
+  "power_display_names": [
+    "Cryo Pistol"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed, Sleep"
+  ]
+}

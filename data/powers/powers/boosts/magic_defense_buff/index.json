@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Defense_Buff",
+  "display_name": "Magic Defense Buff",
+  "display_fullname": "Boosts.Magic Defense Buff",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_DEFENSE_BUFF.POWERSETS",
+  "icon": "magic_defense_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Defense_Buff.Magic_Defense_Buff"
+  ],
+  "power_display_names": [
+    "Shield of Joule (Defense Buff)"
+  ],
+  "power_short_helps": [
+    "Enhances Defense Buffs"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Darkness_Manipulation",
+  "display_name": "Darkness Manipulation",
+  "display_fullname": "Redirects.Darkness Manipulation",
+  "display_help": "Darkness Manipulation",
+  "display_short_help": "Darkness Manipulation",
+  "available_level": [
+    19
+  ],
+  "source_file": "DEFS/POWERS/REDIRECTS/DARKNESS_MANIPULATION.POWERSETS",
+  "icon": "tanker_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Redirects.Darkness_Manipulation.Touch_of_Fear"
+  ],
+  "power_display_names": [
+    "Touch of the Beyond"
+  ],
+  "power_short_helps": [
+    "Fear, Foe -To Hit, Self +Regeneration, +Recovery, +Res(Fear)"
+  ]
+}

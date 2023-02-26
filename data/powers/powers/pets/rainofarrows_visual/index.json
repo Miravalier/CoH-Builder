@@ -1,0 +1,22 @@
+{
+  "name": "RainofArrows_Visual",
+  "display_name": "Rain of Arrows",
+  "display_fullname": "Pets.Rain of Arrows",
+  "display_help": "Archery",
+  "display_short_help": "Archery",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RAINOFARROWS_VISUAL.POWERSETS",
+  "icon": "rainofarrows_visual_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.RainofArrows_Visual.RainofArrows"
+  ],
+  "power_display_names": [
+    "RainofArrows"
+  ],
+  "power_short_helps": [
+    "DoT(Lethal)"
+  ]
+}

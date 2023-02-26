@@ -1,0 +1,26 @@
+{
+  "name": "Protective_Generator",
+  "display_name": "Protective_Generator",
+  "display_fullname": "V Arachnos.Protective Generator",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/PROTECTIVE_GENERATOR.POWERSETS",
+  "icon": "protective_generator_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Protective_Generator.Dispersion_Bubble_FX",
+    "V_Arachnos.Protective_Generator.Dispersion_Bubble_Real"
+  ],
+  "power_display_names": [
+    "Dispersion Bubble",
+    "Dispersion Bubble Real"
+  ],
+  "power_short_helps": [
+    "+DEF(All), +Res(Hold, Immobilize, Disorient)",
+    "+DEF(All), +Res(Hold, Immobilize, Disorient)"
+  ]
+}

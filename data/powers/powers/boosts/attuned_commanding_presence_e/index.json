@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Commanding_Presence_E",
+  "display_name": "Attuned Commanding Presence E",
+  "display_fullname": "Boosts.Attuned Commanding Presence E",
+  "display_help": "Grants Resistance to Taunt and Placate to your pets when they are near you.",
+  "display_short_help": "Set: Commanding Presence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_COMMANDING_PRESENCE_E.POWERSETS",
+  "icon": "attuned_commanding_presence_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Commanding_Presence_E.Attuned_Commanding_Presence_E"
+  ],
+  "power_display_names": [
+    "Commanding Presence: Taunt/Placate Resist"
+  ],
+  "power_short_helps": [
+    "RES (Taunt, Placate)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Imp",
+  "display_name": "Imp",
+  "display_fullname": "RoguesGallery.Imp",
+  "display_help": "Fire Control",
+  "display_short_help": "Fire Control",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/IMP.POWERSETS",
+  "icon": "imp_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.Imp.Brawl",
+    "RoguesGallery.Imp.Resist_Fire"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Resist Fire"
+  ],
+  "power_short_helps": [
+    "Melee Smash/Fire",
+    "Resist Fire"
+  ]
+}

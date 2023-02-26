@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Theft_of_Essence_A",
+  "display_name": "Attuned Theft of Essence A",
+  "display_fullname": "Boosts.Attuned Theft of Essence A",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}%. NOTE: This enhancement can only be slotted into healing powers that require a To Hit check.",
+  "display_short_help": "Set: Theft of Essence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_THEFT_OF_ESSENCE_A.POWERSETS",
+  "icon": "attuned_theft_of_essence_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Theft_of_Essence_A.Attuned_Theft_of_Essence_A"
+  ],
+  "power_display_names": [
+    "Theft of Essence: Healing/Absorb"
+  ],
+  "power_short_helps": [
+    "+Heal, +Absorb"
+  ]
+}

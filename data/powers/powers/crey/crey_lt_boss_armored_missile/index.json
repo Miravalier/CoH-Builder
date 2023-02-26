@@ -1,0 +1,22 @@
+{
+  "name": "Crey_Lt_Boss_Armored_Missile",
+  "display_name": "Crey_Lt_Boss_Armored_Missile",
+  "display_fullname": "Crey.Crey Lt Boss Armored Missile",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_LT_BOSS_ARMORED_MISSILE.POWERSETS",
+  "icon": "crey_lt_boss_armored_missile_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Lt_Boss_Armored_Missile.Missile_Launcher"
+  ],
+  "power_display_names": [
+    "Missile Launcher"
+  ],
+  "power_short_helps": [
+    "Ranged DMG(Lethal/Fire), +KB"
+  ]
+}

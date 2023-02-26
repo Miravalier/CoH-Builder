@@ -1,0 +1,30 @@
+{
+  "name": "Small_Dual",
+  "display_name": "Small Dual",
+  "display_fullname": "Inspirations.Small Dual",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Small Dual",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/SMALL_DUAL.POWERSETS",
+  "icon": "small_dual_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Small_Dual.Revitalize",
+    "Inspirations.Small_Dual.Shielded",
+    "Inspirations.Small_Dual.Keen"
+  ],
+  "power_display_names": [
+    "Revitalize",
+    "Shielded",
+    "Keen"
+  ],
+  "power_short_helps": [
+    "+18.75% End and Health",
+    "+9.37% DEF(All), 7.5% RES(All), Res(Teleport)",
+    "+5.62% To Hit, +18.75% Damage, +25% Perception"
+  ]
+}

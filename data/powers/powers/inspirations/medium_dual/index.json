@@ -1,0 +1,30 @@
+{
+  "name": "Medium_Dual",
+  "display_name": "Medium Dual",
+  "display_fullname": "Inspirations.Medium Dual",
+  "display_help": "Inspirations are one time use powers that have a variety of effects.",
+  "display_short_help": "Medium Dual",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INSPIRATIONS/MEDIUM_DUAL.POWERSETS",
+  "icon": "medium_dual_set.png",
+  "requires": "",
+  "power_names": [
+    "Inspirations.Medium_Dual.Rejuvenate",
+    "Inspirations.Medium_Dual.Guarded",
+    "Inspirations.Medium_Dual.Tactical"
+  ],
+  "power_display_names": [
+    "Rejuvenate",
+    "Guarded",
+    "Tactical"
+  ],
+  "power_short_helps": [
+    "+24.75% End and Health",
+    "+18.75% Def(All), +11.25% Res(All), Res(Teleport)",
+    "+14.06% To Hit, +24.75% Damage, +33% Perception"
+  ]
+}

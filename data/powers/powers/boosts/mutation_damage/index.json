@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Damage",
+  "display_name": "Mutation Damage",
+  "display_fullname": "Boosts.Mutation Damage",
+  "display_help": "Enhances the damage of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_DAMAGE.POWERSETS",
+  "icon": "mutation_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Damage.Mutation_Damage"
+  ],
+  "power_display_names": [
+    "Catalyst: Improved Damage (Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Sentinel_Ranged",
+  "display_name": "Ranged",
+  "source_file": "DEFS/POWERS/SENTINEL_RANGED.CATEGORIES",
+  "archetypes": [
+    "sentinel"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "sentinel_ranged.archery",
+    "sentinel_ranged.assault_rifle",
+    "sentinel_ranged.beam_rifle",
+    "sentinel_ranged.dark_blast",
+    "sentinel_ranged.dual_pistols",
+    "sentinel_ranged.electrical_blast",
+    "sentinel_ranged.energy_blast",
+    "sentinel_ranged.fire_blast",
+    "sentinel_ranged.ice_blast",
+    "sentinel_ranged.psychic_blast",
+    "sentinel_ranged.radiation_blast",
+    "sentinel_ranged.seismic_blast",
+    "sentinel_ranged.sonic_attack",
+    "sentinel_ranged.water_blast"
+  ],
+  "powerset_display_names": [
+    "Archery",
+    "Assault Rifle",
+    "Beam Rifle",
+    "Dark Blast",
+    "Dual Pistols",
+    "Electrical Blast",
+    "Energy Blast",
+    "Fire Blast",
+    "Ice Blast",
+    "Psychic Blast",
+    "Radiation Blast",
+    "Seismic Blast",
+    "Sonic Attack",
+    "Water Blast"
+  ],
+  "powersets_with_requirements": []
+}

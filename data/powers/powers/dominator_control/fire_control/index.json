@@ -1,0 +1,54 @@
+{
+  "name": "Fire_Control",
+  "display_name": "Fire Control",
+  "display_fullname": "Dominator Control.Fire Control",
+  "display_help": "You can control the essence of fire to entrap, scorch, and manipulate your foes with smoke and flame.",
+  "display_short_help": "Fire Control",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/DOMINATOR_CONTROL/FIRE_CONTROL.POWERSETS",
+  "icon": "fire_control_set.png",
+  "requires": "",
+  "power_names": [
+    "Dominator_Control.Fire_Control.Ring_of_Fire",
+    "Dominator_Control.Fire_Control.Char",
+    "Dominator_Control.Fire_Control.Fire_Cages",
+    "Dominator_Control.Fire_Control.Smoke",
+    "Dominator_Control.Fire_Control.Hot_Feet",
+    "Dominator_Control.Fire_Control.Flashfire",
+    "Dominator_Control.Fire_Control.Cinders",
+    "Dominator_Control.Fire_Control.Bonfire",
+    "Dominator_Control.Fire_Control.Fire_Imps"
+  ],
+  "power_display_names": [
+    "Ring of Fire",
+    "Char",
+    "Fire Cages",
+    "Smoke",
+    "Hot Feet",
+    "Flashfire",
+    "Cinders",
+    "Bonfire",
+    "Fire Imps"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Fire), Foe Immobilize",
+    "Ranged, Moderate DoT(Fire), Foe Hold",
+    "Ranged (Targeted AoE), Minor DoT(Fire), Foe Immobilize",
+    "Ranged (Targeted AoE), Foe -Perception, -To Hit",
+    "Toggle: PBAoE, Minor DoT(Fire), Foe -SPD",
+    "Ranged (Targeted AoE), Minor DoT(Fire), Foe Disorient",
+    "PBAoE, Foe Hold",
+    "Ranged (Location AoE), Minor DMG(Fire), Foe Knockback",
+    "Summon Imps: Melee Minor DMG(Fire)"
+  ]
+}

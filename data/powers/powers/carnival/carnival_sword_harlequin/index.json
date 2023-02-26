@@ -1,0 +1,30 @@
+{
+  "name": "Carnival_Sword_Harlequin",
+  "display_name": "Carnival_Sword_Harlequin",
+  "display_fullname": "Carnival.Carnival Sword Harlequin",
+  "display_help": "Carnival of Shadows",
+  "display_short_help": "Carnival of Shadows",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVAL/CARNIVAL_SWORD_HARLEQUIN.POWERSETS",
+  "icon": "carnival_sword_harlequin_set.png",
+  "requires": "",
+  "power_names": [
+    "Carnival.Carnival_Sword_Harlequin.Rapier_Stab",
+    "Carnival.Carnival_Sword_Harlequin.Rapier_Parry",
+    "Carnival.Carnival_Sword_Harlequin.Throwing_Knife"
+  ],
+  "power_display_names": [
+    "Rapier Stab",
+    "Rapier Parry",
+    "Throwing Knife"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "Melee, Minor DMG(Lethal), Self +DEF",
+    "Ranged Lethal, Low Dam"
+  ]
+}

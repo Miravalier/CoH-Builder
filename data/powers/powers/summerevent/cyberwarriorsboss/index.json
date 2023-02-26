@@ -1,0 +1,46 @@
+{
+  "name": "CyberwarriorsBoss",
+  "display_name": "CyberwarriorsBoss",
+  "display_fullname": "SummerEvent.CyberwarriorsBoss",
+  "display_help": "Gotterdammerung",
+  "display_short_help": "Gotterdammerung",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/CYBERWARRIORSBOSS.POWERSETS",
+  "icon": "cyberwarriorsboss_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.CyberwarriorsBoss.Fusion_Smash",
+    "SummerEvent.CyberwarriorsBoss.Fusion_Crush",
+    "SummerEvent.CyberwarriorsBoss.Fusion_Shatter",
+    "SummerEvent.CyberwarriorsBoss.Fusion_Bolt",
+    "SummerEvent.CyberwarriorsBoss.Fusion_Blast",
+    "SummerEvent.CyberwarriorsBoss.Fusion_Nova",
+    "SummerEvent.CyberwarriorsBoss.Fusion_Torrent"
+  ],
+  "power_display_names": [
+    "Fusion Smash",
+    "Fusion Crush",
+    "Fusion Shatter",
+    "Fusion Bolt",
+    "Fusion Blast",
+    "Fusion Nova",
+    "Fusion Torrent"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG (Smashing/Lethal), Chance for Knockdown",
+    "Melee, Moderate DMG(Smashing/Energy), -Rech(Foe)",
+    "Melee, High DMG(Smashing/Energy), -DEF(Foe,All)",
+    "Ranged, Minor DMG(Smashing/Energy), Minor DoT(Fire), Chance for Knockdown(Foe)",
+    "Ranged, Moderate DMG(Smashing/Energy), Minor DoT(Fire), Chance for Knockback(Foe)",
+    "PBAoE, Extreme DMG(Smashing/Energy), High DoT(Fire), Knockback(Foe)",
+    "Ranged (Cone), Moderate DMG(Smashing/Energy), Chance for Knockback (Foe)"
+  ]
+}

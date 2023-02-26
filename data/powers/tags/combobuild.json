@@ -1,0 +1,74 @@
+{
+  "tag": "ComboBuild",
+  "bears": [
+    [
+      "Brute Melee.Street Justice.Heavy Blow",
+      "brute_melee.brawling.heavy_blow"
+    ],
+    [
+      "Brute Melee.Street Justice.Initial Strike",
+      "brute_melee.brawling.initial_strike"
+    ],
+    [
+      "Brute Melee.Street Justice.Rib Cracker",
+      "brute_melee.brawling.throat_strike"
+    ],
+    [
+      "Brute Melee.Street Justice.Shin Breaker",
+      "brute_melee.brawling.low_kick"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Heavy Blow",
+      "scrapper_melee.brawling.heavy_blow"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Initial Strike",
+      "scrapper_melee.brawling.initial_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Rib Cracker",
+      "scrapper_melee.brawling.throat_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Shin Breaker",
+      "scrapper_melee.brawling.low_kick"
+    ],
+    [
+      "Stalker Melee.Street Justice.Heavy Blow",
+      "stalker_melee.brawling.heavy_blow"
+    ],
+    [
+      "Stalker Melee.Street Justice.Initial Strike",
+      "stalker_melee.brawling.initial_strike"
+    ],
+    [
+      "Stalker Melee.Street Justice.Shin Breaker",
+      "stalker_melee.brawling.low_kick"
+    ],
+    [
+      "Tanker Melee.Street Justice.Heavy Blow",
+      "tanker_melee.brawling.heavy_blow"
+    ],
+    [
+      "Tanker Melee.Street Justice.Initial Strike",
+      "tanker_melee.brawling.initial_strike"
+    ],
+    [
+      "Tanker Melee.Street Justice.Rib Cracker",
+      "tanker_melee.brawling.throat_strike"
+    ],
+    [
+      "Tanker Melee.Street Justice.Shin Breaker",
+      "tanker_melee.brawling.low_kick"
+    ],
+    [
+      "Villain Pets.Street Justice Assassins Strike.Assassin's Strike",
+      "villain_pets.street_justice_assassins_strike.assassins_strike_quick"
+    ],
+    [
+      "Villain Pets.Street Justice Assassins Strike.Assassin's Strike",
+      "villain_pets.street_justice_assassins_strike.assassins_strike_stealth"
+    ]
+  ],
+  "affects": []
+}

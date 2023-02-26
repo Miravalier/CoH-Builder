@@ -1,0 +1,119 @@
+{
+  "name": "NPC_Civilians_Male_Business",
+  "gender": "GENDER_MALE",
+  "group_name": "NPC_Civilians",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_PassiveFollower",
+    "character_class_name": "boss_elite",
+    "description": "This hapless citizen is in over his head.",
+    "group_description": "Hapless Citizen",
+    "display_class_name": "Captive",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Generic.Brawl.Brawl"
+    ],
+    "power_display_names": [
+      "Brawl"
+    ],
+    "power_levels": [
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Generic",
+        "power_set": "Brawl",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Business - Male"
+      ],
+      "costumes": [
+        "MaleNPC_01",
+        "MaleNPC_02",
+        "MaleNPC_03",
+        "MaleNPC_04",
+        "MaleNPC_05",
+        "MaleNPC_06",
+        "MaleNPC_07",
+        "MaleNPC_08",
+        "MaleNPC_09",
+        "MaleNPC_10",
+        "MaleNPC_11",
+        "MaleNPC_12",
+        "MaleNPC_13",
+        "MaleNPC_14",
+        "MaleNPC_15",
+        "MaleNPC_16",
+        "MaleNPC_17",
+        "MaleNPC_18",
+        "MaleNPC_19",
+        "MaleNPC_20",
+        "MaleNPC_21",
+        "MaleNPC_22",
+        "MaleNPC_23",
+        "MaleNPC_24",
+        "MaleNPC_25",
+        "MaleNPC_26",
+        "MaleNPC_27",
+        "MaleNPC_28",
+        "MaleNPC_29",
+        "MaleNPC_30",
+        "MaleNPC_31",
+        "MaleNPC_32",
+        "MaleNPC_33",
+        "MaleNPC_34",
+        "MaleNPC_35",
+        "MaleNPC_36",
+        "MaleNPC_37",
+        "MaleNPC_38",
+        "MaleNPC_39",
+        "MaleNPC_40",
+        "MaleNPC_41",
+        "MaleNPC_42",
+        "MaleNPC_43",
+        "MaleNPC_44",
+        "MaleNPC_45",
+        "MaleNPC_46",
+        "MaleNPC_47",
+        "MaleNPC_48",
+        "MaleNPC_49",
+        "MaleNPC_50"
+      ]
+    }
+  ]
+}

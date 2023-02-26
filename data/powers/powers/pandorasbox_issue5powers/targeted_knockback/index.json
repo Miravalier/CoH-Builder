@@ -1,0 +1,22 @@
+{
+  "name": "Targeted_Knockback",
+  "display_name": "Targeted_Knockback",
+  "display_fullname": "PandorasBox Issue5Powers.Targeted Knockback",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PANDORASBOX_ISSUE5POWERS/TARGETED_KNOCKBACK.POWERSETS",
+  "icon": "targeted_knockback_set.png",
+  "requires": "",
+  "power_names": [
+    "PandorasBox_Issue5Powers.Targeted_Knockback.Targeted_Knockback"
+  ],
+  "power_display_names": [
+    "Targeted Knockback"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

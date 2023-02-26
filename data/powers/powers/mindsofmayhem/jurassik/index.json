@@ -1,0 +1,38 @@
+{
+  "name": "Jurassik",
+  "display_name": "Jurassik",
+  "display_fullname": "MindsOfMayhem.Jurassik",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/JURASSIK.POWERSETS",
+  "icon": "jurassik_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Jurassik.Fault",
+    "MindsOfMayhem.Jurassik.Jurassik_Club",
+    "MindsOfMayhem.Jurassik.Foot_Stomp",
+    "MindsOfMayhem.Jurassik.Stone_Shards",
+    "MindsOfMayhem.Jurassik.Hurl_Boulder"
+  ],
+  "power_display_names": [
+    "Fault",
+    "Jurassik Club",
+    "Foot Stomp",
+    "Stone Shards",
+    "Hurl Boulder"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient",
+    "AoE Smash, Knockback",
+    "Cone Lethal, Med Damage, Knockback",
+    "Ranged Smash, Knockback"
+  ]
+}

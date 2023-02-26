@@ -1,0 +1,22 @@
+{
+  "name": "Tsoo_Caltrops",
+  "display_name": "Tsoo_Caltrops",
+  "display_fullname": "Tsoo.Tsoo Caltrops",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/TSOO_CALTROPS.POWERSETS",
+  "icon": "tsoo_caltrops_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Tsoo_Caltrops.Caltrops"
+  ],
+  "power_display_names": [
+    "Caltrops"
+  ],
+  "power_short_helps": [
+    "DoT(Lethal), -Speed"
+  ]
+}

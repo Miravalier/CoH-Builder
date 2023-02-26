@@ -1,0 +1,42 @@
+{
+  "name": "Leaping",
+  "display_name": "Leaping",
+  "display_fullname": "Pool.Leaping",
+  "display_help": "Grants you various travel and combat jumping abilities. Jumping powers tend to be very efficient and use very little endurance compared to other travel powers.",
+  "display_short_help": "Leaping",
+  "available_level": [
+    0,
+    0,
+    3,
+    -1,
+    13,
+    13
+  ],
+  "source_file": "DEFS/POWERS/POOL/LEAPING.POWERSETS",
+  "icon": "leaping_set.png",
+  "requires": "",
+  "power_names": [
+    "Pool.Leaping.Jump_Kick",
+    "Pool.Leaping.Combat_Jumping",
+    "Pool.Leaping.Long_Jump",
+    "Pool.Leaping.Double_Jump",
+    "Pool.Leaping.Leap",
+    "Pool.Leaping.Spring_Attack"
+  ],
+  "power_display_names": [
+    "Jump Kick",
+    "Combat Jumping",
+    "Super Jump",
+    "Double Jump",
+    "Acrobatics",
+    "Spring Attack"
+  ],
+  "power_short_helps": [
+    "Melee, DMG(Smash), Foe Knockdown",
+    "Toggle: Self +Jump, +DEF(All), Res(Immobilization)",
+    "Toggle: Self Long Jump",
+    "Toggle: Self +Special",
+    "Toggle: Self +Res(Knockback, Hold)",
+    "PBAoE DMG(Smash), Foe Knockdown; Self Teleport"
+  ]
+}

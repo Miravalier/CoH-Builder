@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Base",
+  "display_name": "",
+  "display_fullname": "Midnight Squad.Minion Base",
+  "display_help": "Midnight Squad",
+  "display_short_help": "Midnight Squad",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHT_SQUAD/MINION_BASE.POWERSETS",
+  "icon": "minion_base_set.png",
+  "requires": "",
+  "power_names": [
+    "Midnight_Squad.Minion_Base.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

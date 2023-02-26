@@ -1,0 +1,38 @@
+{
+  "name": "Paladin",
+  "display_name": "Paladin",
+  "display_fullname": "MindsOfMayhem.Paladin",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/PALADIN.POWERSETS",
+  "icon": "paladin_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Paladin.Lightning_Bolt",
+    "MindsOfMayhem.Paladin.Shock",
+    "MindsOfMayhem.Paladin.Lightning_Field",
+    "MindsOfMayhem.Paladin.Ball_Lightning",
+    "MindsOfMayhem.Paladin.Mace"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Shock",
+    "Lightning Field",
+    "Ball Lightning",
+    "Mace"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG (Energy), -End(Foe)",
+    "Ranged, Moderate DMG(Energy), Minor DoT(Energy), -End(Foe)",
+    "Toggle PBAoE, Minor DMG(Energy), -End(Foe)",
+    "TAoE, Moderate DMG(Energy), -End(Foe)",
+    "Disorient"
+  ]
+}

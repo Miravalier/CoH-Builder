@@ -1,0 +1,26 @@
+{
+  "name": "Fifth_Column_Robot_HM",
+  "display_name": "Fifth Column Robot (Advanced Difficulty)",
+  "display_fullname": "5thColumn.Fifth Column Robot (Advanced Difficulty)",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_ROBOT_HM.POWERSETS",
+  "icon": "fifth_column_robot_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Robot_HM.RomulusPhalanx_Overclocked",
+    "5thColumn.Fifth_Column_Robot_HM.Electric_Explosion"
+  ],
+  "power_display_names": [
+    "Overclocked",
+    "Electric Explosion"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Res(Fire, Cold, Energy, Negative Energy)",
+    "Suicide Special"
+  ]
+}

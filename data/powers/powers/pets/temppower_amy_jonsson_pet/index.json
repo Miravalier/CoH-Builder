@@ -1,0 +1,22 @@
+{
+  "name": "TempPower_Amy_Jonsson_Pet",
+  "display_name": "Amy Jonsson",
+  "display_fullname": "Pets.Amy Jonsson",
+  "display_help": "These Powers are given to heroes on a temporary basis.",
+  "display_short_help": "TempPower_Amy_Jonsson_Pet",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TEMPPOWER_AMY_JONSSON_PET.POWERSETS",
+  "icon": "temppower_amy_jonsson_pet_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.TempPower_Amy_Jonsson_Pet.Metamorphosis"
+  ],
+  "power_display_names": [
+    "Metamorphosis"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Hibernation_B",
+  "display_name": "Crafted Hibernation B",
+  "display_fullname": "Boosts.Crafted Hibernation B",
+  "display_help": "Enhances the sleep duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Hibernation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_HIBERNATION_B.POWERSETS",
+  "icon": "crafted_hibernation_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Hibernation_B.Crafted_Hibernation_B"
+  ],
+  "power_display_names": [
+    "Hibernation: Endurance/Sleep"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Sleep"
+  ]
+}

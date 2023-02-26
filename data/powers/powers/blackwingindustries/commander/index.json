@@ -1,0 +1,62 @@
+{
+  "name": "Commander",
+  "display_name": "BWI PEACE Commander",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Commander",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/COMMANDER.POWERSETS",
+  "icon": "bwi_commander_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Commander.Military_Training",
+    "BlackwingIndustries.Commander.Auto_Turret",
+    "BlackwingIndustries.Commander.Psi_Grenade",
+    "BlackwingIndustries.Commander.Initial_Strike",
+    "BlackwingIndustries.Commander.Heavy_Blow",
+    "BlackwingIndustries.Commander.Combat_Readiness",
+    "BlackwingIndustries.Commander.Throat_Strike",
+    "BlackwingIndustries.Commander.Spinning_Strike",
+    "BlackwingIndustries.Commander.Low_Kick",
+    "BlackwingIndustries.Commander.Crushing_Uppercut",
+    "BlackwingIndustries.Commander.Assault"
+  ],
+  "power_display_names": [
+    "Military Training",
+    "Gun Drone",
+    "Psionic Grenade",
+    "Excelsion Initial Strike",
+    "Excelsion Heavy Blow",
+    "Combat Readiness",
+    "Excelsion Rib Cracker",
+    "Excelsion Spinning Strike",
+    "Excelsion Shin Breaker",
+    "Excelsion Crushing Uppercut",
+    "Assault"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD, +ACC, Res(Slow/Confuse)",
+    "Build Turret: Ranged, Moderate DMG(Lethal)",
+    "Ranged AoE, Moderate DMG(Psionic), -Recharge",
+    "Melee, Light DMG(Energy/Smash), Foe Disorient, Combo Builder",
+    "Melee, Moderate DMG(Energy/Smash), Foe KD, Combo Builder",
+    "Self, +DMG, +To-Hit, Special",
+    "Melee, Moderate DMG(Energy/Smashing), Foe -RES (All), -DMG, Combo Builder",
+    "Melee (Targeted AoE), Heavy DMG(Energy/Smashing), Foe KD, Finisher",
+    "Melee, Superior DMG(Energy/Smashing), Foe -SPD, -DEF, Combo Builder",
+    "Melee, Extreme DMG(Energy/Smashing), Foe KU, Disorient, Finisher",
+    "Auto: Team AoE +DMG, Res(Taunt, Placate)"
+  ]
+}

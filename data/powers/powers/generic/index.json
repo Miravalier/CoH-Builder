@@ -1,0 +1,17 @@
+{
+  "name": "Generic",
+  "display_name": "Generic",
+  "source_file": "DEFS/POWERS/GENERIC.CATEGORIES",
+  "archetypes": [
+    "boss_praetorianarchvillain"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "generic.brawl"
+  ],
+  "powerset_display_names": [
+    "Brawl"
+  ],
+  "powersets_with_requirements": []
+}

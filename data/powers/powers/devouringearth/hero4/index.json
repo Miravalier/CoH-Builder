@@ -1,0 +1,62 @@
+{
+  "name": "Hero4",
+  "display_name": "Hero4",
+  "display_fullname": "DevouringEarth.Hero4",
+  "display_help": "Devouring Earth Crystal ranged powers.",
+  "display_short_help": "Devouring Earth Crystal ranged powers.",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/HERO4.POWERSETS",
+  "icon": "hero4_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Hero4.Stone_Fist",
+    "DevouringEarth.Hero4.Stone_Mallet",
+    "DevouringEarth.Hero4.Rock_Armor",
+    "DevouringEarth.Hero4.Fault",
+    "DevouringEarth.Hero4.Hurl_Boulder",
+    "DevouringEarth.Hero4.Stone_Prison",
+    "DevouringEarth.Hero4.Stalagmites",
+    "DevouringEarth.Hero4.Quicksand",
+    "DevouringEarth.Hero4.Earths_Embrace",
+    "DevouringEarth.Hero4.Mud_Pots",
+    "DevouringEarth.Hero4.SummonFX"
+  ],
+  "power_display_names": [
+    "Stone Fist",
+    "Stone Mallet",
+    "Rock Armor",
+    "Fault",
+    "Hurl Boulder",
+    "Stone Prison",
+    "Stalagmites",
+    "Quicksand",
+    "Earth's Embrace",
+    "Mud Pots",
+    "SummonFX"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Self Toggle, +Res(Lethal, Smashing)",
+    "Disorient",
+    "Ranged Smash, Knockback",
+    "Ranged, Moderate DoT(Smash), Foe Immobilize, -Def, -Fly",
+    "Disorient, -Def",
+    "-Speed",
+    "Self +HP",
+    "DoT(Fire), Immobilize, -SPD",
+    "Summon"
+  ]
+}

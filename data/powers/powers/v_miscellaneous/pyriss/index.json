@@ -1,0 +1,46 @@
+{
+  "name": "Pyriss",
+  "display_name": "Pyriss",
+  "display_fullname": "V Miscellaneous.Pyriss",
+  "display_help": "Pyriss",
+  "display_short_help": "Pyriss",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+  ],
+  "source_file": "DEFS/POWERS/V_MISCELLANEOUS/PYRISS.POWERSETS",
+  "icon": "pyriss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Miscellaneous.Pyriss.Scorch",
+    "V_Miscellaneous.Pyriss.Combustion",
+    "V_Miscellaneous.Pyriss.Incinerate",
+    "V_Miscellaneous.Pyriss.Flares",
+    "V_Miscellaneous.Pyriss.Fire_Breath",
+    "V_Miscellaneous.Pyriss.Fire_Blast",
+    "V_Miscellaneous.Pyriss.Fire_Ball"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Combustion",
+    "Incinerate",
+    "Flares",
+    "Fire Breath",
+    "Fire Blast",
+    "Fire Ball"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

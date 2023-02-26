@@ -1,0 +1,22 @@
+{
+  "name": "Vampyri_Defense",
+  "display_name": "Vampyri_Defense",
+  "display_fullname": "Council.Vampyri Defense",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/VAMPYRI_DEFENSE.POWERSETS",
+  "icon": "vampyri_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Vampyri_Defense.Fast_Healing"
+  ],
+  "power_display_names": [
+    "Fast Healing"
+  ],
+  "power_short_helps": [
+    "Self Auto, +Regen"
+  ]
+}

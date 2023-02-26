@@ -1,0 +1,26 @@
+{
+  "name": "NeoShivan_Elite_Boss",
+  "display_name": "Shivan Elite Boss",
+  "display_fullname": "V Shivan.Shivan Elite Boss",
+  "display_help": "Shivan",
+  "display_short_help": "Shivan",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SHIVAN/NEOSHIVAN_ELITE_BOSS.POWERSETS",
+  "icon": "neoshivan_elite_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Shivan.NeoShivan_Elite_Boss.Irradiate",
+    "V_Shivan.NeoShivan_Elite_Boss.Cosmic_Burst"
+  ],
+  "power_display_names": [
+    "Irradiate",
+    "Cosmic Burst"
+  ],
+  "power_short_helps": [
+    "Close (AoE), Moderate DoT(Energy), Foe -DEF",
+    "Close, Extreme DMG(Energy), Foe Disorient, -DEF"
+  ]
+}

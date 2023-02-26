@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Recharge",
+  "display_name": "Tech Recharge",
+  "display_fullname": "Base Aux.Tech Recharge",
+  "display_help": "Improves firing rate by 25%.",
+  "display_short_help": "Tech",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_AUX/TECH_RECHARGE.POWERSETS",
+  "icon": "tech_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Aux.Tech_Recharge.Improved_Relay"
+  ],
+  "power_display_names": [
+    "Improved Relay"
+  ],
+  "power_short_helps": [
+    "Increases attack rate"
+  ]
+}

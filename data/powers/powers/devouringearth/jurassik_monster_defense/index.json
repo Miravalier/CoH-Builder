@@ -1,0 +1,26 @@
+{
+  "name": "Jurassik_Monster_Defense",
+  "display_name": "Jurassik Monster Defense",
+  "display_fullname": "DevouringEarth.Jurassik Monster Defense",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/JURASSIK_MONSTER_DEFENSE.POWERSETS",
+  "icon": "jurassik_monster_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Jurassik_Monster_Defense.Resistance",
+    "DevouringEarth.Jurassik_Monster_Defense.Jurassik_Rubble"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Jurassik Rubble"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Summon Rockbeast"
+  ]
+}

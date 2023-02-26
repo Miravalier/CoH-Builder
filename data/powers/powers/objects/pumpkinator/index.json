@@ -1,0 +1,22 @@
+{
+  "name": "Pumpkinator",
+  "display_name": "Pumpkin",
+  "display_fullname": "Objects.Pumpkin",
+  "display_help": "Pumpkin",
+  "display_short_help": "Pumpkin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/PUMPKINATOR.POWERSETS",
+  "icon": "pumpkinator_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Pumpkinator.Make_Pumpkin"
+  ],
+  "power_display_names": [
+    "Make Pumpkin"
+  ],
+  "power_short_helps": [
+    "Pumpkin"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Mother_Mayhem",
+  "display_name": "Mother_Mayhem",
+  "display_fullname": "Praetorians.Mother Mayhem",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/MOTHER_MAYHEM.POWERSETS",
+  "icon": "mother_mayhem_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Mother_Mayhem.Resistance",
+    "Praetorians.Mother_Mayhem.Fly",
+    "Praetorians.Mother_Mayhem.Fly_fx",
+    "Praetorians.Mother_Mayhem.Mental_Blast",
+    "Praetorians.Mother_Mayhem.Telekinetic_blast",
+    "Praetorians.Mother_Mayhem.Subdue",
+    "Praetorians.Mother_Mayhem.Will_Domination",
+    "Praetorians.Mother_Mayhem.Psychic_Scream",
+    "Praetorians.Mother_Mayhem.Psionic_Tornado"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly",
+    "Fly fx",
+    "Mental Blast",
+    "Telekinetic blast",
+    "Subdue",
+    "Will Domination",
+    "Psychic Scream",
+    "Psionic Tornado"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Special",
+    "-Recharge",
+    "Ranged Smash/Psionic, Knockback",
+    "Immobilize",
+    "Sleep",
+    "-Recharge",
+    "Moderate DoT(Psionic), Slow"
+  ]
+}

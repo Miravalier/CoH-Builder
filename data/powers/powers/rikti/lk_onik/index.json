@@ -1,0 +1,22 @@
+{
+  "name": "Lk_Onik",
+  "display_name": "Lk_Onik",
+  "display_fullname": "Rikti.Lk Onik",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/LK_ONIK.POWERSETS",
+  "icon": "lk_onik_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Lk_Onik.Stealth"
+  ],
+  "power_display_names": [
+    "Stealth"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Stealth, +DEF"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Zombie",
+  "display_name": "",
+  "display_fullname": "Zombies.Zombie",
+  "display_help": "Zombies",
+  "display_short_help": "Zombies",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ZOMBIES/ZOMBIE.POWERSETS",
+  "icon": "zombie_set.png",
+  "requires": "",
+  "power_names": [
+    "Zombies.Zombie.Zombie_Brawl",
+    "Zombies.Zombie.Projectile_Vomit"
+  ],
+  "power_display_names": [
+    "Zombie Brawl",
+    "Projectile Vomit"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "DoT(Toxic)"
+  ]
+}

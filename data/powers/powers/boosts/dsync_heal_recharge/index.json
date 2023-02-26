@@ -1,0 +1,22 @@
+{
+  "name": "DSync_Heal_Recharge",
+  "display_name": "D-Sync Heal Recharge",
+  "display_fullname": "Boosts.DSync Heal Recharge",
+  "display_help": "Enhances the healing ability and increases the attack rate of a power.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_HEAL_RECHARGE.POWERSETS",
+  "icon": "hamidon_heal_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_Heal_Recharge.DSync_Heal_Recharge"
+  ],
+  "power_display_names": [
+    "D-Sync Reconstruction (Rech/Heal/Absorb)"
+  ],
+  "power_short_helps": [
+    "Enhances Heal, Enhances Absorb, and Increases Attack Rate"
+  ]
+}

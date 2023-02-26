@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_TimeSpace_Manipulation_C",
+  "display_name": "Attuned Time & Space Manipulation C",
+  "display_fullname": "Boosts.Attuned TimeSpace Manipulation C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. May not be slotted if you have any other enhancements which grant stealth. Grants Stealth for 120 seconds after teleporting.",
+  "display_short_help": "Set: Jaunt",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TIMESPACE_MANIPULATION_C.POWERSETS",
+  "icon": "attuned_timespace_manipulation_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_TimeSpace_Manipulation_C.Attuned_TimeSpace_Manipulation_C"
+  ],
+  "power_display_names": [
+    "Time & Space Manipulation: Stealth"
+  ],
+  "power_short_helps": [
+    "Grants Stealth"
+  ]
+}

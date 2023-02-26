@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Fly",
+  "display_name": "Crafted Fly 10",
+  "display_fullname": "Boosts.Crafted Fly",
+  "display_help": "Increases flight speed by {Boost.Attrib.Movement.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_FLY.POWERSETS",
+  "icon": "crafted_fly_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Fly.Crafted_Fly"
+  ],
+  "power_display_names": [
+    "Invention: Flight Speed"
+  ],
+  "power_short_helps": [
+    "Enhances Flight Speed"
+  ]
+}

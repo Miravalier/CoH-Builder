@@ -1,0 +1,30 @@
+{
+  "name": "Storm_Void",
+  "display_name": "Storm_Void",
+  "display_fullname": "MindsOfMayhem.Storm Void",
+  "display_help": "Storm Void",
+  "display_short_help": "Storm Void",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/STORM_VOID.POWERSETS",
+  "icon": "storm_void_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Storm_Void.Create_Eye",
+    "MindsOfMayhem.Storm_Void.Allow_Control",
+    "MindsOfMayhem.Storm_Void.Close_Distance"
+  ],
+  "power_display_names": [
+    "Create Eye",
+    "Allow Control",
+    "Close Distance"
+  ],
+  "power_short_helps": [
+    "Create Eye",
+    "Suppression",
+    "Close Distance"
+  ]
+}

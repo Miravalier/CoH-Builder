@@ -1,0 +1,42 @@
+{
+  "name": "PsionicNexus_RV",
+  "display_name": "PsionicNexus_RV",
+  "display_fullname": "V FreedomPhalanx.PsionicNexus RV",
+  "display_help": "Psionic Nexus",
+  "display_short_help": "Psionic Nexus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMPHALANX/PSIONICNEXUS_RV.POWERSETS",
+  "icon": "psionicnexus_rv_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomPhalanx.PsionicNexus_RV.Psionic_Lightning",
+    "V_FreedomPhalanx.PsionicNexus_RV.Psionic_Tornado",
+    "V_FreedomPhalanx.PsionicNexus_RV.Psionic_Link_Charging",
+    "V_FreedomPhalanx.PsionicNexus_RV.Psionic_Link_Grant",
+    "V_FreedomPhalanx.PsionicNexus_RV.Psionic_Link",
+    "V_FreedomPhalanx.PsionicNexus_RV.Psionic_Link_Self"
+  ],
+  "power_display_names": [
+    "Psionic Lightning",
+    "Psionic Tornado",
+    "Psionic Link",
+    "Psionic Link",
+    "Psionic Link",
+    "Psionic Link"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Psionic), -End(Foe)",
+    "TAoE, Moderate DoT (Psionic), Knockup(Foe), -Rech(Foe)",
+    "Special",
+    "Special",
+    "PBAoE, Heal (Self and Owner)",
+    "PBAoE, Heal (Self and Owner)"
+  ]
+}

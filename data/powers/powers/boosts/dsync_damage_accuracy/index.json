@@ -1,0 +1,22 @@
+{
+  "name": "DSync_Damage_Accuracy",
+  "display_name": "D-Sync Damage Accuracy",
+  "display_fullname": "Boosts.DSync Damage Accuracy",
+  "display_help": "Enhances the damage and accuracy of a power.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_DAMAGE_ACCURACY.POWERSETS",
+  "icon": "hamidon_damage_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_Damage_Accuracy.DSync_Damage_Accuracy"
+  ],
+  "power_display_names": [
+    "D-Sync Empowerment (Acc/Dam)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Accuracy"
+  ]
+}

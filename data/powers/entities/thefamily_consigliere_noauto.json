@@ -1,0 +1,98 @@
+{
+  "name": "TheFamily_Consigliere_NoAuto",
+  "gender": "GENDER_MALE",
+  "group_name": "TheFamily",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "In Paragon City, you don't become one of the Don's trusted advisors without a little super-powered expertise. Consiglieres have far more subtle powers than their Underboss counterparts, which match their more subtle responsibilities within the Family. The highest of the Consiglieres have modified their abilities to also heal their fellow mafioso around them. The Consiglieres are dangerous on their own, but they're even more powerful when they're around their goons.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Family.GravTime_BS.Crushing_Field",
+      "Family.GravTime_BS.Propel",
+      "Family.GravTime_BS.Singularity",
+      "Family.GravTime_BS.Jab",
+      "Family.GravTime_BS.Punch",
+      "Family.GravTime_BS.Haymaker",
+      "Family.GravTime_BS.Family_Bonds",
+      "Family.Resistances.Damage_BS"
+    ],
+    "power_display_names": [
+      "Crushing Field",
+      "Propel",
+      "Singularity",
+      "Jab",
+      "Punch",
+      "Haymaker",
+      "Family Healing",
+      "Damage Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Family",
+        "power_set": "GravTime_BS",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Family",
+        "power_set": "Resistances",
+        "power": "Damage_BS",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Prima Consigliere"
+      ],
+      "costumes": [
+        "Family_Boss_01",
+        "Family_Boss_02"
+      ]
+    }
+  ]
+}

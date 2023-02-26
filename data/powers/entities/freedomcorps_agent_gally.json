@@ -1,0 +1,163 @@
+{
+  "name": "FreedomCorps_Agent_Gally",
+  "gender": "GENDER_MALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 48,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Gally Ido was once just an innocent girl who dreamed of escaping the Rogue Isles with her boyfriend, Hugo Figures. Unfortunately, her psychic powers drew the attention of Arachnos, and she was betrayed by Westin Phipps. She somehow escaped from Arachnos and made her way to Paragon City, where she joined Longbow and hoped that one day she'd find a way to save the boy she loves.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.3,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomCorps.Officer.Full_Auto",
+      "V_FreedomCorps.Nullifier.Burst",
+      "V_FreedomCorps.Officer.M30_Grenade",
+      "V_FreedomCorps.Officer.Buckshot",
+      "V_FreedomCorps.Officer.Slug",
+      "V_FreedomCorps.Officer.Leadership",
+      "V_FreedomCorps.Officer.Tech_Armor",
+      "V_FreedomCorps.Minion_Rifleman.Brawl",
+      "V_FreedomCorps.Nullifier.Rifle_Butt",
+      "V_FreedomCorps.Resistance.Tech_Armor",
+      "V_FreedomCorps.Agent_Gally.Indomitable_Will",
+      "V_FreedomCorps.Agent_Gally.Mind_Over_Body"
+    ],
+    "power_display_names": [
+      "Full Auto",
+      "Burst",
+      "M30 Grenade",
+      "Buckshot",
+      "Slug",
+      "Leadership",
+      "Tech Armor",
+      "Brawl",
+      "Rifle Butt",
+      "Tech Armor",
+      "Indomitable Will",
+      "Mind Over Body"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Officer",
+        "power": "Full_Auto",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Nullifier",
+        "power": "Burst",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Officer",
+        "power": "M30_Grenade",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Officer",
+        "power": "Buckshot",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Officer",
+        "power": "Slug",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Officer",
+        "power": "Leadership",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Officer",
+        "power": "Tech_Armor",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Rifleman",
+        "power": "Brawl",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Nullifier",
+        "power": "Rifle_Butt",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Agent_Gally",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 48,
+      "experience": 0,
+      "display_names": [
+        "Agent Gally"
+      ],
+      "costumes": [
+        "Longbow_Female_Elite_Boss_05"
+      ]
+    }
+  ]
+}

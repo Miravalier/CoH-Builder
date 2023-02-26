@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Freebird_A",
+  "display_name": "Attuned Freebird A",
+  "display_fullname": "Boosts.Attuned Freebird A",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Freebird",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FREEBIRD_A.POWERSETS",
+  "icon": "attuned_freebird_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Freebird_A.Attuned_Freebird_A"
+  ],
+  "power_display_names": [
+    "Freebird: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

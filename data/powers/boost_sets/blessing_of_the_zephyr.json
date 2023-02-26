@@ -1,0 +1,304 @@
+{
+  "name": "Blessing_of_the_Zephyr",
+  "display_name": "Blessing of the Zephyr",
+  "group_name": "Universal Travel",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Universal Travel"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Blessing_of_the_Zephyr_A.Crafted_Blessing_of_the_Zephyr_A",
+      "Boosts.Attuned_Blessing_of_the_Zephyr_A.Attuned_Blessing_of_the_Zephyr_A"
+    ],
+    [
+      "Boosts.Crafted_Blessing_of_the_Zephyr_B.Crafted_Blessing_of_the_Zephyr_B",
+      "Boosts.Attuned_Blessing_of_the_Zephyr_B.Attuned_Blessing_of_the_Zephyr_B"
+    ],
+    [
+      "Boosts.Crafted_Blessing_of_the_Zephyr_C.Crafted_Blessing_of_the_Zephyr_C",
+      "Boosts.Attuned_Blessing_of_the_Zephyr_C.Attuned_Blessing_of_the_Zephyr_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.blessing_of_the_zephyr"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_1",
+          "Tiny Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_2",
+          "Small Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_blessing_of_the_zephyr_c": [
+        [
+          "set_bonus.set_bonus.blessing_of_the_zephyr",
+          "Blessing of the Zephyr: Knockback Protection"
+        ]
+      ],
+      "crafted_blessing_of_the_zephyr_c": [
+        [
+          "set_bonus.set_bonus.blessing_of_the_zephyr",
+          "Blessing of the Zephyr: Knockback Protection"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_blessingofthezephyr.png",
+      "e_icon_blessingofthezephyr.png",
+      "e_icon_blessingofthezephyr.png",
+      "e_icon_blessingofthezephyr.png",
+      "e_icon_blessingofthezephyr.png",
+      "e_icon_blessingofthezephyr.png"
+    ],
+    "boosts": [
+      [
+        "Blessing of the Zephyr: Move Speed",
+        "Attuned Blessing of the Zephyr: Move Speed"
+      ],
+      [
+        "Blessing of the Zephyr: Endurance/Move Speed",
+        "Attuned Blessing of the Zephyr: Endurance/Move Speed"
+      ],
+      [
+        "Blessing of the Zephyr: Proc/Global",
+        "Attuned Blessing of the Zephyr: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_blessing_of_the_zephyr_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_blessing_of_the_zephyr_a.attuned_blessing_of_the_zephyr_a",
+          "Blessing of the Zephyr: Run Speed, Jump, Flight Speed, Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Blessing of the Zephyr: Move Speed",
+        "aspects": [
+          "Move Speed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "blessing_of_the_zephyr",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_blessingofthezephyr.png"
+      },
+      "attuned_blessing_of_the_zephyr_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Blessing of the Zephyr: Move Speed",
+        "aspects": [
+          "Move Speed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "blessing_of_the_zephyr",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_blessingofthezephyr.png"
+      },
+      "crafted_blessing_of_the_zephyr_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_blessing_of_the_zephyr_b.attuned_blessing_of_the_zephyr_b",
+          "Blessing of the Zephyr: Run Speed, Jump, Flight Speed, Range/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Blessing of the Zephyr: Endurance/Move Speed",
+        "aspects": [
+          "Endurance",
+          "Move Speed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "blessing_of_the_zephyr",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_blessingofthezephyr.png"
+      },
+      "attuned_blessing_of_the_zephyr_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Blessing of the Zephyr: Endurance/Move Speed",
+        "aspects": [
+          "Endurance",
+          "Move Speed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "blessing_of_the_zephyr",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_blessingofthezephyr.png"
+      },
+      "crafted_blessing_of_the_zephyr_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_blessing_of_the_zephyr_c.attuned_blessing_of_the_zephyr_c",
+          "Blessing of the Zephyr: Knockback Reduction (4 points)"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Blessing of the Zephyr: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "blessing_of_the_zephyr",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.blessing_of_the_zephyr",
+            "Blessing of the Zephyr: Knockback Protection"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_blessingofthezephyr.png"
+      },
+      "attuned_blessing_of_the_zephyr_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Blessing of the Zephyr: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "blessing_of_the_zephyr",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.blessing_of_the_zephyr",
+            "Blessing of the Zephyr: Knockback Protection"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_blessingofthezephyr.png"
+      }
+    }
+  }
+}

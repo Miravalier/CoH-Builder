@@ -1,0 +1,54 @@
+{
+  "tag": "ComboConsume",
+  "bears": [
+    [
+      "Brute Melee.Street Justice.Crushing Uppercut",
+      "brute_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Brute Melee.Street Justice.Spinning Strike",
+      "brute_melee.brawling.spinning_strike"
+    ],
+    [
+      "Brute Melee.Street Justice.Sweeping Cross",
+      "brute_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Crushing Uppercut",
+      "scrapper_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Spinning Strike",
+      "scrapper_melee.brawling.spinning_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Sweeping Cross",
+      "scrapper_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Stalker Melee.Street Justice.Crushing Uppercut",
+      "stalker_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Stalker Melee.Street Justice.Spinning Strike",
+      "stalker_melee.brawling.spinning_strike"
+    ],
+    [
+      "Stalker Melee.Street Justice.Sweeping Cross",
+      "stalker_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Tanker Melee.Street Justice.Crushing Uppercut",
+      "tanker_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Tanker Melee.Street Justice.Spinning Strike",
+      "tanker_melee.brawling.spinning_strike"
+    ],
+    [
+      "Tanker Melee.Street Justice.Sweeping Cross",
+      "tanker_melee.brawling.sweeping_cross"
+    ]
+  ],
+  "affects": []
+}

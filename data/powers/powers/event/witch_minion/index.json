@@ -1,0 +1,26 @@
+{
+  "name": "Witch_Minion",
+  "display_name": "Witch Minion",
+  "display_fullname": "Event.Witch Minion",
+  "display_help": "Witch",
+  "display_short_help": "Witch",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/WITCH_MINION.POWERSETS",
+  "icon": "witch_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Witch_Minion.Dark_Blast",
+    "Event.Witch_Minion.Dagger"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Dagger"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "Melee Lethal"
+  ]
+}

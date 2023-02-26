@@ -1,0 +1,573 @@
+{
+  "name": "Edict_of_the_Master",
+  "display_name": "Edict of the Master",
+  "group_name": "Pet Damage",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Pet Damage"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Edict_of_the_Master_A.Crafted_Edict_of_the_Master_A",
+      "Boosts.Attuned_Edict_of_the_Master_A.Attuned_Edict_of_the_Master_A"
+    ],
+    [
+      "Boosts.Crafted_Edict_of_the_Master_B.Crafted_Edict_of_the_Master_B",
+      "Boosts.Attuned_Edict_of_the_Master_B.Attuned_Edict_of_the_Master_B"
+    ],
+    [
+      "Boosts.Crafted_Edict_of_the_Master_C.Crafted_Edict_of_the_Master_C",
+      "Boosts.Attuned_Edict_of_the_Master_C.Attuned_Edict_of_the_Master_C"
+    ],
+    [
+      "Boosts.Crafted_Edict_of_the_Master_D.Crafted_Edict_of_the_Master_D",
+      "Boosts.Attuned_Edict_of_the_Master_D.Attuned_Edict_of_the_Master_D"
+    ],
+    [
+      "Boosts.Crafted_Edict_of_the_Master_E.Crafted_Edict_of_the_Master_E",
+      "Boosts.Attuned_Edict_of_the_Master_E.Attuned_Edict_of_the_Master_E"
+    ],
+    [
+      "Boosts.Crafted_Edict_of_the_Master_F.Crafted_Edict_of_the_Master_F",
+      "Boosts.Attuned_Edict_of_the_Master_F.Attuned_Edict_of_the_Master_F"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 40,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.edict_of_the_master"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_3",
+          "Moderate Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_3",
+          "Moderate Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_4",
+          "Large Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_5",
+          "Huge Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_edict_of_the_master_f": [
+        [
+          "set_bonus.set_bonus.edict_of_the_master",
+          "Edict of the Master"
+        ]
+      ],
+      "crafted_edict_of_the_master_f": [
+        [
+          "set_bonus.set_bonus.edict_of_the_master",
+          "Edict of the Master"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png",
+      "e_icon_edictofthemaster.png"
+    ],
+    "boosts": [
+      [
+        "Edict of the Master: Accuracy/Damage",
+        "Attuned Edict of the Master: Accuracy/Damage"
+      ],
+      [
+        "Edict of the Master: Damage/Endurance",
+        "Attuned Edict of the Master: Damage/Endurance"
+      ],
+      [
+        "Edict of the Master: Accuracy/Endurance",
+        "Attuned Edict of the Master: Accuracy/Endurance"
+      ],
+      [
+        "Edict of the Master: Accuracy/Damage/Endurance",
+        "Attuned Edict of the Master: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Edict of the Master: Damage",
+        "Attuned Edict of the Master: Damage"
+      ],
+      [
+        "Edict of the Master: Proc/Global",
+        "Attuned Edict of the Master: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_edict_of_the_master_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_edict_of_the_master_a.attuned_edict_of_the_master_a",
+          "Edict of the Master: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Edict of the Master: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "attuned_edict_of_the_master_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Edict of the Master: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "crafted_edict_of_the_master_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_edict_of_the_master_b.attuned_edict_of_the_master_b",
+          "Edict of the Master: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Edict of the Master: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "attuned_edict_of_the_master_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Edict of the Master: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "crafted_edict_of_the_master_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_edict_of_the_master_c.attuned_edict_of_the_master_c",
+          "Edict of the Master: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Edict of the Master: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "attuned_edict_of_the_master_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Edict of the Master: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "crafted_edict_of_the_master_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_edict_of_the_master_d.attuned_edict_of_the_master_d",
+          "Edict of the Master: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Edict of the Master: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "attuned_edict_of_the_master_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Edict of the Master: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "crafted_edict_of_the_master_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_edict_of_the_master_e.attuned_edict_of_the_master_e",
+          "Edict of the Master: Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Edict of the Master: Damage",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "attuned_edict_of_the_master_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Edict of the Master: Damage",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "crafted_edict_of_the_master_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_edict_of_the_master_f.attuned_edict_of_the_master_f",
+          "Edict of the Master: Defense Bonus"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Edict of the Master: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.edict_of_the_master",
+            "Edict of the Master"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      },
+      "attuned_edict_of_the_master_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Edict of the Master: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "edict_of_the_master",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.edict_of_the_master",
+            "Edict of the Master"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_edictofthemaster.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Quickfoot_B",
+  "display_name": "Attuned Quickfoot B",
+  "display_fullname": "Boosts.Attuned Quickfoot B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Quickfoot",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_QUICKFOOT_B.POWERSETS",
+  "icon": "attuned_quickfoot_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Quickfoot_B.Attuned_Quickfoot_B"
+  ],
+  "power_display_names": [
+    "Quickfoot: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

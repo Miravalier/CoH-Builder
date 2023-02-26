@@ -1,0 +1,30 @@
+{
+  "name": "Hydra_Head_Ranged",
+  "display_name": "Hydra_Head_Ranged",
+  "display_fullname": "Hydra.Hydra Head Ranged",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_HEAD_RANGED.POWERSETS",
+  "icon": "hydra_head_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Head_Ranged.Subdue",
+    "Hydra.Hydra_Head_Ranged.Will_Domination",
+    "Hydra.Hydra_Head_Ranged.Psionic_Tornado"
+  ],
+  "power_display_names": [
+    "Subdue",
+    "Will Domination",
+    "Psionic Tornado"
+  ],
+  "power_short_helps": [
+    "Immobilize",
+    "Sleep",
+    "Moderate DoT(Psionic), Slow"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "GenericVillains_Trapdoor",
+  "gender": "GENDER_MALE",
+  "group_name": "GenericVillains",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 46,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_elite",
+    "description": "Since Trapdoor's escape from Arachnos, he has made an alliance with the Council to find ways to improve his nacent Incarnate abilities. One new trick he's picked up is the ability to teleport himself to multiple places at once, bifurcating his body to recuperate from enemy attacks.",
+    "group_description": "Incarnate Wannabe",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.5,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Incarnate_AlphaStrike.Trapdoor.Power_Bolt",
+      "Incarnate_AlphaStrike.Trapdoor.Power_Blast",
+      "Incarnate_AlphaStrike.Trapdoor.Explosive_Blast",
+      "Incarnate_AlphaStrike.Trapdoor.Energy_Torrent",
+      "Incarnate_AlphaStrike.Trapdoor.Power_Burst",
+      "Incarnate_AlphaStrike.Trapdoor.Power_Thrust",
+      "Incarnate_AlphaStrike.Trapdoor.Bone_Smasher",
+      "Incarnate_AlphaStrike.Trapdoor.Whirling_Hands",
+      "Incarnate_AlphaStrike.Trapdoor.Total_Focus",
+      "Incarnate_AlphaStrike.Trapdoor.Bifurcate",
+      "GenericVillains.Marker_Phase.See_Marker_Phase"
+    ],
+    "power_display_names": [
+      "Power Bolt",
+      "Power Blast",
+      "Explosive Blast",
+      "Energy Torrent",
+      "Power Burst",
+      "Power Thrust",
+      "Bone Smasher",
+      "Whirling Hands",
+      "Total Focus",
+      "Bifurcate",
+      "See Marker Phase"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Incarnate_AlphaStrike",
+        "power_set": "Trapdoor",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Marker_Phase",
+        "power": "See_Marker_Phase",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 46,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Trapdoor"
+      ],
+      "costumes": [
+        "Model_Trapdoor"
+      ]
+    }
+  ]
+}

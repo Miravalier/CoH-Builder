@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Red_Fortune_B",
+  "display_name": "Attuned Red Fortune B",
+  "display_fullname": "Boosts.Attuned Red Fortune B",
+  "display_help": "Enhances the effectiveness of defense buffs.",
+  "display_short_help": "Set: Red Fortune",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_RED_FORTUNE_B.POWERSETS",
+  "icon": "attuned_red_fortune_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Red_Fortune_B.Attuned_Red_Fortune_B"
+  ],
+  "power_display_names": [
+    "Red Fortune: Defense/Recharge"
+  ],
+  "power_short_helps": [
+    "+DEF (all), +Rech"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "group": "Bio_Group",
+  "powers": [
+    [
+      "Brute Defense.Bio Armor.Defensive Adaptation",
+      "brute_defense.bio_organic_armor.defensive_adaptation"
+    ],
+    [
+      "Brute Defense.Bio Armor.Efficient Adaptation",
+      "brute_defense.bio_organic_armor.efficient_adaptation"
+    ],
+    [
+      "Brute Defense.Bio Armor.Offensive Adaptation",
+      "brute_defense.bio_organic_armor.offensive_adaptation"
+    ],
+    [
+      "Scrapper Defense.Bio Armor.Defensive Adaptation",
+      "scrapper_defense.bio_organic_armor.defensive_adaptation"
+    ],
+    [
+      "Scrapper Defense.Bio Armor.Efficient Adaptation",
+      "scrapper_defense.bio_organic_armor.efficient_adaptation"
+    ],
+    [
+      "Scrapper Defense.Bio Armor.Offensive Adaptation",
+      "scrapper_defense.bio_organic_armor.offensive_adaptation"
+    ],
+    [
+      "Sentinel Defense.Bio Armor.Defensive Adaptation",
+      "sentinel_defense.bio_organic_armor.defensive_adaptation"
+    ],
+    [
+      "Sentinel Defense.Bio Armor.Efficient Adaptation",
+      "sentinel_defense.bio_organic_armor.efficient_adaptation"
+    ],
+    [
+      "Sentinel Defense.Bio Armor.Offensive Adaptation",
+      "sentinel_defense.bio_organic_armor.offensive_adaptation"
+    ],
+    [
+      "Stalker Defense.Bio Armor.Defensive Adaptation",
+      "stalker_defense.bio_organic_armor.defensive_adaptation"
+    ],
+    [
+      "Stalker Defense.Bio Armor.Efficient Adaptation",
+      "stalker_defense.bio_organic_armor.efficient_adaptation"
+    ],
+    [
+      "Stalker Defense.Bio Armor.Offensive Adaptation",
+      "stalker_defense.bio_organic_armor.offensive_adaptation"
+    ],
+    [
+      "Tanker Defense.Bio Armor.Defensive Adaptation",
+      "tanker_defense.bio_organic_armor.defensive_adaptation"
+    ],
+    [
+      "Tanker Defense.Bio Armor.Efficient Adaptation",
+      "tanker_defense.bio_organic_armor.efficient_adaptation"
+    ],
+    [
+      "Tanker Defense.Bio Armor.Offensive Adaptation",
+      "tanker_defense.bio_organic_armor.offensive_adaptation"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Traps_Trip_Mine",
+  "display_name": "Mine",
+  "display_fullname": "Villain Pets.Mine",
+  "display_help": "Devices",
+  "display_short_help": "Devices",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/TRAPS_TRIP_MINE.POWERSETS",
+  "icon": "traps_trip_mine_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Traps_Trip_Mine.Trip_Mine",
+    "Villain_Pets.Traps_Trip_Mine.Self_Destruct",
+    "Villain_Pets.Traps_Trip_Mine.Resistance"
+  ],
+  "power_display_names": [
+    "Trip Mine",
+    "Self Destruct",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "AoE Lethal/Fire, Knockback",
+    "Self Destruct",
+    "Resistance"
+  ]
+}

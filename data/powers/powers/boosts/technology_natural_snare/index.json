@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Snare",
+  "display_name": "Technology Natural Snare",
+  "display_fullname": "Boosts.Technology Natural Snare",
+  "display_help": "Increases the effectiveness of powers that slow",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_SNARE.POWERSETS",
+  "icon": "technology_natural_snare_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Snare.Technology_Natural_Snare"
+  ],
+  "power_display_names": [
+    "Nullifier Device (Slow)"
+  ],
+  "power_short_helps": [
+    "Enhances Slow Powers"
+  ]
+}

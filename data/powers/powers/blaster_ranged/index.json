@@ -1,0 +1,43 @@
+{
+  "name": "Blaster_Ranged",
+  "display_name": "Ranged",
+  "source_file": "DEFS/POWERS/BLASTER_RANGED.CATEGORIES",
+  "archetypes": [
+    "blaster"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "blaster_ranged.archery",
+    "blaster_ranged.assault_rifle",
+    "blaster_ranged.beam_rifle",
+    "blaster_ranged.dark_blast",
+    "blaster_ranged.dual_pistols",
+    "blaster_ranged.electrical_blast",
+    "blaster_ranged.energy_blast",
+    "blaster_ranged.fire_blast",
+    "blaster_ranged.ice_blast",
+    "blaster_ranged.psychic_blast",
+    "blaster_ranged.radiation_blast",
+    "blaster_ranged.seismic_blast",
+    "blaster_ranged.sonic_attack",
+    "blaster_ranged.water_blast"
+  ],
+  "powerset_display_names": [
+    "Archery",
+    "Assault Rifle",
+    "Beam Rifle",
+    "Dark Blast",
+    "Dual Pistols",
+    "Electrical Blast",
+    "Energy Blast",
+    "Fire Blast",
+    "Ice Blast",
+    "Psychic Blast",
+    "Radiation Blast",
+    "Seismic Blast",
+    "Sonic Attack",
+    "Water Blast"
+  ],
+  "powersets_with_requirements": []
+}

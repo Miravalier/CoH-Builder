@@ -1,0 +1,79 @@
+{
+  "tag": "InterfaceMaxHP",
+  "bears": [
+    [
+      "Incarnate.Interface.Degenerative Interface",
+      "incarnate.interface_silent.maxhp_debuff"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Core Genesis",
+      "incarnate.genesis.socket_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Genesis",
+      "incarnate.genesis.socket_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Core Genesis",
+      "incarnate.genesis.socket_total_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Radial Genesis",
+      "incarnate.genesis.socket_total_radial_genesis"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Core Flawless Interface",
+      "incarnate.interface.degenerative_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Core Interface",
+      "incarnate.interface.degenerative_core_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Interface",
+      "incarnate.interface.degenerative_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Partial Core Conversion",
+      "incarnate.interface.degenerative_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Partial Radial Conversion",
+      "incarnate.interface.degenerative_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Radial Flawless Interface",
+      "incarnate.interface.degenerative_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Radial Interface",
+      "incarnate.interface.degenerative_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Total Core Conversion",
+      "incarnate.interface.degenerative_total_core_conversion"
+    ]
+  ]
+}

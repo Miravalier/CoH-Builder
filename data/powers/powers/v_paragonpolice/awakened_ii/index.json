@@ -1,0 +1,22 @@
+{
+  "name": "Awakened_II",
+  "display_name": "Awakened_II",
+  "display_fullname": "V ParagonPolice.Awakened II",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/AWAKENED_II.POWERSETS",
+  "icon": "awakened_ii_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Awakened_II.Glinting_Eye"
+  ],
+  "power_display_names": [
+    "Glinting Eye"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

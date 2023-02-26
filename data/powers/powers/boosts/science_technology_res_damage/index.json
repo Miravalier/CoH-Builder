@@ -1,0 +1,22 @@
+{
+  "name": "Science_Technology_Res_Damage",
+  "display_name": "Science Technology Res Damage",
+  "display_fullname": "Boosts.Science Technology Res Damage",
+  "display_help": "Enhances the damage resistance of a power.",
+  "display_short_help": "Invention (Science, Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_TECHNOLOGY_RES_DAMAGE.POWERSETS",
+  "icon": "science_technology_res_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Technology_Res_Damage.Science_Technology_Res_Damage"
+  ],
+  "power_display_names": [
+    "Composite Epidermal Underlay (Resist Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage Resistance"
+  ]
+}

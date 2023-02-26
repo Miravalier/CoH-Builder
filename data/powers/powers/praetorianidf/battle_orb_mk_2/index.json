@@ -1,0 +1,26 @@
+{
+  "name": "Battle_Orb_Mk_2",
+  "display_name": "Battle_Orb_Mk_2",
+  "display_fullname": "PraetorianIDF.Battle Orb Mk 2",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/BATTLE_ORB_MK_2.POWERSETS",
+  "icon": "battle_orb_mk_2_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Battle_Orb_Mk_2.Sonic_Augmentation",
+    "PraetorianIDF.Battle_Orb_Mk_2.Plasma_Spray"
+  ],
+  "power_display_names": [
+    "Sonic Augmentation",
+    "Plasma Spray"
+  ],
+  "power_short_helps": [
+    "Team AoE Toggle +Res(Special)",
+    "Ranged Cone, Moderate DMG(Energy), Foe -Regen"
+  ]
+}

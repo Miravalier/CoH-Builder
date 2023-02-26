@@ -1,0 +1,21 @@
+{
+  "name": "Unseelie_Court",
+  "display_name": "Court",
+  "source_file": "DEFS/POWERS/UNSEELIE_COURT.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "unseelie_court.ghosts",
+    "unseelie_court.ghosts_boss",
+    "unseelie_court.ghosts_lt",
+    "unseelie_court.ghosts_lt_boss"
+  ],
+  "powerset_display_names": [
+    "Ghosts",
+    "Ghosts_Boss",
+    "Ghosts_Lt",
+    "Ghosts_Lt_Boss"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "CyberwarriorsBossSpecial",
+  "display_name": "CyberwarriorsBossSpecial",
+  "display_fullname": "SummerEvent.CyberwarriorsBossSpecial",
+  "display_help": "Gotterdammerung",
+  "display_short_help": "Gotterdammerung",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/CYBERWARRIORSBOSSSPECIAL.POWERSETS",
+  "icon": "cyberwarriorsbossspecial_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.CyberwarriorsBossSpecial.Earthshaker",
+    "SummerEvent.CyberwarriorsBossSpecial.Earthshaker_Finale"
+  ],
+  "power_display_names": [
+    "Earthshaker",
+    "Earthshaker"
+  ],
+  "power_short_helps": [
+    "Targeted AoE, Moderate DMG(Smashing), Minor DoT(Lethal), -Fly, Chance to Knockdown",
+    "Targeted AoE, Moderate DMG(Smashing), Minor DoT(Lethal), -Fly, Chance to Knockdown"
+  ]
+}

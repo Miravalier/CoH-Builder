@@ -1,0 +1,29 @@
+{
+  "name": "Mastermind_Summon",
+  "display_name": "Summon",
+  "source_file": "DEFS/POWERS/MASTERMIND_SUMMON.CATEGORIES",
+  "archetypes": [
+    "mastermind"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "mastermind_summon.beast_mastery",
+    "mastermind_summon.demon_summoning",
+    "mastermind_summon.mercenaries",
+    "mastermind_summon.necromancy",
+    "mastermind_summon.ninjas",
+    "mastermind_summon.robotics",
+    "mastermind_summon.thugs"
+  ],
+  "powerset_display_names": [
+    "Beast Mastery",
+    "Demon Summoning",
+    "Mercenaries",
+    "Necromancy",
+    "Ninjas",
+    "Robotics",
+    "Thugs"
+  ],
+  "powersets_with_requirements": []
+}

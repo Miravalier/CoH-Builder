@@ -1,0 +1,38 @@
+{
+  "name": "Troll_Caliban_Powers",
+  "display_name": "Troll_Caliban_Powers",
+  "display_fullname": "Trolls.Troll Caliban Powers",
+  "display_help": "Trolls",
+  "display_short_help": "Trolls",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TROLLS/TROLL_CALIBAN_POWERS.POWERSETS",
+  "icon": "troll_caliban_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Trolls.Troll_Caliban_Powers.Punch",
+    "Trolls.Troll_Caliban_Powers.Haymaker",
+    "Trolls.Troll_Caliban_Powers.Foot_Stomp",
+    "Trolls.Troll_Caliban_Powers.Hurl_Boulder",
+    "Trolls.Troll_Caliban_Powers.Invincible"
+  ],
+  "power_display_names": [
+    "Punch",
+    "Haymaker",
+    "Foot Stomp",
+    "Hurl Boulder",
+    "Invincible"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "PBAoE, Moderate DMG(Smash), Knockback",
+    "Ranged Smash, Knockback",
+    "Click: Self +DEF, Res(Effects)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BossMissileLauncher",
+  "display_name": "Missile Launcher",
+  "display_fullname": "CouncilEmpire.Missile Launcher",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCILEMPIRE/BOSSMISSILELAUNCHER.POWERSETS",
+  "icon": "bossmissilelauncher_set.png",
+  "requires": "",
+  "power_names": [
+    "CouncilEmpire.BossMissileLauncher.Missile_Launcher"
+  ],
+  "power_display_names": [
+    "Missile Launcher"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal/Fire, +KB"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "ReverbChantOfRebut",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Confounding Chant",
+      "controller_control.symphony_control.confounding_chant"
+    ],
+    [
+      "Dominator Control.Symphony Control.Confounding Chant",
+      "dominator_control.symphony_control.confounding_chant"
+    ],
+    [
+      "Mission Maker Attacks.Symphony Control.Confounding Chant",
+      "mission_maker_attacks.symphony_control.confounding_chant"
+    ],
+    [
+      "Mission Maker Secondary.Symphony Control.Confounding Chant",
+      "mission_maker_secondary.symphony_control.confounding_chant"
+    ]
+  ],
+  "affects": []
+}

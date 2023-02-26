@@ -1,0 +1,88 @@
+{
+  "name": "MidnightMasters_Ghoulish_Mystic_Female",
+  "gender": "GENDER_FEMALE",
+  "group_name": "MidnightMasters",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 44,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "More powerful than most of Master Midnight's horde, this aberration retains a number of magical abilities from its life.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "MidnightMasters.Resistances.Damage_LT",
+      "MidnightMasters.Ghoulish_Mystic.Rune_Blast",
+      "MidnightMasters.Ghoulish_Mystic.Lift",
+      "MidnightMasters.Ghoulish_Mystic.Sands_of_Mu",
+      "MidnightMasters.Ghoulish_Mystic.Animate_Acolytes"
+    ],
+    "power_display_names": [
+      "Damage Resistance",
+      "Rune Blast",
+      "Lift",
+      "Sands of Mu",
+      "Animate Acolytes"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "MidnightMasters",
+        "power_set": "Resistances",
+        "power": "Damage_LT",
+        "level": 0
+      },
+      {
+        "power_category": "MidnightMasters",
+        "power_set": "Ghoulish_Mystic",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 44,
+      "experience": 0,
+      "display_names": [
+        "Ghoulish Mystic"
+      ],
+      "costumes": [
+        "MidnightMastersFemLt1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Security_Guard_SubmachineGun",
+  "display_name": "Security_Guard_SubmachineGun",
+  "display_fullname": "V Security Guards.Security Guard SubmachineGun",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_SUBMACHINEGUN.POWERSETS",
+  "icon": "security_guard_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_SubmachineGun.Burst"
+  ],
+  "power_display_names": [
+    "Burst"
+  ],
+  "power_short_helps": [
+    "-Def"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Brute_Soul_Mastery",
+  "display_name": "Soul Mastery",
+  "display_fullname": "Epic.Soul Mastery",
+  "display_help": "Ghost Widow has granted you access to the power of darkness and souls. She has shown you how to use the souls of your victims to destroy your enemies. This has granted you access to powers and abilities you have never had before.",
+  "display_short_help": "Soul Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/BRUTE_SOUL_MASTERY.POWERSETS",
+  "icon": "brute_soul_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Brute_Soul_Mastery.Gloom",
+    "Epic.Brute_Soul_Mastery.Soul_Tentacles",
+    "Epic.Brute_Soul_Mastery.Darkest_Night",
+    "Epic.Brute_Soul_Mastery.Dark_Obliteration",
+    "Epic.Brute_Soul_Mastery.Summon_Widow"
+  ],
+  "power_display_names": [
+    "Gloom",
+    "Soul Tentacles",
+    "Darkest Night",
+    "Dark Obliteration",
+    "Summon Widow"
+  ],
+  "power_short_helps": [
+    "Ranged, High DoT(Negative), Foe -ACC",
+    "Ranged (Cone), Light DMG(Negative), Foe Immobilize",
+    "Toggle: Ranged (Targeted AoE), Foe -DMG -To Hit",
+    "Ranged (Targeted AoE), Light DMG(Negative), Foe -ACC",
+    "Summon Blood Widow: Melee Moderate DMG(Lethal)"
+  ]
+}

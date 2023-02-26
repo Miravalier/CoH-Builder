@@ -1,0 +1,22 @@
+{
+  "name": "Titan_Buff_Recharge",
+  "display_name": "Titan Buff Recharge",
+  "display_fullname": "Boosts.Titan Buff Recharge",
+  "display_help": "Enhances the effectiveness of accuracy and defense buffs and increases the attack rate of a power.",
+  "display_short_help": "Titan (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TITAN_BUFF_RECHARGE.POWERSETS",
+  "icon": "titan_buff_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Titan_Buff_Recharge.Titan_Buff_Recharge"
+  ],
+  "power_display_names": [
+    "Titan Citrine Shard (Rech/ToHit/Def)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense Buffs and Increases Attack Rate"
+  ]
+}

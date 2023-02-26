@@ -1,0 +1,34 @@
+{
+  "name": "PsionicVoid",
+  "display_name": "Psionic Void",
+  "display_fullname": "Awakened.Psionic Void",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/PSIONICVOID.POWERSETS",
+  "icon": "psionicvoid_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.PsionicVoid.Master",
+    "Awakened.PsionicVoid.Small",
+    "Awakened.PsionicVoid.Medium",
+    "Awakened.PsionicVoid.Large"
+  ],
+  "power_display_names": [
+    "Master",
+    "Psionic Void",
+    "Psionic Void",
+    "Psionic Void"
+  ],
+  "power_short_helps": [
+    "DMG (Psionic)",
+    "DMG (Psionic)",
+    "DMG (Psionic)",
+    "DMG (Psionic)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Family_Grenade",
+  "display_name": "Family Grenade",
+  "display_fullname": "Family.Family Grenade",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/FAMILY_GRENADE.POWERSETS",
+  "icon": "family_grenade_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Family_Grenade.Frag_Grenade"
+  ],
+  "power_display_names": [
+    "Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

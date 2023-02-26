@@ -1,0 +1,30 @@
+{
+  "name": "NictusOrb_2",
+  "display_name": "NictusOrb_2",
+  "display_fullname": "Romans.NictusOrb 2",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/NICTUSORB_2.POWERSETS",
+  "icon": "nictusorb_2_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.NictusOrb_2.Portal",
+    "Romans.NictusOrb_2.Resistance",
+    "Romans.NictusOrb_2.Fly"
+  ],
+  "power_display_names": [
+    "Portal",
+    "Resistance",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Resistance",
+    "Self Travel"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Earthquake",
+  "display_name": "Earthquake",
+  "display_fullname": "TalonsOfVengeance.Earthquake",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/EARTHQUAKE.POWERSETS",
+  "icon": "earthquake_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Earthquake.Earthquake_Master",
+    "TalonsOfVengeance.Earthquake.Earthquake",
+    "TalonsOfVengeance.Earthquake.Earthquake_Debuff"
+  ],
+  "power_display_names": [
+    "Earthquake",
+    "Earthquake",
+    "Earthquake"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "PBAoE, High DoT(Smashing), -Fly, Knockup",
+    "PBAoE, -Fly(Foe), -Speed(All, Foe), -To Hit(Foe), -Rech(Foe)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ice_Shard_Buff",
+  "display_name": "Ice Shard Buff",
+  "display_fullname": "Event.Ice Shard Buff",
+  "display_help": "Ice_Shard",
+  "display_short_help": "Ice_Shard",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/ICE_SHARD_BUFF.POWERSETS",
+  "icon": "ice_shard_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Ice_Shard_Buff.Wintery_Aegis"
+  ],
+  "power_display_names": [
+    "Wintery Aegis"
+  ],
+  "power_short_helps": [
+    "Buff Lord Winter, Special"
+  ]
+}

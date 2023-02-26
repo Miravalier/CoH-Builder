@@ -1,0 +1,46 @@
+{
+  "name": "Aurora_Borealis",
+  "display_name": "Aurora Borealis",
+  "display_fullname": "DilemmaDiabolique.Aurora Borealis",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/AURORA_BOREALIS.POWERSETS",
+  "icon": "aurora_borealis_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Aurora_Borealis.Light_Torrent",
+    "DilemmaDiabolique.Aurora_Borealis.Subdue",
+    "DilemmaDiabolique.Aurora_Borealis.Psychic_Scream",
+    "DilemmaDiabolique.Aurora_Borealis.Telekinetic_Blast",
+    "DilemmaDiabolique.Aurora_Borealis.Psychic_Wail",
+    "DilemmaDiabolique.Aurora_Borealis.Scramble_Thoughts",
+    "DilemmaDiabolique.Aurora_Borealis.Light_Explosion"
+  ],
+  "power_display_names": [
+    "Light Torrent",
+    "Subdue",
+    "Psychic Scream",
+    "Telekinetic Blast",
+    "Psychic Wail",
+    "Scramble Thoughts",
+    "Light Explosion"
+  ],
+  "power_short_helps": [
+    "Cone Energy/Smash, Knockback",
+    "Ranged, Moderate DMG(Psionic), Foe Immobilize",
+    "Ranged (Cone), Moderate DMG(Psionic), Foe -Recharge",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback",
+    "Close (AoE), Extreme DMG(Psionic), Foe Disorient -Recharge, Self -Recovery",
+    "Ranged, Minor DMG(Psionic), Foe Disorient",
+    "Targeted AoE Smash/Energy, Knockback"
+  ]
+}

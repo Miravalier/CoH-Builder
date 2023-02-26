@@ -1,0 +1,30 @@
+{
+  "tag": "Overpower",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Aria of Stasis",
+      "controller_control.symphony_control.aria_of_stasis"
+    ],
+    [
+      "Controller Control.Symphony Control.Chords of Despair",
+      "controller_control.symphony_control.chords_of_despair"
+    ],
+    [
+      "Controller Control.Symphony Control.Dreadful Discord",
+      "controller_control.symphony_control.dreadful_discord"
+    ],
+    [
+      "Controller Control.Symphony Control.Hymn of Dissonance",
+      "controller_control.symphony_control.hymn_of_dissonance"
+    ],
+    [
+      "Controller Control.Symphony Control.Melodic Binding",
+      "controller_control.symphony_control.melodic_binding"
+    ],
+    [
+      "Redirects.Symphony Control.Impassioned Serenade",
+      "redirects.symphony_control.impassioned_serenade_controller"
+    ]
+  ],
+  "affects": []
+}

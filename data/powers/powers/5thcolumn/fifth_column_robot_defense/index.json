@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Robot_Defense",
+  "display_name": "Fifth_Column_Robot_Defense",
+  "display_fullname": "5thColumn.Fifth Column Robot Defense",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_ROBOT_DEFENSE.POWERSETS",
+  "icon": "fifth_column_robot_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Robot_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

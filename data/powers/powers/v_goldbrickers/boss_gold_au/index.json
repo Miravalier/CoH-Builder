@@ -1,0 +1,54 @@
+{
+  "name": "Boss_Gold_AU",
+  "display_name": "Boss Gold AU",
+  "display_fullname": "V GoldBrickers.Boss Gold AU",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    44,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/BOSS_GOLD_AU.POWERSETS",
+  "icon": "crey_power_tank_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Boss_Gold_AU.Gold_Skin",
+    "V_GoldBrickers.Boss_Gold_AU.Barrage",
+    "V_GoldBrickers.Boss_Gold_AU.Energy_Punch",
+    "V_GoldBrickers.Boss_Gold_AU.Whirling_Hands",
+    "V_GoldBrickers.Boss_Gold_AU.Bone_Smasher",
+    "V_GoldBrickers.Boss_Gold_AU.Total_Focus",
+    "V_GoldBrickers.Boss_Gold_AU.Power_Bolt",
+    "V_GoldBrickers.Boss_Gold_AU.Power_Blast",
+    "V_GoldBrickers.Boss_Gold_AU.Explosive_Blast"
+  ],
+  "power_display_names": [
+    "Phasing Gold Skin",
+    "Barrage",
+    "Energy Punch",
+    "Whirling Hands",
+    "Bone Smasher",
+    "Total Focus",
+    "Power Bolt",
+    "Power Blast",
+    "Explosive Blast"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Disorient",
+    "Disorient",
+    "Melee AoE Smash/Negative",
+    "Disorient",
+    "Melee, Extreme DMG(Negative/Smash), Foe Disorient",
+    "Ranged Negative Knockback",
+    "Ranged Negative/Smash, Knockback",
+    "Targeted AoE Smash/Energy, Knockback"
+  ]
+}

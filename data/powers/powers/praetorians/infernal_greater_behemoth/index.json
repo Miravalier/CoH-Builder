@@ -1,0 +1,50 @@
+{
+  "name": "Infernal_Greater_Behemoth",
+  "display_name": "Infernal_Greater_Behemoth",
+  "display_fullname": "Praetorians.Infernal Greater Behemoth",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/INFERNAL_GREATER_BEHEMOTH.POWERSETS",
+  "icon": "infernal_greater_behemoth_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Infernal_Greater_Behemoth.Fire_Breath",
+    "Praetorians.Infernal_Greater_Behemoth.Flares",
+    "Praetorians.Infernal_Greater_Behemoth.Fire_Blast",
+    "Praetorians.Infernal_Greater_Behemoth.Fire_Sword",
+    "Praetorians.Infernal_Greater_Behemoth.Swipe",
+    "Praetorians.Infernal_Greater_Behemoth.Healing_Flames",
+    "Praetorians.Infernal_Greater_Behemoth.Resistance",
+    "Praetorians.Infernal_Greater_Behemoth.Fire_Ball"
+  ],
+  "power_display_names": [
+    "Fire Breath",
+    "Flares",
+    "Fire Blast",
+    "Fire Sword",
+    "Swipe",
+    "Healing Flames",
+    "Resistance",
+    "Fire Ball"
+  ],
+  "power_short_helps": [
+    "Moderate DoT(Fire)",
+    "Moderate DoT(Fire)",
+    "Moderate DoT(Fire)",
+    "Moderate DoT(Fire)",
+    "Melee Heavy Lethal",
+    "Self Heal, Res(Disorient)",
+    "Auto Res Fire",
+    "Moderate DoT(Fire)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Electrical_Brute_High",
+  "display_name": "Electrical Brute High",
+  "display_fullname": "V GenericVillains.Electrical Brute High",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ELECTRICAL_BRUTE_HIGH.POWERSETS",
+  "icon": "electrical_brute_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Electrical_Brute_High.Thunderous_Blast"
+  ],
+  "power_display_names": [
+    "Thunderous Blast"
+  ],
+  "power_short_helps": [
+    "-Recovery"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Launch_B",
+  "display_name": "Crafted Launch B",
+  "display_fullname": "Boosts.Crafted Launch B",
+  "display_help": "Increases jump height and speed by {Boost.Attrib.Movement.Scale}%. Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Launch",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_LAUNCH_B.POWERSETS",
+  "icon": "e_icon_launch.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Launch_B.Crafted_Launch_B"
+  ],
+  "power_display_names": [
+    "Launch: Jumping Speed/Endurance"
+  ],
+  "power_short_helps": [
+    "+Jump, -End Cost"
+  ]
+}

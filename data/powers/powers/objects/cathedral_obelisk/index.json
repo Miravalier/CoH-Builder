@@ -1,0 +1,30 @@
+{
+  "name": "Cathedral_Obelisk",
+  "display_name": "Cathedral Obelisk",
+  "display_fullname": "Objects.Cathedral Obelisk",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/CATHEDRAL_OBELISK.POWERSETS",
+  "icon": "cathedral_obelisk_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Cathedral_Obelisk.Resistance",
+    "Objects.Cathedral_Obelisk.Draw_Strength",
+    "Objects.Cathedral_Obelisk.Force_Field"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Draw Strength",
+    "Force Field"
+  ],
+  "power_short_helps": [
+    "Inherent",
+    "Repel",
+    "Untouchable"
+  ]
+}

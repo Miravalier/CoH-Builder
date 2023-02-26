@@ -1,0 +1,26 @@
+{
+  "name": "Attendant",
+  "display_name": "Attendant",
+  "display_fullname": "CarnivalOfLight.Attendant",
+  "display_help": "Praetorian Carnival",
+  "display_short_help": "Praetorian Carnival",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CARNIVALOFLIGHT/ATTENDANT.POWERSETS",
+  "icon": "attendant_set.png",
+  "requires": "",
+  "power_names": [
+    "CarnivalOfLight.Attendant.Shimmering_Smash",
+    "CarnivalOfLight.Attendant.Shimmering_Bolt"
+  ],
+  "power_display_names": [
+    "Shimmering Smash",
+    "Shimmering Bolt"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Energy/Smashing), -Heal(Foe)",
+    "Melee, Moderate DMG(Smashing/Energy), -ToHit(Foe)"
+  ]
+}

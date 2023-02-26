@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Glimpse_of_the_Abyss_B",
+  "display_name": "Crafted Glimpse of the Abyss B",
+  "display_fullname": "Boosts.Crafted Glimpse of the Abyss B",
+  "display_help": "Enhances the fear duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Glimpse of the Abyss",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_GLIMPSE_OF_THE_ABYSS_B.POWERSETS",
+  "icon": "crafted_glimpse_of_the_abyss_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Glimpse_of_the_Abyss_B.Crafted_Glimpse_of_the_Abyss_B"
+  ],
+  "power_display_names": [
+    "Glimpse of the Abyss: Endurance/Fear"
+  ],
+  "power_short_helps": [
+    "-End Cost, +Fear"
+  ]
+}

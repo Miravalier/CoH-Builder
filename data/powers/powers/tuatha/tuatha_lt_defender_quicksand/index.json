@@ -1,0 +1,22 @@
+{
+  "name": "Tuatha_Lt_Defender_Quicksand",
+  "display_name": "Tuatha_Lt_Defender_Quicksand",
+  "display_fullname": "Tuatha.Tuatha Lt Defender Quicksand",
+  "display_help": "The Tuatha",
+  "display_short_help": "The Tuatha",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TUATHA/TUATHA_LT_DEFENDER_QUICKSAND.POWERSETS",
+  "icon": "tuatha_lt_defender_quicksand_set.png",
+  "requires": "",
+  "power_names": [
+    "Tuatha.Tuatha_Lt_Defender_Quicksand.Quicksand"
+  ],
+  "power_display_names": [
+    "Quicksand"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), Foe -Speed, -Jump, -Fly"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ghosts_Boss_Low",
+  "display_name": "Ghosts Boss Low",
+  "display_fullname": "V Arachnos.Ghosts Boss Low",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/GHOSTS_BOSS_LOW.POWERSETS",
+  "icon": "ghosts_boss_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Ghosts_Boss_Low.Life_Drain"
+  ],
+  "power_display_names": [
+    "Life Drain"
+  ],
+  "power_short_helps": [
+    "-ACC"
+  ]
+}

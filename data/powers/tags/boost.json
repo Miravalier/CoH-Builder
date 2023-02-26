@@ -1,0 +1,146 @@
+{
+  "tag": "Boost",
+  "bears": [
+    [
+      "Boosts.Attuned Analyze Weakness F.Chance for +To Hit",
+      "boosts.attuned_analyze_weakness_f.attuned_analyze_weakness_f"
+    ],
+    [
+      "Boosts.Attuned Ascendency of the Dominator F.Rech/Chance for +Damage",
+      "boosts.attuned_ascendency_of_the_dominator_f.attuned_ascendency_of_the_dominator_f"
+    ],
+    [
+      "Boosts.Attuned Assassins Mark F.Rech/Chance to Recharge Build Up (Stalker)",
+      "boosts.attuned_assassins_mark_f.attuned_assassins_mark_f"
+    ],
+    [
+      "Boosts.Attuned Critical Strikes F.Rech/+50% Critical Hit Chance Proc (Scrapper)",
+      "boosts.attuned_critical_strikes_f.attuned_critical_strikes_f"
+    ],
+    [
+      "Boosts.Attuned Decimation F.Chance for Build Up",
+      "boosts.attuned_decimation_f.attuned_decimation_f"
+    ],
+    [
+      "Boosts.Attuned Defiant Barrage F.Rech/Chance for +Status Protection (Blaster)",
+      "boosts.attuned_defiant_barrage_f.attuned_defiant_barrage_f"
+    ],
+    [
+      "Boosts.Attuned Entomb F.Rech/Chance for +Absorb",
+      "boosts.attuned_entomb_f.attuned_entomb_f"
+    ],
+    [
+      "Boosts.Attuned Essence Transfer F.Rech/Global Heal Proc (Kheldian)",
+      "boosts.attuned_essence_transfer_f.attuned_essence_transfer_f"
+    ],
+    [
+      "Boosts.Attuned Force Feedback F.Chance for +Recharge",
+      "boosts.attuned_force_feedback_f.attuned_force_feedback_f"
+    ],
+    [
+      "Boosts.Attuned Gauntleted Fist F.Rech/Chance for +Absorb (Tanker)",
+      "boosts.attuned_gauntleted_fist_f.attuned_gauntleted_fist_f"
+    ],
+    [
+      "Boosts.Attuned Gaussians Synchronized FireControl F.Chance for Build Up",
+      "boosts.attuned_gaussians_synchronized_firecontrol_f.attuned_gaussians_synchronized_firecontrol_f"
+    ],
+    [
+      "Boosts.Attuned Might of the Tanker F.Rech/Chance for +Res(All)",
+      "boosts.attuned_might_of_the_tanker_f.attuned_might_of_the_tanker_f"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight F.Chance for +To Hit",
+      "boosts.attuned_siphon_insight_f.attuned_siphon_insight_f"
+    ],
+    [
+      "Boosts.Attuned Stalkers Guile F.Rech/Chance to Hide",
+      "boosts.attuned_stalkers_guile_f.attuned_stalkers_guile_f"
+    ],
+    [
+      "Boosts.Attuned Unrelenting Fury F.Rech/Chance for +Regen/+End Discount (Brute)",
+      "boosts.attuned_unrelenting_fury_f.attuned_unrelenting_fury_f"
+    ],
+    [
+      "Boosts.Crafted Analyze Weakness F.Chance for +To Hit",
+      "boosts.crafted_analyze_weakness_f.crafted_analyze_weakness_f"
+    ],
+    [
+      "Boosts.Crafted Coercive Persuasion F.Contagious Confusion",
+      "boosts.crafted_coercive_persuasion_f.crafted_coercive_persuasion_f"
+    ],
+    [
+      "Boosts.Crafted Decimation F.Chance for Build Up",
+      "boosts.crafted_decimation_f.crafted_decimation_f"
+    ],
+    [
+      "Boosts.Crafted Force Feedback F.Chance for +Recharge",
+      "boosts.crafted_force_feedback_f.crafted_force_feedback_f"
+    ],
+    [
+      "Boosts.Crafted Fortunata Hypnosis F.Chance for Placate",
+      "boosts.crafted_fortunata_hypnosis_f.crafted_fortunata_hypnosis_f"
+    ],
+    [
+      "Boosts.Crafted Gaussians Synchronized FireControl F.Chance for Build Up",
+      "boosts.crafted_gaussians_synchronized_firecontrol_f.crafted_gaussians_synchronized_firecontrol_f"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight F.Chance for +To Hit",
+      "boosts.crafted_siphon_insight_f.crafted_siphon_insight_f"
+    ],
+    [
+      "Boosts.Crafted Soulbound Allegiance F.Chance for Build Up",
+      "boosts.crafted_soulbound_allegiance_f.crafted_soulbound_allegiance_f"
+    ],
+    [
+      "Boosts.Superior Attuned Assassins Mark F.Rech/Chance to Recharge Build Up (Stalker)",
+      "boosts.superior_attuned_superior_assassins_mark_f.superior_attuned_superior_assassins_mark_f"
+    ],
+    [
+      "Boosts.Superior Attuned Coercive Persuasion F.Contagious Confusion",
+      "boosts.superior_attuned_coercive_persuasion_f.superior_attuned_coercive_persuasion_f"
+    ],
+    [
+      "Boosts.Superior Attuned Critical Strikes F.Rech/+50% Critical Hit Chance Proc (Scrapper)",
+      "boosts.superior_attuned_superior_critical_strikes_f.superior_attuned_superior_critical_strikes_f"
+    ],
+    [
+      "Boosts.Superior Attuned Defiant Barrage F.Rech/Chance for +Status Protection (Blaster)",
+      "boosts.superior_attuned_superior_defiant_barrage_f.superior_attuned_superior_defiant_barrage_f"
+    ],
+    [
+      "Boosts.Superior Attuned Entomb F.Rech/Chance for +Absorb",
+      "boosts.superior_attuned_entomb_f.superior_attuned_entomb_f"
+    ],
+    [
+      "Boosts.Superior Attuned Essence Transfer F.Rech/Global Heal Proc (Kheldian)",
+      "boosts.superior_attuned_superior_essence_transfer_f.superior_attuned_superior_essence_transfer_f"
+    ],
+    [
+      "Boosts.Superior Attuned Fortunata Hypnosis F.Chance for Placate",
+      "boosts.superior_attuned_fortunata_hypnosis_f.superior_attuned_fortunata_hypnosis_f"
+    ],
+    [
+      "Boosts.Superior Attuned Gauntleted Fist F.Rech/Chance for +Absorb (Tanker)",
+      "boosts.superior_attuned_superior_gauntleted_fist_f.superior_attuned_superior_gauntleted_fist_f"
+    ],
+    [
+      "Boosts.Superior Attuned Might of the Tanker F.Rech/Chance for +Res(All)",
+      "boosts.superior_attuned_superior_might_of_the_tanker_f.superior_attuned_superior_might_of_the_tanker_f"
+    ],
+    [
+      "Boosts.Superior Attuned Soulbound Allegiance F.Chance for Build Up",
+      "boosts.superior_attuned_soulbound_allegiance_f.superior_attuned_soulbound_allegiance_f"
+    ],
+    [
+      "Boosts.Superior Attuned Stalkers Guile F.Rech/Chance to Hide",
+      "boosts.superior_attuned_superior_stalkers_guile_f.superior_attuned_superior_stalkers_guile_f"
+    ],
+    [
+      "Boosts.Superior Attuned Unrelenting Fury F.Rech/Chance for +Regen/+End Discount (Brute)",
+      "boosts.superior_attuned_superior_unrelenting_fury_f.superior_attuned_superior_unrelenting_fury_f"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Unleashed",
+  "display_name": "Unleashed",
+  "display_fullname": "V ParagonPolice.Unleashed",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/UNLEASHED.POWERSETS",
+  "icon": "unleashed_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Unleashed.Restore_Essence",
+    "V_ParagonPolice.Unleashed.Proton_Scatter",
+    "V_ParagonPolice.Unleashed.Luminous_Detonation",
+    "V_ParagonPolice.Unleashed.Incandescent_Strike",
+    "V_ParagonPolice.Unleashed.Shining_Shield",
+    "V_ParagonPolice.Unleashed.Bright_Nova"
+  ],
+  "power_display_names": [
+    "Restore Essence",
+    "Proton Scatter",
+    "Luminous Detonation",
+    "Incandescent Strike",
+    "Shining Shield",
+    "Bright Nova"
+  ],
+  "power_short_helps": [
+    "Self Rez",
+    "-DEF",
+    "-DEF",
+    "Hold, -DEF, -Fly",
+    "Toggle: Self +Res(Smash, Lethal)",
+    "Toggle: Shapeshift, Special"
+  ]
+}

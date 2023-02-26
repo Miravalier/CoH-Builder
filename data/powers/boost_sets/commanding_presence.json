@@ -1,0 +1,486 @@
+{
+  "name": "Commanding_Presence",
+  "display_name": "Commanding Presence",
+  "group_name": "Pet Damage",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Pet Damage"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Commanding_Presence_A.Crafted_Commanding_Presence_A",
+      "Boosts.Attuned_Commanding_Presence_A.Attuned_Commanding_Presence_A"
+    ],
+    [
+      "Boosts.Crafted_Commanding_Presence_B.Crafted_Commanding_Presence_B",
+      "Boosts.Attuned_Commanding_Presence_B.Attuned_Commanding_Presence_B"
+    ],
+    [
+      "Boosts.Crafted_Commanding_Presence_C.Crafted_Commanding_Presence_C",
+      "Boosts.Attuned_Commanding_Presence_C.Attuned_Commanding_Presence_C"
+    ],
+    [
+      "Boosts.Crafted_Commanding_Presence_D.Crafted_Commanding_Presence_D",
+      "Boosts.Attuned_Commanding_Presence_D.Attuned_Commanding_Presence_D"
+    ],
+    [
+      "Boosts.Crafted_Commanding_Presence_E.Crafted_Commanding_Presence_E",
+      "Boosts.Attuned_Commanding_Presence_E.Attuned_Commanding_Presence_E"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.commanding_presence"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_2",
+          "Small Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_2",
+          "Small Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_2",
+          "Small Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_1",
+          "Tiny Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_commanding_presence_e": [
+        [
+          "set_bonus.set_bonus.commanding_presence",
+          "Commanding Presence"
+        ]
+      ],
+      "crafted_commanding_presence_e": [
+        [
+          "set_bonus.set_bonus.commanding_presence",
+          "Commanding Presence"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png",
+      "e_icon_commandingpresence.png"
+    ],
+    "boosts": [
+      [
+        "Commanding Presence: Accuracy/Damage",
+        "Attuned Commanding Presence: Accuracy/Damage"
+      ],
+      [
+        "Commanding Presence: Damage/Endurance",
+        "Attuned Commanding Presence: Damage/Endurance"
+      ],
+      [
+        "Commanding Presence: Accuracy/Endurance",
+        "Attuned Commanding Presence: Accuracy/Endurance"
+      ],
+      [
+        "Commanding Presence: Accuracy/Damage/Endurance",
+        "Attuned Commanding Presence: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Commanding Presence: Proc/Global",
+        "Attuned Commanding Presence: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_commanding_presence_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_commanding_presence_a.attuned_commanding_presence_a",
+          "Commanding Presence: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Commanding Presence: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "attuned_commanding_presence_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Commanding Presence: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "crafted_commanding_presence_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_commanding_presence_b.attuned_commanding_presence_b",
+          "Commanding Presence: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Commanding Presence: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "attuned_commanding_presence_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Commanding Presence: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "crafted_commanding_presence_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_commanding_presence_c.attuned_commanding_presence_c",
+          "Commanding Presence: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Commanding Presence: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "attuned_commanding_presence_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Commanding Presence: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "crafted_commanding_presence_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_commanding_presence_d.attuned_commanding_presence_d",
+          "Commanding Presence: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Commanding Presence: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "attuned_commanding_presence_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Commanding Presence: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "crafted_commanding_presence_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_commanding_presence_e.attuned_commanding_presence_e",
+          "Commanding Presence: Taunt/Placate Resist"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Commanding Presence: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.commanding_presence",
+            "Commanding Presence"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      },
+      "attuned_commanding_presence_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Commanding Presence: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "commanding_presence",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.commanding_presence",
+            "Commanding Presence"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_commandingpresence.png"
+      }
+    }
+  }
+}

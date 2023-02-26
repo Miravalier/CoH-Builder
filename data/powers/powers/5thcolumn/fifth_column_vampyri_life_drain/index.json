@@ -1,0 +1,26 @@
+{
+  "name": "Fifth_Column_Vampyri_Life_Drain",
+  "display_name": "Fifth_Column_Vampyri_Life_Drain",
+  "display_fullname": "5thColumn.Fifth Column Vampyri Life Drain",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_VAMPYRI_LIFE_DRAIN.POWERSETS",
+  "icon": "fifth_column_vampyri_life_drain_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Vampyri_Life_Drain.Siphon_Life",
+    "5thColumn.Fifth_Column_Vampyri_Life_Drain.Life_Drain"
+  ],
+  "power_display_names": [
+    "Siphon Life",
+    "Life Drain"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-ACC"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Curtail_Speed_C",
+  "display_name": "Crafted Curtail Speed C",
+  "display_fullname": "Boosts.Crafted Curtail Speed C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Curtail Speed",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_CURTAIL_SPEED_C.POWERSETS",
+  "icon": "crafted_curtail_speed_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Curtail_Speed_C.Crafted_Curtail_Speed_C"
+  ],
+  "power_display_names": [
+    "Curtail Speed: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

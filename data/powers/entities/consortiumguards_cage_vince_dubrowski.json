@@ -1,0 +1,124 @@
+{
+  "name": "ConsortiumGuards_Cage_Vince_Dubrowski",
+  "gender": "GENDER_MALE",
+  "group_name": "ConsortiumGuards",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "If there's one thing Cage Consortium believes in, it's profit. That's why Vince Dubrowski's here. Vince is in charge of keeping down the rabble-rousing Scrapyarders who are throwing a wrench into the well-oiled machine of the Consortium's bauxite mining. Vince never questions his orders to bust up Scrapyarder safehouses, put down picket lines with militant force, or even have a few of the more troublesome louts arrested on false charges. Because if there's one thing Vince Dubrowski believes in, it's loyalty. He gave his soul to the Consortium long ago, and he's never looked back.",
+    "group_description": null,
+    "display_class_name": "Consortium Rep",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericVillains.SS_Brute.Jab",
+      "V_GenericVillains.SS_Brute.Punch",
+      "V_GenericVillains.SS_Brute.Hurl",
+      "V_GenericVillains.SS_Brute.Temp_Invulnerability",
+      "V_GenericVillains.SS_Brute_Low.Haymaker",
+      "V_GenericVillains.SS_Brute_Low.Hand_Clap",
+      "V_GenericVillains.SS_Brute_Low.Unyielding",
+      "V_GenericVillains.SS_Brute_Mid.Knockout_Blow",
+      "V_GenericVillains.SS_Brute_Mid.Foot_Stomp",
+      "V_Security_Guards.Security_Guard_Leadership_Assault.Assault",
+      "V_Security_Guards.Security_Guard_Leadership_Maneuvers.Maneuvers"
+    ],
+    "power_display_names": [
+      "Jab",
+      "Punch",
+      "Hurl",
+      "Temp Invulnerability",
+      "Haymaker",
+      "Hand Clap",
+      "Unyielding",
+      "Knockout Blow",
+      "Foot Stomp",
+      "Assault",
+      "Maneuvers"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "SS_Brute",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "SS_Brute_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "SS_Brute_Mid",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Security_Guards",
+        "power_set": "Security_Guard_Leadership_Assault",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Security_Guards",
+        "power_set": "Security_Guard_Leadership_Maneuvers",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Vince Dubrowski"
+      ],
+      "costumes": [
+        "Model_Vince_Dubrowski_NoRing"
+      ]
+    }
+  ]
+}

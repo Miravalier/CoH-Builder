@@ -1,0 +1,22 @@
+{
+  "name": "Science_Recovery",
+  "display_name": "Science Endurance",
+  "display_fullname": "Boosts.Science Recovery",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Experiment (Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_RECOVERY.POWERSETS",
+  "icon": "science_recovery_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Recovery.Science_Recovery"
+  ],
+  "power_display_names": [
+    "Impervium Exposure (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

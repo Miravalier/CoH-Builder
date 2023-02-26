@@ -1,0 +1,26 @@
+{
+  "name": "Sonic_Cannon",
+  "display_name": "Sonic_Cannon",
+  "display_fullname": "Guns.Sonic Cannon",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/SONIC_CANNON.POWERSETS",
+  "icon": "sonic_cannon_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Sonic_Cannon.Heavy_Sonic_Blast",
+    "Guns.Sonic_Cannon.Sonic_Blast"
+  ],
+  "power_display_names": [
+    "Heavy Sonic Blast",
+    "Sonic Blast"
+  ],
+  "power_short_helps": [
+    "-RES(All but Psionics)",
+    "-RES(All but Psionics)"
+  ]
+}

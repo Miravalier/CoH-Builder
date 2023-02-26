@@ -1,0 +1,79 @@
+{
+  "name": "BlackSwan_Minion",
+  "gender": "GENDER_MALE",
+  "group_name": "BlackSwan",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 45,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "These small shadowy beings serve Black Swan loyally. They seem to have no desires or motivations of their own. Some people say that after they encounter them they experience a chill for up to several weeks. They can channel dark energy into focused blasts.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Praetorians.Black_Swan_Minion.Dark_Blast",
+      "Praetorians.Black_Swan_Minion.Shadow_Punch",
+      "Praetorians.Black_Swan_Minion.Gloom",
+      "Praetorians.Black_Swan_Minion.Shadow_Maul",
+      "Praetorians.Black_Swan_Minion.Resistance"
+    ],
+    "power_display_names": [
+      "Dark Blast",
+      "Shadow Punch",
+      "Gloom",
+      "Shadow Maul",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Praetorians",
+        "power_set": "Black_Swan_Minion",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 45,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Minor Shadow"
+      ],
+      "costumes": [
+        "Black_Swan_Minions"
+      ]
+    }
+  ]
+}

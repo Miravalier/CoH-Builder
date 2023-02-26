@@ -1,0 +1,22 @@
+{
+  "name": "Summon_FX",
+  "display_name": "Summon FX",
+  "display_fullname": "FirBolg.Summon FX",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FIRBOLG/SUMMON_FX.POWERSETS",
+  "icon": "summon_fx_set.png",
+  "requires": "",
+  "power_names": [
+    "FirBolg.Summon_FX.SummonFX"
+  ],
+  "power_display_names": [
+    "SummonFX"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

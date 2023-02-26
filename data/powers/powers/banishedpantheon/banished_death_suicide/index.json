@@ -1,0 +1,22 @@
+{
+  "name": "Banished_Death_Suicide",
+  "display_name": "Banished_Death_Suicide",
+  "display_fullname": "BanishedPantheon.Banished Death Suicide",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_DEATH_SUICIDE.POWERSETS",
+  "icon": "banished_death_suicide_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Death_Suicide.Suicide"
+  ],
+  "power_display_names": [
+    "Suicide"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "name": "Gift_of_the_Ancients",
+  "display_name": "Gift of the Ancients",
+  "group_name": "Defense Sets",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Defense"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Gift_of_the_Ancients_A.Crafted_Gift_of_the_Ancients_A",
+      "Boosts.Attuned_Gift_of_the_Ancients_A.Attuned_Gift_of_the_Ancients_A"
+    ],
+    [
+      "Boosts.Crafted_Gift_of_the_Ancients_B.Crafted_Gift_of_the_Ancients_B",
+      "Boosts.Attuned_Gift_of_the_Ancients_B.Attuned_Gift_of_the_Ancients_B"
+    ],
+    [
+      "Boosts.Crafted_Gift_of_the_Ancients_C.Crafted_Gift_of_the_Ancients_C",
+      "Boosts.Attuned_Gift_of_the_Ancients_C.Attuned_Gift_of_the_Ancients_C"
+    ],
+    [
+      "Boosts.Crafted_Gift_of_the_Ancients_D.Crafted_Gift_of_the_Ancients_D",
+      "Boosts.Attuned_Gift_of_the_Ancients_D.Attuned_Gift_of_the_Ancients_D"
+    ],
+    [
+      "Boosts.Crafted_Gift_of_the_Ancients_E.Crafted_Gift_of_the_Ancients_E",
+      "Boosts.Attuned_Gift_of_the_Ancients_E.Attuned_Gift_of_the_Ancients_E"
+    ],
+    [
+      "Boosts.Crafted_Gift_of_the_Ancients_F.Crafted_Gift_of_the_Ancients_F",
+      "Boosts.Attuned_Gift_of_the_Ancients_F.Attuned_Gift_of_the_Ancients_F"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 40,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.gift_of_the_ancients"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense",
+      "Enhance Defense"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_3",
+          "Moderate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_2",
+          "Small Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_3",
+          "Moderate Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_4",
+          "Large Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_5",
+          "Huge Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_gift_of_the_ancients_f": [
+        [
+          "set_bonus.set_bonus.gift_of_the_ancients",
+          "Gift of the Ancients: Run Speed"
+        ]
+      ],
+      "crafted_gift_of_the_ancients_f": [
+        [
+          "set_bonus.set_bonus.gift_of_the_ancients",
+          "Gift of the Ancients: Run Speed"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png",
+      "e_icon_giftoftheancients.png"
+    ],
+    "boosts": [
+      [
+        "Gift of the Ancients: Defense/Endurance",
+        "Attuned Gift of the Ancients: Defense/Endurance"
+      ],
+      [
+        "Gift of the Ancients: Defense/Recharge",
+        "Attuned Gift of the Ancients: Defense/Recharge"
+      ],
+      [
+        "Gift of the Ancients: Endurance/Recharge",
+        "Attuned Gift of the Ancients: Endurance/Recharge"
+      ],
+      [
+        "Gift of the Ancients: Defense/Endurance/Recharge",
+        "Attuned Gift of the Ancients: Defense/Endurance/Recharge"
+      ],
+      [
+        "Gift of the Ancients: Defense",
+        "Attuned Gift of the Ancients: Defense"
+      ],
+      [
+        "Gift of the Ancients: Defense/Proc/Global",
+        "Attuned Gift of the Ancients: Defense/Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_gift_of_the_ancients_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gift_of_the_ancients_a.attuned_gift_of_the_ancients_a",
+          "Gift of the Ancients: Defense/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Gift of the Ancients: Defense/Endurance",
+        "aspects": [
+          "Defense",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "attuned_gift_of_the_ancients_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Gift of the Ancients: Defense/Endurance",
+        "aspects": [
+          "Defense",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "crafted_gift_of_the_ancients_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gift_of_the_ancients_b.attuned_gift_of_the_ancients_b",
+          "Gift of the Ancients: Defense/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Gift of the Ancients: Defense/Recharge",
+        "aspects": [
+          "Defense",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "attuned_gift_of_the_ancients_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Gift of the Ancients: Defense/Recharge",
+        "aspects": [
+          "Defense",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "crafted_gift_of_the_ancients_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gift_of_the_ancients_c.attuned_gift_of_the_ancients_c",
+          "Gift of the Ancients: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Gift of the Ancients: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "attuned_gift_of_the_ancients_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Gift of the Ancients: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "crafted_gift_of_the_ancients_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gift_of_the_ancients_d.attuned_gift_of_the_ancients_d",
+          "Gift of the Ancients: Defense/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Gift of the Ancients: Defense/Endurance/Recharge",
+        "aspects": [
+          "Defense",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "attuned_gift_of_the_ancients_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Gift of the Ancients: Defense/Endurance/Recharge",
+        "aspects": [
+          "Defense",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "crafted_gift_of_the_ancients_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gift_of_the_ancients_e.attuned_gift_of_the_ancients_e",
+          "Gift of the Ancients: Defense"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Gift of the Ancients: Defense",
+        "aspects": [
+          "Defense"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "attuned_gift_of_the_ancients_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Gift of the Ancients: Defense",
+        "aspects": [
+          "Defense"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "crafted_gift_of_the_ancients_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gift_of_the_ancients_f.attuned_gift_of_the_ancients_f",
+          "Gift of the Ancients: Defense/Increased Run Speed"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Gift of the Ancients: Defense/Proc/Global",
+        "aspects": [
+          "Defense"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.gift_of_the_ancients",
+            "Gift of the Ancients: Run Speed"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      },
+      "attuned_gift_of_the_ancients_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Gift of the Ancients: Defense/Proc/Global",
+        "aspects": [
+          "Defense"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gift_of_the_ancients",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.gift_of_the_ancients",
+            "Gift of the Ancients: Run Speed"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Defense",
+        "icon": "e_icon_giftoftheancients.png"
+      }
+    }
+  }
+}

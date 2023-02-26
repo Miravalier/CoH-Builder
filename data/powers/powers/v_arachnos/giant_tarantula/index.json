@@ -1,0 +1,38 @@
+{
+  "name": "Giant_Tarantula",
+  "display_name": "Giant_Tarantula",
+  "display_fullname": "V Arachnos.Giant Tarantula",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/GIANT_TARANTULA.POWERSETS",
+  "icon": "giant_tarantula_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Giant_Tarantula.Venom_Burst",
+    "V_Arachnos.Giant_Tarantula.Web_Sprayer",
+    "V_Arachnos.Giant_Tarantula.Claw_Pierce",
+    "V_Arachnos.Giant_Tarantula.Claw_Shred",
+    "V_Arachnos.Giant_Tarantula.Resistance"
+  ],
+  "power_display_names": [
+    "Venom Burst",
+    "Web Sprayer",
+    "Claw Pierce",
+    "Claw Shred",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "-DMG, -Recharge",
+    "Immobilize, -Fly, -Recharge",
+    "Moderate Lethal DMG",
+    "Cone Moderate Lethal DMG",
+    "Resistance"
+  ]
+}

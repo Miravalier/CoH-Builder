@@ -1,0 +1,269 @@
+{
+  "name": "Unbounded_Leap",
+  "display_name": "Unbounded Leap",
+  "group_name": "Leaping & Sprints",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Leaping"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Unbounded_Leap_A.Crafted_Unbounded_Leap_A",
+      "Boosts.Attuned_Unbounded_Leap_A.Attuned_Unbounded_Leap_A"
+    ],
+    [
+      "Boosts.Crafted_Unbounded_Leap_B.Crafted_Unbounded_Leap_B",
+      "Boosts.Attuned_Unbounded_Leap_B.Attuned_Unbounded_Leap_B"
+    ],
+    [
+      "Boosts.Crafted_Unbounded_Leap_C.Crafted_Unbounded_Leap_C",
+      "Boosts.Attuned_Unbounded_Leap_C.Attuned_Unbounded_Leap_C"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_move_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump",
+      "Enhance Jump"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_move_3",
+          "Moderate Improved Movement Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_unboundedleap.png",
+      "e_icon_unboundedleap.png",
+      "e_icon_unboundedleap.png",
+      "e_icon_unboundedleap.png",
+      "e_icon_unboundedleap.png",
+      "e_icon_unboundedleap.png"
+    ],
+    "boosts": [
+      [
+        "Unbounded Leap: Endurance",
+        "Attuned Unbounded Leap: Endurance"
+      ],
+      [
+        "Unbounded Leap: Jumping",
+        "Attuned Unbounded Leap: Jumping"
+      ],
+      [
+        "Unbounded Leap: Proc",
+        "Attuned Unbounded Leap: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_unbounded_leap_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_unbounded_leap_a.attuned_unbounded_leap_a",
+          "Unbounded Leap: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Unbounded Leap: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "unbounded_leap",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_unboundedleap.png"
+      },
+      "attuned_unbounded_leap_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Unbounded Leap: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "unbounded_leap",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_unboundedleap.png"
+      },
+      "crafted_unbounded_leap_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_unbounded_leap_b.attuned_unbounded_leap_b",
+          "Unbounded Leap: Jump"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Unbounded Leap: Jumping",
+        "aspects": [
+          "Jumping"
+        ],
+        "superior_scales": false,
+        "boostset_name": "unbounded_leap",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_unboundedleap.png"
+      },
+      "attuned_unbounded_leap_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Unbounded Leap: Jumping",
+        "aspects": [
+          "Jumping"
+        ],
+        "superior_scales": false,
+        "boostset_name": "unbounded_leap",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_unboundedleap.png"
+      },
+      "crafted_unbounded_leap_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_unbounded_leap_c.attuned_unbounded_leap_c",
+          "Unbounded Leap: Stealth"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Unbounded Leap: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "unbounded_leap",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_unboundedleap.png"
+      },
+      "attuned_unbounded_leap_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Unbounded Leap: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "unbounded_leap",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Jump",
+        "icon": "e_icon_unboundedleap.png"
+      }
+    }
+  }
+}

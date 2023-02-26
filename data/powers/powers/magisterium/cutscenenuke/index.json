@@ -1,0 +1,26 @@
+{
+  "name": "CutsceneNuke",
+  "display_name": "CutsceneNuke",
+  "display_fullname": "Magisterium.CutsceneNuke",
+  "display_help": "Tyrant",
+  "display_short_help": "Tyrant",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/CUTSCENENUKE.POWERSETS",
+  "icon": "cutscenenuke_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.CutsceneNuke.Obliteration",
+    "Magisterium.CutsceneNuke.Singularity"
+  ],
+  "power_display_names": [
+    "Obliteration",
+    "Singularity"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special"
+  ]
+}

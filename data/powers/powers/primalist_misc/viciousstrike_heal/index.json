@@ -1,0 +1,22 @@
+{
+  "name": "ViciousStrike_Heal",
+  "display_name": "Vicious Strike Primal Heal",
+  "display_fullname": "Primalist Misc.Vicious Strike Primal Heal",
+  "display_help": "Feral Might",
+  "display_short_help": "Feral Might",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRIMALIST_MISC/VICIOUSSTRIKE_HEAL.POWERSETS",
+  "icon": "viciousstrike_heal_set.png",
+  "requires": "",
+  "power_names": [
+    "Primalist_Misc.ViciousStrike_Heal.Vicious_Strike_Primal_Heal"
+  ],
+  "power_display_names": [
+    "Vicious Strike Primal Heal"
+  ],
+  "power_short_helps": [
+    "PBAoE Tiny Heal"
+  ]
+}

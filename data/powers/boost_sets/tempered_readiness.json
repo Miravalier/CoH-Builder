@@ -1,0 +1,550 @@
+{
+  "name": "Tempered_Readiness",
+  "display_name": "Tempered Readiness",
+  "group_name": "Slow Movement",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Slow"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Tempered_Readiness_A.Crafted_Tempered_Readiness_A",
+      "Boosts.Attuned_Tempered_Readiness_A.Attuned_Tempered_Readiness_A"
+    ],
+    [
+      "Boosts.Crafted_Tempered_Readiness_B.Crafted_Tempered_Readiness_B",
+      "Boosts.Attuned_Tempered_Readiness_B.Attuned_Tempered_Readiness_B"
+    ],
+    [
+      "Boosts.Crafted_Tempered_Readiness_C.Crafted_Tempered_Readiness_C",
+      "Boosts.Attuned_Tempered_Readiness_C.Attuned_Tempered_Readiness_C"
+    ],
+    [
+      "Boosts.Crafted_Tempered_Readiness_D.Crafted_Tempered_Readiness_D",
+      "Boosts.Attuned_Tempered_Readiness_D.Attuned_Tempered_Readiness_D"
+    ],
+    [
+      "Boosts.Crafted_Tempered_Readiness_E.Crafted_Tempered_Readiness_E",
+      "Boosts.Attuned_Tempered_Readiness_E.Attuned_Tempered_Readiness_E"
+    ],
+    [
+      "Boosts.Crafted_Tempered_Readiness_F.Crafted_Tempered_Readiness_F",
+      "Boosts.Attuned_Tempered_Readiness_F.Attuned_Tempered_Readiness_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_slow_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement",
+      "Enhance Slow Movement"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_2",
+          "Small Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_slow_2",
+          "Small Improved Slow Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_1",
+          "Tiny Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_2",
+          "Small Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_2",
+          "Small Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png",
+      "e_icon_temperedreadiness.png"
+    ],
+    "boosts": [
+      [
+        "Tempered Readiness: Accuracy/Slow",
+        "Attuned Tempered Readiness: Accuracy/Slow"
+      ],
+      [
+        "Tempered Readiness: Damage/Slow",
+        "Attuned Tempered Readiness: Damage/Slow"
+      ],
+      [
+        "Tempered Readiness: Accuracy/Endurance",
+        "Attuned Tempered Readiness: Accuracy/Endurance"
+      ],
+      [
+        "Tempered Readiness: Range/Slow",
+        "Attuned Tempered Readiness: Range/Slow"
+      ],
+      [
+        "Tempered Readiness: Endurance/Recharge/Slow",
+        "Attuned Tempered Readiness: Endurance/Recharge/Slow"
+      ],
+      [
+        "Tempered Readiness: Accuracy/Damage/Slow",
+        "Attuned Tempered Readiness: Accuracy/Damage/Slow"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_tempered_readiness_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_tempered_readiness_a.attuned_tempered_readiness_a",
+          "Tempered Readiness: Accuracy/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Tempered Readiness: Accuracy/Slow",
+        "aspects": [
+          "Accuracy",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "attuned_tempered_readiness_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Tempered Readiness: Accuracy/Slow",
+        "aspects": [
+          "Accuracy",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "crafted_tempered_readiness_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_tempered_readiness_b.attuned_tempered_readiness_b",
+          "Tempered Readiness: Damage/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Tempered Readiness: Damage/Slow",
+        "aspects": [
+          "Damage",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "attuned_tempered_readiness_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Tempered Readiness: Damage/Slow",
+        "aspects": [
+          "Damage",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "crafted_tempered_readiness_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_tempered_readiness_c.attuned_tempered_readiness_c",
+          "Tempered Readiness: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Tempered Readiness: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "attuned_tempered_readiness_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Tempered Readiness: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "crafted_tempered_readiness_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_tempered_readiness_d.attuned_tempered_readiness_d",
+          "Tempered Readiness: Range/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Tempered Readiness: Range/Slow",
+        "aspects": [
+          "Range",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "attuned_tempered_readiness_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Tempered Readiness: Range/Slow",
+        "aspects": [
+          "Range",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "crafted_tempered_readiness_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_tempered_readiness_e.attuned_tempered_readiness_e",
+          "Tempered Readiness: Endurance/Recharge/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Tempered Readiness: Endurance/Recharge/Slow",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "attuned_tempered_readiness_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Tempered Readiness: Endurance/Recharge/Slow",
+        "aspects": [
+          "Endurance",
+          "Recharge",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "crafted_tempered_readiness_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_tempered_readiness_f.attuned_tempered_readiness_f",
+          "Tempered Readiness: Accuracy/Damage/Slow"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Tempered Readiness: Accuracy/Damage/Slow",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      },
+      "attuned_tempered_readiness_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Tempered Readiness: Accuracy/Damage/Slow",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Slow"
+        ],
+        "superior_scales": false,
+        "boostset_name": "tempered_readiness",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Slow Movement",
+        "icon": "e_icon_temperedreadiness.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Arachnobot_Spiderling",
+  "display_name": "Arachnobot_Spiderling",
+  "display_fullname": "V Arachnos.Arachnobot Spiderling",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/ARACHNOBOT_SPIDERLING.POWERSETS",
+  "icon": "arachnobot_spiderling_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Arachnobot_Spiderling.Chain_Gun",
+    "V_Arachnos.Arachnobot_Spiderling.Claw",
+    "V_Arachnos.Arachnobot_Spiderling.Resistance",
+    "V_Arachnos.Arachnobot_Spiderling.Power_Jumping"
+  ],
+  "power_display_names": [
+    "Chain Gun",
+    "Claw",
+    "Resistance",
+    "Power Jumping"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "Moderate Lethal DMG",
+    "Auto Res Lethal Smash Energy Fire Cold",
+    "Self Auto, +Jump, +Speed"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Air_Burst_C",
+  "display_name": "Attuned Air Burst C",
+  "display_fullname": "Boosts.Attuned Air Burst C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Air Burst",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_AIR_BURST_C.POWERSETS",
+  "icon": "attuned_air_burst_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Air_Burst_C.Attuned_Air_Burst_C"
+  ],
+  "power_display_names": [
+    "Air Burst: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

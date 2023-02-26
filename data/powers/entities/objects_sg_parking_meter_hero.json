@@ -1,0 +1,94 @@
+{
+  "name": "Objects_SG_Parking_Meter_Hero",
+  "gender": "GENDER_MALE",
+  "group_name": "Objects",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 3,
+    "max_level": 3,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_DESTRUCTIBLE",
+    "ai_config": "InanimateObject",
+    "character_class_name": "minion_small",
+    "description": "Paragon City parking meter.",
+    "group_description": "Object",
+    "display_class_name": "Object",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Objects.Inherent.Resistance",
+      "Objects.Vulnerable.Resistance",
+      "Objects.Mayhem_Mission_Defense.Defense",
+      "Objects.Highly_Visible.Negative_Stealth"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Resistance",
+      "Defense",
+      "Negative Stealth"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Objects",
+        "power_set": "Inherent",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Objects",
+        "power_set": "Vulnerable",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Objects",
+        "power_set": "Mayhem_Mission_Defense",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Objects",
+        "power_set": "Highly_Visible",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 3,
+      "max_level": 3,
+      "experience": 0,
+      "display_names": [
+        "Parking Meter"
+      ],
+      "costumes": [
+        "parking_meter"
+      ]
+    }
+  ]
+}

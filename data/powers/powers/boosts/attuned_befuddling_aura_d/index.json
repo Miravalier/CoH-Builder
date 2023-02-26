@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Befuddling_Aura_D",
+  "display_name": "Attuned Befuddling Aura D",
+  "display_fullname": "Boosts.Attuned Befuddling Aura D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and confuse duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Befuddling Aura",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BEFUDDLING_AURA_D.POWERSETS",
+  "icon": "attuned_befuddling_aura_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Befuddling_Aura_D.Attuned_Befuddling_Aura_D"
+  ],
+  "power_display_names": [
+    "Befuddling Aura: Confuse/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Confuse"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Run",
+  "display_name": "Mutation Magic Run",
+  "display_fullname": "Boosts.Mutation Magic Run",
+  "display_help": "Increases the speed of a run power.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_RUN.POWERSETS",
+  "icon": "mutation_magic_run_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Run.Mutation_Magic_Run"
+  ],
+  "power_display_names": [
+    "Greaves (Run)"
+  ],
+  "power_short_helps": [
+    "Enhances Running Speed"
+  ]
+}

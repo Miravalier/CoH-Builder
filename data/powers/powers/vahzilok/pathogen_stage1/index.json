@@ -1,0 +1,58 @@
+{
+  "name": "Pathogen_Stage1",
+  "display_name": "Pathogen Stage1",
+  "display_fullname": "Vahzilok.Pathogen Stage1",
+  "display_help": "A collection of powers used by Pathogen and his mission.",
+  "display_short_help": "Pathogen Stage1",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    13,
+    3,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/PATHOGEN_STAGE1.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Pathogen_Stage1.Sleep_Dart_Stage1",
+    "Vahzilok.Pathogen_Stage1.Quickness_Stage1",
+    "Vahzilok.Pathogen_Stage1.Poison_Dart_Stage1",
+    "Vahzilok.Pathogen_Stage1.Paralytic_Dart_Stage1",
+    "Vahzilok.Pathogen_Stage1.Toxic_Dart_Stage1",
+    "Vahzilok.Pathogen_Stage1.Corrosive_Vial_Stage1",
+    "Vahzilok.Pathogen_Stage1.Weaken_Stage1",
+    "Vahzilok.Pathogen_Stage1.BoneSaw_Stage1",
+    "Vahzilok.Pathogen_Stage1.Cleaver_Stage1",
+    "Vahzilok.Pathogen_Stage1.Resistance_Stage1"
+  ],
+  "power_display_names": [
+    "Sleep Dart",
+    "Quickness",
+    "Poison Dart",
+    "Paralytic Dart",
+    "Toxic Dart",
+    "Corrosive Vial",
+    "Weaken",
+    "BoneSaw",
+    "Cleaver",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Auto: Self +Recharge, +SPD, Res (Slow)",
+    "Poison: DoT(Toxic), -Regeneration",
+    "Hold",
+    "Ranged, Minor DMG(Lethal), High DMG(Toxic)",
+    "Ranged (Targeted AoE), High DoT(Toxic), -Defense",
+    "Ranged Foe -DMG -To Hit, -Special",
+    "Melee Lethal, Med Dam",
+    "Melee Lethal, High Dam",
+    "Inherent"
+  ]
+}

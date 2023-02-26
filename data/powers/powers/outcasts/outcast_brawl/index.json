@@ -1,0 +1,22 @@
+{
+  "name": "Outcast_Brawl",
+  "display_name": "Outcast_Brawl",
+  "display_fullname": "Outcasts.Outcast Brawl",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_BRAWL.POWERSETS",
+  "icon": "outcast_brawl_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Brawl.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

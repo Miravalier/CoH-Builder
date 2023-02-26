@@ -1,0 +1,10 @@
+{
+  "tag": "KnockProc",
+  "bears": [
+    [
+      "Boosts.Generic Might of the Empire.Dam/Rech/Chance for Knockdown",
+      "boosts.generic_might_of_the_empire.generic_might_of_the_empire"
+    ]
+  ],
+  "affects": []
+}

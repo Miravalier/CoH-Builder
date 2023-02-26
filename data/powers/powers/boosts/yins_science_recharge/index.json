@@ -1,0 +1,22 @@
+{
+  "name": "Yins_Science_Recharge",
+  "display_name": "Yins Science Recharge",
+  "display_fullname": "Boosts.Yins Science Recharge",
+  "display_help": "Increases the attack rate of a power.",
+  "display_short_help": "Talisman (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/YINS_SCIENCE_RECHARGE.POWERSETS",
+  "icon": "yins_science_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Yins_Science_Recharge.Yins_Science_Recharge"
+  ],
+  "power_display_names": [
+    "Talisman of the Quickening (Recharge)"
+  ],
+  "power_short_helps": [
+    "Increases Attack Rate"
+  ]
+}

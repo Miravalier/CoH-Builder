@@ -1,0 +1,26 @@
+{
+  "name": "Axis_America_Rifle",
+  "display_name": "Fifth_Column_Minion_Soldier_Ranged",
+  "display_fullname": "Portal.Fifth Column Minion Soldier Ranged",
+  "display_help": "Axis America",
+  "display_short_help": "Axis America",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/AXIS_AMERICA_RIFLE.POWERSETS",
+  "icon": "axis_america_rifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Axis_America_Rifle.Incendiary_Assault_Rifle",
+    "Portal.Axis_America_Rifle.Cryonic_Assault_Rifle"
+  ],
+  "power_display_names": [
+    "Incendiary Assault Rifle",
+    "Cryonic Assault Rifle"
+  ],
+  "power_short_helps": [
+    "Minor DoT(Fire)",
+    "-Recharge, -SPD"
+  ]
+}

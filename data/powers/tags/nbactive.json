@@ -1,0 +1,75 @@
+{
+  "tag": "NBActive",
+  "bears": [
+    [
+      "Feral Might.Feral Might.Hunter's Howl",
+      "feral_might.feral_might.hunters_howl"
+    ],
+    [
+      "Primal Gifts.Primal Gifts.Pack Master",
+      "primal_gifts.primal_gift.pack_master"
+    ],
+    [
+      "Primal Gifts.Primal Gifts.Wild Roar",
+      "primal_gifts.primal_gift.wild_roar"
+    ],
+    [
+      "Primalist Misc.Feral Might.Brutal Swipe",
+      "primalist_misc.hunter_form_powers.brutal_swipe_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Brutal Swipe",
+      "primalist_misc.primal_form_powers.brutal_swipe_primal"
+    ],
+    [
+      "Primalist Misc.Feral Might.Feral Blow",
+      "primalist_misc.hunter_form_powers.feral_blow_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Feral Blow",
+      "primalist_misc.primal_form_powers.feral_blow_primal"
+    ],
+    [
+      "Primalist Misc.Feral Might.Primal Howl",
+      "primalist_misc.hunter_form_powers.primal_howl_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Primal Strike",
+      "primalist_misc.hunter_form_powers.primal_strike_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Primal Strike",
+      "primalist_misc.primal_form_powers.primal_strike_primal"
+    ],
+    [
+      "Primalist Misc.Feral Might.Savage Blow",
+      "primalist_misc.hunter_form_powers.savage_blow_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Savage Blow",
+      "primalist_misc.primal_form_powers.savage_blow_primal"
+    ],
+    [
+      "Primalist Misc.Feral Might.Upheaval",
+      "primalist_misc.hunter_form_powers.upheaval_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Upheaval",
+      "primalist_misc.primal_form_powers.upheaval_primal"
+    ],
+    [
+      "Primalist Misc.Feral Might.Vicious Strike",
+      "primalist_misc.hunter_form_powers.vicious_strike_hunter"
+    ],
+    [
+      "Primalist Misc.Feral Might.Vicious Strike",
+      "primalist_misc.primal_form_powers.vicious_strike_primal"
+    ]
+  ],
+  "affects": [
+    [
+      "Feral Might.Feral Might.Nature's Boon",
+      "feral_might.feral_might.natures_boon"
+    ]
+  ]
+}

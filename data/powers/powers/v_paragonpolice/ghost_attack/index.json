@@ -1,0 +1,38 @@
+{
+  "name": "Ghost_Attack",
+  "display_name": "Ghost Attack",
+  "display_fullname": "V ParagonPolice.Ghost Attack",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/GHOST_ATTACK.POWERSETS",
+  "icon": "ghost_attack_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Ghost_Attack.SCAR_Burst",
+    "V_ParagonPolice.Ghost_Attack.SCAR_Heavy_Burst",
+    "V_ParagonPolice.Ghost_Attack.SCAR_Snipe",
+    "V_ParagonPolice.Ghost_Attack.Tear_Gas",
+    "V_ParagonPolice.Ghost_Attack.Flashbang_Grenades"
+  ],
+  "power_display_names": [
+    "SCAR Burst",
+    "SCAR Heavy Burst",
+    "SCAR Snipe",
+    "Tear Gas",
+    "Flashbang Grenades"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "-Def",
+    "Ranged Dam(Lethal)",
+    "Hold",
+    "-ACC, -DEF"
+  ]
+}

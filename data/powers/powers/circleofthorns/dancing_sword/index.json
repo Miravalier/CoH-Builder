@@ -1,0 +1,22 @@
+{
+  "name": "Dancing_Sword",
+  "display_name": "Dancing Sword",
+  "display_fullname": "CircleOfThorns.Dancing Sword",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/DANCING_SWORD.POWERSETS",
+  "icon": "dancing_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Dancing_Sword.Dancing_Sword"
+  ],
+  "power_display_names": [
+    "Dancing Sword"
+  ],
+  "power_short_helps": [
+    "Melee Lethal"
+  ]
+}

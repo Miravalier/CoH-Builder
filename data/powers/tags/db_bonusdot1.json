@@ -1,0 +1,143 @@
+{
+  "tag": "DB_BonusDoT1",
+  "bears": [
+    [
+      "Brute Melee.Dual Blades.Ablating Strike",
+      "brute_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Ablating Strike",
+      "scrapper_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Power Slice",
+      "stalker_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Ablating Strike",
+      "tanker_melee.dual_blades.moderate_bridge"
+    ]
+  ],
+  "affects": [
+    [
+      "Brute Melee.Dual Blades.Blinding Feint",
+      "brute_melee.dual_blades.follow_up"
+    ],
+    [
+      "Brute Melee.Dual Blades.Nimble Slash",
+      "brute_melee.dual_blades.light_opening"
+    ],
+    [
+      "Brute Melee.Dual Blades.One Thousand Cuts",
+      "brute_melee.dual_blades.high_low"
+    ],
+    [
+      "Brute Melee.Dual Blades.Power Slice",
+      "brute_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Brute Melee.Dual Blades.Sweeping Strike",
+      "brute_melee.dual_blades.special_2"
+    ],
+    [
+      "Brute Melee.Dual Blades.Typhoon's Edge",
+      "brute_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Brute Melee.Dual Blades.Vengeful Slice",
+      "brute_melee.dual_blades.special_1"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Blinding Feint",
+      "scrapper_melee.dual_blades.follow_up"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Nimble Slash",
+      "scrapper_melee.dual_blades.light_opening"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.One Thousand Cuts",
+      "scrapper_melee.dual_blades.high_low"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Power Slice",
+      "scrapper_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Sweeping Strike",
+      "scrapper_melee.dual_blades.special_2"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Typhoon's Edge",
+      "scrapper_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Vengeful Slice",
+      "scrapper_melee.dual_blades.special_1"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Ablating Strike",
+      "stalker_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Build Up",
+      "stalker_melee.dual_blades.build_up"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Nimble Slash",
+      "stalker_melee.dual_blades.light_opening"
+    ],
+    [
+      "Stalker Melee.Dual Blades.One Thousand Cuts",
+      "stalker_melee.dual_blades.high_low"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Placate",
+      "stalker_melee.dual_blades.placate"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Sweeping Strike",
+      "stalker_melee.dual_blades.special_2"
+    ],
+    [
+      "Stalker Melee.Dual Blades.Vengeful Slice",
+      "stalker_melee.dual_blades.special_1"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Blinding Feint",
+      "tanker_melee.dual_blades.follow_up"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Nimble Slash",
+      "tanker_melee.dual_blades.light_opening"
+    ],
+    [
+      "Tanker Melee.Dual Blades.One Thousand Cuts",
+      "tanker_melee.dual_blades.high_low"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Power Slice",
+      "tanker_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Sweeping Strike",
+      "tanker_melee.dual_blades.special_2"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Typhoon's Edge",
+      "tanker_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Tanker Melee.Dual Blades.Vengeful Slice",
+      "tanker_melee.dual_blades.special_1"
+    ],
+    [
+      "Villain Pets.Dual Blades Assassins Strike.Assassin's Blades",
+      "villain_pets.dual_blades_assassins_strike.assassins_blades_quick"
+    ],
+    [
+      "Villain Pets.Dual Blades Assassins Strike.Assassin's Blades",
+      "villain_pets.dual_blades_assassins_strike.assassins_blades_stealth"
+    ]
+  ]
+}

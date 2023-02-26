@@ -1,0 +1,183 @@
+{
+  "tag": "InterfaceDoT",
+  "bears": [
+    [
+      "Incarnate.Interface.Cognitive Interface",
+      "incarnate.interface_silent.dot_psionic"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Interface",
+      "incarnate.interface_silent.dot_toxic"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Interface",
+      "incarnate.interface_silent.dot_energy"
+    ],
+    [
+      "Incarnate.Interface.Reactive Interface",
+      "incarnate.interface_silent.dot_debuff"
+    ],
+    [
+      "Incarnate.Interface.Spectral Interface",
+      "incarnate.interface_silent.dot_negative"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Core Genesis",
+      "incarnate.genesis.socket_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Genesis",
+      "incarnate.genesis.socket_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Core Genesis",
+      "incarnate.genesis.socket_total_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Radial Genesis",
+      "incarnate.genesis.socket_total_radial_genesis"
+    ],
+    [
+      "Incarnate.Interface.Cognitive Core Flawless Interface",
+      "incarnate.interface.cognitive_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Cognitive Partial Core Conversion",
+      "incarnate.interface.cognitive_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Cognitive Partial Radial Conversion",
+      "incarnate.interface.cognitive_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Cognitive Radial Flawless Interface",
+      "incarnate.interface.cognitive_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Cognitive Radial Interface",
+      "incarnate.interface.cognitive_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Cognitive Total Radial Conversion",
+      "incarnate.interface.cognitive_total_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Core Flawless Interface",
+      "incarnate.interface.degenerative_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Partial Core Conversion",
+      "incarnate.interface.degenerative_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Partial Radial Conversion",
+      "incarnate.interface.degenerative_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Radial Flawless Interface",
+      "incarnate.interface.degenerative_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Radial Interface",
+      "incarnate.interface.degenerative_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Degenerative Total Radial Conversion",
+      "incarnate.interface.degenerative_total_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Core Flawless Interface",
+      "incarnate.interface.preemptive_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Partial Core Conversion",
+      "incarnate.interface.preemptive_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Partial Radial Conversion",
+      "incarnate.interface.preemptive_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Radial Flawless Interface",
+      "incarnate.interface.preemptive_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Radial Interface",
+      "incarnate.interface.preemptive_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Preemptive Total Radial Conversion",
+      "incarnate.interface.preemptive_total_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Reactive Core Flawless Interface",
+      "incarnate.interface.reactive_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Partial Core Conversion",
+      "incarnate.interface.reactive_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Reactive Partial Radial Conversion",
+      "incarnate.interface.reactive_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Reactive Radial Flawless Interface",
+      "incarnate.interface.reactive_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Radial Interface",
+      "incarnate.interface.reactive_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Reactive Total Radial Conversion",
+      "incarnate.interface.reactive_total_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Spectral Core Flawless Interface",
+      "incarnate.interface.spectral_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Spectral Partial Core Conversion",
+      "incarnate.interface.spectral_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Spectral Partial Radial Conversion",
+      "incarnate.interface.spectral_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Spectral Radial Flawless Interface",
+      "incarnate.interface.spectral_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Spectral Radial Interface",
+      "incarnate.interface.spectral_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Spectral Total Radial Conversion",
+      "incarnate.interface.spectral_total_radial_conversion"
+    ]
+  ]
+}

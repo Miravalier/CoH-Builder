@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Recovery",
+  "display_name": "Technology Natural Endurance",
+  "display_fullname": "Boosts.Technology Natural Recovery",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_RECOVERY.POWERSETS",
+  "icon": "technology_natural_recovery_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Recovery.Technology_Natural_Recovery"
+  ],
+  "power_display_names": [
+    "Endurance Modification Device (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

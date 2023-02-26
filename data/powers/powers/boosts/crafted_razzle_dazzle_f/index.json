@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Razzle_Dazzle_F",
+  "display_name": "Crafted Razzle Dazzle F",
+  "display_fullname": "Boosts.Crafted Razzle Dazzle F",
+  "display_help": "Gives a small chance of immobilizing the target. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Razzle Dazzle",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RAZZLE_DAZZLE_F.POWERSETS",
+  "icon": "crafted_razzle_dazzle_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Razzle_Dazzle_F.Crafted_Razzle_Dazzle_F"
+  ],
+  "power_display_names": [
+    "Razzle Dazzle: Chance for Immobilize"
+  ],
+  "power_short_helps": [
+    "Chance for Immobilize"
+  ]
+}

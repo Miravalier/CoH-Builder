@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Kheldians_Grace_E",
+  "display_name": "Attuned Kheldians Grace E",
+  "display_fullname": "Boosts.Attuned Kheldians Grace E",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}%, reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Peacebringers and Warshades and may be slotted into any of their damage powers.",
+  "display_short_help": "Set: Kheldian's Grace",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_KHELDIANS_GRACE_E.POWERSETS",
+  "icon": "attuned_kheldians_grace_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Kheldians_Grace_E.Attuned_Kheldians_Grace_E"
+  ],
+  "power_display_names": [
+    "Kheldian's Grace: Accuracy/Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage, Increases Attack Rate, and Reduces Endurance Cost"
+  ]
+}

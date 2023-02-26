@@ -1,0 +1,26 @@
+{
+  "name": "Awakened_High_Whips",
+  "display_name": "Mind Lashes",
+  "display_fullname": "Awakened.Mind Lashes",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    30,
+    30
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/AWAKENED_HIGH_WHIPS.POWERSETS",
+  "icon": "awakened_high_whips_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Awakened_High_Whips.Psionic_Lash",
+    "Awakened.Awakened_High_Whips.Psionic_Siphon"
+  ],
+  "power_display_names": [
+    "Psionic Lash",
+    "Psionic Siphon"
+  ],
+  "power_short_helps": [
+    "Melee (Long), Moderate DMG (Psionic), Minor DoT (Fire), -Rech (Foe), Chance for Knockdown (Foe)",
+    "Ranged, High DoT (Psionic), Heal (Self), -Heal(Foe)"
+  ]
+}

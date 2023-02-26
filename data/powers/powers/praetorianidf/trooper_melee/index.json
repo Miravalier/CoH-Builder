@@ -1,0 +1,26 @@
+{
+  "name": "Trooper_Melee",
+  "display_name": "Trooper Melee",
+  "display_fullname": "PraetorianIDF.Trooper Melee",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/TROOPER_MELEE.POWERSETS",
+  "icon": "trooper_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Trooper_Melee.Plasma_Punch",
+    "PraetorianIDF.Trooper_Melee.Plasma_Vortex"
+  ],
+  "power_display_names": [
+    "Plasma Punch",
+    "Plasma Vortex"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Energy/Smash), Foe Disorient",
+    "Melee AoE Smash/Energy"
+  ]
+}

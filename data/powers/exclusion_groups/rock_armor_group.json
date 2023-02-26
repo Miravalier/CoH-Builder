@@ -1,0 +1,17 @@
+{
+  "group": "Rock_Armor_Group",
+  "powers": [
+    [
+      "Brute Defense.Stone Armor.Rock Armor",
+      "brute_defense.stone_armor.rock_armor"
+    ],
+    [
+      "Prestige.Prestige Utility.Self Destruction",
+      "prestige.prestige_utility.prestige_permanent_selfdestruction"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Rock Armor",
+      "tanker_defense.stone_armor.stone_armor"
+    ]
+  ]
+}

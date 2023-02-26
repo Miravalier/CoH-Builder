@@ -1,0 +1,100 @@
+{
+  "name": "Nemesis_Fake_Nemesis",
+  "gender": "GENDER_MALE",
+  "group_name": "Nemesis",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "No one alive has ever seen Nemesis' true face. He hides within his finely wrought armor, safe behind personal force fields and a variety of armaments. He has many such suits of armor, each of which is a robot in its own right, capable of acting - and killing - independently.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.7,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Nemesis.Nemesis_Fake_Nemesis_Melee.Nemesis_Staff",
+      "Nemesis.Nemesis_Fake_Nemesis_Range.Staff_Bolt",
+      "Nemesis.Nemesis_Fake_Nemesis_Buff.Personal_Force_Field",
+      "Nemesis.Nemesis_Fake_Nemesis_Buff.Dispersion_Bubble",
+      "Nemesis.Nemesis_Fake_Nemesis_Buff.Protection_Shield",
+      "Nemesis.Nemesis_Soldier_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Nemesis Staff",
+      "Staff Bolt",
+      "Personal Force Field",
+      "Dispersion Bubble",
+      "Protection Shield",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Fake_Nemesis_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Fake_Nemesis_Range",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Fake_Nemesis_Buff",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Nemesis",
+        "power_set": "Nemesis_Soldier_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Fake Nemesis"
+      ],
+      "costumes": [
+        "Nemesis"
+      ]
+    }
+  ]
+}

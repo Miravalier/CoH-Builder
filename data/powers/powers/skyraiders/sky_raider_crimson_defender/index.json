@@ -1,0 +1,22 @@
+{
+  "name": "Sky_Raider_Crimson_Defender",
+  "display_name": "",
+  "display_fullname": "SkyRaiders.Sky Raider Crimson Defender",
+  "display_help": "Crimson Defenses",
+  "display_short_help": "Crimson Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_CRIMSON_DEFENDER.POWERSETS",
+  "icon": "sky_raider_crimson_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Crimson_Defender.Inmunity_Shield"
+  ],
+  "power_display_names": [
+    "Inmunity Shield"
+  ],
+  "power_short_helps": [
+    "+Untouchable"
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "tag": "IncarnateBoss",
+  "bears": [
+    [
+      "antimatter_p_antimatter",
+      [
+        "Anti-Matter"
+      ]
+    ],
+    [
+      "antimatter_p_antimatter_final",
+      [
+        "Anti-Matter"
+      ]
+    ],
+    [
+      "devouringearth_avatarofhamidon",
+      [
+        "Avatar of Hamidon"
+      ]
+    ],
+    [
+      "devouringearthinfested_avatarofhamidon",
+      [
+        "Avatar of Hamidon"
+      ]
+    ],
+    [
+      "diabolique_p_diabolique_final",
+      [
+        "Diabolique"
+      ]
+    ],
+    [
+      "genericvillains_p_nightstar",
+      [
+        "Nightstar"
+      ]
+    ],
+    [
+      "genericvillains_p_siege",
+      [
+        "Siege"
+      ]
+    ],
+    [
+      "malaise_nightmare_adamastor",
+      [
+        "Adamastor"
+      ]
+    ],
+    [
+      "malaise_nightmare_avatar",
+      [
+        "Avatar of Hamidon"
+      ]
+    ],
+    [
+      "malaise_nightmare_babbage",
+      [
+        "Babbage"
+      ]
+    ],
+    [
+      "malaise_nightmare_batzul",
+      [
+        "Bat'Zul"
+      ]
+    ],
+    [
+      "malaise_nightmare_caleb",
+      [
+        "Caleb"
+      ]
+    ],
+    [
+      "malaise_nightmare_crystaltitan",
+      [
+        "Crystal Titan"
+      ]
+    ],
+    [
+      "malaise_nightmare_deathsurge",
+      [
+        "Deathsurge"
+      ]
+    ],
+    [
+      "malaise_nightmare_eochai",
+      [
+        "Eochai"
+      ]
+    ],
+    [
+      "malaise_nightmare_jackinirons",
+      [
+        "Jack in Irons"
+      ]
+    ],
+    [
+      "malaise_nightmare_jadespider",
+      [
+        "Jade Spider"
+      ]
+    ],
+    [
+      "malaise_nightmare_jurassik",
+      [
+        "Jurassik"
+      ]
+    ],
+    [
+      "malaise_nightmare_kronostitan",
+      [
+        "Kronos Class Titan"
+      ]
+    ],
+    [
+      "malaise_nightmare_lanaru",
+      [
+        "Lanaru the Crazed"
+      ]
+    ],
+    [
+      "malaise_nightmare_liww",
+      [
+        "Lichen-Infested Extinction War Walker"
+      ]
+    ],
+    [
+      "malaise_nightmare_lordwinter",
+      [
+        "Lord Winter"
+      ]
+    ],
+    [
+      "malaise_nightmare_paladin",
+      [
+        "Paladin"
+      ]
+    ],
+    [
+      "malaise_nightmare_rularuu",
+      [
+        "Rularuu the Ravager"
+      ]
+    ],
+    [
+      "malaise_p_malaise",
+      [
+        "Malaise"
+      ]
+    ],
+    [
+      "malaise_p_mothermalaise",
+      [
+        "Mother Malaise"
+      ]
+    ],
+    [
+      "marauder_p_marauder",
+      [
+        "Marauder"
+      ]
+    ],
+    [
+      "mothermayhem_p_auroraborealis",
+      [
+        "Aurora Borealis"
+      ]
+    ],
+    [
+      "mothermayhem_p_mothermayhem",
+      [
+        "Mother Mayhem"
+      ]
+    ],
+    [
+      "mothermayhem_p_mothermayhem_tall",
+      [
+        "Mother Mayhem"
+      ]
+    ],
+    [
+      "mothermayhem_p_motheryin",
+      [
+        "Penelope Mayhem"
+      ]
+    ],
+    [
+      "mothermayhem_p_penelopeyin",
+      [
+        "Penelope Yin"
+      ]
+    ],
+    [
+      "mothermayhem_p_shalicetilman",
+      [
+        "Shalice Tilman"
+      ]
+    ],
+    [
+      "mothermayhem_p_shalicetilman_final",
+      [
+        "Shalice Tilman"
+      ]
+    ],
+    [
+      "roguesgallery_maelstrom_endgame_stg1",
+      [
+        "Maelstrom"
+      ]
+    ],
+    [
+      "roguesgallery_maelstrom_endgame_stg2",
+      [
+        "Maelstrom"
+      ]
+    ],
+    [
+      "roguesgallery_maelstrom_endgame_stg3",
+      [
+        "Maelstrom"
+      ]
+    ]
+  ],
+  "affects": [
+    [
+      "Controller Buff.Trick Arrow.Acid Arrow",
+      "controller_buff.trick_arrow.acid_arrow"
+    ],
+    [
+      "Controller Control.Darkness Control.Dark Grasp",
+      "controller_control.darkness_control.dark_grasp"
+    ],
+    [
+      "Controller Control.Darkness Control.Heart of Darkness",
+      "controller_control.darkness_control.heart_of_darkness"
+    ],
+    [
+      "Controller Control.Darkness Control.Living Shadows",
+      "controller_control.darkness_control.living_shadows"
+    ],
+    [
+      "Controller Control.Darkness Control.Shadowy Binds",
+      "controller_control.darkness_control.shadowy_binds"
+    ],
+    [
+      "Controller Control.Earth Control.Fossilize",
+      "controller_control.earth_control.fossilize"
+    ],
+    [
+      "Controller Control.Earth Control.Stalagmites",
+      "controller_control.earth_control.stalagmites"
+    ],
+    [
+      "Controller Control.Earth Control.Stone Cages",
+      "controller_control.earth_control.stone_cages"
+    ],
+    [
+      "Controller Control.Earth Control.Stone Prison",
+      "controller_control.earth_control.stone_prison"
+    ],
+    [
+      "Controller Control.Electric Control.Chain Fences",
+      "controller_control.electric_control.chain_fences"
+    ],
+    [
+      "Controller Control.Electric Control.Electric Fence",
+      "controller_control.electric_control.electric_fence"
+    ],
+    [
+      "Controller Control.Electric Control.Jolting Chain",
+      "controller_control.electric_control.jolting_chain"
+    ],
+    [
+      "Controller Control.Electric Control.Tesla Cage",
+      "controller_control.electric_control.tesla_cage"
+    ],
+    [
+      "Controller Control.Fire Control.Char",
+      "controller_control.fire_control.soot"
+    ],
+    [
+      "Controller Control.Fire Control.Fire Cages",
+      "controller_control.fire_control.fire_cages"
+    ],
+    [
+      "Controller Control.Fire Control.Flashfire",
+      "controller_control.fire_control.flashfire"
+    ],
+    [
+      "Controller Control.Fire Control.Hot Feet",
+      "controller_control.fire_control.hot_feet"
+    ],
+    [
+      "Controller Control.Fire Control.Ring of Fire",
+      "controller_control.fire_control.ring_of_fire"
+    ],
+    [
+      "Controller Control.Gravity Control.Crush",
+      "controller_control.gravity_control.crush"
+    ],
+    [
+      "Controller Control.Gravity Control.Crushing Field",
+      "controller_control.gravity_control.crushing_field"
+    ],
+    [
+      "Controller Control.Gravity Control.Gravity Distortion",
+      "controller_control.gravity_control.gravity_distortion"
+    ],
+    [
+      "Controller Control.Gravity Control.Lift",
+      "controller_control.gravity_control.lift"
+    ],
+    [
+      "Controller Control.Gravity Control.Propel",
+      "controller_control.gravity_control.propel"
+    ],
+    [
+      "Controller Control.Ice Control.Block of Ice",
+      "controller_control.ice_control.block_of_ice"
+    ],
+    [
+      "Controller Control.Ice Control.Chilblain",
+      "controller_control.ice_control.chilblain"
+    ],
+    [
+      "Controller Control.Ice Control.Flash Freeze",
+      "controller_control.ice_control.flash_freeze"
+    ],
+    [
+      "Controller Control.Ice Control.Frostbite",
+      "controller_control.ice_control.frostbite"
+    ],
+    [
+      "Controller Control.Illusion Control.Blind",
+      "controller_control.illusion_control.blind"
+    ],
+    [
+      "Controller Control.Illusion Control.Spectral Wounds",
+      "controller_control.illusion_control.spectral_wounds"
+    ],
+    [
+      "Controller Control.Mind Control.Dominate",
+      "controller_control.mind_control.dominate"
+    ],
+    [
+      "Controller Control.Mind Control.Levitate",
+      "controller_control.mind_control.levitate"
+    ],
+    [
+      "Controller Control.Mind Control.Terrify",
+      "controller_control.mind_control.terrify"
+    ],
+    [
+      "Controller Control.Plant Control.Entangle",
+      "controller_control.plant_control.entangle"
+    ],
+    [
+      "Controller Control.Plant Control.Roots",
+      "controller_control.plant_control.roots"
+    ],
+    [
+      "Controller Control.Plant Control.Strangler",
+      "controller_control.plant_control.strangler"
+    ],
+    [
+      "Controller Control.Symphony Control.Aria of Stasis",
+      "controller_control.symphony_control.aria_of_stasis"
+    ],
+    [
+      "Controller Control.Symphony Control.Dreadful Discord",
+      "controller_control.symphony_control.dreadful_discord"
+    ],
+    [
+      "Controller Control.Symphony Control.Enfeebling Lullaby",
+      "controller_control.symphony_control.enfeebling_lullaby"
+    ],
+    [
+      "Controller Control.Symphony Control.Hymn of Dissonance",
+      "controller_control.symphony_control.hymn_of_dissonance"
+    ],
+    [
+      "Controller Control.Symphony Control.Impassioned Serenade",
+      "controller_control.symphony_control.impassioned_serenade"
+    ],
+    [
+      "Controller Control.Symphony Control.Melodic Binding",
+      "controller_control.symphony_control.melodic_binding"
+    ],
+    [
+      "Controller Control.Wind Control.Breathless",
+      "controller_control.wind_control.breathless"
+    ],
+    [
+      "Controller Control.Wind Control.Downdraft",
+      "controller_control.wind_control.downdraft"
+    ],
+    [
+      "Controller Control.Wind Control.Microburst",
+      "controller_control.wind_control.microburst"
+    ],
+    [
+      "Controller Control.Wind Control.Thundergust",
+      "controller_control.wind_control.thundergust"
+    ],
+    [
+      "Controller Control.Wind Control.Updraft",
+      "controller_control.wind_control.updraft"
+    ],
+    [
+      "Controller Control.Wind Control.Vacuum",
+      "controller_control.wind_control.vacuum"
+    ],
+    [
+      "Epic.Fire Mastery.Fire Ball",
+      "epic.fire_mastery.fire_ball"
+    ],
+    [
+      "Epic.Fire Mastery.Fire Ball",
+      "epic.fire_mastery_dominator.fire_ball"
+    ],
+    [
+      "Epic.Fire Mastery.Fire Blast",
+      "epic.fire_mastery.fire_blast"
+    ],
+    [
+      "Epic.Ice Mastery.Frost Breath",
+      "epic.ice_mastery.frost_breath"
+    ],
+    [
+      "Epic.Ice Mastery.Ice Blast",
+      "epic.ice_mastery.ice_blast"
+    ],
+    [
+      "Epic.Leviathan Mastery.Bile Spray",
+      "epic.dominator_leviathan_mastery.chum_spray"
+    ],
+    [
+      "Epic.Mace Mastery.Disruptor Blast",
+      "epic.controller_mace_mastery.disruptor_blast"
+    ],
+    [
+      "Epic.Mace Mastery.Disruptor Blast",
+      "epic.dominator_mace_mastery.disruptor_blast"
+    ],
+    [
+      "Epic.Mace Mastery.Poisonous Ray",
+      "epic.controller_mace_mastery.poisonous_ray"
+    ],
+    [
+      "Epic.Mace Mastery.Poisonous Ray",
+      "epic.dominator_mace_mastery.poisonous_ray"
+    ],
+    [
+      "Epic.Mu Mastery.Ball Lightning",
+      "epic.dominator_mu_mastery.ball_lightning"
+    ],
+    [
+      "Epic.Primal Forces Mastery.Energy Torrent",
+      "epic.primal_forces_mastery.energy_torrent"
+    ],
+    [
+      "Epic.Primal Forces Mastery.Energy Torrent",
+      "epic.primal_forces_mastery_dominator.energy_torrent"
+    ],
+    [
+      "Epic.Primal Forces Mastery.Power Blast",
+      "epic.primal_forces_mastery.power_blast"
+    ],
+    [
+      "Epic.Psionic Mastery.Mental Blast",
+      "epic.psionic_mastery.mental_blast"
+    ],
+    [
+      "Epic.Psionic Mastery.Psionic Tornado",
+      "epic.psionic_mastery.psionic_tornado"
+    ],
+    [
+      "Epic.Psionic Mastery.Psionic Tornado",
+      "epic.psionic_mastery_domingator.psionic_tornado"
+    ],
+    [
+      "Epic.Soul Mastery.Dark Consumption",
+      "epic.dominator_soul_mastery.dark_consumption"
+    ],
+    [
+      "Epic.Soul Mastery.Dark Obliteration",
+      "epic.dominator_soul_mastery.dark_obliteration"
+    ],
+    [
+      "Epic.Soul Mastery.Soul Drain",
+      "epic.dominator_soul_mastery.soul_drain"
+    ],
+    [
+      "Epic.Stone Mastery.Fissure",
+      "epic.stone_mastery.fissure"
+    ],
+    [
+      "Epic.Stone Mastery.Hurl Boulder",
+      "epic.stone_mastery.hurl_boulder"
+    ],
+    [
+      "Epic.Stone Mastery.Seismic Smash",
+      "epic.stone_mastery.seismic_smash"
+    ],
+    [
+      "Pets.Chain Jolt Jump 2.Charge",
+      "pets.chain_jolt_controller_jump2.charge"
+    ],
+    [
+      "Pets.Chain Jolt Jump 3.Charge",
+      "pets.chain_jolt_controller_jump3.charge"
+    ],
+    [
+      "Pets.Chain Stun Jump 1.Charge",
+      "pets.chain_stun_controller_jump1.charge"
+    ],
+    [
+      "Pets.Fallout.Fallout",
+      "pets.fallout.fallout"
+    ],
+    [
+      "Pets.Spring Attack.Spring Attack",
+      "pets.spring_attack.spring_attack"
+    ],
+    [
+      "Pets.Wind Control.Vacuum",
+      "pets.wind_control_vacuum_controller.vacuum_over_time"
+    ],
+    [
+      "Pool.Experimentation.Toxic Dart",
+      "pool.experimentation.toxic_dart"
+    ],
+    [
+      "Pool.Fighting.Boxing",
+      "pool.fighting.boxing"
+    ],
+    [
+      "Pool.Fighting.Cross Punch",
+      "pool.fighting.cross_punch"
+    ],
+    [
+      "Pool.Fighting.Kick",
+      "pool.fighting.kick"
+    ],
+    [
+      "Pool.Flight.Air Superiority",
+      "pool.flight.air_superiority"
+    ],
+    [
+      "Pool.Force of Will.Project Will",
+      "pool.force_of_will.project_will"
+    ],
+    [
+      "Pool.Force of Will.Wall of Force",
+      "pool.force_of_will.wall_of_force"
+    ],
+    [
+      "Pool.Gadgetry.Blaster Drone",
+      "pool.gadgetry.wrist_blaster"
+    ],
+    [
+      "Pool.Gadgetry.Drone Barrage",
+      "pool.gadgetry.blaster_barrage"
+    ],
+    [
+      "Pool.Leaping.Jump Kick",
+      "pool.leaping.jump_kick"
+    ],
+    [
+      "Pool.Sorcery.Arcane Bolt",
+      "pool.sorcery.arcane_bolt"
+    ],
+    [
+      "Pool.Speed.Flurry",
+      "pool.speed.flurry"
+    ],
+    [
+      "Pool.Utility Belt.Envenomed Barrage",
+      "pool.utility_belt.flying_kick"
+    ],
+    [
+      "Pool.Utility Belt.Poisoned Dagger",
+      "pool.utility_belt.poisoned_dagger"
+    ]
+  ]
+}

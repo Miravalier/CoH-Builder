@@ -1,0 +1,26 @@
+{
+  "name": "Spines_Assassins_Strike",
+  "display_name": "",
+  "display_fullname": "Villain Pets.Spines Assassins Strike",
+  "display_help": "Spines protrude from your body and can deal damage in melee or at very short ranges. Spines are hollow and hold a neural toxin that deals additional Toxic damage and can Slow or Immobilize your enemies. The toxin is cumulative, and multiple hits will affect a target more strongly. Very few foes have resistance to Spine poison. Like all Stalker primary attack powers, Spine attacks can land a Critical Hit for double damage, if you are properly Hidden or if your target is Slept or Held.",
+  "display_short_help": "Spines",
+  "available_level": [
+    5,
+    5
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/SPINES_ASSASSINS_STRIKE.POWERSETS",
+  "icon": "spines_assassins_strike_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Spines_Assassins_Strike.Assassins_Impaler_Stealth",
+    "Villain_Pets.Spines_Assassins_Strike.Assassins_Impaler_Quick"
+  ],
+  "power_display_names": [
+    "Assassin's Impaler",
+    "Assassin's Impaler"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Lethal)",
+    "Melee, Superior DMG(Lethal)"
+  ]
+}

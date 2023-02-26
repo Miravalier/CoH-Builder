@@ -1,0 +1,173 @@
+{
+  "name": "Event_Synapse",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 50,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_monster",
+    "description": "Steven Berry was just an average man, until Crey Industries got hold of him. The Crey scientists were testing a number of radical procedures for inducing super powers. Steven was blasted with high doses of electricity for days. It amplified the electrical energy in his body, giving him the ability to harness it into super speed and electrical blasts. Synapse escaped Crey's clutches by shorting out the lab where he was kept prisoner. To this day, Crey executives deny any knowledge of the project in which Synapse was an unwilling participant.",
+    "group_description": "Freedom Phalanx",
+    "display_class_name": "Blaster",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 3.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Event.Event_Resistance.Resistance",
+      "Blaster_Ranged.Electrical_Blast.Charged_Bolts",
+      "Blaster_Ranged.Electrical_Blast.Lightning_Bolt",
+      "Blaster_Ranged.Electrical_Blast.Ball_Lightning",
+      "Blaster_Ranged.Electrical_Blast.Short_Circuit",
+      "Blaster_Ranged.Electrical_Blast.Aim",
+      "Blaster_Ranged.Electrical_Blast.Zapp",
+      "Blaster_Ranged.Electrical_Blast.Tesla_Cage",
+      "Blaster_Ranged.Electrical_Blast.Voltaic_Sentinel",
+      "Blaster_Ranged.Electrical_Blast.Thunderous_Blast",
+      "Blaster_Support.Electricity_Manipulation.Electric_Fence",
+      "Blaster_Support.Electricity_Manipulation.Charged_Brawl",
+      "Blaster_Support.Electricity_Manipulation.Build_Up",
+      "Blaster_Support.Electricity_Manipulation.Havok_Punch",
+      "Blaster_Support.Electricity_Manipulation.Thunder_Strike",
+      "Blaster_Support.Electricity_Manipulation.Lightning_Clap",
+      "Blaster_Support.Electricity_Manipulation.Power_Sink",
+      "Blaster_Support.Electricity_Manipulation.Lightning_Field",
+      "Blaster_Support.Electricity_Manipulation.Shocking_Grasp",
+      "Pool.Fitness.Quick",
+      "Pool.Fitness.Hurdle",
+      "Pool.Fitness.Health",
+      "Pool.Fitness.Stamina",
+      "Event.Event_Speed.Flurry",
+      "Event.Event_Speed.Hasten",
+      "Event.Event_Speed.Super_Speed",
+      "Event.Event_Speed.Whirlwind"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Charged Bolts",
+      "Lightning Bolt",
+      "Ball Lightning",
+      "Short Circuit",
+      "Charge Up",
+      "Zapp",
+      "Tesla Cage",
+      "Voltaic Sentinel",
+      "Thunderous Blast",
+      "Electric Fence",
+      "Charged Brawl",
+      "Build Up",
+      "Havoc Punch",
+      "Thunder Strike",
+      "Dynamo",
+      "Power Sink",
+      "Force of Thunder",
+      "Shocking Grasp",
+      "Swift",
+      "Hurdle",
+      "Health",
+      "Stamina",
+      "Flurry",
+      "Hasten",
+      "Super Speed",
+      "Whirlwind"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Event",
+        "power_set": "Event_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Blaster_Ranged",
+        "power_set": "Electrical_Blast",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Blaster_Support",
+        "power_set": "Electricity_Manipulation",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Pool",
+        "power_set": "Fitness",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Event_Speed",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 50,
+      "experience": 0,
+      "display_names": [
+        "Synapse"
+      ],
+      "costumes": [
+        "Model_Synapse_NoRing"
+      ]
+    }
+  ]
+}

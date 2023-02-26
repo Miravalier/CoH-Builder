@@ -1,0 +1,83 @@
+{
+  "tag": "InterfaceRecharge",
+  "bears": [
+    [
+      "Incarnate.Interface.Gravitic Interface",
+      "incarnate.interface_silent.recharge_debuff"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Genesis.Socket Core Flawless Genesis",
+      "incarnate.genesis.socket_core_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Core Genesis",
+      "incarnate.genesis.socket_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Genesis",
+      "incarnate.genesis.socket_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Core Genesis",
+      "incarnate.genesis.socket_partial_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Partial Radial Genesis",
+      "incarnate.genesis.socket_partial_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Flawless Genesis",
+      "incarnate.genesis.socket_radial_flawless_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Radial Genesis",
+      "incarnate.genesis.socket_radial_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Core Genesis",
+      "incarnate.genesis.socket_total_core_genesis"
+    ],
+    [
+      "Incarnate.Genesis.Socket Total Radial Genesis",
+      "incarnate.genesis.socket_total_radial_genesis"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Core Flawless Interface",
+      "incarnate.interface.gravitic_core_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Core Interface",
+      "incarnate.interface.gravitic_core_interface"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Interface",
+      "incarnate.interface.gravitic_interface"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Partial Core Conversion",
+      "incarnate.interface.gravitic_partial_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Partial Radial Conversion",
+      "incarnate.interface.gravitic_partial_radial_conversion"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Radial Flawless Interface",
+      "incarnate.interface.gravitic_radial_flawless_interface"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Radial Interface",
+      "incarnate.interface.gravitic_radial_interface"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Total Core Conversion",
+      "incarnate.interface.gravitic_total_core_conversion"
+    ],
+    [
+      "Incarnate.Interface.Gravitic Total Radial Conversion",
+      "incarnate.interface.gravitic_total_radial_conversion"
+    ]
+  ]
+}

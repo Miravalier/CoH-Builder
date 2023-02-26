@@ -1,0 +1,97 @@
+{
+  "name": "Contaminated_Knife_Contaminated",
+  "gender": "GENDER_MALE",
+  "group_name": "Contaminated",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 1,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "These thugs have gotten their hands on a mysterious drug that drives them mad. The source of this drug remains a mystery, but without help these Contaminated brutes will tear the city apart.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Prisoners.Prisoners_Knife.Knife",
+      "Prisoners.Prisoners_Rock.Rock",
+      "Prisoners.Contaminated_Inherent.Resistance"
+    ],
+    "power_display_names": [
+      "Knife",
+      "Rock",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Prisoners",
+        "power_set": "Prisoners_Knife",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Prisoners",
+        "power_set": "Prisoners_Rock",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Prisoners",
+        "power_set": "Contaminated_Inherent",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 1,
+      "experience": 0,
+      "display_names": [
+        "Contaminated Slicer"
+      ],
+      "costumes": [
+        "Thug_Contaminated_01",
+        "Thug_Contaminated_02",
+        "Thug_Contaminated_03",
+        "Thug_Contaminated_04",
+        "Thug_Contaminated_05",
+        "Thug_Contaminated_06",
+        "Thug_Contaminated_07",
+        "Thug_Contaminated_08",
+        "Thug_Contaminated_09",
+        "Thug_Contaminated_10"
+      ]
+    }
+  ]
+}

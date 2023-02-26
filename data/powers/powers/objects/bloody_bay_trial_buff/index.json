@@ -1,0 +1,22 @@
+{
+  "name": "Bloody_Bay_Trial_Buff",
+  "display_name": "Meteoric",
+  "display_fullname": "Objects.Meteoric",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BLOODY_BAY_TRIAL_BUFF.POWERSETS",
+  "icon": "bloody_bay_trial_buff_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Bloody_Bay_Trial_Buff.Meteoric"
+  ],
+  "power_display_names": [
+    "Meteoric"
+  ],
+  "power_short_helps": [
+    "+DMG"
+  ]
+}

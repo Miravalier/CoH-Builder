@@ -1,0 +1,115 @@
+{
+  "name": "Crey_I24_Protector_Fire_Boss",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Crey",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "No one knows who these helmet clad heroes are, or where they come from. The only thing that's certain is their loyalty to Crey. The Fire Paragon Protectors can generate powerful blasts of fire in both melee and ranged combat situations.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.4,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Crey.Crey_Fire_Tank.Scorch",
+      "Crey.Crey_Fire_Tank.Cremate",
+      "Crey.Crey_Fire_Tank.Incinerate",
+      "Crey.Crey_Fire_Tank.Flares",
+      "Crey.Crey_Fire_Tank.Fire_Blast",
+      "Crey.Crey_Fire_Tank.Fire_Ball",
+      "Crey.Crey_Fire_Tank.Blaze",
+      "Crey.Crey_Fire_Tank.Inferno",
+      "Crey.Crey_Tank_Defense.Resistance",
+      "Crey.Crey_Tank_Defense.Power_Jumping",
+      "Crey.Crey_Boss_Hero_Clone_Movement.Fly",
+      "Crey.Crey_Boss_Hero_Clone_Movement.Fly_fx"
+    ],
+    "power_display_names": [
+      "Scorch",
+      "Cremate",
+      "Incinerate",
+      "Flares",
+      "Fire Blast",
+      "Fire Ball",
+      "Blaze",
+      "Inferno",
+      "Resistance",
+      "Power Jumping",
+      "Fly",
+      "Fly fx"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Fire_Tank",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Tank_Defense",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Boss_Hero_Clone_Movement",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Paragon Protector Elite"
+      ],
+      "costumes": [
+        "Model_Protector_Elite_Female"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Dockworker_Minion",
+  "display_name": "Dockworker Minion",
+  "display_fullname": "V Scrapyarders.Dockworker Minion",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/DOCKWORKER_MINION.POWERSETS",
+  "icon": "dockworker_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Dockworker_Minion.Baseball_Bat",
+    "V_Scrapyarders.Dockworker_Minion.Scrap"
+  ],
+  "power_display_names": [
+    "Baseball Bat",
+    "Scrap"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam",
+    "Ranged Lethal, Low Dam"
+  ]
+}

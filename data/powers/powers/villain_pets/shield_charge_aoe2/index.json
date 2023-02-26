@@ -1,0 +1,22 @@
+{
+  "name": "Shield_Charge_AoE2",
+  "display_name": "Shield Defense",
+  "display_fullname": "Villain Pets.Shield Defense",
+  "display_help": "Shield Defense",
+  "display_short_help": "Shield Defense",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/SHIELD_CHARGE_AOE2.POWERSETS",
+  "icon": "shield_charge_aoe2_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Shield_Charge_AoE2.Shield_Charge_AoE_Tanker"
+  ],
+  "power_display_names": [
+    "Shield Charge"
+  ],
+  "power_short_helps": [
+    "PBAoE, High DMG(Smashing), Foe Knockback"
+  ]
+}

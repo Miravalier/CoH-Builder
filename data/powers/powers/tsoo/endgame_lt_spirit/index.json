@@ -1,0 +1,34 @@
+{
+  "name": "Endgame_LT_Spirit",
+  "display_name": "Endgame_LT_Spirit",
+  "display_fullname": "Tsoo.Endgame LT Spirit",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_LT_SPIRIT.POWERSETS",
+  "icon": "endgame_lt_spirit_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_LT_Spirit.Hand_Clap",
+    "Tsoo.Endgame_LT_Spirit.Punch",
+    "Tsoo.Endgame_LT_Spirit.Haymaker",
+    "Tsoo.Endgame_LT_Spirit.Shuriken"
+  ],
+  "power_display_names": [
+    "Hand Clap",
+    "Punch",
+    "Haymaker",
+    "Shuriken"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "Ranged Lethal, Low Dam"
+  ]
+}

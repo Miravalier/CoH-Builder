@@ -1,0 +1,26 @@
+{
+  "name": "Boss_Gold_AU_HM",
+  "display_name": "Boss Gold AU (Hard Mode)",
+  "display_fullname": "V GoldBrickers.Boss Gold AU (Hard Mode)",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/BOSS_GOLD_AU_HM.POWERSETS",
+  "icon": "crey_power_tank_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Boss_Gold_AU_HM.Dimensional_Distortion",
+    "V_GoldBrickers.Boss_Gold_AU_HM.Power_Siphon_Tell"
+  ],
+  "power_display_names": [
+    "Dimensional Distortion",
+    "Dimensional Warning"
+  ],
+  "power_short_helps": [
+    "Foes: Attract, -Damage, -Recharge",
+    "Autohit, PBAoE Attract, Smashing/Energy Damage, Immobilize"
+  ]
+}

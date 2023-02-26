@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Accuracy",
+  "display_name": "Magic Accuracy",
+  "display_fullname": "Boosts.Magic Accuracy",
+  "display_help": "Increases the accuracy of a power.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_ACCURACY.POWERSETS",
+  "icon": "magic_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Accuracy.Magic_Accuracy"
+  ],
+  "power_display_names": [
+    "Insight of Grey (Accuracy)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy"
+  ]
+}

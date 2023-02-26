@@ -1,0 +1,55 @@
+{
+  "tag": "SoundBoost",
+  "bears": [
+    [
+      "Blaster Support.Sonic Manipulation.Deafening Wave",
+      "blaster_support.sonic_manipulation.deafening_wave"
+    ],
+    [
+      "Blaster Support.Sonic Manipulation.Earsplitter",
+      "blaster_support.sonic_manipulation.earsplitter"
+    ],
+    [
+      "Blaster Support.Sonic Manipulation.Sound Cannon",
+      "blaster_support.sonic_manipulation.sound_cannon"
+    ],
+    [
+      "Blaster Support.Sonic Manipulation.Strident Echo",
+      "blaster_support.sonic_manipulation.strident_echo"
+    ],
+    [
+      "Dominator Assault.Sonic Assault.Deafening Wave",
+      "dominator_assault.sonic_assault.deafening_wave"
+    ],
+    [
+      "Dominator Assault.Sonic Assault.Earsplitter",
+      "dominator_assault.sonic_assault.earsplitter"
+    ],
+    [
+      "Dominator Assault.Sonic Assault.Strident Echo",
+      "dominator_assault.sonic_assault.strident_echo"
+    ],
+    [
+      "V Arachnos Proxy.Sonic Manipulation.Deafening Wave",
+      "v_arachnos_proxy.sonic_manipulation.deafening_wave"
+    ],
+    [
+      "V Arachnos Proxy.Sonic Manipulation.Earsplitter",
+      "v_arachnos_proxy.sonic_manipulation.earsplitter"
+    ],
+    [
+      "V Arachnos Proxy.Sonic Manipulation.Strident Echo",
+      "v_arachnos_proxy.sonic_manipulation.strident_echo"
+    ]
+  ],
+  "affects": [
+    [
+      "Blaster Support.Sonic Manipulation.Sound Booster",
+      "blaster_support.sonic_manipulation.build_up"
+    ],
+    [
+      "V Arachnos Proxy.Sonic Manipulation.Sound Booster",
+      "v_arachnos_proxy.sonic_manipulation.build_up"
+    ]
+  ]
+}

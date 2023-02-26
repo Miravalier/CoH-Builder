@@ -1,0 +1,26 @@
+{
+  "name": "Dirty_Ghoul_Lieutenant",
+  "display_name": "Dirty Ghoul Lieutenant",
+  "display_fullname": "P Ghouls.Dirty Ghoul Lieutenant",
+  "display_help": "Ghouls",
+  "display_short_help": "Ghouls",
+  "available_level": [
+    10,
+    5
+  ],
+  "source_file": "DEFS/POWERS/P_GHOULS/DIRTY_GHOUL_LIEUTENANT.POWERSETS",
+  "icon": "dirty_ghoul_lieutenant_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Ghouls.Dirty_Ghoul_Lieutenant.Flurry_of_Fists",
+    "P_Ghouls.Dirty_Ghoul_Lieutenant.Marked_for_Death"
+  ],
+  "power_display_names": [
+    "Flurry of Fists",
+    "Marked for Death"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash), Foe Disorient",
+    "Ranged, Minor DoT(Toxic), Attract Foes"
+  ]
+}

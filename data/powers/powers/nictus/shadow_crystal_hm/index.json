@@ -1,0 +1,38 @@
+{
+  "name": "Shadow_Crystal_HM",
+  "display_name": "Shadow Crystal (Advanced Difficulty)",
+  "display_fullname": "Nictus.Shadow Crystal (Advanced Difficulty)",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/SHADOW_CRYSTAL_HM.POWERSETS",
+  "icon": "shadow_crystal_set.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Shadow_Crystal_HM.Portal",
+    "Nictus.Shadow_Crystal_HM.Resistance",
+    "Nictus.Shadow_Crystal_HM.Safe_Zone",
+    "Nictus.Shadow_Crystal_HM.Expel",
+    "Nictus.Shadow_Crystal_HM.Nictus_CrystalExplosion"
+  ],
+  "power_display_names": [
+    "Portal",
+    "Resistance",
+    "Safe Zone",
+    "Expel",
+    "Void Explosion"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Inherent",
+    "Protection",
+    "Expel",
+    "Wide PBAoE Extreme DMG(Negative/Special), Foe KB"
+  ]
+}

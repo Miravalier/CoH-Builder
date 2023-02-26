@@ -1,0 +1,22 @@
+{
+  "name": "Briefcase",
+  "display_name": "",
+  "display_fullname": "Objects.Briefcase",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BRIEFCASE.POWERSETS",
+  "icon": "briefcase_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Briefcase.Detonate"
+  ],
+  "power_display_names": [
+    "Detonate"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Twinshot_OneShot_Powers",
+  "display_name": "",
+  "display_fullname": "OnGoingTrainingCharacters.Twinshot OneShot Powers",
+  "display_help": "",
+  "display_short_help": "",
+  "available_level": [
+    29
+  ],
+  "source_file": "DEFS/POWERS/ONGOINGTRAININGCHARACTERS/TWINSHOT_ONESHOT_POWERS.POWERSETS",
+  "icon": "twinshot_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "OnGoingTrainingCharacters.Twinshot_OneShot_Powers.Dramatic_Hail"
+  ],
+  "power_display_names": [
+    "Hail of Bullets"
+  ],
+  "power_short_helps": [
+    "PBAoE, Superior DMG(Lethal/Special), Foe Knockback/Special"
+  ]
+}

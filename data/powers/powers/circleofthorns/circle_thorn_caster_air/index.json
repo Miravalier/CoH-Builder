@@ -1,0 +1,30 @@
+{
+  "name": "Circle_Thorn_Caster_Air",
+  "display_name": "Circle_Thorn_Caster_Air",
+  "display_fullname": "CircleOfThorns.Circle Thorn Caster Air",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_THORN_CASTER_AIR.POWERSETS",
+  "icon": "circle_thorn_caster_air_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Thorn_Caster_Air.Lightning_Bolt",
+    "CircleOfThorns.Circle_Thorn_Caster_Air.Charged_Brawl",
+    "CircleOfThorns.Circle_Thorn_Caster_Air.Gale"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Charged Brawl",
+    "Gale"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "-Recovery",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Blaster_Energy_Snipe",
+  "display_name": "Energy Blast",
+  "display_fullname": "Pets.Energy Blast",
+  "display_help": "Energy Blast",
+  "display_short_help": "Energy Blast",
+  "available_level": [
+    7,
+    7
+  ],
+  "source_file": "DEFS/POWERS/PETS/BLASTER_ENERGY_SNIPE.POWERSETS",
+  "icon": "blaster_energy_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Blaster_Energy_Snipe.Sniper_Blast_Normal",
+    "Pets.Blaster_Energy_Snipe.Sniper_Blast_Quick"
+  ],
+  "power_display_names": [
+    "Sniper Blast",
+    "Sniper Blast"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy/Smash), Foe Knockback",
+    "Sniper, Extreme DMG(Energy/Smash), Foe Knockback"
+  ]
+}

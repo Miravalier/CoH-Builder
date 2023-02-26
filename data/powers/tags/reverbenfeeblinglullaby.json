@@ -1,0 +1,22 @@
+{
+  "tag": "ReverbEnfeeblingLullaby",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Enfeebling Lullaby",
+      "controller_control.symphony_control.enfeebling_lullaby"
+    ],
+    [
+      "Dominator Control.Symphony Control.Enfeebling Lullaby",
+      "dominator_control.symphony_control.enfeebling_lullaby"
+    ],
+    [
+      "Mission Maker Attacks.Symphony Control.Enfeebling Lullaby",
+      "mission_maker_attacks.symphony_control.enfeebling_lullaby"
+    ],
+    [
+      "Mission Maker Secondary.Symphony Control.Enfeebling Lullaby",
+      "mission_maker_secondary.symphony_control.enfeebling_lullaby"
+    ]
+  ],
+  "affects": []
+}

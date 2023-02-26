@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Assassins_Mark_A",
+  "display_name": "Attuned Assassins Mark A",
+  "display_fullname": "Boosts.Attuned Assassins Mark A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Stalkers and can be slotted into nearly all Stalker damage powers.",
+  "display_short_help": "Set: Assassin's Mark",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ASSASSINS_MARK_A.POWERSETS",
+  "icon": "attuned_assassins_mark_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Assassins_Mark_A.Attuned_Assassins_Mark_A"
+  ],
+  "power_display_names": [
+    "Assassin's Mark: Accuracy/Damage (Stalker)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "name": "Warp",
+  "display_name": "Warp",
+  "group_name": "Teleport",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Teleport"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Warp_A.Crafted_Warp_A",
+      "Boosts.Attuned_Warp_A.Attuned_Warp_A"
+    ],
+    [
+      "Boosts.Crafted_Warp_B.Crafted_Warp_B",
+      "Boosts.Attuned_Warp_B.Attuned_Warp_B"
+    ],
+    [
+      "Boosts.Crafted_Warp_C.Crafted_Warp_C",
+      "Boosts.Attuned_Warp_C.Attuned_Warp_C"
+    ],
+    [
+      "Boosts.Crafted_Warp_D.Crafted_Warp_D",
+      "Boosts.Attuned_Warp_D.Attuned_Warp_D"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.endurance_discount_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_range_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range",
+      "Enhance Range"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_2",
+          "Small Toxic, Psionic and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.endurance_discount_4",
+          "Large Endurance Discount"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_range_5",
+          "Huge Increased Range"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_warp.png",
+      "e_icon_warp.png",
+      "e_icon_warp.png",
+      "e_icon_warp.png",
+      "e_icon_warp.png",
+      "e_icon_warp.png",
+      "e_icon_warp.png",
+      "e_icon_warp.png"
+    ],
+    "boosts": [
+      [
+        "Warp: Range",
+        "Attuned Warp: Range"
+      ],
+      [
+        "Warp: Endurance/Range",
+        "Attuned Warp: Endurance/Range"
+      ],
+      [
+        "Warp: Endurance",
+        "Attuned Warp: Endurance"
+      ],
+      [
+        "Warp: Range/Proc",
+        "Attuned Warp: Range/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_warp_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_warp_a.attuned_warp_a",
+          "Warp: Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Warp: Range",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "attuned_warp_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Warp: Range",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "crafted_warp_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_warp_b.attuned_warp_b",
+          "Warp: Range/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Warp: Endurance/Range",
+        "aspects": [
+          "Endurance",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "attuned_warp_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Warp: Endurance/Range",
+        "aspects": [
+          "Endurance",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "crafted_warp_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_warp_c.attuned_warp_c",
+          "Warp: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Warp: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "attuned_warp_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Warp: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "crafted_warp_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_warp_d.attuned_warp_d",
+          "Warp: Range/Increased Perception"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Warp: Range/Proc",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      },
+      "attuned_warp_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Warp: Range/Proc",
+        "aspects": [
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "warp",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Range",
+        "icon": "e_icon_warp.png"
+      }
+    }
+  }
+}

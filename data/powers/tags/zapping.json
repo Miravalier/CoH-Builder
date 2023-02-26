@@ -1,0 +1,142 @@
+{
+  "tag": "Zapping",
+  "bears": [
+    [
+      "Blaster Ranged.Electrical Blast.Ball Lightning",
+      "blaster_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Charged Bolts",
+      "blaster_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Lightning Bolt",
+      "blaster_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Short Circuit",
+      "blaster_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Tesla Cage",
+      "blaster_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Thunderous Blast",
+      "blaster_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Ball Lightning",
+      "corruptor_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Charged Bolts",
+      "corruptor_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Lightning Bolt",
+      "corruptor_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Short Circuit",
+      "corruptor_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Tesla Cage",
+      "corruptor_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Thunderous Blast",
+      "corruptor_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Ball Lightning",
+      "defender_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Charged Bolts",
+      "defender_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Lightning Bolt",
+      "defender_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Short Circuit",
+      "defender_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Tesla Cage",
+      "defender_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Thunderous Blast",
+      "defender_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Mission Maker Attacks.Electrical Blast.Zapp",
+      "mission_maker_attacks.electrical_blast.zapp"
+    ],
+    [
+      "Mission Maker Secondary.Electrical Blast.Zapp",
+      "mission_maker_secondary.electrical_blast.zapp"
+    ],
+    [
+      "Pets.Defender Electric Snipe.Zapp",
+      "pets.defender_electric_snipe.zapp_normal"
+    ],
+    [
+      "Pets.Defender Electric Snipe.Zapp",
+      "pets.defender_electric_snipe.zapp_quick"
+    ],
+    [
+      "Pets.Electric Blast.Zapp",
+      "pets.blaster_electric_snipe.zapp_normal"
+    ],
+    [
+      "Pets.Electric Blast.Zapp",
+      "pets.blaster_electric_snipe.zapp_quick"
+    ],
+    [
+      "Pets.Voltaic Sentinel.Electrical Bolt",
+      "pets.voltaicsentinel_pseudopet.electrical_bolt"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Ball Lightning",
+      "sentinel_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Charged Bolts",
+      "sentinel_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Lightning Bolt",
+      "sentinel_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Short Circuit",
+      "sentinel_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Tesla Cage",
+      "sentinel_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Thunderous Blast",
+      "sentinel_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Zapping Bolt",
+      "sentinel_ranged.electrical_blast.zapping_bolt"
+    ],
+    [
+      "Villain Pets.Corruptor ElectricalBlast Snipe.Zapp",
+      "villain_pets.corruptor_electricalblast_snipe.zapp_normal"
+    ],
+    [
+      "Villain Pets.Corruptor ElectricalBlast Snipe.Zapp",
+      "villain_pets.corruptor_electricalblast_snipe.zapp_quick"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Devouring_Earth_Terra",
+  "display_name": "Devouring Earth Terra",
+  "display_fullname": "DevouringEarth.Devouring Earth Terra",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_TERRA.POWERSETS",
+  "icon": "devouring_earth_terra_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Terra.Pummel",
+    "DevouringEarth.Devouring_Earth_Terra.Hurl_Boulder",
+    "DevouringEarth.Devouring_Earth_Terra.Foot_Stomp",
+    "DevouringEarth.Devouring_Earth_Terra.Resistance"
+  ],
+  "power_display_names": [
+    "Pummel",
+    "Hurl Boulder",
+    "Foot Stomp",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee Heavy Lethal",
+    "Ranged Smash, Knockback",
+    "AoE Smash, Knockback",
+    "Resistance"
+  ]
+}

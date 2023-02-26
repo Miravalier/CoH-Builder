@@ -1,0 +1,53 @@
+{
+  "name": "Incarnate_AlphaStrike",
+  "display_name": "AlphaStrike",
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE.CATEGORIES",
+  "archetypes": [
+    "boss_praetorianarchvillain",
+    "minion_grunt",
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "incarnate_alphastrike.animated_broad_sword",
+    "incarnate_alphastrike.animated_dual_blades",
+    "incarnate_alphastrike.animated_katana",
+    "incarnate_alphastrike.animated_sword_resists",
+    "incarnate_alphastrike.battle_maiden_portal",
+    "incarnate_alphastrike.battle_maiden_spears",
+    "incarnate_alphastrike.battle_maiden_sword",
+    "incarnate_alphastrike.bobcat",
+    "incarnate_alphastrike.goliath_buff",
+    "incarnate_alphastrike.guard",
+    "incarnate_alphastrike.malta_ops_av",
+    "incarnate_alphastrike.message",
+    "incarnate_alphastrike.minelayer",
+    "incarnate_alphastrike.neuron",
+    "incarnate_alphastrike.neuron_clone",
+    "incarnate_alphastrike.proximity_mine",
+    "incarnate_alphastrike.trapdoor",
+    "incarnate_alphastrike.trapdoor_bifurcation"
+  ],
+  "powerset_display_names": [
+    "Animated Broad Sword",
+    "Animated Dual Blades",
+    "Animated Katana",
+    "Malta Group",
+    "Battle Maiden Portal",
+    "Battle Maiden Spears",
+    "Battle Maiden Sword",
+    "Bobcat",
+    "Goliath_Buff",
+    "Guard",
+    "Malta Ops AV",
+    "Message",
+    "Minelayer",
+    "Neuron",
+    "Neuron Clone",
+    "Proximity Mine",
+    "Trapdoor",
+    "Trapdoor_Bifurcation"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Fortunata_Training",
+  "display_name": "Fortunata Training",
+  "display_fullname": "Widow Training.Fortunata Training",
+  "display_help": "Fortunata's have a wide array of extremely potent psychic attacks and controls.",
+  "display_short_help": "Fortunata Training",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    11,
+    17,
+    25,
+    27
+  ],
+  "source_file": "DEFS/POWERS/WIDOW_TRAINING/FORTUNATA_TRAINING.POWERSETS",
+  "icon": "fortunata_training_set.png",
+  "requires": "",
+  "power_names": [
+    "Widow_Training.Fortunata_Training.FRT_Mental_Blast",
+    "Widow_Training.Fortunata_Training.FRT_Telekinetic_Blast",
+    "Widow_Training.Fortunata_Training.FRT_Subdue",
+    "Widow_Training.Fortunata_Training.FRT_Aim",
+    "Widow_Training.Fortunata_Training.FRT_Psychic_Scream",
+    "Widow_Training.Fortunata_Training.FRT_Dominate",
+    "Widow_Training.Fortunata_Training.FRT_Psionic_Lance",
+    "Widow_Training.Fortunata_Training.FRT_Scramble_Thoughts",
+    "Widow_Training.Fortunata_Training.FRT_Total_Domination",
+    "Widow_Training.Fortunata_Training.FRT_Psychic_Wail"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Telekinetic Blast",
+    "Subdue",
+    "Aim",
+    "Psychic Scream",
+    "Dominate",
+    "Psionic Tornado",
+    "Scramble Thoughts",
+    "Total Domination",
+    "Psychic Wail"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Psionic), Target -Recharge",
+    "Ranged, Light DMG(Smash/Psionic), Foe Knockback",
+    "Ranged, Moderate DMG(Psionic), Foe Immobilize",
+    "Self +To Hit, +DMG",
+    "Ranged (Cone), Light DMG(Psionic), Foe -Recharge",
+    "Ranged, Moderate DMG(Psionic), Foe Hold",
+    "Ranged (Targeted AoE), Moderate DoT(Psionic), Foe Knockback",
+    "Ranged, Minor DMG(Psionic), Foe Disorient",
+    "Ranged (Targeted AoE), Foe Hold",
+    "PBAoE , Extreme DMG(Psionic), Foe Disorient -Recharge"
+  ]
+}

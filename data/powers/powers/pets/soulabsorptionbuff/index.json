@@ -1,0 +1,22 @@
+{
+  "name": "SoulAbsorptionBuff",
+  "display_name": "Soul Absorption",
+  "display_fullname": "Pets.Soul Absorption",
+  "display_help": "Dark Affinity",
+  "display_short_help": "Dark Affinity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/SOULABSORPTIONBUFF.POWERSETS",
+  "icon": "soulabsorptionbuff_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.SoulAbsorptionBuff.Soul_Absorption"
+  ],
+  "power_display_names": [
+    "Soul Absorption"
+  ],
+  "power_short_helps": [
+    "+Regen, +Recovery"
+  ]
+}

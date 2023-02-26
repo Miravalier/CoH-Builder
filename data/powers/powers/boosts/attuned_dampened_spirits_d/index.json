@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Dampened_Spirits_D",
+  "display_name": "Attuned Dampened Spirits D",
+  "display_fullname": "Boosts.Attuned Dampened Spirits D",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and the endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Dampened Spirits",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DAMPENED_SPIRITS_D.POWERSETS",
+  "icon": "attuned_dampened_spirits_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Dampened_Spirits_D.Attuned_Dampened_Spirits_D"
+  ],
+  "power_display_names": [
+    "Dampened Spirits: Recharge/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+Rech, +End"
+  ]
+}

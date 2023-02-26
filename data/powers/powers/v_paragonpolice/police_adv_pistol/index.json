@@ -1,0 +1,26 @@
+{
+  "name": "Police_Adv_Pistol",
+  "display_name": "Police Adv Pistol",
+  "display_fullname": "V ParagonPolice.Police Adv Pistol",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/POLICE_ADV_PISTOL.POWERSETS",
+  "icon": "police_adv_pistol_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Police_Adv_Pistol.Hold_Out_Pistol",
+    "V_ParagonPolice.Police_Adv_Pistol.Wild_Shot"
+  ],
+  "power_display_names": [
+    "Hold Out Pistol",
+    "Wild Shot"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Med Dam",
+    "-Def"
+  ]
+}

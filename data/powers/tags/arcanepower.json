@@ -1,0 +1,31 @@
+{
+  "tag": "ArcanePower",
+  "bears": [
+    [
+      "Pool.Sorcery.Arcane Power",
+      "pool.sorcery.arcane_proc"
+    ],
+    [
+      "Vanguard.HERO1.Arcane Power",
+      "vanguard.hero1.arcane_proc"
+    ]
+  ],
+  "affects": [
+    [
+      "Pool.Sorcery.Arcane Bolt",
+      "pool.sorcery.arcane_bolt"
+    ],
+    [
+      "Pool.Sorcery.Arcane Power",
+      "pool.sorcery.arcane_proc"
+    ],
+    [
+      "Vanguard.HERO1.Arcane Bolt",
+      "vanguard.hero1.arcane_bolt"
+    ],
+    [
+      "Vanguard.HERO1.Arcane Power",
+      "vanguard.hero1.arcane_proc"
+    ]
+  ]
+}

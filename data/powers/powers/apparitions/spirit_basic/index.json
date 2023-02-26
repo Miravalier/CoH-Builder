@@ -1,0 +1,26 @@
+{
+  "name": "Spirit_Basic",
+  "display_name": "Spirit_Basic",
+  "display_fullname": "Apparitions.Spirit Basic",
+  "display_help": "Apparitions",
+  "display_short_help": "Apparitions",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/APPARITIONS/SPIRIT_BASIC.POWERSETS",
+  "icon": "spirit_basic_set.png",
+  "requires": "",
+  "power_names": [
+    "Apparitions.Spirit_Basic.Hateful_Blast",
+    "Apparitions.Spirit_Basic.Wrathful_Siphon"
+  ],
+  "power_display_names": [
+    "Hateful Blast",
+    "Wrathful Siphon"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG (Lethal/Negative Energy), -DMG (All)",
+    "Ranged, Minor DMG (Lethal/Negative Energy), -Status, -Debuff"
+  ]
+}

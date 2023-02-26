@@ -1,0 +1,30 @@
+{
+  "name": "Elite_Boss",
+  "display_name": "Elite Boss",
+  "display_fullname": "V Wailers.Elite Boss",
+  "display_help": "Wailers",
+  "display_short_help": "Wailers",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_WAILERS/ELITE_BOSS.POWERSETS",
+  "icon": "elite_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Wailers.Elite_Boss.Sonic_Barrier",
+    "V_Wailers.Elite_Boss.Screech",
+    "V_Wailers.Elite_Boss.Revive"
+  ],
+  "power_display_names": [
+    "Sonic Barrier",
+    "Screech",
+    "Revive"
+  ],
+  "power_short_helps": [
+    "Ranged, Ally +Res(Smash, Lethal, Toxic)",
+    "Ranged, Minor Damage (Smashing/Energy), Foe Disorient, -Res(All)",
+    "Self Rez"
+  ]
+}

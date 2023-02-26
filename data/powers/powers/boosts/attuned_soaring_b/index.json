@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Soaring_B",
+  "display_name": "Attuned Soaring B",
+  "display_fullname": "Boosts.Attuned Soaring B",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Soaring",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SOARING_B.POWERSETS",
+  "icon": "attuned_soaring_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Soaring_B.Attuned_Soaring_B"
+  ],
+  "power_display_names": [
+    "Soaring: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

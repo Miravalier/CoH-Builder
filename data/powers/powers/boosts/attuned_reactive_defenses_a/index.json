@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Reactive_Defenses_A",
+  "display_name": "Attuned Reactive Defenses A",
+  "display_fullname": "Boosts.Attuned Reactive Defenses A",
+  "display_help": "Enhances the defense of a power by {Boost.Attrib.Defense.Scale}%.",
+  "display_short_help": "Set: Reactive Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_REACTIVE_DEFENSES_A.POWERSETS",
+  "icon": "attuned_reactive_defenses_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Reactive_Defenses_A.Attuned_Reactive_Defenses_A"
+  ],
+  "power_display_names": [
+    "Reactive Defenses: Defense"
+  ],
+  "power_short_helps": [
+    "Enhances Defense"
+  ]
+}

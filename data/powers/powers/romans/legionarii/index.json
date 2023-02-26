@@ -1,0 +1,42 @@
+{
+  "name": "Legionarii",
+  "display_name": "Legionarii",
+  "display_fullname": "Romans.Legionarii",
+  "display_help": "Legionarii",
+  "display_short_help": "Legionarii",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/LEGIONARII.POWERSETS",
+  "icon": "legionarii_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Legionarii.Phalanx_Fighting",
+    "Romans.Legionarii.Energized_Shield",
+    "Romans.Legionarii.Push_Back",
+    "Romans.Legionarii.Slash",
+    "Romans.Legionarii.Slice",
+    "Romans.Legionarii.Pilum"
+  ],
+  "power_display_names": [
+    "Roman Armor",
+    "Phalanx Fighting",
+    "Push Back",
+    "Slash",
+    "Slice",
+    "Pilum"
+  ],
+  "power_short_helps": [
+    "Auto: Self +DEF(All), Res(DeBuff DEF)",
+    "Toggle: Self +DEF(All), Res(Disorient, Hold, Immobilize, Sleep, Knock, Repel)",
+    "Melee, Extreme DMG(Smash), High Knockback",
+    "Melee, Moderate Dam(Lethal), Foe -DEF",
+    "-DEF",
+    "Ranged, High DMG(Lethal)"
+  ]
+}

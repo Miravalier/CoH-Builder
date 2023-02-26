@@ -1,0 +1,22 @@
+{
+  "name": "Devouring_Earth_Summon_Swarm",
+  "display_name": "Devouring Earth Summon Swarm",
+  "display_fullname": "DevouringEarth.Devouring Earth Summon Swarm",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_SUMMON_SWARM.POWERSETS",
+  "icon": "devouring_earth_summon_swarm_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Summon_Swarm.Call_Swarm"
+  ],
+  "power_display_names": [
+    "Call Swarm"
+  ],
+  "power_short_helps": [
+    "Summon Swarm"
+  ]
+}

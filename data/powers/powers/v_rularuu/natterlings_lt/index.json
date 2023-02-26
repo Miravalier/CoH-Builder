@@ -1,0 +1,22 @@
+{
+  "name": "Natterlings_Lt",
+  "display_name": "Natterlings_Lt",
+  "display_fullname": "V Rularuu.Natterlings Lt",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_RULARUU/NATTERLINGS_LT.POWERSETS",
+  "icon": "natterlings_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Rularuu.Natterlings_Lt.Sinew"
+  ],
+  "power_display_names": [
+    "Sinew"
+  ],
+  "power_short_helps": [
+    "Hold"
+  ]
+}

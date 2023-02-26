@@ -1,0 +1,19 @@
+{
+  "tag": "ScourgeProc",
+  "bears": [
+    [
+      "Incarnate.Hybrid.Blight",
+      "incarnate.hybrid_silent.scourge_1"
+    ],
+    [
+      "Incarnate.Hybrid.Blight",
+      "incarnate.hybrid_silent.scourge_2"
+    ]
+  ],
+  "affects": [
+    [
+      "Incarnate.Hybrid.Doublehit Grant",
+      "incarnate.hybrid_silent.doublehit_grant"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PopUp_Turret",
+  "display_name": "PopUp Turret",
+  "display_fullname": "Turrets.PopUp Turret",
+  "display_help": "Turrets",
+  "display_short_help": "Turrets",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TURRETS/POPUP_TURRET.POWERSETS",
+  "icon": "popup_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "Turrets.PopUp_Turret.Gun"
+  ],
+  "power_display_names": [
+    "Gun"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal"
+  ]
+}

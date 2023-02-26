@@ -1,0 +1,26 @@
+{
+  "name": "DUST_BS_Endgame",
+  "display_name": "DUST_BS_Endgame",
+  "display_fullname": "PraetorianPolice.DUST BS Endgame",
+  "display_help": "Praetorian DUST",
+  "display_short_help": "Praetorian DUST",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/DUST_BS_ENDGAME.POWERSETS",
+  "icon": "dust_bs_endgame_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.DUST_BS_Endgame.Force_Smash",
+    "PraetorianPolice.DUST_BS_Endgame.Plasma_Burst"
+  ],
+  "power_display_names": [
+    "Force Smash",
+    "Plasma Burst"
+  ],
+  "power_short_helps": [
+    "Melee, High DMG(Energy/Smash), Foe Disorient",
+    "Ranged, High DMG(Energy), DoT (Fire), Foe -Regen"
+  ]
+}

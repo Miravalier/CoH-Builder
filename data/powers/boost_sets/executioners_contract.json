@@ -1,0 +1,540 @@
+{
+  "name": "Executioners_Contract",
+  "display_name": "Executioner's Contract",
+  "group_name": "Sniper Attacks",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Sniper"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Executioners_Contract_A.Crafted_Executioners_Contract_A",
+      "Boosts.Attuned_Executioners_Contract_A.Attuned_Executioners_Contract_A"
+    ],
+    [
+      "Boosts.Crafted_Executioners_Contract_B.Crafted_Executioners_Contract_B",
+      "Boosts.Attuned_Executioners_Contract_B.Attuned_Executioners_Contract_B"
+    ],
+    [
+      "Boosts.Crafted_Executioners_Contract_C.Crafted_Executioners_Contract_C",
+      "Boosts.Attuned_Executioners_Contract_C.Attuned_Executioners_Contract_C"
+    ],
+    [
+      "Boosts.Crafted_Executioners_Contract_D.Crafted_Executioners_Contract_D",
+      "Boosts.Attuned_Executioners_Contract_D.Attuned_Executioners_Contract_D"
+    ],
+    [
+      "Boosts.Crafted_Executioners_Contract_E.Crafted_Executioners_Contract_E",
+      "Boosts.Attuned_Executioners_Contract_E.Attuned_Executioners_Contract_E"
+    ],
+    [
+      "Boosts.Crafted_Executioners_Contract_F.Crafted_Executioners_Contract_F",
+      "Boosts.Attuned_Executioners_Contract_F.Attuned_Executioners_Contract_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_3",
+          "Moderate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_3",
+          "Moderate Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_4",
+          "Large Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_4",
+          "Large Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_5",
+          "Huge Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png",
+      "e_icon_executionerscontract.png"
+    ],
+    "boosts": [
+      [
+        "Executioner's Contract: Accuracy/Damage",
+        "Attuned Executioner's Contract: Accuracy/Damage"
+      ],
+      [
+        "Executioner's Contract: Damage/Endurance",
+        "Attuned Executioner's Contract: Damage/Endurance"
+      ],
+      [
+        "Executioner's Contract: Damage/InterruptTime",
+        "Attuned Executioner's Contract: Damage/InterruptTime"
+      ],
+      [
+        "Executioner's Contract: Damage/Range",
+        "Attuned Executioner's Contract: Damage/Range"
+      ],
+      [
+        "Executioner's Contract: Damage/Recharge",
+        "Attuned Executioner's Contract: Damage/Recharge"
+      ],
+      [
+        "Executioner's Contract: Proc",
+        "Attuned Executioner's Contract: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_executioners_contract_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_executioners_contract_a.attuned_executioners_contract_a",
+          "Executioners Contract: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Executioner's Contract: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "attuned_executioners_contract_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Executioner's Contract: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "crafted_executioners_contract_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_executioners_contract_b.attuned_executioners_contract_b",
+          "Executioners Contract: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Executioner's Contract: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "attuned_executioners_contract_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Executioner's Contract: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "crafted_executioners_contract_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_executioners_contract_c.attuned_executioners_contract_c",
+          "Executioners Contract: Damage/Interrupt"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Executioner's Contract: Damage/InterruptTime",
+        "aspects": [
+          "Damage",
+          "InterruptTime"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "attuned_executioners_contract_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Executioner's Contract: Damage/InterruptTime",
+        "aspects": [
+          "Damage",
+          "InterruptTime"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "crafted_executioners_contract_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_executioners_contract_d.attuned_executioners_contract_d",
+          "Executioners Contract: Damage/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Executioner's Contract: Damage/Range",
+        "aspects": [
+          "Damage",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "attuned_executioners_contract_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Executioner's Contract: Damage/Range",
+        "aspects": [
+          "Damage",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "crafted_executioners_contract_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_executioners_contract_e.attuned_executioners_contract_e",
+          "Executioners Contract: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Executioner's Contract: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "attuned_executioners_contract_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Executioner's Contract: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "crafted_executioners_contract_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_executioners_contract_f.attuned_executioners_contract_f",
+          "Executioners Contract: Disorient Bonus"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Executioner's Contract: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      },
+      "attuned_executioners_contract_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Executioner's Contract: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "executioners_contract",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_executionerscontract.png"
+      }
+    }
+  }
+}

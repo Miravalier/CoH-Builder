@@ -1,0 +1,30 @@
+{
+  "name": "Black_Hole_Bomb",
+  "display_name": "Black Hole Bomb",
+  "display_fullname": "Romans.Black Hole Bomb",
+  "display_help": "Romulus Nictus",
+  "display_short_help": "Romulus Nictus",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/BLACK_HOLE_BOMB.POWERSETS",
+  "icon": "romulus_nictus_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Black_Hole_Bomb.Roman_BlackHole_Bomb",
+    "Romans.Black_Hole_Bomb.Orbiting_Death",
+    "Romans.Black_Hole_Bomb.Blackhole_Bomb_Countdown"
+  ],
+  "power_display_names": [
+    "Void Explosion",
+    "Energy Leak",
+    "Countdown"
+  ],
+  "power_short_helps": [
+    "Wide PBAoE Extreme DMG(Negative/Void)",
+    "Auto: PBAoE Minor DoT(Negative)",
+    "Countdown"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Perplex_C",
+  "display_name": "Crafted Perplex C",
+  "display_fullname": "Boosts.Crafted Perplex C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Perplex",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_PERPLEX_C.POWERSETS",
+  "icon": "crafted_perplex_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Perplex_C.Crafted_Perplex_C"
+  ],
+  "power_display_names": [
+    "Perplex: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Vampire_Boss",
+  "display_name": "Vampire Boss",
+  "display_fullname": "Event.Vampire Boss",
+  "display_help": "Vampire",
+  "display_short_help": "Vampire",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/VAMPIRE_BOSS.POWERSETS",
+  "icon": "vampire_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Vampire_Boss.Mesmerize",
+    "Event.Vampire_Boss.Dominate",
+    "Event.Vampire_Boss.Reconstruction"
+  ],
+  "power_display_names": [
+    "Mesmerize",
+    "Dominate",
+    "Reconstruction"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Hold",
+    "Self Heal"
+  ]
+}

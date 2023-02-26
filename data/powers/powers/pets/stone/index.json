@@ -1,0 +1,34 @@
+{
+  "name": "Stone",
+  "display_name": "Stone",
+  "display_fullname": "Pets.Stone",
+  "display_help": "Earth Control",
+  "display_short_help": "Earth Control",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/STONE.POWERSETS",
+  "icon": "stone_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Stone.Stone_Fist",
+    "Pets.Stone.Seismic_Smash",
+    "Pets.Stone.Hurl_Boulder",
+    "Pets.Stone.Resistance"
+  ],
+  "power_display_names": [
+    "Stone Fist",
+    "Seismic Smash",
+    "Hurl Boulder",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Disorient",
+    "Melee, Moderate DMG(Smash), Foe Hold",
+    "Ranged, Moderate DMG(Smash), Foe Knockback",
+    "Resistance"
+  ]
+}

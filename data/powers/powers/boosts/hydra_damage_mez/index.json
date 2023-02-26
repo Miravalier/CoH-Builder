@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Damage_Mez",
+  "display_name": "Hydra Damage Mez",
+  "display_fullname": "Boosts.Hydra Damage Mez",
+  "display_help": "Enhances the damage and the duration of all mez powers.",
+  "display_short_help": "Hydra (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/HYDRA_DAMAGE_MEZ.POWERSETS",
+  "icon": "hydra_damage_mez_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Hydra_Damage_Mez.Hydra_Damage_Mez"
+  ],
+  "power_display_names": [
+    "Gluon Exposure (Dam/Mez)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Mez"
+  ]
+}

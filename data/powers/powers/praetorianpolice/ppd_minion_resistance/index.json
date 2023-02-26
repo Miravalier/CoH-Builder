@@ -1,0 +1,22 @@
+{
+  "name": "PPD_Minion_Resistance",
+  "display_name": "PPD Minion Resistance",
+  "display_fullname": "PraetorianPolice.PPD Minion Resistance",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/PPD_MINION_RESISTANCE.POWERSETS",
+  "icon": "ppd_minion_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.PPD_Minion_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto, Res(Lethal, Smashing, Energy)"
+  ]
+}

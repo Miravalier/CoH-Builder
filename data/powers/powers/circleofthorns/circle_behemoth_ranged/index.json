@@ -1,0 +1,22 @@
+{
+  "name": "Circle_Behemoth_Ranged",
+  "display_name": "Circle_Behemoth_Ranged",
+  "display_fullname": "CircleOfThorns.Circle Behemoth Ranged",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/CIRCLE_BEHEMOTH_RANGED.POWERSETS",
+  "icon": "circle_behemoth_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Circle_Behemoth_Ranged.Flares"
+  ],
+  "power_display_names": [
+    "Flares"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)"
+  ]
+}

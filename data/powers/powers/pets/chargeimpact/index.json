@@ -1,0 +1,22 @@
+{
+  "name": "ChargeImpact",
+  "display_name": "Charge Impact",
+  "display_fullname": "Pets.Charge Impact",
+  "display_help": "Charge Impact",
+  "display_short_help": "Charge Impact",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/CHARGEIMPACT.POWERSETS",
+  "icon": "chargeimpact_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.ChargeImpact.Shield_Charge"
+  ],
+  "power_display_names": [
+    "Shield Charge"
+  ],
+  "power_short_helps": [
+    "PBAoE, Minor DMG( Energy), Foe Knockback"
+  ]
+}

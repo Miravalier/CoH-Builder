@@ -1,0 +1,26 @@
+{
+  "name": "Psychic_Defender_Mid",
+  "display_name": "Psychic Defender Mid",
+  "display_fullname": "V GenericHeroes.Psychic Defender Mid",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/PSYCHIC_DEFENDER_MID.POWERSETS",
+  "icon": "psychic_defender_mid_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Psychic_Defender_Mid.Psionic_Tornado",
+    "V_GenericHeroes.Psychic_Defender_Mid.Scramble_Thoughts"
+  ],
+  "power_display_names": [
+    "Psionic Tornado",
+    "Scramble Thoughts"
+  ],
+  "power_short_helps": [
+    "Moderate DoT(Psionic), Slow",
+    "Ranged, Minor DMG(Psionic), Foe Disorient"
+  ]
+}

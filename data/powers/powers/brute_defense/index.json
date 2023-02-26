@@ -1,0 +1,41 @@
+{
+  "name": "Brute_Defense",
+  "display_name": "Defense",
+  "source_file": "DEFS/POWERS/BRUTE_DEFENSE.CATEGORIES",
+  "archetypes": [
+    "brute"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "brute_defense.bio_organic_armor",
+    "brute_defense.dark_armor",
+    "brute_defense.electric_armor",
+    "brute_defense.energy_aura",
+    "brute_defense.fiery_aura",
+    "brute_defense.ice_armor",
+    "brute_defense.invulnerability",
+    "brute_defense.radiation_armor",
+    "brute_defense.regeneration",
+    "brute_defense.shield_defense",
+    "brute_defense.stone_armor",
+    "brute_defense.super_reflexes",
+    "brute_defense.willpower"
+  ],
+  "powerset_display_names": [
+    "Bio Armor",
+    "Dark Armor",
+    "Electric Armor",
+    "Energy Aura",
+    "Fiery Aura",
+    "Ice Armor",
+    "Invulnerability",
+    "Radiation Armor",
+    "Regeneration",
+    "Shield Defense",
+    "Stone Armor",
+    "Super Reflexes",
+    "Willpower"
+  ],
+  "powersets_with_requirements": []
+}

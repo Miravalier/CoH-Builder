@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Theft_of_Essence_B",
+  "display_name": "Attuned Theft of Essence B",
+  "display_fullname": "Boosts.Attuned Theft of Essence B",
+  "display_help": "Enhances the healing potential and damage absorption of a power by {Boost.Attrib.Heal.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. NOTE: This enhancement can only be slotted into healing powers that require a To Hit check.",
+  "display_short_help": "Set: Theft of Essence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_THEFT_OF_ESSENCE_B.POWERSETS",
+  "icon": "attuned_theft_of_essence_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Theft_of_Essence_B.Attuned_Theft_of_Essence_B"
+  ],
+  "power_display_names": [
+    "Theft of Essence: Healing/Absorb/Recharge"
+  ],
+  "power_short_helps": [
+    "+Heal, +Rech, +Absorb"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Detonation_E",
+  "display_name": "Attuned Detonation E",
+  "display_fullname": "Boosts.Attuned Detonation E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Detonation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DETONATION_E.POWERSETS",
+  "icon": "attuned_detonation_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Detonation_E.Attuned_Detonation_E"
+  ],
+  "power_display_names": [
+    "Detonation: Accuracy/Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Accuracy"
+  ]
+}

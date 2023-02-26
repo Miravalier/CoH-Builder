@@ -1,0 +1,73 @@
+{
+  "group": "Sprint_Group",
+  "powers": [
+    [
+      "Inherent.Inherent.Prestige Power Dash",
+      "inherent.inherent.prestige_bestbuy_sprintp"
+    ],
+    [
+      "Inherent.Inherent.Prestige Power Quick",
+      "inherent.inherent.prestige_eb_sprintp"
+    ],
+    [
+      "Inherent.Inherent.Prestige Power Rush",
+      "inherent.inherent.prestige_gamestop_sprintp"
+    ],
+    [
+      "Inherent.Inherent.Prestige Power Slide",
+      "inherent.inherent.prestige_dvd_glidep"
+    ],
+    [
+      "Inherent.Inherent.Prestige Power Surge",
+      "inherent.inherent.prestige_generic_sprintp"
+    ],
+    [
+      "Inherent.Inherent.Sprint",
+      "inherent.inherent.sprint"
+    ],
+    [
+      "Inherent.Inherent.Walk",
+      "inherent.inherent.walk"
+    ],
+    [
+      "Prestige.Prestige Sprints.Prestige Power Dash",
+      "prestige.prestige_sprints.prestige_bestbuy_sprintp"
+    ],
+    [
+      "Prestige.Prestige Sprints.Prestige Power Quick",
+      "prestige.prestige_sprints.prestige_eb_sprintp"
+    ],
+    [
+      "Prestige.Prestige Sprints.Prestige Power Rush",
+      "prestige.prestige_sprints.prestige_gamestop_sprintp"
+    ],
+    [
+      "Prestige.Prestige Sprints.Prestige Power Slide",
+      "prestige.prestige_sprints.prestige_dvd_glidep"
+    ],
+    [
+      "Prestige.Prestige Sprints.Prestige Power Surge",
+      "prestige.prestige_sprints.prestige_generic_sprintp"
+    ],
+    [
+      "Prestige.Prestige Sprints.Sprint",
+      "prestige.prestige_sprints.prestige_preorder_sprintp"
+    ],
+    [
+      "Prestige.Prestige Travel.Cheetah Travel Power",
+      "prestige.prestige_travel.alt_cheetah_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Coyote Travel Power",
+      "prestige.prestige_travel.alt_coyote_travel_power"
+    ],
+    [
+      "Prestige.Prestige Travel.Panther Travel Power",
+      "prestige.prestige_travel.alt_panther_travel_power"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Walk",
+      "temporary_powers.temporary_powers.walk"
+    ]
+  ]
+}

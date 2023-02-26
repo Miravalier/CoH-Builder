@@ -1,0 +1,26 @@
+{
+  "name": "Corruptor_EnergyBlast_Snipe",
+  "display_name": "Corruptor_EnergyBlast_Snipe",
+  "display_fullname": "Villain Pets.Corruptor EnergyBlast Snipe",
+  "display_help": "Energy Blast",
+  "display_short_help": "Energy Blast",
+  "available_level": [
+    7,
+    7
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/CORRUPTOR_ENERGYBLAST_SNIPE.POWERSETS",
+  "icon": "corruptor_energyblast_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Corruptor_EnergyBlast_Snipe.Sniper_Blast_Quick",
+    "Villain_Pets.Corruptor_EnergyBlast_Snipe.Sniper_Blast_Normal"
+  ],
+  "power_display_names": [
+    "Sniper Blast",
+    "Sniper Blast"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy/Smash), Foe Knockback",
+    "Sniper, Extreme DMG(Energy/Smash), Foe Knockback"
+  ]
+}

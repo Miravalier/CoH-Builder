@@ -1,0 +1,62 @@
+{
+  "name": "Fifth_Column_Elite_Boss_Nictus",
+  "display_name": "Fifth_Column_Elite_Boss_Nictus",
+  "display_fullname": "5thColumn.Fifth Column Elite Boss Nictus",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_ELITE_BOSS_NICTUS.POWERSETS",
+  "icon": "umbral_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Shadow_Blast",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Ebon_Eye",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Gravitic_Emanation",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Gravity_Well",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Gravimetric_Snare",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Star_Punch",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Orbiting_Death",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Starless_Step",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Penumbral_Shield",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.5thColumn_Dwarf",
+    "5thColumn.Fifth_Column_Elite_Boss_Nictus.Resistance"
+  ],
+  "power_display_names": [
+    "Shadow Blast",
+    "Ebon Eye",
+    "Gravitic Emanation",
+    "Gravity Well",
+    "Gravimetric Snare",
+    "Star Punch",
+    "Orbiting Death",
+    "Starless Step",
+    "Penumbral Shield",
+    "Black Dwarf",
+    "Nictus Imbuement"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "Ranged, Moderate DMG(Negative/Special), Foe -Recharge, -SPD",
+    "Disorient, -Recharge, -SPD",
+    "Hold, -Recharge, -SPD",
+    "Foe Immobilize, -Recharge, -SPD",
+    "Disorient, -Recharge, -SPD",
+    "Auto: PBAoE Minor DoT(Negative/Special)",
+    "Ranged (Location), Self Teleport, ToHit",
+    "Auto: Self +Res(Fire, Cold, Toxic)",
+    "Toggle: Shapeshift, Special",
+    "Resistance"
+  ]
+}

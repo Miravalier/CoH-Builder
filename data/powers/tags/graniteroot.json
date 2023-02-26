@@ -1,0 +1,27 @@
+{
+  "tag": "GraniteRoot",
+  "bears": [
+    [
+      "Brute Defense.Stone Armor.Rooted",
+      "brute_defense.stone_armor.rooted"
+    ],
+    [
+      "Scrapper Defense.Stone Armor.Rooted",
+      "scrapper_defense.stone_armor.rooted"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Rooted",
+      "tanker_defense.stone_armor.rooted"
+    ]
+  ],
+  "affects": [
+    [
+      "Brute Defense.Stone Armor.Granite Armor",
+      "brute_defense.stone_armor.granite_armor"
+    ],
+    [
+      "Tanker Defense.Stone Armor.Granite Armor",
+      "tanker_defense.stone_armor.granite_armor"
+    ]
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Neuron_Neuron",
+  "gender": "GENDER_MALE",
+  "group_name": "Neuron",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Known as Praetor Berry, Praetor of Sciences, in Praetoria, Neuron is a genius who steals his best ideas from Anti-Matter, the Praetorian version of Positron. He and Praetor Duncan dupe Anti-Matter regularly to ensure that Neuron ends up with all the credit and none of the mistakes.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Praetorians.Neuron.Resistance",
+      "Praetorians.Neuron.Charged_Bolts",
+      "Praetorians.Neuron.Lightning_Bolt",
+      "Praetorians.Neuron.Ball_Lightning",
+      "Praetorians.Neuron.Tesla_Cage",
+      "Praetorians.Neuron.Charged_Brawl",
+      "Praetorians.Neuron.Lightning_Field",
+      "Praetorians.Neuron.Havoc_Punch",
+      "Praetorians.Neuron.Lightning_Clap",
+      "Praetorians.Neuron.Thunder_Strike",
+      "Praetorians.Neuron.Power_Sink",
+      "Praetorians.Neuron.Shocking_Grasp",
+      "Praetorians.Neuron.Voltaic_Sentinel"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Charged Bolts",
+      "Lightning Bolt",
+      "Ball Lightning",
+      "Tesla Cage",
+      "Charged Brawl",
+      "Lightning Field",
+      "Havoc Punch",
+      "Lightning Clap",
+      "Thunder Strike",
+      "Power Sink",
+      "Shocking Grasp",
+      "Voltaic Sentinel"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Praetorians",
+        "power_set": "Neuron",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Neuron"
+      ],
+      "costumes": [
+        "Signature_Neuron_01_NoRing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Soul_Beast",
+  "display_name": "Soul Beast",
+  "display_fullname": "Drudges.Soul Beast",
+  "display_help": "Soul Beast",
+  "display_short_help": "Soul Beast",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/SOUL_BEAST.POWERSETS",
+  "icon": "soul_beast_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.Soul_Beast.Claw_Swipe",
+    "Drudges.Soul_Beast.Resistance"
+  ],
+  "power_display_names": [
+    "Vicious Bite",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee, Heavy DMG(Lethal/Negative), Foe Minor DoT(Lethal)",
+    "Resistance"
+  ]
+}

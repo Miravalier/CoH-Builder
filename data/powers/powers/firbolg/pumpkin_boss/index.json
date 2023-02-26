@@ -1,0 +1,30 @@
+{
+  "name": "Pumpkin_Boss",
+  "display_name": "Pumpkin Boss",
+  "display_fullname": "FirBolg.Pumpkin Boss",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FIRBOLG/PUMPKIN_BOSS.POWERSETS",
+  "icon": "pumpkin_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "FirBolg.Pumpkin_Boss.Pumpkin",
+    "FirBolg.Pumpkin_Boss.Pumpkin_Bomb",
+    "FirBolg.Pumpkin_Boss.Fire_Stomp"
+  ],
+  "power_display_names": [
+    "Pumpkin",
+    "Pumpkin Bomb",
+    "Fire Stomp"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)"
+  ]
+}

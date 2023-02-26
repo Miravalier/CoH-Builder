@@ -1,0 +1,50 @@
+{
+  "name": "Energy_Blast",
+  "display_name": "Energy Blast",
+  "display_fullname": "Mission Maker Secondary.Energy Blast",
+  "display_help": "Energy Blast allows you to hurl bolts of energy at your foes, and can often send them flying with Knockback.",
+  "display_short_help": "Energy Blast",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/ENERGY_BLAST.POWERSETS",
+  "icon": "energy_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Energy_Blast.Power_Bolt",
+    "Mission_Maker_Secondary.Energy_Blast.Power_Blast",
+    "Mission_Maker_Secondary.Energy_Blast.Energy_Torrent",
+    "Mission_Maker_Secondary.Energy_Blast.Power_Burst",
+    "Mission_Maker_Secondary.Energy_Blast.Sniper_Blast",
+    "Mission_Maker_Secondary.Energy_Blast.Aim",
+    "Mission_Maker_Secondary.Energy_Blast.Explosive_Blast",
+    "Mission_Maker_Secondary.Energy_Blast.Nova"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Energy Torrent",
+    "Power Burst",
+    "Sniper Blast",
+    "Aim",
+    "Explosive Blast",
+    "Nova"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Cone), Moderate DMG(Energy/Smash), Foe Knockback",
+    "Close, High DMG(Energy/Smash), Foe Knockback",
+    "Sniper, Extreme DMG(Energy/Smash), Foe Knockback",
+    "Self +To-hit, +DMG",
+    "Ranged (Targeted AoE), Moderate DMG(Smash/Energy), Foe Knockback",
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Knockback, Self -Recovery"
+  ]
+}

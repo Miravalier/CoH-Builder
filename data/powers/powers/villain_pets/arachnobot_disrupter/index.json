@@ -1,0 +1,50 @@
+{
+  "name": "Arachnobot_Disrupter",
+  "display_name": "Arachnobot Disrupter",
+  "display_fullname": "Villain Pets.Arachnobot Disrupter",
+  "display_help": "Mace Mastery",
+  "display_short_help": "Mace Mastery",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/ARACHNOBOT_DISRUPTER.POWERSETS",
+  "icon": "arachnobot_disrupter_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Arachnobot_Disrupter.Disruptor_Bolt",
+    "Villain_Pets.Arachnobot_Disrupter.Disruptor_Blast",
+    "Villain_Pets.Arachnobot_Disrupter.Disruptor_Tesla",
+    "Villain_Pets.Arachnobot_Disrupter.Claw",
+    "Villain_Pets.Arachnobot_Disrupter.Web_Spitter",
+    "Villain_Pets.Arachnobot_Disrupter.Self_Destruct",
+    "Villain_Pets.Arachnobot_Disrupter.Resistance",
+    "Villain_Pets.Arachnobot_Disrupter.Power_Jumping"
+  ],
+  "power_display_names": [
+    "Disruptor Bolt",
+    "Disruptor Blast",
+    "Disruptor Tesla",
+    "Claw",
+    "Web Spitter",
+    "Self Destruct",
+    "Resistance",
+    "Power Jumping"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Energy), Foe -End",
+    "DoT(Energy)",
+    "Hold",
+    "Melee, Light DMG(Lethal)",
+    "Immobilize, -Fly, -Recharge",
+    "Self Destruct",
+    "Auto Res(Smash, Lethal, Energy, Psionic)",
+    "Self Auto, +Jump, +Speed"
+  ]
+}

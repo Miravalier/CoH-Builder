@@ -1,0 +1,34 @@
+{
+  "name": "Outcast_Boss_Ice",
+  "display_name": "Outcast_Boss_Ice",
+  "display_fullname": "Outcasts.Outcast Boss Ice",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    1,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_BOSS_ICE.POWERSETS",
+  "icon": "outcast_boss_ice_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Boss_Ice.Ice_Sword",
+    "Outcasts.Outcast_Boss_Ice.Ice_Blast",
+    "Outcasts.Outcast_Boss_Ice.Freezing_Touch",
+    "Outcasts.Outcast_Boss_Ice.Frozen_Armor"
+  ],
+  "power_display_names": [
+    "Ice Sword",
+    "Ice Blast",
+    "Freezing Touch",
+    "Frozen Armor"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Hold",
+    "Self, +Def(Smash, Lethal), +Res(Cold)"
+  ]
+}

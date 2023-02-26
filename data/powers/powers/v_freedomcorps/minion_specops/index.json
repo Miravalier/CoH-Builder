@@ -1,0 +1,34 @@
+{
+  "name": "Minion_SpecOps",
+  "display_name": "Minion SpecOps",
+  "display_fullname": "V FreedomCorps.Minion SpecOps",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/MINION_SPECOPS.POWERSETS",
+  "icon": "minion_specops_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Minion_SpecOps.M30_Grenade",
+    "V_FreedomCorps.Minion_SpecOps.Web_Grenade",
+    "V_FreedomCorps.Minion_SpecOps.EMP_Grenade",
+    "V_FreedomCorps.Minion_SpecOps.Cloaking_Device"
+  ],
+  "power_display_names": [
+    "M30 Grenade",
+    "Web Grenade",
+    "EMP Grenade",
+    "Cloaking Device"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Moderate DMG(Fire/Lethal), Knockback",
+    "Immobilize, -Recharge, -Fly",
+    "PBAoE, Foe Hold, Special vs. Robots, -Endurance",
+    "Toggle: Self Stealth, +DEF"
+  ]
+}

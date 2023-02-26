@@ -1,0 +1,22 @@
+{
+  "tag": "Cost",
+  "bears": [
+    [
+      "Blaster Ranged.Electrical Blast.Tesla Cage",
+      "blaster_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Tesla Cage",
+      "corruptor_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Tesla Cage",
+      "defender_ranged.electrical_blast.tesla_cage"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Tesla Cage",
+      "sentinel_ranged.electrical_blast.tesla_cage"
+    ]
+  ],
+  "affects": []
+}

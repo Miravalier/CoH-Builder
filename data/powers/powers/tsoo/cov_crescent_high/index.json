@@ -1,0 +1,22 @@
+{
+  "name": "CoV_Crescent_High",
+  "display_name": "CoV Crescent High",
+  "display_fullname": "Tsoo.CoV Crescent High",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/COV_CRESCENT_HIGH.POWERSETS",
+  "icon": "cov_crescent_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.CoV_Crescent_High.Crippling_Axe_Kick"
+  ],
+  "power_display_names": [
+    "Crippling Axe Kick"
+  ],
+  "power_short_helps": [
+    "Immobilize, -SPD"
+  ]
+}

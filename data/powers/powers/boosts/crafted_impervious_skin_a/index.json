@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Impervious_Skin_A",
+  "display_name": "Crafted Impervious Skin A",
+  "display_fullname": "Boosts.Crafted Impervious Skin A",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Impervious Skin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_IMPERVIOUS_SKIN_A.POWERSETS",
+  "icon": "crafted_impervious_skin_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Impervious_Skin_A.Crafted_Impervious_Skin_A"
+  ],
+  "power_display_names": [
+    "Impervious Skin: Resistance/Endurance"
+  ],
+  "power_short_helps": [
+    "+RES (all), Reduces End cost"
+  ]
+}

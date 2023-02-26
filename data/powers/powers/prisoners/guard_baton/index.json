@@ -1,0 +1,26 @@
+{
+  "name": "Guard_Baton",
+  "display_name": "Guard_Baton",
+  "display_fullname": "Prisoners.Guard Baton",
+  "display_help": "Guard",
+  "display_short_help": "Guard",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRISONERS/GUARD_BATON.POWERSETS",
+  "icon": "guard_baton_set.png",
+  "requires": "",
+  "power_names": [
+    "Prisoners.Guard_Baton.Baton",
+    "Prisoners.Guard_Baton.Revolver"
+  ],
+  "power_display_names": [
+    "Baton",
+    "Revolver"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam",
+    "Ranged Lethal, Med Dam"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Protective_Phase",
+  "display_name": "Protective_Phase",
+  "display_fullname": "Objects.Protective Phase",
+  "display_help": "Dampening Field",
+  "display_short_help": "Dampening Field",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/PROTECTIVE_PHASE.POWERSETS",
+  "icon": "protective_phase_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Protective_Phase.Protective_Phase"
+  ],
+  "power_display_names": [
+    "Protective Phase"
+  ],
+  "power_short_helps": [
+    "Protected"
+  ]
+}

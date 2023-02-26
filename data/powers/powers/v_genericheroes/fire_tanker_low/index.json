@@ -1,0 +1,30 @@
+{
+  "name": "Fire_Tanker_Low",
+  "display_name": "Fire Tanker Low",
+  "display_fullname": "V GenericHeroes.Fire Tanker Low",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/FIRE_TANKER_LOW.POWERSETS",
+  "icon": "fire_tanker_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Fire_Tanker_Low.Combustion",
+    "V_GenericHeroes.Fire_Tanker_Low.Incinerate",
+    "V_GenericHeroes.Fire_Tanker_Low.Fire_Sword_Slice"
+  ],
+  "power_display_names": [
+    "Combustion",
+    "Incinerate",
+    "Fire Sword Slice"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Melee, High DoT(Fire)",
+    "-DEF"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Webbed_Passage",
+  "display_name": "Webbed Passage",
+  "display_fullname": "Objects.Webbed Passage",
+  "display_help": "Webbed Passage",
+  "display_short_help": "Webbed Passage",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/WEBBED_PASSAGE.POWERSETS",
+  "icon": "webbed_passage_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Webbed_Passage.Resistance",
+    "Objects.Webbed_Passage.Summon_Spiders"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Summon Spiders"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Summon Spiders"
+  ]
+}

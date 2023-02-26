@@ -1,0 +1,26 @@
+{
+  "name": "Crey_Minion_Agent_AssaultRifle",
+  "display_name": "Crey_Minion_Agent_AssaultRifle",
+  "display_fullname": "Crey.Crey Minion Agent AssaultRifle",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    35
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_MINION_AGENT_ASSAULTRIFLE.POWERSETS",
+  "icon": "crey_minion_agent_assaultrifle_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Minion_Agent_AssaultRifle.Adv_Assault_Rifle",
+    "Crey.Crey_Minion_Agent_AssaultRifle.Adv_Assault_Rifle_Burst"
+  ],
+  "power_display_names": [
+    "Adv Assault Rifle",
+    "Adv Assault Rifle Burst"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, +KB",
+    "Ranged Lethal, +KB"
+  ]
+}

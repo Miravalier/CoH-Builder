@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Bile_Defense",
+  "display_name": "Freakshow_Bile_Defense",
+  "display_fullname": "Freakshow.Freakshow Bile Defense",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_BILE_DEFENSE.POWERSETS",
+  "icon": "freakshow_bile_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Bile_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

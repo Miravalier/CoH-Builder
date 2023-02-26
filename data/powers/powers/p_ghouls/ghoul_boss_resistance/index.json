@@ -1,0 +1,26 @@
+{
+  "name": "Ghoul_Boss_Resistance",
+  "display_name": "Ghoul Boss Resistance",
+  "display_fullname": "P Ghouls.Ghoul Boss Resistance",
+  "display_help": "Ghouls",
+  "display_short_help": "Ghouls",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_GHOULS/GHOUL_BOSS_RESISTANCE.POWERSETS",
+  "icon": "ghoul_boss_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Ghouls.Ghoul_Boss_Resistance.Resistance",
+    "P_Ghouls.Ghoul_Boss_Resistance.Death_and_Glory"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Death and Glory"
+  ],
+  "power_short_helps": [
+    "Auto, +Res(Lethal, Smash)",
+    "Post Death, PBAoE Heal"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RuluShin_Blessing",
+  "display_name": "",
+  "display_fullname": "RuluShinPowers.RuluShin Blessing",
+  "display_help": "Rulu-Shin Attack",
+  "display_short_help": "Rulu-Shin Attack",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULUSHINPOWERS/RULUSHIN_BLESSING.POWERSETS",
+  "icon": "rulushin_blessing_set.png",
+  "requires": "",
+  "power_names": [
+    "RuluShinPowers.RuluShin_Blessing.Blessing_of_Rularuu"
+  ],
+  "power_display_names": [
+    "Blessing of Rularuu"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

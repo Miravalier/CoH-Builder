@@ -1,0 +1,34 @@
+{
+  "name": "Citizen_Boss",
+  "display_name": "Citizen_Boss",
+  "display_fullname": "P Citizens.Citizen Boss",
+  "display_help": "Citizens",
+  "display_short_help": "Citizens",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_CITIZENS/CITIZEN_BOSS.POWERSETS",
+  "icon": "citizen_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Citizens.Citizen_Boss.Rock",
+    "P_Citizens.Citizen_Boss.Molotov_Cocktail",
+    "P_Citizens.Citizen_Boss.Brawl",
+    "P_Citizens.Citizen_Boss.Vengeance"
+  ],
+  "power_display_names": [
+    "Rock",
+    "Molotov Cocktail",
+    "Brawl",
+    "Vengeance"
+  ],
+  "power_short_helps": [
+    "Ranged Smash",
+    "Targeted AoE Fire, DoT(Fire)",
+    "Melee Smash",
+    "Team Buff +DEF +ACC +DMG"
+  ]
+}

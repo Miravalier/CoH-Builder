@@ -1,0 +1,26 @@
+{
+  "name": "War",
+  "display_name": "War",
+  "display_fullname": "Rikti.War",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/WAR.POWERSETS",
+  "icon": "war_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.War.Assault",
+    "Rikti.War.Tactics"
+  ],
+  "power_display_names": [
+    "Assault",
+    "Tactics"
+  ],
+  "power_short_helps": [
+    "PBAoE, Team +DMG, Res(Taunt, Placate)",
+    "PBAoE, Team +ACC, Res(Confuse, Fear), +Perception"
+  ]
+}

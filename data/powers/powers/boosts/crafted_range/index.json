@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Range",
+  "display_name": "Crafted Range 10",
+  "display_fullname": "Boosts.Crafted Range",
+  "display_help": "Increases range by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RANGE.POWERSETS",
+  "icon": "crafted_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Range.Crafted_Range"
+  ],
+  "power_display_names": [
+    "Invention: Range Increase"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

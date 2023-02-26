@@ -1,0 +1,34 @@
+{
+  "name": "Hidden_Malta",
+  "display_name": "Hidden_Malta",
+  "display_fullname": "Syndicate.Hidden Malta",
+  "display_help": "Malta Group",
+  "display_short_help": "Malta Group",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SYNDICATE/HIDDEN_MALTA.POWERSETS",
+  "icon": "hidden_malta_set.png",
+  "requires": "",
+  "power_names": [
+    "Syndicate.Hidden_Malta.Vest",
+    "Syndicate.Hidden_Malta.Incendiary_Round",
+    "Syndicate.Hidden_Malta.Explosive_Tip",
+    "Syndicate.Hidden_Malta.Rapid_Fire"
+  ],
+  "power_display_names": [
+    "Vest",
+    "Incendiary Round",
+    "Explosive Tip",
+    "Rapid Fire"
+  ],
+  "power_short_helps": [
+    "Auto Res All but Psionics",
+    "Moderate DoT(Fire)",
+    "Ranged, Moderate DMG(Lethal/Fire), Foe Knockback",
+    "Ranged (Cone), DMG(Lethal)"
+  ]
+}

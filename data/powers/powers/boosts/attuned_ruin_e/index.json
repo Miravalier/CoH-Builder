@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Ruin_E",
+  "display_name": "Attuned Ruin E",
+  "display_fullname": "Boosts.Attuned Ruin E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Ruin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_RUIN_E.POWERSETS",
+  "icon": "attuned_ruin_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Ruin_E.Attuned_Ruin_E"
+  ],
+  "power_display_names": [
+    "Ruin: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

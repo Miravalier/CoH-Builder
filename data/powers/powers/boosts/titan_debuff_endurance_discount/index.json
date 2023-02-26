@@ -1,0 +1,22 @@
+{
+  "name": "Titan_DeBuff_Endurance_Discount",
+  "display_name": "Titan DeBuff Endurance Discount",
+  "display_fullname": "Boosts.Titan DeBuff Endurance Discount",
+  "display_help": "Enhances the effectiveness of accuracy and defense debuffs and reduces the endurance cost of a power.",
+  "display_short_help": "Titan (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TITAN_DEBUFF_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "titan_debuff_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Titan_DeBuff_Endurance_Discount.Titan_DeBuff_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "Titan Zeolite Shard (End/Def Debuff/ToHit Debuff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense DeBuffs and Reduces Endurance Cost"
+  ]
+}

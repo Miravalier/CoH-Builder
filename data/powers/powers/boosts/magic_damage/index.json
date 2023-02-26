@@ -1,0 +1,22 @@
+{
+  "name": "Magic_Damage",
+  "display_name": "Magic Damage",
+  "display_fullname": "Boosts.Magic Damage",
+  "display_help": "Enhances the damage of a power.",
+  "display_short_help": "Dimensional Entities (Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MAGIC_DAMAGE.POWERSETS",
+  "icon": "magic_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Magic_Damage.Magic_Damage"
+  ],
+  "power_display_names": [
+    "Fury of Joule (Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Battle_Maiden_Mace_Minions",
+  "display_name": "Battle_Maiden_Mace_Minions",
+  "display_fullname": "Praetorians.Battle Maiden Mace Minions",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/BATTLE_MAIDEN_MACE_MINIONS.POWERSETS",
+  "icon": "battle_maiden_mace_minions_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Battle_Maiden_Mace_Minions.Bash",
+    "Praetorians.Battle_Maiden_Mace_Minions.Pulverize",
+    "Praetorians.Battle_Maiden_Mace_Minions.Clobber",
+    "Praetorians.Battle_Maiden_Mace_Minions.Shatter"
+  ],
+  "power_display_names": [
+    "Bash",
+    "Pulverize",
+    "Clobber",
+    "Shatter"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Melee Smash, High DMG, Strong Knockback"
+  ]
+}

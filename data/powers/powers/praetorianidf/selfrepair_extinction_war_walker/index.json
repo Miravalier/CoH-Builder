@@ -1,0 +1,22 @@
+{
+  "name": "SelfRepair_Extinction_War_Walker",
+  "display_name": "SelfRepair_Extinction_War_Walker",
+  "display_fullname": "PraetorianIDF.SelfRepair Extinction War Walker",
+  "display_help": "Imperial Defense Force",
+  "display_short_help": "Imperial Defense Force",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/SELFREPAIR_EXTINCTION_WAR_WALKER.POWERSETS",
+  "icon": "selfrepair_extinction_war_walker_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.SelfRepair_Extinction_War_Walker.Regeneration"
+  ],
+  "power_display_names": [
+    "Regeneration"
+  ],
+  "power_short_helps": [
+    "Regeneration"
+  ]
+}

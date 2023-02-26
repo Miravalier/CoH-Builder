@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Thrust_C",
+  "display_name": "Attuned Thrust C",
+  "display_fullname": "Boosts.Attuned Thrust C",
+  "display_help": "Reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Thrust",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_THRUST_C.POWERSETS",
+  "icon": "e_icon_thrust.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Thrust_C.Attuned_Thrust_C"
+  ],
+  "power_display_names": [
+    "Thrust: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

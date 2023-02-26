@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Entropic_Chaos_A",
+  "display_name": "Attuned Entropic Chaos A",
+  "display_fullname": "Boosts.Attuned Entropic Chaos A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Entropic Chaos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ENTROPIC_CHAOS_A.POWERSETS",
+  "icon": "attuned_entropic_chaos_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Entropic_Chaos_A.Attuned_Entropic_Chaos_A"
+  ],
+  "power_display_names": [
+    "Entropic Chaos: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

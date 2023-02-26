@@ -1,0 +1,30 @@
+{
+  "name": "Droid_3",
+  "display_name": "Robot Droid",
+  "display_fullname": "Mastermind Pets.Robot Droid",
+  "display_help": "Only the most insidious Mastermind could construct such an army. Cold and relentless, these Bots obey only one voice, and will execute any order without hesitation.",
+  "display_short_help": "Droid",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/DROID_3.POWERSETS",
+  "icon": "droid_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Droid_3.Full_Auto_Laser",
+    "Mastermind_Pets.Droid_3.Overcharged_Burst",
+    "Mastermind_Pets.Droid_3.Upgrade"
+  ],
+  "power_display_names": [
+    "Full Auto Laser",
+    "Overcharged Burst",
+    "Upgrade"
+  ],
+  "power_short_helps": [
+    "DoT (Energy)",
+    "Ranged, Damage(Energy), Foe Knockback",
+    "Upgrade"
+  ]
+}

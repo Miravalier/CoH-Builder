@@ -1,0 +1,22 @@
+{
+  "name": "Arachnobot_Summon",
+  "display_name": "Arachnobot_Summon",
+  "display_fullname": "V Arachnos.Arachnobot Summon",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/ARACHNOBOT_SUMMON.POWERSETS",
+  "icon": "arachnobot_summon_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Arachnobot_Summon.Summon_Spiderlings"
+  ],
+  "power_display_names": [
+    "Summon Spiderlings"
+  ],
+  "power_short_helps": [
+    "Summon Spiderlings"
+  ]
+}

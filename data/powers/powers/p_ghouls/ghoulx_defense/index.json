@@ -1,0 +1,26 @@
+{
+  "name": "GhoulX_Defense",
+  "display_name": "GhoulX Defense",
+  "display_fullname": "P Ghouls.GhoulX Defense",
+  "display_help": "GhoulX",
+  "display_short_help": "GhoulX",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_GHOULS/GHOULX_DEFENSE.POWERSETS",
+  "icon": "ghoulx_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Ghouls.GhoulX_Defense.Deflection",
+    "P_Ghouls.GhoulX_Defense.Against_All_Odds"
+  ],
+  "power_display_names": [
+    "Deflection",
+    "Against All Odds"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +DEF(Melee), +Res(Lethal, Smashing)",
+    "Toggle: Self +DMG, Foe -DMG"
+  ]
+}

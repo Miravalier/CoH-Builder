@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Lockdown_F",
+  "display_name": "Crafted Lockdown F",
+  "display_fullname": "Boosts.Crafted Lockdown F",
+  "display_help": "Gives a small chance to hold your target. This effect will trigger roughly 2.5 times per minute.",
+  "display_short_help": "Set: Lockdown",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_LOCKDOWN_F.POWERSETS",
+  "icon": "crafted_lockdown_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Lockdown_F.Crafted_Lockdown_F"
+  ],
+  "power_display_names": [
+    "Lockdown: Chance for +2 Mag Hold"
+  ],
+  "power_short_helps": [
+    "Chance for +2 Mag Hold"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "group": "Jumppack_Group",
+  "powers": [
+    [
+      "Pool.Leaping.Double Jump",
+      "pool.leaping.double_jump"
+    ],
+    [
+      "Prestige.Prestige Travel.Jump Pack",
+      "prestige.prestige_travel.prestige_jump_pack_temp"
+    ],
+    [
+      "Prestige.Prestige Travel.Steam Jump",
+      "prestige.prestige_travel.prestige_steam_jump"
+    ]
+  ]
+}

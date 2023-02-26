@@ -1,0 +1,30 @@
+{
+  "name": "Jurassik_Attack_Powers",
+  "display_name": "Jurassik Attack Powers",
+  "display_fullname": "DevouringEarth.Jurassik Attack Powers",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    21,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/JURASSIK_ATTACK_POWERS.POWERSETS",
+  "icon": "jurassik_attack_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Jurassik_Attack_Powers.Fault",
+    "DevouringEarth.Jurassik_Attack_Powers.Jurassik_Club",
+    "DevouringEarth.Jurassik_Attack_Powers.Hurl_Boulder"
+  ],
+  "power_display_names": [
+    "Fault",
+    "Jurassik Club",
+    "Hurl Boulder"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient",
+    "Ranged Smash, Knockback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Hibernation_D",
+  "display_name": "Crafted Hibernation D",
+  "display_fullname": "Boosts.Crafted Hibernation D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and sleep duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Hibernation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_HIBERNATION_D.POWERSETS",
+  "icon": "crafted_hibernation_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Hibernation_D.Crafted_Hibernation_D"
+  ],
+  "power_display_names": [
+    "Hibernation: Sleep/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Sleep"
+  ]
+}

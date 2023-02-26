@@ -1,0 +1,30 @@
+{
+  "name": "Temblor_Special",
+  "display_name": "Temblor Special",
+  "display_fullname": "Incarnate I20.Temblor Special",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/TEMBLOR_SPECIAL.POWERSETS",
+  "icon": "temblor_special_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Temblor_Special.Uplift",
+    "Incarnate_I20.Temblor_Special.Uplift_Tell",
+    "Incarnate_I20.Temblor_Special.Ow"
+  ],
+  "power_display_names": [
+    "Uplift",
+    "Uplift",
+    "Ow"
+  ],
+  "power_short_helps": [
+    "Knockup",
+    "Knockup",
+    "Knockup"
+  ]
+}

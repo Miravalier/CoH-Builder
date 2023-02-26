@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Stagger_B",
+  "display_name": "Attuned Stagger B",
+  "display_fullname": "Boosts.Attuned Stagger B",
+  "display_help": "Enhances the Stun duration of a power by {Boost.Attrib.Mez.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Stagger",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_STAGGER_B.POWERSETS",
+  "icon": "attuned_stagger_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Stagger_B.Attuned_Stagger_B"
+  ],
+  "power_display_names": [
+    "Stagger: Endurance/Stun"
+  ],
+  "power_short_helps": [
+    "+End, +Stun"
+  ]
+}

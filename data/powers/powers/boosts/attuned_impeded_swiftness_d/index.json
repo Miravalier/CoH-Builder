@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Impeded_Swiftness_D",
+  "display_name": "Attuned Impeded Swiftness D",
+  "display_fullname": "Boosts.Attuned Impeded Swiftness D",
+  "display_help": "Enhances the range by {Boost.Attrib.Range.Scale}% and slowing ability of a power by {Boost.Attrib.Movement.Scale}%.",
+  "display_short_help": "Set: Impeded Swiftness",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_IMPEDED_SWIFTNESS_D.POWERSETS",
+  "icon": "attuned_impeded_swiftness_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Impeded_Swiftness_D.Attuned_Impeded_Swiftness_D"
+  ],
+  "power_display_names": [
+    "Impeded Swiftness: Range/Slow"
+  ],
+  "power_short_helps": [
+    "+Range, +Slow"
+  ]
+}

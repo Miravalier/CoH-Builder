@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Calibrated_Accuracy_B",
+  "display_name": "Attuned Calibrated Accuracy B",
+  "display_fullname": "Boosts.Attuned Calibrated Accuracy B",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces endurance costs by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Calibrated Accuracy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CALIBRATED_ACCURACY_B.POWERSETS",
+  "icon": "attuned_calibrated_accuracy_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Calibrated_Accuracy_B.Attuned_Calibrated_Accuracy_B"
+  ],
+  "power_display_names": [
+    "Calibrated Accuracy: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Reduces Endurance Cost"
+  ]
+}

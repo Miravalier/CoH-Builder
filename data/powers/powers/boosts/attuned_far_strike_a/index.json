@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Far_Strike_A",
+  "display_name": "Attuned Far Strike A",
+  "display_fullname": "Boosts.Attuned Far Strike A",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and range by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Set: Far Strike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FAR_STRIKE_A.POWERSETS",
+  "icon": "attuned_far_strike_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Far_Strike_A.Attuned_Far_Strike_A"
+  ],
+  "power_display_names": [
+    "Far Strike: Damage/Range"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Range"
+  ]
+}

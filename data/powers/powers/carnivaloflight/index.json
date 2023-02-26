@@ -1,0 +1,35 @@
+{
+  "name": "CarnivalOfLight",
+  "display_name": "CarnivalOfLight",
+  "source_file": "DEFS/POWERS/CARNIVALOFLIGHT.CATEGORIES",
+  "archetypes": [
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "carnivaloflight.acolyte",
+    "carnivaloflight.anchorite",
+    "carnivaloflight.armor",
+    "carnivaloflight.attendant",
+    "carnivaloflight.brilliance",
+    "carnivaloflight.eremite",
+    "carnivaloflight.lightstaff_melee",
+    "carnivaloflight.lightstaff_ranged",
+    "carnivaloflight.mistress",
+    "carnivaloflight.resistances"
+  ],
+  "powerset_display_names": [
+    "Acolyte",
+    "Anchorite",
+    "Armor",
+    "Attendant",
+    "Brilliance",
+    "Eremite",
+    "Lightstaff_Melee",
+    "Lightstaff_Ranged",
+    "Mistress",
+    "Resistances"
+  ],
+  "powersets_with_requirements": []
+}

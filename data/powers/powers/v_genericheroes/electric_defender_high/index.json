@@ -1,0 +1,22 @@
+{
+  "name": "Electric_Defender_High",
+  "display_name": "Electric Defender High",
+  "display_fullname": "V GenericHeroes.Electric Defender High",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ELECTRIC_DEFENDER_HIGH.POWERSETS",
+  "icon": "electric_defender_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Electric_Defender_High.Thunderous_Blast"
+  ],
+  "power_display_names": [
+    "Thunderous Blast"
+  ],
+  "power_short_helps": [
+    "-Recovery"
+  ]
+}

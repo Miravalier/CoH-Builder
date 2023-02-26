@@ -1,0 +1,22 @@
+{
+  "name": "Crey_TimeBomb",
+  "display_name": "Crey_TimeBomb",
+  "display_fullname": "Crey.Crey TimeBomb",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_TIMEBOMB.POWERSETS",
+  "icon": "crey_timebomb_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_TimeBomb.Time_Bomb"
+  ],
+  "power_display_names": [
+    "Time Bomb"
+  ],
+  "power_short_helps": [
+    "Location Summon"
+  ]
+}

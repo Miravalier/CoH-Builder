@@ -1,0 +1,54 @@
+{
+  "name": "Manticore",
+  "display_name": "Manticore",
+  "display_fullname": "Signature Summon.Manticore",
+  "display_help": "Freedom Phalanx",
+  "display_short_help": "Freedom Phalanx",
+  "available_level": [
+    0,
+    19,
+    9,
+    0,
+    0,
+    25,
+    31,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SIGNATURE_SUMMON/MANTICORE.POWERSETS",
+  "icon": "manticore_set.png",
+  "requires": "",
+  "power_names": [
+    "Signature_Summon.Manticore.Fistful_of_Arrows",
+    "Signature_Summon.Manticore.Blazing_Arrow",
+    "Signature_Summon.Manticore.Explosive_Arrow",
+    "Signature_Summon.Manticore.Teleport_Arrow",
+    "Signature_Summon.Manticore.Ice_Arrow",
+    "Signature_Summon.Manticore.Poison_Gas_Arrow",
+    "Signature_Summon.Manticore.Acid_Arrow",
+    "Signature_Summon.Manticore.Super_Leap",
+    "Signature_Summon.Manticore.Resistance"
+  ],
+  "power_display_names": [
+    "Fistful of Arrows",
+    "Blazing Arrow",
+    "Explosive Arrow",
+    "Teleport Arrow",
+    "Ice Arrow",
+    "Poison Gas Arrow",
+    "Acid Arrow",
+    "Super Leap",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Moderate DMG(Lethal)",
+    "Ranged, Minor DMG(Lethal), Moderate DoT(Fire)",
+    "Targeted AoE, Moderate DMG(Lethal/Fire), Knockback",
+    "Ranged, High DMG(Lethal), Knockback",
+    "Ranged, Foe Hold, -SPD, -Recharge",
+    "Ranged (Targeted AoE), Foe -DMG",
+    "Ranged AoE Minor DoT(Toxic), Foe -Res(All), -DEF",
+    "Self Travel",
+    "Resistance"
+  ]
+}

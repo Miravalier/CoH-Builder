@@ -1,0 +1,30 @@
+{
+  "name": "Hooded_Lantern",
+  "display_name": "Hooded_Lantern",
+  "display_fullname": "Drudges.Hooded Lantern",
+  "display_help": "Drudges",
+  "display_short_help": "Drudges",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DRUDGES/HOODED_LANTERN.POWERSETS",
+  "icon": "hooded_lantern_set.png",
+  "requires": "",
+  "power_names": [
+    "Drudges.Hooded_Lantern.Flares",
+    "Drudges.Hooded_Lantern.Fire_Blast",
+    "Drudges.Hooded_Lantern.Blaze"
+  ],
+  "power_display_names": [
+    "Soul Fire",
+    "Soul Burn",
+    "Soul Blaze"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy), Minor DoT(Negative Energy)",
+    "Ranged, Moderate DMG(Energy), Moderate DoT(Negative Energy/Fire)",
+    "Ranged, High DMG(Energy), Moderate DoT(Negative Energy)"
+  ]
+}

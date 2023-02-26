@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Recharge",
+  "display_name": "Technology Recharge",
+  "display_fullname": "Boosts.Technology Recharge",
+  "display_help": "Increases the attack rate of a power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_RECHARGE.POWERSETS",
+  "icon": "technology_recharge_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Recharge.Technology_Recharge"
+  ],
+  "power_display_names": [
+    "WetWare Eng Adrenal Gland Booster (Recharge)"
+  ],
+  "power_short_helps": [
+    "Increases Attack Rate"
+  ]
+}

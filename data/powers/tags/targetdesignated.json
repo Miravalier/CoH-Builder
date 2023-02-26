@@ -1,0 +1,35 @@
+{
+  "tag": "TargetDesignated",
+  "bears": [
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Barrage",
+      "unifiedpeoplesarmy.infiltrator.barrage"
+    ],
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Disrupting Shot",
+      "unifiedpeoplesarmy.infiltrator.disrupting_shot"
+    ],
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Dual Strike",
+      "unifiedpeoplesarmy.infiltrator.dual_strike"
+    ],
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Focused Shot",
+      "unifiedpeoplesarmy.infiltrator.focused_shot"
+    ],
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Staggering Shot",
+      "unifiedpeoplesarmy.infiltrator.staggering_shot"
+    ],
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Storm of Bullets",
+      "unifiedpeoplesarmy.infiltrator.storm_of_bullets"
+    ]
+  ],
+  "affects": [
+    [
+      "UnifiedPeoplesArmy.Infiltrator.Target Designator",
+      "unifiedpeoplesarmy.infiltrator.target_designator"
+    ]
+  ]
+}

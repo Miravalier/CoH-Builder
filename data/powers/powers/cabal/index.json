@@ -1,0 +1,51 @@
+{
+  "name": "Cabal",
+  "display_name": "Cabal",
+  "source_file": "DEFS/POWERS/CABAL.CATEGORIES",
+  "archetypes": [
+    "boss_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "cabal.av_attack",
+    "cabal.astral_form",
+    "cabal.bean_sidhe",
+    "cabal.bean_sidhe_resists",
+    "cabal.cabal_adept_minion_melee",
+    "cabal.cabal_adept_minion_ranged",
+    "cabal.cabal_adept_minion_resists",
+    "cabal.cabal_boss_melee",
+    "cabal.cabal_maven_lt_blaster",
+    "cabal.cabal_maven_lt_defender",
+    "cabal.cabal_maven_lt_healer",
+    "cabal.cabal_maven_lt_movement",
+    "cabal.cabal_maven_lt_resists",
+    "cabal.cabal_sorceress_archvillain_resists",
+    "cabal.cabal_sorceress_boss_attack",
+    "cabal.cabal_sorceress_boss_resists",
+    "cabal.teleport",
+    "cabal.white_magic"
+  ],
+  "powerset_display_names": [
+    "AV_Attack",
+    "Astral Form",
+    "Bean_Sidhe",
+    "Bean_Sidhe_Resists",
+    "Cabal_Adept_Minion_Melee",
+    "Cabal_Adept_Minion_Ranged",
+    "Cabal_Adept_Minion_Resists",
+    "Cabal Boss Melee",
+    "Cabal_Maven_Lt_Blaster",
+    "Cabal_Maven_Lt_Defender",
+    "Cabal_Maven_Lt_Healer",
+    "Cabal_Maven_Lt_Movement",
+    "Cabal_Maven_Lt_Resists",
+    "Cabal Sorceress ArchVillain Resists",
+    "Cabal_Sorceress_Boss_Attack",
+    "Cabal_Sorceress_Boss_Resists",
+    "Teleport",
+    "White Magic"
+  ],
+  "powersets_with_requirements": []
+}

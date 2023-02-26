@@ -1,0 +1,459 @@
+{
+  "name": "Paralytic",
+  "display_name": "Paralytic",
+  "group_name": "Holds",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Hold"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Paralytic_A.Crafted_Paralytic_A",
+      "Boosts.Attuned_Paralytic_A.Attuned_Paralytic_A"
+    ],
+    [
+      "Boosts.Crafted_Paralytic_B.Crafted_Paralytic_B",
+      "Boosts.Attuned_Paralytic_B.Attuned_Paralytic_B"
+    ],
+    [
+      "Boosts.Crafted_Paralytic_C.Crafted_Paralytic_C",
+      "Boosts.Attuned_Paralytic_C.Attuned_Paralytic_C"
+    ],
+    [
+      "Boosts.Crafted_Paralytic_D.Crafted_Paralytic_D",
+      "Boosts.Attuned_Paralytic_D.Attuned_Paralytic_D"
+    ],
+    [
+      "Boosts.Crafted_Paralytic_E.Crafted_Paralytic_E",
+      "Boosts.Attuned_Paralytic_E.Attuned_Paralytic_E"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.energy_neg_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_endurance_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 5,
+      "auto_powers": [
+        "set_bonus.set_bonus.hold_dur_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_1",
+          "Tiny Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.energy_neg_mez_res_1",
+          "Tiny Energy, Negative Energy and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_endurance_1",
+          "Tiny Increased Endurance Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.hold_dur_1",
+          "Tiny Hold Duration Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png",
+      "e_icon_paralytic.png"
+    ],
+    "boosts": [
+      [
+        "Paralytic: Accuracy/Recharge",
+        "Attuned Paralytic: Accuracy/Recharge"
+      ],
+      [
+        "Paralytic: Endurance/Hold",
+        "Attuned Paralytic: Endurance/Hold"
+      ],
+      [
+        "Paralytic: Accuracy/Endurance",
+        "Attuned Paralytic: Accuracy/Endurance"
+      ],
+      [
+        "Paralytic: Hold/Range",
+        "Attuned Paralytic: Hold/Range"
+      ],
+      [
+        "Paralytic: Accuracy/Hold/Recharge",
+        "Attuned Paralytic: Accuracy/Hold/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_paralytic_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_paralytic_a.attuned_paralytic_a",
+          "Paralytic: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Paralytic: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "attuned_paralytic_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Paralytic: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "crafted_paralytic_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_paralytic_b.attuned_paralytic_b",
+          "Paralytic: Endurance/Hold"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Paralytic: Endurance/Hold",
+        "aspects": [
+          "Endurance",
+          "Hold"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "attuned_paralytic_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Paralytic: Endurance/Hold",
+        "aspects": [
+          "Endurance",
+          "Hold"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "crafted_paralytic_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_paralytic_c.attuned_paralytic_c",
+          "Paralytic: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Paralytic: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "attuned_paralytic_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Paralytic: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "crafted_paralytic_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_paralytic_d.attuned_paralytic_d",
+          "Paralytic: Hold/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Paralytic: Hold/Range",
+        "aspects": [
+          "Hold",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "attuned_paralytic_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Paralytic: Hold/Range",
+        "aspects": [
+          "Hold",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "crafted_paralytic_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_paralytic_e.attuned_paralytic_e",
+          "Paralytic: Accuracy/Hold/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Paralytic: Accuracy/Hold/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Hold",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      },
+      "attuned_paralytic_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Paralytic: Accuracy/Hold/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Hold",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "paralytic",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_paralytic.png"
+      }
+    }
+  }
+}

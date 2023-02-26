@@ -1,0 +1,42 @@
+{
+  "name": "Proton_Powers",
+  "display_name": "Proton's Powers",
+  "display_fullname": "OnGoingTrainingCharacters.Proton's Powers",
+  "display_help": "Blast your foes with lethal radiation. Radiation Blast powers can bypass normal defenses, and lower your targets' overall Defense.",
+  "display_short_help": "Proton's Powers",
+  "available_level": [
+    0,
+    1,
+    9,
+    0,
+    11,
+    15
+  ],
+  "source_file": "DEFS/POWERS/ONGOINGTRAININGCHARACTERS/PROTON_POWERS.POWERSETS",
+  "icon": "proton_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "OnGoingTrainingCharacters.Proton_Powers.Neutrino_Bolt",
+    "OnGoingTrainingCharacters.Proton_Powers.X-Ray_Beam",
+    "OnGoingTrainingCharacters.Proton_Powers.Electron_Haze",
+    "OnGoingTrainingCharacters.Proton_Powers.Radiant_Aura",
+    "OnGoingTrainingCharacters.Proton_Powers.Radiation_Infection",
+    "OnGoingTrainingCharacters.Proton_Powers.Accelerate_Metabolism"
+  ],
+  "power_display_names": [
+    "Neutrino Bolt",
+    "X-Ray Beam",
+    "Electron Haze",
+    "Radiant Aura",
+    "Radiation Infection",
+    "Accelerate Metabolism"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy), Foe -DEF",
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Close, Moderate Cone DMG(Energy), Foe -DEF, Knockback",
+    "PBAoE, Ally +Heal",
+    "Toggle: Ranged (Targeted AoE), Foe -DEF, -To-hit",
+    "PBAoE, Ally +SPD, +Recharge, +Recovery, +Dam +Res(Effects)"
+  ]
+}

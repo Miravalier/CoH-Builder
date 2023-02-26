@@ -1,0 +1,12 @@
+{
+  "tag": "Pumpkin",
+  "bears": [
+    [
+      "event_pumpkinator",
+      [
+        "Pumpkin"
+      ]
+    ]
+  ],
+  "affects": []
+}

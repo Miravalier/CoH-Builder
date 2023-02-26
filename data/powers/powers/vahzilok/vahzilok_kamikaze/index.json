@@ -1,0 +1,30 @@
+{
+  "name": "Vahzilok_Kamikaze",
+  "display_name": "Vahzilok_Kamikaze",
+  "display_fullname": "Vahzilok.Vahzilok Kamikaze",
+  "display_help": "Vahzilok_Kamikaze",
+  "display_short_help": "Vahzilok_Kamikaze",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/VAHZILOK_KAMIKAZE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Vahzilok_Kamikaze.Kamikaze",
+    "Vahzilok.Vahzilok_Kamikaze.Resistance",
+    "Vahzilok.Vahzilok_Kamikaze.Zombie_Vomit"
+  ],
+  "power_display_names": [
+    "Kamikaze",
+    "Resistance",
+    "Zoombie Vomit"
+  ],
+  "power_short_helps": [
+    "Extreme DMG(Fire/Lethal)",
+    "Auto Res Sleep, Fear, Smash, Lethal, Immobilization",
+    "DoT(Toxic)"
+  ]
+}

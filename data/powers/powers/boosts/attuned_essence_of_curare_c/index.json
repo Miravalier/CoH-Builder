@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Essence_of_Curare_C",
+  "display_name": "Attuned Essence of Curare C",
+  "display_fullname": "Boosts.Attuned Essence of Curare C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Essence of Curare",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ESSENCE_OF_CURARE_C.POWERSETS",
+  "icon": "attuned_essence_of_curare_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Essence_of_Curare_C.Attuned_Essence_of_Curare_C"
+  ],
+  "power_display_names": [
+    "Essence of Curare: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

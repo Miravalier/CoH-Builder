@@ -1,0 +1,22 @@
+{
+  "name": "Mole_Machine",
+  "display_name": "Mole Machine",
+  "display_fullname": "Objects.Mole Machine",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/MOLE_MACHINE.POWERSETS",
+  "icon": "mole_machine_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Mole_Machine.Mole_Machine"
+  ],
+  "power_display_names": [
+    "Mole Machine"
+  ],
+  "power_short_helps": [
+    "Summon Nemesis"
+  ]
+}

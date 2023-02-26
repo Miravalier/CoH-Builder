@@ -1,0 +1,46 @@
+{
+  "name": "EndgamePain",
+  "display_name": "EndgamePain",
+  "display_fullname": "BanishedPantheon.EndgamePain",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/ENDGAMEPAIN.POWERSETS",
+  "icon": "endgamepain_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.EndgamePain.Painful_Blast",
+    "BanishedPantheon.EndgamePain.Dread_Bolt",
+    "BanishedPantheon.EndgamePain.Suffering",
+    "BanishedPantheon.EndgamePain.Misery",
+    "BanishedPantheon.EndgamePain.Dread_Torrent",
+    "BanishedPantheon.EndgamePain.World_of_Pain",
+    "BanishedPantheon.EndgamePain.Anguishing_Cry"
+  ],
+  "power_display_names": [
+    "Painful Blast",
+    "Dread Bolt",
+    "Suffering",
+    "Misery",
+    "Dread Torrent",
+    "World of Pain",
+    "Anguishing Cry"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Energy/Smashing), -Rec(Foe), -ToHit(Foe)",
+    "Ranged, High DMG (Energy/Smashing), Chance for Knockback(Foe)",
+    "AoE, Moderate DMG(Energy), -End(Foe), Chance for Stun(Foe), -ToHit(Foe)",
+    "Ranged, Moderate DoT(Energy), Heal(Ally,Self), +Regen(Self), +Rec(Self), -DMG(Foe, All), -ToHit(Foe), -Regen(Foe)",
+    "Ranged (Cone), High DMG(Energy/Smashing), Chance for Knockback(Foe)",
+    "PBAoE, +ToHit(Self, Allies), +DMG(Self, Allies), +RES(Self, Allies, All, Placate)",
+    "PBAoE, -RES(Foe,All), -DEF(Foe,All)"
+  ]
+}

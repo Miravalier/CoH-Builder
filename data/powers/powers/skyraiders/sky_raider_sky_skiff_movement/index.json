@@ -1,0 +1,26 @@
+{
+  "name": "Sky_Raider_Sky_Skiff_Movement",
+  "display_name": "Sky_Raider_Sky_Skiff_Movement",
+  "display_fullname": "SkyRaiders.Sky Raider Sky Skiff Movement",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_SKY_SKIFF_MOVEMENT.POWERSETS",
+  "icon": "sky_raider_sky_skiff_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Sky_Skiff_Movement.Fly",
+    "SkyRaiders.Sky_Raider_Sky_Skiff_Movement.Fly_fx"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special"
+  ]
+}

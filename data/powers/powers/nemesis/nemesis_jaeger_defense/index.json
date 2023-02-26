@@ -1,0 +1,26 @@
+{
+  "name": "Nemesis_Jaeger_Defense",
+  "display_name": "Nemesis_Jaeger_Defense",
+  "display_fullname": "Nemesis.Nemesis Jaeger Defense",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_JAEGER_DEFENSE.POWERSETS",
+  "icon": "nemesis_jaeger_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_Jaeger_Defense.Resistance",
+    "Nemesis.Nemesis_Jaeger_Defense.Explode"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Explode"
+  ],
+  "power_short_helps": [
+    "Self Auto, Res Sleep, Fear, Confuse, Disorient",
+    "Post Death Special"
+  ]
+}

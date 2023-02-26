@@ -1,0 +1,22 @@
+{
+  "name": "CoV_FarFire_High",
+  "display_name": "CoV FireFire_High",
+  "display_fullname": "Tsoo.CoV FireFire High",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/COV_FARFIRE_HIGH.POWERSETS",
+  "icon": "cov_farfire_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.CoV_FarFire_High.Fire_Breath"
+  ],
+  "power_display_names": [
+    "Fire Breath"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)"
+  ]
+}

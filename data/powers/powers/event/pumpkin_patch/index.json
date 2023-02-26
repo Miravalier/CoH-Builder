@@ -1,0 +1,22 @@
+{
+  "name": "Pumpkin_Patch",
+  "display_name": "Pumpkin Patch",
+  "display_fullname": "Event.Pumpkin Patch",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/PUMPKIN_PATCH.POWERSETS",
+  "icon": "pumpkin_patch_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Pumpkin_Patch.Pumpkin_Patch"
+  ],
+  "power_display_names": [
+    "Pumpkin Patch"
+  ],
+  "power_short_helps": [
+    "Pumpkin Patch"
+  ]
+}

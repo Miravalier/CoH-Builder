@@ -1,0 +1,22 @@
+{
+  "name": "Vandal_Defense",
+  "display_name": "Vandal_Defense",
+  "display_fullname": "Council.Vandal Defense",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/VANDAL_DEFENSE.POWERSETS",
+  "icon": "vandal_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Vandal_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

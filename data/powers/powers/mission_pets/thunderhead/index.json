@@ -1,0 +1,54 @@
+{
+  "name": "Thunderhead",
+  "display_name": "Thunderhead",
+  "display_fullname": "Mission Pets.Thunderhead",
+  "display_help": "Thunderhead",
+  "display_short_help": "Thunderhead",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/THUNDERHEAD.POWERSETS",
+  "icon": "thunderhead_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.Thunderhead.Fly",
+    "Mission_Pets.Thunderhead.Fly_fx",
+    "Mission_Pets.Thunderhead.Gale",
+    "Mission_Pets.Thunderhead.O2_Boost",
+    "Mission_Pets.Thunderhead.Snow_Storm",
+    "Mission_Pets.Thunderhead.Charged_Bolts",
+    "Mission_Pets.Thunderhead.Lightning_Bolt",
+    "Mission_Pets.Thunderhead.Ball_Lightning",
+    "Mission_Pets.Thunderhead.Short_Circuit"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx",
+    "Gale",
+    "O2 Boost",
+    "Snow Storm",
+    "Charged Bolts",
+    "Lightning Bolt",
+    "Ball Lightning",
+    "Short Circuit"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "Ally Heal, +Res(Disorient, Sleep, End Drain)",
+    "Toggle: Ranged (Targeted AoE), Foe -Speed, -Recharge",
+    "Ranged, Moderate DMG(Energy), Foe -End",
+    "Ranged, High DMG(Energy), Foe -End",
+    "Ranged (Targeted AoE), Moderate DoT(Energy), Foe -End",
+    "PBAoE, Moderate DoT(Energy), Foe -End, -Recovery"
+  ]
+}

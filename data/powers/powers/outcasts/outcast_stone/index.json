@@ -1,0 +1,30 @@
+{
+  "name": "Outcast_Stone",
+  "display_name": "Outcast_Stone",
+  "display_fullname": "Outcasts.Outcast Stone",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_STONE.POWERSETS",
+  "icon": "outcast_stone_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Stone.Resistance",
+    "Outcasts.Outcast_Stone.Stone_Fist",
+    "Outcasts.Outcast_Stone.Submachine_Gun"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Stone Fist",
+    "Submachine Gun"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Smash",
+    "-DEF"
+  ]
+}

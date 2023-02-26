@@ -1,0 +1,36 @@
+{
+  "name": "Challenge_Empowerment",
+  "display_name": "Challenge Empowerment",
+  "source_file": "DEFS/POWERS/CHALLENGE_EMPOWERMENT.CATEGORIES",
+  "archetypes": [
+    "boss_elite",
+    "boss_praetoriangrunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "challenge_empowerment.assault_hm",
+    "challenge_empowerment.challenge_empowerment_1",
+    "challenge_empowerment.challenge_empowerment_2",
+    "challenge_empowerment.challenge_empowerment_3",
+    "challenge_empowerment.constitution_hm",
+    "challenge_empowerment.hm_vengeance",
+    "challenge_empowerment.tactics_hm1",
+    "challenge_empowerment.tactics_hm2",
+    "challenge_empowerment.tactics_hm3",
+    "challenge_empowerment.tactics_hm4"
+  ],
+  "powerset_display_names": [
+    "Assault",
+    "Challenge Empowerment I",
+    "Challenge Empowerment II",
+    "Challenge Empowerment III",
+    "Constitution",
+    "HM_Vengeance",
+    "Tactics",
+    "Tactics",
+    "Tactics",
+    "Tactics"
+  ],
+  "powersets_with_requirements": []
+}

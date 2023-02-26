@@ -1,0 +1,34 @@
+{
+  "name": "Snowbeast_Lt",
+  "display_name": "Snowbeast Lt",
+  "display_fullname": "Event.Snowbeast Lt",
+  "display_help": "Winter Horde",
+  "display_short_help": "Winter Horde",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/SNOWBEAST_LT.POWERSETS",
+  "icon": "snowbeast_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Snowbeast_Lt.Chilblain",
+    "Event.Snowbeast_Lt.Ice_Bolt",
+    "Event.Snowbeast_Lt.Ice_Blast",
+    "Event.Snowbeast_Lt.Frozen_Fists"
+  ],
+  "power_display_names": [
+    "Chilblain",
+    "Ice Bolt",
+    "Ice Blast",
+    "Frozen Fists"
+  ],
+  "power_short_helps": [
+    "Immobilize, -SPD, -Recharge, -Fly",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TestBurn",
+  "display_name": "Burn",
+  "display_fullname": "Pets.Burn",
+  "display_help": "Fire",
+  "display_short_help": "Fire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TESTBURN.POWERSETS",
+  "icon": "testburn_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.TestBurn.Burn"
+  ],
+  "power_display_names": [
+    "Burn"
+  ],
+  "power_short_helps": [
+    "Burn"
+  ]
+}

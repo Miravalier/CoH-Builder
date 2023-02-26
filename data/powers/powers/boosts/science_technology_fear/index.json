@@ -1,0 +1,22 @@
+{
+  "name": "Science_Technology_Fear",
+  "display_name": "Science Technology Fear",
+  "display_fullname": "Boosts.Science Technology Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Invention (Science, Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SCIENCE_TECHNOLOGY_FEAR.POWERSETS",
+  "icon": "science_technology_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Science_Technology_Fear.Science_Technology_Fear"
+  ],
+  "power_display_names": [
+    "Isostatic Inversion (Fear)"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

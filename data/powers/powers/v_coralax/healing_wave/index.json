@@ -1,0 +1,22 @@
+{
+  "name": "Healing_Wave",
+  "display_name": "Healing Wave",
+  "display_fullname": "V Coralax.Healing Wave",
+  "display_help": "Coralax",
+  "display_short_help": "Coralax",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_CORALAX/HEALING_WAVE.POWERSETS",
+  "icon": "healing_wave_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Coralax.Healing_Wave.Healing_Wave"
+  ],
+  "power_display_names": [
+    "Healing Wave"
+  ],
+  "power_short_helps": [
+    "Resurrect"
+  ]
+}

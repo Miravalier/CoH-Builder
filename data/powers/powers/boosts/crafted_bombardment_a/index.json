@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Bombardment_A",
+  "display_name": "Crafted Bombardment A",
+  "display_fullname": "Boosts.Crafted Bombardment A",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Bombardment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_BOMBARDMENT_A.POWERSETS",
+  "icon": "e_icon_bombardment.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Bombardment_A.Crafted_Bombardment_A"
+  ],
+  "power_display_names": [
+    "Bombardment: Damage"
+  ],
+  "power_short_helps": [
+    "+DMG"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Cortex",
+  "display_name": "Cortex",
+  "display_fullname": "Mission Pets.Cortex",
+  "display_help": "Cortex",
+  "display_short_help": "Cortex",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/CORTEX.POWERSETS",
+  "icon": "cortex_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.Cortex.Mind_Stab",
+    "Mission_Pets.Cortex.Subdue",
+    "Mission_Pets.Cortex.Psychic_Scream",
+    "Mission_Pets.Cortex.Telekinetic_blast",
+    "Mission_Pets.Cortex.Mesmerize",
+    "Mission_Pets.Cortex.Dominate",
+    "Mission_Pets.Cortex.Confuse",
+    "Mission_Pets.Cortex.Fly",
+    "Mission_Pets.Cortex.Fly_fx"
+  ],
+  "power_display_names": [
+    "Mind Stab",
+    "Subdue",
+    "Psychic Scream",
+    "Telekinetic blast",
+    "Mesmerize",
+    "Dominate",
+    "Confuse",
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "Ranged, Moderate DMG(Psionic), Foe Immobilize",
+    "Ranged (Cone), Moderate DMG(Psionic), Foe -Recharge",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback",
+    "Ranged, Moderate DMG(Psionic), Foe Sleep",
+    "Ranged, Moderate DMG(Psionic), Foe Hold",
+    "Ranged, Target Confuse",
+    "Self Travel",
+    "Special"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Essence_Transfer_D",
+  "display_name": "Superior Attuned Superior Essence Transfer D",
+  "display_fullname": "Boosts.Superior Attuned Essence Transfer D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This enhancement can only be slotted by Peacebringers and Warshades and may be slotted into any of their damage powers.",
+  "display_short_help": "Set: Superior Essence Transfer",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_ESSENCE_TRANSFER_D.POWERSETS",
+  "icon": "superior_attuned_superior_essence_transfer_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Essence_Transfer_D.Superior_Attuned_Superior_Essence_Transfer_D"
+  ],
+  "power_display_names": [
+    "Superior Essence Transfer: Damage/Endurance/Recharge (Kheldian)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost, and Increases Attack Rate"
+  ]
+}

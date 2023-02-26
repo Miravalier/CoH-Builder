@@ -1,0 +1,46 @@
+{
+  "name": "Thug_Boss",
+  "display_name": "Thug Boss",
+  "display_fullname": "Mastermind Pets.Thug Boss",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_BOSS.POWERSETS",
+  "icon": "thug_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Boss.Resistance",
+    "Mastermind_Pets.Thug_Boss.Jab",
+    "Mastermind_Pets.Thug_Boss.Punch",
+    "Mastermind_Pets.Thug_Boss.Fury",
+    "Mastermind_Pets.Thug_Boss.Fury_Buff",
+    "Mastermind_Pets.Thug_Boss.Rage_Dampen",
+    "Mastermind_Pets.Thug_Boss.Super_Leap"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Jab",
+    "Punch",
+    "Fury",
+    "Fury",
+    "Fury",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Auto Res(Smashing, Lethal, Fire, Cold, Fear, Confuse, Placate)",
+    "Melee, Minor DMG(Smash), Minor Disorient",
+    "Melee, Light DMG(Smash), Knockback",
+    "Self +DMG, Special",
+    "Self +DMG, Special",
+    "Self +DMG, Special",
+    "Self Leap"
+  ]
+}

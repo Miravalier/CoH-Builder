@@ -1,0 +1,22 @@
+{
+  "name": "Notice_of_the_Well",
+  "display_name": "Notice of the Well",
+  "display_fullname": "Magisterium.Notice of the Well",
+  "display_help": "Tyrant",
+  "display_short_help": "Tyrant",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/NOTICE_OF_THE_WELL.POWERSETS",
+  "icon": "notice_of_the_well_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Notice_of_the_Well.Notice_of_the_Well"
+  ],
+  "power_display_names": [
+    "Notice of the Well"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

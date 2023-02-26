@@ -1,0 +1,10 @@
+{
+  "tag": "SuppressBackup",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Energy Flight",
+      "peacebringer_defensive.luminous_aura.energy_flight"
+    ]
+  ],
+  "affects": []
+}

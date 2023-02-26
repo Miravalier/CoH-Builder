@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Ascendency_of_the_Dominator_F",
+  "display_name": "Attuned Ascendency of the Dominator F",
+  "display_fullname": "Boosts.Attuned Ascendency of the Dominator F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives the slotted power a chance to boost the user's damage slightly and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This effect will trigger roughly 3 times per minute. This enhancement can only be slotted by Dominators and may be slotted into most control powers.",
+  "display_short_help": "Set: Ascendency of the Dominator",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ASCENDENCY_OF_THE_DOMINATOR_F.POWERSETS",
+  "icon": "attuned_ascendency_of_the_dominator_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Ascendency_of_the_Dominator_F.Attuned_Ascendency_of_the_Dominator_F"
+  ],
+  "power_display_names": [
+    "Ascendancy of the Dominator: Recharge/Chance for +Damage"
+  ],
+  "power_short_helps": [
+    "Increases Attack Rate, Chance for +DMG"
+  ]
+}

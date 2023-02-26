@@ -1,0 +1,22 @@
+{
+  "name": "Crazed_Knife",
+  "display_name": "Crazed_Knife",
+  "display_fullname": "Portal.Crazed Knife",
+  "display_help": "The Crazed",
+  "display_short_help": "The Crazed",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CRAZED_KNIFE.POWERSETS",
+  "icon": "crazed_knife_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Crazed_Knife.Knife"
+  ],
+  "power_display_names": [
+    "Knife"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Low Dam"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SonicDebuffArrow",
+  "display_name": "Disruption Arrow",
+  "display_fullname": "Pets.Disruption Arrow",
+  "display_help": "Trick Arrow",
+  "display_short_help": "Trick Arrow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/SONICDEBUFFARROW.POWERSETS",
+  "icon": "sonicdebuffarrow_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.SonicDebuffArrow.SonicDebuffArrow"
+  ],
+  "power_display_names": [
+    "SonicDebuffArrow"
+  ],
+  "power_short_helps": [
+    "-Res(All)"
+  ]
+}

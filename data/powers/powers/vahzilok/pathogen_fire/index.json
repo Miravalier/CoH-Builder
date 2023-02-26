@@ -1,0 +1,26 @@
+{
+  "name": "Pathogen_Fire",
+  "display_name": "Pathogen_Fire",
+  "display_fullname": "Vahzilok.Pathogen Fire",
+  "display_help": "Pathogen_Fire",
+  "display_short_help": "Pathogen_Fire",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/PATHOGEN_FIRE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Pathogen_Fire.Resistance",
+    "Vahzilok.Pathogen_Fire.Fire"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fire"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "DoT(Fire)"
+  ]
+}

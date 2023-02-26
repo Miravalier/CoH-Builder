@@ -1,0 +1,22 @@
+{
+  "name": "Mapserver",
+  "display_name": "Mapserver",
+  "display_fullname": "Event.Mapserver",
+  "display_help": "Mapserver",
+  "display_short_help": "Mapserver",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/MAPSERVER.POWERSETS",
+  "icon": "statesman_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Mapserver.Desktop_Crash"
+  ],
+  "power_display_names": [
+    "Desktop Crash"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Smash), Foe Knockback"
+  ]
+}

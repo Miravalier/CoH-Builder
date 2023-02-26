@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Makos_Bite_E",
+  "display_name": "Attuned Mako's Bite E",
+  "display_fullname": "Boosts.Attuned Makos Bite E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}%, reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Mako's Bite",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MAKOS_BITE_E.POWERSETS",
+  "icon": "attuned_makos_bite_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Makos_Bite_E.Attuned_Makos_Bite_E"
+  ],
+  "power_display_names": [
+    "Mako's Bite: Accuracy/Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage, Recharge, and Reduces Endurance Cost"
+  ]
+}

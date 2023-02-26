@@ -1,0 +1,22 @@
+{
+  "name": "Embraced_Quicksand",
+  "display_name": "Quicksand",
+  "display_fullname": "Pets.Quicksand",
+  "display_help": "Quicksand",
+  "display_short_help": "Quicksand",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/EMBRACED_QUICKSAND.POWERSETS",
+  "icon": "embraced_quicksand_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Embraced_Quicksand.Quicksand"
+  ],
+  "power_display_names": [
+    "Quicksand"
+  ],
+  "power_short_helps": [
+    "PBAoE, Minor DMG( Energy), Foe Knockback"
+  ]
+}

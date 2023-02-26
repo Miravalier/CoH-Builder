@@ -1,0 +1,22 @@
+{
+  "name": "Gaussian_HM",
+  "display_name": "Gaussian (Hard Mode)",
+  "display_fullname": "Vanguard.Gaussian (Hard Mode)",
+  "display_help": "Vanguard",
+  "display_short_help": "Vanguard",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VANGUARD/GAUSSIAN_HM.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Vanguard.Gaussian_HM.Call_Reinforcements"
+  ],
+  "power_display_names": [
+    "Call Reinforcements"
+  ],
+  "power_short_helps": [
+    "Call Reinforcements: Ranged Moderate DMG(Lethal)"
+  ]
+}

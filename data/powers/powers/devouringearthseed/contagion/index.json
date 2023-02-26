@@ -1,0 +1,22 @@
+{
+  "name": "Contagion",
+  "display_name": "Contagion",
+  "display_fullname": "DevouringEarthSeed.Contagion",
+  "display_help": "Maturing Seedling",
+  "display_short_help": "Maturing Seedling",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/CONTAGION.POWERSETS",
+  "icon": "contagion_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Contagion.Spread_Infection"
+  ],
+  "power_display_names": [
+    "Infection"
+  ],
+  "power_short_helps": [
+    "Ranged, Extreme DoT(Toxic)"
+  ]
+}

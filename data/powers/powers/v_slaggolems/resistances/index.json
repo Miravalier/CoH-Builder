@@ -1,0 +1,22 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "V SlagGolems.Resistances",
+  "display_help": "Slag Golems",
+  "display_short_help": "Slag Golems",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SLAGGOLEMS/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SlagGolems.Resistances.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

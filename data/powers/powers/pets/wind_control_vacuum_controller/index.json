@@ -1,0 +1,26 @@
+{
+  "name": "Wind_Control_Vacuum_Controller",
+  "display_name": "Wind Control",
+  "display_fullname": "Pets.Wind Control",
+  "display_help": "Through manipulation of pressure, you are able to channel the force of wind to bind, weaken and crush your opponents.",
+  "display_short_help": "Wind Control",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/WIND_CONTROL_VACUUM_CONTROLLER.POWERSETS",
+  "icon": "wind_control_vacuum_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Wind_Control_Vacuum_Controller.Vacuum_Over_Time",
+    "Pets.Wind_Control_Vacuum_Controller.Vacuum_Hold"
+  ],
+  "power_display_names": [
+    "Vacuum",
+    "Vacuum"
+  ],
+  "power_short_helps": [
+    "PBAoE, Moderate DoT (Lethal), -Speed(Foe, All), -Rech(Foe), -ToHit(Foe), -Fly(Foe)",
+    "PBAoE, Hold (Foe)"
+  ]
+}

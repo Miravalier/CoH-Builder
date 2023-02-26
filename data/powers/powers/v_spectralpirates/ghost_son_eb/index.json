@@ -1,0 +1,26 @@
+{
+  "name": "Ghost_Son_EB",
+  "display_name": "Ghost Son Elite Boss",
+  "display_fullname": "V SpectralPirates.Ghost Son Elite Boss",
+  "display_help": "Spectral Pirates",
+  "display_short_help": "Spectral Pirates",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SPECTRALPIRATES/GHOST_SON_EB.POWERSETS",
+  "icon": "ghost_son_eb_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpectralPirates.Ghost_Son_EB.Gloom",
+    "V_SpectralPirates.Ghost_Son_EB.Tenebrous_Tentacles"
+  ],
+  "power_display_names": [
+    "Gloom",
+    "Tenebrous Tentacles"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "Immobilize, DoT(Negative), -ACC"
+  ]
+}

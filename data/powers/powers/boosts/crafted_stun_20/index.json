@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Stun_20",
+  "display_name": "Crafted Stun 20",
+  "display_fullname": "Boosts.Crafted Stun 20",
+  "display_help": "Increases disorient duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_STUN_20.POWERSETS",
+  "icon": "crafted_stun_20_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Stun_20.Crafted_Stun_20"
+  ],
+  "power_display_names": [
+    "Invention: Disorient Duration"
+  ],
+  "power_short_helps": [
+    "Enhances Disorient Duration"
+  ]
+}

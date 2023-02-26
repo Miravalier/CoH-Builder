@@ -1,0 +1,22 @@
+{
+  "name": "Trap_Destruct",
+  "display_name": "Trap_Destruct",
+  "display_fullname": "Base Traps.Trap Destruct",
+  "display_help": "Base Traps",
+  "display_short_help": "Base Traps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_TRAPS/TRAP_DESTRUCT.POWERSETS",
+  "icon": "trap_destruct_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Traps.Trap_Destruct.Explode"
+  ],
+  "power_display_names": [
+    "Explode"
+  ],
+  "power_short_helps": [
+    "Post Death Special"
+  ]
+}

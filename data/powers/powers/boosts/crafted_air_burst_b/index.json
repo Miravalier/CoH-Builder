@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Air_Burst_B",
+  "display_name": "Crafted Air Burst B",
+  "display_fullname": "Boosts.Crafted Air Burst B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Air Burst",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_AIR_BURST_B.POWERSETS",
+  "icon": "crafted_air_burst_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Air_Burst_B.Crafted_Air_Burst_B"
+  ],
+  "power_display_names": [
+    "Air Burst: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

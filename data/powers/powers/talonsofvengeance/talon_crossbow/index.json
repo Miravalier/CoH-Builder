@@ -1,0 +1,22 @@
+{
+  "name": "Talon_Crossbow",
+  "display_name": "Talon_Crossbow",
+  "display_fullname": "TalonsOfVengeance.Talon Crossbow",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/TALON_CROSSBOW.POWERSETS",
+  "icon": "talon_crossbow_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Talon_Crossbow.Talon_Crossbow"
+  ],
+  "power_display_names": [
+    "Talon Crossbow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal/Negative), Knockback"
+  ]
+}

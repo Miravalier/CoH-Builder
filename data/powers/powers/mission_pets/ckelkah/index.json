@@ -1,0 +1,38 @@
+{
+  "name": "CKelkah",
+  "display_name": "CKelkah",
+  "display_fullname": "Mission Pets.CKelkah",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/CKELKAH.POWERSETS",
+  "icon": "ckelkah_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.CKelkah.Greater_Rikti_Sword",
+    "Mission_Pets.CKelkah.Mental_Blast",
+    "Mission_Pets.CKelkah.Mesmerize",
+    "Mission_Pets.CKelkah.Dominate",
+    "Mission_Pets.CKelkah.Resistance"
+  ],
+  "power_display_names": [
+    "Greater Rikti Sword",
+    "Mental Blast",
+    "Mesmerize",
+    "Dominate",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "-Recharge",
+    "Sleep",
+    "Hold",
+    "Auto Res Sleep, Confuse, Fear, Smash, Lethal, Energy, Psionic"
+  ]
+}

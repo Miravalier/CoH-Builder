@@ -1,0 +1,30 @@
+{
+  "name": "Lt_Hurler",
+  "display_name": "Lt Hurler",
+  "display_fullname": "CircleOfThorns.Lt Hurler",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/LT_HURLER.POWERSETS",
+  "icon": "lt_hurler_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Lt_Hurler.Flailing_Claws",
+    "CircleOfThorns.Lt_Hurler.Ice_Phlegm",
+    "CircleOfThorns.Lt_Hurler.Frost_Breath"
+  ],
+  "power_display_names": [
+    "Flailing Claws",
+    "Ice Phlegm",
+    "Frost Breath"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Lethal)",
+    "-Recharge, -SPD",
+    "DoT(Cold), -Recharge, -SPD"
+  ]
+}

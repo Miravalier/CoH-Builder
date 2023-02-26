@@ -1,0 +1,54 @@
+{
+  "name": "Broad_Sword",
+  "display_name": "Broad Sword",
+  "display_fullname": "Stalker Melee.Broad Sword",
+  "display_help": "Wield a Broad Sword and master a variety of powerful Lethal attacks. Slower than a Ninja Blade the Broad Sword's weight strikes with more force and damage. The Broadsword can reduce an enemy's Defense, allowing other attacks to hit more reliably. The Broad Sword is a powerful melee weapon that has a bonus to Accuracy. Like all Stalker powers, all Broad Sword attacks can sometimes land a critical hit for double damage.",
+  "display_short_help": "Broad Sword",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/STALKER_MELEE/BROAD_SWORD.POWERSETS",
+  "icon": "broad_sword_set.png",
+  "requires": "",
+  "power_names": [
+    "Stalker_Melee.Broad_Sword.Hack",
+    "Stalker_Melee.Broad_Sword.Slash",
+    "Stalker_Melee.Broad_Sword.Slice",
+    "Stalker_Melee.Broad_Sword.Assassins_Slash",
+    "Stalker_Melee.Broad_Sword.Build_Up",
+    "Stalker_Melee.Broad_Sword.Placate",
+    "Stalker_Melee.Broad_Sword.Parry",
+    "Stalker_Melee.Broad_Sword.Disembowel",
+    "Stalker_Melee.Broad_Sword.Head_Splitter"
+  ],
+  "power_display_names": [
+    "Hack",
+    "Slash",
+    "Slice",
+    "Assassin's Slash",
+    "Build Up",
+    "Placate",
+    "Parry",
+    "Disembowel",
+    "Head Splitter"
+  ],
+  "power_short_helps": [
+    "Melee, High Dam(Lethal), Foe -DEF",
+    "Melee, Moderate Dam(Lethal), Foe -DEF",
+    "Melee (Cone), Moderate Dam(Lethal), Foe -DEF",
+    "Melee, Extreme DMG(Lethal)",
+    "Self +DMG, +To-hit",
+    "Ranged, Foe Placate, Self Stealth/Hide",
+    "Melee, Light DMG(Lethal), Self +DEF(Melee,Lethal)",
+    "Melee, High DMG(Lethal), Knockup, Foe -DEF",
+    "Melee, Superior DMG(Lethal), Foe Knockback, -DEF"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Endurance_Discount",
+  "display_name": "Mutation Endurance Discount",
+  "display_fullname": "Boosts.Mutation Endurance Discount",
+  "display_help": "Decreases the endurance cost of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "mutation_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Endurance_Discount.Mutation_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "Awakening: Reduced Endurance (Endurance Reduction)"
+  ],
+  "power_short_helps": [
+    "Reduces Endurance Cost"
+  ]
+}

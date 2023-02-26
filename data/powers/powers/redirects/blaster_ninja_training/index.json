@@ -1,0 +1,22 @@
+{
+  "name": "Blaster_Ninja_Training",
+  "display_name": "Ninja Training",
+  "display_fullname": "Redirects.Ninja Training",
+  "display_help": "Ninja Training",
+  "display_short_help": "Ninja Training",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDIRECTS/BLASTER_NINJA_TRAINING.POWERSETS",
+  "icon": "blaster_ninja_training_set.png",
+  "requires": "",
+  "power_names": [
+    "Redirects.Blaster_Ninja_Training.Shinobi_Proc"
+  ],
+  "power_display_names": [
+    "Shinobi Skills"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Self +DEF(Melee, Ranged, AoE), +Run Speed, +Jump"
+  ]
+}

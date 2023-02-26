@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Hecatomb_F",
+  "display_name": "Superior Attuned Hecatomb F",
+  "display_fullname": "Boosts.Superior Attuned Hecatomb F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Provides a chance to cause moderate negative energy damage to your targets. This effect will trigger roughly 4.5 times per minute.",
+  "display_short_help": "Set: Hecatomb",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_HECATOMB_F.POWERSETS",
+  "icon": "superior_attuned_hecatomb_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Hecatomb_F.Superior_Attuned_Hecatomb_F"
+  ],
+  "power_display_names": [
+    "Hecatomb: Chance for Negative Energy Damage"
+  ],
+  "power_short_helps": [
+    "Chance for Negative Energy DMG"
+  ]
+}

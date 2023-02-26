@@ -1,0 +1,22 @@
+{
+  "name": "Zombie_Lt",
+  "display_name": "",
+  "display_fullname": "Zombies.Zombie Lt",
+  "display_help": "Zombies",
+  "display_short_help": "Zombies",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ZOMBIES/ZOMBIE_LT.POWERSETS",
+  "icon": "zombie_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Zombies.Zombie_Lt.Flies"
+  ],
+  "power_display_names": [
+    "Flies"
+  ],
+  "power_short_helps": [
+    "Auto: Flies"
+  ]
+}

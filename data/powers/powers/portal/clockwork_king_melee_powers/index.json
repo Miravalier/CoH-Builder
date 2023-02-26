@@ -1,0 +1,22 @@
+{
+  "name": "Clockwork_King_Melee_Powers",
+  "display_name": "Clockwork_King_Melee_Powers",
+  "display_fullname": "Portal.Clockwork King Melee Powers",
+  "display_help": "Psychic Clockwork",
+  "display_short_help": "Psychic Clockwork",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CLOCKWORK_KING_MELEE_POWERS.POWERSETS",
+  "icon": "clockwork_king_melee_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Clockwork_King_Melee_Powers.Pummel"
+  ],
+  "power_display_names": [
+    "Pummel"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

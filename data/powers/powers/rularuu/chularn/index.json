@@ -1,0 +1,54 @@
+{
+  "name": "Chularn",
+  "display_name": "Chularn",
+  "display_fullname": "Rularuu.Chularn",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/CHULARN.POWERSETS",
+  "icon": "chularn_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Chularn.Resistance",
+    "Rularuu.Chularn.Fly",
+    "Rularuu.Chularn.Personal_Force_Field",
+    "Rularuu.Chularn.Mental_Blast",
+    "Rularuu.Chularn.Telekinetic_blast",
+    "Rularuu.Chularn.Subdue",
+    "Rularuu.Chularn.Will_Domination",
+    "Rularuu.Chularn.Psychic_Scream",
+    "Rularuu.Chularn.Psionic_Tornado"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly",
+    "Personal Force Field",
+    "Mental Blast",
+    "Telekinetic blast",
+    "Subdue",
+    "Will Domination",
+    "Psychic Scream",
+    "Psionic Tornado"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Self Toggle Invulnerable, Special",
+    "-Recharge",
+    "Ranged Smash/Psionic, Knockback",
+    "Immobilize",
+    "Sleep",
+    "-Recharge",
+    "Moderate DoT(Psionic), Slow"
+  ]
+}

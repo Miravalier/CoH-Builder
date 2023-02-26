@@ -1,0 +1,38 @@
+{
+  "name": "Omnicore_Powers",
+  "display_name": "Omnicore's Powers",
+  "display_fullname": "OnGoingTrainingCharacters.Omnicore's Powers",
+  "display_help": "Energy Blast allows you to hurl bolts of energy at your foes, and can often send them flying with Knockback.",
+  "display_short_help": "Omnicore's Powers",
+  "available_level": [
+    0,
+    0,
+    9,
+    0,
+    15
+  ],
+  "source_file": "DEFS/POWERS/ONGOINGTRAININGCHARACTERS/OMNICORE_POWERS.POWERSETS",
+  "icon": "omnicore_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "OnGoingTrainingCharacters.Omnicore_Powers.Power_Bolt",
+    "OnGoingTrainingCharacters.Omnicore_Powers.Power_Blast",
+    "OnGoingTrainingCharacters.Omnicore_Powers.Energy_Torrent",
+    "OnGoingTrainingCharacters.Omnicore_Powers.Siphon_Power",
+    "OnGoingTrainingCharacters.Omnicore_Powers.Siphon_Speed"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Energy Torrent",
+    "Siphon Power",
+    "Siphon Speed"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged (Cone), Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Foe -DMG, Team +DMG",
+    "Ranged, Foe -Speed, Self +Speed, +Recharge"
+  ]
+}

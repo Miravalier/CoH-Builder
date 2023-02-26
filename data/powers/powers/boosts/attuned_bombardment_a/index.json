@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Bombardment_A",
+  "display_name": "Attuned Bombardment A",
+  "display_fullname": "Boosts.Attuned Bombardment A",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Bombardment",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BOMBARDMENT_A.POWERSETS",
+  "icon": "e_icon_bombardment.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Bombardment_A.Attuned_Bombardment_A"
+  ],
+  "power_display_names": [
+    "Bombardment: Damage"
+  ],
+  "power_short_helps": [
+    "+DMG"
+  ]
+}

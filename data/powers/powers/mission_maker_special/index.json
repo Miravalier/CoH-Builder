@@ -1,0 +1,17 @@
+{
+  "name": "Mission_Maker_Special",
+  "display_name": "Special",
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SPECIAL.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "mission_maker_special.av_resistances",
+    "mission_maker_special.super_leap"
+  ],
+  "powerset_display_names": [
+    "Archvillain Resistances",
+    "Super Leap"
+  ],
+  "powersets_with_requirements": []
+}

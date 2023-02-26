@@ -1,0 +1,22 @@
+{
+  "name": "Boss_Fire_Imps_Low",
+  "display_name": "Boss Fire Imps Low",
+  "display_fullname": "V LegacyChain.Boss Fire Imps Low",
+  "display_help": "Legacy of Flame",
+  "display_short_help": "Legacy of Flame",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/BOSS_FIRE_IMPS_LOW.POWERSETS",
+  "icon": "boss_fire_imps_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Boss_Fire_Imps_Low.Fire_Imps"
+  ],
+  "power_display_names": [
+    "Fire Imps"
+  ],
+  "power_short_helps": [
+    "Summon 1-2 Imps"
+  ]
+}

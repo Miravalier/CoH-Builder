@@ -1,0 +1,81 @@
+{
+  "name": "NewPraetorians_Clockwork_Soldier_A",
+  "gender": "GENDER_MALE",
+  "group_name": "NewPraetorians",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "These specialized Clockwork serve as baseline soldiers in Alec Parson's personal Clockwork Army, and are equipped with a Plasma Blaster and Welding Ray.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "NewPraetorians.Clockwork_Soldier_A.Plasma_Blast",
+      "NewPraetorians.Clockwork_Soldier_A.Plasma_Ray"
+    ],
+    "power_display_names": [
+      "Plasma Blast",
+      "Plasma Ray"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "NewPraetorians",
+        "power_set": "Clockwork_Soldier_A",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Soldier"
+      ],
+      "costumes": [
+        "Clockwork_Loyalist_Minion_01",
+        "Clockwork_Loyalist_Minion_02",
+        "Clockwork_Loyalist_Minion_03",
+        "Clockwork_Loyalist_Minion_04",
+        "Clockwork_Loyalist_Minion_05",
+        "Clockwork_Loyalist_Minion_06",
+        "Clockwork_Loyalist_Minion_07",
+        "Clockwork_Loyalist_Minion_08",
+        "Clockwork_Loyalist_Minion_09",
+        "Clockwork_Loyalist_Minion_10"
+      ]
+    }
+  ]
+}

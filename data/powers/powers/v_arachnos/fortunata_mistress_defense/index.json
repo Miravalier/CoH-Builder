@@ -1,0 +1,22 @@
+{
+  "name": "Fortunata_Mistress_Defense",
+  "display_name": "Fortunata_Mistress_Defense",
+  "display_fullname": "V Arachnos.Fortunata Mistress Defense",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/FORTUNATA_MISTRESS_DEFENSE.POWERSETS",
+  "icon": "fortunata_mistress_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Fortunata_Mistress_Defense.Mental_Training"
+  ],
+  "power_display_names": [
+    "Mental Training"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

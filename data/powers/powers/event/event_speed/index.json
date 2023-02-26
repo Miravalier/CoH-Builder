@@ -1,0 +1,34 @@
+{
+  "name": "Event_Speed",
+  "display_name": "Speed",
+  "display_fullname": "Event.Speed",
+  "display_help": "Speed",
+  "display_short_help": "Speed",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/EVENT_SPEED.POWERSETS",
+  "icon": "event_speed_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Event_Speed.Flurry",
+    "Event.Event_Speed.Hasten",
+    "Event.Event_Speed.Super_Speed",
+    "Event.Event_Speed.Whirlwind"
+  ],
+  "power_display_names": [
+    "Flurry",
+    "Hasten",
+    "Super Speed",
+    "Whirlwind"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash), Foe Disorient",
+    "Self +Recharge",
+    "Toggle: Self +Speed",
+    "Toggle: PBAoE, Foe Knockback"
+  ]
+}

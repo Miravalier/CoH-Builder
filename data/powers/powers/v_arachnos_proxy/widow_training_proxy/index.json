@@ -1,0 +1,46 @@
+{
+  "name": "Widow_Training_Proxy",
+  "display_name": "Widow Training Proxy",
+  "display_fullname": "V Arachnos Proxy.Widow Training Proxy",
+  "display_help": "Characters with Widow Training begin their careers as Blood Widows. Blood Widow characters begin with modest melee, ranged and buff skills. Beginning at level 24, they may chose to switch to the \"Fortunata\" path or remain on the \"Widow\" path and become \"Night Widows.\" Night Widows gain considerably stronger melee capabilities, and only have modest ranged abilities, while those who go with the Fortunata path learn stronger ranged attack abilities and control abilities.",
+  "display_short_help": "Arachnos Widow",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    11
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/WIDOW_TRAINING_PROXY.POWERSETS",
+  "icon": "widow_training_proxy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Poison_Dart",
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Swipe",
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Lunge",
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Dart_Burst",
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Follow_Up",
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Spin",
+    "V_Arachnos_Proxy.Widow_Training_Proxy.Strike"
+  ],
+  "power_display_names": [
+    "Poison Dart",
+    "Swipe",
+    "Strike",
+    "Dart Burst",
+    "Follow Up",
+    "Spin",
+    "Lunge"
+  ],
+  "power_short_helps": [
+    "Moderate DMG (Lethal), DoT(Toxic), -Regeneration",
+    "Light DMG (Lethal), DoT(Toxic), -Recharge, -SPD",
+    "High DMG (Lethal), DoT(Toxic), -Recharge, -SPD",
+    "Light Cone DMG (Lethal), DoT(Toxic), -Regeneration",
+    "Melee, Moderate DMG(Lethal), Self +DMG",
+    "PBAoE Melee, Moderate DMG(Lethal), DoT(Toxic), -Recharge, -SPD",
+    "High DMG (Lethal), DoT(Toxic), -Recharge, -SPD"
+  ]
+}

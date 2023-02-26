@@ -1,0 +1,43 @@
+{
+  "name": "Syndicate",
+  "display_name": "Syndicate",
+  "source_file": "DEFS/POWERS/SYNDICATE.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "syndicate.boss_suit",
+    "syndicate.boss_swordmaster",
+    "syndicate.hidden_malta",
+    "syndicate.lt_enforcer",
+    "syndicate.lt_pyrokinetic",
+    "syndicate.lt_telekinetic",
+    "syndicate.minion_brawler",
+    "syndicate.minion_burst",
+    "syndicate.minion_dualknives",
+    "syndicate.minion_dualpistols",
+    "syndicate.minion_resistance",
+    "syndicate.minion_sword",
+    "syndicate.minion_weakness",
+    "syndicate.syndicate_resistance",
+    "syndicate.tub_ci"
+  ],
+  "powerset_display_names": [
+    "Boss_Suit",
+    "Boss_SwordMaster",
+    "Hidden_Malta",
+    "LT_Enforcer",
+    "LT_Pyrokinetic",
+    "LT_Telekinetic",
+    "Minion_Brawler",
+    "Minion_Burst",
+    "Minion_DualKnives",
+    "Minion_DualPistols",
+    "Minion_Resistance",
+    "Minion_Sword",
+    "Minion_Weakness",
+    "Syndicate_Resistance",
+    "Tub_Ci"
+  ],
+  "powersets_with_requirements": []
+}

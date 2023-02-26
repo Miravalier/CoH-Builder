@@ -1,0 +1,22 @@
+{
+  "name": "Dust_Devil_Speed_5",
+  "display_name": "Dust Devil",
+  "display_fullname": "V Arachnos.Dust Devil",
+  "display_help": "Scirocco",
+  "display_short_help": "Scirocco",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/DUST_DEVIL_SPEED_5.POWERSETS",
+  "icon": "dust_devil_speed_5_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Dust_Devil_Speed_5.Movement_Speed"
+  ],
+  "power_display_names": [
+    "Movement Speed"
+  ],
+  "power_short_helps": [
+    "Dust Devil"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Intangibility",
+  "display_name": "Intangibility",
+  "display_fullname": "GenericVillains.Intangibility",
+  "display_help": "Intangible",
+  "display_short_help": "Intangible",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/INTANGIBILITY.POWERSETS",
+  "icon": "intangibility_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Intangibility.Intangible"
+  ],
+  "power_display_names": [
+    "Intangible"
+  ],
+  "power_short_helps": [
+    "Intangible"
+  ]
+}

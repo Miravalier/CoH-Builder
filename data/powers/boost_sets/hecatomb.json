@@ -1,0 +1,539 @@
+{
+  "name": "Hecatomb",
+  "display_name": "Hecatomb",
+  "group_name": "Melee Damage",
+  "conversion_groups": [
+    "Rarity: Very Rare"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Hecatomb_A.Crafted_Hecatomb_A",
+      "Boosts.Superior_Attuned_Hecatomb_A.Superior_Attuned_Hecatomb_A"
+    ],
+    [
+      "Boosts.Crafted_Hecatomb_B.Crafted_Hecatomb_B",
+      "Boosts.Superior_Attuned_Hecatomb_B.Superior_Attuned_Hecatomb_B"
+    ],
+    [
+      "Boosts.Crafted_Hecatomb_C.Crafted_Hecatomb_C",
+      "Boosts.Superior_Attuned_Hecatomb_C.Superior_Attuned_Hecatomb_C"
+    ],
+    [
+      "Boosts.Crafted_Hecatomb_D.Crafted_Hecatomb_D",
+      "Boosts.Superior_Attuned_Hecatomb_D.Superior_Attuned_Hecatomb_D"
+    ],
+    [
+      "Boosts.Crafted_Hecatomb_E.Crafted_Hecatomb_E",
+      "Boosts.Superior_Attuned_Hecatomb_E.Superior_Attuned_Hecatomb_E"
+    ],
+    [
+      "Boosts.Crafted_Hecatomb_F.Crafted_Hecatomb_F",
+      "Boosts.Superior_Attuned_Hecatomb_F.Superior_Attuned_Hecatomb_F"
+    ]
+  ],
+  "min_level": 50,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_7",
+          "Ultimate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_7",
+          "Ultimate Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_7",
+          "Ultimate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_7",
+          "Ultimate Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_7",
+          "Ultimate Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png",
+      "e_icon_hecatomb.png"
+    ],
+    "boosts": [
+      [
+        "Superior Hecatomb: Damage",
+        "Attuned Superior Hecatomb: Damage"
+      ],
+      [
+        "Superior Hecatomb: Damage/Recharge",
+        "Attuned Superior Hecatomb: Damage/Recharge"
+      ],
+      [
+        "Superior Hecatomb: Accuracy/Damage/Recharge",
+        "Attuned Superior Hecatomb: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Superior Hecatomb: Accuracy/Recharge",
+        "Attuned Superior Hecatomb: Accuracy/Recharge"
+      ],
+      [
+        "Superior Hecatomb: Damage/Endurance",
+        "Attuned Superior Hecatomb: Damage/Endurance"
+      ],
+      [
+        "Hecatomb: Chance for NegativeEnergy Damage",
+        "Attuned Hecatomb: Chance for NegativeEnergy Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_hecatomb_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_hecatomb_a.superior_attuned_hecatomb_a",
+          "Hecatomb: Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Hecatomb: Damage",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "superior_attuned_hecatomb_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Hecatomb: Damage",
+        "aspects": [
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "crafted_hecatomb_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_hecatomb_b.superior_attuned_hecatomb_b",
+          "Hecatomb: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Hecatomb: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "superior_attuned_hecatomb_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Hecatomb: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "crafted_hecatomb_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_hecatomb_c.superior_attuned_hecatomb_c",
+          "Hecatomb: Damage/Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Hecatomb: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "superior_attuned_hecatomb_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Hecatomb: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "crafted_hecatomb_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_hecatomb_d.superior_attuned_hecatomb_d",
+          "Hecatomb: Recharge/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Hecatomb: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "superior_attuned_hecatomb_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Hecatomb: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "crafted_hecatomb_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_hecatomb_e.superior_attuned_hecatomb_e",
+          "Hecatomb: Damage/Endurance Reduction"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Superior Hecatomb: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "superior_attuned_hecatomb_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Hecatomb: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "crafted_hecatomb_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.superior_attuned_hecatomb_f.superior_attuned_hecatomb_f",
+          "Hecatomb: Chance for Negative Energy Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Hecatomb: Chance for NegativeEnergy Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      },
+      "superior_attuned_hecatomb_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Hecatomb: Chance for NegativeEnergy Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "hecatomb",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_hecatomb.png"
+      }
+    }
+  }
+}

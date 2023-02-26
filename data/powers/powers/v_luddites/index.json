@@ -1,0 +1,33 @@
+{
+  "name": "V_Luddites",
+  "display_name": "Luddites",
+  "source_file": "DEFS/POWERS/V_LUDDITES.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_luddites.boss_high",
+    "v_luddites.boss_low",
+    "v_luddites.lt_high",
+    "v_luddites.lt_low",
+    "v_luddites.minion_axe",
+    "v_luddites.minion_brawl",
+    "v_luddites.minion_crossbow",
+    "v_luddites.minion_machete",
+    "v_luddites.minion_sledge",
+    "v_luddites.minion_torch"
+  ],
+  "powerset_display_names": [
+    "Boss High",
+    "Boss Low",
+    "Lt High",
+    "Lt Low",
+    "Minion Axe",
+    "Minion Brawl",
+    "Minion Crossbow",
+    "Minion Machete",
+    "Minion Sledge",
+    "Minion Torch"
+  ],
+  "powersets_with_requirements": []
+}

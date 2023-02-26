@@ -1,0 +1,54 @@
+{
+  "name": "Lady_Winter",
+  "display_name": "Lady Winter",
+  "display_fullname": "Event.Lady Winter",
+  "display_help": "Winter Horde",
+  "display_short_help": "Winter Horde",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/LADY_WINTER.POWERSETS",
+  "icon": "lady_winter_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Lady_Winter.Chill",
+    "Event.Lady_Winter.Crystalize",
+    "Event.Lady_Winter.Ice_Shield",
+    "Event.Lady_Winter.Ice_Sword",
+    "Event.Lady_Winter.Greater_Ice_Sword",
+    "Event.Lady_Winter.Ice_Blast",
+    "Event.Lady_Winter.Gale",
+    "Event.Lady_Winter.Blizzard",
+    "Event.Lady_Winter.Shiver"
+  ],
+  "power_display_names": [
+    "Chill",
+    "Crystalize",
+    "Ice Shield",
+    "Ice Sword",
+    "Greater Ice Sword",
+    "Ice Blast",
+    "Gale",
+    "Blizzard",
+    "Shiver"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed",
+    "-Resist(All)",
+    "Self Heal, +Max HP",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Ranged (Cone), Minor DMG(Smash), Foe Knockback",
+    "Extreme DoT(Cold), -ACC, -Speed, -Recharge",
+    "-Recharge, -SPD"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Scanner_Powers",
+  "display_name": "Scanner Powers",
+  "display_fullname": "P Seers.Scanner Powers",
+  "display_help": "Scanner",
+  "display_short_help": "Scanner",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/SCANNER_POWERS.POWERSETS",
+  "icon": "scanner_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Scanner_Powers.Psionic_Dart"
+  ],
+  "power_display_names": [
+    "Psionic Dart"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Psionic), Target -Recharge"
+  ]
+}

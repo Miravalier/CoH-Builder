@@ -1,0 +1,30 @@
+{
+  "name": "SS_Tanker_Low",
+  "display_name": "SS Tanker Low",
+  "display_fullname": "V GenericHeroes.SS Tanker Low",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/SS_TANKER_LOW.POWERSETS",
+  "icon": "ss_tanker_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.SS_Tanker_Low.Haymaker",
+    "V_GenericHeroes.SS_Tanker_Low.Hand_Clap",
+    "V_GenericHeroes.SS_Tanker_Low.Unyielding"
+  ],
+  "power_display_names": [
+    "Haymaker",
+    "Hand Clap",
+    "Unyielding"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Knockback",
+    "Disorient",
+    "Toggle: Self +Res(Knockback, Sleep, Disorient, Hold, Immobilize, Fire, Cold, Energy, Negative), Self -DEF"
+  ]
+}

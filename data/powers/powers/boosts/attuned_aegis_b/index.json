@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Aegis_B",
+  "display_name": "Attuned Aegis B",
+  "display_fullname": "Boosts.Attuned Aegis B",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Aegis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_AEGIS_B.POWERSETS",
+  "icon": "attuned_aegis_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Aegis_B.Attuned_Aegis_B"
+  ],
+  "power_display_names": [
+    "Aegis: Resistance/Recharge"
+  ],
+  "power_short_helps": [
+    "+RES (all), +Rech"
+  ]
+}

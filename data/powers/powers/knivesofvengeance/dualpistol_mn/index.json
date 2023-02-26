@@ -1,0 +1,34 @@
+{
+  "name": "DualPistol_MN",
+  "display_name": "DualPistol_MN",
+  "display_fullname": "KnivesOfVengeance.DualPistol MN",
+  "display_help": "Knives of Vengeance",
+  "display_short_help": "Knives of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/KNIVESOFVENGEANCE/DUALPISTOL_MN.POWERSETS",
+  "icon": "dualpistol_mn_set.png",
+  "requires": "",
+  "power_names": [
+    "KnivesOfVengeance.DualPistol_MN.Focused_Shot",
+    "KnivesOfVengeance.DualPistol_MN.Dual_Shot",
+    "KnivesOfVengeance.DualPistol_MN.Barrage",
+    "KnivesOfVengeance.DualPistol_MN.Storm_of_Bullets"
+  ],
+  "power_display_names": [
+    "Focused Shot",
+    "Dual Shot",
+    "Barrage",
+    "Storm of Bullets"
+  ],
+  "power_short_helps": [
+    "Ranged, DMG(Lethal), Foe DoT (Toxic)",
+    "Ranged, DMG(Lethal), Foe DoT (Toxic), Knockdown, -DMG(All)",
+    "Ranged Cone, Foe DoT (Lethal/Toxic), Knockdown, -DMG(All)",
+    "TAoE, Foe DoT (Lethal/Toxic), Knockback, -DMG(All)"
+  ]
+}

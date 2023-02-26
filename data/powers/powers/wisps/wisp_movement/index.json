@@ -1,0 +1,22 @@
+{
+  "name": "Wisp_Movement",
+  "display_name": "Wisp_Movement",
+  "display_fullname": "Wisps.Wisp Movement",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/WISPS/WISP_MOVEMENT.POWERSETS",
+  "icon": "wisp_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "Wisps.Wisp_Movement.Fly"
+  ],
+  "power_display_names": [
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Self Travel"
+  ]
+}

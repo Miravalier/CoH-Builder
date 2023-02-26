@@ -1,0 +1,22 @@
+{
+  "name": "MonkeyGas",
+  "display_name": "Monkey Gas",
+  "display_fullname": "Pets.Monkey Gas",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/MONKEYGAS.POWERSETS",
+  "icon": "monkeygas_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.MonkeyGas.Monkey_Gas"
+  ],
+  "power_display_names": [
+    "Monkey Gas"
+  ],
+  "power_short_helps": [
+    "Monkey Gas"
+  ]
+}

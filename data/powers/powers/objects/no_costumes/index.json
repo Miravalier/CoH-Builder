@@ -1,0 +1,22 @@
+{
+  "name": "No_Costumes",
+  "display_name": "No_Costumes",
+  "display_fullname": "Objects.No Costumes",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/NO_COSTUMES.POWERSETS",
+  "icon": "no_costumes_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.No_Costumes.Disable_Costumes"
+  ],
+  "power_display_names": [
+    "Disable Costumes"
+  ],
+  "power_short_helps": [
+    "Disable Costumes"
+  ]
+}

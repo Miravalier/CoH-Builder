@@ -1,0 +1,26 @@
+{
+  "name": "Minion",
+  "display_name": "Minion",
+  "display_fullname": "V Wailers.Minion",
+  "display_help": "Wailers",
+  "display_short_help": "Wailers",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_WAILERS/MINION.POWERSETS",
+  "icon": "minion_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Wailers.Minion.Shriek",
+    "V_Wailers.Minion.Slash"
+  ],
+  "power_display_names": [
+    "Shriek",
+    "Slash"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Smashing/Energy), -Resist",
+    "Melee Lethal"
+  ]
+}

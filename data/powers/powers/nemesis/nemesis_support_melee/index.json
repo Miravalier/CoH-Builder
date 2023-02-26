@@ -1,0 +1,22 @@
+{
+  "name": "Nemesis_Support_Melee",
+  "display_name": "Nemesis_Support_Melee",
+  "display_fullname": "Nemesis.Nemesis Support Melee",
+  "display_help": "Nemesis",
+  "display_short_help": "Nemesis",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEMESIS/NEMESIS_SUPPORT_MELEE.POWERSETS",
+  "icon": "nemesis_support_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Nemesis.Nemesis_Support_Melee.Bayonet"
+  ],
+  "power_display_names": [
+    "Bayonet"
+  ],
+  "power_short_helps": [
+    "Melee Lethal"
+  ]
+}

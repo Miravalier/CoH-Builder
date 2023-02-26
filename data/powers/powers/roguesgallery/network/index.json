@@ -1,0 +1,50 @@
+{
+  "name": "Network",
+  "display_name": "Network",
+  "display_fullname": "RoguesGallery.Network",
+  "display_help": "Network",
+  "display_short_help": "Network",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROGUESGALLERY/NETWORK.POWERSETS",
+  "icon": "network_set.png",
+  "requires": "",
+  "power_names": [
+    "RoguesGallery.Network.Single_Shot",
+    "RoguesGallery.Network.Charged_Shot",
+    "RoguesGallery.Network.Cutting_Beam",
+    "RoguesGallery.Network.Piercing_Beam",
+    "RoguesGallery.Network.Overcharge",
+    "RoguesGallery.Network.Web_Grenade",
+    "RoguesGallery.Network.Smoke_Grenade",
+    "RoguesGallery.Network.Targeting_Drone"
+  ],
+  "power_display_names": [
+    "Single Shot",
+    "Charged Shot",
+    "Cutting Beam",
+    "Piercing Beam",
+    "Overcharge",
+    "Web Grenade",
+    "Smoke Grenade",
+    "Targeting Drone"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG (Energy), Minor DoT (Energy), -Regen (Foe), Chance for Knockdown (Foe)",
+    "Ranged, High DMG (Energy), Minor DoT (Energy), -Rec (Foe), Chance for Knockdown (Foe)",
+    "Ranged (Cone), High DMG (Energy), -DEF (Foe, All)",
+    "Ranged (Narrow Cone), Superior DMG (Energy), -RES (Foe, All), Chance for Moderate DoT (Energy)",
+    "Ranged (Targeted AoE), Extreme DMG(Energy), Minor DoT (Energy), -DEF (Foe, All), Chance for Stun (Foe)",
+    "Ranged, Immobilize (Foe), -Speed (Foe, All), -Rech (Foe)",
+    "Ranged (Targeted AoE), -Perception (Foe), -ToHit (Foe)",
+    "Self (Auto), +Perception, +ToHit, +RES (Perception, ToHit)"
+  ]
+}

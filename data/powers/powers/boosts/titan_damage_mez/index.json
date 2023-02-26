@@ -1,0 +1,22 @@
+{
+  "name": "Titan_Damage_Mez",
+  "display_name": "Titan Damage Mez",
+  "display_fullname": "Boosts.Titan Damage Mez",
+  "display_help": "Enhances the damage and the duration of all mez powers.",
+  "display_short_help": "Titan (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TITAN_DAMAGE_MEZ.POWERSETS",
+  "icon": "titan_damage_mez_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Titan_Damage_Mez.Titan_Damage_Mez"
+  ],
+  "power_display_names": [
+    "Titan Amethyst Shard (Dam/Mez)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Mez"
+  ]
+}

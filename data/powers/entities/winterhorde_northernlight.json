@@ -1,0 +1,91 @@
+{
+  "name": "WinterHorde_NorthernLight",
+  "gender": "GENDER_MALE",
+  "group_name": "WinterHorde",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 50,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_SMALL",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "Even the purest of light can be corrupted by Lord Winter's Power!",
+    "group_description": "Winter Horde",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Event.Snowbeast_Inherent_Resistance.Resistance",
+      "Event.NorthernLight.Northern_Lights_Bolt",
+      "Event.NorthernLight.Northern_Lights_Blast",
+      "Event.NorthernLight.Northern_Lights_Scatter",
+      "Event.NorthernLight.Northern_Lights_Detonation",
+      "Event.NorthernLight.Positioning",
+      "Event.NorthernLight.Energy_Flight"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Northern Light's Bolt",
+      "Northern Light's Blast",
+      "Northern Light's Scatter",
+      "Northern Light's Detonation",
+      "Positioning",
+      "Energy Flight"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Event",
+        "power_set": "Snowbeast_Inherent_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "NorthernLight",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 50,
+      "experience": 0,
+      "display_names": [
+        "Northern Light"
+      ],
+      "costumes": [
+        "Veteran_Pet_Wisp_01"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "tag": "CritHit",
+  "bears": [
+    [
+      "Magisterium.Shadowhunter.Guarded Spin",
+      "magisterium.shadowhunter.guarded_spin"
+    ],
+    [
+      "Magisterium.Shadowhunter.Innocuous Strikes",
+      "magisterium.shadowhunter.innocuous_strikes"
+    ],
+    [
+      "Magisterium.Shadowhunter.Mercurial Blow",
+      "magisterium.shadowhunter.mercurial_blow"
+    ],
+    [
+      "Magisterium.Shadowhunter.Precise Strike",
+      "magisterium.shadowhunter.precise_strike"
+    ],
+    [
+      "Magisterium.Shadowhunter.Serpent's Reach",
+      "magisterium.shadowhunter.serpents_reach"
+    ],
+    [
+      "Magisterium.Shadowhunter.Sky Splitter",
+      "magisterium.shadowhunter.sky_splitter"
+    ]
+  ],
+  "affects": []
+}

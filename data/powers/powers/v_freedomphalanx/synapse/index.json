@@ -1,0 +1,58 @@
+{
+  "name": "Synapse",
+  "display_name": "Synapse",
+  "display_fullname": "V FreedomPhalanx.Synapse",
+  "display_help": "Freedom Phalanx",
+  "display_short_help": "Freedom Phalanx",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMPHALANX/SYNAPSE.POWERSETS",
+  "icon": "synapse_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomPhalanx.Synapse.Charged_Bolts",
+    "V_FreedomPhalanx.Synapse.Lightning_Bolt",
+    "V_FreedomPhalanx.Synapse.Ball_Lightning",
+    "V_FreedomPhalanx.Synapse.Thunderous_Blast",
+    "V_FreedomPhalanx.Synapse.Havoc_Punch",
+    "V_FreedomPhalanx.Synapse.Lightning_Clap",
+    "V_FreedomPhalanx.Synapse.Thunder_Strike",
+    "V_FreedomPhalanx.Synapse.Synaptic_Strike",
+    "V_FreedomPhalanx.Synapse.Whirlwind",
+    "V_FreedomPhalanx.Synapse.Resistance"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Lightning Bolt",
+    "Ball Lightning",
+    "Thunderous Blast",
+    "Havoc Punch",
+    "Lightning Clap",
+    "Thunder Strike",
+    "Synaptic Strike",
+    "Whirlwind",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "Ranged Energy, -End",
+    "Targeted AoE Energy, -End",
+    "-Recovery",
+    "Sleep",
+    "PBAoE, Foe Disorient, Knockback",
+    "Disorient",
+    "Melee Smash/Energy",
+    "Toggle: PBAoE, Foe Knockback",
+    "Resistance"
+  ]
+}

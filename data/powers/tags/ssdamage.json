@@ -1,0 +1,142 @@
+{
+  "tag": "SSDamage",
+  "bears": [
+    [
+      "Inherent.Inherent.Black Dwarf Drain",
+      "inherent.inherent.black_dwarf_drain"
+    ],
+    [
+      "Inherent.Inherent.Black Dwarf Mire",
+      "inherent.inherent.black_dwarf_mire"
+    ],
+    [
+      "Inherent.Inherent.Black Dwarf Smite",
+      "inherent.inherent.black_dwarf_smite"
+    ],
+    [
+      "Inherent.Inherent.Black Dwarf Strike",
+      "inherent.inherent.black_dwarf_strike"
+    ],
+    [
+      "Inherent.Inherent.Bright Nova Blast",
+      "inherent.inherent.bright_nova_blast"
+    ],
+    [
+      "Inherent.Inherent.Bright Nova Bolt",
+      "inherent.inherent.bright_nova_bolt"
+    ],
+    [
+      "Inherent.Inherent.Bright Nova Detonation",
+      "inherent.inherent.bright_nova_detonation"
+    ],
+    [
+      "Inherent.Inherent.Bright Nova Scatter",
+      "inherent.inherent.bright_nova_scatter"
+    ],
+    [
+      "Inherent.Inherent.Dark Nova Blast",
+      "inherent.inherent.dark_nova_blast"
+    ],
+    [
+      "Inherent.Inherent.Dark Nova Bolt",
+      "inherent.inherent.dark_nova_bolt"
+    ],
+    [
+      "Inherent.Inherent.Dark Nova Detonation",
+      "inherent.inherent.dark_nova_detonation"
+    ],
+    [
+      "Inherent.Inherent.Dark Nova Emanation",
+      "inherent.inherent.dark_nova_emanation"
+    ],
+    [
+      "Inherent.Inherent.White Dwarf Flare",
+      "inherent.inherent.white_dwarf_flare"
+    ],
+    [
+      "Inherent.Inherent.White Dwarf Smite",
+      "inherent.inherent.white_dwarf_smite"
+    ],
+    [
+      "Inherent.Inherent.White Dwarf Strike",
+      "inherent.inherent.white_dwarf_strike"
+    ],
+    [
+      "Kheldian Pets.Luminous Blast.Dwarf Gleaming Bolt",
+      "kheldian_pets.luminous_blast.dwarf_gleaming_bolt"
+    ],
+    [
+      "Kheldian Pets.Luminous Blast.Nova Glinting Eye",
+      "kheldian_pets.luminous_blast.nova_glinting_eye"
+    ],
+    [
+      "Kheldian Pets.Umbral Blast.Dwarf Shadow Bolt",
+      "kheldian_pets.umbral_blast.dwarf_shadow_bolt"
+    ],
+    [
+      "Kheldian Pets.Umbral Blast.Nova Ebon Eye",
+      "kheldian_pets.umbral_blast.nova_ebon_eye"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.White Dwarf Flare",
+      "peacebringer_defensive.luminous_aura.white_dwarf_flare"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.White Dwarf Smite",
+      "peacebringer_defensive.luminous_aura.white_dwarf_smite"
+    ],
+    [
+      "Peacebringer Defensive.Luminous Aura.White Dwarf Strike",
+      "peacebringer_defensive.luminous_aura.white_dwarf_strike"
+    ],
+    [
+      "Peacebringer Offensive.Luminous Blast.Bright Nova Blast",
+      "peacebringer_offensive.luminous_blast.bright_nova_blast"
+    ],
+    [
+      "Peacebringer Offensive.Luminous Blast.Bright Nova Bolt",
+      "peacebringer_offensive.luminous_blast.bright_nova_bolt"
+    ],
+    [
+      "Peacebringer Offensive.Luminous Blast.Bright Nova Detonation",
+      "peacebringer_offensive.luminous_blast.bright_nova_detonation"
+    ],
+    [
+      "Peacebringer Offensive.Luminous Blast.Bright Nova Scatter",
+      "peacebringer_offensive.luminous_blast.bright_nova_scatter"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Black Dwarf Drain",
+      "warshade_defensive.umbral_aura.black_dwarf_drain"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Black Dwarf Mire",
+      "warshade_defensive.umbral_aura.black_dwarf_mire"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Black Dwarf Smite",
+      "warshade_defensive.umbral_aura.black_dwarf_smite"
+    ],
+    [
+      "Warshade Defensive.Umbral Aura.Black Dwarf Strike",
+      "warshade_defensive.umbral_aura.black_dwarf_strike"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Dark Nova Blast",
+      "warshade_offensive.umbral_blast.dark_nova_blast"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Dark Nova Bolt",
+      "warshade_offensive.umbral_blast.dark_nova_bolt"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Dark Nova Detonation",
+      "warshade_offensive.umbral_blast.dark_nova_detonation"
+    ],
+    [
+      "Warshade Offensive.Umbral Blast.Dark Nova Emanation",
+      "warshade_offensive.umbral_blast.dark_nova_emanation"
+    ]
+  ],
+  "affects": []
+}

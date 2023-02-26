@@ -1,0 +1,22 @@
+{
+  "name": "Porter",
+  "display_name": "Porter",
+  "display_fullname": "Incarnate I20.Porter",
+  "display_help": "Utility",
+  "display_short_help": "Utility",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/PORTER.POWERSETS",
+  "icon": "porter_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Porter.Porter_Pack"
+  ],
+  "power_display_names": [
+    "Porter Pack"
+  ],
+  "power_short_helps": [
+    "Utility"
+  ]
+}

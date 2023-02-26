@@ -1,0 +1,42 @@
+{
+  "name": "Wisps",
+  "display_name": "Wisps",
+  "display_fullname": "Rularuu.Wisps",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/WISPS.POWERSETS",
+  "icon": "wisps_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Wisps.Resistance",
+    "Rularuu.Wisps.Fly",
+    "Rularuu.Wisps.Aversion",
+    "Rularuu.Wisps.Mental_Blast",
+    "Rularuu.Wisps.Subdue",
+    "Rularuu.Wisps.Psychic_Scream"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly",
+    "Aversion",
+    "Mental Blast",
+    "Subdue",
+    "Psychic Scream"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Aversion",
+    "-Recharge",
+    "Immobilize",
+    "-Recharge"
+  ]
+}

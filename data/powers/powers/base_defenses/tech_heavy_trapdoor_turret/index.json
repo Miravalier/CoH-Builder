@@ -1,0 +1,22 @@
+{
+  "name": "Tech_Heavy_Trapdoor_Turret",
+  "display_name": "Tech_Heavy_Trapdoor_Turret",
+  "display_fullname": "Base Defenses.Tech Heavy Trapdoor Turret",
+  "display_help": "Base Defenses",
+  "display_short_help": "Base Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BASE_DEFENSES/TECH_HEAVY_TRAPDOOR_TURRET.POWERSETS",
+  "icon": "tech_heavy_trapdoor_turret_set.png",
+  "requires": "",
+  "power_names": [
+    "Base_Defenses.Tech_Heavy_Trapdoor_Turret.Trapdoor_Turret"
+  ],
+  "power_display_names": [
+    "Trapdoor Turret"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Foe Knockback"
+  ]
+}

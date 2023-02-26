@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Triumphant_Insult_C",
+  "display_name": "Attuned Triumphant Insult C",
+  "display_fullname": "Boosts.Attuned Triumphant Insult C",
+  "display_help": "Adds a chance to Disorient your foe. This effect will trigger roughly 2 times per minute.",
+  "display_short_help": "Set: Triumphant Insult",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TRIUMPHANT_INSULT_C.POWERSETS",
+  "icon": "attuned_triumphant_insult_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Triumphant_Insult_C.Attuned_Triumphant_Insult_C"
+  ],
+  "power_display_names": [
+    "Triumphant Insult: Chance to Disorient"
+  ],
+  "power_short_helps": [
+    "Adds Disorient Chance"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Ghosts_Lt_Boss",
+  "display_name": "Ghosts Lt Boss",
+  "display_fullname": "V SpectralPirates.Ghosts Lt Boss",
+  "display_help": "Spectral Pirates",
+  "display_short_help": "Spectral Pirates",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SPECTRALPIRATES/GHOSTS_LT_BOSS.POWERSETS",
+  "icon": "ghosts_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpectralPirates.Ghosts_Lt_Boss.Life_Drain",
+    "V_SpectralPirates.Ghosts_Lt_Boss.Rapier_Stab",
+    "V_SpectralPirates.Ghosts_Lt_Boss.Rapier_Parry"
+  ],
+  "power_display_names": [
+    "Life Drain",
+    "Rapier Stab",
+    "Rapier Parry"
+  ],
+  "power_short_helps": [
+    "-ACC",
+    "-DEF",
+    "Foe +DEF"
+  ]
+}

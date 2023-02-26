@@ -1,0 +1,26 @@
+{
+  "name": "Hydra_Boil",
+  "display_name": "",
+  "display_fullname": "HydraSewerTrial.Hydra Boil",
+  "display_help": "BLAH",
+  "display_short_help": "Obliteration Beam",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRASEWERTRIAL/HYDRA_BOIL.POWERSETS",
+  "icon": "hydra_boil_set.png",
+  "requires": "",
+  "power_names": [
+    "HydraSewerTrial.Hydra_Boil.Boil_Graphic_Entity",
+    "HydraSewerTrial.Hydra_Boil.Boil"
+  ],
+  "power_display_names": [
+    "Boil Graphic Entity",
+    "Boil"
+  ],
+  "power_short_helps": [
+    "Obliteration Beam",
+    "Ranged (Targeted Location), Extreme DMG(Energy), Foe -Regen, -Res(All)"
+  ]
+}

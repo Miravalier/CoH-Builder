@@ -1,0 +1,14 @@
+{
+  "tag": "Thrust",
+  "bears": [
+    [
+      "Boosts.Attuned Thrust D.Running Speed/Increased Run Speed",
+      "boosts.attuned_thrust_d.attuned_thrust_d"
+    ],
+    [
+      "Boosts.Crafted Thrust D.Running Speed/Increased Run Speed",
+      "boosts.crafted_thrust_d.crafted_thrust_d"
+    ]
+  ],
+  "affects": []
+}

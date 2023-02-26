@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Impervious_Skin_E",
+  "display_name": "Crafted Impervious Skin E",
+  "display_fullname": "Boosts.Crafted Impervious Skin E",
+  "display_help": "Reduces the duration of status effects on you by 7.5% and increases your regeneration rate moderately. Regeneration rate bonus is unique.",
+  "display_short_help": "Set: Impervious Skin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_IMPERVIOUS_SKIN_E.POWERSETS",
+  "icon": "crafted_impervious_skin_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Impervious_Skin_E.Crafted_Impervious_Skin_E"
+  ],
+  "power_display_names": [
+    "Impervious Skin: Status Resistance/Regeneration"
+  ],
+  "power_short_helps": [
+    "+RES Status Effects, +Regeneration"
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "name": "Explosive_Strike",
+  "display_name": "Explosive Strike",
+  "group_name": "Knockback",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Knockback"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Explosive_Strike_A.Crafted_Explosive_Strike_A",
+      "Boosts.Attuned_Explosive_Strike_A.Attuned_Explosive_Strike_A"
+    ],
+    [
+      "Boosts.Crafted_Explosive_Strike_B.Crafted_Explosive_Strike_B",
+      "Boosts.Attuned_Explosive_Strike_B.Attuned_Explosive_Strike_B"
+    ],
+    [
+      "Boosts.Crafted_Explosive_Strike_C.Crafted_Explosive_Strike_C",
+      "Boosts.Attuned_Explosive_Strike_C.Attuned_Explosive_Strike_C"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 20,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack",
+      "Enhance KnockBack"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_2",
+          "Small Increased Damage Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_2",
+          "Small Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_explosivestrike.png",
+      "e_icon_explosivestrike.png",
+      "e_icon_explosivestrike.png",
+      "e_icon_explosivestrike.png",
+      "e_icon_explosivestrike.png",
+      "e_icon_explosivestrike.png"
+    ],
+    "boosts": [
+      [
+        "Explosive Strike: Damage/Knockback",
+        "Attuned Explosive Strike: Damage/Knockback"
+      ],
+      [
+        "Explosive Strike: Accuracy/Knockback",
+        "Attuned Explosive Strike: Accuracy/Knockback"
+      ],
+      [
+        "Explosive Strike: Chance for Smashing Damage",
+        "Attuned Explosive Strike: Chance for Smashing Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_explosive_strike_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_explosive_strike_a.attuned_explosive_strike_a",
+          "Explosive Strike: Knockback/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Explosive Strike: Damage/Knockback",
+        "aspects": [
+          "Damage",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "explosive_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_explosivestrike.png"
+      },
+      "attuned_explosive_strike_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Explosive Strike: Damage/Knockback",
+        "aspects": [
+          "Damage",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "explosive_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_explosivestrike.png"
+      },
+      "crafted_explosive_strike_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_explosive_strike_b.attuned_explosive_strike_b",
+          "Explosive Strike: Knockback/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Explosive Strike: Accuracy/Knockback",
+        "aspects": [
+          "Accuracy",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "explosive_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_explosivestrike.png"
+      },
+      "attuned_explosive_strike_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Explosive Strike: Accuracy/Knockback",
+        "aspects": [
+          "Accuracy",
+          "Knockback"
+        ],
+        "superior_scales": false,
+        "boostset_name": "explosive_strike",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_explosivestrike.png"
+      },
+      "crafted_explosive_strike_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_explosive_strike_c.attuned_explosive_strike_c",
+          "Explosive Strike: Chance for Smashing Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Explosive Strike: Chance for Smashing Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "explosive_strike",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_explosivestrike.png"
+      },
+      "attuned_explosive_strike_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 20,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Explosive Strike: Chance for Smashing Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "explosive_strike",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance KnockBack",
+        "icon": "e_icon_explosivestrike.png"
+      }
+    }
+  }
+}

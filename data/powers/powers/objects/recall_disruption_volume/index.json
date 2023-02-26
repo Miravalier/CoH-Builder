@@ -1,0 +1,22 @@
+{
+  "name": "Recall_Disruption_Volume",
+  "display_name": "Recall Disruption Volume",
+  "display_fullname": "Objects.Recall Disruption Volume",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/RECALL_DISRUPTION_VOLUME.POWERSETS",
+  "icon": "recall_disruption_volume_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Recall_Disruption_Volume.Recall_Disruption"
+  ],
+  "power_display_names": [
+    "Recall Disruption"
+  ],
+  "power_short_helps": [
+    "Recall Suppression"
+  ]
+}

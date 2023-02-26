@@ -1,0 +1,22 @@
+{
+  "name": "Highly_Visible",
+  "display_name": "Negative Stealth",
+  "display_fullname": "Objects.Negative Stealth",
+  "display_help": "Highly_Visible",
+  "display_short_help": "Highly_Visible",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/HIGHLY_VISIBLE.POWERSETS",
+  "icon": "highly_visible_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Highly_Visible.Negative_Stealth"
+  ],
+  "power_display_names": [
+    "Negative Stealth"
+  ],
+  "power_short_helps": [
+    "-Stealth"
+  ]
+}

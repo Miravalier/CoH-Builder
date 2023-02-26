@@ -1,0 +1,69 @@
+{
+  "name": "base_ComboUnit_Arcane",
+  "gender": "GENDER_MALE",
+  "group_name": "Pets",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Base_SmallDevice"
+  ],
+  "ally": "Hero",
+  "gang": "3",
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_SMALL",
+    "ai_config": "Default_Stationary",
+    "character_class_name": "lt_grunt",
+    "description": "A small generator and laptop computer. Just enough power and control to get a small base up and running.",
+    "group_description": "EnergyControl",
+    "display_class_name": "Small Device",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Objects.Inherent.Resistance"
+    ],
+    "power_display_names": [
+      "Resistance"
+    ],
+    "power_levels": [
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Objects",
+        "power_set": "Inherent",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Small Power Crystal"
+      ],
+      "costumes": [
+        "v_base_object"
+      ]
+    }
+  ]
+}

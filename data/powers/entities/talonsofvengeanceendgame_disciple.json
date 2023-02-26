@@ -1,0 +1,121 @@
+{
+  "name": "TalonsOfVengeanceEndgame_Disciple",
+  "gender": "GENDER_FEMALE",
+  "group_name": "TalonsOfVengeanceEndgame",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "lt_praetoriangrunt",
+    "description": "The Disciples are extremely loyal members of the Talons whose bodies have been deformed in a more avian fashion than others of the group, with feathered wings sprouting from their backs. They are elite hunters, with tremendous talent as archers. Like their bow-wielding sisters, they can ensnare their targets. However, their greater skill and attunement to the mystical arts has given them the ability to shoot arrows of fire and ice.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "TalonsOfVengeance.Huntress.Snap_Shot",
+      "TalonsOfVengeance.Huntress.Aimed_Shot",
+      "TalonsOfVengeance.Huntress.Entangling_Arrow",
+      "TalonsOfVengeance.Devotee.Blazing_Arrow",
+      "TalonsOfVengeance.Devotee.Ice_Arrow",
+      "TalonsOfVengeance.Talon_Blade.Talon_Blade",
+      "TalonsOfVengeance.Resistances.Damage_LT",
+      "GenericVillains.Flight.Fly",
+      "GenericVillains.Flight.Fly_FX"
+    ],
+    "power_display_names": [
+      "Snap Shot",
+      "Aimed Shot",
+      "Entangling Arrow",
+      "Blazing Arrow",
+      "Ice Arrow",
+      "Talon Blade",
+      "Damage Resistance",
+      "Fly",
+      "Fly FX"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "TalonsOfVengeance",
+        "power_set": "Huntress",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "TalonsOfVengeance",
+        "power_set": "Devotee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "TalonsOfVengeance",
+        "power_set": "Talon_Blade",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "TalonsOfVengeance",
+        "power_set": "Resistances",
+        "power": "Damage_LT",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Flight",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Disciple"
+      ],
+      "costumes": [
+        "Talons_Devotee_01",
+        "Talons_Devotee_02",
+        "Talons_Devotee_03",
+        "Talons_Devotee_04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Freaklok_Fire",
+  "display_name": "Freaklok_Fire",
+  "display_fullname": "Pets.Freaklok Fire",
+  "display_help": "Freaklok_Fire",
+  "display_short_help": "Freaklok_Fire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/FREAKLOK_FIRE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Freaklok_Fire.Freaklok_Fire"
+  ],
+  "power_display_names": [
+    "Freaklok_Fire"
+  ],
+  "power_short_helps": [
+    "Fire DoT, Knockback"
+  ]
+}

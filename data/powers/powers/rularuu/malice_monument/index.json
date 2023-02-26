@@ -1,0 +1,22 @@
+{
+  "name": "Malice_Monument",
+  "display_name": "Malice Monument",
+  "display_fullname": "Rularuu.Malice Monument",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/MALICE_MONUMENT.POWERSETS",
+  "icon": "malice_monument_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Malice_Monument.Malice"
+  ],
+  "power_display_names": [
+    "Malice"
+  ],
+  "power_short_helps": [
+    "+ACC, -DEF"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Warrior_Lt_Boss_BattleAxe_Melee",
+  "display_name": "Warrior_Lt_Boss_BattleAxe_Melee",
+  "display_fullname": "Warriors.Warrior Lt Boss BattleAxe Melee",
+  "display_help": "Warriors",
+  "display_short_help": "Warriors",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/WARRIORS/WARRIOR_LT_BOSS_BATTLEAXE_MELEE.POWERSETS",
+  "icon": "warrior_lt_boss_battleaxe_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Warriors.Warrior_Lt_Boss_BattleAxe_Melee.Gash",
+    "Warriors.Warrior_Lt_Boss_BattleAxe_Melee.Chop",
+    "Warriors.Warrior_Lt_Boss_BattleAxe_Melee.Beheader",
+    "Warriors.Warrior_Lt_Boss_BattleAxe_Melee.Pendulum"
+  ],
+  "power_display_names": [
+    "Gash",
+    "Chop",
+    "Beheader",
+    "Pendulum"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Med Dam, Knockdown",
+    "Melee Lethal, High Dam, Knockdown",
+    "Melee Lethal, Very High Dam, Knockdown",
+    "Melee Cone Lethal, Very High Dam, Knockback"
+  ]
+}

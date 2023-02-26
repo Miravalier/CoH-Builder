@@ -1,0 +1,30 @@
+{
+  "name": "Regeneration",
+  "display_name": "Regeneration",
+  "display_fullname": "Freaklok.Regeneration",
+  "display_help": "Defensive powers for Resist and Regen.",
+  "display_short_help": "Regeneration",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/REGENERATION.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Regeneration.Resistance",
+    "Freaklok.Regeneration.Instant_Healing",
+    "Freaklok.Regeneration.Dull_Pain"
+  ],
+  "power_display_names": [
+    "Damage Resistance",
+    "Instant Healing",
+    "Dull Pain"
+  ],
+  "power_short_helps": [
+    "Auto Res Knockback, Sleep, Disorient, Fear, Confuse",
+    "Click: Self +Regeneration",
+    "Self +Max HP"
+  ]
+}

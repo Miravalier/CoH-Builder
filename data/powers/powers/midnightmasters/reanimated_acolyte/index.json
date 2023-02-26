@@ -1,0 +1,30 @@
+{
+  "name": "Reanimated_Acolyte",
+  "display_name": "Reanimated Acolyte",
+  "display_fullname": "MidnightMasters.Reanimated Acolyte",
+  "display_help": "MidnightMasters",
+  "display_short_help": "MidnightMasters",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHTMASTERS/REANIMATED_ACOLYTE.POWERSETS",
+  "icon": "reanimated_acolyte_set.png",
+  "requires": "",
+  "power_names": [
+    "MidnightMasters.Reanimated_Acolyte.Brawl",
+    "MidnightMasters.Reanimated_Acolyte.Undead_Slaying_Axe",
+    "MidnightMasters.Reanimated_Acolyte.Blackwand"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Undead Slaying Axe",
+    "Blackwand"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smash)",
+    "Melee, Moderate DMG(Lethal), Bonus vs True Undead",
+    "Ranged, High DMG(Negative)"
+  ]
+}

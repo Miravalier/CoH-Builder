@@ -1,0 +1,110 @@
+{
+  "name": "GhoulsClean_Boss_Type_90_Improved",
+  "gender": "GENDER_MALE",
+  "group_name": "GhoulsClean",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Ghoul",
+    "character_class_name": "boss_grunt",
+    "description": "Advanced genetic abominations; the Type 90 appears to be intended as a mass-produced replacement for Power's Division members. They are stronger, faster, and tougher than their compatriots, leading them from the front and inspiring them to fight harder and longer than humanly possible. Genetic meddling has given them immense strength and speed, but once again at the cost of extremely rapid cellular decay.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.3,
+    "additional_rewards": [],
+    "power_full_names": [
+      "P_Ghouls.Dirty_Ghoul_Boss.Hurl_Boulder",
+      "P_Ghouls.Dirty_Ghoul_Boss.Jab",
+      "P_Ghouls.Dirty_Ghoul_Boss.Haymaker",
+      "P_Ghouls.Dirty_Ghoul_Boss.Ghoulish_Inspiration",
+      "P_Ghouls.Ghoul_Boss_Resistance.Resistance",
+      "P_Ghouls.Ghoul_Boss_Resistance.Death_and_Glory",
+      "P_Ghouls.Improved.Fast_Healing",
+      "P_Ghouls.Improved.Dull_Pain",
+      "P_Ghouls.Improved.Integration"
+    ],
+    "power_display_names": [
+      "Hurl Boulder",
+      "Jab",
+      "Haymaker",
+      "Ghoulish Inspiration",
+      "Resistance",
+      "Death and Glory",
+      "Fast Healing",
+      "Dull Pain",
+      "Integration"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "Dirty_Ghoul_Boss",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "Ghoul_Boss_Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "P_Ghouls",
+        "power_set": "Improved",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "Improved Type 90"
+      ],
+      "costumes": [
+        "Ghoul_Clean_Boss_01",
+        "Ghoul_Clean_Boss_02",
+        "Ghoul_Clean_Boss_03",
+        "Ghoul_Clean_Boss_04",
+        "Ghoul_Clean_Boss_05",
+        "Ghoul_Clean_Boss_06"
+      ]
+    }
+  ]
+}

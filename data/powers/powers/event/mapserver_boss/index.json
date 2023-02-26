@@ -1,0 +1,54 @@
+{
+  "name": "Mapserver_Boss",
+  "display_name": "Mapserver Boss",
+  "display_fullname": "Event.Mapserver Boss",
+  "display_help": "Mapserver Boss",
+  "display_short_help": "Mapserver Boss",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/MAPSERVER_BOSS.POWERSETS",
+  "icon": "statesman_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Mapserver_Boss.Latency_Kick",
+    "Event.Mapserver_Boss.Desync_Kick",
+    "Event.Mapserver_Boss.Reconnect_BuildUp",
+    "Event.Mapserver_Boss.Mapserver_Kick",
+    "Event.Mapserver_Boss.DBCorruption_Kick",
+    "Event.Mapserver_Boss.Disconnect_Kick",
+    "Event.Mapserver_Boss.Crash_Kick",
+    "Event.Mapserver_Boss.Beacon_Stomp",
+    "Event.Mapserver_Boss.Spinning_Server"
+  ],
+  "power_display_names": [
+    "Latency Kick",
+    "Desync Kick",
+    "Reconnecting To DBServer",
+    "Mapserver Kick",
+    "Database Corruption Kick",
+    "Disconnection Kick",
+    "Crash Kick",
+    "Missing Beacons Stomp",
+    "Spinning Up Map Instances"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smash), Minor Disorient",
+    "Melee, Moderate DMG(Smash)",
+    "Self +DMG, +To-hit",
+    "Melee, High DMG(Smash), Knockback",
+    "Melee PBAoE, Costume Change",
+    "PBAoE Melee, Foe Absolute Hold",
+    "Melee, Superior DMG(Smash), Foe Endurance Crash, +DMG(All)",
+    "PBAoE Melee, Moderate DMG(Smash), Knockback",
+    "Toggle: PBAoE, Foe Knockback"
+  ]
+}

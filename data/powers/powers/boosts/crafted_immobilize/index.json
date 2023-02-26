@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Immobilize",
+  "display_name": "Crafted Immobilize 10",
+  "display_fullname": "Boosts.Crafted Immobilize",
+  "display_help": "Increases immobilization duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_IMMOBILIZE.POWERSETS",
+  "icon": "crafted_immobilize_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Immobilize.Crafted_Immobilize"
+  ],
+  "power_display_names": [
+    "Invention: Immobilization Duration"
+  ],
+  "power_short_helps": [
+    "Enhances Immobilization Duration"
+  ]
+}

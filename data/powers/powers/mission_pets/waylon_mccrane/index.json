@@ -1,0 +1,34 @@
+{
+  "name": "Waylon_McCrane",
+  "display_name": "Waylon_McCrane",
+  "display_fullname": "Mission Pets.Waylon McCrane",
+  "display_help": "Waylon McCrane",
+  "display_short_help": "Waylon McCrane",
+  "available_level": [
+    0,
+    0,
+    25,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_PETS/WAYLON_MCCRANE.POWERSETS",
+  "icon": "waylon_mccrane_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Pets.Waylon_McCrane.Snap_Shot",
+    "Mission_Pets.Waylon_McCrane.Aimed_Shot",
+    "Mission_Pets.Waylon_McCrane.Stunning_Shot",
+    "Mission_Pets.Waylon_McCrane.Blazing_Arrow"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "Aimed Shot",
+    "Stunning Shot",
+    "Blazing Arrow"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy/Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Ranged Disorient, Minor DMG(Smashing)",
+    "Ranged, Minor DMG(Lethal), Moderate DoT(Fire)"
+  ]
+}

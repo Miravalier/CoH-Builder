@@ -1,0 +1,22 @@
+{
+  "name": "Superior_Attuned_Superior_Vigilant_Assault_F",
+  "display_name": "Superior Attuned Superior Vigilant Assault F",
+  "display_fullname": "Boosts.Superior Attuned Vigilant Assault F",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Gives the slotted power a chance to grant a small amount of damage absorption to the caster and nearby allies for a short time and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%. This effect will be triggered roughly 5 times per minute. This enhancement can only be slotted by Defenders and may be slotted into any Defender damage power.",
+  "display_short_help": "Set: Superior Vigilant Assault",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SUPERIOR_ATTUNED_SUPERIOR_VIGILANT_ASSAULT_F.POWERSETS",
+  "icon": "superior_attuned_superior_vigilant_assault_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Superior_Attuned_Superior_Vigilant_Assault_F.Superior_Attuned_Superior_Vigilant_Assault_F"
+  ],
+  "power_display_names": [
+    "Superior Vigilant Assault: Recharge/Chance for Minor PBAoE +Absorb (Defender)"
+  ],
+  "power_short_helps": [
+    "Increases Attack Rate, Chance for Minor Ally +Absorb"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Paralytic_D",
+  "display_name": "Attuned Paralytic D",
+  "display_fullname": "Boosts.Attuned Paralytic D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and hold duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Paralytic",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_PARALYTIC_D.POWERSETS",
+  "icon": "attuned_paralytic_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Paralytic_D.Attuned_Paralytic_D"
+  ],
+  "power_display_names": [
+    "Paralytic: Hold/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Hold"
+  ]
+}

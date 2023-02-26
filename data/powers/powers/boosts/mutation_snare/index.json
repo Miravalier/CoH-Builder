@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Snare",
+  "display_name": "Mutation Snare",
+  "display_fullname": "Boosts.Mutation Snare",
+  "display_help": "Increases the effectiveness of powers that slow",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SNARE.POWERSETS",
+  "icon": "mutation_snare_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Snare.Mutation_Snare"
+  ],
+  "power_display_names": [
+    "Evolution: Movement Degradation (Slow)"
+  ],
+  "power_short_helps": [
+    "Enhances Slow Powers"
+  ]
+}

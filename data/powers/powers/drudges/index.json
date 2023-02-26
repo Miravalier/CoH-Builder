@@ -1,0 +1,43 @@
+{
+  "name": "Drudges",
+  "display_name": "Drudges",
+  "source_file": "DEFS/POWERS/DRUDGES.CATEGORIES",
+  "archetypes": [
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "drudges.burn",
+    "drudges.hooded_lantern",
+    "drudges.lamplighter",
+    "drudges.lightthepath",
+    "drudges.patrolman",
+    "drudges.radiance_jump1",
+    "drudges.radiance_jump2",
+    "drudges.radiance_jump3",
+    "drudges.resistances",
+    "drudges.shade",
+    "drudges.soul_beast",
+    "drudges.spirit_guide",
+    "drudges.taskmaster",
+    "drudges.watcher"
+  ],
+  "powerset_display_names": [
+    "Burn",
+    "Hooded_Lantern",
+    "Lamplighter",
+    "LightThePath",
+    "Patrolman",
+    "Radiance_Jump1",
+    "Radiance_Jump2",
+    "Radiance_Jump3",
+    "Resistances",
+    "Shade",
+    "Soul Beast",
+    "Spirit_Guide",
+    "Taskmaster",
+    "Watcher"
+  ],
+  "powersets_with_requirements": []
+}

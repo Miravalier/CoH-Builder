@@ -1,0 +1,22 @@
+{
+  "name": "SiphonPower_Controller",
+  "display_name": "Siphon Power",
+  "display_fullname": "Pets.Siphon Power",
+  "display_help": "Kinetics",
+  "display_short_help": "Kinetics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/SIPHONPOWER_CONTROLLER.POWERSETS",
+  "icon": "siphonpower_controller_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.SiphonPower_Controller.SiphonPower"
+  ],
+  "power_display_names": [
+    "Siphon Power"
+  ],
+  "power_short_helps": [
+    "SiphonPower"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Event_Halloween_11_Trial_Minion_Graveyard",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Zombie_Minion",
+    "character_class_name": "minion_grunt",
+    "description": "The dead are restless and are walking the earth. They hunger for your flesh!",
+    "group_description": "Dr. Kane's Horrors",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.01,
+    "additional_rewards": [
+      "ZE_Halloween_ZombieTable"
+    ],
+    "power_full_names": [
+      "Zombies.Zombie.Zombie_Brawl",
+      "Zombies.Zombie.Projectile_Vomit"
+    ],
+    "power_display_names": [
+      "Zombie Brawl",
+      "Projectile Vomit"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Zombies",
+        "power_set": "Zombie",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Reanimated Corpse"
+      ],
+      "costumes": [
+        "Zombie_Invasion_01",
+        "Zombie_Invasion_02",
+        "Zombie_Invasion_03",
+        "Zombie_Invasion_04",
+        "Zombie_Invasion_05",
+        "Zombie_Invasion_06",
+        "Zombie_Invasion_07",
+        "Zombie_Invasion_08",
+        "Zombie_Invasion_09",
+        "Zombie_Invasion_10"
+      ]
+    }
+  ]
+}

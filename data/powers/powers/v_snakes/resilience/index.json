@@ -1,0 +1,22 @@
+{
+  "name": "Resilience",
+  "display_name": "Resilience",
+  "display_fullname": "V Snakes.Resilience",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/RESILIENCE.POWERSETS",
+  "icon": "resilience_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Resilience.Resilience"
+  ],
+  "power_display_names": [
+    "Resilience"
+  ],
+  "power_short_helps": [
+    "Auto Res Fire"
+  ]
+}

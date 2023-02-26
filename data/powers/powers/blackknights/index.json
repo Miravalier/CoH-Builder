@@ -1,0 +1,37 @@
+{
+  "name": "BlackKnights",
+  "display_name": "BlackKnights",
+  "source_file": "DEFS/POWERS/BLACKKNIGHTS.CATEGORIES",
+  "archetypes": [
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "blackknights.archery",
+    "blackknights.broad_sword",
+    "blackknights.dark_blast",
+    "blackknights.dark_miasma",
+    "blackknights.darkness_manipulation",
+    "blackknights.invulnerability",
+    "blackknights.netherpatch",
+    "blackknights.resistances",
+    "blackknights.shield_defense",
+    "blackknights.spear_fighting",
+    "blackknights.titanweapon"
+  ],
+  "powerset_display_names": [
+    "Archery",
+    "Broad Sword",
+    "Dark Blast",
+    "Dark Miasma",
+    "Darkness Manipulation",
+    "Invulnerability",
+    "Nether Patch",
+    "Resistances",
+    "Shield Defense",
+    "Spear_Fighting",
+    "TitanWeapon"
+  ],
+  "powersets_with_requirements": []
+}

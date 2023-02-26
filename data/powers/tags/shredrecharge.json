@@ -1,0 +1,14 @@
+{
+  "tag": "ShredRecharge",
+  "bears": [],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.Blood Frenzy",
+      "temporary_powers.temporary_powers.savage_melee_blood_frenzy"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Blood Frenzy",
+      "temporary_powers.temporary_powers.savage_melee_blood_frenzy_stalker"
+    ]
+  ]
+}

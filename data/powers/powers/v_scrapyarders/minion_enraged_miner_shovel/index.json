@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Enraged_Miner_Shovel",
+  "display_name": "Minion Enraged Miner Shovel",
+  "display_fullname": "V Scrapyarders.Minion Enraged Miner Shovel",
+  "display_help": "Scrapyarders",
+  "display_short_help": "Scrapyarders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SCRAPYARDERS/MINION_ENRAGED_MINER_SHOVEL.POWERSETS",
+  "icon": "minion_enraged_miner_shovel_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Scrapyarders.Minion_Enraged_Miner_Shovel.Shovel"
+  ],
+  "power_display_names": [
+    "Shovel"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam, Stun"
+  ]
+}

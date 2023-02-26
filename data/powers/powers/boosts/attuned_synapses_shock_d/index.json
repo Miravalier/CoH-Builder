@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Synapses_Shock_D",
+  "display_name": "Attuned Synapses Shock D",
+  "display_fullname": "Boosts.Attuned Synapses Shock D",
+  "display_help": "Enhances accuracy by {Boost.Attrib.Accuracy.Scale}%. Enhances damage by {Boost.Attrib.Damage.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Synapse's Shock",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SYNAPSES_SHOCK_D.POWERSETS",
+  "icon": "e_icon_synapses_shock.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Synapses_Shock_D.Attuned_Synapses_Shock_D"
+  ],
+  "power_display_names": [
+    "Synapse's Shock: Accuracy/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +DMG, +Rech"
+  ]
+}

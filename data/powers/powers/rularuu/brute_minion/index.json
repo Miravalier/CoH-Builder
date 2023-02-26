@@ -1,0 +1,26 @@
+{
+  "name": "Brute_Minion",
+  "display_name": "Brute_Minion",
+  "display_fullname": "Rularuu.Brute Minion",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/BRUTE_MINION.POWERSETS",
+  "icon": "brute_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Brute_Minion.Crystal_of_Vigor",
+    "Rularuu.Brute_Minion.Energy_Blast"
+  ],
+  "power_display_names": [
+    "Crystal of Vigor",
+    "Energy Blast"
+  ],
+  "power_short_helps": [
+    "PBAoE, Ally +DMG",
+    "Ranged Energy, Knockback"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Tuatha_Lt_Defender",
+  "display_name": "Tuatha_Lt_Defender",
+  "display_fullname": "Tuatha.Tuatha Lt Defender",
+  "display_help": "The Tuatha",
+  "display_short_help": "The Tuatha",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TUATHA/TUATHA_LT_DEFENDER.POWERSETS",
+  "icon": "tuatha_lt_defender_set.png",
+  "requires": "",
+  "power_names": [
+    "Tuatha.Tuatha_Lt_Defender.Tremor",
+    "Tuatha.Tuatha_Lt_Defender.Earths_Embrace",
+    "Tuatha.Tuatha_Lt_Defender.Root_Throw"
+  ],
+  "power_display_names": [
+    "Tremor",
+    "Earth's Embrace",
+    "Root Throw"
+  ],
+  "power_short_helps": [
+    "PBAoE, Moderate DMG(Smash), Knockback",
+    "Self +HP, Res(Toxic)",
+    "Ranged, Moderate DMG(Smash), Knockback, -Fly"
+  ]
+}

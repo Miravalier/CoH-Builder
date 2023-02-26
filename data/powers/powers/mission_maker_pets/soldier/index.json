@@ -1,0 +1,50 @@
+{
+  "name": "Soldier",
+  "display_name": "Soldier",
+  "display_fullname": "Mission Maker Pets.Soldier",
+  "display_help": "Mercenaries",
+  "display_short_help": "Mercenaries",
+  "available_level": [
+    0,
+    0,
+    0,
+    5,
+    31,
+    0,
+    5,
+    31
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/SOLDIER.POWERSETS",
+  "icon": "soldier_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Soldier.Resistance",
+    "Mission_Maker_Pets.Soldier.Brawl",
+    "Mission_Maker_Pets.Soldier.Super_Leap",
+    "Mission_Maker_Pets.Soldier.Equip",
+    "Mission_Maker_Pets.Soldier.Assault_Rifle_Auto_Fire",
+    "Mission_Maker_Pets.Soldier.Assault_Rifle_Burst",
+    "Mission_Maker_Pets.Soldier.Assault_Rifle_Heavy_Burst",
+    "Mission_Maker_Pets.Soldier.Tactical_Upgrade"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Brawl",
+    "Super Leap",
+    "Equip",
+    "Assault Rifle Auto Fire",
+    "Assault Rifle Burst",
+    "Assault Rifle Heavy Burst",
+    "Tactical Upgrade"
+  ],
+  "power_short_helps": [
+    "Auto Res(Smashing, Lethal, Confuse, Placate)",
+    "Melee, Minor DMG(Smash)",
+    "Self Leap",
+    "Equip",
+    "-Def",
+    "-Def",
+    "-Def",
+    "Tactical Upgrade"
+  ]
+}

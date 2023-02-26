@@ -1,0 +1,17 @@
+{
+  "name": "Peacebringer_Defensive",
+  "display_name": "Defensive",
+  "source_file": "DEFS/POWERS/PEACEBRINGER_DEFENSIVE.CATEGORIES",
+  "archetypes": [
+    "peacebringer"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "peacebringer_defensive.luminous_aura"
+  ],
+  "powerset_display_names": [
+    "Luminous Aura"
+  ],
+  "powersets_with_requirements": []
+}

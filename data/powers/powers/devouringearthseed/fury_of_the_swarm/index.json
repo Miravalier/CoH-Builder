@@ -1,0 +1,22 @@
+{
+  "name": "Fury_of_the_Swarm",
+  "display_name": "Fury_of_the_Swarm",
+  "display_fullname": "DevouringEarthSeed.Fury of the Swarm",
+  "display_help": "Seed of Hamidon Attacks",
+  "display_short_help": "Seed of Hamidon Attacks",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/FURY_OF_THE_SWARM.POWERSETS",
+  "icon": "fury_of_the_swarm_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Fury_of_the_Swarm.Explosion"
+  ],
+  "power_display_names": [
+    "Explosion"
+  ],
+  "power_short_helps": [
+    "Explosion"
+  ]
+}

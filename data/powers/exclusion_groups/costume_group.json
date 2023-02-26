@@ -1,0 +1,1293 @@
+{
+  "group": "Costume_Group",
+  "powers": [
+    [
+      "Prestige.Prestige Costumes.Costume Disable",
+      "prestige.prestige_costumes.reward_costume_off"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Alpha Arachnoid",
+      "prestige.prestige_costumes.reward_alpha_arachnoid"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Ancient Vampire",
+      "prestige.prestige_costumes.reward_ancient_vampire"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnoid",
+      "prestige.prestige_costumes.reward_arachnoid"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Arbiter",
+      "prestige.prestige_costumes.reward_arachnos_arbiter"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos BCU",
+      "prestige.prestige_costumes.reward_arachnos_bcu"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Bane Spider",
+      "prestige.prestige_costumes.reward_arachnos_bane_spider"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Crab Spider",
+      "prestige.prestige_costumes.reward_arachnos_crab_spider"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Devoured",
+      "prestige.prestige_costumes.reward_arachnos_devoured"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Fateweaver",
+      "prestige.prestige_costumes.reward_arachnos_fateweaver"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Fortunata",
+      "prestige.prestige_costumes.reward_arachnos_fortunata"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arachnos Night Widow",
+      "prestige.prestige_costumes.reward_arachnos_nightwidow"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Arisen Mummy",
+      "prestige.prestige_costumes.reward_arisen_mummy"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Banished Pantheon Hull",
+      "prestige.prestige_costumes.reward_pantheon_hull"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Banished Pantheon Shaman",
+      "prestige.prestige_costumes.pantheon_shaman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Blaze of Flame",
+      "prestige.prestige_costumes.legacy_chain"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Cabal Sorceress",
+      "prestige.prestige_costumes.reward_cabal_sorceress"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Carnival Harlequin",
+      "prestige.prestige_costumes.harlequin"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Carnival Ring Mistress",
+      "prestige.prestige_costumes.ring_mistress"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Carnival Strongman",
+      "prestige.prestige_costumes.strongman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Cimeroran Cyclops",
+      "prestige.prestige_costumes.reward_cimeroran_cyclops"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Cimeroran Minotaur",
+      "prestige.prestige_costumes.reward_cimeroran_minotaur"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Agony Mage",
+      "prestige.prestige_costumes.reward_circle_agony_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Behemoth",
+      "prestige.prestige_costumes.reward_circle_behemoth"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Death Mage",
+      "prestige.prestige_costumes.reward_circle_death_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Hellfrost",
+      "prestige.prestige_costumes.reward_circle_hellfrost"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Madness Mage",
+      "prestige.prestige_costumes.reward_circle_madness_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Ruin Mage",
+      "prestige.prestige_costumes.reward_circle_ruin_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Circle Succubus",
+      "prestige.prestige_costumes.reward_circle_succubus"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Clockwork Baryon",
+      "prestige.prestige_costumes.reward_legacy_praetorian_baryon"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Clockwork Cog",
+      "prestige.prestige_costumes.reward_clockwork_cog"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Clockwork Inhibitor",
+      "prestige.prestige_costumes.reward_legacy_praetorian_inhibitor"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Clockwork Prince",
+      "prestige.prestige_costumes.reward_clockwork_prince"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Consortium Guard",
+      "prestige.prestige_costumes.consortium_guard"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Coralax Blue Hybrid",
+      "prestige.prestige_costumes.reward_coralax_lt"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Coralax Green Hybrid",
+      "prestige.prestige_costumes.coralax_minion"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Coralax Red Hybrid",
+      "prestige.prestige_costumes.coralax_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Council Ascendant",
+      "prestige.prestige_costumes.reward_council_ascendant"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Council Galaxy",
+      "prestige.prestige_costumes.council_galaxy"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Council Penumbra",
+      "prestige.prestige_costumes.council_penumbra"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Council Vampyr",
+      "prestige.prestige_costumes.reward_council_vampyr"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Agent",
+      "prestige.prestige_costumes.crey_agent"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Cryogenicist",
+      "prestige.prestige_costumes.reward_crey_cryogenicist"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Gamma Tank",
+      "prestige.prestige_costumes.reward_crey_gammatank"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Juggernaut",
+      "prestige.prestige_costumes.reward_crey_juggernaut"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Protector",
+      "prestige.prestige_costumes.crey_powersuit"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Scorpinoid Tank",
+      "prestige.prestige_costumes.reward_crey_scorpinoid"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Crey Security",
+      "prestige.prestige_costumes.security_guard"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Default Mini Mode",
+      "prestige.prestige_costumes.reward_deluxe_mode_defaultmini"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Default Mode",
+      "prestige.prestige_costumes.reward_deluxe_mode_default"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Developer",
+      "prestige.prestige_costumes.reward_deluxe_stupid"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Devoured",
+      "prestige.prestige_costumes.reward_de_devoured"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Devouring Earth Crystal",
+      "prestige.prestige_costumes.reward_de_crystal"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Devouring Earth Mushroom",
+      "prestige.prestige_costumes.reward_de_mushroom"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Devouring Earth Plant",
+      "prestige.prestige_costumes.reward_de_plant"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Devouring Earth Rock",
+      "prestige.prestige_costumes.reward_de_rock"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Doc Buzzsaw",
+      "prestige.prestige_costumes.vahzilok_buzzsaw"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Dominatrix Servant",
+      "prestige.prestige_costumes.reward_dominatrix_servant"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Drudge Enforcer",
+      "prestige.prestige_costumes.reward_drudge_enforcer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Drudge Taskmaster",
+      "prestige.prestige_costumes.reward_drudge_taskmaster"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Failed Experiment Type 53",
+      "prestige.prestige_costumes.ghoul"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Failed Experiment Type 90",
+      "prestige.prestige_costumes.reward_experiments_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Fake Nemesis",
+      "prestige.prestige_costumes.reward_nemesis_fakenemesis"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Fir Bolg",
+      "prestige.prestige_costumes.reward_firbolg"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freaklok Disc Jockey",
+      "prestige.prestige_costumes.reward_freaklok_discjockey"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Mad Freak",
+      "prestige.prestige_costumes.reward_freakshow_freak"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Noise Tank",
+      "prestige.prestige_costumes.reward_freakshow_noisetank"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Rikti Tank",
+      "prestige.prestige_costumes.reward_freakshow_riktitank"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Stunner",
+      "prestige.prestige_costumes.freakshow_stunner"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Super Stunner",
+      "prestige.prestige_costumes.reward_freakshow_stunner"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Swiper",
+      "prestige.prestige_costumes.reward_freakshow_swiper"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Freakshow Tank",
+      "prestige.prestige_costumes.freakshow_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Goldbricker AU-Rifter",
+      "prestige.prestige_costumes.reward_goldbricker_aurifter"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Goldbricker Bombardier",
+      "prestige.prestige_costumes.reward_goldbricker_bombardier"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Goldbricker Boomer",
+      "prestige.prestige_costumes.reward_goldbricker_boomer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Goldbricker Smelter",
+      "prestige.prestige_costumes.reward_goldbricker_smelter"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Goldbricker Thug",
+      "prestige.prestige_costumes.goldbricker"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Golden Brickernaut",
+      "prestige.prestige_costumes.reward_golden_brickernaut"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Hand of Artemis",
+      "prestige.prestige_costumes.reward_koa_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Hellion Damned",
+      "prestige.prestige_costumes.reward_hellion_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Hellion Thug",
+      "prestige.prestige_costumes.hellion_thug"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Hunter Ghoul",
+      "prestige.prestige_costumes.reward_ghouls_hunter"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Hydra Man O' War",
+      "prestige.prestige_costumes.reward_hydra_manowar"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Hydra Spawn",
+      "prestige.prestige_costumes.reward_hydra_spawn"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: IDF Ranger",
+      "prestige.prestige_costumes.idf_ranger"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Incarnate Tsoo Sorcerer",
+      "prestige.prestige_costumes.reward_tsoo_incarnatesorcerer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Infested Devoured",
+      "prestige.prestige_costumes.reward_de_infested_devoured"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Knives Mercenary",
+      "prestige.prestige_costumes.knives_of_artemis"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Circle Agony Mage",
+      "prestige.prestige_costumes.reward_legacy_circle_agony_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Circle Death Mage",
+      "prestige.prestige_costumes.reward_legacy_circle_death_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Circle Guide",
+      "prestige.prestige_costumes.reward_legacy_circle_guide"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Circle Life Mage",
+      "prestige.prestige_costumes.reward_legacy_circle_lieutenant"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Circle Madness Mage",
+      "prestige.prestige_costumes.reward_legacy_circle_madness_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Circle Ruin Mage",
+      "prestige.prestige_costumes.reward_legacy_circle_mage"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Rikti Ambassador",
+      "prestige.prestige_costumes.reward_legacy_rikti_ambassador"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Rikti Chief Soldier",
+      "prestige.prestige_costumes.reward_legacy_rikti_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Rikti Gunman",
+      "prestige.prestige_costumes.reward_legacy_rikti_gunman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Rikti Infantry",
+      "prestige.prestige_costumes.reward_legacy_rikti_minion"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Rikti Mesmerist",
+      "prestige.prestige_costumes.reward_legacy_rikti_lieutenant"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Skulls Bone Daddy",
+      "prestige.prestige_costumes.reward_skulls_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Skulls Thug",
+      "prestige.prestige_costumes.skulls"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Legacy Thorn Wielder",
+      "prestige.prestige_costumes.reward_legacy_thorn_wielder"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Longbow Ballista",
+      "prestige.prestige_costumes.reward_longbow_ballista"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Longbow Mender",
+      "prestige.prestige_costumes.reward_longbow_mender"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Longbow Warden",
+      "prestige.prestige_costumes.reward_longbow_warden"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Lost Anathema",
+      "prestige.prestige_costumes.reward_lost_anathema"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Lost Headman",
+      "prestige.prestige_costumes.reward_lost_headman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Lost Prelate",
+      "prestige.prestige_costumes.reward_lost_prelate"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Lost Thug",
+      "prestige.prestige_costumes.lost"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Malta Gunslinger",
+      "prestige.prestige_costumes.malta_gunslinger"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Malta Operative",
+      "prestige.prestige_costumes.malta_operative"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Mini Mode",
+      "prestige.prestige_costumes.reward_deluxe_mode_mini"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Mk-VI Victoria",
+      "prestige.prestige_costumes.victoria"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Nemesis Lieutenant",
+      "prestige.prestige_costumes.reward_nemesis_lieutenant"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Nemesis Soldier",
+      "prestige.prestige_costumes.nemesis_soldier"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Nemesis Warhulk",
+      "prestige.prestige_costumes.reward_nemesis_warhulk"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Nictus Cyclops",
+      "prestige.prestige_costumes.reward_nictus_cyclops"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Nictus Minotaur",
+      "prestige.prestige_costumes.reward_nictus_minotaur"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Olympian Guard",
+      "prestige.prestige_costumes.olympian_guard"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Outcast Brick",
+      "prestige.prestige_costumes.outcast"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: PPD Cop",
+      "prestige.prestige_costumes.ppd_cop"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: PPD Equalizer",
+      "prestige.prestige_costumes.reward_ppd_equalizer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: PPD Hardsuit",
+      "prestige.prestige_costumes.ppd_hardsuit"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: PPD SWAT",
+      "prestige.prestige_costumes.ppd_swat"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Painted Ghoul",
+      "prestige.prestige_costumes.reward_ghouls_painted"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Paragon Protector",
+      "prestige.prestige_costumes.paragon_protector"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Praetorian Clockwork",
+      "prestige.prestige_costumes.praetorian_clockwork"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Praetorian Policeman",
+      "prestige.prestige_costumes.praetorian_police"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Prototype Fake Nemesis",
+      "prestige.prestige_costumes.reward_legacy_vintagefakenemesis"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Resistance Officer",
+      "prestige.prestige_costumes.reward_resistance_officer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Resistance Runesoldier",
+      "prestige.prestige_costumes.reward_resistance_runesoldier"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Chief Soldier",
+      "prestige.prestige_costumes.reward_rikti_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Commander",
+      "prestige.prestige_costumes.reward_rikti_commander"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Diplomat",
+      "prestige.prestige_costumes.reward_rikti_diplomat"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Gunman",
+      "prestige.prestige_costumes.reward_rikti_gunman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Infantry",
+      "prestige.prestige_costumes.reward_rikti_infantry"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Magus",
+      "prestige.prestige_costumes.reward_rikti_magus"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Master-At-Arms",
+      "prestige.prestige_costumes.reward_rikti_masteratarms"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Mentalist",
+      "prestige.prestige_costumes.rikti_mentalist"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Priest",
+      "prestige.prestige_costumes.reward_rikti_priest"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rikti Warlord",
+      "prestige.prestige_costumes.reward_rikti_warlord"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Riptide",
+      "prestige.prestige_costumes.riptide"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rogue Arachnos Fortunata",
+      "prestige.prestige_costumes.reward_roguearachnos_fortunata"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Rulu-Shin",
+      "prestige.prestige_costumes.rulu_shin"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Scrapyarder Foreman",
+      "prestige.prestige_costumes.scrapyarder"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Sky Raider Jumpbot",
+      "prestige.prestige_costumes.reward_skyraider_jumpbot"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Sky Raider Officer",
+      "prestige.prestige_costumes.reward_skyraider_officer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Sky Raider Thug",
+      "prestige.prestige_costumes.sky_raiders"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Snow Beast",
+      "prestige.prestige_costumes.reward_snowbeast"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Spectral Pirate",
+      "prestige.prestige_costumes.pirate"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Supa Troll",
+      "prestige.prestige_costumes.reward_supa_troll"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Syndicate Adept",
+      "prestige.prestige_costumes.reward_syndicate_adept"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Syndicate Striker",
+      "prestige.prestige_costumes.reward_syndicate_striker"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Talons Huntress",
+      "prestige.prestige_costumes.talons_huntress"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Troll Caliban",
+      "prestige.prestige_costumes.reward_troll_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Troll Thug",
+      "prestige.prestige_costumes.troll"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Tsoo Ancestral Spirit",
+      "prestige.prestige_costumes.reward_tsoo_ancestral_spirit"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Tsoo Death's Head",
+      "prestige.prestige_costumes.reward_tsoo_boss"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Tsoo Green Inkman",
+      "prestige.prestige_costumes.tsoo_inkman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Tsoo Red Inkman",
+      "prestige.prestige_costumes.reward_tsoo_redinkman"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Tsoo Sorcerer",
+      "prestige.prestige_costumes.reward_tsoo_sorcerer"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Undefined Mini Mode",
+      "prestige.prestige_costumes.reward_deluxe_mode_blobbymini"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Undefined Mode",
+      "prestige.prestige_costumes.reward_deluxe_mode_blobby"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Vahzilok Eidolon",
+      "prestige.prestige_costumes.vahzilok_eidolon"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Vahzilok Meat Doctor",
+      "prestige.prestige_costumes.reward_vahzilok_meatdoctor"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Vahzilok Reaper",
+      "prestige.prestige_costumes.reward_vahzilok_reaper"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Vanguard Shield",
+      "prestige.prestige_costumes.reward_vanguard_mode_shield"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Vanguard Sword",
+      "prestige.prestige_costumes.reward_vanguard_mode_sword"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Voice of the All-Mother",
+      "prestige.prestige_costumes.reward_de_allmothervoice"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Void Hunter",
+      "prestige.prestige_costumes.reward_voidhunter"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Void Hunter Harbinger",
+      "prestige.prestige_costumes.reward_voidhunter_harbinger"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Warriors Thug",
+      "prestige.prestige_costumes.warrior_thug"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Warworks BCU",
+      "prestige.prestige_costumes.reward_praetorian_bcu"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Wyvern Fang Agent",
+      "prestige.prestige_costumes.reward_wyvern_fang"
+    ],
+    [
+      "Prestige.Prestige Costumes.Costume: Wyvern Sting Agent",
+      "prestige.prestige_costumes.reward_wyvern_sting"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Alpha Arachnoid",
+      "temporary_powers.temporary_powers.hc_alpha_arachnoid"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnoid",
+      "temporary_powers.temporary_powers.hc_arachnoid"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Arbiter",
+      "temporary_powers.temporary_powers.hc_arachnos_arbiter"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos BCU",
+      "temporary_powers.temporary_powers.hc_arachnos_bcu"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Bane Spider",
+      "temporary_powers.temporary_powers.hc_arachnos_bane_spider"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Crab Spider",
+      "temporary_powers.temporary_powers.hc_arachnos_crab_spider"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Devoured",
+      "temporary_powers.temporary_powers.hc_arachnos_devoured"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Fateweaver",
+      "temporary_powers.temporary_powers.hc_arachnos_fateweaver"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Fortunata",
+      "temporary_powers.temporary_powers.hc_arachnos_fortunata"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Arachnos Night Widow",
+      "temporary_powers.temporary_powers.hc_arachnos_nightwidow"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Banished Pantheon Hull",
+      "temporary_powers.temporary_powers.hc_pantheon_hull"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Banished Pantheon Shaman",
+      "temporary_powers.temporary_powers.hc_witchdoctor"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Blaze of Flame",
+      "temporary_powers.temporary_powers.hc_legacychain"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Cabal Sorceress",
+      "temporary_powers.temporary_powers.hc_cabal_sorceress"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Carnival Harlequin",
+      "temporary_powers.temporary_powers.hc_harlequin"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Carnival Ring Mistress",
+      "temporary_powers.temporary_powers.hc_ring_mistress"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Carnival Strongman",
+      "temporary_powers.temporary_powers.hc_strongman"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Cimeroran Cyclops",
+      "temporary_powers.temporary_powers.hc_cimeroran_cyclops"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Cimeroran Minotaur",
+      "temporary_powers.temporary_powers.hc_cimeroran_minotaur"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Agony Mage",
+      "temporary_powers.temporary_powers.hc_circle_agony_mage"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Behemoth",
+      "temporary_powers.temporary_powers.hc_circle_behemoth"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Death Mage",
+      "temporary_powers.temporary_powers.hc_circle_death_mage"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Hellfrost",
+      "temporary_powers.temporary_powers.hc_circle_hellfrost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Madness Mage",
+      "temporary_powers.temporary_powers.hc_circle_madness_mage"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Ruin Mage",
+      "temporary_powers.temporary_powers.hc_circle_ruin_mage"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Circle Succubus",
+      "temporary_powers.temporary_powers.hc_circle_succubus"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Clockwork Cog",
+      "temporary_powers.temporary_powers.hc_clockwork_cog"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Clockwork Prince",
+      "temporary_powers.temporary_powers.hc_clockwork_prince"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Consortium Guard",
+      "temporary_powers.temporary_powers.hc_guard"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Coralax Blue Hybrid",
+      "temporary_powers.temporary_powers.hc_coralax_lt"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Coralax Green Hybrid",
+      "temporary_powers.temporary_powers.hc_coralax"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Coralax Red Hybrid",
+      "temporary_powers.temporary_powers.hc_coralax_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Council Ascendant",
+      "temporary_powers.temporary_powers.hc_council_ascendant"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Council Galaxy",
+      "temporary_powers.temporary_powers.hc_council_galaxy"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Council Penumbra",
+      "temporary_powers.temporary_powers.hc_council_penumbra"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Council Vampyr",
+      "temporary_powers.temporary_powers.hc_council_vampyr"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Agent",
+      "temporary_powers.temporary_powers.hc_crey_agent"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Cryogenicist",
+      "temporary_powers.temporary_powers.hc_crey_cryogenicist"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Gamma Tank",
+      "temporary_powers.temporary_powers.hc_crey_gammatank"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Juggernaut",
+      "temporary_powers.temporary_powers.hc_crey_juggernaut"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Protector",
+      "temporary_powers.temporary_powers.hc_crey_powersuit"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Scorpinoid Tank",
+      "temporary_powers.temporary_powers.hc_crey_scorpinoid"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Crey Security",
+      "temporary_powers.temporary_powers.hc_crey_security"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Devoured",
+      "temporary_powers.temporary_powers.hc_de_devoured"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Devouring Earth Crystal",
+      "temporary_powers.temporary_powers.hc_de_crystal"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Devouring Earth Mushroom",
+      "temporary_powers.temporary_powers.hc_de_mushroom"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Devouring Earth Plant",
+      "temporary_powers.temporary_powers.hc_de_plant"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Devouring Earth Rock",
+      "temporary_powers.temporary_powers.hc_de_rock"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Doc Buzzsaw",
+      "temporary_powers.temporary_powers.hc_vahzilok_buzzsaw"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Dominatrix Servant",
+      "temporary_powers.temporary_powers.hc_dominatrix_servant"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Drudge Enforcer",
+      "temporary_powers.temporary_powers.hc_drudge_enforcer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Drudge Taskmaster",
+      "temporary_powers.temporary_powers.hc_drudge_taskmaster"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Failed Experiment Type 53",
+      "temporary_powers.temporary_powers.hc_ghoul"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Failed Experiment Type 90",
+      "temporary_powers.temporary_powers.hc_experiments_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Fake Nemesis",
+      "temporary_powers.temporary_powers.hc_nemesis_fakenemesis"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freaklok Disc Jockey",
+      "temporary_powers.temporary_powers.hc_freaklok_discjockey"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Mad Freak",
+      "temporary_powers.temporary_powers.hc_freakshow_freak"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Noise Tank",
+      "temporary_powers.temporary_powers.hc_freakshow_noisetank"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Rikti Tank",
+      "temporary_powers.temporary_powers.hc_freakshow_riktitank"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Stunner",
+      "temporary_powers.temporary_powers.hc_freakshow_stunner"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Super Stunner",
+      "temporary_powers.temporary_powers.hc_freakshow_s_stunner"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Swiper",
+      "temporary_powers.temporary_powers.hc_freakshow_swiper"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Freakshow Tank",
+      "temporary_powers.temporary_powers.hc_freakshow_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Goldbricker AU-Rifter",
+      "temporary_powers.temporary_powers.hc_goldbricker_aurifter"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Goldbricker Bombardier",
+      "temporary_powers.temporary_powers.hc_goldbricker_bombardier"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Goldbricker Boomer",
+      "temporary_powers.temporary_powers.hc_goldbricker_boomer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Goldbricker Smelter",
+      "temporary_powers.temporary_powers.hc_goldbricker_smelter"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Goldbricker Thug",
+      "temporary_powers.temporary_powers.hc_goldbricker"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Golden Brickernaut",
+      "temporary_powers.temporary_powers.hc_golden_brickernaut"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Hand of Artemis",
+      "temporary_powers.temporary_powers.hc_koa_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Hellion Damned",
+      "temporary_powers.temporary_powers.hc_hellion_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Hellion Thug",
+      "temporary_powers.temporary_powers.hc_hellion_thug"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Hunter Ghoul",
+      "temporary_powers.temporary_powers.hc_ghouls_hunter"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Hydra Man O' War",
+      "temporary_powers.temporary_powers.hc_hydra_manowar"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Hydra Spawn",
+      "temporary_powers.temporary_powers.hc_hydra_spawn"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: IDF Ranger",
+      "temporary_powers.temporary_powers.hc_idf_ranger"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Incarnate Tsoo Sorcerer",
+      "temporary_powers.temporary_powers.hc_tsoo_incarnatesorcerer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Infested Devoured",
+      "temporary_powers.temporary_powers.hc_de_infested_devoured"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Knives Mercenary",
+      "temporary_powers.temporary_powers.hc_koa"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Longbow Ballista",
+      "temporary_powers.temporary_powers.hc_longbow_ballista"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Longbow Mender",
+      "temporary_powers.temporary_powers.hc_longbow_mender"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Longbow Warden",
+      "temporary_powers.temporary_powers.hc_longbow_warden"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Lost Anathema",
+      "temporary_powers.temporary_powers.hc_lost_anathema"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Lost Headman",
+      "temporary_powers.temporary_powers.hc_lost_headman"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Lost Prelate",
+      "temporary_powers.temporary_powers.hc_lost_prelate"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Lost Thug",
+      "temporary_powers.temporary_powers.hc_lost"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Malta Gunslinger",
+      "temporary_powers.temporary_powers.hc_maltagunslinger"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Malta Operative",
+      "temporary_powers.temporary_powers.hc_maltaop"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Mk-VI Victoria",
+      "temporary_powers.temporary_powers.hc_victoria"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Nemesis Lieutenant",
+      "temporary_powers.temporary_powers.hc_nemesis_lieutenant"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Nemesis Soldier",
+      "temporary_powers.temporary_powers.hc_nemesis_soldier"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Nemesis Warhulk",
+      "temporary_powers.temporary_powers.hc_nemesis_warhulk"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Nictus Cyclops",
+      "temporary_powers.temporary_powers.hc_nictus_cyclops"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Nictus Minotaur",
+      "temporary_powers.temporary_powers.hc_nictus_minotaur"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Olympian Guard",
+      "temporary_powers.temporary_powers.hc_olympian_guard"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Outcast Brick",
+      "temporary_powers.temporary_powers.hc_outcast_thug"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: PPD Cop",
+      "temporary_powers.temporary_powers.hc_ppd_cop"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: PPD Equalizer",
+      "temporary_powers.temporary_powers.hc_ppd_equalizer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: PPD Hardsuit",
+      "temporary_powers.temporary_powers.hc_ppd_hardsuit"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: PPD SWAT",
+      "temporary_powers.temporary_powers.hc_ppd_swat"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Painted Ghoul",
+      "temporary_powers.temporary_powers.hc_ghouls_painted"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Paragon Protector",
+      "temporary_powers.temporary_powers.hc_pp"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Praetorian Clockwork",
+      "temporary_powers.temporary_powers.hc_praetorian_clockwork"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Praetorian Policeman",
+      "temporary_powers.temporary_powers.hc_praetorian_police"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Resistance Officer",
+      "temporary_powers.temporary_powers.hc_resistance_officer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Resistance Runesoldier",
+      "temporary_powers.temporary_powers.hc_resistance_runesoldier"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Chief Soldier",
+      "temporary_powers.temporary_powers.hc_rikti_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Commander",
+      "temporary_powers.temporary_powers.hc_rikti_commander"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Diplomat",
+      "temporary_powers.temporary_powers.hc_rikti_diplomat"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Gunman",
+      "temporary_powers.temporary_powers.hc_rikti_gunman"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Infantry",
+      "temporary_powers.temporary_powers.hc_rikti_infantry"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Magus",
+      "temporary_powers.temporary_powers.hc_rikti_magus"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Master-At-Arms",
+      "temporary_powers.temporary_powers.hc_rikti_masteratarms"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Mentalist",
+      "temporary_powers.temporary_powers.hc_rikti_mentalist"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Priest",
+      "temporary_powers.temporary_powers.hc_rikti_priest"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rikti Warlord",
+      "temporary_powers.temporary_powers.hc_rikti_warlord"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Riptide",
+      "temporary_powers.temporary_powers.hc_riptide"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rogue Arachnos Fortunata",
+      "temporary_powers.temporary_powers.hc_roguearachnos_fortunata"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Rulu-Shin",
+      "temporary_powers.temporary_powers.hc_rulu_shin"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Scrapyarder Foreman",
+      "temporary_powers.temporary_powers.hc_scrapyarder"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Skulls Bone Daddy",
+      "temporary_powers.temporary_powers.hc_skulls_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Skulls Thug",
+      "temporary_powers.temporary_powers.hc_skulls"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Sky Raider Jumpbot",
+      "temporary_powers.temporary_powers.hc_skyraider_jumpbot"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Sky Raider Officer",
+      "temporary_powers.temporary_powers.hc_skyraider_officer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Sky Raider Thug",
+      "temporary_powers.temporary_powers.hc_skyraiders_wings"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Spectral Pirate",
+      "temporary_powers.temporary_powers.hc_pirate"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Supa Troll",
+      "temporary_powers.temporary_powers.hc_supa_troll"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Syndicate Adept",
+      "temporary_powers.temporary_powers.hc_syndicate_adept"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Syndicate Striker",
+      "temporary_powers.temporary_powers.hc_syndicate_striker"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Talons Huntress",
+      "temporary_powers.temporary_powers.hc_talons_huntress"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Troll Caliban",
+      "temporary_powers.temporary_powers.hc_troll_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Troll Thug",
+      "temporary_powers.temporary_powers.hc_troll"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Tsoo Ancestral Spirit",
+      "temporary_powers.temporary_powers.hc_tsoo_ancestral_spirit"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Tsoo Death's Head",
+      "temporary_powers.temporary_powers.hc_tsoo_boss"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Tsoo Green Inkman",
+      "temporary_powers.temporary_powers.hc_inkman"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Tsoo Red Inkman",
+      "temporary_powers.temporary_powers.hc_tsoo_redinkman"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Tsoo Sorcerer",
+      "temporary_powers.temporary_powers.hc_tsoo_sorcerer"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Vahzilok Eidolon",
+      "temporary_powers.temporary_powers.hc_eidolan"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Vahzilok Meat Doctor",
+      "temporary_powers.temporary_powers.hc_vahzilok_meatdoctor"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Vahzilok Reaper",
+      "temporary_powers.temporary_powers.hc_vahzilok_reaper"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Voice of the All-Mother",
+      "temporary_powers.temporary_powers.hc_de_allmothervoice"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Void Hunter",
+      "temporary_powers.temporary_powers.hc_voidhunter"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Void Hunter Harbinger",
+      "temporary_powers.temporary_powers.hc_voidhunter_harbinger"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Warriors Thug",
+      "temporary_powers.temporary_powers.hc_warrior_thug"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Warworks BCU",
+      "temporary_powers.temporary_powers.hc_praetorian_bcu"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Wyvern Fang Agent",
+      "temporary_powers.temporary_powers.hc_wyvern_fang"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Costume: Wyvern Sting Agent",
+      "temporary_powers.temporary_powers.hc_wyvern_sting"
+    ]
+  ]
+}

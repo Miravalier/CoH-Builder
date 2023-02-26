@@ -1,0 +1,50 @@
+{
+  "name": "Shield_Defense",
+  "display_name": "Shield Defense",
+  "display_fullname": "Mission Maker Secondary.Shield Defense",
+  "display_help": "Your mastery over the shield protects you from all forms of attacks in the form of defense as well as some moderate damage resistance to most types of damage. Your training with the shield enables you to protect your nearby allies boosting their defenses.",
+  "display_short_help": "Shield Defense",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/SHIELD_DEFENSE.POWERSETS",
+  "icon": "shield_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Shield_Defense.Deflection",
+    "Mission_Maker_Secondary.Shield_Defense.Battle_Agility",
+    "Mission_Maker_Secondary.Shield_Defense.True_Grit",
+    "Mission_Maker_Secondary.Shield_Defense.Active_Defense",
+    "Mission_Maker_Secondary.Shield_Defense.Against_All_Odds",
+    "Mission_Maker_Secondary.Shield_Defense.Phalanx_Fighting",
+    "Mission_Maker_Secondary.Shield_Defense.Grant_Cover",
+    "Mission_Maker_Secondary.Shield_Defense.One_with_the_Shield"
+  ],
+  "power_display_names": [
+    "Deflection",
+    "Battle Agility",
+    "True Grit",
+    "Active Defense",
+    "Against All Odds",
+    "Phalanx Fighting",
+    "Grant Cover",
+    "One with the Shield"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +DEF(Melee), +Res(Lethal, Smashing)",
+    "Toggle: Self +DEF(Ranged, AoE), +Res(Defense Debuff)",
+    "Auto: Self +Res (Cold, Energy, Fire, Negative Energy, Toxic), +MaxHealth",
+    "Self Res (Disorient, Hold, Immobilize, Sleep, Fear, Confuse, Repel, Knockback, Defense Debuff)",
+    "Toggle: Self +DMG, Foe -DMG",
+    "Auto: Self Special +DEF(Melee, Ranged, AoE)",
+    "PBAoE, Team (but not self) +DEF(All but Psionic), Team +RES(Defense Debuff, Recharge Debuff)",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, Repel, Knockback, All DMG but Psi), +Recovery, +Max HP"
+  ]
+}

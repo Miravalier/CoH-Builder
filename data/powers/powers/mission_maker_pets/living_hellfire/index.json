@@ -1,0 +1,30 @@
+{
+  "name": "Living_Hellfire",
+  "display_name": "Living Hellfire",
+  "display_fullname": "Mission Maker Pets.Living Hellfire",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/LIVING_HELLFIRE.POWERSETS",
+  "icon": "living_hellfire_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Living_Hellfire.Resistance",
+    "Mission_Maker_Pets.Living_Hellfire.Self_Destruct",
+    "Mission_Maker_Pets.Living_Hellfire.Claw_Rake"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Self Destruct",
+    "Claw Rake"
+  ],
+  "power_short_helps": [
+    "Auto: Res(Fire, Toxic)",
+    "Self Destruct",
+    "Melee, Moderate DMG(Lethal/Toxic)"
+  ]
+}

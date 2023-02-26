@@ -1,0 +1,54 @@
+{
+  "name": "Chimera",
+  "display_name": "Chimera",
+  "display_fullname": "Magisterium.Chimera",
+  "display_help": "Chimera",
+  "display_short_help": "Chimera",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/CHIMERA.POWERSETS",
+  "icon": "chimera_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Chimera.Ninja_Vanish",
+    "Magisterium.Chimera.Surveillance",
+    "Magisterium.Chimera.Snap_Shot",
+    "Magisterium.Chimera.Aimed_Shot",
+    "Magisterium.Chimera.Fistful_of_Arrows",
+    "Magisterium.Chimera.Blazing_Arrow",
+    "Magisterium.Chimera.Explosive_Arrow",
+    "Magisterium.Chimera.Kuji-In_Retsu",
+    "Magisterium.Chimera.Master_Shot"
+  ],
+  "power_display_names": [
+    "Ninja Vanish",
+    "Surveillance",
+    "Snap Shot",
+    "Aimed Shot",
+    "Fistful of Arrows",
+    "Blazing Arrow",
+    "Explosive Arrow",
+    "Kuji-In Retsu",
+    "Master Shot"
+  ],
+  "power_short_helps": [
+    "Self +Absorb, Special",
+    "Ranged, Minor DMG(Lethal)",
+    "Ranged, Minor DMG(Lethal)",
+    "Ranged, Moderate DMG(Lethal)",
+    "Ranged (Cone), Moderate DMG(Lethal)",
+    "Ranged, High DMG(Lethal), Minor DoT(Fire)",
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Smash), Knockback",
+    "Special",
+    "Ranged, Minor DMG(Lethal)"
+  ]
+}

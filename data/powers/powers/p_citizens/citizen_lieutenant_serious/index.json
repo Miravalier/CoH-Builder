@@ -1,0 +1,30 @@
+{
+  "name": "Citizen_Lieutenant_Serious",
+  "display_name": "Citizen_Lieutenant_Serious",
+  "display_fullname": "P Citizens.Citizen Lieutenant Serious",
+  "display_help": "Citizens",
+  "display_short_help": "Citizens",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_CITIZENS/CITIZEN_LIEUTENANT_SERIOUS.POWERSETS",
+  "icon": "citizen_lieutenant_serious_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Citizens.Citizen_Lieutenant_Serious.Rock",
+    "P_Citizens.Citizen_Lieutenant_Serious.Molotov_Cocktail",
+    "P_Citizens.Citizen_Lieutenant_Serious.Brawl"
+  ],
+  "power_display_names": [
+    "Rock",
+    "Molotov Cocktail",
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Ranged Smash",
+    "Targeted AoE Fire, DoT(Fire)",
+    "Melee Smash"
+  ]
+}

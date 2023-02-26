@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Interrupt",
+  "display_name": "Mutation Interrupt",
+  "display_fullname": "Boosts.Mutation Interrupt",
+  "display_help": "Decreases the interrupt time of powers that can be interrupted.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_INTERRUPT.POWERSETS",
+  "icon": "mutation_interrupt_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Interrupt.Mutation_Interrupt"
+  ],
+  "power_display_names": [
+    "Catalyst: Chronometric Manipulation (Interrupt)"
+  ],
+  "power_short_helps": [
+    "Decreases Interrupt Time"
+  ]
+}

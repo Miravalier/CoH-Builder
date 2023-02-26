@@ -1,0 +1,22 @@
+{
+  "name": "Crazed_Bat",
+  "display_name": "Crazed_Bat",
+  "display_fullname": "Portal.Crazed Bat",
+  "display_help": "The Crazed",
+  "display_short_help": "The Crazed",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CRAZED_BAT.POWERSETS",
+  "icon": "crazed_bat_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Crazed_Bat.Baseball_Bat"
+  ],
+  "power_display_names": [
+    "Baseball Bat"
+  ],
+  "power_short_helps": [
+    "Melee Smash, Med Dam"
+  ]
+}

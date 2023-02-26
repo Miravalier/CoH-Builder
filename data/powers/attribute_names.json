@@ -1,0 +1,1791 @@
+{
+  "pp_defense": [
+    {
+      "pch_name": "Ranged_Attack",
+      "pch_display_name": "Ranged",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Melee_Attack",
+      "pch_display_name": "Melee",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "AOE_Attack",
+      "pch_display_name": "Area",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Smashing_Attack",
+      "pch_display_name": "Smashing",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Lethal_Attack",
+      "pch_display_name": "Lethal",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Fire_Attack",
+      "pch_display_name": "Fire",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Cold_Attack",
+      "pch_display_name": "Cold",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Energy_Attack",
+      "pch_display_name": "Energy",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Negative_Energy_Attack",
+      "pch_display_name": "Negative_Energy",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Psionic_Attack",
+      "pch_display_name": "Psionic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Toxic_Attack",
+      "pch_display_name": "Toxic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Radiation_Attack",
+      "pch_display_name": "Radiation",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Electrical_Attack",
+      "pch_display_name": "Electrical",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sonic_Attack",
+      "pch_display_name": "Sonic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Quantum_Attack",
+      "pch_display_name": "Quantum",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Chain_Attack",
+      "pch_display_name": "Chain",
+      "pch_icon_name": null
+    }
+  ],
+  "pp_damage": [
+    {
+      "pch_name": "Smashing",
+      "pch_display_name": "Smashing",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Lethal",
+      "pch_display_name": "Lethal",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Fire",
+      "pch_display_name": "Fire",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Cold",
+      "pch_display_name": "Cold",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Energy",
+      "pch_display_name": "Energy",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Negative_Energy",
+      "pch_display_name": "Negative_Energy",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Psionic",
+      "pch_display_name": "Psionic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Heal",
+      "pch_display_name": "Healing",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Special",
+      "pch_display_name": "Special",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Toxic",
+      "pch_display_name": "Toxic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Radiation",
+      "pch_display_name": "Radiation",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Electrical",
+      "pch_display_name": "Electrical",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sonic",
+      "pch_display_name": "Sonic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Quantum",
+      "pch_display_name": "Quantum",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Unique1",
+      "pch_display_name": "Unique",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Unique2",
+      "pch_display_name": "Unique",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Unique3",
+      "pch_display_name": "Unique",
+      "pch_icon_name": null
+    }
+  ],
+  "pp_boost": [
+    {
+      "pch_name": "Accuracy",
+      "pch_display_name": "Enhance Accuracy",
+      "pch_icon_name": "E_POG_ACCURACY.tga"
+    },
+    {
+      "pch_name": "Defense",
+      "pch_display_name": "Enhance Defense",
+      "pch_icon_name": "E_POG_BUFF_DEFENSE.tga"
+    },
+    {
+      "pch_name": "To Hit",
+      "pch_display_name": "Enhance ToHit Buffs",
+      "pch_icon_name": "E_POG_BUFF_TO_HIT.tga"
+    },
+    {
+      "pch_name": "Confuse Duration",
+      "pch_display_name": "Enhance Confuse",
+      "pch_icon_name": "E_POG_CONFUSION_DURATION.tga"
+    },
+    {
+      "pch_name": "Damage",
+      "pch_display_name": "Enhance Damage",
+      "pch_icon_name": "E_POG_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Defense Debuff",
+      "pch_display_name": "Enhance Defense DeBuff",
+      "pch_icon_name": "E_POG_DEBUFF_DEFENSE.tga"
+    },
+    {
+      "pch_name": "To Hit",
+      "pch_display_name": "Enhance ToHit DeBuffs",
+      "pch_icon_name": "E_POG_DEBUFF_TO_HIT.tga"
+    },
+    {
+      "pch_name": "Fear Duration",
+      "pch_display_name": "Enhance Fear",
+      "pch_icon_name": "E_POG_FEAR_DURATION.tga"
+    },
+    {
+      "pch_name": "Fly Speed",
+      "pch_display_name": "Enhance Flying Speed",
+      "pch_icon_name": "E_POG_FLY_SPEED.tga"
+    },
+    {
+      "pch_name": "Heal",
+      "pch_display_name": "Enhance Heal",
+      "pch_icon_name": "E_POG_HEAL.tga"
+    },
+    {
+      "pch_name": "Immobilize Duration",
+      "pch_display_name": "Enhance Immobilization",
+      "pch_icon_name": "E_POG_IMMOBILIZATION_DURATION.tga"
+    },
+    {
+      "pch_name": "Jump Speed",
+      "pch_display_name": "Enhance Jump",
+      "pch_icon_name": "E_POG_JUMP_DISTANCE.tga"
+    },
+    {
+      "pch_name": "KnockBack",
+      "pch_display_name": "Enhance KnockBack",
+      "pch_icon_name": "E_POG_KNOCKBACK_DISTANCE.tga"
+    },
+    {
+      "pch_name": "Recharge Time",
+      "pch_display_name": "Enhance Recharge Speed",
+      "pch_icon_name": "E_POG_RECHARGE_TIME.tga"
+    },
+    {
+      "pch_name": "Run Speed",
+      "pch_display_name": "Enhance Running Speed",
+      "pch_icon_name": "E_POG_RUN_SPEED.tga"
+    },
+    {
+      "pch_name": "Sleep Duration",
+      "pch_display_name": "Enhance Sleep",
+      "pch_icon_name": "E_POG_SLEEP_DURATION.tga"
+    },
+    {
+      "pch_name": "Disorient Duration",
+      "pch_display_name": "Enhance Disorient",
+      "pch_icon_name": "E_POG_STUN_DURATION.tga"
+    },
+    {
+      "pch_name": "Range",
+      "pch_display_name": "Enhance Range",
+      "pch_icon_name": "E_POG_RANGE_INCREASE.tga"
+    },
+    {
+      "pch_name": "Endurance Discount",
+      "pch_display_name": "Reduce Endurance Cost",
+      "pch_icon_name": "E_POG_END_DISCOUNT.tga"
+    },
+    {
+      "pch_name": "Buff_Damage_Boost",
+      "pch_display_name": "Enhance Damage Buffs",
+      "pch_icon_name": "E_POG_BUFF_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Debuff_Damage_Boost",
+      "pch_display_name": "Enhance Damage DeBuffs",
+      "pch_icon_name": "E_POG_DEBUFF_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Radius_Boost",
+      "pch_display_name": "Enhance Radius",
+      "pch_icon_name": "E_POG_RADIUS.tga"
+    },
+    {
+      "pch_name": "Cone_Boost",
+      "pch_display_name": "Enhance Range",
+      "pch_icon_name": "E_POG_RANGE_INCREASE.tga"
+    },
+    {
+      "pch_name": "Threat Duration",
+      "pch_display_name": "Enhance Threat Duration",
+      "pch_icon_name": "E_POG_TAUNT_DURATION.tga"
+    },
+    {
+      "pch_name": "Slow",
+      "pch_display_name": "Enhance Slow Movement",
+      "pch_icon_name": "E_POG_SLOW_MOVEMENT.tga"
+    },
+    {
+      "pch_name": "Hold Duration",
+      "pch_display_name": "Enhance Hold",
+      "pch_icon_name": "E_POG_HOLD_DURATION.tga"
+    },
+    {
+      "pch_name": "Intangible Duration",
+      "pch_display_name": "Enhance Intangibility",
+      "pch_icon_name": "E_POG_INTAGIBILITY_DURATION.tga"
+    },
+    {
+      "pch_name": "Interrupt Time",
+      "pch_display_name": "Reduce Interrupt Time",
+      "pch_icon_name": "E_POG_INTERRUPT_TIMES.tga"
+    },
+    {
+      "pch_name": "Endurance",
+      "pch_display_name": "Enhance Endurance Modification",
+      "pch_icon_name": "E_POG_RECOVERY.tga"
+    },
+    {
+      "pch_name": "Endurance Drain",
+      "pch_display_name": "Enhance Endurance Modification",
+      "pch_icon_name": "E_POG_RECOVERY.tga"
+    },
+    {
+      "pch_name": "Resist Damage",
+      "pch_display_name": "Enhance Damage Resistance",
+      "pch_icon_name": "E_POG_BUFF_DAMAGE_RESIST.tga"
+    },
+    {
+      "pch_name": "Hamidon_Boost",
+      "pch_display_name": "Enhance Multiple",
+      "pch_icon_name": "E_POG_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Incarnate_Judgement_Boost",
+      "pch_display_name": "Incarnate: Judgement Capable",
+      "pch_icon_name": "E_POG_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Incarnate_Interface_Boost",
+      "pch_display_name": "Incarnate: Interface Capable",
+      "pch_icon_name": "E_POG_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Incarnate_Lore_Boost",
+      "pch_display_name": "Incarnate: Lore Capable",
+      "pch_icon_name": "E_POG_DAMAGE.tga"
+    },
+    {
+      "pch_name": "Incarnate_Destiny_Boost",
+      "pch_display_name": "Incarnate: Destiny Capable",
+      "pch_icon_name": "E_POG_DAMAGE.tga"
+    }
+  ],
+  "pp_group": [
+    {
+      "pch_name": "Flying_Group",
+      "pch_display_name": "Flight Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Speed_Group",
+      "pch_display_name": "Speed Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sprint_Group",
+      "pch_display_name": "Sprint Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Leap_Group",
+      "pch_display_name": "Leaping Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PrestigeRun_Group",
+      "pch_display_name": "Prestige Run Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FlyingRoot_Group",
+      "pch_display_name": "Rooted Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SpeedRoot_Group",
+      "pch_display_name": "Rooted Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SprintRoot_Group",
+      "pch_display_name": "Rooted Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "LeapRoot_Group",
+      "pch_display_name": "Rooted Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PrestigeRunRoot_Group",
+      "pch_display_name": "Rooted Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Rock_Armor_Group",
+      "pch_display_name": "Rock Armor Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Brimstone_Armor_Group",
+      "pch_display_name": "Brimstone Armor Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Crystal_Armor_Group",
+      "pch_display_name": "Crystal Armor Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Mineral_Armor_Group",
+      "pch_display_name": "Mineral Armor Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Stealth_Group",
+      "pch_display_name": "Stealth Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Hide_Group",
+      "pch_display_name": "Hide Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Rest_Group",
+      "pch_display_name": "Rest Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Kheldian_Group",
+      "pch_display_name": "Kheldian Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Ascendant_Group",
+      "pch_display_name": "Ascendant Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Darkness_Group",
+      "pch_display_name": "Darkness Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Ammo_Group",
+      "pch_display_name": "Ammo Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HAC_Group",
+      "pch_display_name": "Hyper-Advanced Clockwork Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "VanityPet_Group",
+      "pch_display_name": "Vanity Pet Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "CombatPet_Group",
+      "pch_display_name": "Combat Pet Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Primalist_Group",
+      "pch_display_name": "Primalist Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Bio_Group",
+      "pch_display_name": "Bio Armor Adaptation Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "CombatPet_Group",
+      "pch_display_name": "Combat Pet Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Afterburner_Group",
+      "pch_display_name": "Afterburner Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Jumppack_Group",
+      "pch_display_name": "Jumpack Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Costume_Group",
+      "pch_display_name": "Costume Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PrestigeSelfRez_Group",
+      "pch_display_name": "Prestige Self-Rez Group",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FXCostume_Group",
+      "pch_display_name": "FX Costume Group",
+      "pch_icon_name": null
+    }
+  ],
+  "pp_mode": [
+    {
+      "pch_name": "ServerTrayOverride",
+      "pch_display_name": "Server Tray Override",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Peacebringer_Blaster_Mode",
+      "pch_display_name": "Bright Nova",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Peacebringer_Tanker_Mode",
+      "pch_display_name": "White Dwarf",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Peacebringer_Light_Mode",
+      "pch_display_name": "Light Form",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Warshade_Blaster_Mode",
+      "pch_display_name": "Dark Nova",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Warshade_Tanker_Mode",
+      "pch_display_name": "Black Hole",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Granite_Mode",
+      "pch_display_name": "Granite Form",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Shivan_Mode",
+      "pch_display_name": "Shivan Form",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Travel",
+      "pch_display_name": "No Travel Powers",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Pool",
+      "pch_display_name": "No Pool Powers",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Temp",
+      "pch_display_name": "No Temporary Powers",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Teleport",
+      "pch_display_name": "No Travel Teleport",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_FlyToggles",
+      "pch_display_name": "No Flying Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_RunToggles",
+      "pch_display_name": "No Run Speed Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_JumpToggles",
+      "pch_display_name": "No Flying Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Portals",
+      "pch_display_name": "Disable Portals",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_All",
+      "pch_display_name": "Disable all Powers",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Inspiration",
+      "pch_display_name": "Disable Inspirations",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Inspiration_Small",
+      "pch_display_name": "Disable Small Inspirations",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Inspiration_Medium",
+      "pch_display_name": "Disable Medium Inspirations",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Inspiration_Large",
+      "pch_display_name": "Disable Large Inspirations",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Inspiration_Super",
+      "pch_display_name": "Disable Super Inspirations",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Inspiration_Special",
+      "pch_display_name": "Disable Special Inspirations",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_SetBonus",
+      "pch_display_name": "Disable Set Bonuses",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Recall",
+      "pch_display_name": "Disable Recall Teleportation",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Walk",
+      "pch_display_name": "Disable Walk",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Suicide",
+      "pch_display_name": "Disable Self Destruct",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_RocketBoard",
+      "pch_display_name": "Disable Rocket Board",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_FlyingCarpet",
+      "pch_display_name": "Disable Flying Carpet",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_VoidSkiff",
+      "pch_display_name": "Disable Void Skiff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_SteamJump",
+      "pch_display_name": "Disable Steam Jump",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_JumpPack",
+      "pch_display_name": "Disable Jump Pack",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Stance",
+      "pch_display_name": "Disable Stance",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_GauntletTargetCap",
+      "pch_display_name": "Disable Gauntlet Target Caps",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_GiftOfThePhoenix",
+      "pch_display_name": "Health too high to use Gift of the Phoenix.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Suppress_FlyToggles",
+      "pch_display_name": "No Flying Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Suppress_RunToggles",
+      "pch_display_name": "No Run Speed Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Suppress_JumpToggles",
+      "pch_display_name": "No Flying Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Suppress_TravelToggles",
+      "pch_display_name": "No Travel Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Suppress_PoolToggles",
+      "pch_display_name": "No Pool Toggles",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Arena",
+      "pch_display_name": "Arena",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Awaken",
+      "pch_display_name": "Disable Awaken",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Toggle",
+      "pch_display_name": "Disable Toggle",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Mastermind_Upgrade_1",
+      "pch_display_name": "Upgraded",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Mastermind_Upgrade_2",
+      "pch_display_name": "Empowered",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Domination",
+      "pch_display_name": "Domination",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Domination_Active",
+      "pch_display_name": "Domination",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Vengeance_Mode",
+      "pch_display_name": "Vengeance does not Stack",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Proc_Mode",
+      "pch_display_name": "Bonus Effects are time limited.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Alpha",
+      "pch_display_name": "Disable Incarnate Alpha Slot.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Incarnate",
+      "pch_display_name": "Disable Incarnate Powers other than Alpha Slot.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Epic",
+      "pch_display_name": "Disable Ancillary and Patron Powers.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Raid_Defender_Mode",
+      "pch_display_name": "Raid Defender",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Raid_Attacker_Mode",
+      "pch_display_name": "Raid Attacker",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Range_Finder_Mode",
+      "pch_display_name": "Target Locked",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Temporal_Disruption",
+      "pch_display_name": "Temporal Disruption",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_StatusMode_1",
+      "pch_display_name": "Dual Blade Status Mode 1",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_StatusMode_2",
+      "pch_display_name": "Dual Blade Status Mode 2",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_DebuffMode_1",
+      "pch_display_name": "Dual Blade Debuff Mode 1",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_DebuffMode_2",
+      "pch_display_name": "Dual Blade Debuff Mode 2",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_BonusAoEMode_1",
+      "pch_display_name": "Dual Blade AoE Mode 1",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_BonusAoEMode_2",
+      "pch_display_name": "Dual Blade AoE Mode 2",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_BonusDoTMode_1",
+      "pch_display_name": "Dual Blade DoT Mode 1",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DD_BonusDoTMode_2",
+      "pch_display_name": "Dual Blade DoT Mode 2",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ArcaneBolt",
+      "pch_display_name": "Arcane Empowerment",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ChainTeleport",
+      "pch_display_name": "Chain Teleport End Discount",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "KillTK",
+      "pch_display_name": "Telekinetic Failure",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Engaged",
+      "pch_display_name": "Engaged",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OutOfCombat",
+      "pch_display_name": "OutOfCombat",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Defiant",
+      "pch_display_name": "Defiance",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "LostCure",
+      "pch_display_name": "Lost Cure",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Midnight_Disguise",
+      "pch_display_name": "Midnight Disguise",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Chain_Induction",
+      "pch_display_name": "Chain Induction",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Chain_Stun_Mode",
+      "pch_display_name": "Stun Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Chain_Jolt_Mode",
+      "pch_display_name": "Jolt Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Chain_Confuse_Mode",
+      "pch_display_name": "Confuse Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sequestor_1",
+      "pch_display_name": "Sequestor step one",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sequestor_2",
+      "pch_display_name": "Sequestor step two",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sequestor_3",
+      "pch_display_name": "Sequestor step three",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "NoNukes",
+      "pch_display_name": "No Nukes",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HAC_Offense",
+      "pch_display_name": "Hyper-Advanced Clockwork Offfensive Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HAC_Defense",
+      "pch_display_name": "Hyper-Advanced Clockwork Defensive Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Disable_Juggernaut",
+      "pch_display_name": "Forcably End Juggernaut Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Tower_Protection",
+      "pch_display_name": "Tower Protection",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Panacea",
+      "pch_display_name": "Have Panacea_F Slotted",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Grounded",
+      "pch_display_name": "Target Dimensionally Grounded",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "LethalAmmo",
+      "pch_display_name": "Piercing Ammo Loaded",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "IceAmmo",
+      "pch_display_name": "Cryo Ammo Loaded",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FireAmmo",
+      "pch_display_name": "Incendiary Ammo Loaded",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ToxicAmmo",
+      "pch_display_name": "Chemical Ammo Loaded",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SeismicPower",
+      "pch_display_name": "Seismic Power",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ArchitectMissionMode",
+      "pch_display_name": "On an Architect Mission",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "CoOpTeam",
+      "pch_display_name": "Co-Op Team Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Broken",
+      "pch_display_name": "Broken",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DisableFortuneBuffs",
+      "pch_display_name": "Disable Mystic Fortune Buffs",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "InCostume",
+      "pch_display_name": "In Costume",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Wintery_Aegis",
+      "pch_display_name": "Wintery Aegis",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "RoidedIDF",
+      "pch_display_name": "Roided IDF",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Harmonic_Destabilizer",
+      "pch_display_name": "Harmonic Destabilizer",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Hidden_Attack",
+      "pch_display_name": "Hidden Attack",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SiphonMode",
+      "pch_display_name": "Siphon Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TurretStage1",
+      "pch_display_name": "Turret Stage 1 Damage",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TurretStage2",
+      "pch_display_name": "Turret Stage 2 Damage",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TurretStage3",
+      "pch_display_name": "Turret Stage 3 Damage",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TurretStage4",
+      "pch_display_name": "Turret Stage 4 Damage",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TurretStage5",
+      "pch_display_name": "Turret Maximum Damage",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Defeated_OilSlick",
+      "pch_display_name": "Defeated Oil Slick",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "MarkedForDeath",
+      "pch_display_name": "Marked for Death",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Enraged",
+      "pch_display_name": "Enraged",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TargetingReticule",
+      "pch_display_name": "Targeting Reticule",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "NotInCombat",
+      "pch_display_name": "Entity is not currently engaged in combat",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "UltimateInspire",
+      "pch_display_name": "You have been Ultimately Inspired",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "AmbrosiaInspire",
+      "pch_display_name": "You have been Inspired by Ambrosia",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EoEInspire",
+      "pch_display_name": "You have been Inspired by Essence of the Earth",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FastMode",
+      "pch_display_name": "Your next RBW swing will not have the long Wind Up.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_MelodicBinding",
+      "pch_display_name": "Melodic Binding",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_HymnOfDissonance",
+      "pch_display_name": "Hymn of Dissonance",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_AriaOfStasis",
+      "pch_display_name": "Aria of Stasis",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_DreadfulDiscord",
+      "pch_display_name": "Dreadful Discord",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_EnfeeblingLullaby",
+      "pch_display_name": "Enfeebling Lullaby",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_ChantOfRebut",
+      "pch_display_name": "Chant of Rebut",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_ImpassionedSerenade",
+      "pch_display_name": "Impassioned Serenade",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Symphony_ChordsOfDespair",
+      "pch_display_name": "Chords of Despair",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Opportunity",
+      "pch_display_name": "You next attack may have a bonus effect.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityLock",
+      "pch_display_name": "You recently found an Opportunity.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunitySustain",
+      "pch_display_name": "You exploited an Opportunity, all your attacks heal you for a limited time.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunitySmashing",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityLethal",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityFire",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityCold",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityEnergy",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityNegative",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityToxic",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OpportunityPsionic",
+      "pch_display_name": "You exploited an Opportunity, all your attacks do extra damage.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Infected_01",
+      "pch_display_name": "You've been infected by the Hamidon Plague",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Infected_02",
+      "pch_display_name": "You've been infected by the Hamidon Plague",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Infected_03",
+      "pch_display_name": "You've been infected by the Hamidon Plague",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Incarnate_Equipped",
+      "pch_display_name": "Incarnate Mode",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OnePowerCell",
+      "pch_display_name": "One Power Cell",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TwoPowerCell",
+      "pch_display_name": "Two Power Cells",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ThreePowerCell",
+      "pch_display_name": "Three Power Cells",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EntangledA",
+      "pch_display_name": "Alpha Entanglement",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EntangledB",
+      "pch_display_name": "Beta Entanglement",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HunterMode",
+      "pch_display_name": "In Hunter Form",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ProwlerMode",
+      "pch_display_name": "In Prowler Form",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ProwlerCloakMode",
+      "pch_display_name": "In Prowler Form with Primal Cloak Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HybridLockout",
+      "pch_display_name": "Your Hybrid power has been used recently and is recharging.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "RestedAdaptation",
+      "pch_display_name": "You have no active Adaptation and are in a rested state.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DefensiveAdaptation",
+      "pch_display_name": "You have Defensive Adaptation active.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "OffensiveAdaptation",
+      "pch_display_name": "You have Offensive Adaptation active.",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ClearSkies",
+      "pch_display_name": "Clear Skies",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "CloudedSkies",
+      "pch_display_name": "Clouded Skies",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SpeedofSoundOn",
+      "pch_display_name": "Speed of Sound Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "MightyLeapOn",
+      "pch_display_name": "Mighty Leap Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "JetpackOn",
+      "pch_display_name": "Jetpack Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "MysticFlightOn",
+      "pch_display_name": "Mystic Flight Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FreeRunningOn",
+      "pch_display_name": "Freerunning Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SuperSpeedOn",
+      "pch_display_name": "Super Speed Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SuperJumpOn",
+      "pch_display_name": "Super Jump Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FlyOn",
+      "pch_display_name": "Fly Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EnergyFlightOn",
+      "pch_display_name": "Energy Flight Active",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "BoostRange",
+      "pch_display_name": "Range increased",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "BoostPower",
+      "pch_display_name": "Power increased",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EnergyFocus",
+      "pch_display_name": "Energy Focus",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FullyCharged",
+      "pch_display_name": "Fully Charged",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FocusFire_Burst",
+      "pch_display_name": "Focus Fire",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FocusFire_Slug",
+      "pch_display_name": "Focus Fire",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FocusFire_M30",
+      "pch_display_name": "Focus Fire",
+      "pch_icon_name": null
+    }
+  ],
+  "pp_elusivity": [
+    {
+      "pch_name": "Ranged_Elude",
+      "pch_display_name": "Ranged",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Melee_Elude",
+      "pch_display_name": "Melee",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "AOE_Elude",
+      "pch_display_name": "Area",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Smashing_Elude",
+      "pch_display_name": "Smashing",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Lethal_Elude",
+      "pch_display_name": "Lethal",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Fire_Elude",
+      "pch_display_name": "Fire",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Cold_Elude",
+      "pch_display_name": "Cold",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Energy_Elude",
+      "pch_display_name": "Energy",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Negative_Energy_Elude",
+      "pch_display_name": "Negative_Energy",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Psionic_Elude",
+      "pch_display_name": "Psionic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Toxic_Elude",
+      "pch_display_name": "Toxic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Radiation_Elude",
+      "pch_display_name": "Radiation",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Electrical_Elude",
+      "pch_display_name": "Electrical",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Sonic_Elude",
+      "pch_display_name": "Sonic",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Quantum_Elude",
+      "pch_display_name": "Quantum",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Chain_Elude",
+      "pch_display_name": "Chain",
+      "pch_icon_name": null
+    }
+  ],
+  "pp_stack_key": [
+    {
+      "pch_name": "TestStack",
+      "pch_display_name": "Test Stacking",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PvPMezProt",
+      "pch_display_name": "PvPMez Protection",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HybridSupport",
+      "pch_display_name": "Hybrid Support",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HybridDefense",
+      "pch_display_name": "Hybrid Defense",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "RecoveryBuff",
+      "pch_display_name": "Recovery Buff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EnduranceCostBuff",
+      "pch_display_name": "Endurance Cost Buff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Bruising",
+      "pch_display_name": "Tanker Bruising",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "AbsoluteAmazementProc",
+      "pch_display_name": "Absolute Amazement Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "AchillesHeelProc",
+      "pch_display_name": "Achilles' Heel Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "AnnihilationProc",
+      "pch_display_name": "Annihilation Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "BasilisksGazeProc",
+      "pch_display_name": "Basilisk's Gaze Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DarkWatchersProc",
+      "pch_display_name": "Dark Watcher's Despair Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "DominionArachnosProc",
+      "pch_display_name": "Dominion of Arachnos Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "FuryGladiatorProc",
+      "pch_display_name": "Fury of the Gladiator Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "InducedComaProc",
+      "pch_display_name": "Induced Coma Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PacingTurtleProc",
+      "pch_display_name": "Pacing of the Turtle Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "WintersBiteProc",
+      "pch_display_name": "Winter's Bite Proc",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Vulnerability",
+      "pch_display_name": "Sentinel Scrutiny",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PermaDamage",
+      "pch_display_name": "Max HP Debuff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ImperviousSkinRegen",
+      "pch_display_name": "Impervious Skin Regeneration",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EnergizingCircuitDamage",
+      "pch_display_name": "Energizing Circuit Damage",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "EnergizingCircuitSpecial",
+      "pch_display_name": "Energizing Circuit Special",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ProtectiveCircuit",
+      "pch_display_name": "Protective Circuit",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PowerBoost",
+      "pch_display_name": "PowerBoost",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "PowerTransfer",
+      "pch_display_name": "Power Transfer",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "Seismic_Shockwaves",
+      "pch_display_name": "Seismic Shockwaves",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "StealthToggle",
+      "pch_display_name": "Stealth Toggle",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TravelBuff",
+      "pch_display_name": "Travel Buff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TravelDebuff",
+      "pch_display_name": "Travel Debuff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TravelMaxBuff",
+      "pch_display_name": "Travel Max Buff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TravelTurboBuff",
+      "pch_display_name": "Travel Turbo Buff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "TravelTurboMaxBuff",
+      "pch_display_name": "Travel Turbo Max Buff",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HoverDefense",
+      "pch_display_name": "Hover Defense",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HasteBuff",
+      "pch_display_name": "For future use, multi-haste-buff stacking prevention",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SeismicForceBuff",
+      "pch_display_name": "Seismic Force",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HM1Tactics",
+      "pch_display_name": "Advanced Difficulty 1 Tactics",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HM2Tactics",
+      "pch_display_name": "Advanced Difficulty 2 Tactics",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HM3Tactics",
+      "pch_display_name": "Advanced Difficulty 3 Tactics",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "HM4Tactics",
+      "pch_display_name": "Advanced Difficulty 4 Tactics",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ITFNictus1",
+      "pch_display_name": "Hostless Nictus Death Buff 1",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ITFNictus2",
+      "pch_display_name": "Hostless Nictus Death Buff 2",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ITFNictus3",
+      "pch_display_name": "Hostless Nictus Death Buff 3",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SymphonyConfounding",
+      "pch_display_name": "Symphony Control's Confounding Chant",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SymphonyConfoundingCont",
+      "pch_display_name": "Symphony Control's Confounding Chant",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "SymphonyMelodicStun",
+      "pch_display_name": "Symphony Control's Melodic Binding",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "ArcticAir",
+      "pch_display_name": "Arctic Air",
+      "pch_icon_name": null
+    },
+    {
+      "pch_name": "UndeadForces",
+      "pch_display_name": "Undead Forces",
+      "pch_icon_name": null
+    }
+  ],
+  "attr_names": {
+    "0": "smashing damage",
+    "4": "lethal damage",
+    "8": "fire damage",
+    "12": "cold damage",
+    "16": "energy damage",
+    "20": "negative energy damage",
+    "24": "psionic damage",
+    "28": "healing",
+    "32": "special damage",
+    "36": "toxic damage",
+    "40": "radiation damage",
+    "44": "electrical damage",
+    "48": "sonic damage",
+    "52": "quantum damage",
+    "56": "unique",
+    "60": "unique",
+    "64": "unique",
+    "68": "unique",
+    "72": "unique",
+    "76": "unique",
+    "80": "hit points",
+    "84": "absorption",
+    "88": "endurance",
+    "92": null,
+    "96": "rage",
+    "100": "to hit",
+    "104": "ranged defense",
+    "108": "melee defense",
+    "112": "AoE defense",
+    "116": "smashing defense",
+    "120": "lethal defense",
+    "124": "fire defense",
+    "128": "cold defense",
+    "132": "energy defense",
+    "136": "negative energy defense",
+    "140": "psionic defense",
+    "144": "toxic defense",
+    "148": "radiation defense",
+    "152": "electrical defense",
+    "156": "sonic defense",
+    "160": "quantum defense",
+    "164": "chain defense",
+    "168": "unique",
+    "172": "unique",
+    "176": "unique",
+    "180": "unique",
+    "184": "defense debuff",
+    "188": "run speed",
+    "192": "fly speed",
+    "196": "swim speed",
+    "200": "jump speed",
+    "204": "jump height",
+    "208": "movement control",
+    "212": "movement friction",
+    "216": null,
+    "220": "stealth radius",
+    "224": "stealth radius",
+    "228": "perception radius",
+    "232": "regeneration rate",
+    "236": "recovery rate",
+    "240": null,
+    "244": "threat level",
+    "248": "taunt",
+    "252": "placate",
+    "256": "confuse",
+    "260": "fear",
+    "264": "terrorize",
+    "268": "hold",
+    "272": "immobilize",
+    "276": "stun",
+    "280": "sleep",
+    "284": "fly",
+    "288": "jumppack",
+    "292": "teleport",
+    "296": "untouchable",
+    "300": "intangible",
+    "304": "only affect self",
+    "308": null,
+    "312": "Increased Influence Gain",
+    "316": null,
+    "320": null,
+    "324": "knockup",
+    "328": "knock",
+    "332": "repel",
+    "336": "accuracy",
+    "340": null,
+    "344": null,
+    "348": "range",
+    "352": null,
+    "360": "recharge",
+    "364": null,
+    "368": "Endurance Cost",
+    "380": "ranged defense",
+    "384": "melee defense",
+    "388": "AoE defense",
+    "392": "smashing defense",
+    "396": "lethal defense",
+    "400": "fire defense",
+    "404": "cold defense",
+    "408": "energy defense",
+    "412": "negative energy defense",
+    "416": "psionic defense",
+    "420": "toxic defense",
+    "424": "radiation defense",
+    "428": "electrical defense",
+    "432": "sonic defense",
+    "436": "quantum defense",
+    "440": "chain defense",
+    "444": "unique",
+    "448": "unique",
+    "452": "unique",
+    "456": "unique",
+    "460": "defense debuff"
+  }
+}

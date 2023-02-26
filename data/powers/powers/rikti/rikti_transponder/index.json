@@ -1,0 +1,22 @@
+{
+  "name": "Rikti_Transponder",
+  "display_name": "Rikti_Transponder",
+  "display_fullname": "Rikti.Rikti Transponder",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_TRANSPONDER.POWERSETS",
+  "icon": "rikti_transponder_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Transponder.Transponder"
+  ],
+  "power_display_names": [
+    "Transponder"
+  ],
+  "power_short_helps": [
+    "Build Transponder"
+  ]
+}

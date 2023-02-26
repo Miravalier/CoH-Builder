@@ -1,0 +1,262 @@
+{
+  "tag": "BuildStatic",
+  "bears": [
+    [
+      "Blaster Ranged.Electrical Blast.Ball Lightning",
+      "blaster_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Charged Bolts",
+      "blaster_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Lightning Bolt",
+      "blaster_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Short Circuit",
+      "blaster_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Blaster Ranged.Electrical Blast.Thunderous Blast",
+      "blaster_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Charged Brawl",
+      "blaster_support.electricity_manipulation.charged_brawl"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Electric Fence",
+      "blaster_support.electricity_manipulation.electric_fence"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Force of Thunder",
+      "blaster_support.electricity_manipulation.lightning_field"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Havoc Punch",
+      "blaster_support.electricity_manipulation.havok_punch"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Power Sink",
+      "blaster_support.electricity_manipulation.power_sink"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Shocking Grasp",
+      "blaster_support.electricity_manipulation.shocking_grasp"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Thunder Strike",
+      "blaster_support.electricity_manipulation.thunder_strike"
+    ],
+    [
+      "Controller Buff.Electrical Affinity.Empowering Circuit",
+      "controller_buff.shock_therapy.empowering_circuit"
+    ],
+    [
+      "Controller Buff.Electrical Affinity.Energizing Circuit",
+      "controller_buff.shock_therapy.energizing_circuit"
+    ],
+    [
+      "Controller Buff.Electrical Affinity.Insulating Circuit",
+      "controller_buff.shock_therapy.insulating_circuit"
+    ],
+    [
+      "Controller Buff.Electrical Affinity.Rejuvenating Circuit",
+      "controller_buff.shock_therapy.rejuvenating_circuit"
+    ],
+    [
+      "Corruptor Buff.Electrical Affinity.Empowering Circuit",
+      "corruptor_buff.shock_therapy.empowering_circuit"
+    ],
+    [
+      "Corruptor Buff.Electrical Affinity.Energizing Circuit",
+      "corruptor_buff.shock_therapy.energizing_circuit"
+    ],
+    [
+      "Corruptor Buff.Electrical Affinity.Insulating Circuit",
+      "corruptor_buff.shock_therapy.insulating_circuit"
+    ],
+    [
+      "Corruptor Buff.Electrical Affinity.Rejuvenating Circuit",
+      "corruptor_buff.shock_therapy.rejuvenating_circuit"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Ball Lightning",
+      "corruptor_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Charged Bolts",
+      "corruptor_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Lightning Bolt",
+      "corruptor_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Short Circuit",
+      "corruptor_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Corruptor Ranged.Electrical Blast.Thunderous Blast",
+      "corruptor_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Defender Buff.Electrical Affinity.Empowering Circuit",
+      "defender_buff.shock_therapy.empowering_circuit"
+    ],
+    [
+      "Defender Buff.Electrical Affinity.Energizing Circuit",
+      "defender_buff.shock_therapy.energizing_circuit"
+    ],
+    [
+      "Defender Buff.Electrical Affinity.Insulating Circuit",
+      "defender_buff.shock_therapy.insulating_circuit"
+    ],
+    [
+      "Defender Buff.Electrical Affinity.Rejuvenating Circuit",
+      "defender_buff.shock_therapy.rejuvenating_circuit"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Ball Lightning",
+      "defender_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Charged Bolts",
+      "defender_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Lightning Bolt",
+      "defender_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Short Circuit",
+      "defender_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Defender Ranged.Electrical Blast.Thunderous Blast",
+      "defender_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Mastermind Buff.Electrical Affinity.Empowering Circuit",
+      "mastermind_buff.shock_therapy.empowering_circuit"
+    ],
+    [
+      "Mastermind Buff.Electrical Affinity.Energizing Circuit",
+      "mastermind_buff.shock_therapy.energizing_circuit"
+    ],
+    [
+      "Mastermind Buff.Electrical Affinity.Insulating Circuit",
+      "mastermind_buff.shock_therapy.insulating_circuit"
+    ],
+    [
+      "Mastermind Buff.Electrical Affinity.Rejuvenating Circuit",
+      "mastermind_buff.shock_therapy.rejuvenating_circuit"
+    ],
+    [
+      "Mission Maker Attacks.Electrical Blast.Zapp",
+      "mission_maker_attacks.electrical_blast.zapp"
+    ],
+    [
+      "Mission Maker Secondary.Electrical Blast.Zapp",
+      "mission_maker_secondary.electrical_blast.zapp"
+    ],
+    [
+      "Pets.Defender Electric Snipe.Zapp",
+      "pets.defender_electric_snipe.zapp_normal"
+    ],
+    [
+      "Pets.Defender Electric Snipe.Zapp",
+      "pets.defender_electric_snipe.zapp_quick"
+    ],
+    [
+      "Pets.Electric Blast.Zapp",
+      "pets.blaster_electric_snipe.zapp_normal"
+    ],
+    [
+      "Pets.Electric Blast.Zapp",
+      "pets.blaster_electric_snipe.zapp_quick"
+    ],
+    [
+      "Redirects.Electrical Affinity.Faraday Cage",
+      "redirects.shock_therapy.faradaystatic"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Ball Lightning",
+      "sentinel_ranged.electrical_blast.ball_lightning"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Charged Bolts",
+      "sentinel_ranged.electrical_blast.charged_bolts"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Lightning Bolt",
+      "sentinel_ranged.electrical_blast.lightning_bolt"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Short Circuit",
+      "sentinel_ranged.electrical_blast.short_circuit"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Thunderous Blast",
+      "sentinel_ranged.electrical_blast.thunderous_blast"
+    ],
+    [
+      "Sentinel Ranged.Electrical Blast.Zapping Bolt",
+      "sentinel_ranged.electrical_blast.zapping_bolt"
+    ],
+    [
+      "V Arachnos Proxy.Electrical Affinity.Empowering Circuit",
+      "v_arachnos_proxy.shock_therapy.empowering_circuit"
+    ],
+    [
+      "V Arachnos Proxy.Electrical Affinity.Energizing Circuit",
+      "v_arachnos_proxy.shock_therapy.energizing_circuit"
+    ],
+    [
+      "V Arachnos Proxy.Electrical Affinity.Insulating Circuit",
+      "v_arachnos_proxy.shock_therapy.insulating_circuit"
+    ],
+    [
+      "V Arachnos Proxy.Electrical Affinity.Rejuvenating Circuit",
+      "v_arachnos_proxy.shock_therapy.rejuvenating_circuit"
+    ],
+    [
+      "V Arachnos.Mu Boss High (Hard Mode).Empowering Circuit",
+      "v_arachnos.mu_boss_high_hm.empowering_circuit"
+    ],
+    [
+      "V Arachnos.Mu Boss High (Hard Mode).Energizing Circuit",
+      "v_arachnos.mu_boss_high_hm.energizing_circuit"
+    ],
+    [
+      "V Arachnos.Mu Boss High (Hard Mode).Rejuvenating Circuit",
+      "v_arachnos.mu_boss_high_hm.rejuvenating_circuit"
+    ],
+    [
+      "V CapauDiableDemons.Ripple Elite.Empowering Circuit",
+      "v_capaudiabledemons.ripple_elite.empowering_circuit"
+    ],
+    [
+      "V CapauDiableDemons.Ripple Elite.Energizing Circuit",
+      "v_capaudiabledemons.ripple_elite.energizing_circuit"
+    ],
+    [
+      "V CapauDiableDemons.Ripple Elite.Insulating Circuit",
+      "v_capaudiabledemons.ripple_elite.insulating_circuit"
+    ],
+    [
+      "V CapauDiableDemons.Ripple Elite.Rejuvenating Circuit",
+      "v_capaudiabledemons.ripple_elite.rejuvenating_circuit"
+    ],
+    [
+      "Villain Pets.Corruptor ElectricalBlast Snipe.Zapp",
+      "villain_pets.corruptor_electricalblast_snipe.zapp_normal"
+    ],
+    [
+      "Villain Pets.Corruptor ElectricalBlast Snipe.Zapp",
+      "villain_pets.corruptor_electricalblast_snipe.zapp_quick"
+    ]
+  ],
+  "affects": []
+}

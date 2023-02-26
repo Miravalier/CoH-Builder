@@ -1,0 +1,22 @@
+{
+  "name": "Mu_Ball",
+  "display_name": "Mu_Ball",
+  "display_fullname": "V Arachnos.Mu Ball",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/MU_BALL.POWERSETS",
+  "icon": "mu_ball_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Mu_Ball.Ball_Lightning"
+  ],
+  "power_display_names": [
+    "Ball Lightning"
+  ],
+  "power_short_helps": [
+    "DoT(Energy)"
+  ]
+}

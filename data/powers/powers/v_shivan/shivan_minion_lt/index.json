@@ -1,0 +1,26 @@
+{
+  "name": "Shivan_Minion_Lt",
+  "display_name": "Shivan Minion Lt",
+  "display_fullname": "V Shivan.Shivan Minion Lt",
+  "display_help": "Shivan",
+  "display_short_help": "Shivan",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SHIVAN/SHIVAN_MINION_LT.POWERSETS",
+  "icon": "shivan_minion_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Shivan.Shivan_Minion_Lt.Contaminated_Strike",
+    "V_Shivan.Shivan_Minion_Lt.Neutrino_Bolt"
+  ],
+  "power_display_names": [
+    "Contaminated Strike",
+    "Neutrino Bolt"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal/Energy), Foe -DEF, Knockback",
+    "Ranged, Minor DMG(Energy), Foe -DEF"
+  ]
+}

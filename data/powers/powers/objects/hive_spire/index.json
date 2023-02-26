@@ -1,0 +1,30 @@
+{
+  "name": "Hive_Spire",
+  "display_name": "Hive Spire",
+  "display_fullname": "Objects.Hive Spire",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/HIVE_SPIRE.POWERSETS",
+  "icon": "hive_spire_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Hive_Spire.Hive_Spire_Early",
+    "Objects.Hive_Spire.Hive_Spire_Mid",
+    "Objects.Hive_Spire.Hive_Spire_Late"
+  ],
+  "power_display_names": [
+    "Hive Spire Early",
+    "Hive Spire Mid",
+    "Hive Spire Late"
+  ],
+  "power_short_helps": [
+    "Summon Devouring Earth Bees",
+    "Summon Devouring Earth Bees",
+    "Summon Devouring Earth Bees"
+  ]
+}

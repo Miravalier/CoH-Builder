@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Induced_Coma_A",
+  "display_name": "Attuned Induced Coma A",
+  "display_fullname": "Boosts.Attuned Induced Coma A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Induced Coma",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_INDUCED_COMA_A.POWERSETS",
+  "icon": "attuned_induced_coma_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Induced_Coma_A.Attuned_Induced_Coma_A"
+  ],
+  "power_display_names": [
+    "Induced Coma: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

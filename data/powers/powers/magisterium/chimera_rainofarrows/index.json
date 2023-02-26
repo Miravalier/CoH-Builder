@@ -1,0 +1,26 @@
+{
+  "name": "Chimera_RainOfArrows",
+  "display_name": "Rain of Arrows",
+  "display_fullname": "Magisterium.Rain of Arrows",
+  "display_help": "Archery",
+  "display_short_help": "Archery",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/CHIMERA_RAINOFARROWS.POWERSETS",
+  "icon": "chimera_rainofarrows_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Chimera_RainOfArrows.RainofArrows",
+    "Magisterium.Chimera_RainOfArrows.RainofArrowsVisual"
+  ],
+  "power_display_names": [
+    "Rain of Arrows",
+    "Rain of Arrows"
+  ],
+  "power_short_helps": [
+    "DoT(Lethal)",
+    "DoT(Lethal)"
+  ]
+}

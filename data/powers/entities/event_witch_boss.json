@@ -1,0 +1,102 @@
+{
+  "name": "Event_Witch_Boss",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "The Crones of the  Coven have learned to make darkness their puppet. But in mastering the dark, they have become somewhat dependant upon it. A Crone deprived of her magic texts quickly shrivels to a lifeless husk. This punishment is inflicted on any Crone suspected of betraying the coven's secrets.",
+    "group_description": "Coven",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [
+      "2k9TrickBoss"
+    ],
+    "power_full_names": [
+      "Event.Witch_Lt_Boss.Dark_Blast",
+      "Event.Witch_Lt_Boss.Gloom",
+      "Event.Witch_Lt_Boss.Midnight_Grasp",
+      "Event.Witch_Boss.Tenebrous_Tentacles",
+      "Event.Witch_Boss.Petrifying_Gaze",
+      "Event.Witch_Boss.Chill_of_the_Night",
+      "Event.TrickOrTreat_Inherent.Resistance"
+    ],
+    "power_display_names": [
+      "Dark Blast",
+      "Gloom",
+      "Midnight Grasp",
+      "Tenebrous Tentacles",
+      "Petrifying Gaze",
+      "Chill of the Night",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Event",
+        "power_set": "Witch_Lt_Boss",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Witch_Boss",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "TrickOrTreat_Inherent",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Crone"
+      ],
+      "costumes": [
+        "Egrimoir_06"
+      ]
+    }
+  ]
+}

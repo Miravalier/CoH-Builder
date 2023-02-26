@@ -1,0 +1,54 @@
+{
+  "name": "Dark_Melee",
+  "display_name": "Dark Melee",
+  "display_fullname": "Brute Melee.Dark Melee",
+  "display_help": "Dark Melee allows you to focus the powers of the Netherworld to defeat your foes. The draining effects of most of these powers can reduce the target's Accuracy.",
+  "display_short_help": "Dark Melee",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/BRUTE_MELEE/DARK_MELEE.POWERSETS",
+  "icon": "dark_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Brute_Melee.Dark_Melee.Shadow_Punch",
+    "Brute_Melee.Dark_Melee.Smite",
+    "Brute_Melee.Dark_Melee.Shadow_Maul",
+    "Brute_Melee.Dark_Melee.Touch_of_Fear",
+    "Brute_Melee.Dark_Melee.Siphon_Life",
+    "Brute_Melee.Dark_Melee.Taunt",
+    "Brute_Melee.Dark_Melee.Dark_Consumption",
+    "Brute_Melee.Dark_Melee.Soul_Drain",
+    "Brute_Melee.Dark_Melee.Midnight_Grasp"
+  ],
+  "power_display_names": [
+    "Shadow Punch",
+    "Smite",
+    "Shadow Maul",
+    "Touch of Fear",
+    "Siphon Life",
+    "Taunt",
+    "Dark Consumption",
+    "Soul Drain",
+    "Midnight Grasp"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash/Negative), Foe -To Hit",
+    "Melee, Light DMG(Smash/Negative), Foe -To Hit",
+    "Melee (Cone), High DoT(Smash/Negative), Foe -To Hit",
+    "Melee (Targeted AoE), Light DMG(Negative), Fear, Foe -To Hit",
+    "Melee, High DMG(Negative), Foe -To Hit, Self +HP",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "PBAoE Minor DMG(Negative), Self +End",
+    "PBAoE Light DMG(Negative), Self +DMG, +To Hit",
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit"
+  ]
+}

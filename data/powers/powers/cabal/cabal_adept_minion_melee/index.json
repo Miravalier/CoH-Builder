@@ -1,0 +1,26 @@
+{
+  "name": "Cabal_Adept_Minion_Melee",
+  "display_name": "Cabal_Adept_Minion_Melee",
+  "display_fullname": "Cabal.Cabal Adept Minion Melee",
+  "display_help": "The Cabal",
+  "display_short_help": "The Cabal",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CABAL/CABAL_ADEPT_MINION_MELEE.POWERSETS",
+  "icon": "cabal_adept_minion_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Cabal.Cabal_Adept_Minion_Melee.Storm_Strike",
+    "Cabal.Cabal_Adept_Minion_Melee.Charged_Brawl"
+  ],
+  "power_display_names": [
+    "Storm Strike",
+    "Charged Brawl"
+  ],
+  "power_short_helps": [
+    "-Recovery",
+    "-Recovery"
+  ]
+}

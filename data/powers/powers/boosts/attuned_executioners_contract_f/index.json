@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Executioners_Contract_F",
+  "display_name": "Attuned Executioners Contract F",
+  "display_fullname": "Boosts.Attuned Executioners Contract F",
+  "display_help": "Adds a chance to Disorient your foe. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Executioners Contract",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EXECUTIONERS_CONTRACT_F.POWERSETS",
+  "icon": "attuned_executioners_contract_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Executioners_Contract_F.Attuned_Executioners_Contract_F"
+  ],
+  "power_display_names": [
+    "Executioners Contract: Disorient Bonus"
+  ],
+  "power_short_helps": [
+    "Adds Disorient Chance"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sigil_Transparency",
+  "display_name": "Banner Transparency",
+  "display_fullname": "Event.Banner Transparency",
+  "display_help": "Sigil_Transparency",
+  "display_short_help": "Sigil_Transparency",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/SIGIL_TRANSPARENCY.POWERSETS",
+  "icon": "sigil_transparency_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Sigil_Transparency.Transparency"
+  ],
+  "power_display_names": [
+    "Transparency"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Transparency"
+  ]
+}

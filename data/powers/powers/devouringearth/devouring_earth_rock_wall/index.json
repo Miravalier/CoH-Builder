@@ -1,0 +1,26 @@
+{
+  "name": "Devouring_Earth_Rock_Wall",
+  "display_name": "Devouring Earth Rock Wall",
+  "display_fullname": "DevouringEarth.Devouring Earth Rock Wall",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_ROCK_WALL.POWERSETS",
+  "icon": "devouring_earth_rock_wall_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Rock_Wall.Summon_Devouring_Earth",
+    "DevouringEarth.Devouring_Earth_Rock_Wall.Resistance"
+  ],
+  "power_display_names": [
+    "Summon Devouring Earth",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Auto Res Damage"
+  ]
+}

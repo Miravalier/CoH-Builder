@@ -1,0 +1,103 @@
+{
+  "name": "RoguesGallery_Desdemona_Underground",
+  "gender": "GENDER_FEMALE",
+  "group_name": "RoguesGallery",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": "1",
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_praetorianavlowperception",
+    "description": "The daughter of the original Desdemona, Eve Salvatore was destined to take up her mother's persona and pursue a life of crime. However, hers is a life of choices, and even the Arachnos Fortunatas can't predict her destiny accurately. As a demon summoning Mastermind she has the power to bend the wills of infernal entities to that of her own, a power that she has used to great effect in ridding the world of anyone who dared stand in her way.",
+    "group_description": null,
+    "display_class_name": "Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "RoguesGallery.Desdemona_Underground.Corruption",
+      "RoguesGallery.Desdemona_Underground.Lash",
+      "RoguesGallery.Desdemona_Underground.Crack_Whip",
+      "RoguesGallery.Desdemona_Underground.Tar_Patch",
+      "RoguesGallery.Desdemona_Underground.Darkest_Night",
+      "RoguesGallery.Desdemona_Underground.Speed_Boost",
+      "RoguesGallery.Desdemona_Underground.Threatening_Aura",
+      "RoguesGallery.Desdemona_Underground.Ember_Shield",
+      "RoguesGallery.Desdemona_Underground.Summon_the_Horde",
+      "RoguesGallery.Desdemona_Underground.Mark_of_Leadership",
+      "RoguesGallery.Desdemona_Underground.Untouchable",
+      "RoguesGallery.Desdemona_Underground.Intangible"
+    ],
+    "power_display_names": [
+      "Corruption",
+      "Lash",
+      "Crack Whip",
+      "Tar Patch",
+      "Darkest Night",
+      "Speed Boost",
+      "Threatening Aura",
+      "Ember Shroud",
+      "Summon the Horde",
+      "Mark of Leadership",
+      "Untouchable",
+      "Intangible"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "RoguesGallery",
+        "power_set": "Desdemona_Underground",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Desdemona"
+      ],
+      "costumes": [
+        "Signature_Desdemona_01_UG"
+      ]
+    }
+  ]
+}

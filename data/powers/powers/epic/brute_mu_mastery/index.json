@@ -1,0 +1,38 @@
+{
+  "name": "Brute_Mu_Mastery",
+  "display_name": "Mu Mastery",
+  "display_fullname": "Epic.Mu Mastery",
+  "display_help": "Scirocco has taught you the ancient powers of the Mu. In their eternal struggle against the Oranbega, the Mu have unlocked many mystical powers, including their very signature crimson lightning. Now you possess their secrets.",
+  "display_short_help": "Mu Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/BRUTE_MU_MASTERY.POWERSETS",
+  "icon": "brute_mu_mastery_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Brute_Mu_Mastery.Mu_Lightning",
+    "Epic.Brute_Mu_Mastery.Electrifying_Fences",
+    "Epic.Brute_Mu_Mastery.Ball_Lightning",
+    "Epic.Brute_Mu_Mastery.Static_Discharge",
+    "Epic.Brute_Mu_Mastery.Summon_Striker"
+  ],
+  "power_display_names": [
+    "Mu Lightning",
+    "Electrifying Fences",
+    "Ball Lightning",
+    "Static Discharge",
+    "Summon Striker"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Energy), Foe -End",
+    "Ranged (Targeted AoE), Minor DoT(Energy), Foe Immobilize, -END",
+    "Ranged (Targeted AoE), Moderate DoT(Energy), Foe -End",
+    "Ranged (Cone), Light DMG(Energy), -END",
+    "Summon Mu Strike: Ranged Moderate DMG(Energy)"
+  ]
+}

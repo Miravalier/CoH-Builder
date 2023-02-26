@@ -1,0 +1,10 @@
+{
+  "tag": "Experimental_Immune_Recov",
+  "bears": [
+    [
+      "Temporary Powers.Temporary Powers.Experimental Immune Booster",
+      "temporary_powers.temporary_powers.pathogen_cure_temp"
+    ]
+  ],
+  "affects": []
+}

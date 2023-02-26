@@ -1,0 +1,22 @@
+{
+  "name": "DeathThrow_HM",
+  "display_name": "DeathThrow (Advanced Difficulty)",
+  "display_fullname": "Romans.DeathThrow (Advanced Difficulty)",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/DEATHTHROW_HM.POWERSETS",
+  "icon": "deaththrow_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.DeathThrow_HM.Death_Extraction"
+  ],
+  "power_display_names": [
+    "Death Extraction"
+  ],
+  "power_short_helps": [
+    "Ranged (AoE), Target Death Summon, Ally Rez"
+  ]
+}

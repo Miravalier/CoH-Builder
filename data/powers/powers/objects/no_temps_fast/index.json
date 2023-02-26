@@ -1,0 +1,22 @@
+{
+  "name": "No_Temps_Fast",
+  "display_name": "No_Temps_Fast",
+  "display_fullname": "Objects.No Temps Fast",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/NO_TEMPS_FAST.POWERSETS",
+  "icon": "no_temps_fast_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.No_Temps_Fast.Disable_Temp_Powers"
+  ],
+  "power_display_names": [
+    "Disable Temp Powers"
+  ],
+  "power_short_helps": [
+    "Disable Temp Powers"
+  ]
+}

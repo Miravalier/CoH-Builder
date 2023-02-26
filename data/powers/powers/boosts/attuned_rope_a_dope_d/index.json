@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Rope_A_Dope_D",
+  "display_name": "Attuned Rope A Dope D",
+  "display_fullname": "Boosts.Attuned Rope A Dope D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and stun duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Rope A Dope",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ROPE_A_DOPE_D.POWERSETS",
+  "icon": "attuned_rope_a_dope_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Rope_A_Dope_D.Attuned_Rope_A_Dope_D"
+  ],
+  "power_display_names": [
+    "Rope A Dope: Stun/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Stun"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "LT_Hands",
+  "display_name": "LT_Hands",
+  "display_fullname": "PraetorianResistance.LT Hands",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0,
+    15,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANRESISTANCE/LT_HANDS.POWERSETS",
+  "icon": "lt_hands_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianResistance.LT_Hands.Power_Punch",
+    "PraetorianResistance.LT_Hands.Bone_Smasher",
+    "PraetorianResistance.LT_Hands.Heavy_Burst"
+  ],
+  "power_display_names": [
+    "Power Punch",
+    "Bone Smasher",
+    "Heavy Burst"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Smash/Energy), Foe Disorient",
+    "Melee, High DMG(Smash/Energy), Foe Disorient",
+    "Ranged Cone, Moderate DMG(Lethal), Foe -Def"
+  ]
+}

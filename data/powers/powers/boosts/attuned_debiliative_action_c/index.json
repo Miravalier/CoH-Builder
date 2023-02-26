@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Debiliative_Action_C",
+  "display_name": "Attuned Debilitative Action C",
+  "display_fullname": "Boosts.Attuned Debiliative Action C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Debilitative Action",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEBILIATIVE_ACTION_C.POWERSETS",
+  "icon": "attuned_debiliative_action_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Debiliative_Action_C.Attuned_Debiliative_Action_C"
+  ],
+  "power_display_names": [
+    "Debilitative Action: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

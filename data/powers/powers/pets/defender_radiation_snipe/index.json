@@ -1,0 +1,26 @@
+{
+  "name": "Defender_Radiation_Snipe",
+  "display_name": "",
+  "display_fullname": "Pets.Defender Radiation Snipe",
+  "display_help": "Radiation Blast",
+  "display_short_help": "Radiation Blast",
+  "available_level": [
+    15,
+    15
+  ],
+  "source_file": "DEFS/POWERS/PETS/DEFENDER_RADIATION_SNIPE.POWERSETS",
+  "icon": "defender_radiation_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Defender_Radiation_Snipe.Proton_Volley_Normal",
+    "Pets.Defender_Radiation_Snipe.Proton_Volley_Quick"
+  ],
+  "power_display_names": [
+    "Proton Volley",
+    "Proton Volley"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy), Foe -DEF",
+    "Sniper, Extreme DMG(Energy), Foe -DEF"
+  ]
+}

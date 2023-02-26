@@ -1,0 +1,46 @@
+{
+  "name": "Longbow_Heavy",
+  "display_name": "Longbow Heavy",
+  "display_fullname": "Pets.Longbow Heavy",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/LONGBOW_HEAVY.POWERSETS",
+  "icon": "longbow_heavy_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Longbow_Heavy.Tear_Gas",
+    "Pets.Longbow_Heavy.Grenade",
+    "Pets.Longbow_Heavy.Plasma_Blast",
+    "Pets.Longbow_Heavy.Seeker_Drones",
+    "Pets.Longbow_Heavy.Energy_Barrage",
+    "Pets.Longbow_Heavy.Air_Bomb",
+    "Pets.Longbow_Heavy.Resistances"
+  ],
+  "power_display_names": [
+    "Tear Gas",
+    "Grenade",
+    "Plasma Blast",
+    "Seeker Drones",
+    "Energy Barrage",
+    "Air Bomb",
+    "Resistances"
+  ],
+  "power_short_helps": [
+    "Hold",
+    "Targeted AoE Lethal/Fire, Knockback",
+    "-Regeneration",
+    "Disorient, -DMG, -To Hit, -Perception, Low DMG(Energy)",
+    "Knockback",
+    "DoT (Smash/Fire), Knockback",
+    "Resistance"
+  ]
+}

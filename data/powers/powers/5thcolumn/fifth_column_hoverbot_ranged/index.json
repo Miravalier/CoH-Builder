@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Hoverbot_Ranged",
+  "display_name": "Fifth_Column_Hoverbot_Ranged",
+  "display_fullname": "5thColumn.Fifth Column Hoverbot Ranged",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_HOVERBOT_RANGED.POWERSETS",
+  "icon": "fifth_column_hoverbot_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Hoverbot_Ranged.Robot_Missile_Launcher"
+  ],
+  "power_display_names": [
+    "Robot Missile Launcher"
+  ],
+  "power_short_helps": [
+    "Ranged AoE Lethal/Smash, +KB"
+  ]
+}

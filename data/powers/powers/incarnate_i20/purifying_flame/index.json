@@ -1,0 +1,26 @@
+{
+  "name": "Purifying_Flame",
+  "display_name": "Purifying Flame",
+  "display_fullname": "Incarnate I20.Purifying Flame",
+  "display_help": "Ghouls",
+  "display_short_help": "Ghouls",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/PURIFYING_FLAME.POWERSETS",
+  "icon": "purifying_flame_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Purifying_Flame.Purifying_Flame",
+    "Incarnate_I20.Purifying_Flame.Resist_Fire"
+  ],
+  "power_display_names": [
+    "Purifying Flame",
+    "Resist Fire"
+  ],
+  "power_short_helps": [
+    "Extreme DMG(Fire/Lethal)",
+    "Resist Fire"
+  ]
+}

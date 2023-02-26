@@ -1,0 +1,22 @@
+{
+  "name": "Ghosts_Boss",
+  "display_name": "Ghosts_Boss",
+  "display_fullname": "Portal.Ghosts Boss",
+  "display_help": "Ghosts",
+  "display_short_help": "Ghosts",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/GHOSTS_BOSS.POWERSETS",
+  "icon": "ghosts_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Ghosts_Boss.Necroplasmic_Grasp"
+  ],
+  "power_display_names": [
+    "Necroplasmic Grasp"
+  ],
+  "power_short_helps": [
+    "DoT(Negative), Hold"
+  ]
+}

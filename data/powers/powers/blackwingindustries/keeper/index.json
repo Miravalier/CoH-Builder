@@ -1,0 +1,22 @@
+{
+  "name": "Keeper",
+  "display_name": "BWI PEACE Keeper",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Keeper",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/KEEPER.POWERSETS",
+  "icon": "bwi_keeper_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Keeper.Siege_ExcelsionArmor"
+  ],
+  "power_display_names": [
+    "Siege Excelsion Armor"
+  ],
+  "power_short_helps": [
+    "Auto: Self +HP, +RES(Smasing/Lethal/Energy), -KB, -RES(Cold/Toxic)"
+  ]
+}

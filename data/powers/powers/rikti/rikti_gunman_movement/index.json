@@ -1,0 +1,26 @@
+{
+  "name": "Rikti_Gunman_Movement",
+  "display_name": "Rikti_Gunman_Movement",
+  "display_fullname": "Rikti.Rikti Gunman Movement",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_GUNMAN_MOVEMENT.POWERSETS",
+  "icon": "rikti_gunman_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Gunman_Movement.Teleport",
+    "Rikti.Rikti_Gunman_Movement.Super_Leap"
+  ],
+  "power_display_names": [
+    "Teleport",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Self Travel"
+  ]
+}

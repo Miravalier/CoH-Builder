@@ -1,0 +1,30 @@
+{
+  "name": "Enflame",
+  "display_name": "Enflame",
+  "display_fullname": "Pets.Enflame",
+  "display_help": "Sorcery",
+  "display_short_help": "Sorcery",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/ENFLAME.POWERSETS",
+  "icon": "enflame_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Enflame.Enflame",
+    "Pets.Enflame.Self_Destruct",
+    "Pets.Enflame.Fly"
+  ],
+  "power_display_names": [
+    "Enflame",
+    "Self Destruct",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Fire DoT",
+    "Self Destruct",
+    "Fly"
+  ]
+}

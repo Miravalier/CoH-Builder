@@ -1,0 +1,34 @@
+{
+  "name": "Spear_Fighting",
+  "display_name": "Spear_Fighting",
+  "display_fullname": "BlackKnights.Spear Fighting",
+  "display_help": "Black Knights",
+  "display_short_help": "Black Knights",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKKNIGHTS/SPEAR_FIGHTING.POWERSETS",
+  "icon": "spear_fighting_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackKnights.Spear_Fighting.Mercurial_Blow",
+    "BlackKnights.Spear_Fighting.Serpents_Reach",
+    "BlackKnights.Spear_Fighting.Innocuous_Strikes",
+    "BlackKnights.Spear_Fighting.Taunt"
+  ],
+  "power_display_names": [
+    "Mercurial Blow",
+    "Serpent's Reach",
+    "Innocuous Strikes",
+    "Taunt"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG (Smashing), -DEF(Foe, All)",
+    "Ranged, Superior DMG (Smashing), Chance for Knockdown(Foe)",
+    "Melee (Cone), High DoT (Smashing), -Speed(Foe, All), Chance for Immobilize(Foe)",
+    "Targeted AoE, Taunt"
+  ]
+}

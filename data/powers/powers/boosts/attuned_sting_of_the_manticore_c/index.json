@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Sting_of_the_Manticore_C",
+  "display_name": "Attuned Sting of the Manticore C",
+  "display_fullname": "Boosts.Attuned Sting of the Manticore C",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, the range of a power by {Boost.Attrib.Range.Scale}% and reduces interrupt time by {Boost.Attrib.InterruptTime.Scale}%.",
+  "display_short_help": "Set: Sting of the Manticore",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_STING_OF_THE_MANTICORE_C.POWERSETS",
+  "icon": "attuned_sting_of_the_manticore_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Sting_of_the_Manticore_C.Attuned_Sting_of_the_Manticore_C"
+  ],
+  "power_display_names": [
+    "Sting of the Manticore: Accuracy/Interrupt/Range"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy, Range and Decreases Interrupt Time"
+  ]
+}

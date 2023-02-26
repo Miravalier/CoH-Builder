@@ -1,0 +1,26 @@
+{
+  "name": "Delayed_Flight",
+  "display_name": "Delayed_Flight",
+  "display_fullname": "DevouringEarthSeed.Delayed Flight",
+  "display_help": "Seedborne",
+  "display_short_help": "Seedborne",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/DELAYED_FLIGHT.POWERSETS",
+  "icon": "delayed_flight_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Delayed_Flight.Delayed_Flight",
+    "DevouringEarthSeed.Delayed_Flight.Delayed_Guard"
+  ],
+  "power_display_names": [
+    "Delayed Flight",
+    "Delayed Guard"
+  ],
+  "power_short_helps": [
+    "Delayed Flight",
+    "Delayed Flight"
+  ]
+}

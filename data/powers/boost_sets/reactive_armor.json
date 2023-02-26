@@ -1,0 +1,544 @@
+{
+  "name": "Reactive_Armor",
+  "display_name": "Reactive Armor",
+  "group_name": "Resist Damage",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Resist"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Reactive_Armor_A.Crafted_Reactive_Armor_A",
+      "Boosts.Attuned_Reactive_Armor_A.Attuned_Reactive_Armor_A"
+    ],
+    [
+      "Boosts.Crafted_Reactive_Armor_B.Crafted_Reactive_Armor_B",
+      "Boosts.Attuned_Reactive_Armor_B.Attuned_Reactive_Armor_B"
+    ],
+    [
+      "Boosts.Crafted_Reactive_Armor_C.Crafted_Reactive_Armor_C",
+      "Boosts.Attuned_Reactive_Armor_C.Attuned_Reactive_Armor_C"
+    ],
+    [
+      "Boosts.Crafted_Reactive_Armor_D.Crafted_Reactive_Armor_D",
+      "Boosts.Attuned_Reactive_Armor_D.Attuned_Reactive_Armor_D"
+    ],
+    [
+      "Boosts.Crafted_Reactive_Armor_E.Crafted_Reactive_Armor_E",
+      "Boosts.Attuned_Reactive_Armor_E.Attuned_Reactive_Armor_E"
+    ],
+    [
+      "Boosts.Crafted_Reactive_Armor_F.Crafted_Reactive_Armor_F",
+      "Boosts.Attuned_Reactive_Armor_F.Attuned_Reactive_Armor_F"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 40,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_energy_neg_ranged_def_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_lethal_smash_melee_def_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.toxic_psi_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance",
+      "Enhance Damage Resistance"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_1",
+          "Tiny Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_energy_neg_ranged_def_1",
+          "Tiny Increased Energy/Negative Energy/Ranged Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_lethal_smash_melee_def_1",
+          "Tiny Increased Lethal/Smashing/Melee Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_1",
+          "Tiny Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.toxic_psi_mez_res_4",
+          "Large Toxic, Psionic and Mez Resistance"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png",
+      "e_icon_reactivearmor.png"
+    ],
+    "boosts": [
+      [
+        "Reactive Armor: Damage Resistance/Endurance",
+        "Attuned Reactive Armor: Damage Resistance/Endurance"
+      ],
+      [
+        "Reactive Armor: Damage Resistance/Recharge",
+        "Attuned Reactive Armor: Damage Resistance/Recharge"
+      ],
+      [
+        "Reactive Armor: Endurance/Recharge",
+        "Attuned Reactive Armor: Endurance/Recharge"
+      ],
+      [
+        "Reactive Armor: Damage Resistance/Endurance/Recharge",
+        "Attuned Reactive Armor: Damage Resistance/Endurance/Recharge"
+      ],
+      [
+        "Reactive Armor: Damage Resistance",
+        "Attuned Reactive Armor: Damage Resistance"
+      ],
+      [
+        "Reactive Armor: Endurance",
+        "Attuned Reactive Armor: Endurance"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_reactive_armor_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_reactive_armor_a.attuned_reactive_armor_a",
+          "Reactive Armor: Resistance/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Reactive Armor: Damage Resistance/Endurance",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "attuned_reactive_armor_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Reactive Armor: Damage Resistance/Endurance",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "crafted_reactive_armor_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_reactive_armor_b.attuned_reactive_armor_b",
+          "Reactive Armor: Resistance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Reactive Armor: Damage Resistance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "attuned_reactive_armor_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Reactive Armor: Damage Resistance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "crafted_reactive_armor_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_reactive_armor_c.attuned_reactive_armor_c",
+          "Reactive Armor: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Reactive Armor: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "attuned_reactive_armor_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Reactive Armor: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "crafted_reactive_armor_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_reactive_armor_d.attuned_reactive_armor_d",
+          "Reactive Armor: Resistance/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Reactive Armor: Damage Resistance/Endurance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "attuned_reactive_armor_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Reactive Armor: Damage Resistance/Endurance/Recharge",
+        "aspects": [
+          "Damage Resistance",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "crafted_reactive_armor_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_reactive_armor_e.attuned_reactive_armor_e",
+          "Reactive Armor: Resistance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Reactive Armor: Damage Resistance",
+        "aspects": [
+          "Damage Resistance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "attuned_reactive_armor_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Reactive Armor: Damage Resistance",
+        "aspects": [
+          "Damage Resistance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "crafted_reactive_armor_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_reactive_armor_f.attuned_reactive_armor_f",
+          "Reactive Armor: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Reactive Armor: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      },
+      "attuned_reactive_armor_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 40,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Reactive Armor: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "reactive_armor",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage Resistance",
+        "icon": "e_icon_reactivearmor.png"
+      }
+    }
+  }
+}

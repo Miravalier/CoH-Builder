@@ -1,0 +1,73 @@
+{
+  "name": "Pets_Traps_Mine_Controller",
+  "gender": "GENDER_MALE",
+  "group_name": "Pets",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Ignore",
+    "character_class_name": "minion_pets",
+    "description": null,
+    "group_description": "Traps",
+    "display_class_name": "Device",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Pets.Traps_Trip_Mine_Controller.Trip_Mine",
+      "Pets.Traps_Trip_Mine_Controller.Self_Destruct",
+      "Pets.Traps_Trip_Mine_Controller.Resistance"
+    ],
+    "power_display_names": [
+      "Trip Mine",
+      "Self Destruct",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Pets",
+        "power_set": "Traps_Trip_Mine_Controller",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Trip Mine"
+      ],
+      "costumes": [
+        "Puddle"
+      ]
+    }
+  ]
+}

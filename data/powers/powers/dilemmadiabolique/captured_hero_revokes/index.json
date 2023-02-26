@@ -1,0 +1,46 @@
+{
+  "name": "Captured_Hero_Revokes",
+  "display_name": "Captured Hero Revokes",
+  "display_fullname": "DilemmaDiabolique.Captured Hero Revokes",
+  "display_help": "Diabolique",
+  "display_short_help": "Diabolique",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/CAPTURED_HERO_REVOKES.POWERSETS",
+  "icon": "captured_hero_revokes_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_A",
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_B",
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_C",
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_D",
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_E",
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_F",
+    "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_G"
+  ],
+  "power_display_names": [
+    "Freed Essence",
+    "Freed Essence",
+    "Freed Essence",
+    "Freed Essence",
+    "Freed Essence",
+    "Freed Essence",
+    "Freed Essence"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special"
+  ]
+}

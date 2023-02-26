@@ -1,0 +1,30 @@
+{
+  "tag": "Containment",
+  "bears": [
+    [
+      "Controller Control.Symphony Control.Aria of Stasis",
+      "controller_control.symphony_control.aria_of_stasis"
+    ],
+    [
+      "Controller Control.Symphony Control.Dreadful Discord",
+      "controller_control.symphony_control.dreadful_discord"
+    ],
+    [
+      "Controller Control.Symphony Control.Enfeebling Lullaby",
+      "controller_control.symphony_control.enfeebling_lullaby"
+    ],
+    [
+      "Controller Control.Symphony Control.Hymn of Dissonance",
+      "controller_control.symphony_control.hymn_of_dissonance"
+    ],
+    [
+      "Controller Control.Symphony Control.Impassioned Serenade",
+      "controller_control.symphony_control.impassioned_serenade"
+    ],
+    [
+      "Controller Control.Symphony Control.Melodic Binding",
+      "controller_control.symphony_control.melodic_binding"
+    ]
+  ],
+  "affects": []
+}

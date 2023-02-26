@@ -1,0 +1,22 @@
+{
+  "name": "Awakened_Dart",
+  "display_name": "Awakened_Dart",
+  "display_fullname": "Awakened.Awakened Dart",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/AWAKENED_DART.POWERSETS",
+  "icon": "awakened_dart_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Awakened_Dart.Psionic_Dart"
+  ],
+  "power_display_names": [
+    "Psionic Dart"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG (Psionic), -Rech (Foe)"
+  ]
+}

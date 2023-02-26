@@ -1,0 +1,10 @@
+{
+  "tag": "OpportunityEnable",
+  "bears": [
+    [
+      "Inherent.Inherent.Opportunity",
+      "inherent.inherent.scrutiny_meter"
+    ]
+  ],
+  "affects": []
+}

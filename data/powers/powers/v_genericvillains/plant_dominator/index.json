@@ -1,0 +1,50 @@
+{
+  "name": "Plant_Dominator",
+  "display_name": "Plant Dominator",
+  "display_fullname": "V GenericVillains.Plant Dominator",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/PLANT_DOMINATOR.POWERSETS",
+  "icon": "plant_dominator_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Plant_Dominator.Strangler",
+    "V_GenericVillains.Plant_Dominator.Roots",
+    "V_GenericVillains.Plant_Dominator.Seeds_of_Confusion",
+    "V_GenericVillains.Plant_Dominator.Vines",
+    "V_GenericVillains.Plant_Dominator.Skewer",
+    "V_GenericVillains.Plant_Dominator.Fling_Thorns",
+    "V_GenericVillains.Plant_Dominator.Thorn_Burst",
+    "V_GenericVillains.Plant_Dominator.Ripper"
+  ],
+  "power_display_names": [
+    "Strangler",
+    "Roots",
+    "Seeds of Confusion",
+    "Vines",
+    "Skewer",
+    "Fling Thorns",
+    "Thorn Burst",
+    "Ripper"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Smashing), Foe Hold",
+    "Ranged (Targeted AoE), Minor DoT(Smashing, Lethal), Foe Immobilize",
+    "Ranged (Cone), Foe Confuse",
+    "Ranged (Targeted AoE), Foe Hold",
+    "Melee, Moderate DMG(Lethal), DoT(Toxic) -DEF",
+    "Ranged (Cone), Moderate DMG(Lethal), DoT(Toxic) -DEF",
+    "PBAoE Melee, Moderate DMG(Lethal), DoT(Toxic) -DEF",
+    "Melee (Cone), High DMG(Lethal), DoT(Toxic) -DEF, Knockback, -SPD"
+  ]
+}

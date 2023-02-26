@@ -1,0 +1,22 @@
+{
+  "name": "Sky_Raider_Porters_Movement",
+  "display_name": "Sky_Raider_Porters_Movement",
+  "display_fullname": "SkyRaiders.Sky Raider Porters Movement",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_PORTERS_MOVEMENT.POWERSETS",
+  "icon": "sky_raider_porters_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Porters_Movement.Teleport"
+  ],
+  "power_display_names": [
+    "Teleport"
+  ],
+  "power_short_helps": [
+    "Self Travel"
+  ]
+}

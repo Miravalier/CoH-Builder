@@ -1,0 +1,50 @@
+{
+  "name": "Endgame_Minion",
+  "display_name": "Endgame Minion",
+  "display_fullname": "Tsoo.Endgame Minion",
+  "display_help": "Tsoo",
+  "display_short_help": "Tsoo",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TSOO/ENDGAME_MINION.POWERSETS",
+  "icon": "endgame_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Tsoo.Endgame_Minion.Shuriken",
+    "Tsoo.Endgame_Minion.Brawl",
+    "Tsoo.Endgame_Minion.Poison_Dart",
+    "Tsoo.Endgame_Minion.Thunder_Kick",
+    "Tsoo.Endgame_Minion.Kama",
+    "Tsoo.Endgame_Minion.Claws",
+    "Tsoo.Endgame_Minion.Sai",
+    "Tsoo.Endgame_Minion.Slash"
+  ],
+  "power_display_names": [
+    "Shuriken",
+    "Brawl",
+    "Poison Dart",
+    "Thunder Kick",
+    "Kama",
+    "Claws",
+    "Sai",
+    "Slash"
+  ],
+  "power_short_helps": [
+    "Ranged Lethal, Low Dam",
+    "Melee Smash",
+    "Poison: DoT(Toxic), -Regeneration, -SPD",
+    "Disorient",
+    "-ACC",
+    "Melee Lethal",
+    "Melee Lethal, Self +Def",
+    "-DEF"
+  ]
+}

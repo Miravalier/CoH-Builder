@@ -1,0 +1,30 @@
+{
+  "name": "Quills_Incarnate",
+  "display_name": "",
+  "display_fullname": "Magisterium.Quills Incarnate",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/QUILLS_INCARNATE.POWERSETS",
+  "icon": "quills_incarnate_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Quills_Incarnate.Void_Radial_Final_Judgement",
+    "Magisterium.Quills_Incarnate.Polar_Lights_Core_Superior_Ally",
+    "Magisterium.Quills_Incarnate.Barrier_Invocation"
+  ],
+  "power_display_names": [
+    "Void Radial Final Judgement",
+    "Polar Lights Core Superior Ally",
+    "Barrier Invocation"
+  ],
+  "power_short_helps": [
+    "Wide PBAoE Extreme DMG(Negative Energy), Foe -DMG",
+    "Summon Polar Lights Boss & LT Essences",
+    "PBAoE Ally +DEF(All), +Res(All)"
+  ]
+}

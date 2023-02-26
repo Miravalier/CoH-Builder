@@ -1,0 +1,17 @@
+{
+  "name": "Warshade_Offensive",
+  "display_name": "Offensive",
+  "source_file": "DEFS/POWERS/WARSHADE_OFFENSIVE.CATEGORIES",
+  "archetypes": [
+    "warshade"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "warshade_offensive.umbral_blast"
+  ],
+  "powerset_display_names": [
+    "Umbral Blast"
+  ],
+  "powersets_with_requirements": []
+}

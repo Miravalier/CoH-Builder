@@ -1,0 +1,26 @@
+{
+  "name": "Protean_RippleAV",
+  "display_name": "Protean RippleAV",
+  "display_fullname": "5thColumn.Protean RippleAV",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    50,
+    50
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/PROTEAN_RIPPLEAV.POWERSETS",
+  "icon": "protean_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Protean_RippleAV.Dark_Nova_Detonation",
+    "5thColumn.Protean_RippleAV.Dark_Nova_Emanation"
+  ],
+  "power_display_names": [
+    "Dark Nova Detonation",
+    "Dark Nova Emanation"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "-Recharge, -SPD"
+  ]
+}

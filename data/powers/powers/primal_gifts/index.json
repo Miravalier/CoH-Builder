@@ -1,0 +1,15 @@
+{
+  "name": "Primal_Gifts",
+  "display_name": "Gifts",
+  "source_file": "DEFS/POWERS/PRIMAL_GIFTS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "primal_gifts.primal_gift"
+  ],
+  "powerset_display_names": [
+    "Primal Gifts"
+  ],
+  "powersets_with_requirements": []
+}

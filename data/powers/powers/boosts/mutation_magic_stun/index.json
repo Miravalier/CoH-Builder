@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Magic_Stun",
+  "display_name": "Mutation Magic Stun",
+  "display_fullname": "Boosts.Mutation Magic Stun",
+  "display_help": "Increases the duration of a disorient power.",
+  "display_short_help": "Focusing Device (Mutation, Magic)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_MAGIC_STUN.POWERSETS",
+  "icon": "mutation_magic_stun_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Magic_Stun.Mutation_Magic_Stun"
+  ],
+  "power_display_names": [
+    "Bracer (Stun)"
+  ],
+  "power_short_helps": [
+    "Enhances Disorient Duration"
+  ]
+}

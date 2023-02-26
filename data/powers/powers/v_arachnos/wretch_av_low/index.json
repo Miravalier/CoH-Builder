@@ -1,0 +1,34 @@
+{
+  "name": "Wretch_AV_Low",
+  "display_name": "Wretch AV Low",
+  "display_fullname": "V Arachnos.Wretch AV Low",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/WRETCH_AV_LOW.POWERSETS",
+  "icon": "wretch_av_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Wretch_AV_Low.Unyielding",
+    "V_Arachnos.Wretch_AV_Low.Foot_Stomp",
+    "V_Arachnos.Wretch_AV_Low.Cry_of_Despair",
+    "V_Arachnos.Wretch_AV_Low.Resistance"
+  ],
+  "power_display_names": [
+    "Unyielding",
+    "Foot Stomp",
+    "Cry of Despair",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +Res(Knockback, Sleep, Disorient, Hold, Immobilize, Fire, Cold, Energy, Negative), Self -DEF",
+    "PBAoE Melee, Moderate DMG(Smash), Knockback",
+    "PBAoE, Extreme DMG(Energy/Smash), Foe Disorient, Self -Recovery",
+    "Resistance"
+  ]
+}

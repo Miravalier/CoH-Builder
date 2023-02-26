@@ -1,0 +1,50 @@
+{
+  "name": "Cyberwarriors",
+  "display_name": "Cyberwarriors",
+  "display_fullname": "SummerEvent.Cyberwarriors",
+  "display_help": "Cyberwarriors",
+  "display_short_help": "Cyberwarriors",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/CYBERWARRIORS.POWERSETS",
+  "icon": "cyberwarriors_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.Cyberwarriors.Power_Bolt",
+    "SummerEvent.Cyberwarriors.Power_Blast",
+    "SummerEvent.Cyberwarriors.Energy_Torrent",
+    "SummerEvent.Cyberwarriors.Power_Burst",
+    "SummerEvent.Cyberwarriors.Aim",
+    "SummerEvent.Cyberwarriors.Explosive_Blast",
+    "SummerEvent.Cyberwarriors.Nova",
+    "SummerEvent.Cyberwarriors.Grant_Deadly_Burst"
+  ],
+  "power_display_names": [
+    "Power Bolt",
+    "Power Blast",
+    "Energy Torrent",
+    "Power Burst",
+    "Aim",
+    "Explosive Blast",
+    "Nova",
+    "Grant Deadly Burst"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Smashing/Energy), Chance for Knockdown(Foe)",
+    "Ranged, Moderate DMG(Smashing/Energy), Chance for Knockback(Foe)",
+    "Ranged (Cone), Moderate DMG(Smashing/Energy), Chance for Knockback (Foe)",
+    "Ranged, High DMG(Smashing/Energy), Chance for Knockback(Foe)",
+    "Self, +DMG(All), +ToHit",
+    "Targeted AoE, Moderate DMG(Smashing/Energy), Chance for Knockback(Foe)",
+    "PBAoE, Extreme DMG(Smashing/Energy), Knockback(Foe)",
+    "Special"
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "name": "Superior_Defenders_Bastion",
+  "display_name": "Superior Defender's Bastion",
+  "group_name": "Defender Archetype Sets",
+  "conversion_groups": [
+    "Rarity: Superior Archetype",
+    "Category: Superior Defender"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Superior_Attuned_Superior_Defenders_Bastion_A.Superior_Attuned_Superior_Defenders_Bastion_A"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Defenders_Bastion_B.Superior_Attuned_Superior_Defenders_Bastion_B"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Defenders_Bastion_C.Superior_Attuned_Superior_Defenders_Bastion_C"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Defenders_Bastion_D.Superior_Attuned_Superior_Defenders_Bastion_D"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Defenders_Bastion_E.Superior_Attuned_Superior_Defenders_Bastion_E"
+    ],
+    [
+      "Boosts.Superior_Attuned_Superior_Defenders_Bastion_F.Superior_Attuned_Superior_Defenders_Bastion_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_range_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_heal_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.increased_health_7",
+          "Ultimate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_range_7",
+          "Ultimate Increased Range"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_heal_7",
+          "Ultimate Improved Heal Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_7",
+          "Ultimate Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_7",
+          "Ultimate Improved Recharge Time Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_defendersbastion.png",
+      "e_icon_defendersbastion.png",
+      "e_icon_defendersbastion.png",
+      "e_icon_defendersbastion.png",
+      "e_icon_defendersbastion.png",
+      "e_icon_defendersbastion.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Superior Defender's Bastion: Accuracy/Damage"
+      ],
+      [
+        "Attuned Superior Defender's Bastion: Damage/Recharge"
+      ],
+      [
+        "Attuned Superior Defender's Bastion: Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Superior Defender's Bastion: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Attuned Superior Defender's Bastion: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Defender's Bastion: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "superior_attuned_superior_defenders_bastion_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Defender's Bastion: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_defenders_bastion",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_defendersbastion.png"
+      },
+      "superior_attuned_superior_defenders_bastion_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Defender's Bastion: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_defenders_bastion",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_defendersbastion.png"
+      },
+      "superior_attuned_superior_defenders_bastion_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Defender's Bastion: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_defenders_bastion",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_defendersbastion.png"
+      },
+      "superior_attuned_superior_defenders_bastion_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Defender's Bastion: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_defenders_bastion",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_defendersbastion.png"
+      },
+      "superior_attuned_superior_defenders_bastion_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Defender's Bastion: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_defenders_bastion",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_defendersbastion.png"
+      },
+      "superior_attuned_superior_defenders_bastion_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Defender's Bastion: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "superior_defenders_bastion",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_defendersbastion.png"
+      }
+    }
+  }
+}

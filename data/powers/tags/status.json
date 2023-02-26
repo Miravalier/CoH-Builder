@@ -1,0 +1,14 @@
+{
+  "tag": "Status",
+  "bears": [
+    [
+      "Boosts.Attuned Impervious Skin E.Status Res/Regeneration",
+      "boosts.attuned_impervious_skin_e.attuned_impervious_skin_e"
+    ],
+    [
+      "Boosts.Crafted Impervious Skin E.Status Res/Regeneration",
+      "boosts.crafted_impervious_skin_e.crafted_impervious_skin_e"
+    ]
+  ],
+  "affects": []
+}

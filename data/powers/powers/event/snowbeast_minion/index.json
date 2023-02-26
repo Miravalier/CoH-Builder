@@ -1,0 +1,26 @@
+{
+  "name": "Snowbeast_Minion",
+  "display_name": "Snowbeast Minion",
+  "display_fullname": "Event.Snowbeast Minion",
+  "display_help": "Winter Horde",
+  "display_short_help": "Winter Horde",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/SNOWBEAST_MINION.POWERSETS",
+  "icon": "snowbeast_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Snowbeast_Minion.Ice_Bolt",
+    "Event.Snowbeast_Minion.Frost"
+  ],
+  "power_display_names": [
+    "Ice Bolt",
+    "Frost"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "DoT(Cold), -Recharge, -SPD"
+  ]
+}

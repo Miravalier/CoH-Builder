@@ -1,0 +1,46 @@
+{
+  "name": "Citadel",
+  "display_name": "Citadel",
+  "display_fullname": "DilemmaDiabolique.Citadel",
+  "display_help": "Freedom Phalanx",
+  "display_short_help": "Freedom Phalanx",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/CITADEL.POWERSETS",
+  "icon": "citadel_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Citadel.Barrage",
+    "DilemmaDiabolique.Citadel.Energy_Punch",
+    "DilemmaDiabolique.Citadel.Bone_Smasher",
+    "DilemmaDiabolique.Citadel.Whirling_Hands",
+    "DilemmaDiabolique.Citadel.Energy_Transfer",
+    "DilemmaDiabolique.Citadel.Power_Burst",
+    "DilemmaDiabolique.Citadel.Energy_Torrent"
+  ],
+  "power_display_names": [
+    "Barrage",
+    "Energy Punch",
+    "Bone Smasher",
+    "Whirling Hands",
+    "Energy Transfer",
+    "Power Burst",
+    "Energy Torrent"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Disorient",
+    "Melee, DMG(Energy), Foe Disorient, Knockback",
+    "Close, DMG(Energy), Foe Knockback",
+    "Cone DMG(Energy), Knockback"
+  ]
+}

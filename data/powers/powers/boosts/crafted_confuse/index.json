@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Confuse",
+  "display_name": "Crafted Confuse 10",
+  "display_fullname": "Boosts.Crafted Confuse",
+  "display_help": "Increases confuse duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Invention",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_CONFUSE.POWERSETS",
+  "icon": "crafted_confuse_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Confuse.Crafted_Confuse"
+  ],
+  "power_display_names": [
+    "Invention: Confusion Duration"
+  ],
+  "power_short_helps": [
+    "Enhances Confuse Duration"
+  ]
+}

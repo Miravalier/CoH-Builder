@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Recovery_Boost_Villains",
+  "display_name": "Recovery",
+  "display_fullname": "Objects.Recovery",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/GENERIC_RECOVERY_BOOST_VILLAINS.POWERSETS",
+  "icon": "generic_recovery_boost_villains_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Generic_Recovery_Boost_Villains.Vitality"
+  ],
+  "power_display_names": [
+    "Vitality"
+  ],
+  "power_short_helps": [
+    "+Recovery"
+  ]
+}

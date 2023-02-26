@@ -1,0 +1,86 @@
+{
+  "tag": "Disintegrate",
+  "bears": [
+    [
+      "Blaster Ranged.Beam Rifle.Charged Shot",
+      "blaster_ranged.beam_rifle.charged_shot"
+    ],
+    [
+      "Blaster Ranged.Beam Rifle.Lancer Shot",
+      "blaster_ranged.beam_rifle.lancer_shot"
+    ],
+    [
+      "Blaster Ranged.Beam Rifle.Single Shot",
+      "blaster_ranged.beam_rifle.single_shot"
+    ],
+    [
+      "Corruptor Ranged.Beam Rifle.Charged Shot",
+      "corruptor_ranged.beam_rifle.charged_shot"
+    ],
+    [
+      "Corruptor Ranged.Beam Rifle.Lancer Shot",
+      "corruptor_ranged.beam_rifle.lancer_shot"
+    ],
+    [
+      "Corruptor Ranged.Beam Rifle.Single Shot",
+      "corruptor_ranged.beam_rifle.single_shot"
+    ],
+    [
+      "Defender Ranged.Beam Rifle.Charged Shot",
+      "defender_ranged.beam_rifle.charged_shot"
+    ],
+    [
+      "Defender Ranged.Beam Rifle.Lancer Shot",
+      "defender_ranged.beam_rifle.lancer_shot"
+    ],
+    [
+      "Defender Ranged.Beam Rifle.Single Shot",
+      "defender_ranged.beam_rifle.single_shot"
+    ],
+    [
+      "Mission Maker Attacks.Beam Rifle.Penetrating Ray",
+      "mission_maker_attacks.beam_rifle.penetrating_ray"
+    ],
+    [
+      "Mission Maker Secondary.Beam Rifle.Penetrating Ray",
+      "mission_maker_secondary.beam_rifle.penetrating_ray"
+    ],
+    [
+      "Pets.Beam Rifle.Penetrating Ray",
+      "pets.blaster_br_snipe.penetrating_ray_normal"
+    ],
+    [
+      "Pets.Beam Rifle.Penetrating Ray",
+      "pets.blaster_br_snipe.penetrating_ray_quick"
+    ],
+    [
+      "Pets.Defender BR Snipe.Penetrating Ray",
+      "pets.defender_br_snipe.penetrating_ray_normal"
+    ],
+    [
+      "Pets.Defender BR Snipe.Penetrating Ray",
+      "pets.defender_br_snipe.penetrating_ray_quick"
+    ],
+    [
+      "Sentinel Ranged.Beam Rifle.Charged Shot",
+      "sentinel_ranged.beam_rifle.charged_shot"
+    ],
+    [
+      "Sentinel Ranged.Beam Rifle.Lancer Shot",
+      "sentinel_ranged.beam_rifle.lancer_shot"
+    ],
+    [
+      "Sentinel Ranged.Beam Rifle.Single Shot",
+      "sentinel_ranged.beam_rifle.single_shot"
+    ],
+    [
+      "Villain Pets.Corruptor BeamRifle Snipe.Penetrating Ray",
+      "villain_pets.corruptor_beamrifle_snipe.penetrating_ray_normal"
+    ],
+    [
+      "Villain Pets.Corruptor BeamRifle Snipe.Penetrating Ray",
+      "villain_pets.corruptor_beamrifle_snipe.penetrating_ray_quick"
+    ]
+  ],
+  "affects": []
+}

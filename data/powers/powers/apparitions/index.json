@@ -1,0 +1,44 @@
+{
+  "name": "Apparitions",
+  "display_name": "Apparitions",
+  "source_file": "DEFS/POWERS/APPARITIONS.CATEGORIES",
+  "archetypes": [
+    "boss_grunt",
+    "lt_grunt",
+    "minion_grunt",
+    "minion_pets"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "apparitions.apparitions_merge",
+    "apparitions.fearsome_reflection",
+    "apparitions.hive_of_anger",
+    "apparitions.impression_basic",
+    "apparitions.impression_merged",
+    "apparitions.monarch_aura",
+    "apparitions.possessed_aura",
+    "apparitions.possessed_emerge",
+    "apparitions.resistances",
+    "apparitions.spectre_basic",
+    "apparitions.spectre_merged",
+    "apparitions.spirit_basic",
+    "apparitions.spirit_merged"
+  ],
+  "powerset_display_names": [
+    "Apparitions_Merge",
+    "Fearsome_Reflection",
+    "Hive_of_Anger",
+    "Impression_Basic",
+    "Impression_Merged",
+    "Monarch_Aura",
+    "Possessed_Aura",
+    "Possessed_Emerge",
+    "Resistances",
+    "Spectre_Basic",
+    "Spectre_Merged",
+    "Spirit_Basic",
+    "Spirit_Merged"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Natterlings",
+  "display_name": "Natterlings",
+  "display_fullname": "Rularuu.Natterlings",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/NATTERLINGS.POWERSETS",
+  "icon": "natterlings_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Natterlings.Resistance",
+    "Rularuu.Natterlings.Fly",
+    "Rularuu.Natterlings.Pummel",
+    "Rularuu.Natterlings.Panic",
+    "Rularuu.Natterlings.Scatter_Shards"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fly",
+    "Pummel",
+    "Panic",
+    "Scatter Shards"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Melee Heavy Smash",
+    "Panic",
+    "Ranged, Medium DMG(Lethal)"
+  ]
+}

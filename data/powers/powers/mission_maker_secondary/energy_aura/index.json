@@ -1,0 +1,46 @@
+{
+  "name": "Energy_Aura",
+  "display_name": "Energy Aura",
+  "display_fullname": "Mission Maker Secondary.Energy Aura",
+  "display_help": "You can surround yourself in powerful defensive Energy Auras that can deflect your foes' attacks. Like other defensive powers, Energy Auras do not reduce the damage you take, but rather reduce your chance of getting hit by deflecting your foes' attacks. Energy Auras offer good defense to most attack types, but offer superior defense to Energy based attacks. However, Energy Aura offers no defense to Psionic attacks.",
+  "display_short_help": "Energy Aura",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/ENERGY_AURA.POWERSETS",
+  "icon": "energy_aura_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Energy_Aura.Kinetic_Shield",
+    "Mission_Maker_Secondary.Energy_Aura.Dampening_Field",
+    "Mission_Maker_Secondary.Energy_Aura.Power_Shield",
+    "Mission_Maker_Secondary.Energy_Aura.Entropy_Shield",
+    "Mission_Maker_Secondary.Energy_Aura.Energy_Protection",
+    "Mission_Maker_Secondary.Energy_Aura.Energy_Drain",
+    "Mission_Maker_Secondary.Energy_Aura.Overload"
+  ],
+  "power_display_names": [
+    "Kinetic Shield",
+    "Dampening Field",
+    "Power Shield",
+    "Entropy Shield",
+    "Energy Protection",
+    "Energy Drain",
+    "Overload"
+  ],
+  "power_short_helps": [
+    "Toggle: Self +DEF(Smashing, Lethal, Energy), Res(DeBuff DEF)",
+    "Auto: Self +Res (Smashing, Lethal)",
+    "Toggle: Self +DEF(Fire, Cold, Energy, Negative), Res(DeBuff DEF)",
+    "Toggle: Self +Res(Knockback, Repel, Disorient, Hold, Sleep, Immobilize, Teleport, DeBuff DEF)",
+    "Auto: Self +Res (Energy, Negative, Toxic)",
+    "PBAoE, Self +End +HP, Foe -End",
+    "Self +DEF(All but Psionics), +Recovery, +Max HP, Res(DeBuff DEF), +Special"
+  ]
+}

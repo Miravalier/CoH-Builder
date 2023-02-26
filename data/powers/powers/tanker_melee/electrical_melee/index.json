@@ -1,0 +1,54 @@
+{
+  "name": "Electrical_Melee",
+  "display_name": "Electrical Melee",
+  "display_fullname": "Tanker Melee.Electrical Melee",
+  "display_help": "Electricity surges through your body and you can channel this electricity through your fists. Electrical Melee allows you to pummel your foes with various melee attack powers while jolting them with a powerful electric current. Electric Melee powers can drain foes' Endurance and temporarily halt their Endurance recovery. Some powers may even return a portion of drained Endurance back to you.",
+  "display_short_help": "Electrical Melee",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/TANKER_MELEE/ELECTRICAL_MELEE.POWERSETS",
+  "icon": "electrical_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Tanker_Melee.Electrical_Melee.Charged_Brawl",
+    "Tanker_Melee.Electrical_Melee.Havoc_Punch",
+    "Tanker_Melee.Electrical_Melee.Jacobs_Ladder",
+    "Tanker_Melee.Electrical_Melee.Taunt",
+    "Tanker_Melee.Electrical_Melee.Thunder_Strike",
+    "Tanker_Melee.Electrical_Melee.Build_Up",
+    "Tanker_Melee.Electrical_Melee.Chain_Induction",
+    "Tanker_Melee.Electrical_Melee.Lightning_Clap",
+    "Tanker_Melee.Electrical_Melee.Lightning_Rod"
+  ],
+  "power_display_names": [
+    "Charged Brawl",
+    "Havoc Punch",
+    "Jacobs Ladder",
+    "Taunt",
+    "Thunder Strike",
+    "Build Up",
+    "Chain Induction",
+    "Lightning Clap",
+    "Lightning Rod"
+  ],
+  "power_short_helps": [
+    "Melee, DMG(Smash/Energy), Target Sleep, -End,",
+    "Melee, DMG(Smash/Energy), Foe Sleep, -End",
+    "Melee (Cone), DMG(Energy), Foe Sleep, -End",
+    "Ranged, Foe Taunt",
+    "Melee (AoE), DMG(Energy), Foe Disorient, Knockback, -End",
+    "Self +DMG, +To Hit",
+    "Melee, DMG(Energy), Foe -End +Special",
+    "PBAoE, Foe Disorient, Knockback",
+    "PBAoE DMG(Energy), Foe Knockback; Self Teleport;"
+  ]
+}

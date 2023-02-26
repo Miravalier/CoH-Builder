@@ -1,0 +1,30 @@
+{
+  "name": "Ghost_Trap",
+  "display_name": "Ghost Trap",
+  "display_fullname": "V SpectralPirates.Ghost Trap",
+  "display_help": "Ghost Trap",
+  "display_short_help": "Ghost Trap",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SPECTRALPIRATES/GHOST_TRAP.POWERSETS",
+  "icon": "ghost_trap_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpectralPirates.Ghost_Trap.Ectoplasmic_Containment",
+    "V_SpectralPirates.Ghost_Trap.Spectrographic_Assimilator",
+    "V_SpectralPirates.Ghost_Trap.Assimilation_Overload"
+  ],
+  "power_display_names": [
+    "Ectoplasmic Containment",
+    "Spectrographic Assimilator",
+    "Assimilation Overload"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Special"
+  ]
+}

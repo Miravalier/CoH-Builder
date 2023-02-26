@@ -1,0 +1,58 @@
+{
+  "name": "Ice_Corruptor",
+  "display_name": "Ice Corruptor",
+  "display_fullname": "V GenericVillains.Ice Corruptor",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/ICE_CORRUPTOR.POWERSETS",
+  "icon": "ice_corruptor_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Ice_Corruptor.Ice_Bolt",
+    "V_GenericVillains.Ice_Corruptor.Ice_Blast",
+    "V_GenericVillains.Ice_Corruptor.Frost_Breath",
+    "V_GenericVillains.Ice_Corruptor.Freeze_Ray",
+    "V_GenericVillains.Ice_Corruptor.Ice_Storm",
+    "V_GenericVillains.Ice_Corruptor.Bitter_Ice_Blast",
+    "V_GenericVillains.Ice_Corruptor.Frostwork",
+    "V_GenericVillains.Ice_Corruptor.Bitter_Freeze_Ray",
+    "V_GenericVillains.Ice_Corruptor.Heat_Loss",
+    "V_GenericVillains.Ice_Corruptor.Blizzard"
+  ],
+  "power_display_names": [
+    "Ice Bolt",
+    "Ice Blast",
+    "Frost Breath",
+    "Freeze Ray",
+    "Ice Storm",
+    "Bitter Ice Blast",
+    "Frostwork",
+    "Bitter Freeze Ray",
+    "Heat Loss",
+    "Blizzard"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "DoT(Cold), -Recharge, -SPD",
+    "Ranged, Minor DMG(Cold), Foe Hold",
+    "DoT(Cold), -Recharge, -SPD",
+    "Ranged, Superior DMG(Cold/Smash), Foe -Recharge, -SPD, -ACC",
+    "Target +Max HP, Res(Toxic)",
+    "Ranged, Moderate DMG(Cold), Foe Hold",
+    "Ranged (Foe AoE), Foe -RES, -END, Slow; Team +END, +Recovery",
+    "Ranged (Location AoE), Extreme DoT(Cold), Foe -ACC, -SPD, -Recharge, Knockback, Self -Recovery"
+  ]
+}

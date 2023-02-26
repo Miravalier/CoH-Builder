@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Basilisks_Gaze_A",
+  "display_name": "Attuned Basilisks Gaze A",
+  "display_fullname": "Boosts.Attuned Basilisks Gaze A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and hold duration of a power by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Basilisk's Gaze",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BASILISKS_GAZE_A.POWERSETS",
+  "icon": "attuned_basilisks_gaze_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Basilisks_Gaze_A.Attuned_Basilisks_Gaze_A"
+  ],
+  "power_display_names": [
+    "Basilisk's Gaze: Accuracy/Hold"
+  ],
+  "power_short_helps": [
+    "+ACC, +Hold"
+  ]
+}

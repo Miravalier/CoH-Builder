@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Vampyri_Defense",
+  "display_name": "Fifth_Column_Vampyri_Defense",
+  "display_fullname": "5thColumn.Fifth Column Vampyri Defense",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_VAMPYRI_DEFENSE.POWERSETS",
+  "icon": "fifth_column_vampyri_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Vampyri_Defense.Fast_Healing"
+  ],
+  "power_display_names": [
+    "Fast Healing"
+  ],
+  "power_short_helps": [
+    "Self Auto, +Regen"
+  ]
+}

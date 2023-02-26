@@ -1,0 +1,26 @@
+{
+  "name": "Nictus_Transformation_Complete",
+  "display_name": "Nictus Transformation Complete",
+  "display_fullname": "Romans.Nictus Transformation Complete",
+  "display_help": "Romans",
+  "display_short_help": "Romans",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/NICTUS_TRANSFORMATION_COMPLETE.POWERSETS",
+  "icon": "fifth_column_nightwolf_transformation_complete_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Nictus_Transformation_Complete.Metamorphosis_Nova",
+    "Romans.Nictus_Transformation_Complete.Metamorphosis_Dwarf"
+  ],
+  "power_display_names": [
+    "Metamorphosis",
+    "Metamorphosis"
+  ],
+  "power_short_helps": [
+    "Metamorphosis",
+    "Metamorphosis"
+  ]
+}

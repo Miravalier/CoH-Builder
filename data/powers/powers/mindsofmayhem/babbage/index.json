@@ -1,0 +1,38 @@
+{
+  "name": "Babbage",
+  "display_name": "Babbage",
+  "display_fullname": "MindsOfMayhem.Babbage",
+  "display_help": "Nightmares",
+  "display_short_help": "Nightmares",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/BABBAGE.POWERSETS",
+  "icon": "babbage_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Babbage.Lightning_Bolt",
+    "MindsOfMayhem.Babbage.Shock",
+    "MindsOfMayhem.Babbage.Short_Circuit",
+    "MindsOfMayhem.Babbage.Lightning_Field",
+    "MindsOfMayhem.Babbage.Ball_Lightning"
+  ],
+  "power_display_names": [
+    "Lightning Bolt",
+    "Shock",
+    "Short Circuit",
+    "Lightning Field",
+    "Ball Lightning"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG (Energy), -End(Foe)",
+    "Ranged, Moderate DMG(Energy), Minor DoT(Energy), -End(Foe)",
+    "PBAoE, Moderate DoT(Energy), -End(Foe), -Recovery(Foe)",
+    "Toggle PBAoE, Minor DMG(Energy), -End(Foe)",
+    "TAoE, Moderate DMG(Energy), -End(Foe)"
+  ]
+}

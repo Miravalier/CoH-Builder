@@ -1,0 +1,26 @@
+{
+  "name": "VolcanicGeyser",
+  "display_name": "Volcanic Geyser",
+  "display_fullname": "Pets.Volcanic Geyser",
+  "display_help": "Earth Control",
+  "display_short_help": "Earth Control",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/VOLCANICGEYSER.POWERSETS",
+  "icon": "volcanicgeyser_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.VolcanicGeyser.Thermal_Vents",
+    "Pets.VolcanicGeyser.Resistance"
+  ],
+  "power_display_names": [
+    "Thermal Vents",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Thermal Vents",
+    "Resistance"
+  ]
+}

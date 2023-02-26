@@ -1,0 +1,26 @@
+{
+  "name": "Octopus_Tentacle",
+  "display_name": "Octopus Tentacle",
+  "display_fullname": "Event.Octopus Tentacle",
+  "display_help": "Octopus",
+  "display_short_help": "Octopus",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/OCTOPUS_TENTACLE.POWERSETS",
+  "icon": "octopus_tentacle_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Octopus_Tentacle.Tentacle_Smash",
+    "Event.Octopus_Tentacle.Resistance"
+  ],
+  "power_display_names": [
+    "Tentacle Smash",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "Resistance"
+  ]
+}

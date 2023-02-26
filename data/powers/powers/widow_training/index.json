@@ -1,0 +1,21 @@
+{
+  "name": "Widow_Training",
+  "display_name": "Training",
+  "source_file": "DEFS/POWERS/WIDOW_TRAINING.CATEGORIES",
+  "archetypes": [
+    "arachnos_widow"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "widow_training.fortunata_training",
+    "widow_training.night_widow_training",
+    "widow_training.widow_training"
+  ],
+  "powerset_display_names": [
+    "Fortunata Training",
+    "Night Widow Training",
+    "Widow Training"
+  ],
+  "powersets_with_requirements": []
+}

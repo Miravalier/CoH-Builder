@@ -1,0 +1,30 @@
+{
+  "name": "Drop_Zone",
+  "display_name": "Drop Zone",
+  "display_fullname": "Rikti.Drop Zone",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/DROP_ZONE.POWERSETS",
+  "icon": "drop_zone_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Drop_Zone.Transport",
+    "Rikti.Drop_Zone.Expel",
+    "Rikti.Drop_Zone.Resistance"
+  ],
+  "power_display_names": [
+    "Transport",
+    "Expel",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Summon",
+    "Expel",
+    "Res (Lethal/Smashing)"
+  ]
+}

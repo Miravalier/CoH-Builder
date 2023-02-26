@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Dark_Watchers_Despair_A",
+  "display_name": "Attuned Dark Watchers Despair A",
+  "display_fullname": "Boosts.Attuned Dark Watchers Despair A",
+  "display_help": "Enhances the to hit debuff potential of a power by {Boost.Attrib.ToHit.Scale}%.",
+  "display_short_help": "Set: Dark Watcher's Despair",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DARK_WATCHERS_DESPAIR_A.POWERSETS",
+  "icon": "attuned_dark_watchers_despair_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Dark_Watchers_Despair_A.Attuned_Dark_Watchers_Despair_A"
+  ],
+  "power_display_names": [
+    "Dark Watcher's Despair: To Hit Debuff"
+  ],
+  "power_short_helps": [
+    "+To Hit Debuff"
+  ]
+}

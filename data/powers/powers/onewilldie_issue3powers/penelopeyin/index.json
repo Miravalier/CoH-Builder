@@ -1,0 +1,26 @@
+{
+  "name": "PenelopeYin",
+  "display_name": "PenelopeYin",
+  "display_fullname": "OneWillDie Issue3Powers.PenelopeYin",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE3POWERS/PENELOPEYIN.POWERSETS",
+  "icon": "penelopeyin_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue3Powers.PenelopeYin.Protection_Bubble",
+    "OneWillDie_Issue3Powers.PenelopeYin.Bubble"
+  ],
+  "power_display_names": [
+    "Protection Bubble",
+    "Bubble"
+  ],
+  "power_short_helps": [
+    "Apocalypse Beam Protection",
+    "Apocalypse Beam Protection"
+  ]
+}

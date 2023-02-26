@@ -1,0 +1,22 @@
+{
+  "name": "Vindicator_Resistances",
+  "display_name": "Vindicator Resistances",
+  "display_fullname": "V Vindicators.Vindicator Resistances",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_VINDICATORS/VINDICATOR_RESISTANCES.POWERSETS",
+  "icon": "vindicator_resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Vindicators.Vindicator_Resistances.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

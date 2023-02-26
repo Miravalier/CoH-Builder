@@ -1,0 +1,46 @@
+{
+  "name": "Valkyrie",
+  "display_name": "Valkyrie",
+  "display_fullname": "DilemmaDiabolique.Valkyrie",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/VALKYRIE.POWERSETS",
+  "icon": "valkyrie_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Valkyrie.Exploding_Spear",
+    "DilemmaDiabolique.Valkyrie.Hack",
+    "DilemmaDiabolique.Valkyrie.Slash",
+    "DilemmaDiabolique.Valkyrie.Slice",
+    "DilemmaDiabolique.Valkyrie.Flying_Swords",
+    "DilemmaDiabolique.Valkyrie.Whirling_Sword",
+    "DilemmaDiabolique.Valkyrie.Head_Splitter"
+  ],
+  "power_display_names": [
+    "Exploding Spear",
+    "Hack",
+    "Slash",
+    "Slice",
+    "Flying Swords",
+    "Whirling Sword",
+    "Head Splitter"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Fire), Knockback",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF"
+  ]
+}

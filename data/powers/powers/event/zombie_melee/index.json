@@ -1,0 +1,30 @@
+{
+  "name": "Zombie_Melee",
+  "display_name": "Zombie Melee",
+  "display_fullname": "Event.Zombie Melee",
+  "display_help": "Zombie",
+  "display_short_help": "Zombie",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/ZOMBIE_MELEE.POWERSETS",
+  "icon": "zombie_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Zombie_Melee.Zombie_Brawl",
+    "Event.Zombie_Melee.Tomahawk",
+    "Event.Zombie_Melee.Wooden_Club"
+  ],
+  "power_display_names": [
+    "Zombie Brawl",
+    "Tomahawk",
+    "Wooden Club"
+  ],
+  "power_short_helps": [
+    "Melee Smash/Negative",
+    "-DEF",
+    "Melee Smash, Med Dam"
+  ]
+}

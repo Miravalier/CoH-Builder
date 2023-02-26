@@ -1,0 +1,79 @@
+{
+  "name": "ParagonPolice_PPD_Sniper",
+  "gender": "GENDER_MALE",
+  "group_name": "ParagonPolice",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 21,
+    "max_level": 40,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_SNIPER",
+    "ai_config": "Default_Sniper",
+    "character_class_name": "lt_sniper",
+    "description": "Keeping the peace in Paragon City is not easy by any stretch of the imagination, and the PPD has to be clever and innovative to keep up with would be criminals. When things get dicey, PPD SWAT answers the call. These heavily armored officers have extensive training with the newest tactics and weaponry to combat their often super powered foes.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_ParagonPolice.PPD_Sniper.Sniper_Rifle",
+      "V_ParagonPolice.SWAT_Resists.Resistances"
+    ],
+    "power_display_names": [
+      "Sniper Rifle",
+      "Resistances"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "PPD_Sniper",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_ParagonPolice",
+        "power_set": "SWAT_Resists",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 21,
+      "max_level": 40,
+      "experience": 0,
+      "display_names": [
+        "PPD Operative"
+      ],
+      "costumes": [
+        "Swat_Operative"
+      ]
+    }
+  ]
+}

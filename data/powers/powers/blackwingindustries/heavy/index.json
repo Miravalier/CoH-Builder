@@ -1,0 +1,54 @@
+{
+  "name": "Heavy",
+  "display_name": "BWI PEACE Heavy",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Heavy",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/HEAVY.POWERSETS",
+  "icon": "bwi_heavy_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Heavy.Military_Training",
+    "BlackwingIndustries.Heavy.Psi_Grenade",
+    "BlackwingIndustries.Heavy.Rifle_Butt",
+    "BlackwingIndustries.Heavy.Rifle_Butt_2",
+    "BlackwingIndustries.Heavy.Assault_Rifle",
+    "BlackwingIndustries.Heavy.Assault_Rifle_Spray",
+    "BlackwingIndustries.Heavy.Full_Auto_Attack",
+    "BlackwingIndustries.Heavy.Beanbag",
+    "BlackwingIndustries.Heavy.Tactics"
+  ],
+  "power_display_names": [
+    "Military Training",
+    "Psionic Grenade",
+    "Assault Rifle Butt",
+    "Assault Rifle Butt",
+    "Neurotoxin Assault Rifle",
+    "Neurotoxin Assault Rifle Spray",
+    "Neurotoxic Full Auto",
+    "Beanbag",
+    "Tactics"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD, +ACC, Res(Slow/Confuse)",
+    "Ranged AoE, Moderate DMG(Psionic), -Recharge",
+    "Melee, Moderate DMG(Smashing), Foe Disorient",
+    "Melee, Moderate DMG(Smashing), Foe Disorient",
+    "Ranged, Moderate DoT(Cold/Toxic), Foe -SPD, -Heal, -Regen",
+    "Ranged (Cone), Moderate DoT(Cold/Toxic), Foe -SPD, -Heal, -Regen",
+    "Ranged (Cone), High DoT(Cold/Toxic), Foe -SPD, -Heal, -Regen",
+    "Ranged, Minor DMG(Smash), Foe Disorient",
+    "Auto: Team AOE +ACC, Res(Confuse, Fear), +Perception"
+  ]
+}

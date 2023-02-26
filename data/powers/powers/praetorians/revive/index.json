@@ -1,0 +1,26 @@
+{
+  "name": "Revive",
+  "display_name": "Revive",
+  "display_fullname": "Praetorians.Revive",
+  "display_help": "Revive",
+  "display_short_help": "Revive",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/REVIVE.POWERSETS",
+  "icon": "revive_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Revive.Revive",
+    "Praetorians.Revive.Cleanup"
+  ],
+  "power_display_names": [
+    "Revive",
+    "Cleanup"
+  ],
+  "power_short_helps": [
+    "Ally Rez",
+    "SilentKill"
+  ]
+}

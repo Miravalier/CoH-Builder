@@ -1,0 +1,22 @@
+{
+  "name": "Synthetic_Hamidon_Damage_Range",
+  "display_name": "Synthetic Hamidon Damage Range",
+  "display_fullname": "Boosts.Synthetic Hamidon Damage Range",
+  "display_help": "Enhances the damage and range of a power.",
+  "display_short_help": "Hamidon (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/SYNTHETIC_HAMIDON_DAMAGE_RANGE.POWERSETS",
+  "icon": "synthetic_hamidon_damage_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Synthetic_Hamidon_Damage_Range.Synthetic_Hamidon_Damage_Range"
+  ],
+  "power_display_names": [
+    "Synthetic Centriole Exposure (Dam/Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Range"
+  ]
+}

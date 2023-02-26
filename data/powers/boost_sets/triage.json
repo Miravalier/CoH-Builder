@@ -1,0 +1,370 @@
+{
+  "name": "Triage",
+  "display_name": "Triage",
+  "group_name": "Healing",
+  "conversion_groups": [
+    "Rarity: Uncommon",
+    "Category: Healing"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Triage_A.Crafted_Triage_A",
+      "Boosts.Attuned_Triage_A.Attuned_Triage_A"
+    ],
+    [
+      "Boosts.Crafted_Triage_B.Crafted_Triage_B",
+      "Boosts.Attuned_Triage_B.Attuned_Triage_B"
+    ],
+    [
+      "Boosts.Crafted_Triage_C.Crafted_Triage_C",
+      "Boosts.Attuned_Triage_C.Attuned_Triage_C"
+    ],
+    [
+      "Boosts.Crafted_Triage_D.Crafted_Triage_D",
+      "Boosts.Attuned_Triage_D.Attuned_Triage_D"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_regeneration_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 4,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_heal_1"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal",
+      "Enhance Heal"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_regeneration_1",
+          "Tiny Improved Regeneration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_1",
+          "Tiny Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_heal_1",
+          "Tiny Improved Heal Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_triage.png",
+      "e_icon_triage.png",
+      "e_icon_triage.png",
+      "e_icon_triage.png",
+      "e_icon_triage.png",
+      "e_icon_triage.png",
+      "e_icon_triage.png",
+      "e_icon_triage.png"
+    ],
+    "boosts": [
+      [
+        "Triage: Endurance/Heal",
+        "Attuned Triage: Endurance/Heal"
+      ],
+      [
+        "Triage: Endurance/Recharge",
+        "Attuned Triage: Endurance/Recharge"
+      ],
+      [
+        "Triage: Heal/Recharge",
+        "Attuned Triage: Heal/Recharge"
+      ],
+      [
+        "Triage: Endurance/Heal/Recharge",
+        "Attuned Triage: Endurance/Heal/Recharge"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_triage_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triage_a.attuned_triage_a",
+          "Triage: Healing/Absorb/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triage: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "attuned_triage_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triage: Endurance/Heal",
+        "aspects": [
+          "Endurance",
+          "Heal"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "crafted_triage_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triage_b.attuned_triage_b",
+          "Triage: Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triage: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "attuned_triage_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triage: Endurance/Recharge",
+        "aspects": [
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "crafted_triage_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triage_c.attuned_triage_c",
+          "Triage: Healing/Absorb/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triage: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "attuned_triage_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triage: Heal/Recharge",
+        "aspects": [
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "crafted_triage_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_triage_d.attuned_triage_d",
+          "Triage: Healing/Absorb/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Triage: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      },
+      "attuned_triage_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Triage: Endurance/Heal/Recharge",
+        "aspects": [
+          "Endurance",
+          "Heal",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "triage",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Heal",
+        "icon": "e_icon_triage.png"
+      }
+    }
+  }
+}

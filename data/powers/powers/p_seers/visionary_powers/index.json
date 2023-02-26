@@ -1,0 +1,34 @@
+{
+  "name": "Visionary_Powers",
+  "display_name": "Visionary Powers",
+  "display_fullname": "P Seers.Visionary Powers",
+  "display_help": "Visionary",
+  "display_short_help": "Visionary",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/VISIONARY_POWERS.POWERSETS",
+  "icon": "visionary_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Visionary_Powers.Mental_Blast",
+    "P_Seers.Visionary_Powers.Psychic_Scream",
+    "P_Seers.Visionary_Powers.Summon_Reinforcements",
+    "P_Seers.Visionary_Powers.Psionic_Tornado"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Psychic Scream",
+    "Summon Reinforcements",
+    "Psionic Tornado"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "-Recharge",
+    "Summon Reinforcements",
+    "Ranged (Targeted AoE), Moderate DoT(Psionic), Foe Knockback"
+  ]
+}

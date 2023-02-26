@@ -1,0 +1,22 @@
+{
+  "name": "DeathThrow",
+  "display_name": "DeathThrow",
+  "display_fullname": "Romans.DeathThrow",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/DEATHTHROW.POWERSETS",
+  "icon": "deaththrow_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.DeathThrow.Death_Throw"
+  ],
+  "power_display_names": [
+    "Death Throw"
+  ],
+  "power_short_helps": [
+    "Ranged (AoE), Minor DMG(Negative), Target Slow, -Recharge, Disorient, Ally Rez"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Invisibility",
+  "display_name": "Concealment",
+  "display_fullname": "Pool.Concealment",
+  "display_help": "These powers grant you Invisibility and Stealth.",
+  "display_short_help": "Concealment",
+  "available_level": [
+    0,
+    0,
+    3,
+    13,
+    13
+  ],
+  "source_file": "DEFS/POWERS/POOL/INVISIBILITY.POWERSETS",
+  "icon": "invisibility_set.png",
+  "requires": "",
+  "power_names": [
+    "Pool.Invisibility.Stealth",
+    "Pool.Invisibility.Grant_Invisibility",
+    "Pool.Invisibility.Invisibility",
+    "Pool.Invisibility.Phase_Shift",
+    "Pool.Invisibility.Misdirection"
+  ],
+  "power_display_names": [
+    "Stealth",
+    "Grant Invisibility",
+    "Infiltration",
+    "Phase Shift",
+    "Misdirection"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Stealth, +DEF(All)",
+    "Ranged, Teammate Stealth, +DEF(All)",
+    "Toggle: Self, +Jump, +Run Speed, Self Stealth, +DEF(All)",
+    "Toggle: Self Intangible",
+    "PBAoE, Foe Placate, -Res(All)"
+  ]
+}

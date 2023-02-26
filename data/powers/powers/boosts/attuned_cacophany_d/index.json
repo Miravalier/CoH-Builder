@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cacophany_D",
+  "display_name": "Attuned Cacophony D",
+  "display_fullname": "Boosts.Attuned Cacophany D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and confuse duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Cacophony",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CACOPHANY_D.POWERSETS",
+  "icon": "attuned_cacophany_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cacophany_D.Attuned_Cacophany_D"
+  ],
+  "power_display_names": [
+    "Cacophony: Confuse/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Confuse"
+  ]
+}

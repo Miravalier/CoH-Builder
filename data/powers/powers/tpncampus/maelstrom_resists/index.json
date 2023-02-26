@@ -1,0 +1,26 @@
+{
+  "name": "Maelstrom_Resists",
+  "display_name": "Maelstrom_Resists",
+  "display_fullname": "TPNCampus.Maelstrom Resists",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/MAELSTROM_RESISTS.POWERSETS",
+  "icon": "maelstrom_resists_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.Maelstrom_Resists.Damage_Resistance",
+    "TPNCampus.Maelstrom_Resists.Challenge_Issued"
+  ],
+  "power_display_names": [
+    "Damage Resistance",
+    "Challenge Issued"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Special"
+  ]
+}

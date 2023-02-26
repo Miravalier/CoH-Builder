@@ -1,0 +1,26 @@
+{
+  "name": "UXB",
+  "display_name": "UXB",
+  "display_fullname": "Rikti.UXB",
+  "display_help": "UXB",
+  "display_short_help": "UXB",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/UXB.POWERSETS",
+  "icon": "uxb_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.UXB.Resistance",
+    "Rikti.UXB.Nuke"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Nuclear Blast"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Ranged AoE, Extreme DoT(Energy), Foe -End, -Recovery"
+  ]
+}

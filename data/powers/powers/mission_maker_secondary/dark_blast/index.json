@@ -1,0 +1,54 @@
+{
+  "name": "Dark_Blast",
+  "display_name": "Dark Blast",
+  "display_fullname": "Mission Maker Secondary.Dark Blast",
+  "display_help": "Dark Blast summons the powers of the Netherworld to defeat your foes. The draining effects of most of these powers can reduce your targets' chance to hit.",
+  "display_short_help": "Dark Blast",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/DARK_BLAST.POWERSETS",
+  "icon": "dark_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Dark_Blast.Dark_Blast",
+    "Mission_Maker_Secondary.Dark_Blast.Gloom",
+    "Mission_Maker_Secondary.Dark_Blast.Dark_Pit",
+    "Mission_Maker_Secondary.Dark_Blast.Tenebrous_Tentacles",
+    "Mission_Maker_Secondary.Dark_Blast.Night_Fall",
+    "Mission_Maker_Secondary.Dark_Blast.Moonbeam_Quick",
+    "Mission_Maker_Secondary.Dark_Blast.Torrent",
+    "Mission_Maker_Secondary.Dark_Blast.Life_Drain",
+    "Mission_Maker_Secondary.Dark_Blast.Blackstar"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Gloom",
+    "Dark Pit",
+    "Tenebrous Tentacles",
+    "Night Fall",
+    "Moonbeam",
+    "Torrent",
+    "Life Drain",
+    "Blackstar"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Negative), Foe -To-hit",
+    "Ranged, High DoT(Negative), Foe -To-hit",
+    "Ranged (Targeted AoE), Foe Disorient",
+    "Ranged (Cone), Moderate DMG(Negative), Foe Immobilize, -To-hit",
+    "Ranged (Cone), Moderate DMG(Negative), Foe -To-hit",
+    "Sniper, High DMG(Negative), Target -To Hit",
+    "Ranged (Cone), Minor DMG(Smashing), Foe -To-hit, Knockback",
+    "Ranged, Moderate DMG(Negative), Target -To-hit, Self +HP",
+    "Close (AoE), Extreme DMG(Negative), Foe -To-hit, Self -Recovery"
+  ]
+}

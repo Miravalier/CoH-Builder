@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Intangible",
+  "display_name": "Technology Intangible",
+  "display_fullname": "Boosts.Technology Intangible",
+  "display_help": "Increases the duration of an intangibility power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_INTANGIBLE.POWERSETS",
+  "icon": "technology_intangible_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Intangible.Technology_Intangible"
+  ],
+  "power_display_names": [
+    "Portacio Ind Destablizer (Intangible)"
+  ],
+  "power_short_helps": [
+    "Enhances Intangibility Duration"
+  ]
+}

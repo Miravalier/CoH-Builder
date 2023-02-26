@@ -1,0 +1,30 @@
+{
+  "name": "Family_Lt_Boss_Melee",
+  "display_name": "Family_Lt_Boss_Melee",
+  "display_fullname": "Family.Family Lt Boss Melee",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/FAMILY_LT_BOSS_MELEE.POWERSETS",
+  "icon": "family_lt_boss_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Family_Lt_Boss_Melee.Jab",
+    "Family.Family_Lt_Boss_Melee.Punch",
+    "Family.Family_Lt_Boss_Melee.Haymaker"
+  ],
+  "power_display_names": [
+    "Jab",
+    "Punch",
+    "Haymaker"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback"
+  ]
+}

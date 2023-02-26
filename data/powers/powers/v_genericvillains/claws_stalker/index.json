@@ -1,0 +1,62 @@
+{
+  "name": "Claws_Stalker",
+  "display_name": "Claws Stalker",
+  "display_fullname": "V GenericVillains.Claws Stalker",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/CLAWS_STALKER.POWERSETS",
+  "icon": "claws_stalker_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Claws_Stalker.Swipe",
+    "V_GenericVillains.Claws_Stalker.Strike",
+    "V_GenericVillains.Claws_Stalker.Focus",
+    "V_GenericVillains.Claws_Stalker.Slash",
+    "V_GenericVillains.Claws_Stalker.Focused_Fighting",
+    "V_GenericVillains.Claws_Stalker.Assassins_Claw",
+    "V_GenericVillains.Claws_Stalker.Shockwave",
+    "V_GenericVillains.Claws_Stalker.Inner_Focus",
+    "V_GenericVillains.Claws_Stalker.Eviscerate",
+    "V_GenericVillains.Claws_Stalker.Quickness",
+    "V_GenericVillains.Claws_Stalker.Elude"
+  ],
+  "power_display_names": [
+    "Swipe",
+    "Strike",
+    "Focus",
+    "Slash",
+    "Focused Fighting",
+    "Assassin's Claw",
+    "Shockwave",
+    "Inner Focus",
+    "Eviscerate",
+    "Quickness",
+    "Elude"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Lethal)",
+    "Melee, Moderate DMG(Lethal)",
+    "Ranged, High DMG(Lethal), Knockback",
+    "Melee, Moderate DMG(Lethal), Foe -DEF",
+    "Toggle: Self +DEF(Melee, Ranged), Res(Confuse), +Perception",
+    "Melee, Special DMG(Lethal)",
+    "Melee (Cone), Moderate DMG(Lethal), Foe Knockback",
+    "Toggle: Self +DEF(Melee, Ranged, AoE), Res(Confuse), +Perception",
+    "Melee (Cone), Superior DMG(Lethal), +Special",
+    "Auto: Self +Recharge, +SPD, Res (Slow)",
+    "Self +DEF, +Special"
+  ]
+}

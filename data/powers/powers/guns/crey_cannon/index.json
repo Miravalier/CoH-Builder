@@ -1,0 +1,34 @@
+{
+  "name": "Crey_Cannon",
+  "display_name": "Crey_Cannon",
+  "display_fullname": "Guns.Crey Cannon",
+  "display_help": "Guns",
+  "display_short_help": "Guns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/GUNS/CREY_CANNON.POWERSETS",
+  "icon": "crey_cannon_set.png",
+  "requires": "",
+  "power_names": [
+    "Guns.Crey_Cannon.Crey_N2_Cannon",
+    "Guns.Crey_Cannon.Crey_N2_Cannon_2",
+    "Guns.Crey_Cannon.Crey_N2_Cannon_3",
+    "Guns.Crey_Cannon.Crey_Cryo_Rifle_Hopkins"
+  ],
+  "power_display_names": [
+    "Crey N2 Cannon",
+    "Crey N2 Cannon 2",
+    "Crey N2 Cannon 3",
+    "Crey Cryo Rifle Hopkins"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed",
+    "Hold",
+    "-Recharge, -Speed, Sleep",
+    "-Recharge, -Speed, Sleep"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tag": "SntlOpt",
+  "bears": [],
+  "affects": [
+    [
+      "Temporary Powers.Temporary Powers.Seeking Opportunity",
+      "temporary_powers.temporary_powers.opportunity_focus"
+    ]
+  ]
+}

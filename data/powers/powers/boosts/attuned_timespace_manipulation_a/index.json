@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_TimeSpace_Manipulation_A",
+  "display_name": "Attuned Time & Space Manipulation A",
+  "display_fullname": "Boosts.Attuned TimeSpace Manipulation A",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Jaunt",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TIMESPACE_MANIPULATION_A.POWERSETS",
+  "icon": "attuned_timespace_manipulation_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_TimeSpace_Manipulation_A.Attuned_TimeSpace_Manipulation_A"
+  ],
+  "power_display_names": [
+    "Time & Space Manipulation: Endurance"
+  ],
+  "power_short_helps": [
+    "-End Cost"
+  ]
+}

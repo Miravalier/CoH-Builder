@@ -1,0 +1,30 @@
+{
+  "name": "Spiritualist_Ice",
+  "display_name": "Spiritualist_Ice",
+  "display_fullname": "TalonsOfVengeance.Spiritualist Ice",
+  "display_help": "Talons of Vengeance",
+  "display_short_help": "Talons of Vengeance",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/SPIRITUALIST_ICE.POWERSETS",
+  "icon": "spiritualist_ice_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Spiritualist_Ice.Ice_Bolt",
+    "TalonsOfVengeance.Spiritualist_Ice.Ice_Blast",
+    "TalonsOfVengeance.Spiritualist_Ice.Resistance"
+  ],
+  "power_display_names": [
+    "Ice Bolt",
+    "Ice Blast",
+    "Affinity"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Cold/Smashing), -Recharge (Foe), -Speed(Foe,All)",
+    "Ranged, Moderate DMG(Cold/Smash), -Recharge (Foe), -Speed(Foe,All)",
+    "Resistance"
+  ]
+}

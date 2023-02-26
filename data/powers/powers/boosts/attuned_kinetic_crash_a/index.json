@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Kinetic_Crash_A",
+  "display_name": "Attuned Kinetic Crash A",
+  "display_fullname": "Boosts.Attuned Kinetic Crash A",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}% and the damage by {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Kinetic Crash",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_KINETIC_CRASH_A.POWERSETS",
+  "icon": "attuned_kinetic_crash_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Kinetic_Crash_A.Attuned_Kinetic_Crash_A"
+  ],
+  "power_display_names": [
+    "Kinetic Crash: Knockback/Damage"
+  ],
+  "power_short_helps": [
+    "+Knockback, +DMG"
+  ]
+}

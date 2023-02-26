@@ -1,0 +1,26 @@
+{
+  "name": "Roman_Dwarf_Transformation",
+  "display_name": "Roman Dwarf Transformation",
+  "display_fullname": "Romans.Roman Dwarf Transformation",
+  "display_help": "Dwarf Transformation",
+  "display_short_help": "Dwarf Transformation",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/ROMAN_DWARF_TRANSFORMATION.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Roman_Dwarf_Transformation.Roman_Dwarf_Form",
+    "Romans.Roman_Dwarf_Transformation.Roman_Dwarf_Transform"
+  ],
+  "power_display_names": [
+    "Transformation",
+    "Transformation"
+  ],
+  "power_short_helps": [
+    "Transformation",
+    "Transformation"
+  ]
+}

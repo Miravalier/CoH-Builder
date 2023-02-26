@@ -1,0 +1,10 @@
+{
+  "tag": "NoStealth",
+  "bears": [
+    [
+      "Temporary Powers.Temporary Powers.Disable Stealth",
+      "temporary_powers.temporary_powers.disable_stealth"
+    ]
+  ],
+  "affects": []
+}

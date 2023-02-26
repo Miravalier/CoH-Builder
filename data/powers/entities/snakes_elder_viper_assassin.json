@@ -1,0 +1,103 @@
+{
+  "name": "Snakes_Elder_Viper_Assassin",
+  "gender": "GENDER_MALE",
+  "group_name": "Snakes",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 46,
+    "max_level": 52,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "These Elder Snakes are vastly more powerful versions of the regular Snakes who inhabit Mercy Island. They are spawned from the mighty Snake goddess Stheno herself!",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Snakes.Resistance.Resistance",
+      "V_Snakes.Snakes_Speed.Quick",
+      "V_Snakes.Elder_Viper.Stab",
+      "V_Snakes.Elder_Viper.Venomous_Spit",
+      "V_Snakes.Elder_Viper.Poison_Bite",
+      "V_Snakes.Elder_Viper_Assassin.Hide",
+      "V_Snakes.Elder_Viper_Assassin.Jump_Stab"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Quick",
+      "Stab",
+      "Venomous Spit",
+      "Poison Bite",
+      "Hide",
+      "Jump Stab"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Snakes",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Snakes",
+        "power_set": "Snakes_Speed",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Snakes",
+        "power_set": "Elder_Viper",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_Snakes",
+        "power_set": "Elder_Viper_Assassin",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 46,
+      "max_level": 52,
+      "experience": 0,
+      "display_names": [
+        "Elder Viper Assassin"
+      ],
+      "costumes": [
+        "Children_of_Stheno_Minion_03"
+      ]
+    }
+  ]
+}

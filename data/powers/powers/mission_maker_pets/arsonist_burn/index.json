@@ -1,0 +1,26 @@
+{
+  "name": "Arsonist_Burn",
+  "display_name": "Arsonist",
+  "display_fullname": "Mission Maker Pets.Arsonist",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/ARSONIST_BURN.POWERSETS",
+  "icon": "arsonist_burn_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Arsonist_Burn.Fire",
+    "Mission_Maker_Pets.Arsonist_Burn.Avoid"
+  ],
+  "power_display_names": [
+    "Fire",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "Avoid"
+  ]
+}

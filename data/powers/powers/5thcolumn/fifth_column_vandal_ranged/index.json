@@ -1,0 +1,26 @@
+{
+  "name": "Fifth_Column_Vandal_Ranged",
+  "display_name": "Fifth_Column_Vandal_Ranged",
+  "display_fullname": "5thColumn.Fifth Column Vandal Ranged",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_VANDAL_RANGED.POWERSETS",
+  "icon": "fifth_column_vandal_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Vandal_Ranged.Power_Blast",
+    "5thColumn.Fifth_Column_Vandal_Ranged.Missile_Launch"
+  ],
+  "power_display_names": [
+    "Power Blast",
+    "Missile Launch"
+  ],
+  "power_short_helps": [
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Smash/Fire, Knockback"
+  ]
+}

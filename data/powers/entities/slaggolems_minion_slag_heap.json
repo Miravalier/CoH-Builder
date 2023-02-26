@@ -1,0 +1,81 @@
+{
+  "name": "SlagGolems_Minion_Slag_Heap",
+  "gender": "GENDER_MALE",
+  "group_name": "SlagGolems",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 30,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "What strange forces gave life to these heaps of cast-off metal? There are those who say they are guardians of this island, born to stop the Cage Consortium's rampant destruction. Beware their incredible strength and near-indestructible hides.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_SlagGolems.Resistances.Resistance",
+      "V_SlagGolems.Minion_Slag_Heap.Slash",
+      "V_SlagGolems.Minion_Slag_Heap.Throw_Debris"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Slash",
+      "Throw Debris"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_SlagGolems",
+        "power_set": "Resistances",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_SlagGolems",
+        "power_set": "Minion_Slag_Heap",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 30,
+      "experience": 0,
+      "display_names": [
+        "Slag Heap"
+      ],
+      "costumes": [
+        "Slag_Golem_Minion_01",
+        "Slag_Golem_Minion_02",
+        "Slag_Golem_Minion_03"
+      ]
+    }
+  ]
+}

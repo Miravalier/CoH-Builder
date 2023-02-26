@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Achilles_Heel_C",
+  "display_name": "Attuned Achilles Heel C",
+  "display_fullname": "Boosts.Attuned Achilles Heel C",
+  "display_help": "Gives a chance to reduce your foes damage resistance by 20%. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Achilles' Heel",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ACHILLES_HEEL_C.POWERSETS",
+  "icon": "attuned_achilles_heel_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Achilles_Heel_C.Attuned_Achilles_Heel_C"
+  ],
+  "power_display_names": [
+    "Achilles' Heel: Chance for Resistance Debuff"
+  ],
+  "power_short_helps": [
+    "-RES (All)"
+  ]
+}

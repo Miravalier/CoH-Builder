@@ -1,0 +1,30 @@
+{
+  "name": "Cleansing_Flame",
+  "display_name": "Cleansing Flame",
+  "display_fullname": "Incarnate I20.Cleansing Flame",
+  "display_help": "Ghouls",
+  "display_short_help": "Ghouls",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_I20/CLEANSING_FLAME.POWERSETS",
+  "icon": "cleansing_flame_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_I20.Cleansing_Flame.Self_Destruct",
+    "Incarnate_I20.Cleansing_Flame.Cleansing_Flame",
+    "Incarnate_I20.Cleansing_Flame.Resist_Fire"
+  ],
+  "power_display_names": [
+    "Self Destruct",
+    "Cleansing Flame",
+    "Resist Fire"
+  ],
+  "power_short_helps": [
+    "Special",
+    "PBAoE, Ally +Heal",
+    "Resist Fire"
+  ]
+}

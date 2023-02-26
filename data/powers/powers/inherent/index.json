@@ -1,0 +1,20 @@
+{
+  "name": "Inherent",
+  "display_name": "Inherent",
+  "source_file": "DEFS/POWERS/INHERENT.CATEGORIES",
+  "archetypes": [
+    "lt_grunt",
+    "minion_unkillablenpc"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "inherent.fitness",
+    "inherent.inherent"
+  ],
+  "powerset_display_names": [
+    "Inherent Fitness",
+    "Inherent"
+  ],
+  "powersets_with_requirements": []
+}

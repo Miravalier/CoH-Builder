@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Air_Burst_D",
+  "display_name": "Crafted Air Burst D",
+  "display_fullname": "Boosts.Crafted Air Burst D",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and range by {Boost.Attrib.Range.Scale}%.",
+  "display_short_help": "Set: Air Burst",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_AIR_BURST_D.POWERSETS",
+  "icon": "crafted_air_burst_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Air_Burst_D.Crafted_Air_Burst_D"
+  ],
+  "power_display_names": [
+    "Air Burst: Damage/Range"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Range"
+  ]
+}

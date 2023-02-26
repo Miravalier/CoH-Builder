@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Nightmare_D",
+  "display_name": "Attuned Nightmare D",
+  "display_fullname": "Boosts.Attuned Nightmare D",
+  "display_help": "Enhances the range of a power by {Boost.Attrib.Range.Scale}% and fear duration by {Boost.Attrib.Mez.Scale}%.",
+  "display_short_help": "Set: Nightmare",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_NIGHTMARE_D.POWERSETS",
+  "icon": "attuned_nightmare_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Nightmare_D.Attuned_Nightmare_D"
+  ],
+  "power_display_names": [
+    "Nightmare: Fear/Range"
+  ],
+  "power_short_helps": [
+    "+Range, +Fear"
+  ]
+}

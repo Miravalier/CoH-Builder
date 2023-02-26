@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Multi_Strike_F",
+  "display_name": "Attuned Multi-Strike F",
+  "display_fullname": "Boosts.Attuned Multi Strike F",
+  "display_help": "Enhances the damage by {Boost.Attrib.Damage.Scale}%, endurance costs by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Multi-Strike",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MULTI_STRIKE_F.POWERSETS",
+  "icon": "attuned_multi_strike_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Multi_Strike_F.Attuned_Multi_Strike_F"
+  ],
+  "power_display_names": [
+    "Multi-Strike: Damage/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

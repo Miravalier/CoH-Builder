@@ -1,0 +1,21 @@
+{
+  "name": "Arachnos_Soldiers",
+  "display_name": "Soldiers",
+  "source_file": "DEFS/POWERS/ARACHNOS_SOLDIERS.CATEGORIES",
+  "archetypes": [
+    "arachnos_soldier"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "arachnos_soldiers.arachnos_soldier",
+    "arachnos_soldiers.bane_spider_soldier",
+    "arachnos_soldiers.crab_spider_soldier"
+  ],
+  "powerset_display_names": [
+    "Arachnos Soldier",
+    "Bane Spider Soldier",
+    "Crab Spider Soldier"
+  ],
+  "powersets_with_requirements": []
+}

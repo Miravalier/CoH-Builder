@@ -1,0 +1,38 @@
+{
+  "name": "Crey_Gamma_Tank",
+  "display_name": "Crey_Gamma_Tank",
+  "display_fullname": "Crey.Crey Gamma Tank",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_GAMMA_TANK.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Gamma_Tank.Contaminated_Strike",
+    "Crey.Crey_Gamma_Tank.Radioactive_Smash",
+    "Crey.Crey_Gamma_Tank.Radiation_Siphon",
+    "Crey.Crey_Gamma_Tank.Neutrino_Bolt",
+    "Crey.Crey_Gamma_Tank.Positron_Cell"
+  ],
+  "power_display_names": [
+    "Contaminated Strike",
+    "Radioactive Smash",
+    "Radiation Siphon",
+    "Neutrino Bolt",
+    "Positron Cell"
+  ],
+  "power_short_helps": [
+    "Melee, DMG(Energy), Foe -Def",
+    "Melee, DMG(Energy), Foe -Def, Knockdown",
+    "Melee, DMG(Energy), Foe, -Def",
+    "Ranged, DMG(Energy), Foe -DEF",
+    "Ranged, DoT (Energy), Foe Hold, -Def"
+  ]
+}

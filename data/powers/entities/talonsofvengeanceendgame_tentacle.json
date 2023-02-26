@@ -1,0 +1,72 @@
+{
+  "name": "TalonsOfVengeanceEndgame_Tentacle",
+  "gender": "GENDER_MALE",
+  "group_name": "TalonsOfVengeanceEndgame",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_BOSS",
+    "ai_config": "Octopus_Tentacle",
+    "character_class_name": "boss_praetoriangrunt",
+    "description": "This strange tentacle seems to be one of many belonging to the Kraken, a mythical beast that dwells beneath the sea.",
+    "group_description": "???",
+    "display_class_name": "Monster",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Event.Octopus_Tentacle.Tentacle_Smash",
+      "Event.Octopus_Tentacle.Resistance"
+    ],
+    "power_display_names": [
+      "Tentacle Smash",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Event",
+        "power_set": "Octopus_Tentacle",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "???"
+      ],
+      "costumes": [
+        "Tentacle_Green_01"
+      ]
+    }
+  ]
+}

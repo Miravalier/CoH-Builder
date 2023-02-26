@@ -1,0 +1,22 @@
+{
+  "name": "CoT_Resistance",
+  "display_name": "CoT Resistance",
+  "display_fullname": "CircleOfThorns.CoT Resistance",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/COT_RESISTANCE.POWERSETS",
+  "icon": "cot_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.CoT_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Cold"
+  ]
+}

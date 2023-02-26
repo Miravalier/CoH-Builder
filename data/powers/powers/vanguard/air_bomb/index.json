@@ -1,0 +1,22 @@
+{
+  "name": "Air_Bomb",
+  "display_name": "Air_Bomb",
+  "display_fullname": "Vanguard.Air Bomb",
+  "display_help": "Vanguard",
+  "display_short_help": "Vanguard",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VANGUARD/AIR_BOMB.POWERSETS",
+  "icon": "air_bomb_set.png",
+  "requires": "",
+  "power_names": [
+    "Vanguard.Air_Bomb.Air_Bomb"
+  ],
+  "power_display_names": [
+    "Air Bomb"
+  ],
+  "power_short_helps": [
+    "DoT (Fire), Knockback"
+  ]
+}

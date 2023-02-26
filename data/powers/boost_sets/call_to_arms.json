@@ -1,0 +1,577 @@
+{
+  "name": "Call_to_Arms",
+  "display_name": "Call to Arms",
+  "group_name": "Recharge Intensive Pets",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Recharge Intensive Pets"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Call_to_Arms_A.Crafted_Call_to_Arms_A",
+      "Boosts.Attuned_Call_to_Arms_A.Attuned_Call_to_Arms_A"
+    ],
+    [
+      "Boosts.Crafted_Call_to_Arms_B.Crafted_Call_to_Arms_B",
+      "Boosts.Attuned_Call_to_Arms_B.Attuned_Call_to_Arms_B"
+    ],
+    [
+      "Boosts.Crafted_Call_to_Arms_C.Crafted_Call_to_Arms_C",
+      "Boosts.Attuned_Call_to_Arms_C.Attuned_Call_to_Arms_C"
+    ],
+    [
+      "Boosts.Crafted_Call_to_Arms_D.Crafted_Call_to_Arms_D",
+      "Boosts.Attuned_Call_to_Arms_D.Attuned_Call_to_Arms_D"
+    ],
+    [
+      "Boosts.Crafted_Call_to_Arms_E.Crafted_Call_to_Arms_E",
+      "Boosts.Attuned_Call_to_Arms_E.Attuned_Call_to_Arms_E"
+    ],
+    [
+      "Boosts.Crafted_Call_to_Arms_F.Crafted_Call_to_Arms_F",
+      "Boosts.Attuned_Call_to_Arms_F.Attuned_Call_to_Arms_F"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 1,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.call_to_arms"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_4",
+          "Large Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_4",
+          "Large Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_3",
+          "Moderate Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {
+      "attuned_call_to_arms_f": [
+        [
+          "set_bonus.set_bonus.call_to_arms",
+          "Call to Arms"
+        ]
+      ],
+      "crafted_call_to_arms_f": [
+        [
+          "set_bonus.set_bonus.call_to_arms",
+          "Call to Arms"
+        ]
+      ]
+    },
+    "icons": [
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png",
+      "e_icon_calltoarms.png"
+    ],
+    "boosts": [
+      [
+        "Call to Arms: Accuracy/Recharge",
+        "Attuned Call to Arms: Accuracy/Recharge"
+      ],
+      [
+        "Call to Arms: Accuracy/Damage",
+        "Attuned Call to Arms: Accuracy/Damage"
+      ],
+      [
+        "Call to Arms: Damage/Endurance",
+        "Attuned Call to Arms: Damage/Endurance"
+      ],
+      [
+        "Call to Arms: Accuracy/Damage/Recharge",
+        "Attuned Call to Arms: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Call to Arms: Damage/Endurance/Recharge",
+        "Attuned Call to Arms: Damage/Endurance/Recharge"
+      ],
+      [
+        "Call to Arms: Proc/Global",
+        "Attuned Call to Arms: Proc/Global"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_call_to_arms_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_call_to_arms_a.attuned_call_to_arms_a",
+          "Call to Arms: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Call to Arms: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "attuned_call_to_arms_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Call to Arms: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "crafted_call_to_arms_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_call_to_arms_b.attuned_call_to_arms_b",
+          "Call to Arms: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Call to Arms: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "attuned_call_to_arms_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Call to Arms: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "crafted_call_to_arms_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_call_to_arms_c.attuned_call_to_arms_c",
+          "Call to Arms: Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Call to Arms: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "attuned_call_to_arms_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Call to Arms: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "crafted_call_to_arms_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_call_to_arms_d.attuned_call_to_arms_d",
+          "Call to Arms: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Call to Arms: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "attuned_call_to_arms_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Call to Arms: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "crafted_call_to_arms_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_call_to_arms_e.attuned_call_to_arms_e",
+          "Call to Arms: Endurance/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Call to Arms: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "attuned_call_to_arms_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Call to Arms: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "crafted_call_to_arms_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_call_to_arms_f.attuned_call_to_arms_f",
+          "Call to Arms: Defense Bonus Aura for Pets"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Call to Arms: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.call_to_arms",
+            "Call to Arms"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      },
+      "attuned_call_to_arms_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Call to Arms: Proc/Global",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "call_to_arms",
+        "global_bonuses": [
+          [
+            "set_bonus.set_bonus.call_to_arms",
+            "Call to Arms"
+          ]
+        ],
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_calltoarms.png"
+      }
+    }
+  }
+}

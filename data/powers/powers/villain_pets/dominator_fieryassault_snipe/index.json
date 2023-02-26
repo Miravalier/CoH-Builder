@@ -1,0 +1,26 @@
+{
+  "name": "Dominator_FieryAssault_Snipe",
+  "display_name": "Dominator_FieryAssault_Snipe",
+  "display_fullname": "Villain Pets.Dominator FieryAssault Snipe",
+  "display_help": "Fiery Assault",
+  "display_short_help": "Fiery Assault",
+  "available_level": [
+    27,
+    27
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/DOMINATOR_FIERYASSAULT_SNIPE.POWERSETS",
+  "icon": "dominator_fieryassault_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Dominator_FieryAssault_Snipe.Blazing_Bolt_Quick",
+    "Villain_Pets.Dominator_FieryAssault_Snipe.Blazing_Bolt_Normal"
+  ],
+  "power_display_names": [
+    "Blazing Bolt",
+    "Blazing Bolt"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Fire)",
+    "Sniper, Extreme DMG(Fire)"
+  ]
+}

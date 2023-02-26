@@ -1,0 +1,142 @@
+{
+  "name": "Rularuu_RulaWade",
+  "gender": "GENDER_MALE",
+  "group_name": "Rularuu",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 39,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_elite",
+    "description": "INSERT BIO HERE",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "OneWillDie_Issue3Powers.RulaWade.Absorb_Rularuu",
+      "OneWillDie_Issue3Powers.RulaWade.Psionic_Disturbance",
+      "Rularuu.Wisp_Boss.Psionic_Tornado",
+      "Rularuu.Wisp_Lt_Boss.Telekinetic_blast",
+      "V_Vindicators.Aurora_Borealis.Psychic_Scream",
+      "Rularuu.Brute_Boss.Degradation_Blast",
+      "Rularuu.Brute_Lt.Energy_Blast",
+      "Rularuu.Natterlings.Fly",
+      "V_FreedomPhalanx.Statesman.Resistance",
+      "V_FreedomPhalanx.Numina.Psychic_Wail"
+    ],
+    "power_display_names": [
+      "Absorb Rularuu",
+      "Psionic Disturbance",
+      "Psionic Tornado",
+      "Telekinetic blast",
+      "Psychic Scream",
+      "Degradation Blast",
+      "Energy Blast",
+      "Fly",
+      "Resistance",
+      "Psychic Wail"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "OneWillDie_Issue3Powers",
+        "power_set": "RulaWade",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Rularuu",
+        "power_set": "Wisp_Boss",
+        "power": "Psionic_Tornado",
+        "level": 0
+      },
+      {
+        "power_category": "Rularuu",
+        "power_set": "Wisp_Lt_Boss",
+        "power": "Telekinetic_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Aurora_Borealis",
+        "power": "Psychic_Scream",
+        "level": 0
+      },
+      {
+        "power_category": "Rularuu",
+        "power_set": "Brute_Boss",
+        "power": "Degradation_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "Rularuu",
+        "power_set": "Brute_Lt",
+        "power": "Energy_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "Rularuu",
+        "power_set": "Natterlings",
+        "power": "Fly",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "Statesman",
+        "power": "Resistance",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomPhalanx",
+        "power_set": "Numina",
+        "power": "Psychic_Wail",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 39,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "RulaWade"
+      ],
+      "costumes": [
+        "Rularuu_RulaWade"
+      ]
+    }
+  ]
+}

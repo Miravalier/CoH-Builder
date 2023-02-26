@@ -1,0 +1,134 @@
+{
+  "name": "Freaklok_Flesh_Carver",
+  "gender": "GENDER_MALE",
+  "group_name": "Freaklok",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "Reapers and Mortificators from the Vahzilok often find themselves without work in this post-Doctor world they live in. Many of them, hearing whispers of a new initiative being run through Cortex, Pierce, and Buzzsaw, have gladly offered their services in exchange for asylum from Paragon City. Flesh Carvers are wielders of electricity and bonesaws to mend allies and maim foes.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Freaklok.Carver_Attacks.Eviscerate",
+      "Freaklok.Carver_Attacks.Chop",
+      "Freaklok.Carver_Attacks.Surgical_Electric_Saw",
+      "Freaklok.Carver_Attacks.Rejuvenating_Circuit",
+      "Freaklok.Carver_Attacks.Chain_Fences",
+      "Freaklok.Carver_Attacks.Resurrect_Int",
+      "Freaklok.Necrotic_Detonations.LokReboot_Male",
+      "Freaklok.Inherent.immolation_male"
+    ],
+    "power_display_names": [
+      "Eviscerate",
+      "Chop",
+      "Surgical Electric Saw",
+      "Rejuvenating Circuit",
+      "Chain Fences",
+      "Resurrect Freaklok",
+      "Lok Reboot",
+      "Freaklok Immolated Upload"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Freaklok",
+        "power_set": "Carver_Attacks",
+        "power": "Eviscerate",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Carver_Attacks",
+        "power": "Chop",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Carver_Attacks",
+        "power": "Surgical_Electric_Saw",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Carver_Attacks",
+        "power": "Rejuvenating_Circuit",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Carver_Attacks",
+        "power": "Chain_Fences",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Carver_Attacks",
+        "power": "Resurrect_Int",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Necrotic_Detonations",
+        "power": "LokReboot_Male",
+        "level": 0
+      },
+      {
+        "power_category": "Freaklok",
+        "power_set": "Inherent",
+        "power": "immolation_male",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Flesh Carver"
+      ],
+      "costumes": [
+        "FRKLK_Carver01a",
+        "FRKLK_Carver01b",
+        "FRKLK_Carver01c"
+      ]
+    }
+  ]
+}

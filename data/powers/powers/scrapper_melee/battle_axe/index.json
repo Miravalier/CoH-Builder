@@ -1,0 +1,54 @@
+{
+  "name": "Battle_Axe",
+  "display_name": "Battle Axe",
+  "display_fullname": "Scrapper Melee.Battle Axe",
+  "display_help": "You can wield a Battle Axe and master a variety of powerful Lethal attacks. Battle Axe is a slow but powerful weapon that has a tendency to send foes flying. This massive weapon has a bonus to hit.",
+  "display_short_help": "Battle Axe",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/SCRAPPER_MELEE/BATTLE_AXE.POWERSETS",
+  "icon": "battle_axe_set.png",
+  "requires": "",
+  "power_names": [
+    "Scrapper_Melee.Battle_Axe.Beheader",
+    "Scrapper_Melee.Battle_Axe.Chop",
+    "Scrapper_Melee.Battle_Axe.Gash",
+    "Scrapper_Melee.Battle_Axe.Build_Up",
+    "Scrapper_Melee.Battle_Axe.Pendulum",
+    "Scrapper_Melee.Battle_Axe.Confront",
+    "Scrapper_Melee.Battle_Axe.Swoop",
+    "Scrapper_Melee.Battle_Axe.Whirling_Axe",
+    "Scrapper_Melee.Battle_Axe.Cleave"
+  ],
+  "power_display_names": [
+    "Beheader",
+    "Chop",
+    "Gash",
+    "Build Up",
+    "Pendulum",
+    "Confront",
+    "Swoop",
+    "Axe Cyclone",
+    "Cleave"
+  ],
+  "power_short_helps": [
+    "Melee, DMG(Lethal), Foe Knockdown, -Defense",
+    "Melee, DMG(Lethal), Foe Knockdown, -Defense",
+    "Melee, DMG(Lethal), Foe Knockdown",
+    "Self +DMG, +To Hit",
+    "Melee (Targeted AoE), DMG(Lethal), Foe Knockdown",
+    "Ranged, Foe Taunt",
+    "Melee, DMG(Lethal), Foe Knockup",
+    "PBAoE Melee, DMG(Lethal), Foe Knockdown",
+    "Ranged, DMG(Lethal), Foe Knockdown"
+  ]
+}

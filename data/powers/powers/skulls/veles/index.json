@@ -1,0 +1,54 @@
+{
+  "name": "Veles",
+  "display_name": "Veles",
+  "display_fullname": "Skulls.Veles",
+  "display_help": "Veles",
+  "display_short_help": "Veles",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    9,
+    13,
+    17,
+    19,
+    23
+  ],
+  "source_file": "DEFS/POWERS/SKULLS/VELES.POWERSETS",
+  "icon": "veles_set.png",
+  "requires": "",
+  "power_names": [
+    "Skulls.Veles.Grave_Knight",
+    "Skulls.Veles.Shadow_Punch",
+    "Skulls.Veles.Dark_Blast",
+    "Skulls.Veles.Gloom",
+    "Skulls.Veles.Smite",
+    "Skulls.Veles.Siphon_Life",
+    "Skulls.Veles.Soul_Extraction",
+    "Skulls.Veles.Soul_Drain",
+    "Skulls.Veles.Lich"
+  ],
+  "power_display_names": [
+    "Grave Knight",
+    "Shadow Punch",
+    "Dark Blast",
+    "Gloom",
+    "Smite",
+    "Siphon Life",
+    "Soul Extraction",
+    "Soul Drain",
+    "Lich"
+  ],
+  "power_short_helps": [
+    "Summon Grave Knight",
+    "Melee, Moderate DMG (Smashing/Negative Energy), -ToHit (Foe)",
+    "Ranged, Minor DMG (Negative Energy), -ToHit (Foe)",
+    "Ranged, High DoT (Negative Energy), -ToHit (Foe)",
+    "Melee, High DMG (Smashing/Negative Energy), -ToHit (Foe)",
+    "Melee, High DMG (Negative Energy), -ToHit (Foe), Heal (Self)",
+    "Summon Ghost",
+    "PBAoE, Moderate DMG (Negative Energy), +DMG (All, Self), +ToHit (Self)",
+    "Summon Lich"
+  ]
+}

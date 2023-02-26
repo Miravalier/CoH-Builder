@@ -1,0 +1,82 @@
+{
+  "name": "Pets_Omega_Bomb_HM",
+  "gender": "GENDER_MALE",
+  "group_name": "Pets",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Melee",
+    "character_class_name": "minion_pets",
+    "description": "The Omega Bomb is about to explode!",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Pets.ResistAll.ResistAll",
+      "Kheldian_Pets.Omega_Bomb_HM.Explosion",
+      "Kheldian_Pets.Omega_Bomb_HM.Taunt",
+      "Kheldian_Pets.Omega_Bomb_HM.Fly"
+    ],
+    "power_display_names": [
+      "ResistAll",
+      "Explosion",
+      "Taunt",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Pets",
+        "power_set": "ResistAll",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Kheldian_Pets",
+        "power_set": "Omega_Bomb_HM",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Omega Bomb"
+      ],
+      "costumes": [
+        "V_Arachnos_OmegaDevice"
+      ]
+    }
+  ]
+}

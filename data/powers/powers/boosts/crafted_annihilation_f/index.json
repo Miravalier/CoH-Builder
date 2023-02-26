@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Annihilation_F",
+  "display_name": "Crafted Annihilation F",
+  "display_fullname": "Boosts.Crafted Annihilation F",
+  "display_help": "This enhancement gives the slotted power a chance to reduce the targets' damage resistance by a moderate amount for a short time. This effect triggers roughly 3 times per minute.",
+  "display_short_help": "Set: Annihilation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_ANNIHILATION_F.POWERSETS",
+  "icon": "crafted_annihilation_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Annihilation_F.Crafted_Annihilation_F"
+  ],
+  "power_display_names": [
+    "Annihilation: Chance for -Res"
+  ],
+  "power_short_helps": [
+    "Chance for -Res(All)"
+  ]
+}

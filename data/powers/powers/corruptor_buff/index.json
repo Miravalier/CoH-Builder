@@ -1,0 +1,47 @@
+{
+  "name": "Corruptor_Buff",
+  "display_name": "Buff",
+  "source_file": "DEFS/POWERS/CORRUPTOR_BUFF.CATEGORIES",
+  "archetypes": [
+    "corruptor"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "corruptor_buff.cold_domination",
+    "corruptor_buff.dark_miasma",
+    "corruptor_buff.empathy",
+    "corruptor_buff.force_field",
+    "corruptor_buff.kinetics",
+    "corruptor_buff.nature_affinity",
+    "corruptor_buff.pain_domination",
+    "corruptor_buff.poison",
+    "corruptor_buff.radiation_emission",
+    "corruptor_buff.shock_therapy",
+    "corruptor_buff.sonic_resonance",
+    "corruptor_buff.storm_summoning",
+    "corruptor_buff.thermal_radiation",
+    "corruptor_buff.time_manipulation",
+    "corruptor_buff.traps",
+    "corruptor_buff.trick_arrow"
+  ],
+  "powerset_display_names": [
+    "Cold Domination",
+    "Dark Miasma",
+    "Empathy",
+    "Force Field",
+    "Kinetics",
+    "Nature Affinity",
+    "Pain Domination",
+    "Poison",
+    "Radiation Emission",
+    "Electrical Affinity",
+    "Sonic Resonance",
+    "Storm Summoning",
+    "Thermal Radiation",
+    "Time Manipulation",
+    "Traps",
+    "Trick Arrow"
+  ],
+  "powersets_with_requirements": []
+}

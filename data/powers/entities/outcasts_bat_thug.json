@@ -1,0 +1,77 @@
+{
+  "name": "Outcasts_Bat_Thug",
+  "gender": "GENDER_MALE",
+  "group_name": "Outcasts",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 11,
+    "max_level": 20,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "Unlike the higher ranked members of the Outcasts, these thug's elemental powers are only beginning to manifest. Never-the-less, they are much more power than your typical thug.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Outcasts.Outcast_Ice.Resistance",
+      "Outcasts.Outcast_Ice.Ice_Bolt",
+      "Outcasts.Outcast_Ice.Frozen_Fists"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Ice Bolt",
+      "Frozen Fists"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Outcasts",
+        "power_set": "Outcast_Ice",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 11,
+      "max_level": 20,
+      "experience": 0,
+      "display_names": [
+        "Outcast Cooler"
+      ],
+      "costumes": [
+        "Thug_Outcast_07",
+        "Thug_Outcast_08"
+      ]
+    }
+  ]
+}

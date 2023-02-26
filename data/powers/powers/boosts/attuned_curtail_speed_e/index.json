@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Curtail_Speed_E",
+  "display_name": "Attuned Curtail Speed E",
+  "display_fullname": "Boosts.Attuned Curtail Speed E",
+  "display_help": "Enhances the slowing ability of a power by {Boost.Attrib.Movement.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Curtail Speed",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CURTAIL_SPEED_E.POWERSETS",
+  "icon": "attuned_curtail_speed_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Curtail_Speed_E.Attuned_Curtail_Speed_E"
+  ],
+  "power_display_names": [
+    "Curtail Speed: Endurance/Recharge/Slow"
+  ],
+  "power_short_helps": [
+    "+Slow, +Rech, -End Cost"
+  ]
+}

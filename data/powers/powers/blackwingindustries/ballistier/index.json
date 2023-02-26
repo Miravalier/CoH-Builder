@@ -1,0 +1,62 @@
+{
+  "name": "Ballistier",
+  "display_name": "BWI PEACE Ballistier",
+  "display_fullname": "BlackwingIndustries.BWI PEACE Ballistier",
+  "display_help": "Blackwing Industries",
+  "display_short_help": "Blackwing Industries",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKWINGINDUSTRIES/BALLISTIER.POWERSETS",
+  "icon": "bwi_ballistier_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackwingIndustries.Ballistier.Military_Training",
+    "BlackwingIndustries.Ballistier.Fly",
+    "BlackwingIndustries.Ballistier.Rifle_Butt",
+    "BlackwingIndustries.Ballistier.Rifle_Butt_2",
+    "BlackwingIndustries.Ballistier.Sonic_Grenade",
+    "BlackwingIndustries.Ballistier.Glue_Grenade",
+    "BlackwingIndustries.Ballistier.Web_Grenade",
+    "BlackwingIndustries.Ballistier.Incendiary_Grenade",
+    "BlackwingIndustries.Ballistier.Heavy_Grenade",
+    "BlackwingIndustries.Ballistier.Grenade",
+    "BlackwingIndustries.Ballistier.Assault"
+  ],
+  "power_display_names": [
+    "Military Training",
+    "Fly",
+    "Grenade Launcher Butt",
+    "Grenade Launcher Butt",
+    "Sonic Grenade",
+    "Glue Grenade",
+    "Web Grenade",
+    "Incendiary Grenade",
+    "Heavy Grenade",
+    "Grenade",
+    "Assault"
+  ],
+  "power_short_helps": [
+    "Auto: Self +SPD, +ACC, Res(Slow/Confuse)",
+    "Auto: Self +Fly",
+    "Melee, Moderate DMG(Smashing), Foe Disorient",
+    "Melee, Moderate DMG(Smashing), Foe Disorient",
+    "Ranged (Location AoE), Foe -Res(All)",
+    "Ranged (Location AoE), Foe -SPD, -Recharge",
+    "Ranged, Foe Immobilize, -Recharge, -Fly",
+    "Ranged (AoE), Minor DMG(Fire)",
+    "Ranged (AoE), Moderate DMG(Fire/Lethal), Foe KB",
+    "Ranged (AoE), Moderate DMG(Fire/Lethal), Foe KB",
+    "Auto: Team AoE +DMG, Res(Taunt, Placate)"
+  ]
+}

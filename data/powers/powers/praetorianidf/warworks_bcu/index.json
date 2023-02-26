@@ -1,0 +1,34 @@
+{
+  "name": "Warworks_BCU",
+  "display_name": "Warworks BCU",
+  "display_fullname": "PraetorianIDF.Warworks BCU",
+  "display_help": "Warworks",
+  "display_short_help": "Warworks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANIDF/WARWORKS_BCU.POWERSETS",
+  "icon": "warworks_bcu_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianIDF.Warworks_BCU.Single_Plasma_Shot",
+    "PraetorianIDF.Warworks_BCU.Plasma_Rifle_Burst",
+    "PraetorianIDF.Warworks_BCU.Fusion_Grenade",
+    "PraetorianIDF.Warworks_BCU.Force_Barrier"
+  ],
+  "power_display_names": [
+    "Single Plasma Shot",
+    "Plasma Rifle Burst",
+    "Fusion Grenade",
+    "Force Barrier"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Energy), Foe -Regen",
+    "Ranged, High DMG(Energy), Foe -Regen",
+    "Ranged, Moderate DMG(Energy), Foe Knockdown, Location DoT(Fire)",
+    "Self, +Def(All), +Regen"
+  ]
+}

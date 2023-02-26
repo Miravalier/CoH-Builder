@@ -1,0 +1,26 @@
+{
+  "name": "Cathedral_Willforge",
+  "display_name": "Cathedral Willforge",
+  "display_fullname": "Objects.Cathedral Willforge",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/CATHEDRAL_WILLFORGE.POWERSETS",
+  "icon": "cathedral_willforge_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Cathedral_Willforge.Willforge_Summons",
+    "Objects.Cathedral_Willforge.Repel"
+  ],
+  "power_display_names": [
+    "Willforge Summons",
+    "Repel"
+  ],
+  "power_short_helps": [
+    "Summon Rularuu",
+    "Repel"
+  ]
+}

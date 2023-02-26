@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Titanium_Coating_E",
+  "display_name": "Crafted Titanium Coating E",
+  "display_fullname": "Boosts.Crafted Titanium Coating E",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Titanium Coating",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_TITANIUM_COATING_E.POWERSETS",
+  "icon": "crafted_titanium_coating_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Titanium_Coating_E.Crafted_Titanium_Coating_E"
+  ],
+  "power_display_names": [
+    "Titanium Coating: Resistance"
+  ],
+  "power_short_helps": [
+    "+RES (all)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Zoe_Gold_Brick_HM",
+  "display_name": "Zoe Gold Brick (Hard Mode)",
+  "display_fullname": "V GoldBrickers.Zoe Gold Brick (Hard Mode)",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    49,
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/ZOE_GOLD_BRICK_HM.POWERSETS",
+  "icon": "boss_gold_brick_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Zoe_Gold_Brick_HM.Rage",
+    "V_GoldBrickers.Zoe_Gold_Brick_HM.Golden_Bonds",
+    "V_GoldBrickers.Zoe_Gold_Brick_HM.Vengeance"
+  ],
+  "power_display_names": [
+    "Rage",
+    "Golden Bonds",
+    "Vengeance"
+  ],
+  "power_short_helps": [
+    "Self +DMG, +To Hit, Delayed Self(Weaken, Special)",
+    "PBAoE, Team +DMG, +DEF(All), +ToHit, +Perception, Res(Taunt, Placate, Perception, Confuse)",
+    "Team Buff +DEF +ACC +DMG"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Radiation_Defender_High",
+  "display_name": "Radiation Defender High",
+  "display_fullname": "V GenericHeroes.Radiation Defender High",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/RADIATION_DEFENDER_HIGH.POWERSETS",
+  "icon": "radiation_defender_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Radiation_Defender_High.Atomic_Blast"
+  ],
+  "power_display_names": [
+    "Atomic Blast"
+  ],
+  "power_short_helps": [
+    "-DEF"
+  ]
+}

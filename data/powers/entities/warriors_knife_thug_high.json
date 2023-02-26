@@ -1,0 +1,84 @@
+{
+  "name": "Warriors_Knife_Thug_High",
+  "gender": "GENDER_MALE",
+  "group_name": "Warriors",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 44,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Melee",
+    "character_class_name": "minion_grunt",
+    "description": "A little education can be a dangerous thing. The members of the gang known as the Warriors take their inspiration from ancient Greek heroes and soldiers. They seem to favor the old school weapons over democracy, literature, and art.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Warriors.Warrior_Minion_Sword.Hack",
+      "Warriors.Warrior_Hand_Crossbow.Hand_Crossbow"
+    ],
+    "power_display_names": [
+      "Hack",
+      "Hand Crossbow"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Warriors",
+        "power_set": "Warrior_Minion_Sword",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Warriors",
+        "power_set": "Warrior_Hand_Crossbow",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 44,
+      "experience": 0,
+      "display_names": [
+        "Warrior Slicer"
+      ],
+      "costumes": [
+        "Thug_Warrior_01",
+        "Thug_Warrior_02",
+        "Thug_Warrior_03",
+        "Thug_Warrior_04",
+        "Thug_Warrior_05",
+        "Thug_Warrior_06"
+      ]
+    }
+  ]
+}

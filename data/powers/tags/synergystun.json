@@ -1,0 +1,10 @@
+{
+  "tag": "SynergyStun",
+  "bears": [
+    [
+      "Pool.Fighting.Boxing",
+      "pool.fighting.boxing"
+    ]
+  ],
+  "affects": []
+}

@@ -1,0 +1,58 @@
+{
+  "name": "MrDubois",
+  "display_name": "MrDubois",
+  "display_fullname": "SummerEvent.MrDubois",
+  "display_help": "Mr. Dubois",
+  "display_short_help": "Mr. Dubois",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SUMMEREVENT/MRDUBOIS.POWERSETS",
+  "icon": "mrdubois_set.png",
+  "requires": "",
+  "power_names": [
+    "SummerEvent.MrDubois.Quick_Strike",
+    "SummerEvent.MrDubois.Body_Blow",
+    "SummerEvent.MrDubois.Smashing_Blow",
+    "SummerEvent.MrDubois.Repulsing_Torrent",
+    "SummerEvent.MrDubois.Focused_Burst",
+    "SummerEvent.MrDubois.Fast_Healing",
+    "SummerEvent.MrDubois.Reconstruction",
+    "SummerEvent.MrDubois.Quick_Recovery",
+    "SummerEvent.MrDubois.Dull_Pain",
+    "SummerEvent.MrDubois.Moment_of_Glory"
+  ],
+  "power_display_names": [
+    "Quick Strike",
+    "Body Blow",
+    "Smashing Blow",
+    "Repulsing Torrent",
+    "Focused Burst",
+    "Fast Healing",
+    "Reconstruction",
+    "Quick Recovery",
+    "Dull Pain",
+    "Moment of Glory"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Smash/Energy), Foe -DMG, 33%% KD",
+    "Melee, Moderate DMG(Smash/Energy), +Stun",
+    "Melee, High DMG(Smash/Energy), Foe Disorient",
+    "Ranged (Cone), Moderate DMG(Energy/Smash), Foe Knockback",
+    "Ranged, High DMG(Smash/Energy), Knockdown",
+    "Self (Auto), +RES(-Regen), +Regen",
+    "Self, Heal, +RES(Toxic)",
+    "Self (Auto), +Recovery",
+    "Self, +MaxHP",
+    "Self,+RES(All except Psionic), +RES(Knock, Repel, Stun, Sleep, Immobilize, Hold), +DEF(All except Psionics), +Recovery"
+  ]
+}

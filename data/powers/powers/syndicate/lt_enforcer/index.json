@@ -1,0 +1,42 @@
+{
+  "name": "LT_Enforcer",
+  "display_name": "LT_Enforcer",
+  "display_fullname": "Syndicate.LT Enforcer",
+  "display_help": "Syndicate",
+  "display_short_help": "Syndicate",
+  "available_level": [
+    0,
+    0,
+    10,
+    20,
+    0,
+    10
+  ],
+  "source_file": "DEFS/POWERS/SYNDICATE/LT_ENFORCER.POWERSETS",
+  "icon": "lt_enforcer_set.png",
+  "requires": "",
+  "power_names": [
+    "Syndicate.LT_Enforcer.Resistance",
+    "Syndicate.LT_Enforcer.Punch",
+    "Syndicate.LT_Enforcer.Jab_low",
+    "Syndicate.LT_Enforcer.Jab",
+    "Syndicate.LT_Enforcer.Buckshot",
+    "Syndicate.LT_Enforcer.Slug"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Punch",
+    "Jab low",
+    "Jab",
+    "Buckshot",
+    "Slug"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Lethal, Smashing, Psi)",
+    "Melee Smash, Knockback",
+    "Disorient",
+    "Disorient",
+    "Cone Lethal, Knockback",
+    "Ranged, High DMG(Lethal), Foe Knockback"
+  ]
+}

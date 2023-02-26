@@ -1,0 +1,34 @@
+{
+  "name": "Eidolon_Female",
+  "display_name": "Eidolon_Female",
+  "display_fullname": "Freaklok.Eidolon Female",
+  "display_help": "Eidolon_Female",
+  "display_short_help": "Eidolon_Female",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/EIDOLON_FEMALE.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Eidolon_Female.Midnight_Grasp",
+    "Freaklok.Eidolon_Female.Life_Drain",
+    "Freaklok.Eidolon_Female.Focused_Burst",
+    "Freaklok.Eidolon_Female.Benumb"
+  ],
+  "power_display_names": [
+    "Midnight Grasp",
+    "Life Drain",
+    "Focused Burst",
+    "Benumb"
+  ],
+  "power_short_helps": [
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit",
+    "Ranged, High DMG(Negative), Target -To Hit, Self +HP",
+    "Ranged, High DMG(Smash/Energy), Knockdown",
+    "Ranged Foe -DMG, -END, -Regeneration, -Special"
+  ]
+}

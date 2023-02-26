@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Executioners_Contract_F",
+  "display_name": "Crafted Executioners Contract F",
+  "display_fullname": "Boosts.Crafted Executioners Contract F",
+  "display_help": "Adds a small chance to Disorient your foe. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Executioners Contract",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_EXECUTIONERS_CONTRACT_F.POWERSETS",
+  "icon": "crafted_executioners_contract_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Executioners_Contract_F.Crafted_Executioners_Contract_F"
+  ],
+  "power_display_names": [
+    "Executioners Contract: Disorient Bonus"
+  ],
+  "power_short_helps": [
+    "Adds Disorient Chance"
+  ]
+}

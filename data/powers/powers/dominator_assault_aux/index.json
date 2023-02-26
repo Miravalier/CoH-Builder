@@ -1,0 +1,17 @@
+{
+  "name": "Dominator_Assault_Aux",
+  "display_name": "Aux",
+  "source_file": "DEFS/POWERS/DOMINATOR_ASSAULT_AUX.CATEGORIES",
+  "archetypes": [
+    "dominator"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "dominator_assault_aux.savage_assault"
+  ],
+  "powerset_display_names": [
+    "Savage Assault"
+  ],
+  "powersets_with_requirements": []
+}

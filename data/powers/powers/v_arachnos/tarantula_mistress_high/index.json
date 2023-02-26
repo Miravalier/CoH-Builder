@@ -1,0 +1,30 @@
+{
+  "name": "Tarantula_Mistress_High",
+  "display_name": "Tarantula_Mistress_High",
+  "display_fullname": "V Arachnos.Tarantula Mistress High",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/TARANTULA_MISTRESS_HIGH.POWERSETS",
+  "icon": "tarantula_mistress_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Tarantula_Mistress_High.Mental_Scramble",
+    "V_Arachnos.Tarantula_Mistress_High.Will_Domination",
+    "V_Arachnos.Tarantula_Mistress_High.Mind_Link"
+  ],
+  "power_display_names": [
+    "Mental Scramble",
+    "Will Domination",
+    "Mind Link"
+  ],
+  "power_short_helps": [
+    "-ACC, -DEF, -Perception",
+    "Sleep",
+    "+ACC, Res(Confuse), +Perception"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Ice_Melee",
+  "display_name": "Ice Melee",
+  "display_fullname": "Stalker Melee.Ice Melee",
+  "display_help": "Ice Melee allows the player to use Cold-based attacks, and even conjure up frozen melee weapons. Ice Melee powers are known for their ability to slow an opponent.",
+  "display_short_help": "Ice Melee",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    17,
+    21,
+    25
+  ],
+  "source_file": "DEFS/POWERS/STALKER_MELEE/ICE_MELEE.POWERSETS",
+  "icon": "ice_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Stalker_Melee.Ice_Melee.Frozen_Fists",
+    "Stalker_Melee.Ice_Melee.Ice_Sword",
+    "Stalker_Melee.Ice_Melee.Frost",
+    "Stalker_Melee.Ice_Melee.Assassins_Ice_Swords",
+    "Stalker_Melee.Ice_Melee.Placate",
+    "Stalker_Melee.Ice_Melee.Build_Up",
+    "Stalker_Melee.Ice_Melee.Ice_Patch",
+    "Stalker_Melee.Ice_Melee.Freezing_Touch",
+    "Stalker_Melee.Ice_Melee.Frozen_Aura"
+  ],
+  "power_display_names": [
+    "Frozen Fists",
+    "Ice Sword",
+    "Frost",
+    "Assassin's Ice Sword",
+    "Placate",
+    "Build Up",
+    "Ice Patch",
+    "Freezing Touch",
+    "Frozen Aura"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Melee, Light DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Close (Cone), Moderate DoT(Cold), Foe -Recharge, -SPD",
+    "Melee, Extreme DMG(Lethal)",
+    "Ranged, Foe Placate, Self Stealth/Hide",
+    "Self +DMG, +To Hit, +Special",
+    "Location (PBAoE), Foe Knockdown",
+    "Melee, High DoT(Cold), Foe Hold",
+    "PBAoE, Moderate DMG(Cold), Foe Sleep"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Cacophany_C",
+  "display_name": "Attuned Cacophony C",
+  "display_fullname": "Boosts.Attuned Cacophany C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Cacophony",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_CACOPHANY_C.POWERSETS",
+  "icon": "attuned_cacophany_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Cacophany_C.Attuned_Cacophany_C"
+  ],
+  "power_display_names": [
+    "Cacophony: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

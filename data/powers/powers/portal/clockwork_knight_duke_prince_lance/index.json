@@ -1,0 +1,26 @@
+{
+  "name": "Clockwork_Knight_Duke_Prince_Lance",
+  "display_name": "Clockwork_Knight_Duke_Prince_Lance",
+  "display_fullname": "Portal.Clockwork Knight Duke Prince Lance",
+  "display_help": "Psychic Clockwork",
+  "display_short_help": "Psychic Clockwork",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CLOCKWORK_KNIGHT_DUKE_PRINCE_LANCE.POWERSETS",
+  "icon": "clockwork_knight_duke_prince_lance_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Clockwork_Knight_Duke_Prince_Lance.Will_Domination",
+    "Portal.Clockwork_Knight_Duke_Prince_Lance.Dominate"
+  ],
+  "power_display_names": [
+    "Will Domination",
+    "Dominate"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "Hold"
+  ]
+}

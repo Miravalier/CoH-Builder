@@ -1,0 +1,34 @@
+{
+  "name": "Wastelander",
+  "display_name": "Wastelander",
+  "display_fullname": "Dregs.Wastelander",
+  "display_help": "Dregs",
+  "display_short_help": "Dregs",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DREGS/WASTELANDER.POWERSETS",
+  "icon": "wastelander_set.png",
+  "requires": "",
+  "power_names": [
+    "Dregs.Wastelander.Shotgun",
+    "Dregs.Wastelander.Slug",
+    "Dregs.Wastelander.Shotgun_Butt",
+    "Dregs.Wastelander.Molotov_Cocktail"
+  ],
+  "power_display_names": [
+    "Shotgun",
+    "Slug",
+    "Shotgun Butt",
+    "Molotov Cocktail"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback",
+    "Ranged, High DMG(Lethal), Foe Knockback",
+    "Disorient",
+    "Targeted AoE Fire, DoT(Fire)"
+  ]
+}

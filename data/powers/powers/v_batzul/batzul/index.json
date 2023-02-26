@@ -1,0 +1,50 @@
+{
+  "name": "Batzul",
+  "display_name": "Bat'Zul",
+  "display_fullname": "V Batzul.Bat'Zul",
+  "display_help": "Bat'Zul",
+  "display_short_help": "Bat'Zul",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_BATZUL/BATZUL.POWERSETS",
+  "icon": "batzul_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Batzul.Batzul.Resistance",
+    "V_Batzul.Batzul.Fire_Imps",
+    "V_Batzul.Batzul.Fire_Blast",
+    "V_Batzul.Batzul.Fire_Ball",
+    "V_Batzul.Batzul.Flash_Stomp",
+    "V_Batzul.Batzul.Fire_Breath",
+    "V_Batzul.Batzul.Fire_Smash",
+    "V_Batzul.Batzul.Fire_Swipe"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Fire Imps",
+    "Fire Blast",
+    "Fire Ball",
+    "Flash Stomp",
+    "Fire Breath",
+    "Fire Smash",
+    "Fire Swipe"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Summons a horde of Imps.",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "Melee Heavy Smash, Fire",
+    "Melee Heavy Lethal/Fire"
+  ]
+}

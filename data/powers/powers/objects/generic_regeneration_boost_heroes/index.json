@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Regeneration_Boost_Heroes",
+  "display_name": "Regeneration",
+  "display_fullname": "Objects.Regeneration",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/GENERIC_REGENERATION_BOOST_HEROES.POWERSETS",
+  "icon": "generic_regeneration_boost_heroes_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Generic_Regeneration_Boost_Heroes.Health"
+  ],
+  "power_display_names": [
+    "Health"
+  ],
+  "power_short_helps": [
+    "+Regeneration"
+  ]
+}

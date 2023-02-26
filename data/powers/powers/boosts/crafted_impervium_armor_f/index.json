@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Impervium_Armor_F",
+  "display_name": "Crafted Impervium Armor F",
+  "display_fullname": "Boosts.Crafted Impervium Armor F",
+  "display_help": "Gives a bonus psionic resistance of {Boost.Attrib.Damage.Scale}%.",
+  "display_short_help": "Set: Impervium Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_IMPERVIUM_ARMOR_F.POWERSETS",
+  "icon": "crafted_impervium_armor_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Impervium_Armor_F.Crafted_Impervium_Armor_F"
+  ],
+  "power_display_names": [
+    "Impervium Armor: Psionic Resistance"
+  ],
+  "power_short_helps": [
+    "+RES (Psionic)"
+  ]
+}

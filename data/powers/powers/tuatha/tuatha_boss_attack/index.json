@@ -1,0 +1,38 @@
+{
+  "name": "Tuatha_Boss_Attack",
+  "display_name": "Tuatha_Boss_Attack",
+  "display_fullname": "Tuatha.Tuatha Boss Attack",
+  "display_help": "The Tuatha",
+  "display_short_help": "The Tuatha",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TUATHA/TUATHA_BOSS_ATTACK.POWERSETS",
+  "icon": "tuatha_boss_attack_set.png",
+  "requires": "",
+  "power_names": [
+    "Tuatha.Tuatha_Boss_Attack.Fault",
+    "Tuatha.Tuatha_Boss_Attack.Seismic_Smash",
+    "Tuatha.Tuatha_Boss_Attack.Earths_Embrace",
+    "Tuatha.Tuatha_Boss_Attack.Animate_Stone",
+    "Tuatha.Tuatha_Boss_Attack.Stump_Toss"
+  ],
+  "power_display_names": [
+    "Fault",
+    "Seismic Smash",
+    "Earth's Embrace",
+    "Animate Stone",
+    "Stump Toss"
+  ],
+  "power_short_helps": [
+    "Close (Targeted AoE), Foe Knockback, Disorient",
+    "Melee, Extreme DMG(Smash), Foe Hold",
+    "Self +HP, Res(Toxic)",
+    "Summon Golem: Melee Heavy DMG(Smashing)",
+    "Ranged, Moderate DMG(Smash), Knockback, -Fly"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Swarm",
+  "display_name": "Swarm",
+  "display_fullname": "DevouringEarthSeed.Swarm",
+  "display_help": "Seed of Hamidon Attacks",
+  "display_short_help": "Seed of Hamidon Attacks",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED/SWARM.POWERSETS",
+  "icon": "swarm_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarthSeed.Swarm.Fury_of_the_Swarm"
+  ],
+  "power_display_names": [
+    "Fury of the Swarm"
+  ],
+  "power_short_helps": [
+    "Suicide Special"
+  ]
+}

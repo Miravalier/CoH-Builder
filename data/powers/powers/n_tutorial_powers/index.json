@@ -1,0 +1,23 @@
+{
+  "name": "N_Tutorial_Powers",
+  "display_name": "Powers",
+  "source_file": "DEFS/POWERS/N_TUTORIAL_POWERS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "n_tutorial_powers.babsay1",
+    "n_tutorial_powers.n_tutorial_powers",
+    "n_tutorial_powers.ninja_mastermind_n_tutorial",
+    "n_tutorial_powers.psychesay",
+    "n_tutorial_powers.vanguard_heavy_tutorial"
+  ],
+  "powerset_display_names": [
+    "Special",
+    "N_Tutorial_Powers",
+    "Ninja Mastermind",
+    "Special",
+    "Vanguard Heavy"
+  ],
+  "powersets_with_requirements": []
+}

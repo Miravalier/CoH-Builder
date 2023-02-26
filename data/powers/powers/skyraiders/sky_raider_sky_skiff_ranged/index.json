@@ -1,0 +1,26 @@
+{
+  "name": "Sky_Raider_Sky_Skiff_Ranged",
+  "display_name": "Sky_Raider_Sky_Skiff_Ranged",
+  "display_fullname": "SkyRaiders.Sky Raider Sky Skiff Ranged",
+  "display_help": "SkyRaiders",
+  "display_short_help": "SkyRaiders",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SKYRAIDERS/SKY_RAIDER_SKY_SKIFF_RANGED.POWERSETS",
+  "icon": "sky_raider_sky_skiff_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "SkyRaiders.Sky_Raider_Sky_Skiff_Ranged.Missile_Launcher",
+    "SkyRaiders.Sky_Raider_Sky_Skiff_Ranged.Chain_Gun"
+  ],
+  "power_display_names": [
+    "Missile Launcher",
+    "Chain Gun"
+  ],
+  "power_short_helps": [
+    "Ranged AoE Lethal/Fire, +KB",
+    "-DEF"
+  ]
+}

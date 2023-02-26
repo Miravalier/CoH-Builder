@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Power_Transfer_B",
+  "display_name": "Attuned Power Transfer B",
+  "display_fullname": "Boosts.Attuned Power Transfer B",
+  "display_help": "Enhances damage by {Boost.Attrib.Damage.Scale}%. Increases recharge rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Power Transfer",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_POWER_TRANSFER_B.POWERSETS",
+  "icon": "e_icon_power_transfer.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Power_Transfer_B.Attuned_Power_Transfer_B"
+  ],
+  "power_display_names": [
+    "Power Transfer: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "+DMG, +Rech"
+  ]
+}

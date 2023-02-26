@@ -1,0 +1,50 @@
+{
+  "name": "Marauder",
+  "display_name": "Marauder",
+  "display_fullname": "Praetorians.Marauder",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/MARAUDER.POWERSETS",
+  "icon": "marauder_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Marauder.Resistance",
+    "Praetorians.Marauder.Punch",
+    "Praetorians.Marauder.Haymaker",
+    "Praetorians.Marauder.Temp_Invulnerability",
+    "Praetorians.Marauder.Hand_Clap",
+    "Praetorians.Marauder.Foot_Stomp",
+    "Praetorians.Marauder.Hurl",
+    "Praetorians.Marauder.Unstoppable"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Punch",
+    "Haymaker",
+    "Temp Invulnerability",
+    "Hand Clap",
+    "Foot Stomp",
+    "Hurl",
+    "Unstoppable"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Melee Smash, Knockback",
+    "Melee Smash, Knockback",
+    "Self +Res(Smash, Lethal)",
+    "Disorient",
+    "AoE Smash, Knockback",
+    "Ranged, Moderate DMG(Smash), Knockback",
+    "Self, +Res(Disorient, Sleep, Hold, Immobilize, All DMG)"
+  ]
+}

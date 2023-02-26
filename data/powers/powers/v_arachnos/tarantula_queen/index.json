@@ -1,0 +1,58 @@
+{
+  "name": "Tarantula_Queen",
+  "display_name": "Tarantula_Queen",
+  "display_fullname": "V Arachnos.Tarantula Queen",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/TARANTULA_QUEEN.POWERSETS",
+  "icon": "tarantula_queen_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Tarantula_Queen.Psychic_Scream",
+    "V_Arachnos.Tarantula_Queen.Telekinetic_blast",
+    "V_Arachnos.Tarantula_Queen.Scramble_Thoughts",
+    "V_Arachnos.Tarantula_Queen.Will_Domination",
+    "V_Arachnos.Tarantula_Queen.Total_Domination",
+    "V_Arachnos.Tarantula_Queen.Psychic_Wail",
+    "V_Arachnos.Tarantula_Queen.Claw_Pierce",
+    "V_Arachnos.Tarantula_Queen.Claw_Shred",
+    "V_Arachnos.Tarantula_Queen.Mind_Link",
+    "V_Arachnos.Tarantula_Queen.Armored_Exoskeleton"
+  ],
+  "power_display_names": [
+    "Psychic Scream",
+    "Telekinetic Blast",
+    "Scramble Thoughts",
+    "Will Domination",
+    "Total Domination",
+    "Psychic Wail",
+    "Claw Pierce",
+    "Claw Shred",
+    "Mind Link",
+    "Armored Exoskeleton"
+  ],
+  "power_short_helps": [
+    "-Recharge",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback",
+    "Disorient",
+    "Sleep",
+    "Sleep",
+    "-Recharge",
+    "Moderate Lethal DMG",
+    "Cone Moderate Lethal DMG",
+    "+ACC, Res(Confuse), +Perception",
+    "Resistance"
+  ]
+}

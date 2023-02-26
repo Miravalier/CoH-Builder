@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Serendipity_D",
+  "display_name": "Attuned Serendipity D",
+  "display_fullname": "Boosts.Attuned Serendipity D",
+  "display_help": "Enhances the defense of a power by {Boost.Attrib.Defense.Scale}%, reduces endurance costs by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Serendipity",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SERENDIPITY_D.POWERSETS",
+  "icon": "attuned_serendipity_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Serendipity_D.Attuned_Serendipity_D"
+  ],
+  "power_display_names": [
+    "Serendipity: Defense/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Defense, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

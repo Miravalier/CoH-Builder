@@ -1,0 +1,22 @@
+{
+  "name": "Fortunata_Defense",
+  "display_name": "Fortunata_Defense",
+  "display_fullname": "V Arachnos.Fortunata Defense",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/FORTUNATA_DEFENSE.POWERSETS",
+  "icon": "fortunata_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Fortunata_Defense.Mental_Training"
+  ],
+  "power_display_names": [
+    "Mental Training"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

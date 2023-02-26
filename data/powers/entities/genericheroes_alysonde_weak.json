@@ -1,0 +1,115 @@
+{
+  "name": "GenericHeroes_Alysonde_Weak",
+  "gender": "GENDER_FEMALE",
+  "group_name": "GenericHeroes",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 11,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "Once a young explorer, Marissa Sorensen was well-known amongst the scientific community for discoveries relating the relationship between the gods of the various pantheons and a strange location from which they drew their power. One day, Marissa herself discovered this location and became the Huntress, Alysonde. She is renowned among the heroes of the world for her selflessness, but her history as an explorer has left her with many enemies.",
+    "group_description": "The Protectors",
+    "display_class_name": "Hero",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Mission_Maker_Attacks.Super_Strength.Jab",
+      "Mission_Maker_Attacks.Super_Strength.Punch",
+      "Mission_Maker_Secondary.Willpower.High_Pain_Tolerance",
+      "Mission_Maker_Secondary.Willpower.Fast_Healing",
+      "Mission_Maker_Secondary.Willpower.Quick_Recovery",
+      "Mission_Maker_Movement.Flight.Fly"
+    ],
+    "power_display_names": [
+      "Jab",
+      "Punch",
+      "High Pain Tolerance",
+      "Fast Healing",
+      "Quick Recovery",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Mission_Maker_Attacks",
+        "power_set": "Super_Strength",
+        "power": "Jab",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Attacks",
+        "power_set": "Super_Strength",
+        "power": "Punch",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Willpower",
+        "power": "High_Pain_Tolerance",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Willpower",
+        "power": "Fast_Healing",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Secondary",
+        "power_set": "Willpower",
+        "power": "Quick_Recovery",
+        "level": 0
+      },
+      {
+        "power_category": "Mission_Maker_Movement",
+        "power_set": "Flight",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 11,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Alysonde"
+      ],
+      "costumes": [
+        "Model_Alysonde_NoRing"
+      ]
+    }
+  ]
+}

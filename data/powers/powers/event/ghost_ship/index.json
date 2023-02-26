@@ -1,0 +1,26 @@
+{
+  "name": "Ghost_Ship",
+  "display_name": "Ghost Ship",
+  "display_fullname": "Event.Ghost Ship",
+  "display_help": "Ghosts",
+  "display_short_help": "Ghosts",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/GHOST_SHIP.POWERSETS",
+  "icon": "ghost_ship_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Ghost_Ship.Resistance",
+    "Event.Ghost_Ship.Spectral_Chill"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Spectral Chill"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "-ACC, -DMG"
+  ]
+}

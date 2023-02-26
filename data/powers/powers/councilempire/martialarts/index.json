@@ -1,0 +1,38 @@
+{
+  "name": "MartialArts",
+  "display_name": "MartialArts",
+  "display_fullname": "CouncilEmpire.MartialArts",
+  "display_help": "Council Empire",
+  "display_short_help": "Council Empire",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCILEMPIRE/MARTIALARTS.POWERSETS",
+  "icon": "martialarts_set.png",
+  "requires": "",
+  "power_names": [
+    "CouncilEmpire.MartialArts.Thunder_Kick",
+    "CouncilEmpire.MartialArts.Crane_Kick",
+    "CouncilEmpire.MartialArts.Crippling_Axe_Kick",
+    "CouncilEmpire.MartialArts.Dragons_Tail",
+    "CouncilEmpire.MartialArts.Eagles_Claw"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Crane Kick",
+    "Crippling Axe Kick",
+    "Dragons Tail",
+    "Eagles Claw"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, High DMG, Knockback",
+    "Immobilize, -SPD",
+    "PBAoE Melee, Moderate DMG(Smash), Foe Knockback",
+    "Disorient"
+  ]
+}

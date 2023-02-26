@@ -1,0 +1,91 @@
+{
+  "name": "Midnight_Squad_Minor_Spectre_High",
+  "gender": "GENDER_MALE",
+  "group_name": "Midnight_Squad",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Undead",
+    "Demon"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 34,
+    "max_level": 44,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "Summoned and controlled by the Midnight Squad, these Specters are the souls of Midnighters who have chosen to give not just their life to the service of the Midnighter Squad, but their soul as well.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.2,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Midnight_Squad.Minor_Spectre.Smite",
+      "Midnight_Squad.Minor_Spectre.Siphon_Life",
+      "Midnight_Squad.Minor_Spectre.Gloom",
+      "Midnight_Squad.Spectres_Defense.Resistance",
+      "Midnight_Squad.Spectres_Defense.Ethereal",
+      "Midnight_Squad.Spectres_Defense.Fly"
+    ],
+    "power_display_names": [
+      "Smite",
+      "Siphon Life",
+      "Gloom",
+      "Resistance",
+      "Ethereal",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Midnight_Squad",
+        "power_set": "Minor_Spectre",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Midnight_Squad",
+        "power_set": "Spectres_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 34,
+      "max_level": 44,
+      "experience": 0,
+      "display_names": [
+        "Spectre"
+      ],
+      "costumes": [
+        "Spectre"
+      ]
+    }
+  ]
+}

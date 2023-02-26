@@ -1,0 +1,22 @@
+{
+  "name": "Reject_Heroes",
+  "display_name": "Reject Heroes",
+  "display_fullname": "Objects.Reject Heroes",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/REJECT_HEROES.POWERSETS",
+  "icon": "reject_heroes_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Reject_Heroes.Reject_Heroes"
+  ],
+  "power_display_names": [
+    "Reject Heroes"
+  ],
+  "power_short_helps": [
+    "Map"
+  ]
+}

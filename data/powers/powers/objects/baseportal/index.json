@@ -1,0 +1,26 @@
+{
+  "name": "Base Portal",
+  "display_name": "",
+  "display_fullname": "Objects.BasePortal",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/BASEPORTAL.POWERSETS",
+  "icon": "baseportal_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.BasePortal.PortalFX",
+    "Objects.BasePortal.KillPortals"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Resistance"
+  ]
+}

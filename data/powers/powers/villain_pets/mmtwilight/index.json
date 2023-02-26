@@ -1,0 +1,22 @@
+{
+  "name": "MMTwilight",
+  "display_name": "Twilight",
+  "display_fullname": "Villain Pets.Twilight",
+  "display_help": "Dark Miasma",
+  "display_short_help": "Dark Miasma",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/MMTWILIGHT.POWERSETS",
+  "icon": "mmtwilight_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.MMTwilight.Twilight"
+  ],
+  "power_display_names": [
+    "Twilight"
+  ],
+  "power_short_helps": [
+    "Twilight"
+  ]
+}

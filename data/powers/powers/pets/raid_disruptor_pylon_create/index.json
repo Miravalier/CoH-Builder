@@ -1,0 +1,22 @@
+{
+  "name": "Raid_Disruptor_Pylon_Create",
+  "display_name": "Raid_Disruptor_Pylon_Create",
+  "display_fullname": "Pets.Raid Disruptor Pylon Create",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/RAID_DISRUPTOR_PYLON_CREATE.POWERSETS",
+  "icon": "raid_disruptor_pylon_create_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Raid_Disruptor_Pylon_Create.Create"
+  ],
+  "power_display_names": [
+    "Create"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

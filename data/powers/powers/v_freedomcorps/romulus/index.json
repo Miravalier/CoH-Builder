@@ -1,0 +1,38 @@
+{
+  "name": "Romulus",
+  "display_name": "Romulus",
+  "display_fullname": "V FreedomCorps.Romulus",
+  "display_help": "Longbow",
+  "display_short_help": "Longbow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_FREEDOMCORPS/ROMULUS.POWERSETS",
+  "icon": "romulus_set.png",
+  "requires": "",
+  "power_names": [
+    "V_FreedomCorps.Romulus.Shadow_Blast",
+    "V_FreedomCorps.Romulus.Gravitic_Emanation",
+    "V_FreedomCorps.Romulus.Dark_Matter_Detonation",
+    "V_FreedomCorps.Romulus.Power_Drain",
+    "V_FreedomCorps.Romulus.Umbral_Shield"
+  ],
+  "power_display_names": [
+    "Shadow Blast",
+    "Gravitic Emanation",
+    "Dark Matter Detonation",
+    "Power Drain",
+    "Umbral Shield"
+  ],
+  "power_short_helps": [
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD",
+    "Ranged (Targeted AoE), Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD",
+    "Melee (AoE), Moderate DMG(Negative), Self +DMG, +ACC",
+    "Toggle: Self +Res(All DMG but Psionics)"
+  ]
+}

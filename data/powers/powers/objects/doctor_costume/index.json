@@ -1,0 +1,22 @@
+{
+  "name": "Doctor_Costume",
+  "display_name": "Doctor_Costume",
+  "display_fullname": "Objects.Doctor Costume",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/DOCTOR_COSTUME.POWERSETS",
+  "icon": "doctor_costume_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Doctor_Costume.Doctor"
+  ],
+  "power_display_names": [
+    "Doctor"
+  ],
+  "power_short_helps": [
+    "Hidden Doctor"
+  ]
+}

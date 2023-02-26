@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Achilles_Heel_B",
+  "display_name": "Attuned Achilles Heel B",
+  "display_fullname": "Boosts.Attuned Achilles Heel B",
+  "display_help": "Enhances the defense debuff potential of a power by {Boost.Attrib.Defense.Scale}% and reduces the recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Achilles' Heel",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ACHILLES_HEEL_B.POWERSETS",
+  "icon": "attuned_achilles_heel_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Achilles_Heel_B.Attuned_Achilles_Heel_B"
+  ],
+  "power_display_names": [
+    "Achilles' Heel: Defense Debuff/Recharge"
+  ],
+  "power_short_helps": [
+    "+Defense Debuff, +Rech"
+  ]
+}

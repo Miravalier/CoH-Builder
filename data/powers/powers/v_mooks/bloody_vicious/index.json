@@ -1,0 +1,38 @@
+{
+  "name": "Bloody_Vicious",
+  "display_name": "Bloody Vicious",
+  "display_fullname": "V Mooks.Bloody Vicious",
+  "display_help": "Mooks",
+  "display_short_help": "Mooks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_MOOKS/BLOODY_VICIOUS.POWERSETS",
+  "icon": "bloody_vicious_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Mooks.Bloody_Vicious.Katana_Hack",
+    "V_Mooks.Bloody_Vicious.Katana_Slash",
+    "V_Mooks.Bloody_Vicious.Whirling_Katana",
+    "V_Mooks.Bloody_Vicious.Shuriken",
+    "V_Mooks.Bloody_Vicious.Reconstruction"
+  ],
+  "power_display_names": [
+    "Katana Hack",
+    "Katana Slash",
+    "Whirling Katana",
+    "Shuriken",
+    "Reconstruction"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "Ranged Lethal, Low Dam",
+    "Self Heal, +Res(Toxic)"
+  ]
+}

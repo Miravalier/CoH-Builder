@@ -1,0 +1,34 @@
+{
+  "name": "Bobcat_Minions",
+  "display_name": "Bobcat_Minions",
+  "display_fullname": "Praetorians.Bobcat Minions",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANS/BOBCAT_MINIONS.POWERSETS",
+  "icon": "bobcat_minions_set.png",
+  "requires": "",
+  "power_names": [
+    "Praetorians.Bobcat_Minions.Swipe",
+    "Praetorians.Bobcat_Minions.Strike",
+    "Praetorians.Bobcat_Minions.Slash",
+    "Praetorians.Bobcat_Minions.Shuriken"
+  ],
+  "power_display_names": [
+    "Swipe",
+    "Strike",
+    "Slash",
+    "Shuriken"
+  ],
+  "power_short_helps": [
+    "Lethal, Low DoT(Lethal)",
+    "Melee Lethal",
+    "-DEF",
+    "Ranged Lethal, Low Dam"
+  ]
+}

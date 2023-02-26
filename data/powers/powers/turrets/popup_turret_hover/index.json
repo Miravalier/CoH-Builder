@@ -1,0 +1,22 @@
+{
+  "name": "PopUp_Turret_Hover",
+  "display_name": "PopUp Turret Hover",
+  "display_fullname": "Turrets.PopUp Turret Hover",
+  "display_help": "Turrets",
+  "display_short_help": "Turrets",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TURRETS/POPUP_TURRET_HOVER.POWERSETS",
+  "icon": "popup_turret_hover_set.png",
+  "requires": "",
+  "power_names": [
+    "Turrets.PopUp_Turret_Hover.Fly"
+  ],
+  "power_display_names": [
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Commanding_Presence_B",
+  "display_name": "Attuned Commanding Presence B",
+  "display_fullname": "Boosts.Attuned Commanding Presence B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Commanding Presence",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_COMMANDING_PRESENCE_B.POWERSETS",
+  "icon": "attuned_commanding_presence_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Commanding_Presence_B.Attuned_Commanding_Presence_B"
+  ],
+  "power_display_names": [
+    "Commanding Presence: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

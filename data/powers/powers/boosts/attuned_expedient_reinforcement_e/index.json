@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Expedient_Reinforcement_E",
+  "display_name": "Attuned Expedient Reinforcement E",
+  "display_fullname": "Boosts.Attuned Expedient Reinforcement E",
+  "display_help": "Reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%, enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Expedient Reinforcement",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_EXPEDIENT_REINFORCEMENT_E.POWERSETS",
+  "icon": "attuned_expedient_reinforcement_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Expedient_Reinforcement_E.Attuned_Expedient_Reinforcement_E"
+  ],
+  "power_display_names": [
+    "Expedient Reinforcement: Endurance/Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "-End Cost, +DMG, +Rech"
+  ]
+}

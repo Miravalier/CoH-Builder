@@ -1,0 +1,85 @@
+{
+  "name": "Hydra_Man",
+  "gender": "GENDER_MALE",
+  "group_name": "Hydra",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": null,
+    "character_class_name": "minion_grunt",
+    "description": "These formless creatures appear to be controlled by some other entity. Studies of their remains have revealed that they lack any sort of brain. Nevertheless, their actions demonstrate a fearsome cunning and a total hatred of mankind.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.6,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Hydra.Hydra_Men_Melee.Pummel",
+      "Hydra.Hydra_Men_Ranged.Spit",
+      "Hydra.Hydra_Man_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Pummel",
+      "Spit",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Hydra",
+        "power_set": "Hydra_Men_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Hydra",
+        "power_set": "Hydra_Men_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Hydra",
+        "power_set": "Hydra_Man_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Spawn"
+      ],
+      "costumes": [
+        "Hydra_Slug_Minion"
+      ]
+    }
+  ]
+}

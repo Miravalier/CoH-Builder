@@ -1,0 +1,58 @@
+{
+  "name": "Centurion_Endgame",
+  "display_name": "Centurion Endgame",
+  "display_fullname": "Romans.Centurion Endgame",
+  "display_help": "Centurion",
+  "display_short_help": "Centurion",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    17
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/CENTURION_ENDGAME.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Centurion_Endgame.Resistance",
+    "Romans.Centurion_Endgame.Energized_Shield",
+    "Romans.Centurion_Endgame.Phalanx_Fighting",
+    "Romans.Centurion_Endgame.Push_Back",
+    "Romans.Centurion_Endgame.Slash",
+    "Romans.Centurion_Endgame.Slice",
+    "Romans.Centurion_Endgame.Hack",
+    "Romans.Centurion_Endgame.Pilum",
+    "Romans.Centurion_Endgame.Rallying_Cry_HM",
+    "Romans.Centurion_Endgame.Essence_Drain"
+  ],
+  "power_display_names": [
+    "Nictus Imbuement",
+    "Phalanx Fighting",
+    "Roman Armor",
+    "Push Back",
+    "Slash",
+    "Slice",
+    "Hack",
+    "Pilum",
+    "Rallying Cry",
+    "Essence Drain"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Toggle: Self +DEF(All), Res(Disorient, Hold, Immobilize, Sleep, Knock, Repel)",
+    "Auto: Self +DEF(All), Res(DeBuff DEF)",
+    "Melee, Extreme DMG(Smash), High Knockback",
+    "Melee, Moderate Dam(Lethal/Negative), Foe -DEF",
+    "Melee (Cone), Moderate Dam(Lethal), Foe -DEF",
+    "Melee, High Dam(Lethal/Negative), Foe -DEF",
+    "Ranged, High DMG(Lethal)",
+    "Ally +DMG, +ToHit, +Critical, +RES(Confuse)",
+    "Melee, Moderate DMG(Negative), Foe -Recharge, -SPD; Self +HP"
+  ]
+}

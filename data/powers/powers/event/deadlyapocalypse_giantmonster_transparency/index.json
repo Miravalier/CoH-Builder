@@ -1,0 +1,22 @@
+{
+  "name": "DeadlyApocalypse_GiantMonster_Transparency",
+  "display_name": "Giant Monster Transparency",
+  "display_fullname": "Event.Giant Monster Transparency",
+  "display_help": "Giant Monster Transparency",
+  "display_short_help": "Giant Monster Transparency",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/DEADLYAPOCALYPSE_GIANTMONSTER_TRANSPARENCY.POWERSETS",
+  "icon": "deadlyapocalypse_giantmonster_transparency_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.DeadlyApocalypse_GiantMonster_Transparency.Transparency"
+  ],
+  "power_display_names": [
+    "Transparency"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Transparency"
+  ]
+}

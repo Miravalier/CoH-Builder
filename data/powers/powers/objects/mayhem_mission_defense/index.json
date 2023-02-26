@@ -1,0 +1,22 @@
+{
+  "name": "Mayhem_Mission_Defense",
+  "display_name": "Mayhem Mission Defense",
+  "display_fullname": "Objects.Mayhem Mission Defense",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/MAYHEM_MISSION_DEFENSE.POWERSETS",
+  "icon": "mayhem_mission_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Mayhem_Mission_Defense.Defense"
+  ],
+  "power_display_names": [
+    "Defense"
+  ],
+  "power_short_helps": [
+    "Inherent"
+  ]
+}

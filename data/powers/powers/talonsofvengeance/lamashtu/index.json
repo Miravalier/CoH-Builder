@@ -1,0 +1,58 @@
+{
+  "name": "Lamashtu",
+  "display_name": "Lamashtu",
+  "display_fullname": "TalonsOfVengeance.Lamashtu",
+  "display_help": "Lamashtu",
+  "display_short_help": "Lamashtu",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TALONSOFVENGEANCE/LAMASHTU.POWERSETS",
+  "icon": "lamashtu_set.png",
+  "requires": "",
+  "power_names": [
+    "TalonsOfVengeance.Lamashtu.Maddening_Bolt",
+    "TalonsOfVengeance.Lamashtu.Monstrous_Scream",
+    "TalonsOfVengeance.Lamashtu.Monstrous_Wail",
+    "TalonsOfVengeance.Lamashtu.Debilitating_Venom",
+    "TalonsOfVengeance.Lamashtu.Dreadful_Venom",
+    "TalonsOfVengeance.Lamashtu.Exhausting_Venom",
+    "TalonsOfVengeance.Lamashtu.Weakening_Venom",
+    "TalonsOfVengeance.Lamashtu.Enervating_Venom",
+    "TalonsOfVengeance.Lamashtu.Terrifying_Visage",
+    "TalonsOfVengeance.Lamashtu.Resistance"
+  ],
+  "power_display_names": [
+    "Maddening Bolt",
+    "Monstrous Scream",
+    "Monstrous Wail",
+    "Debilitating Venom",
+    "Dreadful Venom",
+    "Exhausting Venom",
+    "Weakening Venom",
+    "Enervating Venom",
+    "Terrifying Visage",
+    "Mother of Monsters"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Psionic), -Rech(Foe)",
+    "Ranged (Cone), Moderate DMG (Psionic), -ToHit(Foe)",
+    "PBAoE, High DMG(Psionic), Knockback(Foe), Chance for Stun(Foe)",
+    "Ranged, Moderate DMG(Lethal), DoT(Toxic), -DEF(Foe, All), Chance for Hold(Foe)",
+    "Ranged (Cone), Moderate DMG(Lethal), Moderate DoT(Toxic) +EndCost(Foe)",
+    "Ranged, Minor DMG (Psionic), Minor DoT (Toxic), -RES(Foe, All), -DEF (Foe, All), -Regen, -Heal",
+    "Ranged, Minor DMG (Psionic), Minor DoT(Toxic), -DMG(Foe, All), -ToHit(Foe)",
+    "Ranged (Cone), Minor DoT (Toxic), EndDrain(Foe), -Rec(Foe), -Rech(Foe), -Speed(Foe, All)",
+    "Ranged (Cone), Minor DMG (Psionic), Fear(Foe)",
+    "Resistance"
+  ]
+}

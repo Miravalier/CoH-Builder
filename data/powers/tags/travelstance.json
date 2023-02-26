@@ -1,0 +1,35 @@
+{
+  "tag": "TravelStance",
+  "bears": [
+    [
+      "Inherent.Inherent.Stance",
+      "inherent.inherent.stance"
+    ]
+  ],
+  "affects": [
+    [
+      "Pool.Concealment.Infiltration",
+      "pool.invisibility.invisibility"
+    ],
+    [
+      "Pool.Experimentation.Speed of Sound",
+      "pool.experimentation.speed_of_sound"
+    ],
+    [
+      "Pool.Force of Will.Mighty Leap",
+      "pool.force_of_will.mighty_leap"
+    ],
+    [
+      "Pool.Leaping.Super Jump",
+      "pool.leaping.long_jump"
+    ],
+    [
+      "Pool.Speed.Super Speed",
+      "pool.speed.super_speed"
+    ],
+    [
+      "Prestige.Prestige Travel.Athletic Run",
+      "prestige.prestige_travel.prestige_athletic_run"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "HydraPowers",
+  "display_name": "",
+  "display_fullname": "HydraSewerTrial.HydraPowers",
+  "display_help": "BLAH",
+  "display_short_help": "Obliteration Beam",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRASEWERTRIAL/HYDRAPOWERS.POWERSETS",
+  "icon": "hydrapowers_set.png",
+  "requires": "",
+  "power_names": [
+    "HydraSewerTrial.HydraPowers.GeiserPower",
+    "HydraSewerTrial.HydraPowers.GasPower",
+    "HydraSewerTrial.HydraPowers.BoilPower"
+  ],
+  "power_display_names": [
+    "GeiserPower",
+    "GasPower",
+    "BoilPower"
+  ],
+  "power_short_helps": [
+    "Obliteration Beam",
+    "Obliteration Beam",
+    "Obliteration Beam"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Unbreakable_Guard_D",
+  "display_name": "Attuned Unbreakable Guard D",
+  "display_fullname": "Boosts.Attuned Unbreakable Guard D",
+  "display_help": "Enhances the damage resistance of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Unbreakable Guard",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNBREAKABLE_GUARD_D.POWERSETS",
+  "icon": "attuned_unbreakable_guard_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Unbreakable_Guard_D.Attuned_Unbreakable_Guard_D"
+  ],
+  "power_display_names": [
+    "Unbreakable Guard: Resistance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage Resistance and Recharge Time"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ghosts_Boss",
+  "display_name": "Ghosts Boss",
+  "display_fullname": "V SpectralPirates.Ghosts Boss",
+  "display_help": "Spectral Pirates",
+  "display_short_help": "Spectral Pirates",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SPECTRALPIRATES/GHOSTS_BOSS.POWERSETS",
+  "icon": "ghosts_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_SpectralPirates.Ghosts_Boss.Necroplasmic_Grasp"
+  ],
+  "power_display_names": [
+    "Necroplasmic Grasp"
+  ],
+  "power_short_helps": [
+    "DoT(Negative), Hold"
+  ]
+}

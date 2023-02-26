@@ -1,0 +1,22 @@
+{
+  "name": "Shivan_Summon_FX",
+  "display_name": "Shivan Summon fx",
+  "display_fullname": "Pets.Shivan Summon fx",
+  "display_help": "Shivan",
+  "display_short_help": "Shivan",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/SHIVAN_SUMMON_FX.POWERSETS",
+  "icon": "shivan_summon_fx_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Shivan_Summon_FX.Summon"
+  ],
+  "power_display_names": [
+    "Summon"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

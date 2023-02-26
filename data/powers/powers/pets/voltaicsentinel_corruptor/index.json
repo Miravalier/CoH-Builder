@@ -1,0 +1,26 @@
+{
+  "name": "VoltaicSentinel_Corruptor",
+  "display_name": "Voltaic Sentinel Corruptor",
+  "display_fullname": "Pets.Voltaic Sentinel Corruptor",
+  "display_help": "Electrical Blast",
+  "display_short_help": "Electrical Blast",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/VOLTAICSENTINEL_CORRUPTOR.POWERSETS",
+  "icon": "voltaicsentinel_corruptor_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.VoltaicSentinel_Corruptor.Electrical_Bolt",
+    "Pets.VoltaicSentinel_Corruptor.Electrical_Field"
+  ],
+  "power_display_names": [
+    "Electrical Bolt",
+    "Electrical Field"
+  ],
+  "power_short_helps": [
+    "Energy, -End",
+    "Electrical Field"
+  ]
+}

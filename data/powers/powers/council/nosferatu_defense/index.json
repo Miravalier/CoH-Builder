@@ -1,0 +1,38 @@
+{
+  "name": "Nosferatu_Defense",
+  "display_name": "Nosferatu_Defense",
+  "display_fullname": "Council.Nosferatu Defense",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/NOSFERATU_DEFENSE.POWERSETS",
+  "icon": "nosferatu_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Nosferatu_Defense.Resistance",
+    "Council.Nosferatu_Defense.Chill_of_the_Night",
+    "Council.Nosferatu_Defense.Fast_Healing",
+    "Council.Nosferatu_Defense.Reconstruction",
+    "Council.Nosferatu_Defense.Dull_Pain"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Chill of the Night",
+    "Fast Healing",
+    "Reconstruction",
+    "Dull Pain"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "DoT(Negative), -ACC",
+    "Self Auto, +Regen",
+    "Self Heal",
+    "Self +HP"
+  ]
+}

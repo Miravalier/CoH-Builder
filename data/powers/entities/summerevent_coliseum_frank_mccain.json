@@ -1,0 +1,134 @@
+{
+  "name": "SummerEvent_Coliseum_Frank_McCain",
+  "gender": "GENDER_MALE",
+  "group_name": "SummerEvent",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "A famed card shark and gunslinger from the Wild West, Frank \"Hunnerd Yard\" McCain was known especially for his tremendous accuracy at great range. Frank McCain's life changed that hot dusty night when he won a strange device from an odd foreign sounding fellow in a game of cards. Figuring it was some kind of new-fangled, steam-powered still, McCain took it back to his shack and fiddled with it. To his amazement, it lit up as bright as the noon-day sun. Next thing he knew, he was lost in the ancient world with nothing but his guns, his dogs and a broken time travel machine. He now lives like an emperor off the prizes he wins in the Coliseum.",
+    "group_description": "Time Gladiator",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "SummerEvent.Gunslinger.Pistols",
+      "SummerEvent.Gunslinger.Dual_Wield",
+      "SummerEvent.Gunslinger.Bullet_Rain",
+      "SummerEvent.Gunslinger.Executioners_Shot",
+      "SummerEvent.Gunslinger.Exhausting_Shot",
+      "SummerEvent.Gunslinger.Hail_of_Bullets",
+      "SummerEvent.GunslingerUtility.Pack_Leaders_Revenge",
+      "GenericVillains.AV_Resistance.AV_Resistance"
+    ],
+    "power_display_names": [
+      "Single Shot",
+      "Dual Shot",
+      "Wrangler's Storm",
+      "Dead-Eye",
+      "Exhausting Shot",
+      "Hail of Bullets",
+      "Pack Leader's Revenge",
+      "Archvillain's Might"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "SummerEvent",
+        "power_set": "Gunslinger",
+        "power": "Pistols",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "Gunslinger",
+        "power": "Dual_Wield",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "Gunslinger",
+        "power": "Bullet_Rain",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "Gunslinger",
+        "power": "Executioners_Shot",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "Gunslinger",
+        "power": "Exhausting_Shot",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "Gunslinger",
+        "power": "Hail_of_Bullets",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "GunslingerUtility",
+        "power": "Pack_Leaders_Revenge",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "AV_Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Frank \"Hunnerd Yard\" McCain"
+      ],
+      "costumes": [
+        "SummerEvent_FrankMcCain"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Police_Dual_Pistols",
+  "display_name": "Police Dual Pistols",
+  "display_fullname": "V ParagonPolice.Police Dual Pistols",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/POLICE_DUAL_PISTOLS.POWERSETS",
+  "icon": "police_dual_pistols_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Police_Dual_Pistols.Single_Shot",
+    "V_ParagonPolice.Police_Dual_Pistols.Double_Shot",
+    "V_ParagonPolice.Police_Dual_Pistols.Wild_Shot"
+  ],
+  "power_display_names": [
+    "Single Shot",
+    "Double Shot",
+    "Wild Shot"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "-Def",
+    "-Def"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Natural_Fear",
+  "display_name": "Natural Fear",
+  "display_fullname": "Boosts.Natural Fear",
+  "display_help": "Increases the duration of a fear power.",
+  "display_short_help": "Technique (Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/NATURAL_FEAR.POWERSETS",
+  "icon": "natural_fear_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Natural_Fear.Natural_Fear"
+  ],
+  "power_display_names": [
+    "Back Alley Intimidation (Fear)"
+  ],
+  "power_short_helps": [
+    "Enhances Fear Duration"
+  ]
+}

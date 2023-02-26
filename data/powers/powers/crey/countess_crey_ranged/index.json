@@ -1,0 +1,50 @@
+{
+  "name": "Countess_Crey_Ranged",
+  "display_name": "Countess_Crey_Ranged",
+  "display_fullname": "Crey.Countess Crey Ranged",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/COUNTESS_CREY_RANGED.POWERSETS",
+  "icon": "countess_crey_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Countess_Crey_Ranged.Mass_Hypnosis",
+    "Crey.Countess_Crey_Ranged.Psychic_Scream",
+    "Crey.Countess_Crey_Ranged.Subdue",
+    "Crey.Countess_Crey_Ranged.Psionic_Lance",
+    "Crey.Countess_Crey_Ranged.Telekinetic_Blast",
+    "Crey.Countess_Crey_Ranged.Will_Domination",
+    "Crey.Countess_Crey_Ranged.Psychic_Wail",
+    "Crey.Countess_Crey_Ranged.Scramble_Thoughts"
+  ],
+  "power_display_names": [
+    "Mass Hypnosis",
+    "Psychic Scream",
+    "Subdue",
+    "Psionic Lance",
+    "Telekinetic Blast",
+    "Will Domination",
+    "Psychic Wail",
+    "Scramble Thoughts"
+  ],
+  "power_short_helps": [
+    "Sleep",
+    "-Recharge",
+    "Ranged, DMG(Psionic), Foe Immobilize",
+    "-Recharge",
+    "Ranged, DMG(Smash/Psionic), Foe Knockback",
+    "Sleep",
+    "Close (AoE), DMG(Psionic), Foe Disorient -Recharge, Self -Recovery",
+    "Ranged, DMG(Psionic), Foe Disorient"
+  ]
+}

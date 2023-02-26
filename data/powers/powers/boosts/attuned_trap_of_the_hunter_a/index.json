@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Trap_of_the_Hunter_A",
+  "display_name": "Attuned Trap of the Hunter A",
+  "display_fullname": "Boosts.Attuned Trap of the Hunter A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Trap of the Hunter",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_TRAP_OF_THE_HUNTER_A.POWERSETS",
+  "icon": "attuned_trap_of_the_hunter_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Trap_of_the_Hunter_A.Attuned_Trap_of_the_Hunter_A"
+  ],
+  "power_display_names": [
+    "Trap of the Hunter: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

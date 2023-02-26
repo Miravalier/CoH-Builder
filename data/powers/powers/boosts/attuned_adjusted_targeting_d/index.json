@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Adjusted_Targeting_D",
+  "display_name": "Attuned Adjusted Targeting D",
+  "display_fullname": "Boosts.Attuned Adjusted Targeting D",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}% and the endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Adjusted Targeting",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ADJUSTED_TARGETING_D.POWERSETS",
+  "icon": "attuned_adjusted_targeting_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Adjusted_Targeting_D.Attuned_Adjusted_Targeting_D"
+  ],
+  "power_display_names": [
+    "Adjusted Targeting: Recharge/Endurance Reduction"
+  ],
+  "power_short_helps": [
+    "+Rech, +End"
+  ]
+}

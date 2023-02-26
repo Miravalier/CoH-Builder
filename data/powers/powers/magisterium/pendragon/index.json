@@ -1,0 +1,62 @@
+{
+  "name": "Pendragon",
+  "display_name": "Pendragon",
+  "display_fullname": "Magisterium.Pendragon",
+  "display_help": "Magisterium",
+  "display_short_help": "Magisterium",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MAGISTERIUM/PENDRAGON.POWERSETS",
+  "icon": "pendragon_set.png",
+  "requires": "",
+  "power_names": [
+    "Magisterium.Pendragon.Fury_Display",
+    "Magisterium.Pendragon.Tectonic_Assault",
+    "Magisterium.Pendragon.Defensive_Sweep",
+    "Magisterium.Pendragon.Crushing_Blow",
+    "Magisterium.Pendragon.Shockwave_Strike",
+    "Magisterium.Pendragon.Taunt",
+    "Magisterium.Pendragon.Follow_Through",
+    "Magisterium.Pendragon.Shatter_Armor",
+    "Magisterium.Pendragon.Arc_of_Devastation",
+    "Magisterium.Pendragon.Power_of_the_Fae",
+    "Magisterium.Pendragon.Mystic_Destruction"
+  ],
+  "power_display_names": [
+    "Fury Display",
+    "Tectonic Assault",
+    "Defensive Sweep",
+    "Crushing Blow",
+    "Shockwave Strike",
+    "Taunt",
+    "Follow Through",
+    "Shatter Armor",
+    "Arc of Devastation",
+    "Power of the Fae",
+    "Mystic Destruction"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Melee, Minor DMG(Smashing), +DEF(Self, Melee, Smashing), +ToHit(Self), Chance for -Rech(Foe)",
+    "Melee, Moderate DMG(Smashing), Minor DoT (Lethal), -Speed(Foe,All), -Fly(Foe)",
+    "Melee, High DMG (Smashing), Knockback(Foe), -Regen(Foe), -Rec(Foe)",
+    "Ranged (Targeted AoE), Foe Taunt",
+    "Melee, Superior DMG (Smashing), Moderate DoT (Lethal), Chance for Knockup(Foe), -Fly(Foe)",
+    "TAoE, Extreme DMG(Smashing), -DEF(Foe,All), -RES(Foe,All)",
+    "Melee (Cone), High DMG(Smashing), Chance for Knockback(Foe), Stun(Foe), -Rech(Foe), -ToHit(Foe)",
+    "Self +Absorb, Special",
+    "Melee (Cone), High DMG(Smashing), Chance for Knockback(Foe), Stun(Foe), -Rech(Foe), -ToHit(Foe)"
+  ]
+}

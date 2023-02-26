@@ -1,0 +1,39 @@
+{
+  "tag": "DefilerEnd",
+  "bears": [
+    [
+      "BanishedPantheon.Defiler.Frigid Blast",
+      "banishedpantheon.defiler.frigid_blast"
+    ],
+    [
+      "BanishedPantheon.Defiler.Frigid Slash",
+      "banishedpantheon.defiler.frigid_slash"
+    ],
+    [
+      "BanishedPantheon.Defiler.Frigid Thorns",
+      "banishedpantheon.defiler.frigid_thorns"
+    ]
+  ],
+  "affects": [
+    [
+      "BanishedPantheon.Defiler.Frigid Blast",
+      "banishedpantheon.defiler.frigid_blast"
+    ],
+    [
+      "BanishedPantheon.Defiler.Frigid Burst",
+      "banishedpantheon.defiler.frigid_burst"
+    ],
+    [
+      "BanishedPantheon.Defiler.Frigid Slash",
+      "banishedpantheon.defiler.frigid_slash"
+    ],
+    [
+      "BanishedPantheon.Defiler.Frigid Storm",
+      "banishedpantheon.defiler.frigid_storm"
+    ],
+    [
+      "BanishedPantheon.Defiler.Frigid Thorns",
+      "banishedpantheon.defiler.frigid_thorns"
+    ]
+  ]
+}

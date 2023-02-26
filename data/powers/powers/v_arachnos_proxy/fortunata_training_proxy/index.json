@@ -1,0 +1,58 @@
+{
+  "name": "Fortunata_Training_Proxy",
+  "display_name": "Fortunata Training Proxy",
+  "display_fullname": "V Arachnos Proxy.Fortunata Training Proxy",
+  "display_help": "Fortunata's have a wide array of extremely potent psychic attacks and controls.",
+  "display_short_help": "Fortunata Training Proxy",
+  "available_level": [
+    0,
+    0,
+    1,
+    5,
+    7,
+    11,
+    11,
+    17,
+    25,
+    31
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/FORTUNATA_TRAINING_PROXY.POWERSETS",
+  "icon": "fortunata_training_proxy_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Mental_Blast",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Telekinetic_Blast",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Subdue",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Aim",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Psychic_Scream",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Dominate",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Psionic_Lance",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Scramble_Thoughts",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Total_Domination",
+    "V_Arachnos_Proxy.Fortunata_Training_Proxy.FRT_Psychic_Wail"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Telekinetic Blast",
+    "Subdue",
+    "Aim",
+    "Psychic Scream",
+    "Dominate",
+    "Psionic Tornado",
+    "Scramble Thoughts",
+    "Total Domination",
+    "Psychic Wail"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback",
+    "Ranged, Moderate DMG(Psionic), Foe Immobilize",
+    "Self +To Hit, +DMG",
+    "Ranged (Cone), Moderate DMG(Psionic), Foe -Recharge",
+    "Ranged, Moderate DMG(Psionic), Foe Hold",
+    "Ranged (Targeted AoE), Moderate DoT(Psionic), Foe Knockback",
+    "Ranged, Minor DMG(Psionic), Foe Disorient",
+    "Ranged (Targeted AoE), Foe Hold",
+    "PBAoE , Extreme DMG(Psionic), Foe Disorient -Recharge"
+  ]
+}

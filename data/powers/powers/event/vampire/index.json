@@ -1,0 +1,42 @@
+{
+  "name": "Vampire",
+  "display_name": "Vampire",
+  "display_fullname": "Event.Vampire",
+  "display_help": "Vampire",
+  "display_short_help": "Vampire",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/VAMPIRE.POWERSETS",
+  "icon": "vampire_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Vampire.Fast_Healing",
+    "Event.Vampire.Smite",
+    "Event.Vampire.Shadow_Punch",
+    "Event.Vampire.Gloom",
+    "Event.Vampire.Siphon_Life",
+    "Event.Vampire.Life_Drain"
+  ],
+  "power_display_names": [
+    "Fast Healing",
+    "Smite",
+    "Shadow Punch",
+    "Gloom",
+    "Siphon Life",
+    "Life Drain"
+  ],
+  "power_short_helps": [
+    "Self Auto, +Regen",
+    "-ACC",
+    "-ACC",
+    "High DoT(Negative), -ACC",
+    "-ACC",
+    "-ACC"
+  ]
+}

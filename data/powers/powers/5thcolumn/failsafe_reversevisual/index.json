@@ -1,0 +1,22 @@
+{
+  "name": "Failsafe_ReverseVisual",
+  "display_name": "",
+  "display_fullname": "5thColumn.Failsafe ReverseVisual",
+  "display_help": "Object",
+  "display_short_help": "Object",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FAILSAFE_REVERSEVISUAL.POWERSETS",
+  "icon": "failsafe_reversevisual_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Failsafe_ReverseVisual.Fail_Safe"
+  ],
+  "power_display_names": [
+    "Fail Safe"
+  ],
+  "power_short_helps": [
+    "Self Destruct"
+  ]
+}

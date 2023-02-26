@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Might_of_the_Empire",
+  "display_name": "Generic Might of the Empire",
+  "display_fullname": "Boosts.Generic Might of the Empire",
+  "display_help": "Enhances the damage and recharge of a power while providing a 10% chance to knockdown.",
+  "display_short_help": "Might of the Empire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_MIGHT_OF_THE_EMPIRE.POWERSETS",
+  "icon": "generic_might_of_the_empire_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Might_of_the_Empire.Generic_Might_of_the_Empire"
+  ],
+  "power_display_names": [
+    "Might of the Empire: Damage/Recharge/Chance for Knockdown"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Recharge and has a chance to knockdown"
+  ]
+}

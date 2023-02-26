@@ -1,0 +1,3270 @@
+{
+  "tag": "Accuracy",
+  "bears": [
+    [
+      "Boosts.Attuned Adrenal Adjustment C.Endurance Modification/Rech/Acc",
+      "boosts.attuned_adrenal_adjustment_c.attuned_adrenal_adjustment_c"
+    ],
+    [
+      "Boosts.Attuned Air Burst A.Acc/Dam",
+      "boosts.attuned_air_burst_a.attuned_air_burst_a"
+    ],
+    [
+      "Boosts.Attuned Analyze Weakness B.Acc/Def Debuff",
+      "boosts.attuned_analyze_weakness_b.attuned_analyze_weakness_b"
+    ],
+    [
+      "Boosts.Attuned Analyze Weakness C.Acc/Rech",
+      "boosts.attuned_analyze_weakness_c.attuned_analyze_weakness_c"
+    ],
+    [
+      "Boosts.Attuned Analyze Weakness E.Acc/End/Rech",
+      "boosts.attuned_analyze_weakness_e.attuned_analyze_weakness_e"
+    ],
+    [
+      "Boosts.Attuned Annihilation A.Acc/Dam",
+      "boosts.attuned_annihilation_a.attuned_annihilation_a"
+    ],
+    [
+      "Boosts.Attuned Annihilation C.Acc/Dam/Rech",
+      "boosts.attuned_annihilation_c.attuned_annihilation_c"
+    ],
+    [
+      "Boosts.Attuned Annihilation D.Acc/Dam/End",
+      "boosts.attuned_annihilation_d.attuned_annihilation_d"
+    ],
+    [
+      "Boosts.Attuned Annihilation E.Acc/Dam/Rech/End",
+      "boosts.attuned_annihilation_e.attuned_annihilation_e"
+    ],
+    [
+      "Boosts.Attuned Artillery A.Acc/Dam",
+      "boosts.attuned_artillery_a.attuned_artillery_a"
+    ],
+    [
+      "Boosts.Attuned Artillery D.Acc/Dam/Rech",
+      "boosts.attuned_artillery_d.attuned_artillery_d"
+    ],
+    [
+      "Boosts.Attuned Artillery E.Acc/Rech/Range",
+      "boosts.attuned_artillery_e.attuned_artillery_e"
+    ],
+    [
+      "Boosts.Attuned Ascendency of the Dominator A.Acc/Control",
+      "boosts.attuned_ascendency_of_the_dominator_a.attuned_ascendency_of_the_dominator_a"
+    ],
+    [
+      "Boosts.Attuned Ascendency of the Dominator D.Acc/Control/End",
+      "boosts.attuned_ascendency_of_the_dominator_d.attuned_ascendency_of_the_dominator_d"
+    ],
+    [
+      "Boosts.Attuned Ascendency of the Dominator E.Acc/Control/End/Rech",
+      "boosts.attuned_ascendency_of_the_dominator_e.attuned_ascendency_of_the_dominator_e"
+    ],
+    [
+      "Boosts.Attuned Assassins Mark A.Acc/Dam (Stalker)",
+      "boosts.attuned_assassins_mark_a.attuned_assassins_mark_a"
+    ],
+    [
+      "Boosts.Attuned Assassins Mark C.Acc/Dam/Rech (Stalker)",
+      "boosts.attuned_assassins_mark_c.attuned_assassins_mark_c"
+    ],
+    [
+      "Boosts.Attuned Assassins Mark E.Acc/Dam/End/Rech (Stalker)",
+      "boosts.attuned_assassins_mark_e.attuned_assassins_mark_e"
+    ],
+    [
+      "Boosts.Attuned Avalanche A.Acc/Dam",
+      "boosts.attuned_avalanche_a.attuned_avalanche_a"
+    ],
+    [
+      "Boosts.Attuned Avalanche C.Acc/Dam/Rech",
+      "boosts.attuned_avalanche_c.attuned_avalanche_c"
+    ],
+    [
+      "Boosts.Attuned Avalanche D.Acc/Dam/End",
+      "boosts.attuned_avalanche_d.attuned_avalanche_d"
+    ],
+    [
+      "Boosts.Attuned Avalanche E.Acc/Dam/End/Rech",
+      "boosts.attuned_avalanche_e.attuned_avalanche_e"
+    ],
+    [
+      "Boosts.Attuned Basilisks Gaze A.Acc/Hold",
+      "boosts.attuned_basilisks_gaze_a.attuned_basilisks_gaze_a"
+    ],
+    [
+      "Boosts.Attuned Basilisks Gaze B.Acc/Rech",
+      "boosts.attuned_basilisks_gaze_b.attuned_basilisks_gaze_b"
+    ],
+    [
+      "Boosts.Attuned Basilisks Gaze E.Acc/End/Rech/Hold",
+      "boosts.attuned_basilisks_gaze_e.attuned_basilisks_gaze_e"
+    ],
+    [
+      "Boosts.Attuned Befuddling Aura A.Acc/Rech",
+      "boosts.attuned_befuddling_aura_a.attuned_befuddling_aura_a"
+    ],
+    [
+      "Boosts.Attuned Befuddling Aura C.Acc/End",
+      "boosts.attuned_befuddling_aura_c.attuned_befuddling_aura_c"
+    ],
+    [
+      "Boosts.Attuned Befuddling Aura E.Acc/Confuse/Rech",
+      "boosts.attuned_befuddling_aura_e.attuned_befuddling_aura_e"
+    ],
+    [
+      "Boosts.Attuned Blasters Wrath A.Acc/Dam",
+      "boosts.attuned_blasters_wrath_a.attuned_blasters_wrath_a"
+    ],
+    [
+      "Boosts.Attuned Blasters Wrath C.Acc/Dam/Rech",
+      "boosts.attuned_blasters_wrath_c.attuned_blasters_wrath_c"
+    ],
+    [
+      "Boosts.Attuned Blasters Wrath D.Acc/Dam/End",
+      "boosts.attuned_blasters_wrath_d.attuned_blasters_wrath_d"
+    ],
+    [
+      "Boosts.Attuned Blasters Wrath E.Acc/Dam/End/Rech",
+      "boosts.attuned_blasters_wrath_e.attuned_blasters_wrath_e"
+    ],
+    [
+      "Boosts.Attuned Blistering Cold A.Acc/Dam",
+      "boosts.attuned_blistering_cold_a.attuned_blistering_cold_a"
+    ],
+    [
+      "Boosts.Attuned Blistering Cold C.Acc/Dam/Rech",
+      "boosts.attuned_blistering_cold_c.attuned_blistering_cold_c"
+    ],
+    [
+      "Boosts.Attuned Blistering Cold D.Acc/Dam/End",
+      "boosts.attuned_blistering_cold_d.attuned_blistering_cold_d"
+    ],
+    [
+      "Boosts.Attuned Blistering Cold E.Acc/Dam/End/Rech",
+      "boosts.attuned_blistering_cold_e.attuned_blistering_cold_e"
+    ],
+    [
+      "Boosts.Attuned Blood Mandate A.Acc/Dam",
+      "boosts.attuned_blood_mandate_a.attuned_blood_mandate_a"
+    ],
+    [
+      "Boosts.Attuned Blood Mandate C.Acc/End",
+      "boosts.attuned_blood_mandate_c.attuned_blood_mandate_c"
+    ],
+    [
+      "Boosts.Attuned Blood Mandate D.Acc/Dam/End",
+      "boosts.attuned_blood_mandate_d.attuned_blood_mandate_d"
+    ],
+    [
+      "Boosts.Attuned Blood Mandate E.Accuracy",
+      "boosts.attuned_blood_mandate_e.attuned_blood_mandate_e"
+    ],
+    [
+      "Boosts.Attuned Bombardment C.Acc/End/Rech",
+      "boosts.attuned_bombardment_c.attuned_bombardment_c"
+    ],
+    [
+      "Boosts.Attuned Bombardment D.Acc/Dam/Rech",
+      "boosts.attuned_bombardment_d.attuned_bombardment_d"
+    ],
+    [
+      "Boosts.Attuned Bombardment E.Acc/Dam/End/Rech",
+      "boosts.attuned_bombardment_e.attuned_bombardment_e"
+    ],
+    [
+      "Boosts.Attuned Bonesnap A.Acc/Dam",
+      "boosts.attuned_bonesnap_a.attuned_bonesnap_a"
+    ],
+    [
+      "Boosts.Attuned Bonesnap C.Acc/Rech",
+      "boosts.attuned_bonesnap_c.attuned_bonesnap_c"
+    ],
+    [
+      "Boosts.Attuned Brilliant Leadership A.Acc/Dam",
+      "boosts.attuned_brilliant_leadership_a.attuned_brilliant_leadership_a"
+    ],
+    [
+      "Boosts.Attuned Brilliant Leadership C.Acc/End",
+      "boosts.attuned_brilliant_leadership_c.attuned_brilliant_leadership_c"
+    ],
+    [
+      "Boosts.Attuned Brilliant Leadership D.Acc/Dam/End",
+      "boosts.attuned_brilliant_leadership_d.attuned_brilliant_leadership_d"
+    ],
+    [
+      "Boosts.Attuned Brilliant Leadership E.Accuracy",
+      "boosts.attuned_brilliant_leadership_e.attuned_brilliant_leadership_e"
+    ],
+    [
+      "Boosts.Attuned Bruising Blow A.Acc/Dam",
+      "boosts.attuned_bruising_blow_a.attuned_bruising_blow_a"
+    ],
+    [
+      "Boosts.Attuned Brutes Fury A.Acc/Dam",
+      "boosts.attuned_brutes_fury_a.attuned_brutes_fury_a"
+    ],
+    [
+      "Boosts.Attuned Brutes Fury C.Acc/Dam/Rech",
+      "boosts.attuned_brutes_fury_c.attuned_brutes_fury_c"
+    ],
+    [
+      "Boosts.Attuned Brutes Fury E.Acc/Dam/End/Rech",
+      "boosts.attuned_brutes_fury_e.attuned_brutes_fury_e"
+    ],
+    [
+      "Boosts.Attuned Cacophany A.Acc/Rech",
+      "boosts.attuned_cacophany_a.attuned_cacophany_a"
+    ],
+    [
+      "Boosts.Attuned Cacophany C.Acc/End",
+      "boosts.attuned_cacophany_c.attuned_cacophany_c"
+    ],
+    [
+      "Boosts.Attuned Cacophany E.Acc/Confuse/Rech",
+      "boosts.attuned_cacophany_e.attuned_cacophany_e"
+    ],
+    [
+      "Boosts.Attuned Calibrated Accuracy A.Acc/Dam",
+      "boosts.attuned_calibrated_accuracy_a.attuned_calibrated_accuracy_a"
+    ],
+    [
+      "Boosts.Attuned Calibrated Accuracy B.Acc/End",
+      "boosts.attuned_calibrated_accuracy_b.attuned_calibrated_accuracy_b"
+    ],
+    [
+      "Boosts.Attuned Calibrated Accuracy C.Acc/Interrupt",
+      "boosts.attuned_calibrated_accuracy_c.attuned_calibrated_accuracy_c"
+    ],
+    [
+      "Boosts.Attuned Calibrated Accuracy D.Acc/Range",
+      "boosts.attuned_calibrated_accuracy_d.attuned_calibrated_accuracy_d"
+    ],
+    [
+      "Boosts.Attuned Calibrated Accuracy E.Acc/Rech",
+      "boosts.attuned_calibrated_accuracy_e.attuned_calibrated_accuracy_e"
+    ],
+    [
+      "Boosts.Attuned Calibrated Accuracy F.Acc/Dam/Rech",
+      "boosts.attuned_calibrated_accuracy_f.attuned_calibrated_accuracy_f"
+    ],
+    [
+      "Boosts.Attuned Call of the Sandman A.Acc/Rech",
+      "boosts.attuned_call_of_the_sandman_a.attuned_call_of_the_sandman_a"
+    ],
+    [
+      "Boosts.Attuned Call of the Sandman C.Acc/End",
+      "boosts.attuned_call_of_the_sandman_c.attuned_call_of_the_sandman_c"
+    ],
+    [
+      "Boosts.Attuned Call of the Sandman E.Acc/Sleep/Rech",
+      "boosts.attuned_call_of_the_sandman_e.attuned_call_of_the_sandman_e"
+    ],
+    [
+      "Boosts.Attuned Call to Arms A.Acc/Rech",
+      "boosts.attuned_call_to_arms_a.attuned_call_to_arms_a"
+    ],
+    [
+      "Boosts.Attuned Call to Arms B.Acc/Dam",
+      "boosts.attuned_call_to_arms_b.attuned_call_to_arms_b"
+    ],
+    [
+      "Boosts.Attuned Call to Arms D.Acc/Dam/Rech",
+      "boosts.attuned_call_to_arms_d.attuned_call_to_arms_d"
+    ],
+    [
+      "Boosts.Attuned Cleaving Blow A.Acc/Dam",
+      "boosts.attuned_cleaving_blow_a.attuned_cleaving_blow_a"
+    ],
+    [
+      "Boosts.Attuned Cleaving Blow D.Acc/Rech",
+      "boosts.attuned_cleaving_blow_d.attuned_cleaving_blow_d"
+    ],
+    [
+      "Boosts.Attuned Cloud Senses B.Acc/To Hit Debuff",
+      "boosts.attuned_cloud_senses_b.attuned_cloud_senses_b"
+    ],
+    [
+      "Boosts.Attuned Cloud Senses C.Acc/Rech",
+      "boosts.attuned_cloud_senses_c.attuned_cloud_senses_c"
+    ],
+    [
+      "Boosts.Attuned Cloud Senses E.Acc/End/Rech",
+      "boosts.attuned_cloud_senses_e.attuned_cloud_senses_e"
+    ],
+    [
+      "Boosts.Attuned Command of the Mastermind A.Acc/Dam",
+      "boosts.attuned_command_of_the_mastermind_a.attuned_command_of_the_mastermind_a"
+    ],
+    [
+      "Boosts.Attuned Command of the Mastermind C.Acc/Dam/Rech",
+      "boosts.attuned_command_of_the_mastermind_c.attuned_command_of_the_mastermind_c"
+    ],
+    [
+      "Boosts.Attuned Command of the Mastermind E.Acc/Dam/End/Rech",
+      "boosts.attuned_command_of_the_mastermind_e.attuned_command_of_the_mastermind_e"
+    ],
+    [
+      "Boosts.Attuned Commanding Presence A.Acc/Dam",
+      "boosts.attuned_commanding_presence_a.attuned_commanding_presence_a"
+    ],
+    [
+      "Boosts.Attuned Commanding Presence C.Acc/End",
+      "boosts.attuned_commanding_presence_c.attuned_commanding_presence_c"
+    ],
+    [
+      "Boosts.Attuned Commanding Presence D.Acc/Dam/End",
+      "boosts.attuned_commanding_presence_d.attuned_commanding_presence_d"
+    ],
+    [
+      "Boosts.Attuned Critical Strikes A.Acc/Dam (Scrapper)",
+      "boosts.attuned_critical_strikes_a.attuned_critical_strikes_a"
+    ],
+    [
+      "Boosts.Attuned Critical Strikes C.Acc/Dam/Rech (Scrapper)",
+      "boosts.attuned_critical_strikes_c.attuned_critical_strikes_c"
+    ],
+    [
+      "Boosts.Attuned Critical Strikes E.Acc/Dam/End/Rech (Scrapper)",
+      "boosts.attuned_critical_strikes_e.attuned_critical_strikes_e"
+    ],
+    [
+      "Boosts.Attuned Crushing Impact A.Acc/Dam",
+      "boosts.attuned_crushing_impact_a.attuned_crushing_impact_a"
+    ],
+    [
+      "Boosts.Attuned Crushing Impact D.Acc/Dam/Rech",
+      "boosts.attuned_crushing_impact_d.attuned_crushing_impact_d"
+    ],
+    [
+      "Boosts.Attuned Crushing Impact E.Acc/Dam/End",
+      "boosts.attuned_crushing_impact_e.attuned_crushing_impact_e"
+    ],
+    [
+      "Boosts.Attuned Curtail Speed A.Acc/Slow",
+      "boosts.attuned_curtail_speed_a.attuned_curtail_speed_a"
+    ],
+    [
+      "Boosts.Attuned Curtail Speed C.Acc/End",
+      "boosts.attuned_curtail_speed_c.attuned_curtail_speed_c"
+    ],
+    [
+      "Boosts.Attuned Debiliative Action A.Acc/Rech",
+      "boosts.attuned_debiliative_action_a.attuned_debiliative_action_a"
+    ],
+    [
+      "Boosts.Attuned Debiliative Action C.Acc/End",
+      "boosts.attuned_debiliative_action_c.attuned_debiliative_action_c"
+    ],
+    [
+      "Boosts.Attuned Debiliative Action E.Acc/Immob/Rech",
+      "boosts.attuned_debiliative_action_e.attuned_debiliative_action_e"
+    ],
+    [
+      "Boosts.Attuned Decimation A.Acc/Dam",
+      "boosts.attuned_decimation_a.attuned_decimation_a"
+    ],
+    [
+      "Boosts.Attuned Decimation D.Acc/End/Rech",
+      "boosts.attuned_decimation_d.attuned_decimation_d"
+    ],
+    [
+      "Boosts.Attuned Decimation E.Acc/Dam/Rech",
+      "boosts.attuned_decimation_e.attuned_decimation_e"
+    ],
+    [
+      "Boosts.Attuned Defenders Bastion A.Acc/Dam",
+      "boosts.attuned_defenders_bastion_a.attuned_defenders_bastion_a"
+    ],
+    [
+      "Boosts.Attuned Defenders Bastion D.Acc/Dam/End",
+      "boosts.attuned_defenders_bastion_d.attuned_defenders_bastion_d"
+    ],
+    [
+      "Boosts.Attuned Defenders Bastion E.Acc/Dam/End/Rech",
+      "boosts.attuned_defenders_bastion_e.attuned_defenders_bastion_e"
+    ],
+    [
+      "Boosts.Attuned Defiant Barrage A.Acc/Dam (Blaster)",
+      "boosts.attuned_defiant_barrage_a.attuned_defiant_barrage_a"
+    ],
+    [
+      "Boosts.Attuned Defiant Barrage C.Acc/Dam/Rech (Blaster)",
+      "boosts.attuned_defiant_barrage_c.attuned_defiant_barrage_c"
+    ],
+    [
+      "Boosts.Attuned Defiant Barrage D.Acc/Dam/End (Blaster)",
+      "boosts.attuned_defiant_barrage_d.attuned_defiant_barrage_d"
+    ],
+    [
+      "Boosts.Attuned Defiant Barrage E.Acc/Dam/End/Rech (Blaster)",
+      "boosts.attuned_defiant_barrage_e.attuned_defiant_barrage_e"
+    ],
+    [
+      "Boosts.Attuned Detonation A.Acc/Dam",
+      "boosts.attuned_detonation_a.attuned_detonation_a"
+    ],
+    [
+      "Boosts.Attuned Detonation E.Acc/Dam/End",
+      "boosts.attuned_detonation_e.attuned_detonation_e"
+    ],
+    [
+      "Boosts.Attuned Devastation A.Acc/Dam",
+      "boosts.attuned_devastation_a.attuned_devastation_a"
+    ],
+    [
+      "Boosts.Attuned Devastation D.Acc/Dam/Rech",
+      "boosts.attuned_devastation_d.attuned_devastation_d"
+    ],
+    [
+      "Boosts.Attuned Devastation E.Acc/Dam/End/Rech",
+      "boosts.attuned_devastation_e.attuned_devastation_e"
+    ],
+    [
+      "Boosts.Attuned Dominating Grasp A.Acc/Control (Dominator)",
+      "boosts.attuned_dominating_grasp_a.attuned_dominating_grasp_a"
+    ],
+    [
+      "Boosts.Attuned Dominating Grasp D.Acc/Control/End (Dominator)",
+      "boosts.attuned_dominating_grasp_d.attuned_dominating_grasp_d"
+    ],
+    [
+      "Boosts.Attuned Dominating Grasp E.Acc/Control/End/Rech (Dominator)",
+      "boosts.attuned_dominating_grasp_e.attuned_dominating_grasp_e"
+    ],
+    [
+      "Boosts.Attuned Dominion of Arachnos A.Acc/Dam",
+      "boosts.attuned_dominion_of_arachnos_a.attuned_dominion_of_arachnos_a"
+    ],
+    [
+      "Boosts.Attuned Dominion of Arachnos C.Acc/Dam/Rech",
+      "boosts.attuned_dominion_of_arachnos_c.attuned_dominion_of_arachnos_c"
+    ],
+    [
+      "Boosts.Attuned Dominion of Arachnos E.Acc/Dam/End/Rech",
+      "boosts.attuned_dominion_of_arachnos_e.attuned_dominion_of_arachnos_e"
+    ],
+    [
+      "Boosts.Attuned Edict of the Master A.Acc/Dam",
+      "boosts.attuned_edict_of_the_master_a.attuned_edict_of_the_master_a"
+    ],
+    [
+      "Boosts.Attuned Edict of the Master C.Acc/End",
+      "boosts.attuned_edict_of_the_master_c.attuned_edict_of_the_master_c"
+    ],
+    [
+      "Boosts.Attuned Edict of the Master D.Acc/Dam/End",
+      "boosts.attuned_edict_of_the_master_d.attuned_edict_of_the_master_d"
+    ],
+    [
+      "Boosts.Attuned Efficacy Adaptor C.Endurance Modification/Rech/Acc",
+      "boosts.attuned_efficacy_adaptor_c.attuned_efficacy_adaptor_c"
+    ],
+    [
+      "Boosts.Attuned Efficacy Adaptor D.Rech/Acc",
+      "boosts.attuned_efficacy_adaptor_d.attuned_efficacy_adaptor_d"
+    ],
+    [
+      "Boosts.Attuned Efficacy Adaptor E.Endurance Modification/Acc",
+      "boosts.attuned_efficacy_adaptor_e.attuned_efficacy_adaptor_e"
+    ],
+    [
+      "Boosts.Attuned Enfeebled Operation A.Acc/Rech",
+      "boosts.attuned_enfeebled_operation_a.attuned_enfeebled_operation_a"
+    ],
+    [
+      "Boosts.Attuned Enfeebled Operation C.Acc/End",
+      "boosts.attuned_enfeebled_operation_c.attuned_enfeebled_operation_c"
+    ],
+    [
+      "Boosts.Attuned Enfeebled Operation E.Acc/Immob/Rech",
+      "boosts.attuned_enfeebled_operation_e.attuned_enfeebled_operation_e"
+    ],
+    [
+      "Boosts.Attuned Enfeebled Operation F.Acc/Immobilize",
+      "boosts.attuned_enfeebled_operation_f.attuned_enfeebled_operation_f"
+    ],
+    [
+      "Boosts.Attuned Entomb A.Acc/Hold",
+      "boosts.attuned_entomb_a.attuned_entomb_a"
+    ],
+    [
+      "Boosts.Attuned Entomb D.Acc/Hold/End",
+      "boosts.attuned_entomb_d.attuned_entomb_d"
+    ],
+    [
+      "Boosts.Attuned Entomb E.Acc/Hold/End/Rech",
+      "boosts.attuned_entomb_e.attuned_entomb_e"
+    ],
+    [
+      "Boosts.Attuned Entropic Chaos A.Acc/Dam",
+      "boosts.attuned_entropic_chaos_a.attuned_entropic_chaos_a"
+    ],
+    [
+      "Boosts.Attuned Eradication B.Acc/Rech",
+      "boosts.attuned_eradication_b.attuned_eradication_b"
+    ],
+    [
+      "Boosts.Attuned Eradication D.Acc/Dam/Rech",
+      "boosts.attuned_eradication_d.attuned_eradication_d"
+    ],
+    [
+      "Boosts.Attuned Eradication E.Acc/Dam/End/Rech",
+      "boosts.attuned_eradication_e.attuned_eradication_e"
+    ],
+    [
+      "Boosts.Attuned Essence Transfer A.Acc/Dam (Kheldian)",
+      "boosts.attuned_essence_transfer_a.attuned_essence_transfer_a"
+    ],
+    [
+      "Boosts.Attuned Essence Transfer C.Acc/Dam/Rech (Kheldian)",
+      "boosts.attuned_essence_transfer_c.attuned_essence_transfer_c"
+    ],
+    [
+      "Boosts.Attuned Essence Transfer E.Acc/Dam/End/Rech (Kheldian)",
+      "boosts.attuned_essence_transfer_e.attuned_essence_transfer_e"
+    ],
+    [
+      "Boosts.Attuned Essence of Curare A.Acc/Rech",
+      "boosts.attuned_essence_of_curare_a.attuned_essence_of_curare_a"
+    ],
+    [
+      "Boosts.Attuned Essence of Curare C.Acc/End",
+      "boosts.attuned_essence_of_curare_c.attuned_essence_of_curare_c"
+    ],
+    [
+      "Boosts.Attuned Essence of Curare E.Acc/Hold",
+      "boosts.attuned_essence_of_curare_e.attuned_essence_of_curare_e"
+    ],
+    [
+      "Boosts.Attuned Essence of Curare F.Acc/Hold/Rech",
+      "boosts.attuned_essence_of_curare_f.attuned_essence_of_curare_f"
+    ],
+    [
+      "Boosts.Attuned Executioners Contract A.Acc/Dam",
+      "boosts.attuned_executioners_contract_a.attuned_executioners_contract_a"
+    ],
+    [
+      "Boosts.Attuned Expedient Reinforcement A.Acc/Rech",
+      "boosts.attuned_expedient_reinforcement_a.attuned_expedient_reinforcement_a"
+    ],
+    [
+      "Boosts.Attuned Expedient Reinforcement B.Acc/Dam",
+      "boosts.attuned_expedient_reinforcement_b.attuned_expedient_reinforcement_b"
+    ],
+    [
+      "Boosts.Attuned Expedient Reinforcement D.Acc/Dam/Rech",
+      "boosts.attuned_expedient_reinforcement_d.attuned_expedient_reinforcement_d"
+    ],
+    [
+      "Boosts.Attuned Experienced Marksman A.Acc/Dam",
+      "boosts.attuned_experienced_marksman_a.attuned_experienced_marksman_a"
+    ],
+    [
+      "Boosts.Attuned Experienced Marksman D.Acc/End/Rech",
+      "boosts.attuned_experienced_marksman_d.attuned_experienced_marksman_d"
+    ],
+    [
+      "Boosts.Attuned Exploit Weakness A.Acc/Dam",
+      "boosts.attuned_exploit_weakness_a.attuned_exploit_weakness_a"
+    ],
+    [
+      "Boosts.Attuned Explosive Strike B.Knockback/Acc",
+      "boosts.attuned_explosive_strike_b.attuned_explosive_strike_b"
+    ],
+    [
+      "Boosts.Attuned Extreme Measures A.Acc/Dam",
+      "boosts.attuned_extreme_measures_a.attuned_extreme_measures_a"
+    ],
+    [
+      "Boosts.Attuned Extreme Measures C.Acc/Interrupt/Range",
+      "boosts.attuned_extreme_measures_c.attuned_extreme_measures_c"
+    ],
+    [
+      "Boosts.Attuned Extreme Measures F.Acc/Range/Rech",
+      "boosts.attuned_extreme_measures_f.attuned_extreme_measures_f"
+    ],
+    [
+      "Boosts.Attuned Far Strike C.Acc/End",
+      "boosts.attuned_far_strike_c.attuned_far_strike_c"
+    ],
+    [
+      "Boosts.Attuned Focused Smite A.Acc/Dam",
+      "boosts.attuned_focused_smite_a.attuned_focused_smite_a"
+    ],
+    [
+      "Boosts.Attuned Focused Smite D.Acc/End/Rech",
+      "boosts.attuned_focused_smite_d.attuned_focused_smite_d"
+    ],
+    [
+      "Boosts.Attuned Focused Smite E.Acc/Dam/Rech",
+      "boosts.attuned_focused_smite_e.attuned_focused_smite_e"
+    ],
+    [
+      "Boosts.Attuned Force Feedback B.Knockback/Acc",
+      "boosts.attuned_force_feedback_b.attuned_force_feedback_b"
+    ],
+    [
+      "Boosts.Attuned Frozen Blast A.Acc/Dam",
+      "boosts.attuned_frozen_blast_a.attuned_frozen_blast_a"
+    ],
+    [
+      "Boosts.Attuned Frozen Blast C.Acc/Dam/Rech",
+      "boosts.attuned_frozen_blast_c.attuned_frozen_blast_c"
+    ],
+    [
+      "Boosts.Attuned Frozen Blast D.Acc/Dam/End",
+      "boosts.attuned_frozen_blast_d.attuned_frozen_blast_d"
+    ],
+    [
+      "Boosts.Attuned Frozen Blast E.Acc/Dam/End/Rech",
+      "boosts.attuned_frozen_blast_e.attuned_frozen_blast_e"
+    ],
+    [
+      "Boosts.Attuned Fury of the Gladiator A.Dam/Acc",
+      "boosts.attuned_fury_of_the_gladiator_a.attuned_fury_of_the_gladiator_a"
+    ],
+    [
+      "Boosts.Attuned Fury of the Gladiator D.Acc/End/Rech",
+      "boosts.attuned_fury_of_the_gladiator_d.attuned_fury_of_the_gladiator_d"
+    ],
+    [
+      "Boosts.Attuned Fury of the Gladiator E.Acc/Dam/End/Rech",
+      "boosts.attuned_fury_of_the_gladiator_e.attuned_fury_of_the_gladiator_e"
+    ],
+    [
+      "Boosts.Attuned Gauntleted Fist A.Acc/Dam (Tanker)",
+      "boosts.attuned_gauntleted_fist_a.attuned_gauntleted_fist_a"
+    ],
+    [
+      "Boosts.Attuned Gauntleted Fist C.Acc/Dam/Rech (Tanker)",
+      "boosts.attuned_gauntleted_fist_c.attuned_gauntleted_fist_c"
+    ],
+    [
+      "Boosts.Attuned Gauntleted Fist E.Acc/Dam/End/Rech (Tanker)",
+      "boosts.attuned_gauntleted_fist_e.attuned_gauntleted_fist_e"
+    ],
+    [
+      "Boosts.Attuned Ghost Widows Embrace A.Acc/Rech",
+      "boosts.attuned_ghost_widows_embrace_a.attuned_ghost_widows_embrace_a"
+    ],
+    [
+      "Boosts.Attuned Ghost Widows Embrace C.Acc/End",
+      "boosts.attuned_ghost_widows_embrace_c.attuned_ghost_widows_embrace_c"
+    ],
+    [
+      "Boosts.Attuned Ghost Widows Embrace E.Acc/Hold/Rech",
+      "boosts.attuned_ghost_widows_embrace_e.attuned_ghost_widows_embrace_e"
+    ],
+    [
+      "Boosts.Attuned Gladiators Javelin A.Dam/Acc",
+      "boosts.attuned_gladiators_javelin_a.attuned_gladiators_javelin_a"
+    ],
+    [
+      "Boosts.Attuned Gladiators Javelin D.Acc/End/Rech",
+      "boosts.attuned_gladiators_javelin_d.attuned_gladiators_javelin_d"
+    ],
+    [
+      "Boosts.Attuned Gladiators Javelin E.Acc/Dam/End/Rech",
+      "boosts.attuned_gladiators_javelin_e.attuned_gladiators_javelin_e"
+    ],
+    [
+      "Boosts.Attuned Gladiators Net A.Acc/Hold",
+      "boosts.attuned_gladiators_net_a.attuned_gladiators_net_a"
+    ],
+    [
+      "Boosts.Attuned Gladiators Net B.Acc/Rech",
+      "boosts.attuned_gladiators_net_b.attuned_gladiators_net_b"
+    ],
+    [
+      "Boosts.Attuned Gladiators Net E.Acc/End/Rech/Hold",
+      "boosts.attuned_gladiators_net_e.attuned_gladiators_net_e"
+    ],
+    [
+      "Boosts.Attuned Gladiators Strike A.Dam/Acc",
+      "boosts.attuned_gladiators_strike_a.attuned_gladiators_strike_a"
+    ],
+    [
+      "Boosts.Attuned Gladiators Strike D.Acc/End/Rech",
+      "boosts.attuned_gladiators_strike_d.attuned_gladiators_strike_d"
+    ],
+    [
+      "Boosts.Attuned Gladiators Strike E.Acc/Dam/End/Rech",
+      "boosts.attuned_gladiators_strike_e.attuned_gladiators_strike_e"
+    ],
+    [
+      "Boosts.Attuned Glimpse of the Abyss A.Acc/Rech",
+      "boosts.attuned_glimpse_of_the_abyss_a.attuned_glimpse_of_the_abyss_a"
+    ],
+    [
+      "Boosts.Attuned Glimpse of the Abyss C.Acc/End",
+      "boosts.attuned_glimpse_of_the_abyss_c.attuned_glimpse_of_the_abyss_c"
+    ],
+    [
+      "Boosts.Attuned Glimpse of the Abyss E.Acc/Fear/Rech",
+      "boosts.attuned_glimpse_of_the_abyss_e.attuned_glimpse_of_the_abyss_e"
+    ],
+    [
+      "Boosts.Attuned Hibernation A.Acc/Rech",
+      "boosts.attuned_hibernation_a.attuned_hibernation_a"
+    ],
+    [
+      "Boosts.Attuned Hibernation C.Acc/End",
+      "boosts.attuned_hibernation_c.attuned_hibernation_c"
+    ],
+    [
+      "Boosts.Attuned Hibernation E.Acc/Sleep/Rech",
+      "boosts.attuned_hibernation_e.attuned_hibernation_e"
+    ],
+    [
+      "Boosts.Attuned Horror A.Acc/Rech",
+      "boosts.attuned_horror_a.attuned_horror_a"
+    ],
+    [
+      "Boosts.Attuned Horror C.Acc/End",
+      "boosts.attuned_horror_c.attuned_horror_c"
+    ],
+    [
+      "Boosts.Attuned Horror E.Acc/Fear/Rech",
+      "boosts.attuned_horror_e.attuned_horror_e"
+    ],
+    [
+      "Boosts.Attuned Ice Mistrals Torment D.Acc/Dam/End",
+      "boosts.attuned_ice_mistrals_torment_d.attuned_ice_mistrals_torment_d"
+    ],
+    [
+      "Boosts.Attuned Ice Mistrals Torment E.Acc/Dam/End/Rech",
+      "boosts.attuned_ice_mistrals_torment_e.attuned_ice_mistrals_torment_e"
+    ],
+    [
+      "Boosts.Attuned Impeded Swiftness A.Acc/Slow",
+      "boosts.attuned_impeded_swiftness_a.attuned_impeded_swiftness_a"
+    ],
+    [
+      "Boosts.Attuned Impeded Swiftness C.Acc/End",
+      "boosts.attuned_impeded_swiftness_c.attuned_impeded_swiftness_c"
+    ],
+    [
+      "Boosts.Attuned Induced Coma A.Acc/Rech",
+      "boosts.attuned_induced_coma_a.attuned_induced_coma_a"
+    ],
+    [
+      "Boosts.Attuned Induced Coma C.Acc/End",
+      "boosts.attuned_induced_coma_c.attuned_induced_coma_c"
+    ],
+    [
+      "Boosts.Attuned Induced Coma E.Acc/Sleep/Rech",
+      "boosts.attuned_induced_coma_e.attuned_induced_coma_e"
+    ],
+    [
+      "Boosts.Attuned Javelin Volley A.Dam/Acc",
+      "boosts.attuned_javelin_volley_a.attuned_javelin_volley_a"
+    ],
+    [
+      "Boosts.Attuned Javelin Volley D.Acc/End/Rech",
+      "boosts.attuned_javelin_volley_d.attuned_javelin_volley_d"
+    ],
+    [
+      "Boosts.Attuned Javelin Volley E.Acc/Dam/End/Rech",
+      "boosts.attuned_javelin_volley_e.attuned_javelin_volley_e"
+    ],
+    [
+      "Boosts.Attuned Kheldians Grace A.Acc/Dam",
+      "boosts.attuned_kheldians_grace_a.attuned_kheldians_grace_a"
+    ],
+    [
+      "Boosts.Attuned Kheldians Grace C.Acc/Dam/Rech",
+      "boosts.attuned_kheldians_grace_c.attuned_kheldians_grace_c"
+    ],
+    [
+      "Boosts.Attuned Kheldians Grace E.Acc/Dam/End/Rech",
+      "boosts.attuned_kheldians_grace_e.attuned_kheldians_grace_e"
+    ],
+    [
+      "Boosts.Attuned Kinetic Combat A.Acc/Dam",
+      "boosts.attuned_kinetic_combat_a.attuned_kinetic_combat_a"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash B.Knockback/Acc",
+      "boosts.attuned_kinetic_crash_b.attuned_kinetic_crash_b"
+    ],
+    [
+      "Boosts.Attuned Kinetic Crash F.Knockback/Dam/Acc",
+      "boosts.attuned_kinetic_crash_f.attuned_kinetic_crash_f"
+    ],
+    [
+      "Boosts.Attuned Lethargic Repose A.Acc/Rech",
+      "boosts.attuned_lethargic_repose_a.attuned_lethargic_repose_a"
+    ],
+    [
+      "Boosts.Attuned Lethargic Repose C.Acc/End",
+      "boosts.attuned_lethargic_repose_c.attuned_lethargic_repose_c"
+    ],
+    [
+      "Boosts.Attuned Lethargic Repose E.Acc/Sleep/Rech",
+      "boosts.attuned_lethargic_repose_e.attuned_lethargic_repose_e"
+    ],
+    [
+      "Boosts.Attuned Lethargic Repose F.Acc/Sleep",
+      "boosts.attuned_lethargic_repose_f.attuned_lethargic_repose_f"
+    ],
+    [
+      "Boosts.Attuned Lockdown A.Acc/Hold",
+      "boosts.attuned_lockdown_a.attuned_lockdown_a"
+    ],
+    [
+      "Boosts.Attuned Lockdown B.Acc/Rech",
+      "boosts.attuned_lockdown_b.attuned_lockdown_b"
+    ],
+    [
+      "Boosts.Attuned Lockdown E.Acc/End/Rech/Hold",
+      "boosts.attuned_lockdown_e.attuned_lockdown_e"
+    ],
+    [
+      "Boosts.Attuned Maelstroms Fury A.Acc/Dam",
+      "boosts.attuned_maelstroms_fury_a.attuned_maelstroms_fury_a"
+    ],
+    [
+      "Boosts.Attuned Makos Bite A.Acc/Dam",
+      "boosts.attuned_makos_bite_a.attuned_makos_bite_a"
+    ],
+    [
+      "Boosts.Attuned Makos Bite D.Acc/End/Rech",
+      "boosts.attuned_makos_bite_d.attuned_makos_bite_d"
+    ],
+    [
+      "Boosts.Attuned Makos Bite E.Acc/Dam/End/Rech",
+      "boosts.attuned_makos_bite_e.attuned_makos_bite_e"
+    ],
+    [
+      "Boosts.Attuned Malaises Illusions A.Acc/Rech",
+      "boosts.attuned_malaises_illusions_a.attuned_malaises_illusions_a"
+    ],
+    [
+      "Boosts.Attuned Malaises Illusions C.Acc/End",
+      "boosts.attuned_malaises_illusions_c.attuned_malaises_illusions_c"
+    ],
+    [
+      "Boosts.Attuned Malaises Illusions E.Acc/Confuse/Rech",
+      "boosts.attuned_malaises_illusions_e.attuned_malaises_illusions_e"
+    ],
+    [
+      "Boosts.Attuned Malice of the Corruptor A.Acc/Dam",
+      "boosts.attuned_malice_of_the_corruptor_a.attuned_malice_of_the_corruptor_a"
+    ],
+    [
+      "Boosts.Attuned Malice of the Corruptor C.Acc/Dam/Rech",
+      "boosts.attuned_malice_of_the_corruptor_c.attuned_malice_of_the_corruptor_c"
+    ],
+    [
+      "Boosts.Attuned Malice of the Corruptor E.Acc/Dam/End/Rech",
+      "boosts.attuned_malice_of_the_corruptor_e.attuned_malice_of_the_corruptor_e"
+    ],
+    [
+      "Boosts.Attuned Mark of Supremacy C.Acc/Dam (Mastermind)",
+      "boosts.attuned_mark_of_supremacy_c.attuned_mark_of_supremacy_c"
+    ],
+    [
+      "Boosts.Attuned Mark of Supremacy D.Acc/End (Mastermind)",
+      "boosts.attuned_mark_of_supremacy_d.attuned_mark_of_supremacy_d"
+    ],
+    [
+      "Boosts.Attuned Mark of Supremacy E.Acc/Dam/End (Mastermind)",
+      "boosts.attuned_mark_of_supremacy_e.attuned_mark_of_supremacy_e"
+    ],
+    [
+      "Boosts.Attuned Might of the Tanker A.Acc/Dam",
+      "boosts.attuned_might_of_the_tanker_a.attuned_might_of_the_tanker_a"
+    ],
+    [
+      "Boosts.Attuned Might of the Tanker C.Acc/Dam/Rech",
+      "boosts.attuned_might_of_the_tanker_c.attuned_might_of_the_tanker_c"
+    ],
+    [
+      "Boosts.Attuned Might of the Tanker E.Acc/Dam/End/Rech",
+      "boosts.attuned_might_of_the_tanker_e.attuned_might_of_the_tanker_e"
+    ],
+    [
+      "Boosts.Attuned Mocking Beratement D.Rech/Acc",
+      "boosts.attuned_mocking_beratement_d.attuned_mocking_beratement_d"
+    ],
+    [
+      "Boosts.Attuned Multi Strike A.Acc/Dam",
+      "boosts.attuned_multi_strike_a.attuned_multi_strike_a"
+    ],
+    [
+      "Boosts.Attuned Multi Strike D.Acc/End",
+      "boosts.attuned_multi_strike_d.attuned_multi_strike_d"
+    ],
+    [
+      "Boosts.Attuned Multi Strike E.Acc/Dam/End",
+      "boosts.attuned_multi_strike_e.attuned_multi_strike_e"
+    ],
+    [
+      "Boosts.Attuned Neuronic Shutdown A.Acc/Rech",
+      "boosts.attuned_neuronic_shutdown_a.attuned_neuronic_shutdown_a"
+    ],
+    [
+      "Boosts.Attuned Neuronic Shutdown C.Acc/End",
+      "boosts.attuned_neuronic_shutdown_c.attuned_neuronic_shutdown_c"
+    ],
+    [
+      "Boosts.Attuned Neuronic Shutdown E.Acc/Hold/Rech",
+      "boosts.attuned_neuronic_shutdown_e.attuned_neuronic_shutdown_e"
+    ],
+    [
+      "Boosts.Attuned Nightmare A.Acc/Rech",
+      "boosts.attuned_nightmare_a.attuned_nightmare_a"
+    ],
+    [
+      "Boosts.Attuned Nightmare C.Acc/End",
+      "boosts.attuned_nightmare_c.attuned_nightmare_c"
+    ],
+    [
+      "Boosts.Attuned Nightmare E.Acc/Fear/Rech",
+      "boosts.attuned_nightmare_e.attuned_nightmare_e"
+    ],
+    [
+      "Boosts.Attuned Nightmare F.Acc/Fear",
+      "boosts.attuned_nightmare_f.attuned_nightmare_f"
+    ],
+    [
+      "Boosts.Attuned Obliteration B.Acc/Rech",
+      "boosts.attuned_obliteration_b.attuned_obliteration_b"
+    ],
+    [
+      "Boosts.Attuned Obliteration D.Acc/Dam/Rech",
+      "boosts.attuned_obliteration_d.attuned_obliteration_d"
+    ],
+    [
+      "Boosts.Attuned Obliteration E.Acc/Dam/End/Rech",
+      "boosts.attuned_obliteration_e.attuned_obliteration_e"
+    ],
+    [
+      "Boosts.Attuned Opportunity Strikes A.Acc/Dam (Sentinel)",
+      "boosts.attuned_opportunity_strikes_a.attuned_opportunity_strikes_a"
+    ],
+    [
+      "Boosts.Attuned Opportunity Strikes C.Acc/Dam/Rech (Sentinel)",
+      "boosts.attuned_opportunity_strikes_c.attuned_opportunity_strikes_c"
+    ],
+    [
+      "Boosts.Attuned Opportunity Strikes D.Acc/Dam/End (Sentinel)",
+      "boosts.attuned_opportunity_strikes_d.attuned_opportunity_strikes_d"
+    ],
+    [
+      "Boosts.Attuned Opportunity Strikes E.Acc/Dam/End/Rech (Sentinel)",
+      "boosts.attuned_opportunity_strikes_e.attuned_opportunity_strikes_e"
+    ],
+    [
+      "Boosts.Attuned Overpowering Presence A.Acc/Control (Controller)",
+      "boosts.attuned_overpowering_presence_a.attuned_overpowering_presence_a"
+    ],
+    [
+      "Boosts.Attuned Overpowering Presence D.Acc/Control/End (Controller)",
+      "boosts.attuned_overpowering_presence_d.attuned_overpowering_presence_d"
+    ],
+    [
+      "Boosts.Attuned Overpowering Presence E.Acc/Control/End/Rech (Controller)",
+      "boosts.attuned_overpowering_presence_e.attuned_overpowering_presence_e"
+    ],
+    [
+      "Boosts.Attuned Overwhelming Force A.Acc/Dam",
+      "boosts.attuned_overwhelming_force_a.attuned_overwhelming_force_a"
+    ],
+    [
+      "Boosts.Attuned Overwhelming Force C.Acc/Dam/End",
+      "boosts.attuned_overwhelming_force_c.attuned_overwhelming_force_c"
+    ],
+    [
+      "Boosts.Attuned Overwhelming Force E.Acc/Dam/End/Rech",
+      "boosts.attuned_overwhelming_force_e.attuned_overwhelming_force_e"
+    ],
+    [
+      "Boosts.Attuned Pacing of the Turtle A.Acc/Slow",
+      "boosts.attuned_pacing_of_the_turtle_a.attuned_pacing_of_the_turtle_a"
+    ],
+    [
+      "Boosts.Attuned Pacing of the Turtle C.Acc/End",
+      "boosts.attuned_pacing_of_the_turtle_c.attuned_pacing_of_the_turtle_c"
+    ],
+    [
+      "Boosts.Attuned Paralytic A.Acc/Rech",
+      "boosts.attuned_paralytic_a.attuned_paralytic_a"
+    ],
+    [
+      "Boosts.Attuned Paralytic C.Acc/End",
+      "boosts.attuned_paralytic_c.attuned_paralytic_c"
+    ],
+    [
+      "Boosts.Attuned Paralytic E.Acc/Hold/Rech",
+      "boosts.attuned_paralytic_e.attuned_paralytic_e"
+    ],
+    [
+      "Boosts.Attuned Perfect Zinger D.Rech/Acc",
+      "boosts.attuned_perfect_zinger_d.attuned_perfect_zinger_d"
+    ],
+    [
+      "Boosts.Attuned Performance Shifter C.Endurance Modification/Rech/Acc",
+      "boosts.attuned_performance_shifter_c.attuned_performance_shifter_c"
+    ],
+    [
+      "Boosts.Attuned Performance Shifter D.Rech/Acc",
+      "boosts.attuned_performance_shifter_d.attuned_performance_shifter_d"
+    ],
+    [
+      "Boosts.Attuned Performance Shifter E.Endurance Modification/Acc",
+      "boosts.attuned_performance_shifter_e.attuned_performance_shifter_e"
+    ],
+    [
+      "Boosts.Attuned Perplex A.Acc/Rech",
+      "boosts.attuned_perplex_a.attuned_perplex_a"
+    ],
+    [
+      "Boosts.Attuned Perplex C.Acc/End",
+      "boosts.attuned_perplex_c.attuned_perplex_c"
+    ],
+    [
+      "Boosts.Attuned Perplex E.Acc/Confuse/Rech",
+      "boosts.attuned_perplex_e.attuned_perplex_e"
+    ],
+    [
+      "Boosts.Attuned Positrons Blast A.Acc/Dam",
+      "boosts.attuned_positrons_blast_a.attuned_positrons_blast_a"
+    ],
+    [
+      "Boosts.Attuned Positrons Blast E.Acc/Dam/End",
+      "boosts.attuned_positrons_blast_e.attuned_positrons_blast_e"
+    ],
+    [
+      "Boosts.Attuned Pounding Slugfest A.Acc/Dam",
+      "boosts.attuned_pounding_slugfest_a.attuned_pounding_slugfest_a"
+    ],
+    [
+      "Boosts.Attuned Power Transfer D.Acc/Dam/End",
+      "boosts.attuned_power_transfer_d.attuned_power_transfer_d"
+    ],
+    [
+      "Boosts.Attuned Power Transfer E.Acc/Dam/Rech/End",
+      "boosts.attuned_power_transfer_e.attuned_power_transfer_e"
+    ],
+    [
+      "Boosts.Attuned Preemptive Optimization A.Acc/Rech",
+      "boosts.attuned_preemptive_optimization_a.attuned_preemptive_optimization_a"
+    ],
+    [
+      "Boosts.Attuned Preemptive Optimization D.Endurance Modification/Acc/End",
+      "boosts.attuned_preemptive_optimization_d.attuned_preemptive_optimization_d"
+    ],
+    [
+      "Boosts.Attuned Preemptive Optimization E.Endurance Modification/Acc/Rech",
+      "boosts.attuned_preemptive_optimization_e.attuned_preemptive_optimization_e"
+    ],
+    [
+      "Boosts.Attuned Pulverizing Fisticuffs A.Acc/Dam",
+      "boosts.attuned_pulverizing_fisticuffs_a.attuned_pulverizing_fisticuffs_a"
+    ],
+    [
+      "Boosts.Attuned Pulverizing Fisticuffs B.Acc/Dam/Rech",
+      "boosts.attuned_pulverizing_fisticuffs_b.attuned_pulverizing_fisticuffs_b"
+    ],
+    [
+      "Boosts.Attuned Pulverizing Fisticuffs C.Acc/Dam/End/Rech",
+      "boosts.attuned_pulverizing_fisticuffs_c.attuned_pulverizing_fisticuffs_c"
+    ],
+    [
+      "Boosts.Attuned Razzle Dazzle A.Acc/Rech",
+      "boosts.attuned_razzle_dazzle_a.attuned_razzle_dazzle_a"
+    ],
+    [
+      "Boosts.Attuned Razzle Dazzle C.Acc/End",
+      "boosts.attuned_razzle_dazzle_c.attuned_razzle_dazzle_c"
+    ],
+    [
+      "Boosts.Attuned Razzle Dazzle E.Acc/Stun/Rech",
+      "boosts.attuned_razzle_dazzle_e.attuned_razzle_dazzle_e"
+    ],
+    [
+      "Boosts.Attuned Rooting Grasp A.Acc/Rech",
+      "boosts.attuned_rooting_grasp_a.attuned_rooting_grasp_a"
+    ],
+    [
+      "Boosts.Attuned Rooting Grasp C.Acc/End",
+      "boosts.attuned_rooting_grasp_c.attuned_rooting_grasp_c"
+    ],
+    [
+      "Boosts.Attuned Rooting Grasp E.Acc/Immob/Rech",
+      "boosts.attuned_rooting_grasp_e.attuned_rooting_grasp_e"
+    ],
+    [
+      "Boosts.Attuned Rope A Dope A.Acc/Rech",
+      "boosts.attuned_rope_a_dope_a.attuned_rope_a_dope_a"
+    ],
+    [
+      "Boosts.Attuned Rope A Dope C.Acc/End",
+      "boosts.attuned_rope_a_dope_c.attuned_rope_a_dope_c"
+    ],
+    [
+      "Boosts.Attuned Rope A Dope E.Acc/Stun/Rech",
+      "boosts.attuned_rope_a_dope_e.attuned_rope_a_dope_e"
+    ],
+    [
+      "Boosts.Attuned Rope A Dope F.Acc/Stun",
+      "boosts.attuned_rope_a_dope_f.attuned_rope_a_dope_f"
+    ],
+    [
+      "Boosts.Attuned Ruin A.Acc/Dam",
+      "boosts.attuned_ruin_a.attuned_ruin_a"
+    ],
+    [
+      "Boosts.Attuned Ruin D.Acc/End/Rech",
+      "boosts.attuned_ruin_d.attuned_ruin_d"
+    ],
+    [
+      "Boosts.Attuned Ruin E.Acc/Dam/Rech",
+      "boosts.attuned_ruin_e.attuned_ruin_e"
+    ],
+    [
+      "Boosts.Attuned Salvo A.Acc/Dam",
+      "boosts.attuned_salvo_a.attuned_salvo_a"
+    ],
+    [
+      "Boosts.Attuned Salvo C.Acc/Dam/End/Range",
+      "boosts.attuned_salvo_c.attuned_salvo_c"
+    ],
+    [
+      "Boosts.Attuned Sciroccos Dervish A.Acc/Dam",
+      "boosts.attuned_sciroccos_dervish_a.attuned_sciroccos_dervish_a"
+    ],
+    [
+      "Boosts.Attuned Sciroccos Dervish D.Acc/Rech",
+      "boosts.attuned_sciroccos_dervish_d.attuned_sciroccos_dervish_d"
+    ],
+    [
+      "Boosts.Attuned Sciroccos Dervish E.Acc/Dam/End",
+      "boosts.attuned_sciroccos_dervish_e.attuned_sciroccos_dervish_e"
+    ],
+    [
+      "Boosts.Attuned Scourging Blast A.Acc/Dam (Corruptor)",
+      "boosts.attuned_scourging_blast_a.attuned_scourging_blast_a"
+    ],
+    [
+      "Boosts.Attuned Scourging Blast C.Acc/Dam/Rech (Corruptor)",
+      "boosts.attuned_scourging_blast_c.attuned_scourging_blast_c"
+    ],
+    [
+      "Boosts.Attuned Scourging Blast E.Acc/Dam/End/Rech (Corruptor)",
+      "boosts.attuned_scourging_blast_e.attuned_scourging_blast_e"
+    ],
+    [
+      "Boosts.Attuned Scrappers Strike A.Acc/Dam",
+      "boosts.attuned_scrappers_strike_a.attuned_scrappers_strike_a"
+    ],
+    [
+      "Boosts.Attuned Scrappers Strike C.Acc/Dam/Rech",
+      "boosts.attuned_scrappers_strike_c.attuned_scrappers_strike_c"
+    ],
+    [
+      "Boosts.Attuned Scrappers Strike E.Acc/Dam/End/Rech",
+      "boosts.attuned_scrappers_strike_e.attuned_scrappers_strike_e"
+    ],
+    [
+      "Boosts.Attuned Sentinels Ward A.Acc/Dam",
+      "boosts.attuned_sentinels_ward_a.attuned_sentinels_ward_a"
+    ],
+    [
+      "Boosts.Attuned Sentinels Ward C.Acc/Dam/Rech",
+      "boosts.attuned_sentinels_ward_c.attuned_sentinels_ward_c"
+    ],
+    [
+      "Boosts.Attuned Sentinels Ward D.Acc/Dam/End",
+      "boosts.attuned_sentinels_ward_d.attuned_sentinels_ward_d"
+    ],
+    [
+      "Boosts.Attuned Sentinels Ward E.Acc/Dam/End/Rech",
+      "boosts.attuned_sentinels_ward_e.attuned_sentinels_ward_e"
+    ],
+    [
+      "Boosts.Attuned Shield Breaker B.Acc/Def Debuff",
+      "boosts.attuned_shield_breaker_b.attuned_shield_breaker_b"
+    ],
+    [
+      "Boosts.Attuned Shield Breaker C.Acc/Rech",
+      "boosts.attuned_shield_breaker_c.attuned_shield_breaker_c"
+    ],
+    [
+      "Boosts.Attuned Shield Breaker E.Acc/End/Rech",
+      "boosts.attuned_shield_breaker_e.attuned_shield_breaker_e"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight B.Acc/To Hit Debuff",
+      "boosts.attuned_siphon_insight_b.attuned_siphon_insight_b"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight C.Acc/Rech",
+      "boosts.attuned_siphon_insight_c.attuned_siphon_insight_c"
+    ],
+    [
+      "Boosts.Attuned Siphon Insight E.Acc/End/Rech",
+      "boosts.attuned_siphon_insight_e.attuned_siphon_insight_e"
+    ],
+    [
+      "Boosts.Attuned Smashing Haymaker A.Acc/Dam",
+      "boosts.attuned_smashing_haymaker_a.attuned_smashing_haymaker_a"
+    ],
+    [
+      "Boosts.Attuned Sovereign Right A.Acc/Dam",
+      "boosts.attuned_sovereign_right_a.attuned_sovereign_right_a"
+    ],
+    [
+      "Boosts.Attuned Sovereign Right C.Acc/End",
+      "boosts.attuned_sovereign_right_c.attuned_sovereign_right_c"
+    ],
+    [
+      "Boosts.Attuned Sovereign Right D.Acc/Dam/End",
+      "boosts.attuned_sovereign_right_d.attuned_sovereign_right_d"
+    ],
+    [
+      "Boosts.Attuned Sovereign Right E.Accuracy",
+      "boosts.attuned_sovereign_right_e.attuned_sovereign_right_e"
+    ],
+    [
+      "Boosts.Attuned Spiders Bite A.Acc/Dam (Soldier of Arachnos)",
+      "boosts.attuned_spiders_bite_a.attuned_spiders_bite_a"
+    ],
+    [
+      "Boosts.Attuned Spiders Bite C.Acc/Dam/Rech (Soldier of Arachnos)",
+      "boosts.attuned_spiders_bite_c.attuned_spiders_bite_c"
+    ],
+    [
+      "Boosts.Attuned Spiders Bite E.Acc/Dam/End/Rech (Soldier of Arachnos)",
+      "boosts.attuned_spiders_bite_e.attuned_spiders_bite_e"
+    ],
+    [
+      "Boosts.Attuned Stagger A.Acc/Rech",
+      "boosts.attuned_stagger_a.attuned_stagger_a"
+    ],
+    [
+      "Boosts.Attuned Stagger C.Acc/End",
+      "boosts.attuned_stagger_c.attuned_stagger_c"
+    ],
+    [
+      "Boosts.Attuned Stagger E.Acc/Stun/Rech",
+      "boosts.attuned_stagger_e.attuned_stagger_e"
+    ],
+    [
+      "Boosts.Attuned Stalkers Guile A.Acc/Dam",
+      "boosts.attuned_stalkers_guile_a.attuned_stalkers_guile_a"
+    ],
+    [
+      "Boosts.Attuned Stalkers Guile C.Acc/Dam/Rech",
+      "boosts.attuned_stalkers_guile_c.attuned_stalkers_guile_c"
+    ],
+    [
+      "Boosts.Attuned Stalkers Guile E.Acc/Dam/End/Rech",
+      "boosts.attuned_stalkers_guile_e.attuned_stalkers_guile_e"
+    ],
+    [
+      "Boosts.Attuned Sting of the Manticore A.Acc/Dam",
+      "boosts.attuned_sting_of_the_manticore_a.attuned_sting_of_the_manticore_a"
+    ],
+    [
+      "Boosts.Attuned Sting of the Manticore C.Acc/Interrupt/Range",
+      "boosts.attuned_sting_of_the_manticore_c.attuned_sting_of_the_manticore_c"
+    ],
+    [
+      "Boosts.Attuned Stupefy A.Acc/Rech",
+      "boosts.attuned_stupefy_a.attuned_stupefy_a"
+    ],
+    [
+      "Boosts.Attuned Stupefy C.Acc/End",
+      "boosts.attuned_stupefy_c.attuned_stupefy_c"
+    ],
+    [
+      "Boosts.Attuned Stupefy E.Acc/Stun/Rech",
+      "boosts.attuned_stupefy_e.attuned_stupefy_e"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration A.Knockback/Acc",
+      "boosts.attuned_sudden_acceleration_a.attuned_sudden_acceleration_a"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration E.Knockback/Acc/Dam",
+      "boosts.attuned_sudden_acceleration_e.attuned_sudden_acceleration_e"
+    ],
+    [
+      "Boosts.Attuned Synapses Shock D.Acc/Dam/Rech",
+      "boosts.attuned_synapses_shock_d.attuned_synapses_shock_d"
+    ],
+    [
+      "Boosts.Attuned Synapses Shock E.Acc/Dam/End",
+      "boosts.attuned_synapses_shock_e.attuned_synapses_shock_e"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness A.Acc/Slow",
+      "boosts.attuned_tempered_readiness_a.attuned_tempered_readiness_a"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness C.Acc/End",
+      "boosts.attuned_tempered_readiness_c.attuned_tempered_readiness_c"
+    ],
+    [
+      "Boosts.Attuned Tempered Readiness F.Acc/Dam/Slow",
+      "boosts.attuned_tempered_readiness_f.attuned_tempered_readiness_f"
+    ],
+    [
+      "Boosts.Attuned Tempest A.Acc/Dam",
+      "boosts.attuned_tempest_a.attuned_tempest_a"
+    ],
+    [
+      "Boosts.Attuned Theft of Essence C.Acc/Healing/Absorb",
+      "boosts.attuned_theft_of_essence_c.attuned_theft_of_essence_c"
+    ],
+    [
+      "Boosts.Attuned Theft of Essence D.Acc/End/Healing/Absorb",
+      "boosts.attuned_theft_of_essence_d.attuned_theft_of_essence_d"
+    ],
+    [
+      "Boosts.Attuned Theft of Essence E.Acc/End/Rech",
+      "boosts.attuned_theft_of_essence_e.attuned_theft_of_essence_e"
+    ],
+    [
+      "Boosts.Attuned Thunderstrike A.Acc/Dam",
+      "boosts.attuned_thunderstrike_a.attuned_thunderstrike_a"
+    ],
+    [
+      "Boosts.Attuned Thunderstrike D.Acc/Dam/Rech",
+      "boosts.attuned_thunderstrike_d.attuned_thunderstrike_d"
+    ],
+    [
+      "Boosts.Attuned Thunderstrike E.Acc/Dam/End",
+      "boosts.attuned_thunderstrike_e.attuned_thunderstrike_e"
+    ],
+    [
+      "Boosts.Attuned Touch of Death A.Acc/Dam",
+      "boosts.attuned_touch_of_death_a.attuned_touch_of_death_a"
+    ],
+    [
+      "Boosts.Attuned Touch of Death D.Acc/Dam/End",
+      "boosts.attuned_touch_of_death_d.attuned_touch_of_death_d"
+    ],
+    [
+      "Boosts.Attuned Touch of the Nictus C.Acc/Healing/Absorb",
+      "boosts.attuned_touch_of_the_nictus_c.attuned_touch_of_the_nictus_c"
+    ],
+    [
+      "Boosts.Attuned Touch of the Nictus D.Acc/End/Healing/Absorb",
+      "boosts.attuned_touch_of_the_nictus_d.attuned_touch_of_the_nictus_d"
+    ],
+    [
+      "Boosts.Attuned Touch of the Nictus E.Acc/End/Rech",
+      "boosts.attuned_touch_of_the_nictus_e.attuned_touch_of_the_nictus_e"
+    ],
+    [
+      "Boosts.Attuned Trap of the Hunter A.Acc/Rech",
+      "boosts.attuned_trap_of_the_hunter_a.attuned_trap_of_the_hunter_a"
+    ],
+    [
+      "Boosts.Attuned Trap of the Hunter C.Acc/End",
+      "boosts.attuned_trap_of_the_hunter_c.attuned_trap_of_the_hunter_c"
+    ],
+    [
+      "Boosts.Attuned Trap of the Hunter D.Immobilize/Acc",
+      "boosts.attuned_trap_of_the_hunter_d.attuned_trap_of_the_hunter_d"
+    ],
+    [
+      "Boosts.Attuned Trap of the Hunter E.Acc/Immob/Rech",
+      "boosts.attuned_trap_of_the_hunter_e.attuned_trap_of_the_hunter_e"
+    ],
+    [
+      "Boosts.Attuned Unquestioning Loyalty A.Acc/Dam",
+      "boosts.attuned_unquestioning_loyalty_a.attuned_unquestioning_loyalty_a"
+    ],
+    [
+      "Boosts.Attuned Unquestioning Loyalty C.Acc/End",
+      "boosts.attuned_unquestioning_loyalty_c.attuned_unquestioning_loyalty_c"
+    ],
+    [
+      "Boosts.Attuned Unquestioning Loyalty D.Acc/Dam/End",
+      "boosts.attuned_unquestioning_loyalty_d.attuned_unquestioning_loyalty_d"
+    ],
+    [
+      "Boosts.Attuned Unrelenting Fury A.Acc/Dam (Brute)",
+      "boosts.attuned_unrelenting_fury_a.attuned_unrelenting_fury_a"
+    ],
+    [
+      "Boosts.Attuned Unrelenting Fury C.Acc/Dam/Rech (Brute)",
+      "boosts.attuned_unrelenting_fury_c.attuned_unrelenting_fury_c"
+    ],
+    [
+      "Boosts.Attuned Unrelenting Fury E.Acc/Dam/End/Rech (Brute)",
+      "boosts.attuned_unrelenting_fury_e.attuned_unrelenting_fury_e"
+    ],
+    [
+      "Boosts.Attuned Unspeakable Terror A.Acc/Rech",
+      "boosts.attuned_unspeakable_terror_a.attuned_unspeakable_terror_a"
+    ],
+    [
+      "Boosts.Attuned Unspeakable Terror C.Acc/End",
+      "boosts.attuned_unspeakable_terror_c.attuned_unspeakable_terror_c"
+    ],
+    [
+      "Boosts.Attuned Unspeakable Terror E.Acc/Fear/Rech",
+      "boosts.attuned_unspeakable_terror_e.attuned_unspeakable_terror_e"
+    ],
+    [
+      "Boosts.Attuned Vigilant Assault A.Acc/Dam (Defender)",
+      "boosts.attuned_vigilant_assault_a.attuned_vigilant_assault_a"
+    ],
+    [
+      "Boosts.Attuned Vigilant Assault D.Acc/Dam/End (Defender)",
+      "boosts.attuned_vigilant_assault_d.attuned_vigilant_assault_d"
+    ],
+    [
+      "Boosts.Attuned Vigilant Assault E.Acc/Dam/End/Rech (Defender)",
+      "boosts.attuned_vigilant_assault_e.attuned_vigilant_assault_e"
+    ],
+    [
+      "Boosts.Attuned Volley Fire A.Acc/Dam",
+      "boosts.attuned_volley_fire_a.attuned_volley_fire_a"
+    ],
+    [
+      "Boosts.Attuned Volley of Velocity B.Knockback/Acc",
+      "boosts.attuned_volley_of_velocity_b.attuned_volley_of_velocity_b"
+    ],
+    [
+      "Boosts.Attuned Will of the Controller A.Acc/Control",
+      "boosts.attuned_will_of_the_controller_a.attuned_will_of_the_controller_a"
+    ],
+    [
+      "Boosts.Attuned Will of the Controller D.Acc/Control/End",
+      "boosts.attuned_will_of_the_controller_d.attuned_will_of_the_controller_d"
+    ],
+    [
+      "Boosts.Attuned Will of the Controller E.Acc/Control/End/Rech",
+      "boosts.attuned_will_of_the_controller_e.attuned_will_of_the_controller_e"
+    ],
+    [
+      "Boosts.Attuned Winters Bite A.Acc/Dam",
+      "boosts.attuned_winters_bite_a.attuned_winters_bite_a"
+    ],
+    [
+      "Boosts.Attuned Winters Bite C.Acc/Dam/Rech",
+      "boosts.attuned_winters_bite_c.attuned_winters_bite_c"
+    ],
+    [
+      "Boosts.Attuned Winters Bite D.Acc/Dam/End",
+      "boosts.attuned_winters_bite_d.attuned_winters_bite_d"
+    ],
+    [
+      "Boosts.Attuned Winters Bite E.Acc/Dam/End/Rech",
+      "boosts.attuned_winters_bite_e.attuned_winters_bite_e"
+    ],
+    [
+      "Boosts.Crafted Absolute Amazement C.Stun/Rech/Acc",
+      "boosts.crafted_absolute_amazement_c.crafted_absolute_amazement_c"
+    ],
+    [
+      "Boosts.Crafted Absolute Amazement D.Rech/Acc",
+      "boosts.crafted_absolute_amazement_d.crafted_absolute_amazement_d"
+    ],
+    [
+      "Boosts.Crafted Accuracy 10.Accuracy",
+      "boosts.crafted_accuracy_10.crafted_accuracy_10"
+    ],
+    [
+      "Boosts.Crafted Accuracy 15.Accuracy",
+      "boosts.crafted_accuracy_15.crafted_accuracy_15"
+    ],
+    [
+      "Boosts.Crafted Accuracy 20.Accuracy",
+      "boosts.crafted_accuracy_20.crafted_accuracy_20"
+    ],
+    [
+      "Boosts.Crafted Accuracy 25.Accuracy",
+      "boosts.crafted_accuracy_25.crafted_accuracy_25"
+    ],
+    [
+      "Boosts.Crafted Accuracy 30.Accuracy",
+      "boosts.crafted_accuracy_30.crafted_accuracy_30"
+    ],
+    [
+      "Boosts.Crafted Accuracy 35.Accuracy",
+      "boosts.crafted_accuracy_35.crafted_accuracy_35"
+    ],
+    [
+      "Boosts.Crafted Accuracy 40.Accuracy",
+      "boosts.crafted_accuracy_40.crafted_accuracy_40"
+    ],
+    [
+      "Boosts.Crafted Accuracy 45.Accuracy",
+      "boosts.crafted_accuracy_45.crafted_accuracy_45"
+    ],
+    [
+      "Boosts.Crafted Accuracy 50.Accuracy",
+      "boosts.crafted_accuracy_50.crafted_accuracy_50"
+    ],
+    [
+      "Boosts.Crafted Accuracy.Accuracy",
+      "boosts.crafted_accuracy.crafted_accuracy"
+    ],
+    [
+      "Boosts.Crafted Adrenal Adjustment C.Endurance Modification/Rech/Acc",
+      "boosts.crafted_adrenal_adjustment_c.crafted_adrenal_adjustment_c"
+    ],
+    [
+      "Boosts.Crafted Air Burst A.Acc/Dam",
+      "boosts.crafted_air_burst_a.crafted_air_burst_a"
+    ],
+    [
+      "Boosts.Crafted Analyze Weakness B.Acc/Def Debuff",
+      "boosts.crafted_analyze_weakness_b.crafted_analyze_weakness_b"
+    ],
+    [
+      "Boosts.Crafted Analyze Weakness C.Acc/Rech",
+      "boosts.crafted_analyze_weakness_c.crafted_analyze_weakness_c"
+    ],
+    [
+      "Boosts.Crafted Analyze Weakness E.Acc/End/Rech",
+      "boosts.crafted_analyze_weakness_e.crafted_analyze_weakness_e"
+    ],
+    [
+      "Boosts.Crafted Annihilation A.Acc/Dam",
+      "boosts.crafted_annihilation_a.crafted_annihilation_a"
+    ],
+    [
+      "Boosts.Crafted Annihilation C.Acc/Dam/Rech",
+      "boosts.crafted_annihilation_c.crafted_annihilation_c"
+    ],
+    [
+      "Boosts.Crafted Annihilation D.Acc/Dam/End",
+      "boosts.crafted_annihilation_d.crafted_annihilation_d"
+    ],
+    [
+      "Boosts.Crafted Annihilation E.Acc/Dam/Rech/End",
+      "boosts.crafted_annihilation_e.crafted_annihilation_e"
+    ],
+    [
+      "Boosts.Crafted Apocalypse C.Dam/Rech/Acc",
+      "boosts.crafted_apocalypse_c.crafted_apocalypse_c"
+    ],
+    [
+      "Boosts.Crafted Apocalypse D.Rech/Acc",
+      "boosts.crafted_apocalypse_d.crafted_apocalypse_d"
+    ],
+    [
+      "Boosts.Crafted Armageddon C.Dam/Rech/Acc",
+      "boosts.crafted_armageddon_c.crafted_armageddon_c"
+    ],
+    [
+      "Boosts.Crafted Armageddon D.Rech/Acc",
+      "boosts.crafted_armageddon_d.crafted_armageddon_d"
+    ],
+    [
+      "Boosts.Crafted Artillery A.Acc/Dam",
+      "boosts.crafted_artillery_a.crafted_artillery_a"
+    ],
+    [
+      "Boosts.Crafted Artillery D.Acc/Dam/Rech",
+      "boosts.crafted_artillery_d.crafted_artillery_d"
+    ],
+    [
+      "Boosts.Crafted Artillery E.Acc/Rech/Range",
+      "boosts.crafted_artillery_e.crafted_artillery_e"
+    ],
+    [
+      "Boosts.Crafted Basilisks Gaze A.Acc/Hold",
+      "boosts.crafted_basilisks_gaze_a.crafted_basilisks_gaze_a"
+    ],
+    [
+      "Boosts.Crafted Basilisks Gaze B.Acc/Rech",
+      "boosts.crafted_basilisks_gaze_b.crafted_basilisks_gaze_b"
+    ],
+    [
+      "Boosts.Crafted Basilisks Gaze E.Acc/End/Rech/Hold",
+      "boosts.crafted_basilisks_gaze_e.crafted_basilisks_gaze_e"
+    ],
+    [
+      "Boosts.Crafted Befuddling Aura A.Acc/Rech",
+      "boosts.crafted_befuddling_aura_a.crafted_befuddling_aura_a"
+    ],
+    [
+      "Boosts.Crafted Befuddling Aura C.Acc/End",
+      "boosts.crafted_befuddling_aura_c.crafted_befuddling_aura_c"
+    ],
+    [
+      "Boosts.Crafted Befuddling Aura E.Acc/Confuse/Rech",
+      "boosts.crafted_befuddling_aura_e.crafted_befuddling_aura_e"
+    ],
+    [
+      "Boosts.Crafted Blood Mandate A.Acc/Dam",
+      "boosts.crafted_blood_mandate_a.crafted_blood_mandate_a"
+    ],
+    [
+      "Boosts.Crafted Blood Mandate C.Acc/End",
+      "boosts.crafted_blood_mandate_c.crafted_blood_mandate_c"
+    ],
+    [
+      "Boosts.Crafted Blood Mandate D.Acc/Dam/End",
+      "boosts.crafted_blood_mandate_d.crafted_blood_mandate_d"
+    ],
+    [
+      "Boosts.Crafted Blood Mandate E.Accuracy",
+      "boosts.crafted_blood_mandate_e.crafted_blood_mandate_e"
+    ],
+    [
+      "Boosts.Crafted Bombardment C.Acc/End/Rech",
+      "boosts.crafted_bombardment_c.crafted_bombardment_c"
+    ],
+    [
+      "Boosts.Crafted Bombardment D.Acc/Dam/Rech",
+      "boosts.crafted_bombardment_d.crafted_bombardment_d"
+    ],
+    [
+      "Boosts.Crafted Bombardment E.Acc/Dam/End/Rech",
+      "boosts.crafted_bombardment_e.crafted_bombardment_e"
+    ],
+    [
+      "Boosts.Crafted Bonesnap A.Acc/Dam",
+      "boosts.crafted_bonesnap_a.crafted_bonesnap_a"
+    ],
+    [
+      "Boosts.Crafted Bonesnap C.Acc/Rech",
+      "boosts.crafted_bonesnap_c.crafted_bonesnap_c"
+    ],
+    [
+      "Boosts.Crafted Brilliant Leadership A.Acc/Dam",
+      "boosts.crafted_brilliant_leadership_a.crafted_brilliant_leadership_a"
+    ],
+    [
+      "Boosts.Crafted Brilliant Leadership C.Acc/End",
+      "boosts.crafted_brilliant_leadership_c.crafted_brilliant_leadership_c"
+    ],
+    [
+      "Boosts.Crafted Brilliant Leadership D.Acc/Dam/End",
+      "boosts.crafted_brilliant_leadership_d.crafted_brilliant_leadership_d"
+    ],
+    [
+      "Boosts.Crafted Brilliant Leadership E.Accuracy",
+      "boosts.crafted_brilliant_leadership_e.crafted_brilliant_leadership_e"
+    ],
+    [
+      "Boosts.Crafted Bruising Blow A.Acc/Dam",
+      "boosts.crafted_bruising_blow_a.crafted_bruising_blow_a"
+    ],
+    [
+      "Boosts.Crafted Cacophany A.Acc/Rech",
+      "boosts.crafted_cacophany_a.crafted_cacophany_a"
+    ],
+    [
+      "Boosts.Crafted Cacophany C.Acc/End",
+      "boosts.crafted_cacophany_c.crafted_cacophany_c"
+    ],
+    [
+      "Boosts.Crafted Cacophany E.Acc/Confuse/Rech",
+      "boosts.crafted_cacophany_e.crafted_cacophany_e"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy A.Acc/Dam",
+      "boosts.crafted_calibrated_accuracy_a.crafted_calibrated_accuracy_a"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy B.Acc/End",
+      "boosts.crafted_calibrated_accuracy_b.crafted_calibrated_accuracy_b"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy C.Acc/Interrupt",
+      "boosts.crafted_calibrated_accuracy_c.crafted_calibrated_accuracy_c"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy D.Acc/Range",
+      "boosts.crafted_calibrated_accuracy_d.crafted_calibrated_accuracy_d"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy E.Acc/Rech",
+      "boosts.crafted_calibrated_accuracy_e.crafted_calibrated_accuracy_e"
+    ],
+    [
+      "Boosts.Crafted Calibrated Accuracy F.Acc/Dam/Rech",
+      "boosts.crafted_calibrated_accuracy_f.crafted_calibrated_accuracy_f"
+    ],
+    [
+      "Boosts.Crafted Call of the Sandman A.Acc/Rech",
+      "boosts.crafted_call_of_the_sandman_a.crafted_call_of_the_sandman_a"
+    ],
+    [
+      "Boosts.Crafted Call of the Sandman C.Acc/End",
+      "boosts.crafted_call_of_the_sandman_c.crafted_call_of_the_sandman_c"
+    ],
+    [
+      "Boosts.Crafted Call of the Sandman E.Acc/Sleep/Rech",
+      "boosts.crafted_call_of_the_sandman_e.crafted_call_of_the_sandman_e"
+    ],
+    [
+      "Boosts.Crafted Call to Arms A.Acc/Rech",
+      "boosts.crafted_call_to_arms_a.crafted_call_to_arms_a"
+    ],
+    [
+      "Boosts.Crafted Call to Arms B.Acc/Dam",
+      "boosts.crafted_call_to_arms_b.crafted_call_to_arms_b"
+    ],
+    [
+      "Boosts.Crafted Call to Arms D.Acc/Dam/Rech",
+      "boosts.crafted_call_to_arms_d.crafted_call_to_arms_d"
+    ],
+    [
+      "Boosts.Crafted Cleaving Blow A.Acc/Dam",
+      "boosts.crafted_cleaving_blow_a.crafted_cleaving_blow_a"
+    ],
+    [
+      "Boosts.Crafted Cleaving Blow D.Acc/Rech",
+      "boosts.crafted_cleaving_blow_d.crafted_cleaving_blow_d"
+    ],
+    [
+      "Boosts.Crafted Cloud Senses B.Acc/To Hit Debuff",
+      "boosts.crafted_cloud_senses_b.crafted_cloud_senses_b"
+    ],
+    [
+      "Boosts.Crafted Cloud Senses C.Acc/Rech",
+      "boosts.crafted_cloud_senses_c.crafted_cloud_senses_c"
+    ],
+    [
+      "Boosts.Crafted Cloud Senses E.Acc/End/Rech",
+      "boosts.crafted_cloud_senses_e.crafted_cloud_senses_e"
+    ],
+    [
+      "Boosts.Crafted Coercive Persuasion C.Confuse/Rech/Acc",
+      "boosts.crafted_coercive_persuasion_c.crafted_coercive_persuasion_c"
+    ],
+    [
+      "Boosts.Crafted Coercive Persuasion D.Rech/Acc",
+      "boosts.crafted_coercive_persuasion_d.crafted_coercive_persuasion_d"
+    ],
+    [
+      "Boosts.Crafted Commanding Presence A.Acc/Dam",
+      "boosts.crafted_commanding_presence_a.crafted_commanding_presence_a"
+    ],
+    [
+      "Boosts.Crafted Commanding Presence C.Acc/End",
+      "boosts.crafted_commanding_presence_c.crafted_commanding_presence_c"
+    ],
+    [
+      "Boosts.Crafted Commanding Presence D.Acc/Dam/End",
+      "boosts.crafted_commanding_presence_d.crafted_commanding_presence_d"
+    ],
+    [
+      "Boosts.Crafted Crushing Impact A.Acc/Dam",
+      "boosts.crafted_crushing_impact_a.crafted_crushing_impact_a"
+    ],
+    [
+      "Boosts.Crafted Crushing Impact D.Acc/Dam/Rech",
+      "boosts.crafted_crushing_impact_d.crafted_crushing_impact_d"
+    ],
+    [
+      "Boosts.Crafted Crushing Impact E.Acc/Dam/End",
+      "boosts.crafted_crushing_impact_e.crafted_crushing_impact_e"
+    ],
+    [
+      "Boosts.Crafted Curtail Speed A.Acc/Slow",
+      "boosts.crafted_curtail_speed_a.crafted_curtail_speed_a"
+    ],
+    [
+      "Boosts.Crafted Curtail Speed C.Acc/End",
+      "boosts.crafted_curtail_speed_c.crafted_curtail_speed_c"
+    ],
+    [
+      "Boosts.Crafted Debiliative Action A.Acc/Rech",
+      "boosts.crafted_debiliative_action_a.crafted_debiliative_action_a"
+    ],
+    [
+      "Boosts.Crafted Debiliative Action C.Acc/End",
+      "boosts.crafted_debiliative_action_c.crafted_debiliative_action_c"
+    ],
+    [
+      "Boosts.Crafted Debiliative Action E.Acc/Immob/Rech",
+      "boosts.crafted_debiliative_action_e.crafted_debiliative_action_e"
+    ],
+    [
+      "Boosts.Crafted Decimation A.Acc/Dam",
+      "boosts.crafted_decimation_a.crafted_decimation_a"
+    ],
+    [
+      "Boosts.Crafted Decimation D.Acc/End/Rech",
+      "boosts.crafted_decimation_d.crafted_decimation_d"
+    ],
+    [
+      "Boosts.Crafted Decimation E.Acc/Dam/Rech",
+      "boosts.crafted_decimation_e.crafted_decimation_e"
+    ],
+    [
+      "Boosts.Crafted Detonation A.Acc/Dam",
+      "boosts.crafted_detonation_a.crafted_detonation_a"
+    ],
+    [
+      "Boosts.Crafted Detonation E.Acc/Dam/End",
+      "boosts.crafted_detonation_e.crafted_detonation_e"
+    ],
+    [
+      "Boosts.Crafted Devastation A.Acc/Dam",
+      "boosts.crafted_devastation_a.crafted_devastation_a"
+    ],
+    [
+      "Boosts.Crafted Devastation D.Acc/Dam/Rech",
+      "boosts.crafted_devastation_d.crafted_devastation_d"
+    ],
+    [
+      "Boosts.Crafted Devastation E.Acc/Dam/End/Rech",
+      "boosts.crafted_devastation_e.crafted_devastation_e"
+    ],
+    [
+      "Boosts.Crafted Edict of the Master A.Acc/Dam",
+      "boosts.crafted_edict_of_the_master_a.crafted_edict_of_the_master_a"
+    ],
+    [
+      "Boosts.Crafted Edict of the Master C.Acc/End",
+      "boosts.crafted_edict_of_the_master_c.crafted_edict_of_the_master_c"
+    ],
+    [
+      "Boosts.Crafted Edict of the Master D.Acc/Dam/End",
+      "boosts.crafted_edict_of_the_master_d.crafted_edict_of_the_master_d"
+    ],
+    [
+      "Boosts.Crafted Efficacy Adaptor C.Endurance Modification/Rech/Acc",
+      "boosts.crafted_efficacy_adaptor_c.crafted_efficacy_adaptor_c"
+    ],
+    [
+      "Boosts.Crafted Efficacy Adaptor D.Rech/Acc",
+      "boosts.crafted_efficacy_adaptor_d.crafted_efficacy_adaptor_d"
+    ],
+    [
+      "Boosts.Crafted Efficacy Adaptor E.Endurance Modification/Acc",
+      "boosts.crafted_efficacy_adaptor_e.crafted_efficacy_adaptor_e"
+    ],
+    [
+      "Boosts.Crafted Enfeebled Operation A.Acc/Rech",
+      "boosts.crafted_enfeebled_operation_a.crafted_enfeebled_operation_a"
+    ],
+    [
+      "Boosts.Crafted Enfeebled Operation C.Acc/End",
+      "boosts.crafted_enfeebled_operation_c.crafted_enfeebled_operation_c"
+    ],
+    [
+      "Boosts.Crafted Enfeebled Operation E.Acc/Immob/Rech",
+      "boosts.crafted_enfeebled_operation_e.crafted_enfeebled_operation_e"
+    ],
+    [
+      "Boosts.Crafted Enfeebled Operation F.Acc/Immobilize",
+      "boosts.crafted_enfeebled_operation_f.crafted_enfeebled_operation_f"
+    ],
+    [
+      "Boosts.Crafted Entropic Chaos A.Acc/Dam",
+      "boosts.crafted_entropic_chaos_a.crafted_entropic_chaos_a"
+    ],
+    [
+      "Boosts.Crafted Eradication B.Acc/Rech",
+      "boosts.crafted_eradication_b.crafted_eradication_b"
+    ],
+    [
+      "Boosts.Crafted Eradication D.Acc/Dam/Rech",
+      "boosts.crafted_eradication_d.crafted_eradication_d"
+    ],
+    [
+      "Boosts.Crafted Eradication E.Acc/Dam/End/Rech",
+      "boosts.crafted_eradication_e.crafted_eradication_e"
+    ],
+    [
+      "Boosts.Crafted Essence of Curare A.Acc/Rech",
+      "boosts.crafted_essence_of_curare_a.crafted_essence_of_curare_a"
+    ],
+    [
+      "Boosts.Crafted Essence of Curare C.Acc/End",
+      "boosts.crafted_essence_of_curare_c.crafted_essence_of_curare_c"
+    ],
+    [
+      "Boosts.Crafted Essence of Curare E.Acc/Hold",
+      "boosts.crafted_essence_of_curare_e.crafted_essence_of_curare_e"
+    ],
+    [
+      "Boosts.Crafted Essence of Curare F.Acc/Hold/Rech",
+      "boosts.crafted_essence_of_curare_f.crafted_essence_of_curare_f"
+    ],
+    [
+      "Boosts.Crafted Executioners Contract A.Acc/Dam",
+      "boosts.crafted_executioners_contract_a.crafted_executioners_contract_a"
+    ],
+    [
+      "Boosts.Crafted Expedient Reinforcement A.Acc/Rech",
+      "boosts.crafted_expedient_reinforcement_a.crafted_expedient_reinforcement_a"
+    ],
+    [
+      "Boosts.Crafted Expedient Reinforcement B.Acc/Dam",
+      "boosts.crafted_expedient_reinforcement_b.crafted_expedient_reinforcement_b"
+    ],
+    [
+      "Boosts.Crafted Expedient Reinforcement D.Acc/Dam/Rech",
+      "boosts.crafted_expedient_reinforcement_d.crafted_expedient_reinforcement_d"
+    ],
+    [
+      "Boosts.Crafted Experienced Marksman A.Acc/Dam",
+      "boosts.crafted_experienced_marksman_a.crafted_experienced_marksman_a"
+    ],
+    [
+      "Boosts.Crafted Experienced Marksman D.Acc/End/Rech",
+      "boosts.crafted_experienced_marksman_d.crafted_experienced_marksman_d"
+    ],
+    [
+      "Boosts.Crafted Exploit Weakness A.Acc/Dam",
+      "boosts.crafted_exploit_weakness_a.crafted_exploit_weakness_a"
+    ],
+    [
+      "Boosts.Crafted Explosive Strike B.Knockback/Acc",
+      "boosts.crafted_explosive_strike_b.crafted_explosive_strike_b"
+    ],
+    [
+      "Boosts.Crafted Extreme Measures A.Acc/Dam",
+      "boosts.crafted_extreme_measures_a.crafted_extreme_measures_a"
+    ],
+    [
+      "Boosts.Crafted Extreme Measures C.Acc/Interrupt/Range",
+      "boosts.crafted_extreme_measures_c.crafted_extreme_measures_c"
+    ],
+    [
+      "Boosts.Crafted Extreme Measures F.Acc/Range/Rech",
+      "boosts.crafted_extreme_measures_f.crafted_extreme_measures_f"
+    ],
+    [
+      "Boosts.Crafted Far Strike C.Acc/End",
+      "boosts.crafted_far_strike_c.crafted_far_strike_c"
+    ],
+    [
+      "Boosts.Crafted Focused Smite A.Acc/Dam",
+      "boosts.crafted_focused_smite_a.crafted_focused_smite_a"
+    ],
+    [
+      "Boosts.Crafted Focused Smite D.Acc/End/Rech",
+      "boosts.crafted_focused_smite_d.crafted_focused_smite_d"
+    ],
+    [
+      "Boosts.Crafted Focused Smite E.Acc/Dam/Rech",
+      "boosts.crafted_focused_smite_e.crafted_focused_smite_e"
+    ],
+    [
+      "Boosts.Crafted Force Feedback B.Knockback/Acc",
+      "boosts.crafted_force_feedback_b.crafted_force_feedback_b"
+    ],
+    [
+      "Boosts.Crafted Fortunata Hypnosis C.Sleep/Rech/Acc",
+      "boosts.crafted_fortunata_hypnosis_c.crafted_fortunata_hypnosis_c"
+    ],
+    [
+      "Boosts.Crafted Fortunata Hypnosis D.Rech/Acc",
+      "boosts.crafted_fortunata_hypnosis_d.crafted_fortunata_hypnosis_d"
+    ],
+    [
+      "Boosts.Crafted Fury of the Gladiator A.Dam/Acc",
+      "boosts.crafted_fury_of_the_gladiator_a.crafted_fury_of_the_gladiator_a"
+    ],
+    [
+      "Boosts.Crafted Fury of the Gladiator D.Acc/End/Rech",
+      "boosts.crafted_fury_of_the_gladiator_d.crafted_fury_of_the_gladiator_d"
+    ],
+    [
+      "Boosts.Crafted Fury of the Gladiator E.Acc/Dam/End/Rech",
+      "boosts.crafted_fury_of_the_gladiator_e.crafted_fury_of_the_gladiator_e"
+    ],
+    [
+      "Boosts.Crafted Ghost Widows Embrace A.Acc/Rech",
+      "boosts.crafted_ghost_widows_embrace_a.crafted_ghost_widows_embrace_a"
+    ],
+    [
+      "Boosts.Crafted Ghost Widows Embrace C.Acc/End",
+      "boosts.crafted_ghost_widows_embrace_c.crafted_ghost_widows_embrace_c"
+    ],
+    [
+      "Boosts.Crafted Ghost Widows Embrace E.Acc/Hold/Rech",
+      "boosts.crafted_ghost_widows_embrace_e.crafted_ghost_widows_embrace_e"
+    ],
+    [
+      "Boosts.Crafted Gladiators Javelin A.Dam/Acc",
+      "boosts.crafted_gladiators_javelin_a.crafted_gladiators_javelin_a"
+    ],
+    [
+      "Boosts.Crafted Gladiators Javelin D.Acc/End/Rech",
+      "boosts.crafted_gladiators_javelin_d.crafted_gladiators_javelin_d"
+    ],
+    [
+      "Boosts.Crafted Gladiators Javelin E.Acc/Dam/End/Rech",
+      "boosts.crafted_gladiators_javelin_e.crafted_gladiators_javelin_e"
+    ],
+    [
+      "Boosts.Crafted Gladiators Net A.Acc/Hold",
+      "boosts.crafted_gladiators_net_a.crafted_gladiators_net_a"
+    ],
+    [
+      "Boosts.Crafted Gladiators Net B.Acc/Rech",
+      "boosts.crafted_gladiators_net_b.crafted_gladiators_net_b"
+    ],
+    [
+      "Boosts.Crafted Gladiators Net E.Acc/End/Rech/Hold",
+      "boosts.crafted_gladiators_net_e.crafted_gladiators_net_e"
+    ],
+    [
+      "Boosts.Crafted Gladiators Strike A.Dam/Acc",
+      "boosts.crafted_gladiators_strike_a.crafted_gladiators_strike_a"
+    ],
+    [
+      "Boosts.Crafted Gladiators Strike D.Acc/End/Rech",
+      "boosts.crafted_gladiators_strike_d.crafted_gladiators_strike_d"
+    ],
+    [
+      "Boosts.Crafted Gladiators Strike E.Acc/Dam/End/Rech",
+      "boosts.crafted_gladiators_strike_e.crafted_gladiators_strike_e"
+    ],
+    [
+      "Boosts.Crafted Glimpse of the Abyss A.Acc/Rech",
+      "boosts.crafted_glimpse_of_the_abyss_a.crafted_glimpse_of_the_abyss_a"
+    ],
+    [
+      "Boosts.Crafted Glimpse of the Abyss C.Acc/End",
+      "boosts.crafted_glimpse_of_the_abyss_c.crafted_glimpse_of_the_abyss_c"
+    ],
+    [
+      "Boosts.Crafted Glimpse of the Abyss E.Acc/Fear/Rech",
+      "boosts.crafted_glimpse_of_the_abyss_e.crafted_glimpse_of_the_abyss_e"
+    ],
+    [
+      "Boosts.Crafted Gravitational Anchor C.Immobilize/Rech/Acc",
+      "boosts.crafted_gravitational_anchor_c.crafted_gravitational_anchor_c"
+    ],
+    [
+      "Boosts.Crafted Gravitational Anchor D.Rech/Acc",
+      "boosts.crafted_gravitational_anchor_d.crafted_gravitational_anchor_d"
+    ],
+    [
+      "Boosts.Crafted Hecatomb C.Dam/Rech/Acc",
+      "boosts.crafted_hecatomb_c.crafted_hecatomb_c"
+    ],
+    [
+      "Boosts.Crafted Hecatomb D.Rech/Acc",
+      "boosts.crafted_hecatomb_d.crafted_hecatomb_d"
+    ],
+    [
+      "Boosts.Crafted Hibernation A.Acc/Rech",
+      "boosts.crafted_hibernation_a.crafted_hibernation_a"
+    ],
+    [
+      "Boosts.Crafted Hibernation C.Acc/End",
+      "boosts.crafted_hibernation_c.crafted_hibernation_c"
+    ],
+    [
+      "Boosts.Crafted Hibernation E.Acc/Sleep/Rech",
+      "boosts.crafted_hibernation_e.crafted_hibernation_e"
+    ],
+    [
+      "Boosts.Crafted Horror A.Acc/Rech",
+      "boosts.crafted_horror_a.crafted_horror_a"
+    ],
+    [
+      "Boosts.Crafted Horror C.Acc/End",
+      "boosts.crafted_horror_c.crafted_horror_c"
+    ],
+    [
+      "Boosts.Crafted Horror E.Acc/Fear/Rech",
+      "boosts.crafted_horror_e.crafted_horror_e"
+    ],
+    [
+      "Boosts.Crafted Ice Mistrals Torment D.Acc/Dam/End",
+      "boosts.crafted_ice_mistrals_torment_d.crafted_ice_mistrals_torment_d"
+    ],
+    [
+      "Boosts.Crafted Ice Mistrals Torment E.Acc/Dam/End/Rech",
+      "boosts.crafted_ice_mistrals_torment_e.crafted_ice_mistrals_torment_e"
+    ],
+    [
+      "Boosts.Crafted Impeded Swiftness A.Acc/Slow",
+      "boosts.crafted_impeded_swiftness_a.crafted_impeded_swiftness_a"
+    ],
+    [
+      "Boosts.Crafted Impeded Swiftness C.Acc/End",
+      "boosts.crafted_impeded_swiftness_c.crafted_impeded_swiftness_c"
+    ],
+    [
+      "Boosts.Crafted Induced Coma A.Acc/Rech",
+      "boosts.crafted_induced_coma_a.crafted_induced_coma_a"
+    ],
+    [
+      "Boosts.Crafted Induced Coma C.Acc/End",
+      "boosts.crafted_induced_coma_c.crafted_induced_coma_c"
+    ],
+    [
+      "Boosts.Crafted Induced Coma E.Acc/Sleep/Rech",
+      "boosts.crafted_induced_coma_e.crafted_induced_coma_e"
+    ],
+    [
+      "Boosts.Crafted Javelin Volley A.Dam/Acc",
+      "boosts.crafted_javelin_volley_a.crafted_javelin_volley_a"
+    ],
+    [
+      "Boosts.Crafted Javelin Volley D.Acc/End/Rech",
+      "boosts.crafted_javelin_volley_d.crafted_javelin_volley_d"
+    ],
+    [
+      "Boosts.Crafted Javelin Volley E.Acc/Dam/End/Rech",
+      "boosts.crafted_javelin_volley_e.crafted_javelin_volley_e"
+    ],
+    [
+      "Boosts.Crafted Kinetic Combat A.Acc/Dam",
+      "boosts.crafted_kinetic_combat_a.crafted_kinetic_combat_a"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash B.Knockback/Acc",
+      "boosts.crafted_kinetic_crash_b.crafted_kinetic_crash_b"
+    ],
+    [
+      "Boosts.Crafted Kinetic Crash F.Knockback/Dam/Acc",
+      "boosts.crafted_kinetic_crash_f.crafted_kinetic_crash_f"
+    ],
+    [
+      "Boosts.Crafted Lethargic Repose A.Acc/Rech",
+      "boosts.crafted_lethargic_repose_a.crafted_lethargic_repose_a"
+    ],
+    [
+      "Boosts.Crafted Lethargic Repose C.Acc/End",
+      "boosts.crafted_lethargic_repose_c.crafted_lethargic_repose_c"
+    ],
+    [
+      "Boosts.Crafted Lethargic Repose E.Acc/Sleep/Rech",
+      "boosts.crafted_lethargic_repose_e.crafted_lethargic_repose_e"
+    ],
+    [
+      "Boosts.Crafted Lethargic Repose F.Acc/Sleep",
+      "boosts.crafted_lethargic_repose_f.crafted_lethargic_repose_f"
+    ],
+    [
+      "Boosts.Crafted Lockdown A.Acc/Hold",
+      "boosts.crafted_lockdown_a.crafted_lockdown_a"
+    ],
+    [
+      "Boosts.Crafted Lockdown B.Acc/Rech",
+      "boosts.crafted_lockdown_b.crafted_lockdown_b"
+    ],
+    [
+      "Boosts.Crafted Lockdown E.Acc/End/Rech/Hold",
+      "boosts.crafted_lockdown_e.crafted_lockdown_e"
+    ],
+    [
+      "Boosts.Crafted Maelstroms Fury A.Acc/Dam",
+      "boosts.crafted_maelstroms_fury_a.crafted_maelstroms_fury_a"
+    ],
+    [
+      "Boosts.Crafted Makos Bite A.Acc/Dam",
+      "boosts.crafted_makos_bite_a.crafted_makos_bite_a"
+    ],
+    [
+      "Boosts.Crafted Makos Bite D.Acc/End/Rech",
+      "boosts.crafted_makos_bite_d.crafted_makos_bite_d"
+    ],
+    [
+      "Boosts.Crafted Makos Bite E.Acc/Dam/End/Rech",
+      "boosts.crafted_makos_bite_e.crafted_makos_bite_e"
+    ],
+    [
+      "Boosts.Crafted Malaises Illusions A.Acc/Rech",
+      "boosts.crafted_malaises_illusions_a.crafted_malaises_illusions_a"
+    ],
+    [
+      "Boosts.Crafted Malaises Illusions C.Acc/End",
+      "boosts.crafted_malaises_illusions_c.crafted_malaises_illusions_c"
+    ],
+    [
+      "Boosts.Crafted Malaises Illusions E.Acc/Confuse/Rech",
+      "boosts.crafted_malaises_illusions_e.crafted_malaises_illusions_e"
+    ],
+    [
+      "Boosts.Crafted Mocking Beratement D.Rech/Acc",
+      "boosts.crafted_mocking_beratement_d.crafted_mocking_beratement_d"
+    ],
+    [
+      "Boosts.Crafted Multi Strike A.Acc/Dam",
+      "boosts.crafted_multi_strike_a.crafted_multi_strike_a"
+    ],
+    [
+      "Boosts.Crafted Multi Strike D.Acc/End",
+      "boosts.crafted_multi_strike_d.crafted_multi_strike_d"
+    ],
+    [
+      "Boosts.Crafted Multi Strike E.Acc/Dam/End",
+      "boosts.crafted_multi_strike_e.crafted_multi_strike_e"
+    ],
+    [
+      "Boosts.Crafted Neuronic Shutdown A.Acc/Rech",
+      "boosts.crafted_neuronic_shutdown_a.crafted_neuronic_shutdown_a"
+    ],
+    [
+      "Boosts.Crafted Neuronic Shutdown C.Acc/End",
+      "boosts.crafted_neuronic_shutdown_c.crafted_neuronic_shutdown_c"
+    ],
+    [
+      "Boosts.Crafted Neuronic Shutdown E.Acc/Hold/Rech",
+      "boosts.crafted_neuronic_shutdown_e.crafted_neuronic_shutdown_e"
+    ],
+    [
+      "Boosts.Crafted Nightmare A.Acc/Rech",
+      "boosts.crafted_nightmare_a.crafted_nightmare_a"
+    ],
+    [
+      "Boosts.Crafted Nightmare C.Acc/End",
+      "boosts.crafted_nightmare_c.crafted_nightmare_c"
+    ],
+    [
+      "Boosts.Crafted Nightmare E.Acc/Fear/Rech",
+      "boosts.crafted_nightmare_e.crafted_nightmare_e"
+    ],
+    [
+      "Boosts.Crafted Nightmare F.Acc/Fear",
+      "boosts.crafted_nightmare_f.crafted_nightmare_f"
+    ],
+    [
+      "Boosts.Crafted Obliteration B.Acc/Rech",
+      "boosts.crafted_obliteration_b.crafted_obliteration_b"
+    ],
+    [
+      "Boosts.Crafted Obliteration D.Acc/Dam/Rech",
+      "boosts.crafted_obliteration_d.crafted_obliteration_d"
+    ],
+    [
+      "Boosts.Crafted Obliteration E.Acc/Dam/End/Rech",
+      "boosts.crafted_obliteration_e.crafted_obliteration_e"
+    ],
+    [
+      "Boosts.Crafted Pacing of the Turtle A.Acc/Slow",
+      "boosts.crafted_pacing_of_the_turtle_a.crafted_pacing_of_the_turtle_a"
+    ],
+    [
+      "Boosts.Crafted Pacing of the Turtle C.Acc/End",
+      "boosts.crafted_pacing_of_the_turtle_c.crafted_pacing_of_the_turtle_c"
+    ],
+    [
+      "Boosts.Crafted Paralytic A.Acc/Rech",
+      "boosts.crafted_paralytic_a.crafted_paralytic_a"
+    ],
+    [
+      "Boosts.Crafted Paralytic C.Acc/End",
+      "boosts.crafted_paralytic_c.crafted_paralytic_c"
+    ],
+    [
+      "Boosts.Crafted Paralytic E.Acc/Hold/Rech",
+      "boosts.crafted_paralytic_e.crafted_paralytic_e"
+    ],
+    [
+      "Boosts.Crafted Perfect Zinger D.Rech/Acc",
+      "boosts.crafted_perfect_zinger_d.crafted_perfect_zinger_d"
+    ],
+    [
+      "Boosts.Crafted Performance Shifter C.Endurance Modification/Rech/Acc",
+      "boosts.crafted_performance_shifter_c.crafted_performance_shifter_c"
+    ],
+    [
+      "Boosts.Crafted Performance Shifter D.Rech/Acc",
+      "boosts.crafted_performance_shifter_d.crafted_performance_shifter_d"
+    ],
+    [
+      "Boosts.Crafted Performance Shifter E.Endurance Modification/Acc",
+      "boosts.crafted_performance_shifter_e.crafted_performance_shifter_e"
+    ],
+    [
+      "Boosts.Crafted Perplex A.Acc/Rech",
+      "boosts.crafted_perplex_a.crafted_perplex_a"
+    ],
+    [
+      "Boosts.Crafted Perplex C.Acc/End",
+      "boosts.crafted_perplex_c.crafted_perplex_c"
+    ],
+    [
+      "Boosts.Crafted Perplex E.Acc/Confuse/Rech",
+      "boosts.crafted_perplex_e.crafted_perplex_e"
+    ],
+    [
+      "Boosts.Crafted Positrons Blast A.Acc/Dam",
+      "boosts.crafted_positrons_blast_a.crafted_positrons_blast_a"
+    ],
+    [
+      "Boosts.Crafted Positrons Blast E.Acc/Dam/End",
+      "boosts.crafted_positrons_blast_e.crafted_positrons_blast_e"
+    ],
+    [
+      "Boosts.Crafted Pounding Slugfest A.Acc/Dam",
+      "boosts.crafted_pounding_slugfest_a.crafted_pounding_slugfest_a"
+    ],
+    [
+      "Boosts.Crafted Power Transfer D.Acc/Dam/End",
+      "boosts.crafted_power_transfer_d.crafted_power_transfer_d"
+    ],
+    [
+      "Boosts.Crafted Power Transfer E.Acc/Dam/Rech/End",
+      "boosts.crafted_power_transfer_e.crafted_power_transfer_e"
+    ],
+    [
+      "Boosts.Crafted Preemptive Optimization A.Acc/Rech",
+      "boosts.crafted_preemptive_optimization_a.crafted_preemptive_optimization_a"
+    ],
+    [
+      "Boosts.Crafted Preemptive Optimization D.Endurance Modification/Acc/End",
+      "boosts.crafted_preemptive_optimization_d.crafted_preemptive_optimization_d"
+    ],
+    [
+      "Boosts.Crafted Preemptive Optimization E.Endurance Modification/Acc/Rech",
+      "boosts.crafted_preemptive_optimization_e.crafted_preemptive_optimization_e"
+    ],
+    [
+      "Boosts.Crafted Pulverizing Fisticuffs A.Acc/Dam",
+      "boosts.crafted_pulverizing_fisticuffs_a.crafted_pulverizing_fisticuffs_a"
+    ],
+    [
+      "Boosts.Crafted Pulverizing Fisticuffs B.Acc/Dam/Rech",
+      "boosts.crafted_pulverizing_fisticuffs_b.crafted_pulverizing_fisticuffs_b"
+    ],
+    [
+      "Boosts.Crafted Pulverizing Fisticuffs C.Acc/Dam/End/Rech",
+      "boosts.crafted_pulverizing_fisticuffs_c.crafted_pulverizing_fisticuffs_c"
+    ],
+    [
+      "Boosts.Crafted Ragnarok C.Dam/Rech/Acc",
+      "boosts.crafted_ragnarok_c.crafted_ragnarok_c"
+    ],
+    [
+      "Boosts.Crafted Ragnarok D.Rech/Acc",
+      "boosts.crafted_ragnarok_d.crafted_ragnarok_d"
+    ],
+    [
+      "Boosts.Crafted Razzle Dazzle A.Acc/Rech",
+      "boosts.crafted_razzle_dazzle_a.crafted_razzle_dazzle_a"
+    ],
+    [
+      "Boosts.Crafted Razzle Dazzle C.Acc/End",
+      "boosts.crafted_razzle_dazzle_c.crafted_razzle_dazzle_c"
+    ],
+    [
+      "Boosts.Crafted Razzle Dazzle E.Acc/Stun/Rech",
+      "boosts.crafted_razzle_dazzle_e.crafted_razzle_dazzle_e"
+    ],
+    [
+      "Boosts.Crafted Rooting Grasp A.Acc/Rech",
+      "boosts.crafted_rooting_grasp_a.crafted_rooting_grasp_a"
+    ],
+    [
+      "Boosts.Crafted Rooting Grasp C.Acc/End",
+      "boosts.crafted_rooting_grasp_c.crafted_rooting_grasp_c"
+    ],
+    [
+      "Boosts.Crafted Rooting Grasp E.Acc/Immob/Rech",
+      "boosts.crafted_rooting_grasp_e.crafted_rooting_grasp_e"
+    ],
+    [
+      "Boosts.Crafted Rope A Dope A.Acc/Rech",
+      "boosts.crafted_rope_a_dope_a.crafted_rope_a_dope_a"
+    ],
+    [
+      "Boosts.Crafted Rope A Dope C.Acc/End",
+      "boosts.crafted_rope_a_dope_c.crafted_rope_a_dope_c"
+    ],
+    [
+      "Boosts.Crafted Rope A Dope E.Acc/Stun/Rech",
+      "boosts.crafted_rope_a_dope_e.crafted_rope_a_dope_e"
+    ],
+    [
+      "Boosts.Crafted Rope A Dope F.Acc/Stun",
+      "boosts.crafted_rope_a_dope_f.crafted_rope_a_dope_f"
+    ],
+    [
+      "Boosts.Crafted Ruin A.Acc/Dam",
+      "boosts.crafted_ruin_a.crafted_ruin_a"
+    ],
+    [
+      "Boosts.Crafted Ruin D.Acc/End/Rech",
+      "boosts.crafted_ruin_d.crafted_ruin_d"
+    ],
+    [
+      "Boosts.Crafted Ruin E.Acc/Dam/Rech",
+      "boosts.crafted_ruin_e.crafted_ruin_e"
+    ],
+    [
+      "Boosts.Crafted Salvo A.Acc/Dam",
+      "boosts.crafted_salvo_a.crafted_salvo_a"
+    ],
+    [
+      "Boosts.Crafted Salvo C.Acc/Dam/End/Range",
+      "boosts.crafted_salvo_c.crafted_salvo_c"
+    ],
+    [
+      "Boosts.Crafted Sciroccos Dervish A.Acc/Dam",
+      "boosts.crafted_sciroccos_dervish_a.crafted_sciroccos_dervish_a"
+    ],
+    [
+      "Boosts.Crafted Sciroccos Dervish D.Acc/Rech",
+      "boosts.crafted_sciroccos_dervish_d.crafted_sciroccos_dervish_d"
+    ],
+    [
+      "Boosts.Crafted Sciroccos Dervish E.Acc/Dam/End",
+      "boosts.crafted_sciroccos_dervish_e.crafted_sciroccos_dervish_e"
+    ],
+    [
+      "Boosts.Crafted Shield Breaker B.Acc/Def Debuff",
+      "boosts.crafted_shield_breaker_b.crafted_shield_breaker_b"
+    ],
+    [
+      "Boosts.Crafted Shield Breaker C.Acc/Rech",
+      "boosts.crafted_shield_breaker_c.crafted_shield_breaker_c"
+    ],
+    [
+      "Boosts.Crafted Shield Breaker E.Acc/End/Rech",
+      "boosts.crafted_shield_breaker_e.crafted_shield_breaker_e"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight B.Acc/To Hit Debuff",
+      "boosts.crafted_siphon_insight_b.crafted_siphon_insight_b"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight C.Acc/Rech",
+      "boosts.crafted_siphon_insight_c.crafted_siphon_insight_c"
+    ],
+    [
+      "Boosts.Crafted Siphon Insight E.Acc/End/Rech",
+      "boosts.crafted_siphon_insight_e.crafted_siphon_insight_e"
+    ],
+    [
+      "Boosts.Crafted Smashing Haymaker A.Acc/Dam",
+      "boosts.crafted_smashing_haymaker_a.crafted_smashing_haymaker_a"
+    ],
+    [
+      "Boosts.Crafted Soulbound Allegiance C.Dam/Rech/Acc",
+      "boosts.crafted_soulbound_allegiance_c.crafted_soulbound_allegiance_c"
+    ],
+    [
+      "Boosts.Crafted Soulbound Allegiance D.Rech/Acc",
+      "boosts.crafted_soulbound_allegiance_d.crafted_soulbound_allegiance_d"
+    ],
+    [
+      "Boosts.Crafted Sovereign Right A.Acc/Dam",
+      "boosts.crafted_sovereign_right_a.crafted_sovereign_right_a"
+    ],
+    [
+      "Boosts.Crafted Sovereign Right C.Acc/End",
+      "boosts.crafted_sovereign_right_c.crafted_sovereign_right_c"
+    ],
+    [
+      "Boosts.Crafted Sovereign Right D.Acc/Dam/End",
+      "boosts.crafted_sovereign_right_d.crafted_sovereign_right_d"
+    ],
+    [
+      "Boosts.Crafted Sovereign Right E.Accuracy",
+      "boosts.crafted_sovereign_right_e.crafted_sovereign_right_e"
+    ],
+    [
+      "Boosts.Crafted Stagger A.Acc/Rech",
+      "boosts.crafted_stagger_a.crafted_stagger_a"
+    ],
+    [
+      "Boosts.Crafted Stagger C.Acc/End",
+      "boosts.crafted_stagger_c.crafted_stagger_c"
+    ],
+    [
+      "Boosts.Crafted Stagger E.Acc/Stun/Rech",
+      "boosts.crafted_stagger_e.crafted_stagger_e"
+    ],
+    [
+      "Boosts.Crafted Sting of the Manticore A.Acc/Dam",
+      "boosts.crafted_sting_of_the_manticore_a.crafted_sting_of_the_manticore_a"
+    ],
+    [
+      "Boosts.Crafted Sting of the Manticore C.Acc/Interrupt/Range",
+      "boosts.crafted_sting_of_the_manticore_c.crafted_sting_of_the_manticore_c"
+    ],
+    [
+      "Boosts.Crafted Stupefy A.Acc/Rech",
+      "boosts.crafted_stupefy_a.crafted_stupefy_a"
+    ],
+    [
+      "Boosts.Crafted Stupefy C.Acc/End",
+      "boosts.crafted_stupefy_c.crafted_stupefy_c"
+    ],
+    [
+      "Boosts.Crafted Stupefy E.Acc/Stun/Rech",
+      "boosts.crafted_stupefy_e.crafted_stupefy_e"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration A.Knockback/Acc",
+      "boosts.crafted_sudden_acceleration_a.crafted_sudden_acceleration_a"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration E.Knockback/Acc/Dam",
+      "boosts.crafted_sudden_acceleration_e.crafted_sudden_acceleration_e"
+    ],
+    [
+      "Boosts.Crafted Synapses Shock D.Acc/Dam/Rech",
+      "boosts.crafted_synapses_shock_d.crafted_synapses_shock_d"
+    ],
+    [
+      "Boosts.Crafted Synapses Shock E.Acc/Dam/End",
+      "boosts.crafted_synapses_shock_e.crafted_synapses_shock_e"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness A.Acc/Slow",
+      "boosts.crafted_tempered_readiness_a.crafted_tempered_readiness_a"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness C.Acc/End",
+      "boosts.crafted_tempered_readiness_c.crafted_tempered_readiness_c"
+    ],
+    [
+      "Boosts.Crafted Tempered Readiness F.Acc/Dam/Slow",
+      "boosts.crafted_tempered_readiness_f.crafted_tempered_readiness_f"
+    ],
+    [
+      "Boosts.Crafted Tempest A.Acc/Dam",
+      "boosts.crafted_tempest_a.crafted_tempest_a"
+    ],
+    [
+      "Boosts.Crafted Theft of Essence C.Acc/Healing/Absorb",
+      "boosts.crafted_theft_of_essence_c.crafted_theft_of_essence_c"
+    ],
+    [
+      "Boosts.Crafted Theft of Essence D.Acc/End/Healing/Absorb",
+      "boosts.crafted_theft_of_essence_d.crafted_theft_of_essence_d"
+    ],
+    [
+      "Boosts.Crafted Theft of Essence E.Acc/End/Rech",
+      "boosts.crafted_theft_of_essence_e.crafted_theft_of_essence_e"
+    ],
+    [
+      "Boosts.Crafted Thunderstrike A.Acc/Dam",
+      "boosts.crafted_thunderstrike_a.crafted_thunderstrike_a"
+    ],
+    [
+      "Boosts.Crafted Thunderstrike D.Acc/Dam/Rech",
+      "boosts.crafted_thunderstrike_d.crafted_thunderstrike_d"
+    ],
+    [
+      "Boosts.Crafted Thunderstrike E.Acc/Dam/End",
+      "boosts.crafted_thunderstrike_e.crafted_thunderstrike_e"
+    ],
+    [
+      "Boosts.Crafted Touch of Death A.Acc/Dam",
+      "boosts.crafted_touch_of_death_a.crafted_touch_of_death_a"
+    ],
+    [
+      "Boosts.Crafted Touch of Death D.Acc/Dam/End",
+      "boosts.crafted_touch_of_death_d.crafted_touch_of_death_d"
+    ],
+    [
+      "Boosts.Crafted Touch of the Nictus C.Acc/Healing/Absorb",
+      "boosts.crafted_touch_of_the_nictus_c.crafted_touch_of_the_nictus_c"
+    ],
+    [
+      "Boosts.Crafted Touch of the Nictus D.Acc/End/Healing/Absorb",
+      "boosts.crafted_touch_of_the_nictus_d.crafted_touch_of_the_nictus_d"
+    ],
+    [
+      "Boosts.Crafted Touch of the Nictus E.Acc/End/Rech",
+      "boosts.crafted_touch_of_the_nictus_e.crafted_touch_of_the_nictus_e"
+    ],
+    [
+      "Boosts.Crafted Trap of the Hunter A.Acc/Rech",
+      "boosts.crafted_trap_of_the_hunter_a.crafted_trap_of_the_hunter_a"
+    ],
+    [
+      "Boosts.Crafted Trap of the Hunter C.Acc/End",
+      "boosts.crafted_trap_of_the_hunter_c.crafted_trap_of_the_hunter_c"
+    ],
+    [
+      "Boosts.Crafted Trap of the Hunter D.Immobilize/Acc",
+      "boosts.crafted_trap_of_the_hunter_d.crafted_trap_of_the_hunter_d"
+    ],
+    [
+      "Boosts.Crafted Trap of the Hunter E.Acc/Immob/Rech",
+      "boosts.crafted_trap_of_the_hunter_e.crafted_trap_of_the_hunter_e"
+    ],
+    [
+      "Boosts.Crafted Unbreakable Constraint C.Hold/Rech/Acc",
+      "boosts.crafted_unbreakable_constraint_c.crafted_unbreakable_constraint_c"
+    ],
+    [
+      "Boosts.Crafted Unbreakable Constraint D.Rech/Acc",
+      "boosts.crafted_unbreakable_constraint_d.crafted_unbreakable_constraint_d"
+    ],
+    [
+      "Boosts.Crafted Unquestioning Loyalty A.Acc/Dam",
+      "boosts.crafted_unquestioning_loyalty_a.crafted_unquestioning_loyalty_a"
+    ],
+    [
+      "Boosts.Crafted Unquestioning Loyalty C.Acc/End",
+      "boosts.crafted_unquestioning_loyalty_c.crafted_unquestioning_loyalty_c"
+    ],
+    [
+      "Boosts.Crafted Unquestioning Loyalty D.Acc/Dam/End",
+      "boosts.crafted_unquestioning_loyalty_d.crafted_unquestioning_loyalty_d"
+    ],
+    [
+      "Boosts.Crafted Unspeakable Terror A.Acc/Rech",
+      "boosts.crafted_unspeakable_terror_a.crafted_unspeakable_terror_a"
+    ],
+    [
+      "Boosts.Crafted Unspeakable Terror C.Acc/End",
+      "boosts.crafted_unspeakable_terror_c.crafted_unspeakable_terror_c"
+    ],
+    [
+      "Boosts.Crafted Unspeakable Terror E.Acc/Fear/Rech",
+      "boosts.crafted_unspeakable_terror_e.crafted_unspeakable_terror_e"
+    ],
+    [
+      "Boosts.Crafted Volley Fire A.Acc/Dam",
+      "boosts.crafted_volley_fire_a.crafted_volley_fire_a"
+    ],
+    [
+      "Boosts.Crafted Volley of Velocity B.Knockback/Acc",
+      "boosts.crafted_volley_of_velocity_b.crafted_volley_of_velocity_b"
+    ],
+    [
+      "Boosts.DSync Accuracy Mez.D-Sync Binding (Acc/Mez)",
+      "boosts.dsync_accuracy_mez.dsync_accuracy_mez"
+    ],
+    [
+      "Boosts.DSync Accuracy Range.D-Sync Guidance (Acc/Range)",
+      "boosts.dsync_accuracy_range.dsync_accuracy_range"
+    ],
+    [
+      "Boosts.DSync Damage Accuracy.D-Sync Empowerment (Acc/Dam)",
+      "boosts.dsync_damage_accuracy.dsync_damage_accuracy"
+    ],
+    [
+      "Boosts.DSync DeBuff Accuracy.D-Sync Obfuscation (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.dsync_debuff_accuracy.dsync_debuff_accuracy"
+    ],
+    [
+      "Boosts.DSync Endurance Modification Accuracy.D-Sync Drain (End Mod/Acc)",
+      "boosts.dsync_endurance_modification_accuracy.dsync_endurance_modification_accuracy"
+    ],
+    [
+      "Boosts.DSync Heal Accuracy.D-Sync Siphon (Acc/Heal/Absorb)",
+      "boosts.dsync_heal_accuracy.dsync_heal_accuracy"
+    ],
+    [
+      "Boosts.DSync Threat Accuracy Recharge.D-Sync Provocation (Threat/Acc/Rech)",
+      "boosts.dsync_threat_accuracy_recharge.dsync_threat_accuracy_recharge"
+    ],
+    [
+      "Boosts.Generic Accuracy.Accuracy",
+      "boosts.generic_accuracy.generic_accuracy"
+    ],
+    [
+      "Boosts.Hamidon Accuracy Mez.Endoplasm Exposure (Acc/Mez)",
+      "boosts.hamidon_accuracy_mez.hamidon_accuracy_mez"
+    ],
+    [
+      "Boosts.Hamidon Damage Accuracy.Nucleolus Exposure (Acc/Dam)",
+      "boosts.hamidon_damage_accuracy.hamidon_damage_accuracy"
+    ],
+    [
+      "Boosts.Hamidon DeBuff Accuracy.Lysosome Exposure (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.hamidon_debuff_accuracy.hamidon_debuff_accuracy"
+    ],
+    [
+      "Boosts.Hydra Accuracy Mez.Graviton Exposure (Acc/Mez)",
+      "boosts.hydra_accuracy_mez.hydra_accuracy_mez"
+    ],
+    [
+      "Boosts.Hydra Damage Accuracy.Neutrino Exposure (Acc/Dam)",
+      "boosts.hydra_damage_accuracy.hydra_damage_accuracy"
+    ],
+    [
+      "Boosts.Hydra DeBuff Accuracy.Delta Particle Exposure (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.hydra_debuff_accuracy.hydra_debuff_accuracy"
+    ],
+    [
+      "Boosts.Magic Accuracy.Insight of Grey (Accuracy)",
+      "boosts.magic_accuracy.magic_accuracy"
+    ],
+    [
+      "Boosts.Mutation Accuracy.Improved Accuracy (Accuracy)",
+      "boosts.mutation_accuracy.mutation_accuracy"
+    ],
+    [
+      "Boosts.Mutation Magic Accuracy.Visor (Accuracy)",
+      "boosts.mutation_magic_accuracy.mutation_magic_accuracy"
+    ],
+    [
+      "Boosts.Mutation Science Accuracy.Genome Alteration Reflex Boost (Accuracy)",
+      "boosts.mutation_science_accuracy.mutation_science_accuracy"
+    ],
+    [
+      "Boosts.Natural Accuracy.Dragon Strike (Accuracy)",
+      "boosts.natural_accuracy.natural_accuracy"
+    ],
+    [
+      "Boosts.Natural Magic Accuracy.Crowley's Ring (Accuracy)",
+      "boosts.natural_magic_accuracy.natural_magic_accuracy"
+    ],
+    [
+      "Boosts.Science Accuracy.Gamma Particle Irradiation (Accuracy)",
+      "boosts.science_accuracy.science_accuracy"
+    ],
+    [
+      "Boosts.Science Technology Accuracy.Bioluminescent Filter (Accuracy)",
+      "boosts.science_technology_accuracy.science_technology_accuracy"
+    ],
+    [
+      "Boosts.Superior Attuned Absolute Amazement C.Stun/Rech/Acc",
+      "boosts.superior_attuned_absolute_amazement_c.superior_attuned_absolute_amazement_c"
+    ],
+    [
+      "Boosts.Superior Attuned Absolute Amazement D.Rech/Acc",
+      "boosts.superior_attuned_absolute_amazement_d.superior_attuned_absolute_amazement_d"
+    ],
+    [
+      "Boosts.Superior Attuned Apocalypse C.Dam/Rech/Acc",
+      "boosts.superior_attuned_apocalypse_c.superior_attuned_apocalypse_c"
+    ],
+    [
+      "Boosts.Superior Attuned Apocalypse D.Rech/Acc",
+      "boosts.superior_attuned_apocalypse_d.superior_attuned_apocalypse_d"
+    ],
+    [
+      "Boosts.Superior Attuned Armageddon C.Dam/Rech/Acc",
+      "boosts.superior_attuned_armageddon_c.superior_attuned_armageddon_c"
+    ],
+    [
+      "Boosts.Superior Attuned Armageddon D.Rech/Acc",
+      "boosts.superior_attuned_armageddon_d.superior_attuned_armageddon_d"
+    ],
+    [
+      "Boosts.Superior Attuned Ascendency of the Dominator A.Acc/Control",
+      "boosts.superior_attuned_superior_ascendency_of_the_dominator_a.superior_attuned_superior_ascendency_of_the_dominator_a"
+    ],
+    [
+      "Boosts.Superior Attuned Ascendency of the Dominator D.Acc/Control/End",
+      "boosts.superior_attuned_superior_ascendency_of_the_dominator_d.superior_attuned_superior_ascendency_of_the_dominator_d"
+    ],
+    [
+      "Boosts.Superior Attuned Ascendency of the Dominator E.Acc/Control/End/Rech",
+      "boosts.superior_attuned_superior_ascendency_of_the_dominator_e.superior_attuned_superior_ascendency_of_the_dominator_e"
+    ],
+    [
+      "Boosts.Superior Attuned Assassins Mark A.Acc/Dam (Stalker)",
+      "boosts.superior_attuned_superior_assassins_mark_a.superior_attuned_superior_assassins_mark_a"
+    ],
+    [
+      "Boosts.Superior Attuned Assassins Mark C.Acc/Dam/Rech (Stalker)",
+      "boosts.superior_attuned_superior_assassins_mark_c.superior_attuned_superior_assassins_mark_c"
+    ],
+    [
+      "Boosts.Superior Attuned Assassins Mark E.Acc/Dam/End/Rech (Stalker)",
+      "boosts.superior_attuned_superior_assassins_mark_e.superior_attuned_superior_assassins_mark_e"
+    ],
+    [
+      "Boosts.Superior Attuned Avalanche A.Acc/Dam",
+      "boosts.superior_attuned_avalanche_a.superior_attuned_avalanche_a"
+    ],
+    [
+      "Boosts.Superior Attuned Avalanche C.Acc/Dam/Rech",
+      "boosts.superior_attuned_avalanche_c.superior_attuned_avalanche_c"
+    ],
+    [
+      "Boosts.Superior Attuned Avalanche D.Acc/Dam/End",
+      "boosts.superior_attuned_avalanche_d.superior_attuned_avalanche_d"
+    ],
+    [
+      "Boosts.Superior Attuned Avalanche E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_avalanche_e.superior_attuned_avalanche_e"
+    ],
+    [
+      "Boosts.Superior Attuned Blasters Wrath A.Acc/Dam",
+      "boosts.superior_attuned_superior_blasters_wrath_a.superior_attuned_superior_blasters_wrath_a"
+    ],
+    [
+      "Boosts.Superior Attuned Blasters Wrath C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_blasters_wrath_c.superior_attuned_superior_blasters_wrath_c"
+    ],
+    [
+      "Boosts.Superior Attuned Blasters Wrath D.Acc/Dam/End",
+      "boosts.superior_attuned_superior_blasters_wrath_d.superior_attuned_superior_blasters_wrath_d"
+    ],
+    [
+      "Boosts.Superior Attuned Blasters Wrath E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_blasters_wrath_e.superior_attuned_superior_blasters_wrath_e"
+    ],
+    [
+      "Boosts.Superior Attuned Blistering Cold A.Acc/Dam",
+      "boosts.superior_attuned_blistering_cold_a.superior_attuned_blistering_cold_a"
+    ],
+    [
+      "Boosts.Superior Attuned Blistering Cold C.Acc/Dam/Rech",
+      "boosts.superior_attuned_blistering_cold_c.superior_attuned_blistering_cold_c"
+    ],
+    [
+      "Boosts.Superior Attuned Blistering Cold D.Acc/Dam/End",
+      "boosts.superior_attuned_blistering_cold_d.superior_attuned_blistering_cold_d"
+    ],
+    [
+      "Boosts.Superior Attuned Blistering Cold E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_blistering_cold_e.superior_attuned_blistering_cold_e"
+    ],
+    [
+      "Boosts.Superior Attuned Brutes Fury A.Acc/Dam",
+      "boosts.superior_attuned_superior_brutes_fury_a.superior_attuned_superior_brutes_fury_a"
+    ],
+    [
+      "Boosts.Superior Attuned Brutes Fury C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_brutes_fury_c.superior_attuned_superior_brutes_fury_c"
+    ],
+    [
+      "Boosts.Superior Attuned Brutes Fury E.Brute's Fury: Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_brutes_fury_e.superior_attuned_superior_brutes_fury_e"
+    ],
+    [
+      "Boosts.Superior Attuned Coercive Persuasion C.Confuse/Rech/Acc",
+      "boosts.superior_attuned_coercive_persuasion_c.superior_attuned_coercive_persuasion_c"
+    ],
+    [
+      "Boosts.Superior Attuned Coercive Persuasion D.Rech/Acc",
+      "boosts.superior_attuned_coercive_persuasion_d.superior_attuned_coercive_persuasion_d"
+    ],
+    [
+      "Boosts.Superior Attuned Command of the Mastermind A.Acc/Dam",
+      "boosts.superior_attuned_superior_command_of_the_mastermind_a.superior_attuned_superior_command_of_the_mastermind_a"
+    ],
+    [
+      "Boosts.Superior Attuned Command of the Mastermind C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_command_of_the_mastermind_c.superior_attuned_superior_command_of_the_mastermind_c"
+    ],
+    [
+      "Boosts.Superior Attuned Command of the Mastermind E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_command_of_the_mastermind_e.superior_attuned_superior_command_of_the_mastermind_e"
+    ],
+    [
+      "Boosts.Superior Attuned Critical Strikes A.Acc/Dam (Scrapper)",
+      "boosts.superior_attuned_superior_critical_strikes_a.superior_attuned_superior_critical_strikes_a"
+    ],
+    [
+      "Boosts.Superior Attuned Critical Strikes C.Acc/Dam/Rech (Scrapper)",
+      "boosts.superior_attuned_superior_critical_strikes_c.superior_attuned_superior_critical_strikes_c"
+    ],
+    [
+      "Boosts.Superior Attuned Critical Strikes E.Acc/Dam/End/Rech (Scrapper)",
+      "boosts.superior_attuned_superior_critical_strikes_e.superior_attuned_superior_critical_strikes_e"
+    ],
+    [
+      "Boosts.Superior Attuned Defenders Bastion A.Acc/Dam",
+      "boosts.superior_attuned_superior_defenders_bastion_a.superior_attuned_superior_defenders_bastion_a"
+    ],
+    [
+      "Boosts.Superior Attuned Defenders Bastion D.Acc/Dam/End",
+      "boosts.superior_attuned_superior_defenders_bastion_d.superior_attuned_superior_defenders_bastion_d"
+    ],
+    [
+      "Boosts.Superior Attuned Defenders Bastion E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_defenders_bastion_e.superior_attuned_superior_defenders_bastion_e"
+    ],
+    [
+      "Boosts.Superior Attuned Defiant Barrage A.Acc/Dam (Blaster)",
+      "boosts.superior_attuned_superior_defiant_barrage_a.superior_attuned_superior_defiant_barrage_a"
+    ],
+    [
+      "Boosts.Superior Attuned Defiant Barrage C.Acc/Dam/Rech (Blaster)",
+      "boosts.superior_attuned_superior_defiant_barrage_c.superior_attuned_superior_defiant_barrage_c"
+    ],
+    [
+      "Boosts.Superior Attuned Defiant Barrage D.Acc/Dam/End (Blaster)",
+      "boosts.superior_attuned_superior_defiant_barrage_d.superior_attuned_superior_defiant_barrage_d"
+    ],
+    [
+      "Boosts.Superior Attuned Defiant Barrage E.Acc/Dam/End/Rech (Blaster)",
+      "boosts.superior_attuned_superior_defiant_barrage_e.superior_attuned_superior_defiant_barrage_e"
+    ],
+    [
+      "Boosts.Superior Attuned Dominating Grasp A.Acc/Control (Dominator)",
+      "boosts.superior_attuned_superior_dominating_grasp_a.superior_attuned_superior_dominating_grasp_a"
+    ],
+    [
+      "Boosts.Superior Attuned Dominating Grasp D.Acc/Control/End (Dominator)",
+      "boosts.superior_attuned_superior_dominating_grasp_d.superior_attuned_superior_dominating_grasp_d"
+    ],
+    [
+      "Boosts.Superior Attuned Dominating Grasp E.Acc/Control/End/Rech (Dominator)",
+      "boosts.superior_attuned_superior_dominating_grasp_e.superior_attuned_superior_dominating_grasp_e"
+    ],
+    [
+      "Boosts.Superior Attuned Dominion of Arachnos A.Acc/Dam",
+      "boosts.superior_attuned_superior_dominion_of_arachnos_a.superior_attuned_superior_dominion_of_arachnos_a"
+    ],
+    [
+      "Boosts.Superior Attuned Dominion of Arachnos C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_dominion_of_arachnos_c.superior_attuned_superior_dominion_of_arachnos_c"
+    ],
+    [
+      "Boosts.Superior Attuned Dominion of Arachnos E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_dominion_of_arachnos_e.superior_attuned_superior_dominion_of_arachnos_e"
+    ],
+    [
+      "Boosts.Superior Attuned Entomb A.Acc/Hold",
+      "boosts.superior_attuned_entomb_a.superior_attuned_entomb_a"
+    ],
+    [
+      "Boosts.Superior Attuned Entomb D.Acc/Hold/End",
+      "boosts.superior_attuned_entomb_d.superior_attuned_entomb_d"
+    ],
+    [
+      "Boosts.Superior Attuned Entomb E.Acc/Hold/End/Rech",
+      "boosts.superior_attuned_entomb_e.superior_attuned_entomb_e"
+    ],
+    [
+      "Boosts.Superior Attuned Essence Transfer A.Acc/Dam (Kheldian)",
+      "boosts.superior_attuned_superior_essence_transfer_a.superior_attuned_superior_essence_transfer_a"
+    ],
+    [
+      "Boosts.Superior Attuned Essence Transfer C.Acc/Dam/Rech (Kheldian)",
+      "boosts.superior_attuned_superior_essence_transfer_c.superior_attuned_superior_essence_transfer_c"
+    ],
+    [
+      "Boosts.Superior Attuned Essence Transfer E.Acc/Dam/End/Rech (Kheldian)",
+      "boosts.superior_attuned_superior_essence_transfer_e.superior_attuned_superior_essence_transfer_e"
+    ],
+    [
+      "Boosts.Superior Attuned Fortunata Hypnosis C.Sleep/Rech/Acc",
+      "boosts.superior_attuned_fortunata_hypnosis_c.superior_attuned_fortunata_hypnosis_c"
+    ],
+    [
+      "Boosts.Superior Attuned Fortunata Hypnosis D.Rech/Acc",
+      "boosts.superior_attuned_fortunata_hypnosis_d.superior_attuned_fortunata_hypnosis_d"
+    ],
+    [
+      "Boosts.Superior Attuned Frozen Blast A.Acc/Dam",
+      "boosts.superior_attuned_frozen_blast_a.superior_attuned_frozen_blast_a"
+    ],
+    [
+      "Boosts.Superior Attuned Frozen Blast C.Acc/Dam/Rech",
+      "boosts.superior_attuned_frozen_blast_c.superior_attuned_frozen_blast_c"
+    ],
+    [
+      "Boosts.Superior Attuned Frozen Blast D.Acc/Dam/End",
+      "boosts.superior_attuned_frozen_blast_d.superior_attuned_frozen_blast_d"
+    ],
+    [
+      "Boosts.Superior Attuned Frozen Blast E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_frozen_blast_e.superior_attuned_frozen_blast_e"
+    ],
+    [
+      "Boosts.Superior Attuned Gauntleted Fist A.Acc/Dam (Tanker)",
+      "boosts.superior_attuned_superior_gauntleted_fist_a.superior_attuned_superior_gauntleted_fist_a"
+    ],
+    [
+      "Boosts.Superior Attuned Gauntleted Fist C.Acc/Dam/Rech (Tanker)",
+      "boosts.superior_attuned_superior_gauntleted_fist_c.superior_attuned_superior_gauntleted_fist_c"
+    ],
+    [
+      "Boosts.Superior Attuned Gauntleted Fist E.Acc/Dam/End/Rech (Tanker)",
+      "boosts.superior_attuned_superior_gauntleted_fist_e.superior_attuned_superior_gauntleted_fist_e"
+    ],
+    [
+      "Boosts.Superior Attuned Gravitational Anchor C.Immobilize/Rech/Acc",
+      "boosts.superior_attuned_gravitational_anchor_c.superior_attuned_gravitational_anchor_c"
+    ],
+    [
+      "Boosts.Superior Attuned Gravitational Anchor D.Rech/Acc",
+      "boosts.superior_attuned_gravitational_anchor_d.superior_attuned_gravitational_anchor_d"
+    ],
+    [
+      "Boosts.Superior Attuned Hecatomb C.Dam/Rech/Acc",
+      "boosts.superior_attuned_hecatomb_c.superior_attuned_hecatomb_c"
+    ],
+    [
+      "Boosts.Superior Attuned Hecatomb D.Rech/Acc",
+      "boosts.superior_attuned_hecatomb_d.superior_attuned_hecatomb_d"
+    ],
+    [
+      "Boosts.Superior Attuned Kheldians Grace A.Acc/Dam",
+      "boosts.superior_attuned_superior_kheldians_grace_a.superior_attuned_superior_kheldians_grace_a"
+    ],
+    [
+      "Boosts.Superior Attuned Kheldians Grace C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_kheldians_grace_c.superior_attuned_superior_kheldians_grace_c"
+    ],
+    [
+      "Boosts.Superior Attuned Kheldians Grace E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_kheldians_grace_e.superior_attuned_superior_kheldians_grace_e"
+    ],
+    [
+      "Boosts.Superior Attuned Malice of the Corruptor A.Acc/Dam",
+      "boosts.superior_attuned_superior_malice_of_the_corruptor_a.superior_attuned_superior_malice_of_the_corruptor_a"
+    ],
+    [
+      "Boosts.Superior Attuned Malice of the Corruptor C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_malice_of_the_corruptor_c.superior_attuned_superior_malice_of_the_corruptor_c"
+    ],
+    [
+      "Boosts.Superior Attuned Malice of the Corruptor E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_malice_of_the_corruptor_e.superior_attuned_superior_malice_of_the_corruptor_e"
+    ],
+    [
+      "Boosts.Superior Attuned Mark of Supremacy C.Acc/Dam (Mastermind)",
+      "boosts.superior_attuned_superior_mark_of_supremacy_c.superior_attuned_superior_mark_of_supremacy_c"
+    ],
+    [
+      "Boosts.Superior Attuned Mark of Supremacy D.Acc/End (Mastermind)",
+      "boosts.superior_attuned_superior_mark_of_supremacy_d.superior_attuned_superior_mark_of_supremacy_d"
+    ],
+    [
+      "Boosts.Superior Attuned Mark of Supremacy E.Acc/Dam/End (Mastermind)",
+      "boosts.superior_attuned_superior_mark_of_supremacy_e.superior_attuned_superior_mark_of_supremacy_e"
+    ],
+    [
+      "Boosts.Superior Attuned Might of the Tanker A.Acc/Dam",
+      "boosts.superior_attuned_superior_might_of_the_tanker_a.superior_attuned_superior_might_of_the_tanker_a"
+    ],
+    [
+      "Boosts.Superior Attuned Might of the Tanker C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_might_of_the_tanker_c.superior_attuned_superior_might_of_the_tanker_c"
+    ],
+    [
+      "Boosts.Superior Attuned Might of the Tanker E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_might_of_the_tanker_e.superior_attuned_superior_might_of_the_tanker_e"
+    ],
+    [
+      "Boosts.Superior Attuned Opportunity Strikes A.Acc/Dam (Sentinel)",
+      "boosts.superior_attuned_superior_opportunity_strikes_a.superior_attuned_superior_opportunity_strikes_a"
+    ],
+    [
+      "Boosts.Superior Attuned Opportunity Strikes C.Acc/Dam/Rech (Sentinel)",
+      "boosts.superior_attuned_superior_opportunity_strikes_c.superior_attuned_superior_opportunity_strikes_c"
+    ],
+    [
+      "Boosts.Superior Attuned Opportunity Strikes D.Acc/Dam/End (Sentinel)",
+      "boosts.superior_attuned_superior_opportunity_strikes_d.superior_attuned_superior_opportunity_strikes_d"
+    ],
+    [
+      "Boosts.Superior Attuned Opportunity Strikes E.Acc/Dam/End/Rech (Sentinel)",
+      "boosts.superior_attuned_superior_opportunity_strikes_e.superior_attuned_superior_opportunity_strikes_e"
+    ],
+    [
+      "Boosts.Superior Attuned Overpowering Presence A.Acc/Control (Controller)",
+      "boosts.superior_attuned_superior_overpowering_presence_a.superior_attuned_superior_overpowering_presence_a"
+    ],
+    [
+      "Boosts.Superior Attuned Overpowering Presence D.Acc/Control/End (Controller)",
+      "boosts.superior_attuned_superior_overpowering_presence_d.superior_attuned_superior_overpowering_presence_d"
+    ],
+    [
+      "Boosts.Superior Attuned Overpowering Presence E.Acc/Control/End/Rech (Controller)",
+      "boosts.superior_attuned_superior_overpowering_presence_e.superior_attuned_superior_overpowering_presence_e"
+    ],
+    [
+      "Boosts.Superior Attuned Ragnarok C.Dam/Rech/Acc",
+      "boosts.superior_attuned_ragnarok_c.superior_attuned_ragnarok_c"
+    ],
+    [
+      "Boosts.Superior Attuned Ragnarok D.Rech/Acc",
+      "boosts.superior_attuned_ragnarok_d.superior_attuned_ragnarok_d"
+    ],
+    [
+      "Boosts.Superior Attuned Scourging Blast A.Acc/Dam (Corruptor)",
+      "boosts.superior_attuned_superior_scourging_blast_a.superior_attuned_superior_scourging_blast_a"
+    ],
+    [
+      "Boosts.Superior Attuned Scourging Blast C.Acc/Dam/Rech (Corruptor)",
+      "boosts.superior_attuned_superior_scourging_blast_c.superior_attuned_superior_scourging_blast_c"
+    ],
+    [
+      "Boosts.Superior Attuned Scourging Blast E.Acc/Dam/End/Rech (Corruptor)",
+      "boosts.superior_attuned_superior_scourging_blast_e.superior_attuned_superior_scourging_blast_e"
+    ],
+    [
+      "Boosts.Superior Attuned Scrappers Strike A.Acc/Dam",
+      "boosts.superior_attuned_superior_scrappers_strike_a.superior_attuned_superior_scrappers_strike_a"
+    ],
+    [
+      "Boosts.Superior Attuned Scrappers Strike C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_scrappers_strike_c.superior_attuned_superior_scrappers_strike_c"
+    ],
+    [
+      "Boosts.Superior Attuned Scrappers Strike E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_scrappers_strike_e.superior_attuned_superior_scrappers_strike_e"
+    ],
+    [
+      "Boosts.Superior Attuned Sentinels Ward A.Acc/Dam",
+      "boosts.superior_attuned_superior_sentinels_ward_a.superior_attuned_superior_sentinels_ward_a"
+    ],
+    [
+      "Boosts.Superior Attuned Sentinels Ward C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_sentinels_ward_c.superior_attuned_superior_sentinels_ward_c"
+    ],
+    [
+      "Boosts.Superior Attuned Sentinels Ward D.Acc/Dam/End",
+      "boosts.superior_attuned_superior_sentinels_ward_d.superior_attuned_superior_sentinels_ward_d"
+    ],
+    [
+      "Boosts.Superior Attuned Sentinels Ward E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_sentinels_ward_e.superior_attuned_superior_sentinels_ward_e"
+    ],
+    [
+      "Boosts.Superior Attuned Soulbound Allegiance C.Dam/Rech/Acc",
+      "boosts.superior_attuned_soulbound_allegiance_c.superior_attuned_soulbound_allegiance_c"
+    ],
+    [
+      "Boosts.Superior Attuned Soulbound Allegiance D.Rech/Acc",
+      "boosts.superior_attuned_soulbound_allegiance_d.superior_attuned_soulbound_allegiance_d"
+    ],
+    [
+      "Boosts.Superior Attuned Spiders Bite A.Acc/Dam (Soldier of Arachnos)",
+      "boosts.superior_attuned_superior_spiders_bite_a.superior_attuned_superior_spiders_bite_a"
+    ],
+    [
+      "Boosts.Superior Attuned Spiders Bite C.Acc/Dam/Rech (Soldier of Arachnos)",
+      "boosts.superior_attuned_superior_spiders_bite_c.superior_attuned_superior_spiders_bite_c"
+    ],
+    [
+      "Boosts.Superior Attuned Spiders Bite E.Acc/Dam/End/Rech (Soldier of Arachnos)",
+      "boosts.superior_attuned_superior_spiders_bite_e.superior_attuned_superior_spiders_bite_e"
+    ],
+    [
+      "Boosts.Superior Attuned Stalkers Guile A.Acc/Dam",
+      "boosts.superior_attuned_superior_stalkers_guile_a.superior_attuned_superior_stalkers_guile_a"
+    ],
+    [
+      "Boosts.Superior Attuned Stalkers Guile C.Acc/Dam/Rech",
+      "boosts.superior_attuned_superior_stalkers_guile_c.superior_attuned_superior_stalkers_guile_c"
+    ],
+    [
+      "Boosts.Superior Attuned Stalkers Guile E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_superior_stalkers_guile_e.superior_attuned_superior_stalkers_guile_e"
+    ],
+    [
+      "Boosts.Superior Attuned Unbreakable Constraint C.Hold/Rech/Acc",
+      "boosts.superior_attuned_unbreakable_constraint_c.superior_attuned_unbreakable_constraint_c"
+    ],
+    [
+      "Boosts.Superior Attuned Unbreakable Constraint D.Rech/Acc",
+      "boosts.superior_attuned_unbreakable_constraint_d.superior_attuned_unbreakable_constraint_d"
+    ],
+    [
+      "Boosts.Superior Attuned Unrelenting Fury A.Acc/Dam (Brute)",
+      "boosts.superior_attuned_superior_unrelenting_fury_a.superior_attuned_superior_unrelenting_fury_a"
+    ],
+    [
+      "Boosts.Superior Attuned Unrelenting Fury C.Acc/Dam/Rech (Brute)",
+      "boosts.superior_attuned_superior_unrelenting_fury_c.superior_attuned_superior_unrelenting_fury_c"
+    ],
+    [
+      "Boosts.Superior Attuned Unrelenting Fury E.Unrelenting Fury: Acc/Dam/End/Rech (Brute)",
+      "boosts.superior_attuned_superior_unrelenting_fury_e.superior_attuned_superior_unrelenting_fury_e"
+    ],
+    [
+      "Boosts.Superior Attuned Vigilant Assault A.Acc/Dam (Defender)",
+      "boosts.superior_attuned_superior_vigilant_assault_a.superior_attuned_superior_vigilant_assault_a"
+    ],
+    [
+      "Boosts.Superior Attuned Vigilant Assault D.Acc/Dam/End (Defender)",
+      "boosts.superior_attuned_superior_vigilant_assault_d.superior_attuned_superior_vigilant_assault_d"
+    ],
+    [
+      "Boosts.Superior Attuned Vigilant Assault E.Acc/Dam/End/Rech (Defender)",
+      "boosts.superior_attuned_superior_vigilant_assault_e.superior_attuned_superior_vigilant_assault_e"
+    ],
+    [
+      "Boosts.Superior Attuned Will of the Controller A.Acc/Control",
+      "boosts.superior_attuned_superior_will_of_the_controller_a.superior_attuned_superior_will_of_the_controller_a"
+    ],
+    [
+      "Boosts.Superior Attuned Will of the Controller D.Acc/Control/End",
+      "boosts.superior_attuned_superior_will_of_the_controller_d.superior_attuned_superior_will_of_the_controller_d"
+    ],
+    [
+      "Boosts.Superior Attuned Will of the Controller E.Acc/Control/End/Rech",
+      "boosts.superior_attuned_superior_will_of_the_controller_e.superior_attuned_superior_will_of_the_controller_e"
+    ],
+    [
+      "Boosts.Superior Attuned Winters Bite A.Acc/Dam",
+      "boosts.superior_attuned_winters_bite_a.superior_attuned_winters_bite_a"
+    ],
+    [
+      "Boosts.Superior Attuned Winters Bite C.Acc/Dam/Rech",
+      "boosts.superior_attuned_winters_bite_c.superior_attuned_winters_bite_c"
+    ],
+    [
+      "Boosts.Superior Attuned Winters Bite D.Acc/Dam/End",
+      "boosts.superior_attuned_winters_bite_d.superior_attuned_winters_bite_d"
+    ],
+    [
+      "Boosts.Superior Attuned Winters Bite E.Acc/Dam/End/Rech",
+      "boosts.superior_attuned_winters_bite_e.superior_attuned_winters_bite_e"
+    ],
+    [
+      "Boosts.Synthetic Hamidon Accuracy Mez.Synthetic Endoplasm Exposure (Acc/Mez)",
+      "boosts.synthetic_hamidon_accuracy_mez.synthetic_hamidon_accuracy_mez"
+    ],
+    [
+      "Boosts.Synthetic Hamidon Damage Accuracy.Synthetic Nucleolus Exposure (Acc/Dam)",
+      "boosts.synthetic_hamidon_damage_accuracy.synthetic_hamidon_damage_accuracy"
+    ],
+    [
+      "Boosts.Synthetic Hamidon DeBuff Accuracy.Synthetic Lysosome Exposure (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.synthetic_hamidon_debuff_accuracy.synthetic_hamidon_debuff_accuracy"
+    ],
+    [
+      "Boosts.Technology Accuracy.Benedict Tech Adv. Targeting Eye (Accuracy)",
+      "boosts.technology_accuracy.technology_accuracy"
+    ],
+    [
+      "Boosts.Technology Natural Accuracy.Illumination Grenade (Accuracy)",
+      "boosts.technology_natural_accuracy.technology_natural_accuracy"
+    ],
+    [
+      "Boosts.Titan Accuracy Mez.Titan Calcite Shard (Acc/Mez)",
+      "boosts.titan_accuracy_mez.titan_accuracy_mez"
+    ],
+    [
+      "Boosts.Titan Damage Accuracy.Titan Diamond Shard (Acc/Dam)",
+      "boosts.titan_damage_accuracy.titan_damage_accuracy"
+    ],
+    [
+      "Boosts.Titan DeBuff Accuracy.Titan Gypsum Shard (Acc/Def Debuff/ToHit Debuff)",
+      "boosts.titan_debuff_accuracy.titan_debuff_accuracy"
+    ],
+    [
+      "Boosts.Yins Magic Accuracy.Talisman of the Owl's Eye (Accuracy)",
+      "boosts.yins_magic_accuracy.yins_magic_accuracy"
+    ],
+    [
+      "Boosts.Yins Omni.OmniHack",
+      "boosts.yins_omni.yins_omni"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Common",
+      "incarnate.alpha_silent.accuracy_common"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Half",
+      "incarnate.alpha_silent.accuracy_half"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Plus",
+      "incarnate.alpha_silent.accuracy_plus"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Plus Very Rare",
+      "incarnate.alpha_silent.accuracy_plus_very_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Rare",
+      "incarnate.alpha_silent.accuracy_rare"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Uncommon",
+      "incarnate.alpha_silent.accuracy_uncommon"
+    ],
+    [
+      "Incarnate.Alpha Silent.Accuracy Very Rare",
+      "incarnate.alpha_silent.accuracy_very_rare"
+    ]
+  ],
+  "affects": []
+}

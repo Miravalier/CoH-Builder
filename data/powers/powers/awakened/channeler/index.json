@@ -1,0 +1,34 @@
+{
+  "name": "Channeler",
+  "display_name": "Channeler",
+  "display_fullname": "Awakened.Channeler",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/CHANNELER.POWERSETS",
+  "icon": "channeler_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Channeler.Psionic_Lash",
+    "Awakened.Channeler.Psionic_Thrash",
+    "Awakened.Channeler.Telekinetic_Lift",
+    "Awakened.Channeler.Psionic_Wounds"
+  ],
+  "power_display_names": [
+    "Psionic Lash",
+    "Psionic Thrash",
+    "Telekinetic Lift",
+    "Psionic Wounds"
+  ],
+  "power_short_helps": [
+    "Melee (Long), Minor DMG (Psionic), Minor DoT (Fire), -Rech (Foe), Chance for Knockdown (Foe)",
+    "Melee (Long Cone), Moderate DMG (Psionic), Minor DoT (Fire), -Speed (Foe, All), Chance for Knockback (Foe)",
+    "Ranged, Moderate DMG (Psionic/Smashing), Knockup(Foe)",
+    "Ranged, High DMG (Psionic/Lethal), DoT (Psionic)"
+  ]
+}

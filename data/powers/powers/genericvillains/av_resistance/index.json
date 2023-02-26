@@ -1,0 +1,22 @@
+{
+  "name": "AV_Resistance",
+  "display_name": "AV Resistance",
+  "display_fullname": "GenericVillains.AV Resistance",
+  "display_help": "Arch-Villain Innate",
+  "display_short_help": "Arch-Villain Innate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/AV_RESISTANCE.POWERSETS",
+  "icon": "av_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.AV_Resistance.AV_Resistance"
+  ],
+  "power_display_names": [
+    "Archvillain's Might"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

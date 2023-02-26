@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Thrust_D",
+  "display_name": "Attuned Thrust D",
+  "display_fullname": "Boosts.Attuned Thrust D",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Increases run speed by {Boost.Attrib.Movement.Scale}%. Grants a small amount of run speed that will not suppress in combat and can be enhanced.",
+  "display_short_help": "Set: Thrust",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_THRUST_D.POWERSETS",
+  "icon": "e_icon_thrust.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Thrust_D.Attuned_Thrust_D"
+  ],
+  "power_display_names": [
+    "Thrust: Running Speed/Increased Run Speed"
+  ],
+  "power_short_helps": [
+    "+Run Speed, +Special"
+  ]
+}

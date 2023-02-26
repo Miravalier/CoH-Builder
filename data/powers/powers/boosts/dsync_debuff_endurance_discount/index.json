@@ -1,0 +1,22 @@
+{
+  "name": "DSync_DeBuff_Endurance_Discount",
+  "display_name": "D-Sync DeBuff Endurance Discount",
+  "display_fullname": "Boosts.DSync DeBuff Endurance Discount",
+  "display_help": "Enhances the effectiveness of accuracy and defense debuffs and reduces the endurance cost of a power.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_DEBUFF_ENDURANCE_DISCOUNT.POWERSETS",
+  "icon": "hamidon_debuff_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_DeBuff_Endurance_Discount.DSync_DeBuff_Endurance_Discount"
+  ],
+  "power_display_names": [
+    "D-Sync Marginalization (End/Def Debuff/ToHit Debuff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense DeBuffs and Reduces Endurance Cost"
+  ]
+}

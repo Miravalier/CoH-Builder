@@ -1,0 +1,22 @@
+{
+  "name": "Psionic_Typhoon",
+  "display_name": "Psionic_Typhoon",
+  "display_fullname": "MindsOfMayhem.Psionic Typhoon",
+  "display_help": "Psionic Typhoon",
+  "display_short_help": "Psionic Typhoon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/PSIONIC_TYPHOON.POWERSETS",
+  "icon": "psionic_typhoon_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Psionic_Typhoon.Psionic_Typhoon"
+  ],
+  "power_display_names": [
+    "Psionic Typhoon"
+  ],
+  "power_short_helps": [
+    "Psionic Typhoon"
+  ]
+}

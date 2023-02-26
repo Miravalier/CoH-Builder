@@ -1,0 +1,26 @@
+{
+  "name": "GoldBricker_Melee_High",
+  "display_name": "GoldBricker Melee High",
+  "display_fullname": "V GoldBrickers.GoldBricker Melee High",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    34,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/GOLDBRICKER_MELEE_HIGH.POWERSETS",
+  "icon": "goldbricker_melee_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.GoldBricker_Melee_High.Gold_Skin",
+    "V_GoldBrickers.GoldBricker_Melee_High.Rifle_Butt"
+  ],
+  "power_display_names": [
+    "Gold Skin",
+    "Rifle Butt"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Melee Smash"
+  ]
+}

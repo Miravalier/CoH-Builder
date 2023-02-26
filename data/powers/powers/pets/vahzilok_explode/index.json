@@ -1,0 +1,22 @@
+{
+  "name": "Vahzilok_Explode",
+  "display_name": "Vahzilok Explosion",
+  "display_fullname": "Pets.Vahzilok Explosion",
+  "display_help": "Vahzilok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/VAHZILOK_EXPLODE.POWERSETS",
+  "icon": "vahzilok_explode_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Vahzilok_Explode.Explode"
+  ],
+  "power_display_names": [
+    "Explode"
+  ],
+  "power_short_helps": [
+    "Explode"
+  ]
+}

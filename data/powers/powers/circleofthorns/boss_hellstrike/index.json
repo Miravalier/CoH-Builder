@@ -1,0 +1,42 @@
+{
+  "name": "Boss_Hellstrike",
+  "display_name": "Boss Hellstrike",
+  "display_fullname": "CircleOfThorns.Boss Hellstrike",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/BOSS_HELLSTRIKE.POWERSETS",
+  "icon": "boss_hellstrike_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.Boss_Hellstrike.Frost_Sword",
+    "CircleOfThorns.Boss_Hellstrike.Ice_Storm",
+    "CircleOfThorns.Boss_Hellstrike.Glacier",
+    "CircleOfThorns.Boss_Hellstrike.Frost_Breath",
+    "CircleOfThorns.Boss_Hellstrike.Bitter_Ice_Blast",
+    "CircleOfThorns.Boss_Hellstrike.Frozen_Armor"
+  ],
+  "power_display_names": [
+    "Frost Sword",
+    "Ice Storm",
+    "Glacier",
+    "Frost Breath",
+    "Bitter Ice Blast",
+    "Frozen Armor"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal/Cold)",
+    "Ranged (Location AoE), Minor DoT(Cold), Foe -Recharge, -SPD",
+    "PBAoE, Foe Hold, -Recharge, -SPD",
+    "DoT(Cold), -Recharge, -SPD",
+    "Ranged, Superior DMG(Cold/Smash), Foe -Recharge, -SPD, -ACC",
+    "Self, +Def(Smash, Lethal), +Res(Cold)"
+  ]
+}

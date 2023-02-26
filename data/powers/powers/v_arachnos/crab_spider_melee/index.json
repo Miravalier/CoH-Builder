@@ -1,0 +1,22 @@
+{
+  "name": "Crab_Spider_Melee",
+  "display_name": "Crab_Spider_Melee",
+  "display_fullname": "V Arachnos.Crab Spider Melee",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/CRAB_SPIDER_MELEE.POWERSETS",
+  "icon": "crab_spider_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Crab_Spider_Melee.Slice"
+  ],
+  "power_display_names": [
+    "Slice"
+  ],
+  "power_short_helps": [
+    "Melee, Heavy DMG(Lethal), Foe -DEF"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Unleashed_Healer",
+  "display_name": "Unleashed Healer",
+  "display_fullname": "V ParagonPolice.Unleashed Healer",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/UNLEASHED_HEALER.POWERSETS",
+  "icon": "unleashed_healer_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Unleashed_Healer.Restore_Essence",
+    "V_ParagonPolice.Unleashed_Healer.Proton_Scatter",
+    "V_ParagonPolice.Unleashed_Healer.Incandescent_Strike",
+    "V_ParagonPolice.Unleashed_Healer.Essence_Boost",
+    "V_ParagonPolice.Unleashed_Healer.Glowing_Touch",
+    "V_ParagonPolice.Unleashed_Healer.Shining_Shield"
+  ],
+  "power_display_names": [
+    "Restore Essence",
+    "Proton Scatter",
+    "Incandescent Strike",
+    "Essence Boost",
+    "Glowing Touch",
+    "Shining Shield"
+  ],
+  "power_short_helps": [
+    "Self Rez",
+    "-DEF",
+    "Hold, -DEF, -Fly",
+    "Self Heal, +Max HP, Res (Toxic)",
+    "Ally Heal",
+    "Toggle: Self +Res(Smash, Lethal)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Malaise_NightWard_Good",
+  "display_name": "Malaise_NightWard_Good",
+  "display_fullname": "MindsOfMayhem.Malaise NightWard Good",
+  "display_help": "Malaise",
+  "display_short_help": "Malaise",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/MALAISE_NIGHTWARD_GOOD.POWERSETS",
+  "icon": "malaise_nightward_good_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Malaise_NightWard_Good.Damage_Resistance"
+  ],
+  "power_display_names": [
+    "Damage Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

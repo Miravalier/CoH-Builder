@@ -1,0 +1,26 @@
+{
+  "name": "Minion",
+  "display_name": "Minion",
+  "display_fullname": "V Batzul.Minion",
+  "display_help": "Bat'Zul",
+  "display_short_help": "Bat'Zul",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_BATZUL/MINION.POWERSETS",
+  "icon": "minion_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Batzul.Minion.Vicious_Bite",
+    "V_Batzul.Minion.Fire_Spit"
+  ],
+  "power_display_names": [
+    "Vicious Bite",
+    "Fire Spit"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal)",
+    "DoT(Fire)"
+  ]
+}

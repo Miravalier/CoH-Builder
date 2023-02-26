@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Bile_Melee",
+  "display_name": "Freakshow_Bile_Melee",
+  "display_fullname": "Freakshow.Freakshow Bile Melee",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_BILE_MELEE.POWERSETS",
+  "icon": "freakshow_bile_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Bile_Melee.Cybernetic_Blade"
+  ],
+  "power_display_names": [
+    "Cybernetic Blade"
+  ],
+  "power_short_helps": [
+    "Melee Lethal"
+  ]
+}

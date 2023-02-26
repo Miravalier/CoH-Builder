@@ -1,0 +1,34 @@
+{
+  "name": "Tornado",
+  "display_name": "Tornado",
+  "display_fullname": "Pets.Tornado",
+  "display_help": "Storm Summoning",
+  "display_short_help": "Storm Summoning",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/TORNADO.POWERSETS",
+  "icon": "tornado_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Tornado.Tornado",
+    "Pets.Tornado.Tornado_Attack",
+    "Pets.Tornado.Tornado_Fear",
+    "Pets.Tornado.Invisible"
+  ],
+  "power_display_names": [
+    "Tornado",
+    "Tornado",
+    "Tornado Fear",
+    "Invisible"
+  ],
+  "power_short_helps": [
+    "Knockback, Disorient",
+    "Knockback, Disorient",
+    "Tornado Fear",
+    "Tornado"
+  ]
+}

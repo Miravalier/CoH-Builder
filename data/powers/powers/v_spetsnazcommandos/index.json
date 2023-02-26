@@ -1,0 +1,19 @@
+{
+  "name": "V_SpetsnazCommandos",
+  "display_name": "SpetsnazCommandos",
+  "source_file": "DEFS/POWERS/V_SPETSNAZCOMMANDOS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_spetsnazcommandos.boss",
+    "v_spetsnazcommandos.lt",
+    "v_spetsnazcommandos.minion"
+  ],
+  "powerset_display_names": [
+    "Boss",
+    "Lt",
+    "Minion"
+  ],
+  "powersets_with_requirements": []
+}

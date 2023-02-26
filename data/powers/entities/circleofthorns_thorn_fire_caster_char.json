@@ -1,0 +1,102 @@
+{
+  "name": "CircleOfThorns_Thorn_Fire_Caster_Char",
+  "gender": "GENDER_MALE",
+  "group_name": "CircleOfThorns",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "CircleOfThorns_Thorn_Caster",
+    "character_class_name": "minion_grunt",
+    "description": "Weaving magical effects from fire can be dangerous for the novice mage, but Fire Casters have perfected the art. They can conjure up fires to immolate or distract their enemies, and some can even draw on their foes' body heat to restore their own power.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "CircleOfThorns.Cirle_Thorn_Caster_Fire_Melee.Fire_Sword",
+      "CircleOfThorns.Cirle_Thorn_Caster_Fire_Ranged.Flares",
+      "CircleOfThorns.Cirle_Thorn_Caster_Fire_Ranged.Fire_Ball",
+      "CircleOfThorns.Cirle_Thorn_Caster_Fire_Char.Char",
+      "CircleOfThorns.Circle_Thorn_Caster_Fire_Defense.Consume"
+    ],
+    "power_display_names": [
+      "Fire Sword",
+      "Flares",
+      "Fire Ball",
+      "Char",
+      "Consume"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Cirle_Thorn_Caster_Fire_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Cirle_Thorn_Caster_Fire_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Cirle_Thorn_Caster_Fire_Char",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Thorn_Caster_Fire_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Fire Thorn Caster"
+      ],
+      "costumes": [
+        "CoT_FireCaster_01",
+        "CoT_FireCaster_02",
+        "CoT_FireCaster_03"
+      ]
+    }
+  ]
+}

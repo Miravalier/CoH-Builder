@@ -1,0 +1,38 @@
+{
+  "name": "Valkyrie_High",
+  "display_name": "Valkyrie_High",
+  "display_fullname": "V Vindicators.Valkyrie High",
+  "display_help": "Vindicators",
+  "display_short_help": "Vindicators",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_VINDICATORS/VALKYRIE_HIGH.POWERSETS",
+  "icon": "valkyrie_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Vindicators.Valkyrie_High.Flying_Swords",
+    "V_Vindicators.Valkyrie_High.Whirling_Sword",
+    "V_Vindicators.Valkyrie_High.Disembowel",
+    "V_Vindicators.Valkyrie_High.Head_Splitter",
+    "V_Vindicators.Valkyrie_High.Rise_of_the_Valkyrie"
+  ],
+  "power_display_names": [
+    "Flying Swords",
+    "Whirling Sword",
+    "Disembowel",
+    "Head Splitter",
+    "Rise of the Valkyrie"
+  ],
+  "power_short_helps": [
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "-DEF",
+    "Self Rez"
+  ]
+}

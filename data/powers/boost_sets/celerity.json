@@ -1,0 +1,269 @@
+{
+  "name": "Celerity",
+  "display_name": "Celerity",
+  "group_name": "Running & Sprints",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Running"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Celerity_A.Crafted_Celerity_A",
+      "Boosts.Attuned_Celerity_A.Attuned_Celerity_A"
+    ],
+    [
+      "Boosts.Crafted_Celerity_B.Crafted_Celerity_B",
+      "Boosts.Attuned_Celerity_B.Attuned_Celerity_B"
+    ],
+    [
+      "Boosts.Crafted_Celerity_C.Crafted_Celerity_C",
+      "Boosts.Attuned_Celerity_C.Attuned_Celerity_C"
+    ]
+  ],
+  "min_level": 15,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 3,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Running Speed",
+      "Enhance Running Speed",
+      "Enhance Running Speed",
+      "Enhance Running Speed",
+      "Enhance Running Speed",
+      "Enhance Running Speed"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_celerity.png",
+      "e_icon_celerity.png",
+      "e_icon_celerity.png",
+      "e_icon_celerity.png",
+      "e_icon_celerity.png",
+      "e_icon_celerity.png"
+    ],
+    "boosts": [
+      [
+        "Celerity: Endurance",
+        "Attuned Celerity: Endurance"
+      ],
+      [
+        "Celerity: RunningSpeed",
+        "Attuned Celerity: RunningSpeed"
+      ],
+      [
+        "Celerity: Proc",
+        "Attuned Celerity: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_celerity_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_celerity_a.attuned_celerity_a",
+          "Celerity: Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Celerity: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "celerity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Running Speed",
+        "icon": "e_icon_celerity.png"
+      },
+      "attuned_celerity_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Celerity: Endurance",
+        "aspects": [
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "celerity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Running Speed",
+        "icon": "e_icon_celerity.png"
+      },
+      "crafted_celerity_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_celerity_b.attuned_celerity_b",
+          "Celerity: Run"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Celerity: RunningSpeed",
+        "aspects": [
+          "RunningSpeed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "celerity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Running Speed",
+        "icon": "e_icon_celerity.png"
+      },
+      "attuned_celerity_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Celerity: RunningSpeed",
+        "aspects": [
+          "RunningSpeed"
+        ],
+        "superior_scales": false,
+        "boostset_name": "celerity",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Running Speed",
+        "icon": "e_icon_celerity.png"
+      },
+      "crafted_celerity_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_celerity_c.attuned_celerity_c",
+          "Celerity: Stealth"
+        ],
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Celerity: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "celerity",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Running Speed",
+        "icon": "e_icon_celerity.png"
+      },
+      "attuned_celerity_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 11,
+        "min_bonus_level": 8,
+        "computed_name": "Attuned Celerity: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "celerity",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Running Speed",
+        "icon": "e_icon_celerity.png"
+      }
+    }
+  }
+}

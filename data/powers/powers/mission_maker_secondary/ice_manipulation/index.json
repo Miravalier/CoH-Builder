@@ -1,0 +1,54 @@
+{
+  "name": "Ice_Manipulation",
+  "display_name": "Ice Manipulation",
+  "display_fullname": "Mission Maker Secondary.Ice Manipulation",
+  "display_help": "Ice Manipulation lets you surround yourself with various manifestations of ice and cold, assaulting and freezing nearby foes. Ice Manipulation powers are known to Slow opponents.",
+  "display_short_help": "Ice Manipulation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/ICE_MANIPULATION.POWERSETS",
+  "icon": "ice_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Ice_Manipulation.Chilblain",
+    "Mission_Maker_Secondary.Ice_Manipulation.Frozen_Fists",
+    "Mission_Maker_Secondary.Ice_Manipulation.Ice_Sword",
+    "Mission_Maker_Secondary.Ice_Manipulation.Chilling_Embrace",
+    "Mission_Maker_Secondary.Ice_Manipulation.Build_Up",
+    "Mission_Maker_Secondary.Ice_Manipulation.Ice_Patch",
+    "Mission_Maker_Secondary.Ice_Manipulation.Shiver",
+    "Mission_Maker_Secondary.Ice_Manipulation.Freezing_Touch",
+    "Mission_Maker_Secondary.Ice_Manipulation.Frozen_Aura"
+  ],
+  "power_display_names": [
+    "Chilblain",
+    "Frozen Fists",
+    "Ice Sword",
+    "Frigid Protection",
+    "Build Up",
+    "Ice Patch",
+    "Shiver",
+    "Freezing Touch",
+    "Frozen Aura"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Cold), Foe Immobilize, -SPD, -Recharge",
+    "Melee, Moderate DMG(Cold/Smash), Foe -Recharge, -SPD",
+    "Melee, Moderate DMG(Cold/Lethal), Foe -Recharge, -SPD",
+    "Toggle: PBAoE, Foe -Recharge, -Speed, -DMG",
+    "Self +DMG, +To-hit",
+    "Location (PBAoE), Foe Knockdown",
+    "Ranged (Cone), Foe -SPD, -Recharge",
+    "Melee, Minor DMG(Cold), Foe Hold",
+    "PBAoE Melee, Moderate DMG(Smashing), Foe Sleep"
+  ]
+}

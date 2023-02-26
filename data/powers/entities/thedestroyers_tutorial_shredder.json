@@ -1,0 +1,85 @@
+{
+  "name": "TheDestroyers_Tutorial_Shredder",
+  "gender": "GENDER_FEMALE",
+  "group_name": "TheDestroyers_Tutorial",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 1,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Default_Melee",
+    "character_class_name": "lt_grunt",
+    "description": "Shredders are treated no different than their brothers and must survive The Gauntlet, an initiation ritual designed to weed out the weak. Once initiated they are expected to fight for the cause. Thanks to the incredible strength afforded them by Fixodine, a pair of fairly ordinary fighting claws in the hands of a Shredder will turn them into a human chainsaw.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Destroyers.Shredder.Swipe",
+      "Destroyers.Shredder.Swipe2",
+      "Destroyers.Shredder.Lunge",
+      "Destroyers.Shredder.Throw"
+    ],
+    "power_display_names": [
+      "Swipe",
+      "Swipe",
+      "Lunge",
+      "Throw"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Destroyers",
+        "power_set": "Shredder",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 1,
+      "experience": 0,
+      "display_names": [
+        "Shredder"
+      ],
+      "costumes": [
+        "Destroyer_Lt_Female_01",
+        "Destroyer_Lt_Female_02",
+        "Destroyer_Lt_Female_03",
+        "Destroyer_Lt_Female_04",
+        "Destroyer_Lt_Female_05",
+        "Destroyer_Lt_Female_06",
+        "Destroyer_Lt_Female_07"
+      ]
+    }
+  ]
+}

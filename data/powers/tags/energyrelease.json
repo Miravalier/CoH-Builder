@@ -1,0 +1,103 @@
+{
+  "tag": "EnergyRelease",
+  "bears": [
+    [
+      "Brute Melee.Energy Melee.Barrage",
+      "brute_melee.energy_melee.barrage"
+    ],
+    [
+      "Brute Melee.Energy Melee.Power Crash",
+      "brute_melee.energy_melee.stun"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Bone Smasher",
+      "dominator_assault.energy_assault.bone_smasher"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Power Burst",
+      "dominator_assault.energy_assault.power_burst"
+    ],
+    [
+      "Dominator Assault.Energy Assault.Whirling Hands",
+      "dominator_assault.energy_assault.whirling_hands"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Bone Smasher",
+      "mission_maker_attacks.energy_assault.bone_smasher"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Power Burst",
+      "mission_maker_attacks.energy_assault.power_burst"
+    ],
+    [
+      "Mission Maker Attacks.Energy Assault.Whirling Hands",
+      "mission_maker_attacks.energy_assault.whirling_hands"
+    ],
+    [
+      "Mission Maker Attacks.Energy Melee.Barrage",
+      "mission_maker_attacks.energy_melee.barrage"
+    ],
+    [
+      "Mission Maker Attacks.Energy Melee.Power Crash",
+      "mission_maker_attacks.energy_melee.power_crash"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Bone Smasher",
+      "mission_maker_secondary.energy_assault.bone_smasher"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Power Burst",
+      "mission_maker_secondary.energy_assault.power_burst"
+    ],
+    [
+      "Mission Maker Secondary.Energy Assault.Whirling Hands",
+      "mission_maker_secondary.energy_assault.whirling_hands"
+    ],
+    [
+      "Mission Maker Secondary.Energy Melee.Barrage",
+      "mission_maker_secondary.energy_melee.barrage"
+    ],
+    [
+      "Mission Maker Secondary.Energy Melee.Bone Smasher",
+      "mission_maker_secondary.energy_melee.bone_smasher"
+    ],
+    [
+      "Mission Maker Secondary.Energy Melee.Power Crash",
+      "mission_maker_secondary.energy_melee.power_crash"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Barrage",
+      "scrapper_melee.energy_melee.barrage"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Power Crash",
+      "scrapper_melee.energy_melee.power_crash"
+    ],
+    [
+      "Stalker Melee.Energy Melee.Barrage",
+      "stalker_melee.energy_melee.barrage"
+    ],
+    [
+      "Stalker Melee.Energy Melee.Power Crash",
+      "stalker_melee.energy_melee.stun"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Barrage",
+      "tanker_melee.energy_melee.barrage"
+    ],
+    [
+      "Tanker Melee.Energy Melee.Power Crash",
+      "tanker_melee.energy_melee.stun"
+    ]
+  ],
+  "affects": [
+    [
+      "Redirects.Energy Melee.Energy Focus",
+      "redirects.energy_melee.energy_store"
+    ],
+    [
+      "Redirects.Energy Melee.Energy Focus",
+      "redirects.energy_melee.energy_store_assault"
+    ]
+  ]
+}

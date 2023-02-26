@@ -1,0 +1,99 @@
+{
+  "tag": "LethalKB70",
+  "bears": [
+    [
+      "Blaster Ranged.Dual Pistols.Executioner's Shot",
+      "blaster_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Executioner's Shot",
+      "corruptor_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Executioner's Shot",
+      "defender_ranged.dual_pistols.executioners_shot"
+    ],
+    [
+      "Mission Maker Attacks.Dual Pistols.Executioner's Shot",
+      "mission_maker_attacks.dual_pistols.executioners_shot"
+    ],
+    [
+      "Mission Maker Secondary.Dual Pistols.Executioner's Shot",
+      "mission_maker_secondary.dual_pistols.executioners_shot"
+    ],
+    [
+      "PraetorianResistance.Belladonna.Executioner's Shot",
+      "praetorianresistance.belladonna.executioners_shot"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Executioner's Shot",
+      "sentinel_ranged.dual_pistols.executioners_shot"
+    ]
+  ],
+  "affects": [
+    [
+      "Blaster Ranged.Dual Pistols.Chemical Ammunition",
+      "blaster_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Cryo Ammunition",
+      "blaster_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Blaster Ranged.Dual Pistols.Incendiary Ammunition",
+      "blaster_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Chemical Ammunition",
+      "corruptor_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Cryo Ammunition",
+      "corruptor_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Corruptor Ranged.Dual Pistols.Incendiary Ammunition",
+      "corruptor_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Chemical Ammunition",
+      "defender_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Cryo Ammunition",
+      "defender_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Defender Ranged.Dual Pistols.Incendiary Ammunition",
+      "defender_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "PraetorianResistance.Belladonna.Incendiary Ammunition",
+      "praetorianresistance.belladonna.incendiary_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Chemical Ammunition",
+      "sentinel_ranged.dual_pistols.chemical_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Cryo Ammunition",
+      "sentinel_ranged.dual_pistols.cryo_ammunition"
+    ],
+    [
+      "Sentinel Ranged.Dual Pistols.Incendiary Ammunition",
+      "sentinel_ranged.dual_pistols.incendiary_ammunition"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Chemical Ammunition",
+      "temporary_powers.temporary_powers.chemical_ammunition"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Cryo Ammunition",
+      "temporary_powers.temporary_powers.cryo_ammunition"
+    ],
+    [
+      "Temporary Powers.Temporary Powers.Incendiary Ammunition",
+      "temporary_powers.temporary_powers.incendiary_ammunition"
+    ]
+  ]
+}

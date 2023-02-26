@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Adjusted_Targeting_F",
+  "display_name": "Attuned Adjusted Targeting F",
+  "display_fullname": "Boosts.Attuned Adjusted Targeting F",
+  "display_help": "Reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Adjusted Targeting",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_ADJUSTED_TARGETING_F.POWERSETS",
+  "icon": "attuned_adjusted_targeting_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Adjusted_Targeting_F.Attuned_Adjusted_Targeting_F"
+  ],
+  "power_display_names": [
+    "Adjusted Targeting: Recharge"
+  ],
+  "power_short_helps": [
+    "+Rech"
+  ]
+}

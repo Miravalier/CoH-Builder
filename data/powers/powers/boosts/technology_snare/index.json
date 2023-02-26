@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Snare",
+  "display_name": "Technology Snare",
+  "display_fullname": "Boosts.Technology Snare",
+  "display_help": "Increases the effectiveness of powers that slow",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_SNARE.POWERSETS",
+  "icon": "technology_snare_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Snare.Technology_Snare"
+  ],
+  "power_display_names": [
+    "Portacio Ind Nanodegenerators (Slow)"
+  ],
+  "power_short_helps": [
+    "Enhances Slow Powers"
+  ]
+}

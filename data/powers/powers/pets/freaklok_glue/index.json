@@ -1,0 +1,22 @@
+{
+  "name": "Freaklok_Glue",
+  "display_name": "",
+  "display_fullname": "Pets.Freaklok Glue",
+  "display_help": "Freaklok Glue",
+  "display_short_help": "Freaklok Glue",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/FREAKLOK_GLUE.POWERSETS",
+  "icon": "stickyarrow_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Freaklok_Glue.Freaklok_Glue"
+  ],
+  "power_display_names": [
+    "Freaklok Sticky Corpse"
+  ],
+  "power_short_helps": [
+    "AoE Slow"
+  ]
+}

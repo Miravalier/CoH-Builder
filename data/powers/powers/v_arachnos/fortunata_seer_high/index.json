@@ -1,0 +1,22 @@
+{
+  "name": "Fortunata_Seer_High",
+  "display_name": "Fortunata_Seer_High",
+  "display_fullname": "V Arachnos.Fortunata Seer High",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/FORTUNATA_SEER_HIGH.POWERSETS",
+  "icon": "fortunata_seer_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Fortunata_Seer_High.Subdue"
+  ],
+  "power_display_names": [
+    "Subdue"
+  ],
+  "power_short_helps": [
+    "Immobilize"
+  ]
+}

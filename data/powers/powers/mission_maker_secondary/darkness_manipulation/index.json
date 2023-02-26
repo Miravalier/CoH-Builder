@@ -1,0 +1,54 @@
+{
+  "name": "Darkness_Manipulation",
+  "display_name": "Darkness Manipulation",
+  "display_fullname": "Mission Maker Secondary.Darkness Manipulation",
+  "display_help": "Assail your foes with powers drawn from the abyss. Darkness Manipulation offers powers that can both control and heavily damage their targets while reducing their chance to hit.",
+  "display_short_help": "Darkness Manipulation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/DARKNESS_MANIPULATION.POWERSETS",
+  "icon": "darkness_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Darkness_Manipulation.Penumbral_Grasp",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Smite",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Death_Shroud",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Shadow_Maul",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Soul_Drain",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Touch_of_Fear",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Dark_Consumption",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Dark_Pit",
+    "Mission_Maker_Secondary.Darkness_Manipulation.Midnight_Grasp"
+  ],
+  "power_display_names": [
+    "Penumbral Grasp",
+    "Smite",
+    "Death Shroud",
+    "Shadow Maul",
+    "Soul Drain",
+    "Touch of the Beyond",
+    "Dark Consumption",
+    "Dark Pit",
+    "Midnight Grasp"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Moderate DMG(Negative/Smash), Foe Immobilize, -To-hit",
+    "Melee, Moderate DMG (Smash/Negative), Foe -To Hit",
+    "Toggle: PBAoE Minor DoT(Negative)",
+    "Melee (Cone), High DoT(Smash/Negative), Foe -To Hit",
+    "PBAoE Moderate DMG(Negative), Self +DMG, +To Hit",
+    "Fear, Foe -To Hit, Self +Regeneration, +Recovery, +Res(Fear)",
+    "PBAoE Moderate DMG(Negative), Self +End",
+    "Ranged (Targeted AoE), Foe Disorient",
+    "Melee, Superior DMG(Negative), Foe Immobilize, -To Hit"
+  ]
+}

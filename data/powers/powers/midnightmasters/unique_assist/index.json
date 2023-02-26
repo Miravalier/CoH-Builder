@@ -1,0 +1,30 @@
+{
+  "name": "Unique_Assist",
+  "display_name": "Unique_Assist",
+  "display_fullname": "MidnightMasters.Unique Assist",
+  "display_help": "These powers are assigned to helper units to make Ward's last mission from his arc in Night Ward more bearable.",
+  "display_short_help": "Unique_Assist",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHTMASTERS/UNIQUE_ASSIST.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "MidnightMasters.Unique_Assist.Force_Bubble",
+    "MidnightMasters.Unique_Assist.Dispersion_Bubble",
+    "MidnightMasters.Unique_Assist.Soothing_Aura"
+  ],
+  "power_display_names": [
+    "Force Bubble",
+    "Dispersion Bubble",
+    "Soothing Aura"
+  ],
+  "power_short_helps": [
+    "Toggle: PBAoE Foe Repel, Knockdown",
+    "Toggle: PBAoE, Team +Res(Hold, Immobilize, Disorient) +DEF(All)",
+    "Toggle: PBAoE, Team Minor Periodic Heal"
+  ]
+}

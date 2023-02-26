@@ -1,0 +1,22 @@
+{
+  "name": "ThunderStrikePunch",
+  "display_name": "Thunder Strike",
+  "display_fullname": "Pets.Thunder Strike",
+  "display_help": "Electricity Manipulation",
+  "display_short_help": "Electricity Manipulation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/THUNDERSTRIKEPUNCH.POWERSETS",
+  "icon": "thunderstrikepunch_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.ThunderStrikePunch.Thunder_Strike"
+  ],
+  "power_display_names": [
+    "Thunder Strike"
+  ],
+  "power_short_helps": [
+    "Thunder Strike"
+  ]
+}

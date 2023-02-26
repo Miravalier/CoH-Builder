@@ -1,0 +1,42 @@
+{
+  "name": "Crey_Electric_Tank",
+  "display_name": "Crey_Electric_Tank",
+  "display_fullname": "Crey.Crey Electric Tank",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/CREY_ELECTRIC_TANK.POWERSETS",
+  "icon": "crey_electric_tank_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.Crey_Electric_Tank.Charged_Bolts",
+    "Crey.Crey_Electric_Tank.Lightning_Bolt",
+    "Crey.Crey_Electric_Tank.Ball_Lightning",
+    "Crey.Crey_Electric_Tank.Charged_Brawl",
+    "Crey.Crey_Electric_Tank.Havoc_Punch",
+    "Crey.Crey_Electric_Tank.Thunder_Strike"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Lightning Bolt",
+    "Ball Lightning",
+    "Charged Brawl",
+    "Havoc Punch",
+    "Thunder Strike"
+  ],
+  "power_short_helps": [
+    "Ranged DMG(Energy), -End",
+    "Ranged DMG(Energy), -End",
+    "Targeted AoE DMG(Energy), -End",
+    "Sleep",
+    "Sleep",
+    "Disorient"
+  ]
+}

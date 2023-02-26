@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Range",
+  "display_name": "Mutation Range",
+  "display_fullname": "Boosts.Mutation Range",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Secondary Mutation (Mutation)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_RANGE.POWERSETS",
+  "icon": "mutation_range_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Range.Mutation_Range"
+  ],
+  "power_display_names": [
+    "Awakening: Extended Range (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

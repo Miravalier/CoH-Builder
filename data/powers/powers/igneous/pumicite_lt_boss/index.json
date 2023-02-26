@@ -1,0 +1,22 @@
+{
+  "name": "Pumicite_Lt_Boss",
+  "display_name": "Pumicite_Lt_Boss",
+  "display_fullname": "Igneous.Pumicite Lt Boss",
+  "display_help": "Igneous",
+  "display_short_help": "Igneous",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/IGNEOUS/PUMICITE_LT_BOSS.POWERSETS",
+  "icon": "pumicite_lt_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Igneous.Pumicite_Lt_Boss.Gravel"
+  ],
+  "power_display_names": [
+    "Gravel"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Moderate DMG(Lethal)"
+  ]
+}

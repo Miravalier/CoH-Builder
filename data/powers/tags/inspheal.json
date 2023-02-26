@@ -1,0 +1,66 @@
+{
+  "tag": "InspHeal",
+  "bears": [
+    [
+      "Inspirations.Holiday.Present",
+      "inspirations.holiday.gift_of_life"
+    ],
+    [
+      "Inspirations.Large Dual.Invigorate",
+      "inspirations.large_dual.invigorate"
+    ],
+    [
+      "Inspirations.Large Team Dual.Invigorating Imbuement",
+      "inspirations.large_team_dual.invigorating_imbuement"
+    ],
+    [
+      "Inspirations.Large Team.Greater Health Imbuement",
+      "inspirations.large_team.greater_health_imbuement"
+    ],
+    [
+      "Inspirations.Large.Resurgence",
+      "inspirations.large.resurgence"
+    ],
+    [
+      "Inspirations.Medium Dual.Rejuvenate",
+      "inspirations.medium_dual.rejuvenate"
+    ],
+    [
+      "Inspirations.Medium Team Dual.Rejuvenating Imbuement",
+      "inspirations.medium_team_dual.rejuvenating_imbuement"
+    ],
+    [
+      "Inspirations.Medium Team.Health Imbuement",
+      "inspirations.medium_team.health_imbuement"
+    ],
+    [
+      "Inspirations.Medium.Dramatic Improvement",
+      "inspirations.medium.dramatic_improvement"
+    ],
+    [
+      "Inspirations.Small Dual.Revitalize",
+      "inspirations.small_dual.revitalize"
+    ],
+    [
+      "Inspirations.Small.Respite",
+      "inspirations.small.respite"
+    ],
+    [
+      "Inspirations.Super Dual.Refresh",
+      "inspirations.super_dual.refresh"
+    ],
+    [
+      "Inspirations.Super Team Dual.Refreshing Imbuement",
+      "inspirations.super_team_dual.refreshing_imbuement"
+    ],
+    [
+      "Inspirations.Super Team.Superior Health Imbuement",
+      "inspirations.super_team.superior_health_imbuement"
+    ],
+    [
+      "Inspirations.Super!.Perfect Health",
+      "inspirations.super.perfect_health"
+    ]
+  ],
+  "affects": []
+}

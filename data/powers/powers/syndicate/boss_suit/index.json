@@ -1,0 +1,42 @@
+{
+  "name": "Boss_Suit",
+  "display_name": "Boss_Suit",
+  "display_fullname": "Syndicate.Boss Suit",
+  "display_help": "Syndicate",
+  "display_short_help": "Syndicate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    10,
+    0
+  ],
+  "source_file": "DEFS/POWERS/SYNDICATE/BOSS_SUIT.POWERSETS",
+  "icon": "boss_suit_set.png",
+  "requires": "",
+  "power_names": [
+    "Syndicate.Boss_Suit.Resistance",
+    "Syndicate.Boss_Suit.Psionic_Dart",
+    "Syndicate.Boss_Suit.Psychic_Scream",
+    "Syndicate.Boss_Suit.Mesmerize",
+    "Syndicate.Boss_Suit.Dominate",
+    "Syndicate.Boss_Suit.Aura_of_Empowerment"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Psionic Dart",
+    "Psychic Scream",
+    "Mesmerize",
+    "Dominate",
+    "Aura of Empowerment"
+  ],
+  "power_short_helps": [
+    "Auto: +Res(Psi)",
+    "-Recharge",
+    "-Recharge",
+    "Sleep",
+    "Hold",
+    "PBAoE, Team +To Hit, Res(Confuse, Fear), +Perception"
+  ]
+}

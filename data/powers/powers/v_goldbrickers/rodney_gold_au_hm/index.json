@@ -1,0 +1,30 @@
+{
+  "name": "Rodney_Gold_AU_HM",
+  "display_name": "Rodney Gold AU (Hard Mode)",
+  "display_fullname": "V GoldBrickers.Rodney Gold AU (Hard Mode)",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    49,
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/RODNEY_GOLD_AU_HM.POWERSETS",
+  "icon": "citadel_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Rodney_Gold_AU_HM.Taunt",
+    "V_GoldBrickers.Rodney_Gold_AU_HM.Nova",
+    "V_GoldBrickers.Rodney_Gold_AU_HM.Golden_Bonds"
+  ],
+  "power_display_names": [
+    "Taunt",
+    "Nova",
+    "Golden Bonds"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Foe Taunt",
+    "PBAoE, Extreme DMG(Negative/Smash), Foe Knockback, Self -Recovery",
+    "PBAoE, Team +DMG, +DEF(All), +ToHit, +Perception, Res(Taunt, Placate, Perception, Confuse)"
+  ]
+}

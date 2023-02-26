@@ -1,0 +1,110 @@
+{
+  "name": "FreedomCorps_Minigun_high_female",
+  "gender": "GENDER_FEMALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_MINION",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "minion_grunt",
+    "description": "Longbow's miniguns are designed to chew through even the thickest armor--or hides, scales, or other monstrous protection. The addition of underslung grenade launchers packs an additional punch.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.1,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_FreedomCorps.Minion_Minigun.Frag_Grenade",
+      "V_FreedomCorps.Minion_Minigun.Chain_gun_Short_Burst",
+      "V_FreedomCorps.Minion_Minigun.Chain_gun_Heavy_Burst",
+      "V_FreedomCorps.Minion_Minigun.Rifle_Butt",
+      "V_FreedomCorps.Resistance.Tech_Armor"
+    ],
+    "power_display_names": [
+      "Frag Grenade",
+      "Chain gun Short Burst",
+      "Chain gun Heavy Burst",
+      "Rifle Butt",
+      "Tech Armor"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Minigun",
+        "power": "Frag_Grenade",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Minigun",
+        "power": "Chain_gun_Short_Burst",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Minigun",
+        "power": "Chain_gun_Heavy_Burst",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Minion_Minigun",
+        "power": "Rifle_Butt",
+        "level": 0
+      },
+      {
+        "power_category": "V_FreedomCorps",
+        "power_set": "Resistance",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Longbow Minigun"
+      ],
+      "costumes": [
+        "Longbow_Female_Group_01_Minion_01",
+        "Longbow_Female_Group_01_Minion_02",
+        "Longbow_Female_Group_01_Minion_03",
+        "Longbow_Female_Group_01_Minion_04",
+        "Longbow_Female_Group_01_Minion_05"
+      ]
+    }
+  ]
+}

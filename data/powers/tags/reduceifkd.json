@@ -1,0 +1,87 @@
+{
+  "tag": "ReduceIfKD",
+  "bears": [
+    [
+      "Controller Buff.Force Field.Repulsion Field",
+      "controller_buff.force_field.repulsion_field"
+    ],
+    [
+      "Controller Buff.Kinetics.Repel",
+      "controller_buff.kinetics.repel"
+    ],
+    [
+      "Controller Buff.Sonic Resonance.Sonic Repulsion",
+      "controller_buff.sonic_debuff.sonic__repulsion"
+    ],
+    [
+      "Corruptor Buff.Force Field.Repulsion Field",
+      "corruptor_buff.force_field.repulsion_field"
+    ],
+    [
+      "Corruptor Buff.Kinetics.Repel",
+      "corruptor_buff.kinetics.repel"
+    ],
+    [
+      "Corruptor Buff.Sonic Resonance.Sonic Repulsion",
+      "corruptor_buff.sonic_resonance.sonic_repulsion"
+    ],
+    [
+      "Defender Buff.Force Field.Repulsion Field",
+      "defender_buff.force_field.repulsion_field"
+    ],
+    [
+      "Defender Buff.Kinetics.Repel",
+      "defender_buff.kinetics.repel"
+    ],
+    [
+      "Defender Buff.Sonic Resonance.Sonic Repulsion",
+      "defender_buff.sonic_debuff.sonic_repulsion"
+    ],
+    [
+      "Epic.Force Mastery.Repulsion Field",
+      "epic.force_mastery.repulsion_field"
+    ],
+    [
+      "Mastermind Buff.Force Field.Repulsion Field",
+      "mastermind_buff.force_field.repulsion_field"
+    ],
+    [
+      "Mastermind Buff.Kinetics.Repel",
+      "mastermind_buff.kinetics.repel"
+    ],
+    [
+      "Mastermind Buff.Sonic Resonance.Sonic Repulsion",
+      "mastermind_buff.sonic_resonance.sonic_repulsion"
+    ],
+    [
+      "Pets.Bonfire.Bonfire",
+      "pets.bonfire.bonfire"
+    ],
+    [
+      "Pets.Singularity.Repel",
+      "pets.singularity.repel"
+    ],
+    [
+      "Pets.Tornado.Tornado",
+      "pets.tornado.tornado"
+    ],
+    [
+      "Pool.Speed.Whirlwind",
+      "pool.speed.whirlwind"
+    ]
+  ],
+  "affects": [
+    [
+      "Boosts.Attuned Overwhelming Force F.Dam/Chance for Knockdown/Knockback to Knockdown",
+      "boosts.attuned_overwhelming_force_f.attuned_overwhelming_force_f"
+    ],
+    [
+      "Boosts.Attuned Sudden Acceleration F.Knockback to Knockdown",
+      "boosts.attuned_sudden_acceleration_f.attuned_sudden_acceleration_f"
+    ],
+    [
+      "Boosts.Crafted Sudden Acceleration F.Knockback to Knockdown",
+      "boosts.crafted_sudden_acceleration_f.crafted_sudden_acceleration_f"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Performance_Shifter_A",
+  "display_name": "Attuned Performance Shifter A",
+  "display_fullname": "Boosts.Attuned Performance Shifter A",
+  "display_help": "Enhances the Endurance Modification potential of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Performance Shifter",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_PERFORMANCE_SHIFTER_A.POWERSETS",
+  "icon": "attuned_performance_shifter_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Performance_Shifter_A.Attuned_Performance_Shifter_A"
+  ],
+  "power_display_names": [
+    "Performance Shifter: Endurance Modification"
+  ],
+  "power_short_helps": [
+    "+EndMod"
+  ]
+}

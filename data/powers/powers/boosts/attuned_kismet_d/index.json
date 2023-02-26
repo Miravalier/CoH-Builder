@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Kismet_D",
+  "display_name": "Attuned Kismet D",
+  "display_fullname": "Boosts.Attuned Kismet D",
+  "display_help": "Enhances the defense of a power by {Boost.Attrib.Defense.Scale}%, reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}% and recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Kismet",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_KISMET_D.POWERSETS",
+  "icon": "attuned_kismet_d_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Kismet_D.Attuned_Kismet_D"
+  ],
+  "power_display_names": [
+    "Kismet: Defense/Endurance/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Defense, Reduces Endurance Cost and Increases Attack Rate"
+  ]
+}

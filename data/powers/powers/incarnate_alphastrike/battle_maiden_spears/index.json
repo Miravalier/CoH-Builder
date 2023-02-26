@@ -1,0 +1,42 @@
+{
+  "name": "Battle_Maiden_Spears",
+  "display_name": "Battle Maiden Spears",
+  "display_fullname": "Incarnate AlphaStrike.Battle Maiden Spears",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/BATTLE_MAIDEN_SPEARS.POWERSETS",
+  "icon": "battle_maiden_spears_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Battle_Maiden_Spears.Summon_Spears",
+    "Incarnate_AlphaStrike.Battle_Maiden_Spears.Summon_Spears_Toggle",
+    "Incarnate_AlphaStrike.Battle_Maiden_Spears.Spear_Entity_Buff",
+    "Incarnate_AlphaStrike.Battle_Maiden_Spears.Spear_Target",
+    "Incarnate_AlphaStrike.Battle_Maiden_Spears.Spear_Damage",
+    "Incarnate_AlphaStrike.Battle_Maiden_Spears.Visual"
+  ],
+  "power_display_names": [
+    "Summon Spears",
+    "Summon Spears Toggle",
+    "Spear Entity Buff",
+    "Spear Target",
+    "Energized Halberd Strike",
+    "Visual"
+  ],
+  "power_short_helps": [
+    "Grant",
+    "Grant",
+    "Grant",
+    "Grant",
+    "Superior DoT(Lethal), -Fly",
+    "Superior DoT(Lethal), -Fly"
+  ]
+}

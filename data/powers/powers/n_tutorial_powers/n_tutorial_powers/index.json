@@ -1,0 +1,26 @@
+{
+  "name": "N_Tutorial_Powers",
+  "display_name": "N_Tutorial_Powers",
+  "display_fullname": "N Tutorial Powers.N Tutorial Powers",
+  "display_help": "Phasing",
+  "display_short_help": "Phasing",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/N_TUTORIAL_POWERS/N_TUTORIAL_POWERS.POWERSETS",
+  "icon": "n_tutorial_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "N_Tutorial_Powers.N_Tutorial_Powers.First_Vision_Phase",
+    "N_Tutorial_Powers.N_Tutorial_Powers.Second_Vision_Phase"
+  ],
+  "power_display_names": [
+    "First Vision Phase",
+    "Second Vision Phase"
+  ],
+  "power_short_helps": [
+    "Phasing",
+    "Phasing"
+  ]
+}

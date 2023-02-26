@@ -1,0 +1,26 @@
+{
+  "name": "Dust_Devil",
+  "display_name": "Dust Devil",
+  "display_fullname": "V Arachnos.Dust Devil",
+  "display_help": "Scirocco",
+  "display_short_help": "Scirocco",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/DUST_DEVIL.POWERSETS",
+  "icon": "dust_devil_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Dust_Devil.Dust_Devil",
+    "V_Arachnos.Dust_Devil.Attack"
+  ],
+  "power_display_names": [
+    "Dust Devil",
+    "Attack"
+  ],
+  "power_short_helps": [
+    "-Perception, -ToHit, -Defense",
+    "-Perception, -ToHit, -Defense"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "High_End_Boost",
+  "display_name": "High_End_Boost",
+  "display_fullname": "Tuatha.High End Boost",
+  "display_help": "The Tuatha",
+  "display_short_help": "The Tuatha",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/TUATHA/HIGH_END_BOOST.POWERSETS",
+  "icon": "high_end_boost_set.png",
+  "requires": "",
+  "power_names": [
+    "Tuatha.High_End_Boost.Increased_Damage"
+  ],
+  "power_display_names": [
+    "Increased Damage"
+  ],
+  "power_short_helps": [
+    "+DMG"
+  ]
+}

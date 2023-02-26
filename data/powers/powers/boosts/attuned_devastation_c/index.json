@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Devastation_C",
+  "display_name": "Attuned Devastation C",
+  "display_fullname": "Boosts.Attuned Devastation C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Devastation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEVASTATION_C.POWERSETS",
+  "icon": "attuned_devastation_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Devastation_C.Attuned_Devastation_C"
+  ],
+  "power_display_names": [
+    "Devastation: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

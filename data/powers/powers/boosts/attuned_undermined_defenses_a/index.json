@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Undermined_Defenses_A",
+  "display_name": "Attuned Undermined Defenses A",
+  "display_fullname": "Boosts.Attuned Undermined Defenses A",
+  "display_help": "Enhances the defense debuff potential of a power by {Boost.Attrib.Defense.Scale}%.",
+  "display_short_help": "Set: Undermined Defenses",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_UNDERMINED_DEFENSES_A.POWERSETS",
+  "icon": "attuned_undermined_defenses_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Undermined_Defenses_A.Attuned_Undermined_Defenses_A"
+  ],
+  "power_display_names": [
+    "Undermined Defenses: Defense Debuff"
+  ],
+  "power_short_helps": [
+    "+Defense Debuff"
+  ]
+}

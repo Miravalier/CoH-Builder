@@ -1,0 +1,17 @@
+{
+  "name": "OneWillDie_Issue2Powers",
+  "display_name": "Issue2Powers",
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE2POWERS.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "onewilldie_issue2powers.darrinwade",
+    "onewilldie_issue2powers.rulushindeadlyartifact"
+  ],
+  "powerset_display_names": [
+    "Darrin Wade",
+    "Objects"
+  ],
+  "powersets_with_requirements": []
+}

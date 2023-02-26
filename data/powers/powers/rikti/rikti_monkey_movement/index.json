@@ -1,0 +1,22 @@
+{
+  "name": "Rikti_Monkey_Movement",
+  "display_name": "Rikti_Monkey_Movement",
+  "display_fullname": "Rikti.Rikti Monkey Movement",
+  "display_help": "Rikti",
+  "display_short_help": "Rikti",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/RIKTI_MONKEY_MOVEMENT.POWERSETS",
+  "icon": "rikti_monkey_movement_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Rikti_Monkey_Movement.Monkey_Jumping"
+  ],
+  "power_display_names": [
+    "Monkey Jumping"
+  ],
+  "power_short_helps": [
+    "Self Auto, +Jump, +Speed"
+  ]
+}

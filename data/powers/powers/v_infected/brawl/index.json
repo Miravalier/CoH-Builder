@@ -1,0 +1,22 @@
+{
+  "name": "Brawl",
+  "display_name": "Brawl",
+  "display_fullname": "V Infected.Brawl",
+  "display_help": "Infected",
+  "display_short_help": "Infected",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_INFECTED/BRAWL.POWERSETS",
+  "icon": "brawl_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Infected.Brawl.Brawl"
+  ],
+  "power_display_names": [
+    "Brawl"
+  ],
+  "power_short_helps": [
+    "Melee Smash"
+  ]
+}

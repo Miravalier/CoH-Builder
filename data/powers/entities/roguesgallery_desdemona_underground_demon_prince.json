@@ -1,0 +1,109 @@
+{
+  "name": "RoguesGallery_Desdemona_Underground_Demon_Prince",
+  "gender": "GENDER_NEUTER",
+  "group_name": "RoguesGallery",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Demon"
+  ],
+  "ally": null,
+  "gang": "1",
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_Melee",
+    "character_class_name": "boss_praetoriangrunt",
+    "description": "Demon Princes are the infernal ruling class within the cold depths of the abyss. They are bound by only the most powerful conjurors, as they are tremendously dangerous to bring to the material plane.",
+    "group_description": "Demon Summoning",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Mission_Maker_Pets.Demon_Prince.Resistance",
+      "Mission_Maker_Pets.Demon_Prince.Ice_Blast",
+      "Mission_Maker_Pets.Demon_Prince.Shiver",
+      "Mission_Maker_Pets.Demon_Prince.Super_Leap",
+      "Mission_Maker_Pets.Demon_Prince.Chilling_Embrace",
+      "Mission_Maker_Pets.Demon_Prince.Ice_Sword",
+      "Mission_Maker_Pets.Demon_Prince.Block_of_Ice",
+      "Mission_Maker_Pets.Demon_Prince.Enchant_Demon",
+      "Mission_Maker_Pets.Demon_Prince.Ice_Slash",
+      "Mission_Maker_Pets.Demon_Prince.Frozen_Aura",
+      "Mission_Maker_Pets.Demon_Prince.Abyssal_Empowerment",
+      "RoguesGallery.Desdemona_Underground.Speed_Boost"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Ice Blast",
+      "Shiver",
+      "Super Leap",
+      "Chilling Embrace",
+      "Ice Sword",
+      "Block of Ice",
+      "Enchant Demon",
+      "Ice Slash",
+      "Frozen Aura",
+      "Abyssal Empowerment",
+      "Speed Boost"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Mission_Maker_Pets",
+        "power_set": "Demon_Prince",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "RoguesGallery",
+        "power_set": "Desdemona_Underground",
+        "power": "Speed_Boost",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Demon Prince"
+      ],
+      "costumes": [
+        "Mastermind_Demon_Prince01"
+      ]
+    }
+  ]
+}

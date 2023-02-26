@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Reactive_Armor_B",
+  "display_name": "Attuned Reactive Armor B",
+  "display_fullname": "Boosts.Attuned Reactive Armor B",
+  "display_help": "Enhances the effectiveness of Resistance buffs.",
+  "display_short_help": "Set: Reactive Armor",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_REACTIVE_ARMOR_B.POWERSETS",
+  "icon": "attuned_reactive_armor_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Reactive_Armor_B.Attuned_Reactive_Armor_B"
+  ],
+  "power_display_names": [
+    "Reactive Armor: Resistance/Recharge"
+  ],
+  "power_short_helps": [
+    "+RES (all), +Rech"
+  ]
+}

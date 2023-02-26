@@ -1,0 +1,30 @@
+{
+  "name": "Priest",
+  "display_name": "Priest",
+  "display_fullname": "Rikti.Priest",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/PRIEST.POWERSETS",
+  "icon": "priest_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Priest.Transfusion",
+    "Rikti.Priest.Fulcrum_Shift",
+    "Rikti.Priest.Regeneration_Aura"
+  ],
+  "power_display_names": [
+    "Transfusion",
+    "Fulcrum Shift",
+    "Regeneration Aura"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -End, -Regen, Team Heal",
+    "Ranged (Foe AoE), Foe -DMG, Team +DMG",
+    "PBAoE, Ally +Regeneration"
+  ]
+}

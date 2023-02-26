@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Clamor_Melee",
+  "display_name": "Freakshow_Clamor_Melee",
+  "display_fullname": "Freakshow.Freakshow Clamor Melee",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_CLAMOR_MELEE.POWERSETS",
+  "icon": "freakshow_clamor_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Clamor_Melee.Cybernetic_Claw"
+  ],
+  "power_display_names": [
+    "Cybernetic Claw"
+  ],
+  "power_short_helps": [
+    "Melee Lethal, Knockback"
+  ]
+}

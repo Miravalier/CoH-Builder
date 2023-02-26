@@ -1,0 +1,332 @@
+{
+  "name": "Superior_Frozen_Blast",
+  "display_name": "Superior Frozen Blast",
+  "group_name": "Ranged AoE Damage",
+  "conversion_groups": [
+    "Rarity: Superior Winter Pack Series"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Superior_Attuned_Frozen_Blast_A.Superior_Attuned_Frozen_Blast_A"
+    ],
+    [
+      "Boosts.Superior_Attuned_Frozen_Blast_B.Superior_Attuned_Frozen_Blast_B"
+    ],
+    [
+      "Boosts.Superior_Attuned_Frozen_Blast_C.Superior_Attuned_Frozen_Blast_C"
+    ],
+    [
+      "Boosts.Superior_Attuned_Frozen_Blast_D.Superior_Attuned_Frozen_Blast_D"
+    ],
+    [
+      "Boosts.Superior_Attuned_Frozen_Blast_E.Superior_Attuned_Frozen_Blast_E"
+    ],
+    [
+      "Boosts.Superior_Attuned_Frozen_Blast_F.Superior_Attuned_Frozen_Blast_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.slow_resist_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_aoe_fire_cold_def_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_fire_cold_aoe_def_7"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.slow_resist_5",
+          "Ultimate Slow Resist"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_7",
+          "Ultimate Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_7",
+          "Ultimate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_aoe_fire_cold_def_7",
+          "Ultimate Increased AoE/Fire/Cold Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_fire_cold_aoe_def_7",
+          "Ultimate Increased Fire/Cold/AoE Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_frozen_blast.png",
+      "e_icon_frozen_blast.png",
+      "e_icon_frozen_blast.png",
+      "e_icon_frozen_blast.png",
+      "e_icon_frozen_blast.png",
+      "e_icon_frozen_blast.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Superior Frozen Blast: Accuracy/Damage"
+      ],
+      [
+        "Attuned Superior Frozen Blast: Damage/Endurance"
+      ],
+      [
+        "Attuned Superior Frozen Blast: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Superior Frozen Blast: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Attuned Superior Frozen Blast: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Superior Frozen Blast: Recharge/Proc"
+      ]
+    ],
+    "boost_infos": {
+      "superior_attuned_frozen_blast_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Frozen Blast: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_frozen_blast",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_frozen_blast.png"
+      },
+      "superior_attuned_frozen_blast_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Frozen Blast: Damage/Endurance",
+        "aspects": [
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_frozen_blast",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_frozen_blast.png"
+      },
+      "superior_attuned_frozen_blast_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Frozen Blast: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_frozen_blast",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_frozen_blast.png"
+      },
+      "superior_attuned_frozen_blast_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Frozen Blast: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_frozen_blast",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_frozen_blast.png"
+      },
+      "superior_attuned_frozen_blast_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Frozen Blast: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_frozen_blast",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_frozen_blast.png"
+      },
+      "superior_attuned_frozen_blast_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 49,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Superior Frozen Blast: Recharge/Proc",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": true,
+        "boostset_name": "superior_frozen_blast",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_frozen_blast.png"
+      }
+    }
+  }
+}

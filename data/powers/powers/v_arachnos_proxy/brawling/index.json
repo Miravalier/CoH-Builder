@@ -1,0 +1,54 @@
+{
+  "name": "Brawling",
+  "display_name": "Street Justice",
+  "display_fullname": "V Arachnos Proxy.Street Justice",
+  "display_help": "Street Justice delivers punishing bone crushing attacks that weaken, disable or otherwise hinder their foes. This melee power set has no singular form of secondary effect. Instead, it has many ways to cripple enemies. Street Justice's attack powers come in two categories: Combo Builders and Finishers. Combo Builders add to your Combo Level and thus empower any Finishers you use. See individual powers for how they're improved by Combo Level. Combo Building powers can provide up to 3 levels of benefits. Build up to the third level before executing a Finisher for maximum effectiveness.",
+  "display_short_help": "Brawling",
+  "available_level": [
+    0,
+    0,
+    0,
+    1,
+    5,
+    7,
+    17,
+    25,
+    31
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/BRAWLING.POWERSETS",
+  "icon": "brawling_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Brawling.Initial_Strike",
+    "V_Arachnos_Proxy.Brawling.Heavy_Blow",
+    "V_Arachnos_Proxy.Brawling.Throwing_Knives",
+    "V_Arachnos_Proxy.Brawling.Sweeping_Cross",
+    "V_Arachnos_Proxy.Brawling.Combat_Readiness",
+    "V_Arachnos_Proxy.Brawling.Throat_Strike",
+    "V_Arachnos_Proxy.Brawling.Spinning_Strike",
+    "V_Arachnos_Proxy.Brawling.Low_Kick",
+    "V_Arachnos_Proxy.Brawling.Crushing_Uppercut"
+  ],
+  "power_display_names": [
+    "Initial Strike",
+    "Heavy Blow",
+    "Throwing Knives",
+    "Sweeping Cross",
+    "Combat Readiness",
+    "Rib Cracker",
+    "Spinning Strike",
+    "Shin Breaker",
+    "Crushing Uppercut"
+  ],
+  "power_short_helps": [
+    "Melee, Light DMG (Smash), Foe Disorient, Combo Builder",
+    "Melee, Moderate DMG (Smash), Foe Knockdown, Combo Builder",
+    "Ranged Minor DMG(Lethal), +Minor DoT(Lethal)",
+    "Melee (Cone), High DMG (Smash), Foe Disorient, Finisher",
+    "Self, +Dmg, +To Hit, Special",
+    "Melee, Moderate DMG (Smash), Foe -Res (All), -Dmg, Combo Builder",
+    "Melee (Targeted AoE), Heavy DMG (Smash), Foe Knockdown, Finisher",
+    "Melee, Superior DMG (Smash), Foe -Speed, -Defense, Combo Builder",
+    "Melee, Extreme DMG (Smash), Foe Knock Up, Disorient, Finisher"
+  ]
+}

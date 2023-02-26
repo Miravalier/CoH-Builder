@@ -1,0 +1,34 @@
+{
+  "name": "Devouring_Earth_Hive_Swarm",
+  "display_name": "Devouring Earth Swarm Melee",
+  "display_fullname": "DevouringEarth.Devouring Earth Swarm Melee",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DEVOURINGEARTH/DEVOURING_EARTH_HIVE_SWARM.POWERSETS",
+  "icon": "devouring_earth_hive_swarm_set.png",
+  "requires": "",
+  "power_names": [
+    "DevouringEarth.Devouring_Earth_Hive_Swarm.Swarm",
+    "DevouringEarth.Devouring_Earth_Hive_Swarm.Sting",
+    "DevouringEarth.Devouring_Earth_Hive_Swarm.Fly",
+    "DevouringEarth.Devouring_Earth_Hive_Swarm.Resistance"
+  ],
+  "power_display_names": [
+    "Swarm",
+    "Sting",
+    "Fly",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed",
+    "-Recharge, -Fly, -Teleport",
+    "Self Travel",
+    "Auto Res Lethal, Smash"
+  ]
+}

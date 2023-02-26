@@ -1,0 +1,30 @@
+{
+  "name": "Dominator_ElectricityAssault_Snipe",
+  "display_name": "Dominator_ElectricityAssault_Snipe",
+  "display_fullname": "Villain Pets.Dominator ElectricityAssault Snipe",
+  "display_help": "Electricity Assault",
+  "display_short_help": "Electricity Assault",
+  "available_level": [
+    19,
+    19,
+    34
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/DOMINATOR_ELECTRICITYASSAULT_SNIPE.POWERSETS",
+  "icon": "dominator_electricityassault_snipe_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Dominator_ElectricityAssault_Snipe.Lightning_Clap_Quick",
+    "Villain_Pets.Dominator_ElectricityAssault_Snipe.Lightning_Clap_Normal",
+    "Villain_Pets.Dominator_ElectricityAssault_Snipe.Thunder_Strike_AoE"
+  ],
+  "power_display_names": [
+    "Zapp",
+    "Zapp",
+    "Thunder Strike"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Energy), Foe -End",
+    "Sniper, Extreme DMG(Energy), Foe -End",
+    "Melee (AoE), Minor DMG(Smash, Energy), Foe Disorient, Knockback"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tag": "FastSnipe",
+  "bears": [
+    [
+      "Boosts.Attuned Experienced Marksman F.Range/Fast Snipe",
+      "boosts.attuned_experienced_marksman_f.attuned_experienced_marksman_f"
+    ],
+    [
+      "Boosts.Crafted Experienced Marksman F.Range/Fast Snipe",
+      "boosts.crafted_experienced_marksman_f.crafted_experienced_marksman_f"
+    ]
+  ],
+  "affects": []
+}

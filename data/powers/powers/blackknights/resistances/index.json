@@ -1,0 +1,42 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "BlackKnights.Resistances",
+  "display_help": "Black Knights",
+  "display_short_help": "Black Knights",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BLACKKNIGHTS/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "BlackKnights.Resistances.Damage_MN",
+    "BlackKnights.Resistances.Damage_LT",
+    "BlackKnights.Resistances.Damage_BS",
+    "BlackKnights.Resistances.Damage_EB",
+    "BlackKnights.Resistances.Damage_AV",
+    "BlackKnights.Resistances.Damage_Pet"
+  ],
+  "power_display_names": [
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Resistance",
+    "Damage Pet"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance",
+    "Resistance"
+  ]
+}

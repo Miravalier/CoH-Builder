@@ -1,0 +1,26 @@
+{
+  "name": "Pumpkin_King_DA",
+  "display_name": "Pumpkin King DA",
+  "display_fullname": "Event.Pumpkin King DA",
+  "display_help": "Fir Bolg",
+  "display_short_help": "Fir Bolg",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/PUMPKIN_KING_DA.POWERSETS",
+  "icon": "pumpkin_king_da_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Pumpkin_King_DA.Resistance",
+    "Event.Pumpkin_King_DA.Pumpkin_Seed"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Pumpkin Seed"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Summon Jack-O-Lanterns"
+  ]
+}

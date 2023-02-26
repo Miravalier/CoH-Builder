@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Deflated_Ego_C",
+  "display_name": "Crafted Deflated Ego C",
+  "display_fullname": "Boosts.Crafted Deflated Ego C",
+  "display_help": "Gives a chance to reduce your foes recovery by {Boost.Attrib.Endurance.Scale}%. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Deflated Ego",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DEFLATED_EGO_C.POWERSETS",
+  "icon": "crafted_deflated_ego_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Deflated_Ego_C.Crafted_Deflated_Ego_C"
+  ],
+  "power_display_names": [
+    "Deflated Ego: Chance for Recovery Debuff"
+  ],
+  "power_short_helps": [
+    "Chance for -Recovery"
+  ]
+}

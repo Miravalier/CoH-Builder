@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Soldier_Sniper",
+  "display_name": "Fifth_Column_Soldier_Sniper",
+  "display_fullname": "5thColumn.Fifth Column Soldier Sniper",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_SOLDIER_SNIPER.POWERSETS",
+  "icon": "fifth_column_soldier_sniper_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Soldier_Sniper.Sniper_Rifle"
+  ],
+  "power_display_names": [
+    "Sniper Rifle"
+  ],
+  "power_short_helps": [
+    "Sniper Lethal, Knockback"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "NPC_Pets_Praetorian_Tub_Ci",
+  "gender": "GENDER_MALE",
+  "group_name": "NPC_Pets",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Human",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "The personal bodyguard of Mr. Wu Yin, and director of security for Yin Corp. Tub Ci Tang abandoned his life as leader of the crumbling Hmong Tsoo criminal organization and has instead sworn to defend the Yin family with his life. Rumors persist about how he lost his eye, but Tub Ci has refused to confirm any of the stories.",
+    "group_description": "Businessman",
+    "display_class_name": "Citizen",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Syndicate.Tub_Ci.Thunder_Kick",
+      "Syndicate.Tub_Ci.Storm_Kick",
+      "Syndicate.Tub_Ci.Crane_Kick",
+      "Syndicate.Tub_Ci.Dragons_Tail",
+      "Syndicate.Tub_Ci.Dull_Pain",
+      "Syndicate.Tub_Ci.Aimed_Shot",
+      "Syndicate.Tub_Ci.Fistful_of_Arrows",
+      "Syndicate.Tub_Ci.Blazing_Arrow"
+    ],
+    "power_display_names": [
+      "Thunder Kick",
+      "Storm Kick",
+      "Crane Kick",
+      "Dragon's Tail",
+      "Dull Pain",
+      "Aimed Shot",
+      "Fistful of Arrows",
+      "Blazing Arrow"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Syndicate",
+        "power_set": "Tub_Ci",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Tub Ci"
+      ],
+      "costumes": [
+        "Syndicate_Tub_Ci_01"
+      ]
+    }
+  ]
+}

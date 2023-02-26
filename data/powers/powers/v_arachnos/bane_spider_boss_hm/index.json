@@ -1,0 +1,34 @@
+{
+  "name": "Bane_Spider_Boss_HM",
+  "display_name": "Bane Spider Boss (Hard Mode)",
+  "display_fullname": "V Arachnos.Bane Spider Boss (Hard Mode)",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    49,
+    49,
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/BANE_SPIDER_BOSS_HM.POWERSETS",
+  "icon": "bane_spider_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Bane_Spider_Boss_HM.Surveillance",
+    "V_Arachnos.Bane_Spider_Boss_HM.Tactical_Training:_Leadership",
+    "V_Arachnos.Bane_Spider_Boss_HM.Bane_Spider_Armor",
+    "V_Arachnos.Bane_Spider_Boss_HM.Mental_Training"
+  ],
+  "power_display_names": [
+    "Surveillance",
+    "Tactical Training: Leadership",
+    "Bane Spider Armor",
+    "Mental Training"
+  ],
+  "power_short_helps": [
+    "High-Accuracy, Ranged Foe -DEF, -RES (All)",
+    "Toggle: PBAoE, Team +To Hit, Res(Confuse, Fear), +Perception",
+    "Auto: Self +Res(All DMG, Status Effects), +HP",
+    "Auto: Self +Recharge, +SPD, Res (Slow/Confuse)"
+  ]
+}

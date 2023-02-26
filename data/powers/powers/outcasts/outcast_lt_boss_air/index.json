@@ -1,0 +1,38 @@
+{
+  "name": "Outcast_Lt_Boss_Air",
+  "display_name": "Outcast_Lt_Boss_Air",
+  "display_fullname": "Outcasts.Outcast Lt Boss Air",
+  "display_help": "Outcast",
+  "display_short_help": "Outcast",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/OUTCASTS/OUTCAST_LT_BOSS_AIR.POWERSETS",
+  "icon": "outcast_lt_boss_air_set.png",
+  "requires": "",
+  "power_names": [
+    "Outcasts.Outcast_Lt_Boss_Air.Resistance",
+    "Outcasts.Outcast_Lt_Boss_Air.Charged_Brawl",
+    "Outcasts.Outcast_Lt_Boss_Air.Lightning_Bolt",
+    "Outcasts.Outcast_Lt_Boss_Air.Fly",
+    "Outcasts.Outcast_Lt_Boss_Air.Fly_fx"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Charged Brawl",
+    "Lightning Bolt",
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Sleep, -Recovery",
+    "Ranged Energy, -End",
+    "Self Travel",
+    "Special"
+  ]
+}

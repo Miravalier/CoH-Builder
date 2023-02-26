@@ -1,0 +1,26 @@
+{
+  "name": "Widdershins",
+  "display_name": "Widdershins",
+  "display_fullname": "V Arachnos.Widdershins",
+  "display_help": "Arachnoids",
+  "display_short_help": "Arachnoids",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/WIDDERSHINS.POWERSETS",
+  "icon": "widdershins_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Widdershins.Terrify",
+    "V_Arachnos.Widdershins.Strike"
+  ],
+  "power_display_names": [
+    "Terrify",
+    "Strike"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Minor DMG(Psionic), Foe Fear(Special)",
+    "Melee Lethal"
+  ]
+}

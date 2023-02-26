@@ -1,0 +1,26 @@
+{
+  "name": "Weakened_Destroyer",
+  "display_name": "",
+  "display_fullname": "Destroyers.Weakened Destroyer",
+  "display_help": "Destroyers",
+  "display_short_help": "Destroyers",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DESTROYERS/WEAKENED_DESTROYER.POWERSETS",
+  "icon": "weakened_destroyer_set.png",
+  "requires": "",
+  "power_names": [
+    "Destroyers.Weakened_Destroyer.Brawl",
+    "Destroyers.Weakened_Destroyer.Running_on_Empty"
+  ],
+  "power_display_names": [
+    "Brawl",
+    "Running on Empty"
+  ],
+  "power_short_helps": [
+    "Melee Smash",
+    "-Max HP"
+  ]
+}

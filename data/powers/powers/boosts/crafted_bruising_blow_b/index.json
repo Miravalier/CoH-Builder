@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Bruising_Blow_B",
+  "display_name": "Crafted Bruising Blow B",
+  "display_fullname": "Boosts.Crafted Bruising Blow B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Bruising Blow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_BRUISING_BLOW_B.POWERSETS",
+  "icon": "crafted_bruising_blow_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Bruising_Blow_B.Crafted_Bruising_Blow_B"
+  ],
+  "power_display_names": [
+    "Bruising Blow: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

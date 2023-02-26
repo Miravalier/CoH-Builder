@@ -1,0 +1,26 @@
+{
+  "name": "Quartz",
+  "display_name": "Quartz",
+  "display_fullname": "Pets.Quartz",
+  "display_help": "Devouring Earth",
+  "display_short_help": "Devouring Earth",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/QUARTZ.POWERSETS",
+  "icon": "quartz_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.Quartz.Quartz",
+    "Pets.Quartz.Resistance"
+  ],
+  "power_display_names": [
+    "Quartz",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Quartz",
+    "Resistance"
+  ]
+}

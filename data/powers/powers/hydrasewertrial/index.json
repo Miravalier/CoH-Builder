@@ -1,0 +1,27 @@
+{
+  "name": "HydraSewerTrial",
+  "display_name": "HydraSewerTrial",
+  "source_file": "DEFS/POWERS/HYDRASEWERTRIAL.CATEGORIES",
+  "archetypes": [
+    "minion_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "hydrasewertrial.hydrapowers",
+    "hydrasewertrial.hydra_boil",
+    "hydrasewertrial.hydra_gas",
+    "hydrasewertrial.hydra_geiser",
+    "hydrasewertrial.hydra_men_melee_trial",
+    "hydrasewertrial.hydra_men_ranged_trial"
+  ],
+  "powerset_display_names": [
+    "Obliteration Beam",
+    "Obliteration Beam",
+    "Obliteration Beam",
+    "Obliteration Beam",
+    "Hydra_Men_Melee",
+    "Hydra_Men_Ranged"
+  ],
+  "powersets_with_requirements": []
+}

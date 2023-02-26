@@ -1,0 +1,22 @@
+{
+  "name": "Yins_Mutation_Damage",
+  "display_name": "Yins Mutation Damage",
+  "display_fullname": "Boosts.Yins Mutation Damage",
+  "display_help": "Enhances the damage of a power.",
+  "display_short_help": "Talisman (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/YINS_MUTATION_DAMAGE.POWERSETS",
+  "icon": "yins_mutation_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Yins_Mutation_Damage.Yins_Mutation_Damage"
+  ],
+  "power_display_names": [
+    "Talisman of the Initiate (Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage"
+  ]
+}

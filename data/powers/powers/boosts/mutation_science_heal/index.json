@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Heal",
+  "display_name": "Mutation Science Heal",
+  "display_fullname": "Boosts.Mutation Science Heal",
+  "display_help": "Enhances the healing ability of a power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_HEAL.POWERSETS",
+  "icon": "mutation_science_heal_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Heal.Mutation_Science_Heal"
+  ],
+  "power_display_names": [
+    "Genome Alteration Healing Boost (Heal/Absorb)"
+  ],
+  "power_short_helps": [
+    "Enhances Heal and Absorb"
+  ]
+}

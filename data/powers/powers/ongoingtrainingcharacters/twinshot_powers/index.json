@@ -1,0 +1,38 @@
+{
+  "name": "Twinshot_Powers",
+  "display_name": "Twinshot's Powers",
+  "display_fullname": "OnGoingTrainingCharacters.Twinshot's Powers",
+  "display_help": "You're a master of akimbo pistols, wielding a high caliber fire arm in each hand. Your attacks primarily deal lethal damage and you have a wide variety of attacks, however your strength lies within your ability to use your \"Ammo Swap\" power to change out your ammo mid-battle. Doing so can change your secondary damage type and effects making you an incredibly versatile ranged combatant.",
+  "display_short_help": "Twinshot's Powers",
+  "available_level": [
+    0,
+    0,
+    9,
+    15,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONGOINGTRAININGCHARACTERS/TWINSHOT_POWERS.POWERSETS",
+  "icon": "twinshot_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "OnGoingTrainingCharacters.Twinshot_Powers.Pistols",
+    "OnGoingTrainingCharacters.Twinshot_Powers.Dual_Wield",
+    "OnGoingTrainingCharacters.Twinshot_Powers.Empty_Clips",
+    "OnGoingTrainingCharacters.Twinshot_Powers.Bullet_Rain",
+    "OnGoingTrainingCharacters.Twinshot_Powers.Web_Grenade"
+  ],
+  "power_display_names": [
+    "Pistols",
+    "Dual Wield",
+    "Empty Clips",
+    "Bullet Rain",
+    "Web Grenade"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal/Special)",
+    "Ranged, Moderate DMG(Lethal/Special), Foe Knockback/Special",
+    "Ranged (Cone), Moderate DMG(Lethal/Special), Knockback/Special",
+    "Ranged (Targeted AoE), Moderate DMG(Lethal/Special), Knockback/Special",
+    "Ranged, Target Immobilize, -Recharge, -Fly"
+  ]
+}

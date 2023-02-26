@@ -1,0 +1,112 @@
+{
+  "name": "Shivan_Tutorial_GiantShivan",
+  "gender": "GENDER_MALE",
+  "group_name": "Shivan_Tutorial",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 2,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Stationary",
+    "character_class_name": "boss_archvillain",
+    "description": "These horrible things are an amalgamation of human corpses and some sort of weird sentient goo from the meteors crashing into Galaxy City. Some claim a mysterious interplanetary intelligence thought destroyed in the 1980s is the source of the Shivans, but if such a creature existed, 'Shiva', the Hindu name for the 'Destroyer of Worlds', was kept secret by the governments of earth.",
+    "group_description": null,
+    "display_class_name": "Monstrosity",
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "N_Tutorial_Shivan.Shivan_Melee.Delayed_Melee",
+      "N_Tutorial_Shivan.Shivan_Meteor.Meteor_Create",
+      "GenericVillains.Scaling.HP_10_Dmg_4_Min_2",
+      "GenericVillains.No_Regeneration.No_Regeneration",
+      "GenericVillains.Marker_Phase.See_Marker_Phase",
+      "V_Vindicators.Vindicator_Resistances.Resistance"
+    ],
+    "power_display_names": [
+      "Delayed Melee",
+      "Meteor Create",
+      "Scaling",
+      "No Regeneration",
+      "See Marker Phase",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "N_Tutorial_Shivan",
+        "power_set": "Shivan_Melee",
+        "power": "Delayed_Melee",
+        "level": 0
+      },
+      {
+        "power_category": "N_Tutorial_Shivan",
+        "power_set": "Shivan_Meteor",
+        "power": "Meteor_Create",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_10_Dmg_4_Min_2",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "No_Regeneration",
+        "power": "No_Regeneration",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Marker_Phase",
+        "power": "See_Marker_Phase",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Vindicator_Resistances",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 2,
+      "experience": 0,
+      "display_names": [
+        "Giant Shivan"
+      ],
+      "costumes": [
+        "Shivan_Giant"
+      ]
+    }
+  ]
+}

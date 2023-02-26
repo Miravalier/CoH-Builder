@@ -1,0 +1,102 @@
+{
+  "name": "Skulls_Boss",
+  "gender": "GENDER_MALE",
+  "group_name": "Skulls",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 1,
+    "max_level": 24,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": null,
+    "character_class_name": "boss_grunt",
+    "description": "The Skulls' leaders, the Bone Daddies, have become living embodiments of the power of death. They can literally suck the life out of a foe to feed their own spirits. They can also focus the pure darkness of the netherworld into physical attacks that cause massive damage.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.4,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Skulls.Skulls_Boss_Melee_Powers.Shadow_Punch",
+      "Skulls.Skulls_Boss_Melee_Powers.Smite",
+      "Skulls.Skulls_Boss_Melee_Powers.Soul_Drain",
+      "Skulls.Skulls_Boss_Melee_Powers.Siphon_Life",
+      "Skulls.Skulls_Boss_Melee_Powers.Gloom",
+      "Skulls.Skulls_Boss_Melee_Powers.Dark_Blast",
+      "Skulls.Skulls_Inherent_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Shadow Punch",
+      "Smite",
+      "Soul Drain",
+      "Siphon Life",
+      "Gloom",
+      "Dark Blast",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Skulls",
+        "power_set": "Skulls_Boss_Melee_Powers",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Skulls",
+        "power_set": "Skulls_Inherent_Defense",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 1,
+      "max_level": 24,
+      "experience": 0,
+      "display_names": [
+        "Bone Daddy"
+      ],
+      "costumes": [
+        "Thug_Skull_Male_Boss_01",
+        "Thug_Skull_Male_Boss_02",
+        "Thug_Skull_Male_Boss_03",
+        "Thug_Skull_Male_Boss_04",
+        "Thug_Skull_Male_Boss_05",
+        "Thug_Skull_Male_Boss_06",
+        "Thug_Skull_Male_Boss_07",
+        "Thug_Skull_Male_Boss_08",
+        "Thug_Skull_Male_Boss_09"
+      ]
+    }
+  ]
+}

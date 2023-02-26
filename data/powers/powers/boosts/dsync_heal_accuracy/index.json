@@ -1,0 +1,22 @@
+{
+  "name": "DSync_Heal_Accuracy",
+  "display_name": "D-Sync Heal Accuracy",
+  "display_fullname": "Boosts.DSync Heal Accuracy",
+  "display_help": "Enhances the healing ability and the accuracy of a power.",
+  "display_short_help": "D-Sync (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/DSYNC_HEAL_ACCURACY.POWERSETS",
+  "icon": "hamidon_heal_endurance_discount_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.DSync_Heal_Accuracy.DSync_Heal_Accuracy"
+  ],
+  "power_display_names": [
+    "D-Sync Siphon (Acc/Heal/Absorb)"
+  ],
+  "power_short_helps": [
+    "Enhances Heal, Enhances Absorb, and Enhances Accuracy"
+  ]
+}

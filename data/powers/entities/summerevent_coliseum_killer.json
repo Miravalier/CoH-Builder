@@ -1,0 +1,112 @@
+{
+  "name": "SummerEvent_Coliseum_Killer",
+  "gender": "GENDER_NEUTER",
+  "group_name": "SummerEvent",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Beast",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_PET",
+    "ai_config": "Pets_BeastMastery",
+    "character_class_name": "boss_elite",
+    "description": "The alpha wolf of Frank McCain's pack of dogs, Killer has a will of his own and doesn't always join McCain in the Coliseum. When there's a genuine threat to the pack Killer is always there.",
+    "group_description": "McCain's Maulers",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "SummerEvent.GunslingerDogsKiller.Vicious_Bite",
+      "SummerEvent.GunslingerDogsKiller.Maiming_Bite",
+      "SummerEvent.GunslingerDogsKiller.Throat_Bite",
+      "SummerEvent.GunslingerDogsKiller.Chilling_Howl",
+      "SummerEvent.GunslingerDogsKiller.Freezing_Roar",
+      "SummerEvent.GunslingerDogsKiller.Terrible_Howl",
+      "SummerEvent.GunslingerDogsKiller.Will_of_the_Wild",
+      "SummerEvent.GunslingerDogsKiller.Grant_Murderous_Howl",
+      "SummerEvent.GunslingerDogsUtility.Super_Leap",
+      "SummerEvent.GunslingerDogsUtility.Wild_Charge",
+      "SummerEvent.GunslingerDogsPostDeath.Killer"
+    ],
+    "power_display_names": [
+      "Chilling Bite",
+      "Frigid Bite",
+      "Freezing Charge",
+      "Chilling Howl",
+      "Freezing Roar",
+      "Terrible Howl",
+      "Will of the Wild",
+      "Grant Murderous Howl",
+      "Super Leap",
+      "Wild Charge",
+      "Killer"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "SummerEvent",
+        "power_set": "GunslingerDogsKiller",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "GunslingerDogsUtility",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "SummerEvent",
+        "power_set": "GunslingerDogsPostDeath",
+        "power": "Killer",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Killer"
+      ],
+      "costumes": [
+        "Winter_Wolf"
+      ]
+    }
+  ]
+}

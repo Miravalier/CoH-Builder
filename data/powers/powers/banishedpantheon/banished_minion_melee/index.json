@@ -1,0 +1,30 @@
+{
+  "name": "Banished_Minion_Melee",
+  "display_name": "Banished_Minion_Melee",
+  "display_fullname": "BanishedPantheon.Banished Minion Melee",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_MINION_MELEE.POWERSETS",
+  "icon": "banished_minion_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Minion_Melee.Zombie_Brawl",
+    "BanishedPantheon.Banished_Minion_Melee.Tomahawk",
+    "BanishedPantheon.Banished_Minion_Melee.Wooden_Club"
+  ],
+  "power_display_names": [
+    "Zombie Brawl",
+    "Tomahawk",
+    "Wooden Club"
+  ],
+  "power_short_helps": [
+    "Melee Smash/Negative",
+    "-DEF",
+    "Melee Smash, Med Dam"
+  ]
+}

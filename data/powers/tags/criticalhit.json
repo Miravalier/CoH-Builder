@@ -1,0 +1,131 @@
+{
+  "tag": "CriticalHit",
+  "bears": [
+    [
+      "Mastermind Pets.Ninja Genin.Crane Kick",
+      "mastermind_pets.genin_3.crane_kick"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Exploding Shuriken",
+      "mastermind_pets.genin_3.aimed_shot"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Shuriken",
+      "mastermind_pets.genin.shuriken"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Shuriken Throw",
+      "mastermind_pets.genin_2.snap_shot"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Storm Kick",
+      "mastermind_pets.genin_2.storm_kick"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Thunder Kick",
+      "mastermind_pets.genin.thunder_kick"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Caltrops",
+      "mastermind_pets.jonin.caltrops"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Gambler's Cut",
+      "mastermind_pets.jonin.slash"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Golden Dragonfly",
+      "mastermind_pets.jonin_3.head_splitter"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Poison Dart",
+      "mastermind_pets.jonin_2.poison_dart"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Soaring Dragon",
+      "mastermind_pets.jonin_2.disembowel"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Sting of the Wasp",
+      "mastermind_pets.jonin.hack"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Char",
+      "mastermind_pets.oni_3.char"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Fire Blast",
+      "mastermind_pets.oni.fire_blast"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Fire Breath",
+      "mastermind_pets.oni_2.fire_breath"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Fire Sword Hack",
+      "mastermind_pets.oni_2.fire_sword_hack"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Fire Sword Slash",
+      "mastermind_pets.oni.fire_sword_slash"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Rain of Fire",
+      "mastermind_pets.oni_3.rain_of_fire"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Ring of Fire",
+      "mastermind_pets.oni_2.ring_of_fire"
+    ]
+  ],
+  "affects": [
+    [
+      "Mastermind Pets.Ninja Genin.Enlighten",
+      "mastermind_pets.genin_3.enlighten"
+    ],
+    [
+      "Mastermind Pets.Ninja Genin.Train",
+      "mastermind_pets.genin_2.train"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Enlighten",
+      "mastermind_pets.jonin_3.enlighten"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Hide",
+      "mastermind_pets.jonin_2.hide"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Placate",
+      "mastermind_pets.jonin_2.placate"
+    ],
+    [
+      "Mastermind Pets.Ninja Jounin.Train",
+      "mastermind_pets.jonin_2.train"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Enlighten",
+      "mastermind_pets.oni_3.enlighten"
+    ],
+    [
+      "Mastermind Pets.Ninja Oni.Train",
+      "mastermind_pets.oni_2.train"
+    ],
+    [
+      "Mastermind Summon.Ninjas.Aimed Shot",
+      "mastermind_summon.ninjas.aimed_shot"
+    ],
+    [
+      "Mastermind Summon.Ninjas.Fistful of Arrows",
+      "mastermind_summon.ninjas.fistful_of_arrows"
+    ],
+    [
+      "Mastermind Summon.Ninjas.Smoke Flash",
+      "mastermind_summon.ninjas.smoke_flash"
+    ],
+    [
+      "Mastermind Summon.Ninjas.Snap Shot",
+      "mastermind_summon.ninjas.snap_shot"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sentry_Boss",
+  "display_name": "Sentry_Boss",
+  "display_fullname": "Rularuu.Sentry Boss",
+  "display_help": "Rularuu",
+  "display_short_help": "Rularuu",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RULARUU/SENTRY_BOSS.POWERSETS",
+  "icon": "sentry_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Rularuu.Sentry_Boss.Summon_Sentries"
+  ],
+  "power_display_names": [
+    "Summon Sentries"
+  ],
+  "power_short_helps": [
+    "Summon Sentries"
+  ]
+}

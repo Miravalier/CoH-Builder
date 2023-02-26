@@ -1,0 +1,42 @@
+{
+  "name": "Gadgetry",
+  "display_name": "Gadgetry",
+  "display_fullname": "Pool.Gadgetry",
+  "display_help": "Gadgetry gives you access to highly advanced technology to weaken or blast your foes. This power pool gives you access to a jetpack as your travel power. While your jetpack is active you gain access to a Turbo Charge power which allows you to fly even faster for a short time.",
+  "display_short_help": "Nano Net",
+  "available_level": [
+    0,
+    0,
+    3,
+    -1,
+    13,
+    19
+  ],
+  "source_file": "DEFS/POWERS/POOL/GADGETRY.POWERSETS",
+  "icon": "gadgetry_set.png",
+  "requires": "0",
+  "power_names": [
+    "Pool.Gadgetry.Nano_Net",
+    "Pool.Gadgetry.Wrist_Blaster",
+    "Pool.Gadgetry.Jetpack",
+    "Pool.Gadgetry.Turbo_Boost",
+    "Pool.Gadgetry.Blaster_Barrage",
+    "Pool.Gadgetry.Force_Barrier"
+  ],
+  "power_display_names": [
+    "Nano Net",
+    "Blaster Drone",
+    "Jetpack",
+    "Turbo Boost",
+    "Drone Barrage",
+    "Force Barrier"
+  ],
+  "power_short_helps": [
+    "Ranged, Foe -Speed, -Recharge, -Fly, -Regen",
+    "Ranged, Light DMG(Energy), Foe -Regen",
+    "Toggle: Self Fly, (Special)",
+    "Click, Self +Fly Speed",
+    "Ranged Cone, Light DMG(Energy), Foe -Regen",
+    "Self, +Absorb"
+  ]
+}

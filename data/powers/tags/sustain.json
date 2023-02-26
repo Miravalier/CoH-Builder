@@ -1,0 +1,66 @@
+{
+  "tag": "Sustain",
+  "bears": [
+    [
+      "Blaster Support.Darkness Manipulation.Touch of the Beyond",
+      "blaster_support.darkness_manipulation.touch_of_fear"
+    ],
+    [
+      "Blaster Support.Earth Manipulation.Mud Bath",
+      "blaster_support.earth_manipulation.mud_bath"
+    ],
+    [
+      "Blaster Support.Electricity Manipulation.Dynamo",
+      "blaster_support.electricity_manipulation.lightning_clap"
+    ],
+    [
+      "Blaster Support.Fire Manipulation.Cauterizing Aura",
+      "blaster_support.fire_manipulation.blazing_aura"
+    ],
+    [
+      "Blaster Support.Ice Manipulation.Frigid Protection",
+      "blaster_support.ice_manipulation.chilling_embrace"
+    ],
+    [
+      "Blaster Support.Martial Combat.Reaction Time",
+      "blaster_support.martial_manipulation.reaction_time"
+    ],
+    [
+      "Mission Maker Secondary.Darkness Manipulation.Touch of the Beyond",
+      "mission_maker_secondary.darkness_manipulation.touch_of_fear"
+    ],
+    [
+      "Mission Maker Secondary.Earth Manipulation.Mud Bath",
+      "mission_maker_secondary.earth_manipulation.mud_bath"
+    ],
+    [
+      "Mission Maker Secondary.Electricity Manipulation.Dynamo",
+      "mission_maker_secondary.electricity_manipulation.lightning_field"
+    ],
+    [
+      "Mission Maker Secondary.Fire Manipulation.Cauterizing Aura",
+      "mission_maker_secondary.fire_manipulation.blazing_aura"
+    ],
+    [
+      "Mission Maker Secondary.Ice Manipulation.Frigid Protection",
+      "mission_maker_secondary.ice_manipulation.chilling_embrace"
+    ],
+    [
+      "Mission Maker Secondary.Martial Combat.Reaction Time",
+      "mission_maker_secondary.martial_manipulation.reaction_time"
+    ],
+    [
+      "V Arachnos Proxy.Darkness Manipulation.Touch of the Beyond",
+      "v_arachnos_proxy.darkness_manipulation.touch_of_fear"
+    ],
+    [
+      "V Arachnos Proxy.Earth Manipulation.Mud Bath",
+      "v_arachnos_proxy.earth_manipulation.mud_bath"
+    ],
+    [
+      "V Arachnos Proxy.Ice Manipulation.Frigid Protection",
+      "v_arachnos_proxy.ice_manipulation.chilling_embrace"
+    ]
+  ],
+  "affects": []
+}

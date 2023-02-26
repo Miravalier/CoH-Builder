@@ -1,0 +1,58 @@
+{
+  "name": "Vandal_High",
+  "display_name": "Vandal High",
+  "display_fullname": "Council.Vandal High",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/VANDAL_HIGH.POWERSETS",
+  "icon": "vandal_high_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Vandal_High.Power_Blast",
+    "Council.Vandal_High.Power_Shot",
+    "Council.Vandal_High.Missile_Launch",
+    "Council.Vandal_High.Power_Thrust",
+    "Council.Vandal_High.Whirling_Hands",
+    "Council.Vandal_High.EM_Pulse",
+    "Council.Vandal_High.Total_Focus",
+    "Council.Vandal_High.Resistance",
+    "Council.Vandal_High.Overload",
+    "Council.Vandal_High.Vandal_Drill_Strike"
+  ],
+  "power_display_names": [
+    "Power Blast",
+    "Power Shot",
+    "Missile Launch",
+    "Power Thrust",
+    "Whirling Hands",
+    "EM Pulse",
+    "Total Focus",
+    "Resistance",
+    "Overload",
+    "Drill Strike"
+  ],
+  "power_short_helps": [
+    "Ranged Energy/Smash, Knockback",
+    "Ranged Energy/Smash, Knockback",
+    "Targeted AoE Lethal/Fire, Knockback",
+    "Melee, Minor DMG(Energy/Smash), Foe Knockback",
+    "Disorient",
+    "Hold, -Regen",
+    "Melee, Extreme DMG(Energy/Smash), Foe Disorient",
+    "Resistance",
+    "Self +DEF(All but Psionics), +Recovery, +Max HP, Res(DeBuff DEF), +Special",
+    "PBAoE Moderate DMG(Smashing), Foe Knockup"
+  ]
+}

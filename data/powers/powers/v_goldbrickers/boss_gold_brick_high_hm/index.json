@@ -1,0 +1,26 @@
+{
+  "name": "Boss_Gold_Brick_High_HM",
+  "display_name": "Boss Gold Brick High (Hard Mode)",
+  "display_fullname": "V GoldBrickers.Boss Gold Brick High (Hard Mode)",
+  "display_help": "Gold Brickers",
+  "display_short_help": "Gold Brickers",
+  "available_level": [
+    49,
+    49
+  ],
+  "source_file": "DEFS/POWERS/V_GOLDBRICKERS/BOSS_GOLD_BRICK_HIGH_HM.POWERSETS",
+  "icon": "boss_gold_brick_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GoldBrickers.Boss_Gold_Brick_High_HM.Rage",
+    "V_GoldBrickers.Boss_Gold_Brick_High_HM.Vengeance"
+  ],
+  "power_display_names": [
+    "Rage",
+    "Vengeance"
+  ],
+  "power_short_helps": [
+    "Self +DMG, +To Hit, Delayed Self(Weaken, Special)",
+    "Team Buff +DEF +ACC +DMG"
+  ]
+}

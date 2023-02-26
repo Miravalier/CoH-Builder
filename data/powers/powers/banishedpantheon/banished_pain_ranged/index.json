@@ -1,0 +1,22 @@
+{
+  "name": "Banished_Pain_Ranged",
+  "display_name": "Banished_Pain_Ranged",
+  "display_fullname": "BanishedPantheon.Banished Pain Ranged",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/BANISHED_PAIN_RANGED.POWERSETS",
+  "icon": "banished_pain_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.Banished_Pain_Ranged.Power_Blast"
+  ],
+  "power_display_names": [
+    "Power Blast"
+  ],
+  "power_short_helps": [
+    "Ranged Energy/Smash, Knockback"
+  ]
+}

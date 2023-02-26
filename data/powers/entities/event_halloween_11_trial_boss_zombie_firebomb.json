@@ -1,0 +1,74 @@
+{
+  "name": "Event_Halloween_11_Trial_Boss_Zombie_Firebomb",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 29,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Ghoul",
+    "character_class_name": "boss_grunt",
+    "description": "Stuffed with volatile compounds, this mass of flesh has been built to explode when excited.",
+    "group_description": "Dr. Kane's Horrors",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.01,
+    "additional_rewards": [
+      "ZE_Halloween_ZombieTable"
+    ],
+    "power_full_names": [
+      "Halloween.Harbinger_Ghoul.Kamikaze",
+      "Halloween.Harbinger_Ghoul.Resistance"
+    ],
+    "power_display_names": [
+      "Kamikaze",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Halloween",
+        "power_set": "Harbinger_Ghoul",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 29,
+      "experience": 0,
+      "display_names": [
+        "Enraged Zombie Firebomb"
+      ],
+      "costumes": [
+        "Pantheon_Hull_Exploding"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bobcat",
+  "display_name": "Bobcat",
+  "display_fullname": "Incarnate AlphaStrike.Bobcat",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/INCARNATE_ALPHASTRIKE/BOBCAT.POWERSETS",
+  "icon": "bobcat_set.png",
+  "requires": "",
+  "power_names": [
+    "Incarnate_AlphaStrike.Bobcat.True_Love",
+    "Incarnate_AlphaStrike.Bobcat.True_Love_Death",
+    "Incarnate_AlphaStrike.Bobcat.True_Love_Badge",
+    "Incarnate_AlphaStrike.Bobcat.True_Love_Revenge"
+  ],
+  "power_display_names": [
+    "True Love",
+    "True Love",
+    "True Love Badge",
+    "True Love"
+  ],
+  "power_short_helps": [
+    "Self +DMG (Special)",
+    "Bobcat +DMG (Special)",
+    "Bobcat +DMG (Special)",
+    "Self +DMG (Special)"
+  ]
+}

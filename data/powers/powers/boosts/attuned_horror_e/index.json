@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Horror_E",
+  "display_name": "Attuned Horror E",
+  "display_fullname": "Boosts.Attuned Horror E",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, Fear duration by {Boost.Attrib.Mez.Scale}% and reduces the attack rate by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Horror",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_HORROR_E.POWERSETS",
+  "icon": "attuned_horror_e_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Horror_E.Attuned_Horror_E"
+  ],
+  "power_display_names": [
+    "Horror: Accuracy/Fear/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech, +Fear"
+  ]
+}

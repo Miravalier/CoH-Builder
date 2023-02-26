@@ -1,0 +1,22 @@
+{
+  "name": "Grenade",
+  "display_name": "Grenade",
+  "display_fullname": "CouncilEmpire.Grenade",
+  "display_help": "Council Empire",
+  "display_short_help": "Council Empire",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCILEMPIRE/GRENADE.POWERSETS",
+  "icon": "grenade_set.png",
+  "requires": "",
+  "power_names": [
+    "CouncilEmpire.Grenade.Grenade_Launcher"
+  ],
+  "power_display_names": [
+    "Grenade Launcher"
+  ],
+  "power_short_helps": [
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

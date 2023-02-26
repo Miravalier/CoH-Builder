@@ -1,0 +1,225 @@
+{
+  "name": "Diabolique_P_Diabolique_Final",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Diabolique",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid",
+    "IncarnateBoss"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": "kills.Diabolique_Diabolique",
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 54,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_praetorianarchvillain",
+    "description": "Tammy Arcanus was born with great Magical powers on Praetorian Earth, just like she was on Primal Earth. Unfortunately they manifested very differently. As she reached adolescence she began exploring her powers before she was trained. She used astral projection to cast her spirit forth. So intoxicated was she by the new wonders that she was discovering she returned to her body too late to link with it. She watched helplessly as it withered and died without a spirit. As a living ghost, she found herself bound by Emperor Cole himself, forced to do his bidding for the foreseeable future.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "DilemmaDiabolique.Diabolique.Frigid_Bolt",
+      "DilemmaDiabolique.Diabolique.Reapers_Bolt",
+      "DilemmaDiabolique.Diabolique.Frigid_Blast",
+      "DilemmaDiabolique.Diabolique.Frigid_Lance",
+      "DilemmaDiabolique.Diabolique.Consuming_Burst",
+      "DilemmaDiabolique.Diabolique.Earthshatter",
+      "DilemmaDiabolique.Diabolique.Grant_Consume",
+      "DilemmaDiabolique.Diabolique.Absorbed_Dominance",
+      "DilemmaDiabolique.Diabolique.Show_Might_of_the_Dead",
+      "DilemmaDiabolique.Diabolique.Might_of_the_Dead",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_A",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_B",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_C",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_D",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_E",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_F",
+      "DilemmaDiabolique.Captured_Hero_Grants.Grant_G",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_A",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_B",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_C",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_D",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_E",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_F",
+      "DilemmaDiabolique.Captured_Hero_Revokes.Revoke_G",
+      "GenericVillains.Scaling.HP_30_Dmg_4_Min_12",
+      "GenericVillains.Supervillain_Resistance.Resistance"
+    ],
+    "power_display_names": [
+      "Frigid Bolt",
+      "Reaper's Bolt",
+      "Frigid Blast",
+      "Frigid Lance",
+      "Consuming Burst",
+      "Earthshatter",
+      "Grant Consume",
+      "Absorbed Dominance",
+      "Might of the Dead",
+      "Might of the Dead",
+      "Consumed Essence",
+      "Consumed Essence",
+      "Consumed Essence",
+      "Consumed Essence",
+      "Consumed Essence",
+      "Consumed Essence",
+      "Consumed Essence",
+      "Freed Essence",
+      "Freed Essence",
+      "Freed Essence",
+      "Freed Essence",
+      "Freed Essence",
+      "Freed Essence",
+      "Freed Essence",
+      "Scaling",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Frigid_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Reapers_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Frigid_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Frigid_Lance",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Consuming_Burst",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Earthshatter",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Grant_Consume",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Absorbed_Dominance",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Show_Might_of_the_Dead",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Diabolique",
+        "power": "Might_of_the_Dead",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Captured_Hero_Grants",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "DilemmaDiabolique",
+        "power_set": "Captured_Hero_Revokes",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_30_Dmg_4_Min_12",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Supervillain_Resistance",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 54,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Diabolique"
+      ],
+      "costumes": [
+        "DilemmaDiabolique_Diabolique_Tall_01"
+      ]
+    }
+  ]
+}

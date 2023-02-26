@@ -1,0 +1,124 @@
+{
+  "name": "Tavish_Bell_Combat",
+  "gender": "GENDER_MALE",
+  "group_name": "Crey",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 29,
+    "max_level": 44,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default",
+    "character_class_name": "boss_grunt",
+    "description": "Agent Bell is a well-known Crey Liaison in Grandville, whose track record as of late has left much to be desired.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Crey.CoV_Scientist_Lt_Flamethrower.Flamethrower",
+      "Crey.Crey_Boss_Armored_Buff.Dispersion_Bubble",
+      "Crey.Crey_Lt_Agent_Defense.Focus",
+      "Crey.Crey_Minion_Lt_Agent_Infiltrator.Thunder_Kick",
+      "Crey.Crey_Minion_Lt_Agent_Infiltrator.Storm_Kick",
+      "Crey.Crey_Minion_Lt_Agent_Infiltrator.Crane_Kick",
+      "Crey.Crey_Minion_Lt_Agent_Infiltrator.Eagles_Claw",
+      "Crey.Crey_Radiation_Researcher.Radiation_Infection",
+      "Crey.Crey_Tank_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Flamethrower",
+      "Dispersion Bubble",
+      "Focus",
+      "Thunder Kick",
+      "Storm Kick",
+      "Crane Kick",
+      "Eagles Claw",
+      "Radiation Infection",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Crey",
+        "power_set": "CoV_Scientist_Lt_Flamethrower",
+        "power": "Flamethrower",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Boss_Armored_Buff",
+        "power": "Dispersion_Bubble",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Lt_Agent_Defense",
+        "power": "Focus",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Minion_Lt_Agent_Infiltrator",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Radiation_Researcher",
+        "power": "Radiation_Infection",
+        "level": 0
+      },
+      {
+        "power_category": "Crey",
+        "power_set": "Crey_Tank_Defense",
+        "power": "Resistance",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 29,
+      "max_level": 44,
+      "experience": 0,
+      "display_names": [
+        "Agent Tavish Bell"
+      ],
+      "costumes": [
+        "Tavishbell_Combat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Radiation_Manipulation",
+  "display_name": "Atomic Manipulation",
+  "display_fullname": "Mission Maker Secondary.Atomic Manipulation",
+  "display_help": "You have complete control over atomic particles and waves, and can use them to disable and weaken your enemies, as well as boost your own power. Many of your powers have the ability to surround your targets with negatrons or positrons. Should you combine both of these in a single target, it will result in Electron-Positron annihilation producing a burst of Gamma Rays which will inflict a small amount of damage, and in addition debuff the target's damage output and accuracy. Enemies also have a small chance of being stunned or confused.",
+  "display_short_help": "Atomic Manipulation",
+  "available_level": [
+    0,
+    1,
+    3,
+    9,
+    15,
+    19,
+    27,
+    34,
+    37
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_SECONDARY/RADIATION_MANIPULATION.POWERSETS",
+  "icon": "radiation_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Secondary.Radiation_Manipulation.Electron_Shackles",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Negatron_Slam",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Positron_Cell",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Ionize",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Beta_Decay",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Metabolic_Acceleration",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Atom_Smasher",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Radioactive_Cloud",
+    "Mission_Maker_Secondary.Radiation_Manipulation.Positronic_Fist"
+  ],
+  "power_display_names": [
+    "Electron Shackles",
+    "Negatron Slam",
+    "Positron Cell",
+    "Ionize",
+    "Beta Decay",
+    "Metabolic Acceleration",
+    "Atom Smasher",
+    "Radioactive Cloud",
+    "Positronic Fist"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Energy), Foe Immobilize",
+    "Melee, High DMG(Energy/Smash), Foe -Def, Knockdown, Special",
+    "Ranged, Moderate DMG(Energy), Foe Hold, -To Hit",
+    "Self +DMG, +To Hit",
+    "Toggle: Foe, -To Hit, -Defense, Self +Recharge",
+    "Toggle: Self +Recharge, +Special, +Regeneration, +Recovery, +Res(Hold, Stun, Sleep, Immobilize, End)",
+    "PBAoE, High DMG(Energy/Toxic), Foe -Def, Disorient, Special",
+    "PBAoE, Foe Hold",
+    "Melee, Extreme DMG(Energy/Smash), Foe -Def, Disorient, Special"
+  ]
+}

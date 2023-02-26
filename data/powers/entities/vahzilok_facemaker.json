@@ -1,0 +1,88 @@
+{
+  "name": "Vahzilok_Facemaker",
+  "gender": "GENDER_FEMALE",
+  "group_name": "Vahzilok",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 10,
+    "max_level": 16,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Vahzilok_Reaper_Base",
+    "character_class_name": "boss_elite",
+    "description": "The woman called the Facemaker was once a disciple of Dr. Vahzilok in Paragon City. She still admires the mad doctor's work, but decided to strike out on her own to pursue her own amoral vision of life and beauty.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Vahzilok.Facemaker.Bonesaw_Hack",
+      "Vahzilok.Facemaker.Bonesaw_Slice",
+      "Vahzilok.Facemaker.Whirling_Bonesaw",
+      "Vahzilok.Facemaker.Dart_Gun",
+      "Vahzilok.Facemaker.Multishot_Dart_Gun",
+      "Vahzilok.Facemaker.Venomous_Spray",
+      "Vahzilok.Facemaker.Resurrect_Zombie"
+    ],
+    "power_display_names": [
+      "Bonesaw Hack",
+      "Bonesaw Slice",
+      "Whirling Bonesaw",
+      "Dart Gun",
+      "Multishot Dart Gun",
+      "Venomous Spray",
+      "Resurrect Zombie"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Vahzilok",
+        "power_set": "Facemaker",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 10,
+      "max_level": 16,
+      "experience": 0,
+      "display_names": [
+        "The Facemaker"
+      ],
+      "costumes": [
+        "Vahzilok_Facemaker"
+      ]
+    }
+  ]
+}

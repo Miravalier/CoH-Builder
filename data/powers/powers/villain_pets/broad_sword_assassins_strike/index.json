@@ -1,0 +1,26 @@
+{
+  "name": "Broad_Sword_Assassins_Strike",
+  "display_name": "",
+  "display_fullname": "Villain Pets.Broad Sword Assassins Strike",
+  "display_help": "Wield a Broad Sword and master a variety of powerful Lethal attacks. Slower than a Ninja Blade the Broad Sword's weight strikes with more force and damage. The Broadsword can reduce an enemy's Defense, allowing other attacks to hit more reliably. The Broad Sword is a powerful melee weapon that has a bonus to Accuracy. Like all Stalker powers, all Broad Sword attacks can sometimes land a critical hit for double damage.",
+  "display_short_help": "Broad Sword",
+  "available_level": [
+    5,
+    5
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/BROAD_SWORD_ASSASSINS_STRIKE.POWERSETS",
+  "icon": "broad_sword_assassins_strike_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Broad_Sword_Assassins_Strike.Assassins_Slash_Stealth",
+    "Villain_Pets.Broad_Sword_Assassins_Strike.Assassins_Slash_Quick"
+  ],
+  "power_display_names": [
+    "Assassin's Slash",
+    "Assassin's Slash"
+  ],
+  "power_short_helps": [
+    "Melee, Extreme DMG(Lethal)",
+    "Melee, Superior DMG(Lethal)"
+  ]
+}

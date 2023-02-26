@@ -1,0 +1,47 @@
+{
+  "tag": "ECCritModLarge",
+  "bears": [
+    [
+      "Scrapper Melee.Martial Arts.Cobra Strike",
+      "scrapper_melee.martial_arts.cobra_strike"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Crane Kick",
+      "scrapper_melee.martial_arts.crane_kick"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Crippling Axe Kick",
+      "scrapper_melee.martial_arts.crippling_axe_kick"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Dragon's Tail",
+      "scrapper_melee.martial_arts.dragons_tail"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Storm Kick",
+      "scrapper_melee.martial_arts.storm_kick"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Thunder Kick",
+      "scrapper_melee.martial_arts.thunder_kick"
+    ]
+  ],
+  "affects": [
+    [
+      "Scrapper Melee.Martial Arts.Eagles Claw",
+      "scrapper_melee.martial_arts.eagles_claw"
+    ],
+    [
+      "Set Bonus.Set Bonus.Critical Strikes",
+      "set_bonus.set_bonus.critical_strikes_proc"
+    ],
+    [
+      "Set Bonus.Set Bonus.Large Critical Hit Bonus",
+      "set_bonus.set_bonus.large_critical_hit_bonus"
+    ],
+    [
+      "Set Bonus.Set Bonus.Small Critical Hit Bonus",
+      "set_bonus.set_bonus.small_critical_hit_bonus"
+    ]
+  ]
+}

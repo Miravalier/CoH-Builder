@@ -1,0 +1,50 @@
+{
+  "name": "Thug_Arsonist_2",
+  "display_name": "Arsonist",
+  "display_fullname": "Mastermind Pets.Arsonist",
+  "display_help": "Thugs",
+  "display_short_help": "Thugs",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/THUG_ARSONIST_2.POWERSETS",
+  "icon": "thug_arsonist_2_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Thug_Arsonist_2.Spit_Fire",
+    "Mastermind_Pets.Thug_Arsonist_2.Equipped",
+    "Mastermind_Pets.Thug_Arsonist_2.Equip_1_2",
+    "Mastermind_Pets.Thug_Arsonist_2.Equip_1_4",
+    "Mastermind_Pets.Thug_Arsonist_2.Equip_2_2",
+    "Mastermind_Pets.Thug_Arsonist_2.Equip_2_4",
+    "Mastermind_Pets.Thug_Arsonist_2.Equip_3_2",
+    "Mastermind_Pets.Thug_Arsonist_2.Equip_3_4"
+  ],
+  "power_display_names": [
+    "Spit Fire",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip"
+  ],
+  "power_short_helps": [
+    "Close (Cone), Moderate DoT(Fire)",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip",
+    "Equip"
+  ]
+}

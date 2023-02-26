@@ -1,0 +1,22 @@
+{
+  "name": "Resistances",
+  "display_name": "Resistances",
+  "display_fullname": "V Batzul.Resistances",
+  "display_help": "Bat'Zul",
+  "display_short_help": "Bat'Zul",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_BATZUL/RESISTANCES.POWERSETS",
+  "icon": "resistances_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Batzul.Resistances.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Fire"
+  ]
+}

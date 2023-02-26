@@ -1,0 +1,350 @@
+{
+  "name": "Winters_Bite",
+  "display_name": "Winter's Bite",
+  "group_name": "Ranged Damage",
+  "conversion_groups": [
+    "Rarity: Winter Pack Series"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Attuned_Winters_Bite_A.Attuned_Winters_Bite_A"
+    ],
+    [
+      "Boosts.Attuned_Winters_Bite_B.Attuned_Winters_Bite_B"
+    ],
+    [
+      "Boosts.Attuned_Winters_Bite_C.Attuned_Winters_Bite_C"
+    ],
+    [
+      "Boosts.Attuned_Winters_Bite_D.Attuned_Winters_Bite_D"
+    ],
+    [
+      "Boosts.Attuned_Winters_Bite_E.Attuned_Winters_Bite_E"
+    ],
+    [
+      "Boosts.Attuned_Winters_Bite_F.Attuned_Winters_Bite_F"
+    ]
+  ],
+  "min_level": 1,
+  "max_level": 1,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.fire_cold_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.slow_resist_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_energy_neg_ranged_def_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_fire_cold_aoe_def_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.fire_cold_mez_res_2",
+          "Small Fire, Cold and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.slow_resist_3",
+          "Large Slow Resist"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_3",
+          "Moderate Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_energy_neg_ranged_def_2",
+          "Small Increased Energy/Negative Energy/Ranged Def Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_fire_cold_aoe_def_5",
+          "Huge Increased Fire/Cold/AoE Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_winters_bite.png",
+      "e_icon_winters_bite.png",
+      "e_icon_winters_bite.png",
+      "e_icon_winters_bite.png",
+      "e_icon_winters_bite.png",
+      "e_icon_winters_bite.png"
+    ],
+    "boosts": [
+      [
+        "Attuned Winter's Bite: Accuracy/Damage"
+      ],
+      [
+        "Attuned Winter's Bite: Damage/Recharge"
+      ],
+      [
+        "Attuned Winter's Bite: Accuracy/Damage/Recharge"
+      ],
+      [
+        "Attuned Winter's Bite: Accuracy/Damage/Endurance"
+      ],
+      [
+        "Attuned Winter's Bite: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Attuned Winter's Bite: Recharge/Chance for MoveSpeed Debuff"
+      ]
+    ],
+    "boost_infos": {
+      "attuned_winters_bite_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_winters_bite_a.superior_attuned_winters_bite_a",
+          "Superior Winter's Bite: Accuracy/Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Winter's Bite: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "winters_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_winters_bite.png"
+      },
+      "attuned_winters_bite_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_winters_bite_b.superior_attuned_winters_bite_b",
+          "Superior Winter's Bite: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Winter's Bite: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "winters_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_winters_bite.png"
+      },
+      "attuned_winters_bite_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_winters_bite_c.superior_attuned_winters_bite_c",
+          "Superior Winter's Bite: Accuracy/Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Winter's Bite: Accuracy/Damage/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "winters_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_winters_bite.png"
+      },
+      "attuned_winters_bite_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_winters_bite_d.superior_attuned_winters_bite_d",
+          "Superior Winter's Bite: Accuracy/Damage/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Winter's Bite: Accuracy/Damage/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "winters_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_winters_bite.png"
+      },
+      "attuned_winters_bite_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_winters_bite_e.superior_attuned_winters_bite_e",
+          "Superior Winter's Bite: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Winter's Bite: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "winters_bite",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_winters_bite.png"
+      },
+      "attuned_winters_bite_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": [
+          "boosts.superior_attuned_winters_bite_f.superior_attuned_winters_bite_f",
+          "Superior Winter's Bite: Recharge/Chance for -Speed & -Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 9,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Winter's Bite: Recharge/Chance for MoveSpeed Debuff",
+        "aspects": [
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "winters_bite",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_winters_bite.png"
+      }
+    }
+  }
+}

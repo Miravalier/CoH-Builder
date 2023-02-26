@@ -1,0 +1,62 @@
+{
+  "name": "Prestige_Attacks",
+  "display_name": "Prestige Attacks",
+  "display_fullname": "Prestige.Prestige Attacks",
+  "display_help": "Prestige Attacks",
+  "display_short_help": "Prestige Attacks",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRESTIGE/PRESTIGE_ATTACKS.POWERSETS",
+  "icon": "temporary_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Prestige.Prestige_Attacks.prestige_Permanent_Undead_Slaying_Axe",
+    "Prestige.Prestige_Attacks.prestige_Permanent_Nemesis_Staff",
+    "Prestige.Prestige_Attacks.prestige_Permanent_Sands_of_Mu",
+    "Prestige.Prestige_Attacks.prestige_Permanent_Blackwand",
+    "Prestige.Prestige_Attacks.prestige_Permanent_Nemesis_Staff_54",
+    "Prestige.Prestige_Attacks.prestige_Permanent_Blackwand_54",
+    "Prestige.Prestige_Attacks.Brawl_Charm",
+    "Prestige.Prestige_Attacks.Brawl_Knives",
+    "Prestige.Prestige_Attacks.Brawl_Mutagen",
+    "Prestige.Prestige_Attacks.Brawl_Taser",
+    "Prestige.Prestige_Attacks.Brawl_Tranq"
+  ],
+  "power_display_names": [
+    "Ghost Slaying Axe",
+    "Nemesis Staff",
+    "Sands of Mu",
+    "Blackwand",
+    "Nemesis Staff",
+    "Blackwand",
+    "Apprentice Charm",
+    "Throwing Knives",
+    "Mutagen",
+    "Taser Dart",
+    "Tranq Dart"
+  ],
+  "power_short_helps": [
+    "Melee, Moderate DMG(Lethal), Bonus vs True Undead",
+    "Ranged, Moderate DMG(Smash), Foe Knockback",
+    "Melee (Cone), High DoT(Smash/Negative), Foe -ACC",
+    "Ranged, Moderate DMG(Negative), Foe -ACC",
+    "Ranged, Moderate DMG(Smash), Foe Knockback",
+    "Ranged, Moderate DMG(Negative), Foe -ACC",
+    "Ranged Minor DMG(Energy), Foe -Res",
+    "Ranged Minor DMG(Lethal), +Minor DoT(Lethal)",
+    "Ranged Minor DMG(Toxic), Foe -DMG",
+    "Ranged Minor DMG(Energy), Foe Hold",
+    "Ranged Minor DMG(Lethal/Toxic), Foe Sleep"
+  ]
+}

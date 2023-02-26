@@ -1,0 +1,30 @@
+{
+  "name": "Lich",
+  "display_name": "Necro Lich",
+  "display_fullname": "Mastermind Pets.Necro Lich",
+  "display_help": "Mastermind_Pets.Zombie.Soul_Extraction_Pet",
+  "display_short_help": "Lich",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/LICH.POWERSETS",
+  "icon": "lich_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Lich.Dark_Blast",
+    "Mastermind_Pets.Lich.Torrent",
+    "Mastermind_Pets.Lich.Super_Leap"
+  ],
+  "power_display_names": [
+    "Dark Blast",
+    "Torrent",
+    "Super Leap"
+  ],
+  "power_short_helps": [
+    "-To Hit",
+    "-To Hit",
+    "Self Leap"
+  ]
+}

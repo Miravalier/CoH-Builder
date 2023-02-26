@@ -1,0 +1,22 @@
+{
+  "name": "Static_Field_End_Recovery_Dominator",
+  "display_name": "Static Field Endurance Recovery Dominator",
+  "display_fullname": "Villain Pets.Static Field Endurance Recovery Dominator",
+  "display_help": "Electrical Blast",
+  "display_short_help": "Electrical Blast",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/STATIC_FIELD_END_RECOVERY_DOMINATOR.POWERSETS",
+  "icon": "static_field_end_recovery_dominator_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Static_Field_End_Recovery_Dominator.Endurance_Recovered"
+  ],
+  "power_display_names": [
+    "Endurance Recovered"
+  ],
+  "power_short_helps": [
+    "Endurance Recovered"
+  ]
+}

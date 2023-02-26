@@ -1,0 +1,22 @@
+{
+  "name": "NeoShivan_Archvillain_Resistance",
+  "display_name": "Neo Shivan Archvillain Resistance",
+  "display_fullname": "V Shivan.Neo Shivan Archvillain Resistance",
+  "display_help": "Shivan",
+  "display_short_help": "Shivan",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SHIVAN/NEOSHIVAN_ARCHVILLAIN_RESISTANCE.POWERSETS",
+  "icon": "neoshivan_archvillain_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Shivan.NeoShivan_Archvillain_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RedCap_Ranged_Cone",
+  "display_name": "RedCap_Ranged_Cone",
+  "display_fullname": "RedCaps.RedCap Ranged Cone",
+  "display_help": "RedCaps",
+  "display_short_help": "RedCaps",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDCAPS/REDCAP_RANGED_CONE.POWERSETS",
+  "icon": "redcap_ranged_cone_set.png",
+  "requires": "",
+  "power_names": [
+    "RedCaps.RedCap_Ranged_Cone.Fistful_of_Arrows"
+  ],
+  "power_display_names": [
+    "Fistful of Arrows"
+  ],
+  "power_short_helps": [
+    "Ranged (Cone), Moderate DMG(Lethal)"
+  ]
+}

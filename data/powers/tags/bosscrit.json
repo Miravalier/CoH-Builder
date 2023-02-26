@@ -1,0 +1,687 @@
+{
+  "tag": "BossCrit",
+  "bears": [
+    [
+      "Epic.Blaze Mastery.Char",
+      "epic.blaze_mastery.char"
+    ],
+    [
+      "Epic.Blaze Mastery.Fire Ball",
+      "epic.blaze_mastery.fire_ball"
+    ],
+    [
+      "Epic.Blaze Mastery.Fire Blast",
+      "epic.blaze_mastery.fire_blast"
+    ],
+    [
+      "Epic.Blaze Mastery.Ring of Fire",
+      "epic.blaze_mastery.ring_of_fire"
+    ],
+    [
+      "Epic.Body Mastery.Energy Torrent",
+      "epic.body_mastery.energy_torrent"
+    ],
+    [
+      "Epic.Body Mastery.Laser Beam Eyes",
+      "epic.body_mastery.laser_beam_eyes"
+    ],
+    [
+      "Epic.Darkness Mastery.Dark Blast",
+      "epic.darkness_mastery.dark_blast"
+    ],
+    [
+      "Epic.Darkness Mastery.Night Fall",
+      "epic.darkness_mastery.night_fall"
+    ],
+    [
+      "Epic.Darkness Mastery.Tenebrous Tentacles",
+      "epic.darkness_mastery.tenebrous_tentacles"
+    ],
+    [
+      "Epic.Darkness Mastery.Torrent",
+      "epic.darkness_mastery.torrent"
+    ],
+    [
+      "Epic.Leviathan Mastery.Spirit Shark",
+      "epic.stalker_leviathan_mastery.spirit_shark"
+    ],
+    [
+      "Epic.Leviathan Mastery.Spirit Shark Jaws",
+      "epic.stalker_leviathan_mastery.spirit_shark_jaws"
+    ],
+    [
+      "Epic.Mace Mastery.Disruptor Blast",
+      "epic.stalker_mace_mastery.disruptor_blast"
+    ],
+    [
+      "Epic.Mace Mastery.Mace Blast",
+      "epic.stalker_mace_mastery.mace_blast"
+    ],
+    [
+      "Epic.Mace Mastery.Web Cocoon",
+      "epic.stalker_mace_mastery.web_cocoon"
+    ],
+    [
+      "Epic.Mu Mastery.Ball Lightning",
+      "epic.stalker_mu_mastery.ball_lightning"
+    ],
+    [
+      "Epic.Mu Mastery.Electric Shackles",
+      "epic.stalker_mu_mastery.electric_shackles"
+    ],
+    [
+      "Epic.Mu Mastery.Mu Bolts",
+      "epic.stalker_mu_mastery.mu_bolts"
+    ],
+    [
+      "Epic.Soul Mastery.Dark Blast",
+      "epic.stalker_soul_mastery.dark_blast"
+    ],
+    [
+      "Epic.Soul Mastery.Soul Storm",
+      "epic.stalker_soul_mastery.soul_storm"
+    ],
+    [
+      "Epic.Weapon Mastery.Exploding Shuriken",
+      "epic.weapon_mastery.exploding_shuriken"
+    ],
+    [
+      "Epic.Weapon Mastery.Shuriken",
+      "epic.weapon_mastery.shuriken"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry",
+      "pets.scrapper_savage_melee.rending_flurry_large"
+    ],
+    [
+      "Pets.Savage Melee.Rending Flurry",
+      "pets.scrapper_savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Pets.Titan Weapons.Arc of Destruction",
+      "pets.titan_weapons.arc_of_destruction_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Arc of Destruction (Fast)",
+      "pets.titan_weapons.arc_of_destruction_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Crushing Blow",
+      "pets.titan_weapons.crushing_blow_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Crushing Blow (Fast)",
+      "pets.titan_weapons.crushing_blow_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Defensive Sweep",
+      "pets.titan_weapons.defensive_sweep_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Defensive Sweep (Fast)",
+      "pets.titan_weapons.defensive_sweep_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Rend Armor",
+      "pets.titan_weapons.shatter_armor_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Rend Armor (Fast)",
+      "pets.titan_weapons.shatter_armor_fast"
+    ],
+    [
+      "Pets.Titan Weapons.Titan Sweep",
+      "pets.titan_weapons.sweeping_strike_slow"
+    ],
+    [
+      "Pets.Titan Weapons.Titan Sweep (Fast)",
+      "pets.titan_weapons.sweeping_strike_fast"
+    ],
+    [
+      "Redirects.Dark Melee.Touch of Fear",
+      "redirects.dark_melee.touch_of_fear_aoe_scrapper"
+    ],
+    [
+      "Redirects.Scrapper Melee.Savage Leap",
+      "redirects.scrapper_melee.savage_leap"
+    ],
+    [
+      "Redirects.Stone Melee.Fault",
+      "redirects.stone_melee.fault_cone_scrapper"
+    ],
+    [
+      "Scrapper Melee Aux.Savage Melee.Rending Flurry Large",
+      "scrapper_melee_aux.savage_melee.rending_flurry_large"
+    ],
+    [
+      "Scrapper Melee Aux.Savage Melee.Rending Flurry Normal",
+      "scrapper_melee_aux.savage_melee.rending_flurry_normal"
+    ],
+    [
+      "Scrapper Melee Aux.Savage Melee.Savage Leap AoE",
+      "scrapper_melee_aux.savage_melee.savage_leap_aoe"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Beheader",
+      "scrapper_melee.battle_axe.beheader"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Chop",
+      "scrapper_melee.battle_axe.chop"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Cleave",
+      "scrapper_melee.battle_axe.cleave"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Gash",
+      "scrapper_melee.battle_axe.gash"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Pendulum",
+      "scrapper_melee.battle_axe.pendulum"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Swoop",
+      "scrapper_melee.battle_axe.swoop"
+    ],
+    [
+      "Scrapper Melee.Battle Axe.Whirling Axe",
+      "scrapper_melee.battle_axe.whirling_axe"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Disembowel",
+      "scrapper_melee.broad_sword.disembowel"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Hack",
+      "scrapper_melee.broad_sword.hack"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Head Splitter",
+      "scrapper_melee.broad_sword.head_splitter"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Parry",
+      "scrapper_melee.broad_sword.parry"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Slash",
+      "scrapper_melee.broad_sword.slash"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Slice",
+      "scrapper_melee.broad_sword.slice"
+    ],
+    [
+      "Scrapper Melee.Broad Sword.Whirling Sword",
+      "scrapper_melee.broad_sword.whirling_sword"
+    ],
+    [
+      "Scrapper Melee.Claws.Eviscerate",
+      "scrapper_melee.claws.eviscerate"
+    ],
+    [
+      "Scrapper Melee.Claws.Focus",
+      "scrapper_melee.claws.focus"
+    ],
+    [
+      "Scrapper Melee.Claws.Follow Up",
+      "scrapper_melee.claws.follow_up"
+    ],
+    [
+      "Scrapper Melee.Claws.Shockwave",
+      "scrapper_melee.claws.shockwave"
+    ],
+    [
+      "Scrapper Melee.Claws.Slash",
+      "scrapper_melee.claws.slash"
+    ],
+    [
+      "Scrapper Melee.Claws.Spin",
+      "scrapper_melee.claws.spin"
+    ],
+    [
+      "Scrapper Melee.Claws.Strike",
+      "scrapper_melee.claws.strike"
+    ],
+    [
+      "Scrapper Melee.Claws.Swipe",
+      "scrapper_melee.claws.swipe"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Dark Consumption",
+      "scrapper_melee.dark_melee.dark_consumption"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Midnight Grasp",
+      "scrapper_melee.dark_melee.midnight_grasp"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Shadow Maul",
+      "scrapper_melee.dark_melee.shadow_maul"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Shadow Punch",
+      "scrapper_melee.dark_melee.shadow_punch"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Siphon Life",
+      "scrapper_melee.dark_melee.siphon_life"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Smite",
+      "scrapper_melee.dark_melee.smite"
+    ],
+    [
+      "Scrapper Melee.Dark Melee.Soul Drain",
+      "scrapper_melee.dark_melee.soul_drain"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Ablating Strike",
+      "scrapper_melee.dual_blades.moderate_bridge"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Blinding Feint",
+      "scrapper_melee.dual_blades.follow_up"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Nimble Slash",
+      "scrapper_melee.dual_blades.light_opening"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.One Thousand Cuts",
+      "scrapper_melee.dual_blades.high_low"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Power Slice",
+      "scrapper_melee.dual_blades.moderate_opening"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Sweeping Strike",
+      "scrapper_melee.dual_blades.special_2"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Typhoon's Edge",
+      "scrapper_melee.dual_blades.aoe_bridge"
+    ],
+    [
+      "Scrapper Melee.Dual Blades.Vengeful Slice",
+      "scrapper_melee.dual_blades.special_1"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Chain Induction",
+      "scrapper_melee.electrical_melee.chain_induction"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Charged Brawl",
+      "scrapper_melee.electrical_melee.charged_brawl"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Havoc Punch",
+      "scrapper_melee.electrical_melee.havoc_punch"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Jacobs Ladder",
+      "scrapper_melee.electrical_melee.jacobs_ladder"
+    ],
+    [
+      "Scrapper Melee.Electrical Melee.Thunder Strike",
+      "scrapper_melee.electrical_melee.thunder_strike"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Barrage",
+      "scrapper_melee.energy_melee.barrage"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Bone Smasher",
+      "scrapper_melee.energy_melee.bone_smasher"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Energy Punch",
+      "scrapper_melee.energy_melee.energy_punch"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Power Crash",
+      "scrapper_melee.energy_melee.power_crash"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Total Focus",
+      "scrapper_melee.energy_melee.total_focus"
+    ],
+    [
+      "Scrapper Melee.Energy Melee.Whirling Hands",
+      "scrapper_melee.energy_melee.whirling_hands"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Breath of Fire",
+      "scrapper_melee.fiery_melee.breath_of_fire"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Cremate",
+      "scrapper_melee.fiery_melee.cremate"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Fire Sword",
+      "scrapper_melee.fiery_melee.fire_sword"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Fire Sword Circle",
+      "scrapper_melee.fiery_melee.fire_sword_circle"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Greater Fire Sword",
+      "scrapper_melee.fiery_melee.greater_fire_sword"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Incinerate",
+      "scrapper_melee.fiery_melee.incinerate"
+    ],
+    [
+      "Scrapper Melee.Fiery Melee.Scorch",
+      "scrapper_melee.fiery_melee.scorch"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Freezing Touch",
+      "scrapper_melee.ice_melee.freezing_touch"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Frost",
+      "scrapper_melee.ice_melee.frost"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Frozen Fists",
+      "scrapper_melee.ice_melee.frozen_fists"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Greater Ice Sword",
+      "scrapper_melee.ice_melee.greater_ice_sword"
+    ],
+    [
+      "Scrapper Melee.Ice Melee.Ice Sword",
+      "scrapper_melee.ice_melee.ice_sword"
+    ],
+    [
+      "Scrapper Melee.Katana.Divine Avalanche",
+      "scrapper_melee.katana.parry"
+    ],
+    [
+      "Scrapper Melee.Katana.Flashing Steel",
+      "scrapper_melee.katana.slice"
+    ],
+    [
+      "Scrapper Melee.Katana.Gambler's Cut",
+      "scrapper_melee.katana.slash"
+    ],
+    [
+      "Scrapper Melee.Katana.Golden Dragonfly",
+      "scrapper_melee.katana.head_splitter"
+    ],
+    [
+      "Scrapper Melee.Katana.Soaring Dragon",
+      "scrapper_melee.katana.disembowel"
+    ],
+    [
+      "Scrapper Melee.Katana.Sting of the Wasp",
+      "scrapper_melee.katana.hack"
+    ],
+    [
+      "Scrapper Melee.Katana.The Lotus Drops",
+      "scrapper_melee.katana.whirling_sword"
+    ],
+    [
+      "Scrapper Melee.Martial Arts.Eagles Claw",
+      "scrapper_melee.martial_arts.eagles_claw"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Greater Psi Blade",
+      "scrapper_melee.psionic_melee.greater_psi_blade"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Mass Levitate",
+      "scrapper_melee.psionic_melee.mass_levitate"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Mental Strike",
+      "scrapper_melee.psionic_melee.mental_strike"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Psi Blade",
+      "scrapper_melee.psionic_melee.psi_blade"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Psi Blade Sweep",
+      "scrapper_melee.psionic_melee.psi_blade_sweep"
+    ],
+    [
+      "Scrapper Melee.Psionic Melee.Telekinetic Blow",
+      "scrapper_melee.psionic_melee.telekinetic_blow"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Atom Smasher",
+      "scrapper_melee.radiation_melee.atom_smasher"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Contaminated Strike",
+      "scrapper_melee.radiation_melee.contaminated_strike"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Devastating Blow",
+      "scrapper_melee.radiation_melee.devastating_blow"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Proton Sweep",
+      "scrapper_melee.radiation_melee.proton_sweep"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Radiation Siphon",
+      "scrapper_melee.radiation_melee.radiation_siphon"
+    ],
+    [
+      "Scrapper Melee.Radiation Melee.Radioactive Smash",
+      "scrapper_melee.radiation_melee.radioactive_smash"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Hemorrhage",
+      "scrapper_melee.savage_melee.hemorrhage"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Maiming Slash",
+      "scrapper_melee.savage_melee.maiming_slash"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Savage Strike",
+      "scrapper_melee.savage_melee.savage_strike"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Shred",
+      "scrapper_melee.savage_melee.shred"
+    ],
+    [
+      "Scrapper Melee.Savage Melee.Vicious Slash",
+      "scrapper_melee.savage_melee.vicious_slash"
+    ],
+    [
+      "Scrapper Melee.Spines.Barb Swipe",
+      "scrapper_melee.quills.barb_swipe"
+    ],
+    [
+      "Scrapper Melee.Spines.Impale",
+      "scrapper_melee.quills.impale"
+    ],
+    [
+      "Scrapper Melee.Spines.Lunge",
+      "scrapper_melee.quills.lunge"
+    ],
+    [
+      "Scrapper Melee.Spines.Quills",
+      "scrapper_melee.quills.quills"
+    ],
+    [
+      "Scrapper Melee.Spines.Ripper",
+      "scrapper_melee.quills.ripper"
+    ],
+    [
+      "Scrapper Melee.Spines.Spine Burst",
+      "scrapper_melee.quills.fling_quills"
+    ],
+    [
+      "Scrapper Melee.Spines.Throw Spines",
+      "scrapper_melee.quills.quill_throwing"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Eye of the Storm",
+      "scrapper_melee.staff_fighting.eye_of_the_storm"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Guarded Spin",
+      "scrapper_melee.staff_fighting.guarded_spin"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Innocuous Strikes",
+      "scrapper_melee.staff_fighting.innocuous_strikes"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Mercurial Blow",
+      "scrapper_melee.staff_fighting.mercurial_blow"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Precise Strike",
+      "scrapper_melee.staff_fighting.precise_strike"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Serpent's Reach",
+      "scrapper_melee.staff_fighting.serpents_reach"
+    ],
+    [
+      "Scrapper Melee.Staff Fighting.Sky Splitter",
+      "scrapper_melee.staff_fighting.sky_splitter"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Heavy Mallet",
+      "scrapper_melee.stone_melee.heavy_mallet"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Hurl Boulder",
+      "scrapper_melee.stone_melee.hurl_boulder"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Seismic Smash",
+      "scrapper_melee.stone_melee.seismic_smash"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Stone Fist",
+      "scrapper_melee.stone_melee.stone_fist"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Stone Mallet",
+      "scrapper_melee.stone_melee.stone_mallet"
+    ],
+    [
+      "Scrapper Melee.Stone Melee.Tremor",
+      "scrapper_melee.stone_melee.tremor"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Crushing Uppercut",
+      "scrapper_melee.brawling.crushing_uppercut"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Heavy Blow",
+      "scrapper_melee.brawling.heavy_blow"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Initial Strike",
+      "scrapper_melee.brawling.initial_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Rib Cracker",
+      "scrapper_melee.brawling.throat_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Shin Breaker",
+      "scrapper_melee.brawling.low_kick"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Spinning Strike",
+      "scrapper_melee.brawling.spinning_strike"
+    ],
+    [
+      "Scrapper Melee.Street Justice.Sweeping Cross",
+      "scrapper_melee.brawling.sweeping_cross"
+    ],
+    [
+      "Scrapper Melee.Titan Weapons.Follow Through",
+      "scrapper_melee.titan_weapons.follow_through"
+    ],
+    [
+      "Scrapper Melee.Titan Weapons.Whirling Smash",
+      "scrapper_melee.titan_weapons.whirling_slice"
+    ],
+    [
+      "Scrapper Melee.War Mace.Bash",
+      "scrapper_melee.war_mace.bash"
+    ],
+    [
+      "Scrapper Melee.War Mace.Clobber",
+      "scrapper_melee.war_mace.clobber"
+    ],
+    [
+      "Scrapper Melee.War Mace.Crowd Control",
+      "scrapper_melee.war_mace.crowd_control"
+    ],
+    [
+      "Scrapper Melee.War Mace.Jawbreaker",
+      "scrapper_melee.war_mace.jawbreaker"
+    ],
+    [
+      "Scrapper Melee.War Mace.Pulverize",
+      "scrapper_melee.war_mace.pulverize"
+    ],
+    [
+      "Scrapper Melee.War Mace.Shatter",
+      "scrapper_melee.war_mace.shatter"
+    ],
+    [
+      "Scrapper Melee.War Mace.Whirling Mace",
+      "scrapper_melee.war_mace.whirling_mace"
+    ],
+    [
+      "Villain Pets.Stalker EpicMaceMastery Snipe.Mace Beam",
+      "villain_pets.stalker_epicmacemastery_snipe.mace_beam_normal"
+    ],
+    [
+      "Villain Pets.Stalker EpicMaceMastery Snipe.Mace Beam",
+      "villain_pets.stalker_epicmacemastery_snipe.mace_beam_quick"
+    ],
+    [
+      "Villain Pets.Stalker EpicMuMastery Snipe.Zapp",
+      "villain_pets.stalker_epicmumastery_snipe.zapp_normal"
+    ],
+    [
+      "Villain Pets.Stalker EpicMuMastery Snipe.Zapp",
+      "villain_pets.stalker_epicmumastery_snipe.zapp_quick"
+    ],
+    [
+      "Villain Pets.Stalker EpicSoulMastery Snipe.Moonbeam",
+      "villain_pets.stalker_epicsoulmastery_snipe.moonbeam_normal"
+    ],
+    [
+      "Villain Pets.Stalker EpicSoulMastery Snipe.Moonbeam",
+      "villain_pets.stalker_epicsoulmastery_snipe.moonbeam_quick"
+    ]
+  ],
+  "affects": [
+    [
+      "Set Bonus.Set Bonus.Critical Strikes",
+      "set_bonus.set_bonus.critical_strikes_proc"
+    ],
+    [
+      "Set Bonus.Set Bonus.Large Critical Hit Bonus",
+      "set_bonus.set_bonus.large_critical_hit_bonus"
+    ],
+    [
+      "Set Bonus.Set Bonus.Small Critical Hit Bonus",
+      "set_bonus.set_bonus.small_critical_hit_bonus"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CoV_Scientist_Lt_Flamethrower",
+  "display_name": "CoV Scientist_Lt_Flamethrower",
+  "display_fullname": "Crey.CoV Scientist Lt Flamethrower",
+  "display_help": "Crey",
+  "display_short_help": "Crey",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CREY/COV_SCIENTIST_LT_FLAMETHROWER.POWERSETS",
+  "icon": "cov_scientist_lt_flamethrower_set.png",
+  "requires": "",
+  "power_names": [
+    "Crey.CoV_Scientist_Lt_Flamethrower.Flamethrower"
+  ],
+  "power_display_names": [
+    "Flamethrower"
+  ],
+  "power_short_helps": [
+    "DoT (Fire)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Mark_of_Supremacy_C",
+  "display_name": "Attuned Mark of Supremacy C",
+  "display_fullname": "Boosts.Attuned Mark of Supremacy C",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% . This enhancement can only be slotted in a Mastermind pet power.",
+  "display_short_help": "Set: Mark of Supremacy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_MARK_OF_SUPREMACY_C.POWERSETS",
+  "icon": "attuned_mark_of_supremacy_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Mark_of_Supremacy_C.Attuned_Mark_of_Supremacy_C"
+  ],
+  "power_display_names": [
+    "Mark of Supremacy: Accuracy/Damage (Mastermind)"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

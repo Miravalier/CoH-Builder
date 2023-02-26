@@ -1,0 +1,48 @@
+{
+  "name": "DevouringEarthSeed",
+  "display_name": "DevouringEarthSeed",
+  "source_file": "DEFS/POWERS/DEVOURINGEARTHSEED.CATEGORIES",
+  "archetypes": [
+    "boss_grunt",
+    "boss_praetoriangrunt",
+    "lt_praetoriangrunt",
+    "minion_grunt",
+    "minion_pets",
+    "minion_praetoriangrunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "devouringearthseed.bulwark_burr",
+    "devouringearthseed.contagion",
+    "devouringearthseed.contaminating_burr",
+    "devouringearthseed.decomposition",
+    "devouringearthseed.delayed_flight",
+    "devouringearthseed.fury_of_the_swarm",
+    "devouringearthseed.general_burr",
+    "devouringearthseed.hematic_burr",
+    "devouringearthseed.maturing_burr",
+    "devouringearthseed.resistances",
+    "devouringearthseed.respiring_burr",
+    "devouringearthseed.seed_of_hamidon",
+    "devouringearthseed.swarm",
+    "devouringearthseed.tellurian_burr"
+  ],
+  "powerset_display_names": [
+    "Bulwark_Burr",
+    "Contagion",
+    "Contaminating_Burr",
+    "Decomposition",
+    "Delayed_Flight",
+    "Fury_of_the_Swarm",
+    "General_Burr",
+    "Hematic_Burr",
+    "Maturing_Burr",
+    "Resistances",
+    "Respiring_Burr",
+    "Seed_of_Hamidon",
+    "Swarm",
+    "Tellurian_Burr"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mutation_Science_Cone",
+  "display_name": "Mutation Science Range",
+  "display_fullname": "Boosts.Mutation Science Cone",
+  "display_help": "Enhances the range of a power.",
+  "display_short_help": "Genetic Alteration (Mutation, Science)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/MUTATION_SCIENCE_CONE.POWERSETS",
+  "icon": "mutation_science_cone_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Mutation_Science_Cone.Mutation_Science_Cone"
+  ],
+  "power_display_names": [
+    "Genome Alteration Range Boost (Range)"
+  ],
+  "power_short_helps": [
+    "Enhances Range"
+  ]
+}

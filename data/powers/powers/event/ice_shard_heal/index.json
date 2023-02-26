@@ -1,0 +1,22 @@
+{
+  "name": "Ice_Shard_Heal",
+  "display_name": "Icy Accumulation",
+  "display_fullname": "Event.Icy Accumulation",
+  "display_help": "Ice_Shard",
+  "display_short_help": "Ice_Shard",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/ICE_SHARD_HEAL.POWERSETS",
+  "icon": "ice_shard_heal_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Ice_Shard_Heal.Icy_Accumulation"
+  ],
+  "power_display_names": [
+    "Icy Accumulation"
+  ],
+  "power_short_helps": [
+    "Heal, Special"
+  ]
+}

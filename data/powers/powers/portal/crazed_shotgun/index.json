@@ -1,0 +1,22 @@
+{
+  "name": "Crazed_Shotgun",
+  "display_name": "Crazed_Shotgun",
+  "display_fullname": "Portal.Crazed Shotgun",
+  "display_help": "The Crazed",
+  "display_short_help": "The Crazed",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PORTAL/CRAZED_SHOTGUN.POWERSETS",
+  "icon": "crazed_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Portal.Crazed_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

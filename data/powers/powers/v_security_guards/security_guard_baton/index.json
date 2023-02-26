@@ -1,0 +1,22 @@
+{
+  "name": "Security_Guard_Baton",
+  "display_name": "Security_Guard_Baton",
+  "display_fullname": "V Security Guards.Security Guard Baton",
+  "display_help": "SecurityGuards",
+  "display_short_help": "SecurityGuards",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SECURITY_GUARDS/SECURITY_GUARD_BATON.POWERSETS",
+  "icon": "security_guard_baton_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Security_Guards.Security_Guard_Baton.Riot_Baton"
+  ],
+  "power_display_names": [
+    "Riot Baton"
+  ],
+  "power_short_helps": [
+    "Disorient"
+  ]
+}

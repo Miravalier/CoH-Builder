@@ -1,0 +1,30 @@
+{
+  "name": "Hellfire_Gargoyle_3",
+  "display_name": "Hellfire Gargoyle",
+  "display_fullname": "Mastermind Pets.Hellfire Gargoyle",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/HELLFIRE_GARGOYLE_3.POWERSETS",
+  "icon": "hellfire_gargoyle_3_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Hellfire_Gargoyle_3.Hellfire_Smash",
+    "Mastermind_Pets.Hellfire_Gargoyle_3.Hellfire_Burst",
+    "Mastermind_Pets.Hellfire_Gargoyle_3.Abyssal_Empowerment"
+  ],
+  "power_display_names": [
+    "Hellfire Smash",
+    "Hellfire Burst",
+    "Abyssal Empowerment"
+  ],
+  "power_short_helps": [
+    "Melee, High DMG(Smash/Toxic) Foe Knockdown",
+    "PBAoE, Moderate DoT(Toxic)",
+    "Empower"
+  ]
+}

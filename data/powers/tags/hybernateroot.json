@@ -1,0 +1,66 @@
+{
+  "tag": "HybernateRoot",
+  "bears": [
+    [
+      "Brute Defense.Ice Armor.Hibernate",
+      "brute_defense.ice_armor.hibernate"
+    ],
+    [
+      "Epic.Chill Mastery.Hibernate",
+      "epic.chill_mastery.hibernate"
+    ],
+    [
+      "Epic.Cold Mastery.Hibernate",
+      "epic.cold_mastery.hibernate"
+    ],
+    [
+      "Epic.Ice Mastery.Hibernate",
+      "epic.ice_mastery.hibernate"
+    ],
+    [
+      "Epic.Ice Mastery.Hibernate",
+      "epic.ice_mastery_dominator.hibernate"
+    ],
+    [
+      "Epic.Leviathan Mastery.Hibernate",
+      "epic.corruptor_leviathan_mastery.hibernate"
+    ],
+    [
+      "Epic.Leviathan Mastery.Hibernate",
+      "epic.dominator_leviathan_mastery.hibernate"
+    ],
+    [
+      "Epic.Leviathan Mastery.Hibernate",
+      "epic.stalker_leviathan_mastery.hibernate"
+    ],
+    [
+      "Mission Maker Secondary.Ice Armor.Hibernate",
+      "mission_maker_secondary.ice_armor.hibernate"
+    ],
+    [
+      "Redirects.Stone Armor.Geode",
+      "redirects.stone_armor.geode"
+    ],
+    [
+      "Scrapper Defense.Stone Armor.Geode",
+      "scrapper_defense.stone_armor.geode"
+    ],
+    [
+      "Sentinel Defense.Stone Armor.Geode",
+      "sentinel_defense.stone_armor.geode"
+    ],
+    [
+      "Stalker Defense.Stone Armor.Geode",
+      "stalker_defense.stone_armor.geode"
+    ],
+    [
+      "Tanker Defense.Ice Armor.Hibernate",
+      "tanker_defense.ice_armor.hibernate"
+    ],
+    [
+      "V GenericVillains.Ice Brute High.Hibernate",
+      "v_genericvillains.ice_brute_high.hibernate"
+    ]
+  ],
+  "affects": []
+}

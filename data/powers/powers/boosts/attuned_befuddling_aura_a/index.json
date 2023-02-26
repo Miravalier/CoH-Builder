@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Befuddling_Aura_A",
+  "display_name": "Attuned Befuddling Aura A",
+  "display_fullname": "Boosts.Attuned Befuddling Aura A",
+  "display_help": "Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and reduces the recharge time of a power by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Befuddling Aura",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_BEFUDDLING_AURA_A.POWERSETS",
+  "icon": "attuned_befuddling_aura_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Befuddling_Aura_A.Attuned_Befuddling_Aura_A"
+  ],
+  "power_display_names": [
+    "Befuddling Aura: Accuracy/Recharge"
+  ],
+  "power_short_helps": [
+    "+ACC, +Rech"
+  ]
+}

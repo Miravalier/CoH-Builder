@@ -1,0 +1,19 @@
+{
+  "name": "V_SirensCallPhantom",
+  "display_name": "SirensCallPhantom",
+  "source_file": "DEFS/POWERS/V_SIRENSCALLPHANTOM.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "v_sirenscallphantom.boss_sirens_call_phantom",
+    "v_sirenscallphantom.lt_sirens_call_phantom",
+    "v_sirenscallphantom.minion_sirens_call_phantom"
+  ],
+  "powerset_display_names": [
+    "Boss Sirens Call Phantom",
+    "Lt Sirens Call Phantom",
+    "Minion Sirens Call Phantom"
+  ],
+  "powersets_with_requirements": []
+}

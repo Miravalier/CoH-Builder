@@ -1,0 +1,26 @@
+{
+  "name": "FreezingRain",
+  "display_name": "Freezing Rain",
+  "display_fullname": "Pets.Freezing Rain",
+  "display_help": "Storm Summoning",
+  "display_short_help": "Storm Summoning",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/FREEZINGRAIN.POWERSETS",
+  "icon": "freezingrain_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.FreezingRain.FreezingRain",
+    "Pets.FreezingRain.Avoid"
+  ],
+  "power_display_names": [
+    "FreezingRain",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "Cold, -Speed, -Recharge",
+    "Avoid"
+  ]
+}

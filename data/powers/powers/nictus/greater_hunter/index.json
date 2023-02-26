@@ -1,0 +1,62 @@
+{
+  "name": "Greater_Hunter",
+  "display_name": "Greater Hunter",
+  "display_fullname": "Nictus.Greater Hunter",
+  "display_help": "Nictus",
+  "display_short_help": "Nictus",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NICTUS/GREATER_HUNTER.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Nictus.Greater_Hunter.Absorption",
+    "Nictus.Greater_Hunter.Starless_Step",
+    "Nictus.Greater_Hunter.Quantum_Array_Cannon",
+    "Nictus.Greater_Hunter.Shadow_Slip",
+    "Nictus.Greater_Hunter.Shadow_Blast",
+    "Nictus.Greater_Hunter.Quasar",
+    "Nictus.Greater_Hunter.Black_Dwarf_Strike",
+    "Nictus.Greater_Hunter.Black_Dwarf_Smite",
+    "Nictus.Greater_Hunter.Black_Dwarf_Drain",
+    "Nictus.Greater_Hunter.Black_Dwarf_Mire",
+    "Nictus.Greater_Hunter.Umbral_Shield"
+  ],
+  "power_display_names": [
+    "Absorption",
+    "Starless Step",
+    "Quantum Array Cannon",
+    "Quantum Capture",
+    "Shadow Blast",
+    "Quasar",
+    "Void Hunter Strike",
+    "Void Hunter Smite",
+    "Void Hunter Drain",
+    "Void Hunter Mire",
+    "Umbral Shield"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Res (Energy,Negative)",
+    "Ranged (Location), Self Teleport, ToHit",
+    "-Recharge, -SPD",
+    "Melee (PBAoE), Foe Teleport, Foe Immobilize",
+    "Ranged, Moderate DMG(Negative/Special), Foe Knockback, -Recharge, -SPD",
+    "PBAoE, Extreme DMG(Negative/Special), Foe -Recharge, -SPD, Knockback",
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD, -Fly",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Toggle: Self +Res(All DMG but Psionics)"
+  ]
+}

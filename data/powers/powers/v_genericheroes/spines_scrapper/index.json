@@ -1,0 +1,34 @@
+{
+  "name": "Spines_Scrapper",
+  "display_name": "Spines Scrapper",
+  "display_fullname": "V GenericHeroes.Spines Scrapper",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/SPINES_SCRAPPER.POWERSETS",
+  "icon": "spines_scrapper_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Spines_Scrapper.Barb_Swipe",
+    "V_GenericHeroes.Spines_Scrapper.Lunge",
+    "V_GenericHeroes.Spines_Scrapper.Spine_Burst",
+    "V_GenericHeroes.Spines_Scrapper.Regeneration"
+  ],
+  "power_display_names": [
+    "Barb Swipe",
+    "Lunge",
+    "Spine Burst",
+    "Regeneration"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -SPD, -Recharge",
+    "DoT(Toxic), -SPD, -Recharge",
+    "PBAoE Melee, Moderate DMG(Lethal), DoT(Toxic), -SPD, -Recharge",
+    "Auto: Self +Recovery, +Regen"
+  ]
+}

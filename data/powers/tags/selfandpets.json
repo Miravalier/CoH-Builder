@@ -1,0 +1,14 @@
+{
+  "tag": "SelfAndPets",
+  "bears": [
+    [
+      "Peacebringer Defensive.Luminous Aura.Group Energy Flight",
+      "peacebringer_defensive.luminous_aura.group_energy_flight"
+    ],
+    [
+      "Pool.Flight.Group Fly",
+      "pool.flight.group_fly"
+    ]
+  ],
+  "affects": []
+}

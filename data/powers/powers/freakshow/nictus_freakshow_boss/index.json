@@ -1,0 +1,38 @@
+{
+  "name": "Nictus_Freakshow_Boss",
+  "display_name": "Nictus Freakshow Boss",
+  "display_fullname": "Freakshow.Nictus Freakshow Boss",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/NICTUS_FREAKSHOW_BOSS.POWERSETS",
+  "icon": "nictus_freakshow_boss_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Nictus_Freakshow_Boss.Gravitic_Emanation",
+    "Freakshow.Nictus_Freakshow_Boss.Black_Dwarf_Strike",
+    "Freakshow.Nictus_Freakshow_Boss.Black_Dwarf_Smite",
+    "Freakshow.Nictus_Freakshow_Boss.Black_Dwarf_Drain",
+    "Freakshow.Nictus_Freakshow_Boss.Black_Dwarf_Mire"
+  ],
+  "power_display_names": [
+    "Gravitic Emanation",
+    "Black Dwarf Strike",
+    "Black Dwarf Smite",
+    "Black Dwarf Drain",
+    "Black Dwarf Mire"
+  ],
+  "power_short_helps": [
+    "Disorient, -Recharge, -SPD",
+    "-Recharge, -SPD",
+    "Disorient, -Recharge, -SPD, -Fly",
+    "-Recharge, -SPD",
+    "-Recharge, -SPD"
+  ]
+}

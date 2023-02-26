@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Ruin_C",
+  "display_name": "Crafted Ruin C",
+  "display_fullname": "Boosts.Crafted Ruin C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Ruin",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_RUIN_C.POWERSETS",
+  "icon": "crafted_ruin_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Ruin_C.Crafted_Ruin_C"
+  ],
+  "power_display_names": [
+    "Ruin: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

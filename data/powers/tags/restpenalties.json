@@ -1,0 +1,10 @@
+{
+  "tag": "RestPenalties",
+  "bears": [
+    [
+      "Inherent.Inherent.Rest",
+      "inherent.inherent.rest"
+    ]
+  ],
+  "affects": []
+}

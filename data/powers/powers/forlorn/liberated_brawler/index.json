@@ -1,0 +1,30 @@
+{
+  "name": "Liberated_Brawler",
+  "display_name": "Liberated Brawler",
+  "display_fullname": "Forlorn.Liberated Brawler",
+  "display_help": "Forlorn Attacks",
+  "display_short_help": "Forlorn Attacks",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FORLORN/LIBERATED_BRAWLER.POWERSETS",
+  "icon": "liberated_brawler_set.png",
+  "requires": "",
+  "power_names": [
+    "Forlorn.Liberated_Brawler.Hurl",
+    "Forlorn.Liberated_Brawler.Jab",
+    "Forlorn.Liberated_Brawler.Haymaker"
+  ],
+  "power_display_names": [
+    "Hurl",
+    "Jab",
+    "Haymaker"
+  ],
+  "power_short_helps": [
+    "Ranged, High DMG(Smash), Knockback, -Fly",
+    "Melee, Minor DMG(Smash), Minor Disorient",
+    "Melee, High DMG(Smash), Knockback"
+  ]
+}

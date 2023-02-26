@@ -1,0 +1,22 @@
+{
+  "name": "Lost_Shotgun",
+  "display_name": "Lost_Shotgun",
+  "display_fullname": "Rikti.Lost Shotgun",
+  "display_help": "The Lost",
+  "display_short_help": "The Lost",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/LOST_SHOTGUN.POWERSETS",
+  "icon": "lost_shotgun_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Lost_Shotgun.Shotgun"
+  ],
+  "power_display_names": [
+    "Shotgun"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback"
+  ]
+}

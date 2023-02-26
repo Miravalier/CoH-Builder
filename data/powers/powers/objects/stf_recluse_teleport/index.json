@@ -1,0 +1,22 @@
+{
+  "name": "STF_Recluse_Teleport",
+  "display_name": "STF_Recluse_Teleport",
+  "display_fullname": "Objects.STF Recluse Teleport",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/STF_RECLUSE_TELEPORT.POWERSETS",
+  "icon": "stf_recluse_teleport_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.STF_Recluse_Teleport.Teleport_Recluse"
+  ],
+  "power_display_names": [
+    "Teleport Recluse"
+  ],
+  "power_short_helps": [
+    "Script"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Family_Tommy_Gun_Lt",
+  "display_name": "Family Tommy Gun Lt",
+  "display_fullname": "Family.Family Tommy Gun Lt",
+  "display_help": "The Family",
+  "display_short_help": "The Family",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/FAMILY_TOMMY_GUN_LT.POWERSETS",
+  "icon": "family_tommy_gun_lt_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.Family_Tommy_Gun_Lt.Full_Auto",
+    "Family.Family_Tommy_Gun_Lt.Burst"
+  ],
+  "power_display_names": [
+    "Full Auto",
+    "Burst"
+  ],
+  "power_short_helps": [
+    "DoT(Lethal)",
+    "-DEF"
+  ]
+}

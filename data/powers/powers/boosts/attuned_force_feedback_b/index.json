@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Force_Feedback_B",
+  "display_name": "Attuned Force Feedback B",
+  "display_fullname": "Boosts.Attuned Force Feedback B",
+  "display_help": "Enhances the Knockback potential of a power by {Boost.Attrib.Knock.Scale}% and the accuracy by {Boost.Attrib.Accuracy.Scale}%.",
+  "display_short_help": "Set: Force Feedback",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_FORCE_FEEDBACK_B.POWERSETS",
+  "icon": "attuned_force_feedback_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Force_Feedback_B.Attuned_Force_Feedback_B"
+  ],
+  "power_display_names": [
+    "Force Feedback: Knockback/Accuracy"
+  ],
+  "power_short_helps": [
+    "+Knockback, +ACC"
+  ]
+}

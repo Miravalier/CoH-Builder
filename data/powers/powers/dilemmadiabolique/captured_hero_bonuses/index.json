@@ -1,0 +1,46 @@
+{
+  "name": "Captured_Hero_Bonuses",
+  "display_name": "Captured Hero Bonuses",
+  "display_fullname": "DilemmaDiabolique.Captured Hero Bonuses",
+  "display_help": "Diabolique",
+  "display_short_help": "Diabolique",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/DILEMMADIABOLIQUE/CAPTURED_HERO_BONUSES.POWERSETS",
+  "icon": "captured_hero_bonuses_set.png",
+  "requires": "",
+  "power_names": [
+    "DilemmaDiabolique.Captured_Hero_Bonuses.A",
+    "DilemmaDiabolique.Captured_Hero_Bonuses.B",
+    "DilemmaDiabolique.Captured_Hero_Bonuses.C",
+    "DilemmaDiabolique.Captured_Hero_Bonuses.D",
+    "DilemmaDiabolique.Captured_Hero_Bonuses.E",
+    "DilemmaDiabolique.Captured_Hero_Bonuses.F",
+    "DilemmaDiabolique.Captured_Hero_Bonuses.G"
+  ],
+  "power_display_names": [
+    "Essence of Force",
+    "Essence of Insight",
+    "Essence of Fortitude",
+    "Essence of Acuity",
+    "Essence of Resilience",
+    "Essence of Power",
+    "Essence of Protection"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special",
+    "Special"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Minion_Fire",
+  "display_name": "Minion Fire",
+  "display_fullname": "V LegacyChain.Minion Fire",
+  "display_help": "Legacy of Flame",
+  "display_short_help": "Legacy of Flame",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_LEGACYCHAIN/MINION_FIRE.POWERSETS",
+  "icon": "minion_fire_set.png",
+  "requires": "",
+  "power_names": [
+    "V_LegacyChain.Minion_Fire.Fire_Smash"
+  ],
+  "power_display_names": [
+    "Fire Smash"
+  ],
+  "power_short_helps": [
+    "Melee Heavy Smash, Fire"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "group": "PrestigeSelfRez_Group",
+  "powers": [
+    [
+      "Prestige.Prestige Utility.Renewal of Light",
+      "prestige.prestige_utility.renewal_of_light"
+    ],
+    [
+      "Prestige.Prestige Utility.Return to Battle",
+      "prestige.prestige_utility.prestige_selfrez"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Natural_Res_Damage",
+  "display_name": "Technology Natural Res Damage",
+  "display_fullname": "Boosts.Technology Natural Res Damage",
+  "display_help": "Enhances the damage resistance of a power.",
+  "display_short_help": "Gadget (Technology, Natural)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_NATURAL_RES_DAMAGE.POWERSETS",
+  "icon": "technology_natural_res_damage_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Natural_Res_Damage.Technology_Natural_Res_Damage"
+  ],
+  "power_display_names": [
+    "Aegis Device (Resist Damage)"
+  ],
+  "power_short_helps": [
+    "Enhances Damage Resistance"
+  ]
+}

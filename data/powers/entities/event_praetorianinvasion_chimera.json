@@ -1,0 +1,110 @@
+{
+  "name": "Event_PraetorianInvasion_Chimera",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 20,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Signatures_Ranged",
+    "character_class_name": "boss_monster",
+    "description": "Known in Praetoria as Praetor Sinclair, he is Emperor Cole's ultimate assassin. When his parents were killed by Doppelganger, Justin Sinclair was given the opportunity of a lifetime. Doppelganger took the boy under his wing and trained him to be the world's premier silent killer.",
+    "group_description": "Praetorians",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Praetorians.Chimera.Resistance",
+      "Praetorians.Chimera.Super_Leap",
+      "Praetorians.Chimera.Focused_Fighting",
+      "Praetorians.Chimera.Hack",
+      "Praetorians.Chimera.Slash",
+      "Praetorians.Chimera.Slice",
+      "Praetorians.Chimera.Parry",
+      "Praetorians.Chimera.Whirling_Sword",
+      "Praetorians.Chimera.Disembowel",
+      "Praetorians.Chimera.Head_Splitter",
+      "Praetorians.Chimera.Bow",
+      "GenericVillains.Debt_Protection_NoFX.Debt_Protection_NoFX"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Super Leap",
+      "Focused Fighting",
+      "Hack",
+      "Slash",
+      "Slice",
+      "Parry",
+      "Whirling Sword",
+      "Disembowel",
+      "Head Splitter",
+      "Bow",
+      "Debt Protection"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Praetorians",
+        "power_set": "Chimera",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Debt_Protection_NoFX",
+        "power": "Debt_Protection_NoFX",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 20,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Chimera"
+      ],
+      "costumes": [
+        "Chimera"
+      ]
+    }
+  ]
+}

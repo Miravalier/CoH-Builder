@@ -1,0 +1,22 @@
+{
+  "name": "Ranged_Shot",
+  "display_name": "",
+  "display_fullname": "OneWillDie Issue3Powers.Ranged Shot",
+  "display_help": "Archery",
+  "display_short_help": "Archery",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/ONEWILLDIE_ISSUE3POWERS/RANGED_SHOT.POWERSETS",
+  "icon": "ranged_shot_set.png",
+  "requires": "",
+  "power_names": [
+    "OneWillDie_Issue3Powers.Ranged_Shot.Ranged_Shot"
+  ],
+  "power_display_names": [
+    "Ranged Shot"
+  ],
+  "power_short_helps": [
+    "Sniper, Extreme DMG(Lethal)"
+  ]
+}

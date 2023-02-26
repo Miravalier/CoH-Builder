@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Stupefy_F",
+  "display_name": "Crafted Stupefy F",
+  "display_fullname": "Boosts.Crafted Stupefy F",
+  "display_help": "Adds a small chance to knock your foe back. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Stupefy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_STUPEFY_F.POWERSETS",
+  "icon": "crafted_stupefy_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Stupefy_F.Crafted_Stupefy_F"
+  ],
+  "power_display_names": [
+    "Stupefy: Chance for Knockback"
+  ],
+  "power_short_helps": [
+    "Adds Knockback"
+  ]
+}

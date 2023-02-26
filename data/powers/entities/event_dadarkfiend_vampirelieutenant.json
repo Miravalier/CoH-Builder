@@ -1,0 +1,112 @@
+{
+  "name": "Event_DADarkFiend_VampireLieutenant",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Undead"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 30,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Event_Ranged",
+    "character_class_name": "lt_grunt",
+    "description": "The depraved ugliness festering in the underbelly of humanity is called forth at The Banner of Fiends. These Dark Fiends are a physical manifestation of pure malice, seeking calculated cruelty and malevolence, just because they can.",
+    "group_description": "Dark Fiends",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.5,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Council.Vampyri.Pummel",
+      "Council.Vampyri.Shadow_Punch",
+      "Council.Vampyri.Gloom",
+      "Council.Vampyri_Life_Drain.Siphon_Life",
+      "Council.Vampyri_Life_Drain.Life_Drain",
+      "Council.Vampyri_Mesmerist.Mesmerize",
+      "Council.Vampyri_Mesmerist.Dominate",
+      "Council.Vampyri_Mesmerist.Reconstruction",
+      "Council.Vampyri_Defense.Fast_Healing"
+    ],
+    "power_display_names": [
+      "Pummel",
+      "Shadow Punch",
+      "Gloom",
+      "Siphon Life",
+      "Life Drain",
+      "Mesmerize",
+      "Dominate",
+      "Reconstruction",
+      "Fast Healing"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Council",
+        "power_set": "Vampyri",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Council",
+        "power_set": "Vampyri_Life_Drain",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Council",
+        "power_set": "Vampyri_Mesmerist",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Council",
+        "power_set": "Vampyri_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 30,
+      "experience": 0,
+      "display_names": [
+        "Dark Fiend"
+      ],
+      "costumes": [
+        "Council_Vampyri_01"
+      ]
+    }
+  ]
+}

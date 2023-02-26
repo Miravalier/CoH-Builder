@@ -1,0 +1,38 @@
+{
+  "name": "Tilmans_Mind_Auto",
+  "display_name": "Tilmans_Mind_Auto",
+  "display_fullname": "MindsOfMayhem.Tilmans Mind Auto",
+  "display_help": "Mother Mayhem",
+  "display_short_help": "Mother Mayhem",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MINDSOFMAYHEM/TILMANS_MIND_AUTO.POWERSETS",
+  "icon": "tilmans_mind_auto_set.png",
+  "requires": "",
+  "power_names": [
+    "MindsOfMayhem.Tilmans_Mind_Auto.Aura_of_Psychosis",
+    "MindsOfMayhem.Tilmans_Mind_Auto.Grant_Aura_of_Pain",
+    "MindsOfMayhem.Tilmans_Mind_Auto.Aura_of_Pain",
+    "MindsOfMayhem.Tilmans_Mind_Auto.Phase_Resistance",
+    "MindsOfMayhem.Tilmans_Mind_Auto.Resistance"
+  ],
+  "power_display_names": [
+    "Aura of Psychosis",
+    "Grant Aura of Pain",
+    "Aura of Pain",
+    "Phase Resistance",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "High DMG (Psionic), Special",
+    "Special",
+    "-Res(Foe; Psionic), -Def(Foe; AoE, Psionic), Special",
+    "Resistance",
+    "Resistance"
+  ]
+}

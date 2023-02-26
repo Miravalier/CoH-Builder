@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Recovery",
+  "display_name": "Technology Endurance",
+  "display_fullname": "Boosts.Technology Recovery",
+  "display_help": "Increases the endurance modification ability of a power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_RECOVERY.POWERSETS",
+  "icon": "technology_recovery_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Recovery.Technology_Recovery"
+  ],
+  "power_display_names": [
+    "WetWare Eng Hyperkinetic Polymer (Endurance Modification)"
+  ],
+  "power_short_helps": [
+    "Enhances Endurance Modification"
+  ]
+}

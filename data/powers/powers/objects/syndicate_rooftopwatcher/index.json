@@ -1,0 +1,22 @@
+{
+  "name": "Syndicate_RooftopWatcher",
+  "display_name": "Syndicate_RooftopWatcher",
+  "display_fullname": "Objects.Syndicate RooftopWatcher",
+  "display_help": "Map",
+  "display_short_help": "Map",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/SYNDICATE_ROOFTOPWATCHER.POWERSETS",
+  "icon": "syndicate_rooftopwatcher_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Syndicate_RooftopWatcher.Teleport_Syndicate"
+  ],
+  "power_display_names": [
+    "Teleport Syndicate"
+  ],
+  "power_short_helps": [
+    "Syndicate Descent"
+  ]
+}

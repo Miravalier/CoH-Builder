@@ -1,0 +1,617 @@
+{
+  "name": "Gladiators_Javelin",
+  "display_name": "Gladiator's Javelin",
+  "group_name": "Ranged Damage",
+  "conversion_groups": [
+    "Rarity: PvP"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Gladiators_Javelin_A.Crafted_Gladiators_Javelin_A",
+      "Boosts.Attuned_Gladiators_Javelin_A.Attuned_Gladiators_Javelin_A"
+    ],
+    [
+      "Boosts.Crafted_Gladiators_Javelin_B.Crafted_Gladiators_Javelin_B",
+      "Boosts.Attuned_Gladiators_Javelin_B.Attuned_Gladiators_Javelin_B"
+    ],
+    [
+      "Boosts.Crafted_Gladiators_Javelin_C.Crafted_Gladiators_Javelin_C",
+      "Boosts.Attuned_Gladiators_Javelin_C.Attuned_Gladiators_Javelin_C"
+    ],
+    [
+      "Boosts.Crafted_Gladiators_Javelin_D.Crafted_Gladiators_Javelin_D",
+      "Boosts.Attuned_Gladiators_Javelin_D.Attuned_Gladiators_Javelin_D"
+    ],
+    [
+      "Boosts.Crafted_Gladiators_Javelin_E.Crafted_Gladiators_Javelin_E",
+      "Boosts.Attuned_Gladiators_Javelin_E.Attuned_Gladiators_Javelin_E"
+    ],
+    [
+      "Boosts.Crafted_Gladiators_Javelin_F.Crafted_Gladiators_Javelin_F",
+      "Boosts.Attuned_Gladiators_Javelin_F.Attuned_Gladiators_Javelin_F"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.increased_range_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_damage_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.increased_energy_neg_ranged_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.knockback_protection_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.energy_neg_mez_res_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.pvp_set_bonus.improved_recharge_time_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": true
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage",
+      "Enhance Damage"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.increased_range_5",
+          "Huge Increased Range (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance (PvP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_damage_4",
+          "Large Increased Damage Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.increased_energy_neg_ranged_def_4",
+          "Large Increased Energy/Negative Energy/Ranged Def Bonus (PVP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.knockback_protection_2",
+          "Small Knockback Protection Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.energy_neg_mez_res_5",
+          "Huge Energy, Negative Energy and Mez Resistance (PvP)"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ],
+        [
+          "set_bonus.pvp_set_bonus.improved_recharge_time_5",
+          "Huge Improved Recharge Time Bonus (PVP)"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png",
+      "e_icon_gladiatorsjavelin.png"
+    ],
+    "boosts": [
+      [
+        "Gladiator's Javelin: Accuracy/Damage",
+        "Attuned Gladiator's Javelin: Accuracy/Damage"
+      ],
+      [
+        "Gladiator's Javelin: Damage/Recharge",
+        "Attuned Gladiator's Javelin: Damage/Recharge"
+      ],
+      [
+        "Gladiator's Javelin: Damage/Endurance/Recharge",
+        "Attuned Gladiator's Javelin: Damage/Endurance/Recharge"
+      ],
+      [
+        "Gladiator's Javelin: Accuracy/Endurance/Recharge",
+        "Attuned Gladiator's Javelin: Accuracy/Endurance/Recharge"
+      ],
+      [
+        "Gladiator's Javelin: Accuracy/Damage/Endurance/Recharge",
+        "Attuned Gladiator's Javelin: Accuracy/Damage/Endurance/Recharge"
+      ],
+      [
+        "Gladiator's Javelin: Chance for Toxic Damage",
+        "Attuned Gladiator's Javelin: Chance for Toxic Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_gladiators_javelin_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gladiators_javelin_a.attuned_gladiators_javelin_a",
+          "Gladiator's Javelin: Damage/Accuracy"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Gladiator's Javelin: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "attuned_gladiators_javelin_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gladiator's Javelin: Accuracy/Damage",
+        "aspects": [
+          "Accuracy",
+          "Damage"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "crafted_gladiators_javelin_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gladiators_javelin_b.attuned_gladiators_javelin_b",
+          "Gladiator's Javelin: Damage/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Gladiator's Javelin: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "attuned_gladiators_javelin_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gladiator's Javelin: Damage/Recharge",
+        "aspects": [
+          "Damage",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "crafted_gladiators_javelin_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gladiators_javelin_c.attuned_gladiators_javelin_c",
+          "Gladiator's Javelin: Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Gladiator's Javelin: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "attuned_gladiators_javelin_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gladiator's Javelin: Damage/Endurance/Recharge",
+        "aspects": [
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "crafted_gladiators_javelin_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gladiators_javelin_d.attuned_gladiators_javelin_d",
+          "Gladiator's Javelin: Accuracy/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Gladiator's Javelin: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "attuned_gladiators_javelin_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gladiator's Javelin: Accuracy/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "crafted_gladiators_javelin_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gladiators_javelin_e.attuned_gladiators_javelin_e",
+          "Gladiator's Javelin: Accuracy/Damage/Endurance/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Gladiator's Javelin: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "attuned_gladiators_javelin_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gladiator's Javelin: Accuracy/Damage/Endurance/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Damage",
+          "Endurance",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "crafted_gladiators_javelin_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_gladiators_javelin_f.attuned_gladiators_javelin_f",
+          "Gladiator's Javelin: Chance for Toxic Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Gladiator's Javelin: Chance for Toxic Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      },
+      "attuned_gladiators_javelin_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": true,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 1,
+        "computed_name": "Attuned Gladiator's Javelin: Chance for Toxic Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "gladiators_javelin",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Damage",
+        "icon": "e_icon_gladiatorsjavelin.png"
+      }
+    }
+  }
+}

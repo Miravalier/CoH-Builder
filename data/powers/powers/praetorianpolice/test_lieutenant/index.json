@@ -1,0 +1,22 @@
+{
+  "name": "TEST_Lieutenant",
+  "display_name": "Test Lieutenant",
+  "display_fullname": "PraetorianPolice.Test Lieutenant",
+  "display_help": "PPD Leader",
+  "display_short_help": "PPD Leader",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/TEST_LIEUTENANT.POWERSETS",
+  "icon": "test_lieutenant_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.TEST_Lieutenant.Plasma_Burst"
+  ],
+  "power_display_names": [
+    "Plasma Burst"
+  ],
+  "power_short_helps": [
+    "Ranged Cone, Moderate DMG(Energy/Smash), Foe Knockdown, -Regen"
+  ]
+}

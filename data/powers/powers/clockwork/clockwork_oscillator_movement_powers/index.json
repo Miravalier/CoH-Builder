@@ -1,0 +1,26 @@
+{
+  "name": "Clockwork_Oscillator_Movement_Powers",
+  "display_name": "Clockwork_Oscillator_Movement_Powers",
+  "display_fullname": "Clockwork.Clockwork Oscillator Movement Powers",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CLOCKWORK/CLOCKWORK_OSCILLATOR_MOVEMENT_POWERS.POWERSETS",
+  "icon": "clockwork_oscillator_movement_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Clockwork.Clockwork_Oscillator_Movement_Powers.Fly",
+    "Clockwork.Clockwork_Oscillator_Movement_Powers.Fly_fx"
+  ],
+  "power_display_names": [
+    "Fly",
+    "Fly fx"
+  ],
+  "power_short_helps": [
+    "Self Travel",
+    "Special"
+  ]
+}

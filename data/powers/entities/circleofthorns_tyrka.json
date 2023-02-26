@@ -1,0 +1,124 @@
+{
+  "name": "CircleOfThorns_Tyrka",
+  "gender": "GENDER_MALE",
+  "group_name": "CircleOfThorns",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_elite",
+    "description": "Tyrka is a former Circle of Thorns mage. There aren't many members of the Circle of Thorns who willingly abandon thousands of years of tradition, but Tyrka seems to have been swayed enough by someone to leave the Circle of Thorns. It's assumed from the body that Tyrka's spirit is a female, though Tyrka has never confirmed that suggestion.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "CircleOfThorns.Circle_Melee.Falchion",
+      "CircleOfThorns.Circle_Agony_Ranged.Crush",
+      "CircleOfThorns.Circle_Agony_Ranged.Siphon_Power",
+      "CircleOfThorns.Circle_Agony_Ranged.Absorb_Pain",
+      "CircleOfThorns.Circle_Death_Ranged.Chill_of_the_Night",
+      "CircleOfThorns.Circle_Death_Ranged.Gloom",
+      "CircleOfThorns.Circle_Death_Ranged.Tenebrous_Tentacles"
+    ],
+    "power_display_names": [
+      "Falchion",
+      "Crush",
+      "Siphon Power",
+      "Absorb Pain",
+      "Chill of the Night",
+      "Gloom",
+      "Tenebrous Tentacles"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Agony_Ranged",
+        "power": "Crush",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Agony_Ranged",
+        "power": "Siphon_Power",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Agony_Ranged",
+        "power": "Absorb_Pain",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Death_Ranged",
+        "power": "Chill_of_the_Night",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Death_Ranged",
+        "power": "Gloom",
+        "level": 0
+      },
+      {
+        "power_category": "CircleOfThorns",
+        "power_set": "Circle_Death_Ranged",
+        "power": "Tenebrous_Tentacles",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Tyrka"
+      ],
+      "costumes": [
+        "Model_Tyrka_NoRing"
+      ]
+    }
+  ]
+}

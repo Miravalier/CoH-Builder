@@ -1,0 +1,22 @@
+{
+  "name": "Bile_Lok",
+  "display_name": "Bile_Lok",
+  "display_fullname": "Freaklok.Bile Lok",
+  "display_help": "Bile_Lok",
+  "display_short_help": "Bile_Lok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKLOK/BILE_LOK.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Freaklok.Bile_Lok.Instant_Healing"
+  ],
+  "power_display_names": [
+    "Instant Healing"
+  ],
+  "power_short_helps": [
+    "Click: Self +Regeneration"
+  ]
+}

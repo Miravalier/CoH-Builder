@@ -1,0 +1,102 @@
+{
+  "name": "Miscellaneous_Johnny_Sonata_Soul",
+  "gender": "GENDER_MALE",
+  "group_name": "Miscellaneous",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Ghost",
+    "Undead",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 35,
+    "max_level": 41,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "Sold to a demon on a lonely winter night in exchange for fame, wealth, and power, Johnny Sonata's soul may be the last remnant of a different, better, person who might have been. Johnny might want his soul back, but Johnny's Soul might not want to return.",
+    "group_description": "Tormented Victim",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Miscellaneous.Johnny_Sonata_Soul.Scream",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Shout",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Howl",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Shockwave",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Sonic_Dispersion",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Sonic_Siphon",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Dreadful_Wail",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Ethereal",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Resistance",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Arch_Villain_Resistance",
+      "V_Miscellaneous.Johnny_Sonata_Soul.Fly"
+    ],
+    "power_display_names": [
+      "Scream",
+      "Shout",
+      "Howl",
+      "Shockwave",
+      "Sonic Dispersion",
+      "Sonic Siphon",
+      "Dreadful Wail",
+      "Ethereal",
+      "Resistance",
+      "Arch Villain Resistance",
+      "Fly"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Miscellaneous",
+        "power_set": "Johnny_Sonata_Soul",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 35,
+      "max_level": 41,
+      "experience": 0,
+      "display_names": [
+        "Johnny Sonata's Soul"
+      ],
+      "costumes": [
+        "Model_Johnny_Sonata_Ghost"
+      ]
+    }
+  ]
+}

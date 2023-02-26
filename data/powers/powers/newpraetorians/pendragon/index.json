@@ -1,0 +1,50 @@
+{
+  "name": "Pendragon",
+  "display_name": "Pendragon",
+  "display_fullname": "NewPraetorians.Pendragon",
+  "display_help": "Pendragon",
+  "display_short_help": "Pendragon",
+  "available_level": [
+    27,
+    0,
+    0,
+    0,
+    11,
+    17,
+    23,
+    0
+  ],
+  "source_file": "DEFS/POWERS/NEWPRAETORIANS/PENDRAGON.POWERSETS",
+  "icon": "pendragon_set.png",
+  "requires": "",
+  "power_names": [
+    "NewPraetorians.Pendragon.Tectonic_Assault",
+    "NewPraetorians.Pendragon.Defensive_Sweep",
+    "NewPraetorians.Pendragon.Crushing_Blow",
+    "NewPraetorians.Pendragon.Shockwave_Strike",
+    "NewPraetorians.Pendragon.Follow_Through",
+    "NewPraetorians.Pendragon.Shatter_Armor",
+    "NewPraetorians.Pendragon.Arc_of_Devastation",
+    "NewPraetorians.Pendragon.Taunt"
+  ],
+  "power_display_names": [
+    "Tectonic Assault",
+    "Defensive Sweep",
+    "Crushing Blow",
+    "Shockwave Strike",
+    "Follow Through",
+    "Shatter Armor",
+    "Arc of Devastation",
+    "Taunt"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted AoE), Minor DoT (Smashing), -Fly (Foe)",
+    "Melee (Cone), Moderate DMG (Smashing), +DEF (Self, Melee, Smashing), +ToHit (Self), Chance for -Rech (Foe)",
+    "Melee, Moderate DMG (Smashing), Minor DoT (Lethal), -Speed (Foe, All), -Fly (Foe)",
+    "Melee, High DMG (Smashing), Chance for -Regen (Foe), -Rec (Foe), Knockback (Foe)",
+    "Melee (Targeted AoE), High DMG (Smashing), Moderate DoT (Lethal), Chance for Knockup (Foe), -Fly(Foe)",
+    "Melee (Targeted AoE), Superior DMG (Smashing), -DEF (Foe, All), -RES (Foe, All)",
+    "Melee (Cone), High DMG (Smashing), Chance for Knockdown (Foe), Stun (Foe), -Rech (Foe), -ToHit (Foe)",
+    "Ranged (Targeted AoE), Taunt (Foe), -Range (Foe)"
+  ]
+}

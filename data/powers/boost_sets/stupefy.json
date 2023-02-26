@@ -1,0 +1,542 @@
+{
+  "name": "Stupefy",
+  "display_name": "Stupefy",
+  "group_name": "Stuns",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Stun"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Stupefy_A.Crafted_Stupefy_A",
+      "Boosts.Attuned_Stupefy_A.Attuned_Stupefy_A"
+    ],
+    [
+      "Boosts.Crafted_Stupefy_B.Crafted_Stupefy_B",
+      "Boosts.Attuned_Stupefy_B.Attuned_Stupefy_B"
+    ],
+    [
+      "Boosts.Crafted_Stupefy_C.Crafted_Stupefy_C",
+      "Boosts.Attuned_Stupefy_C.Attuned_Stupefy_C"
+    ],
+    [
+      "Boosts.Crafted_Stupefy_D.Crafted_Stupefy_D",
+      "Boosts.Attuned_Stupefy_D.Attuned_Stupefy_D"
+    ],
+    [
+      "Boosts.Crafted_Stupefy_E.Crafted_Stupefy_E",
+      "Boosts.Attuned_Stupefy_E.Attuned_Stupefy_E"
+    ],
+    [
+      "Boosts.Crafted_Stupefy_F.Crafted_Stupefy_F",
+      "Boosts.Attuned_Stupefy_F.Attuned_Stupefy_F"
+    ]
+  ],
+  "min_level": 20,
+  "max_level": 50,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recovery_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.stun_dur_5"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.improved_recharge_time_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_ranged_energy_neg_def_4"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient",
+      "Enhance Disorient"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.improved_recovery_4",
+          "Large Improved Recovery Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_4",
+          "Large Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.stun_dur_5",
+          "Huge Stun Duration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.improved_recharge_time_4",
+          "Large Improved Recharge Time Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_ranged_energy_neg_def_4",
+          "Large Increased Ranged/Energy/Negative Energy Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png",
+      "e_icon_stupefy.png"
+    ],
+    "boosts": [
+      [
+        "Stupefy: Accuracy/Recharge",
+        "Attuned Stupefy: Accuracy/Recharge"
+      ],
+      [
+        "Stupefy: Endurance/Stunned",
+        "Attuned Stupefy: Endurance/Stunned"
+      ],
+      [
+        "Stupefy: Accuracy/Endurance",
+        "Attuned Stupefy: Accuracy/Endurance"
+      ],
+      [
+        "Stupefy: Range/Stunned",
+        "Attuned Stupefy: Range/Stunned"
+      ],
+      [
+        "Stupefy: Accuracy/Recharge/Stunned",
+        "Attuned Stupefy: Accuracy/Recharge/Stunned"
+      ],
+      [
+        "Stupefy: Proc",
+        "Attuned Stupefy: Proc"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_stupefy_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_stupefy_a.attuned_stupefy_a",
+          "Stupefy: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Stupefy: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "attuned_stupefy_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Stupefy: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "crafted_stupefy_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_stupefy_b.attuned_stupefy_b",
+          "Stupefy: Endurance/Stun"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Stupefy: Endurance/Stunned",
+        "aspects": [
+          "Endurance",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "attuned_stupefy_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Stupefy: Endurance/Stunned",
+        "aspects": [
+          "Endurance",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "crafted_stupefy_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_stupefy_c.attuned_stupefy_c",
+          "Stupefy: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Stupefy: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "attuned_stupefy_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Stupefy: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "crafted_stupefy_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_stupefy_d.attuned_stupefy_d",
+          "Stupefy: Stun/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Stupefy: Range/Stunned",
+        "aspects": [
+          "Range",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "attuned_stupefy_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Stupefy: Range/Stunned",
+        "aspects": [
+          "Range",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "crafted_stupefy_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_stupefy_e.attuned_stupefy_e",
+          "Stupefy: Accuracy/Stun/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Stupefy: Accuracy/Recharge/Stunned",
+        "aspects": [
+          "Accuracy",
+          "Recharge",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "attuned_stupefy_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Stupefy: Accuracy/Recharge/Stunned",
+        "aspects": [
+          "Accuracy",
+          "Recharge",
+          "Stunned"
+        ],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "crafted_stupefy_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_stupefy_f.attuned_stupefy_f",
+          "Stupefy: Chance for Knockback"
+        ],
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Stupefy: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      },
+      "attuned_stupefy_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 50,
+        "min_slot_level": 16,
+        "min_bonus_level": 13,
+        "computed_name": "Attuned Stupefy: Proc",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "stupefy",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Disorient",
+        "icon": "e_icon_stupefy.png"
+      }
+    }
+  }
+}

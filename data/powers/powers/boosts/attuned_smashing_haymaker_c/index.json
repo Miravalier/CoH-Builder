@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Smashing_Haymaker_C",
+  "display_name": "Attuned Smashing Haymaker C",
+  "display_fullname": "Boosts.Attuned Smashing Haymaker C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces recharge cost by {Boost.Attrib.RechargeTime.Scale}%.",
+  "display_short_help": "Set: Smashing Haymaker",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_SMASHING_HAYMAKER_C.POWERSETS",
+  "icon": "attuned_smashing_haymaker_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Smashing_Haymaker_C.Attuned_Smashing_Haymaker_C"
+  ],
+  "power_display_names": [
+    "Smashing Haymaker: Damage/Recharge"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Recharge"
+  ]
+}

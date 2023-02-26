@@ -1,0 +1,26 @@
+{
+  "name": "Police_SubmachineGun",
+  "display_name": "Police SubmachineGun",
+  "display_fullname": "V ParagonPolice.Police SubmachineGun",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/POLICE_SUBMACHINEGUN.POWERSETS",
+  "icon": "police_submachinegun_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Police_SubmachineGun.Burst",
+    "V_ParagonPolice.Police_SubmachineGun.Rifle_Butt"
+  ],
+  "power_display_names": [
+    "Burst",
+    "Rifle Butt"
+  ],
+  "power_short_helps": [
+    "-Def",
+    "Disorient"
+  ]
+}

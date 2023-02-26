@@ -1,0 +1,26 @@
+{
+  "name": "Fiery_Demonling_2",
+  "display_name": "Fiery Demonling",
+  "display_fullname": "Mastermind Pets.Fiery Demonling",
+  "display_help": "Demons",
+  "display_short_help": "Demons",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MASTERMIND_PETS/FIERY_DEMONLING_2.POWERSETS",
+  "icon": "fiery_demonling_2_set.png",
+  "requires": "",
+  "power_names": [
+    "Mastermind_Pets.Fiery_Demonling_2.Fire_Blast",
+    "Mastermind_Pets.Fiery_Demonling_2.Enchant_Demon"
+  ],
+  "power_display_names": [
+    "Fire Blast",
+    "Enchant Demon"
+  ],
+  "power_short_helps": [
+    "Ranged, Light DMG(Fire)",
+    "Enchant Demon"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Super_Stunner",
+  "display_name": "Super_Stunner",
+  "display_fullname": "Freakshow.Super Stunner",
+  "display_help": "Super_Stunner",
+  "display_short_help": "Super_Stunner",
+  "available_level": [
+    0,
+    0,
+    0,
+    29,
+    29,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/SUPER_STUNNER.POWERSETS",
+  "icon": "super_stunner_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Super_Stunner.Electric_Fence",
+    "Freakshow.Super_Stunner.Tesla_Cage",
+    "Freakshow.Super_Stunner.Chain_Fences",
+    "Freakshow.Super_Stunner.Static_Field",
+    "Freakshow.Super_Stunner.Paralyzing_Blast",
+    "Freakshow.Super_Stunner.Reserve_Power"
+  ],
+  "power_display_names": [
+    "Electric Fence",
+    "Tesla Cage",
+    "Chain Fences",
+    "Static Field",
+    "Paralyzing Blast",
+    "Reserve Power"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Energy), Foe Immobilize, -End, -Fly, -Knockback",
+    "Ranged, Moderate DMG(Energy), Foe Hold, -End",
+    "Ranged AoE, Minor DMG(Energy), Foe Immobilize, -End",
+    "Target (Location AoE), Foe Sleep, -End, -Speed, -Recharge",
+    "Ranged AoE, Foe Hold, -End",
+    "Self Rez, Special"
+  ]
+}

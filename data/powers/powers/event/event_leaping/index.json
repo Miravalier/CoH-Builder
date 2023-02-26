@@ -1,0 +1,22 @@
+{
+  "name": "Event_Leaping",
+  "display_name": "Leaping",
+  "display_fullname": "Event.Leaping",
+  "display_help": "Leaping",
+  "display_short_help": "Leaping",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/EVENT/EVENT_LEAPING.POWERSETS",
+  "icon": "event_leaping_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Event_Leaping.Super_Jump"
+  ],
+  "power_display_names": [
+    "Super Jump"
+  ],
+  "power_short_helps": [
+    "Toggle: Self Long Jump"
+  ]
+}

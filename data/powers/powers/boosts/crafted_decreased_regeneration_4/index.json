@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Decreased_Regeneration_4",
+  "display_name": "Crafted Decreased Regeneration 4",
+  "display_fullname": "Boosts.Crafted Decreased Regeneration 4",
+  "display_help": "Enhances the regeneration reduction of a power by {Boost.Attrib.Regeneration.Scale}%.",
+  "display_short_help": "Crafted Decreased Regeneration 4",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DECREASED_REGENERATION_4.POWERSETS",
+  "icon": "crafted_decreased_regeneration_4_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Decreased_Regeneration_4.Crafted_Decreased_Regeneration_4"
+  ],
+  "power_display_names": [
+    "Regeneration Decrease"
+  ],
+  "power_short_helps": [
+    "Adds -Regen"
+  ]
+}

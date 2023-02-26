@@ -1,0 +1,22 @@
+{
+  "name": "Vampyr_Chamber",
+  "display_name": "Vampyr Chamber",
+  "display_fullname": "Council.Vampyr Chamber",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/VAMPYR_CHAMBER.POWERSETS",
+  "icon": "vampyr_chamber_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Vampyr_Chamber.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Res (Lethal/Smashing)"
+  ]
+}

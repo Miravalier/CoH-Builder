@@ -1,0 +1,26 @@
+{
+  "name": "LT",
+  "display_name": "Lieutenant",
+  "display_fullname": "V Batzul.Lieutenant",
+  "display_help": "Bat'Zul",
+  "display_short_help": "Bat'Zul",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_BATZUL/LT.POWERSETS",
+  "icon": "lt_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Batzul.LT.Fire_Phlegm",
+    "V_Batzul.LT.Fire_Breath"
+  ],
+  "power_display_names": [
+    "Fire Phlegm",
+    "Fire Breath"
+  ],
+  "power_short_helps": [
+    "Hold, DoT(Fire )",
+    "DoT(Fire)"
+  ]
+}

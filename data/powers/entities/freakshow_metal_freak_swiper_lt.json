@@ -1,0 +1,109 @@
+{
+  "name": "Freakshow_Metal_Freak_Swiper_Lt",
+  "gender": "GENDER_MALE",
+  "group_name": "Freakshow",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Electronic"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 45,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "Freakshow_Freaks_Base",
+    "character_class_name": "lt_grunt",
+    "description": "These are the heroes of the Freakshow, devoted utterly to smashing the state and having a great time while they're doing it. They're totally without care or mercy; point them in the right direction (or even the wrong one) and mayhem ensues.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.95,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Freakshow.Freakshow_Enforcers_Metal_Tank_1HSwiper_Melee.Cybernetic_Blade",
+      "Freakshow.Freakshow_Metal_Tank_2HSwiper_Melee.Cybernetic_Blades",
+      "Freakshow.Freakshow_Metal_Tank_2HSwiper_Ranged.Sawblade",
+      "Freakshow.Freakshow_Inherent_Defense.Dull_Pain",
+      "Freakshow.Freakshow_Inherent_Defense.Revive",
+      "Freakshow.Freakshow_Inherent_Defense.Resistance"
+    ],
+    "power_display_names": [
+      "Cybernetic Blade",
+      "Cybernetic Blades",
+      "Sawblade",
+      "Dull Pain",
+      "Revive",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Enforcers_Metal_Tank_1HSwiper_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Metal_Tank_2HSwiper_Melee",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Metal_Tank_2HSwiper_Ranged",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Freakshow",
+        "power_set": "Freakshow_Inherent_Defense",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 45,
+      "experience": 0,
+      "display_names": [
+        "Champion Swiper"
+      ],
+      "costumes": [
+        "Frk_31",
+        "Frk_32",
+        "Frk_34",
+        "Frk_36",
+        "Frk_37",
+        "Frk_38"
+      ]
+    }
+  ]
+}

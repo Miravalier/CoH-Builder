@@ -1,0 +1,50 @@
+{
+  "name": "Pathogen_Stage2",
+  "display_name": "Pathogen Stage2",
+  "display_fullname": "Vahzilok.Pathogen Stage2",
+  "display_help": "A collection of powers used by Pathogen and his mission.",
+  "display_short_help": "Pathogen Stage2",
+  "available_level": [
+    0,
+    13,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/PATHOGEN_STAGE2.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Pathogen_Stage2.Quickness_Stage2",
+    "Vahzilok.Pathogen_Stage2.Corrosive_Vial_Stage2",
+    "Vahzilok.Pathogen_Stage2.Weaken_Stage2",
+    "Vahzilok.Pathogen_Stage2.BoneSaw_Stage2",
+    "Vahzilok.Pathogen_Stage2.Cleaver_Stage2",
+    "Vahzilok.Pathogen_Stage2.Resistance_Stage2",
+    "Vahzilok.Pathogen_Stage2.Poison_Dart_Stage1",
+    "Vahzilok.Pathogen_Stage2.Sleep_Dart_Stage1"
+  ],
+  "power_display_names": [
+    "Quickness",
+    "Corrosive Vial",
+    "Weaken",
+    "BoneSaw",
+    "Cleaver",
+    "Resistance",
+    "Poison Dart",
+    "Sleep Dart"
+  ],
+  "power_short_helps": [
+    "Auto: Self +Recharge, +SPD, Res (Slow)",
+    "Ranged (Targeted AoE), High DoT(Toxic), -Defense",
+    "Ranged Foe -DMG -To Hit, -Special",
+    "Melee Lethal, Med Dam",
+    "Melee Lethal, High Dam",
+    "Inherent",
+    "Poison: DoT(Toxic), -Regeneration",
+    "Sleep"
+  ]
+}

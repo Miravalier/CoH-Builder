@@ -1,0 +1,22 @@
+{
+  "name": "CoT_Prison_Door_Dampening_Field",
+  "display_name": "CoT_Prison_Door_Dampening_Field",
+  "display_fullname": "CircleOfThorns.CoT Prison Door Dampening Field",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/CIRCLEOFTHORNS/COT_PRISON_DOOR_DAMPENING_FIELD.POWERSETS",
+  "icon": "cot_prison_door_dampening_field_set.png",
+  "requires": "",
+  "power_names": [
+    "CircleOfThorns.CoT_Prison_Door_Dampening_Field.Dampening_Field"
+  ],
+  "power_display_names": [
+    "Dampening Field"
+  ],
+  "power_short_helps": [
+    "-Teleport"
+  ]
+}

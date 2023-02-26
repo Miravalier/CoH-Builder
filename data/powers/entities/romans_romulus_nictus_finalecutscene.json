@@ -1,0 +1,91 @@
+{
+  "name": "Romans_Romulus_Nictus_FinaleCutscene",
+  "gender": "GENDER_MALE",
+  "group_name": "Romans",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ARCHVILLAIN",
+    "ai_config": "Romans",
+    "character_class_name": "boss_archvillain",
+    "description": "Once the right hand man to Imperious, Romulus turned traitor and overthrew Imperious. Now, Romulus sides with the Nictus and other more questionable forces to secure his tyrannical rule over Cimerora.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Romans.Romulus_HM_Cutscene.ITF_HM_Cutscene_Transform",
+      "Romans.Romulus_HM_Cutscene.ITF_HM_Cutscene_Crows",
+      "Romans.Romulus_Nictus.Resistance",
+      "Romans.Romulus_Nictus_HM_Finale.Romulus_Challenge"
+    ],
+    "power_display_names": [
+      "Final Form",
+      "Crows",
+      "Resistance",
+      "Emperor's Challenge"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Romans",
+        "power_set": "Romulus_HM_Cutscene",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Romans",
+        "power_set": "Romulus_Nictus",
+        "power": "Resistance",
+        "level": 0
+      },
+      {
+        "power_category": "Romans",
+        "power_set": "Romulus_Nictus_HM_Finale",
+        "power": "Romulus_Challenge",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Romulus Augustus"
+      ],
+      "costumes": [
+        "Roman_Romulus_Augustus_Nictus_01"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "RoguesGallery_Silent_Blade_SL4-5",
+  "gender": "GENDER_FEMALE",
+  "group_name": "RoguesGallery",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 19,
+    "max_level": 34,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "Trained from birth to be the perfect killer, she has no name, no family and no compunctions about what she does.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericVillains.Sword_Stalker.Hack",
+      "V_GenericVillains.Sword_Stalker.Slash",
+      "V_GenericVillains.Sword_Stalker.Shurikens",
+      "V_GenericVillains.Sword_Stalker.Slice",
+      "V_GenericVillains.Sword_Stalker.Caltrops",
+      "V_GenericVillains.Sword_Stalker.Danger_Sense"
+    ],
+    "power_display_names": [
+      "Sting of the Wasp",
+      "Gambler's Cut",
+      "Shurikens",
+      "Flashing Steel",
+      "Caltrops",
+      "Danger Sense"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Sword_Stalker",
+        "power": "Hack",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Sword_Stalker",
+        "power": "Slash",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Sword_Stalker",
+        "power": "Shurikens",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Sword_Stalker",
+        "power": "Slice",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Sword_Stalker",
+        "power": "Caltrops",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Sword_Stalker",
+        "power": "Danger_Sense",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 19,
+      "max_level": 34,
+      "experience": 0,
+      "display_names": [
+        "Silent Blade"
+      ],
+      "costumes": [
+        "Model_Silent_Blade"
+      ]
+    }
+  ]
+}

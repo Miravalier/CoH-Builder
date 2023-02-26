@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Deflated_Ego_A",
+  "display_name": "Attuned Deflated Ego A",
+  "display_fullname": "Boosts.Attuned Deflated Ego A",
+  "display_help": "Enhances the to hit debuff potential of a power by {Boost.Attrib.ToHit.Scale}%.",
+  "display_short_help": "Set: Deflated Ego",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_DEFLATED_EGO_A.POWERSETS",
+  "icon": "attuned_deflated_ego_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Deflated_Ego_A.Attuned_Deflated_Ego_A"
+  ],
+  "power_display_names": [
+    "Deflated Ego: To Hit Debuff"
+  ],
+  "power_short_helps": [
+    "+To Hit Debuff"
+  ]
+}

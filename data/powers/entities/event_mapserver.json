@@ -1,0 +1,121 @@
+{
+  "name": "Event_Mapserver",
+  "gender": "GENDER_MALE",
+  "group_name": "Event",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Raid",
+    "MapserverPlot"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": true,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BIGMONSTER",
+    "ai_config": "Signatures_Melee",
+    "character_class_name": "boss_monster",
+    "description": "The Mapserver has been central to so many hero and villain defeats over time, that it's hard to believe it's escaped capture for so long.<br><br>It is the Alpha and Omega of supers world-wide... it's been there since the beginning, and will be there at the end. Some say it was already at the end, and is trying to accelerate to the end to save humanity the misery.",
+    "group_description": "D.O.O.M.",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 20.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericHeroes.MA_Scrapper.Quickness",
+      "GenericVillains.Scaling.HP_30_Dmg_4_Min_0_Max_30",
+      "V_Vindicators.Vindicator_Resistances.Resistance",
+      "Event.Mapserver_Boss.Latency_Kick",
+      "Event.Mapserver_Boss.Desync_Kick",
+      "Event.Mapserver_Boss.Reconnect_BuildUp",
+      "Event.Mapserver_Boss.Mapserver_Kick",
+      "Event.Mapserver_Boss.DBCorruption_Kick",
+      "Event.Mapserver_Boss.Disconnect_Kick",
+      "Event.Mapserver_Boss.Crash_Kick",
+      "Event.Mapserver_Boss.Beacon_Stomp",
+      "Event.Mapserver_Boss.Spinning_Server"
+    ],
+    "power_display_names": [
+      "Quickness",
+      "Scaling",
+      "Resistance",
+      "Latency Kick",
+      "Desync Kick",
+      "Reconnecting To DBServer",
+      "Mapserver Kick",
+      "Database Corruption Kick",
+      "Disconnection Kick",
+      "Crash Kick",
+      "Missing Beacons Stomp",
+      "Spinning Up Map Instances"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "MA_Scrapper",
+        "power": "Quickness",
+        "level": 0
+      },
+      {
+        "power_category": "GenericVillains",
+        "power_set": "Scaling",
+        "power": "HP_30_Dmg_4_Min_0_Max_30",
+        "level": 0
+      },
+      {
+        "power_category": "V_Vindicators",
+        "power_set": "Vindicator_Resistances",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "Event",
+        "power_set": "Mapserver_Boss",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "The Dreaded Mapserver!"
+      ],
+      "costumes": [
+        "Event_Mapserver"
+      ]
+    }
+  ]
+}

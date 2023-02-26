@@ -1,0 +1,22 @@
+{
+  "name": "Knight_Errant",
+  "display_name": "Knight Errant",
+  "display_fullname": "PaladinEvent.Knight Errant",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PALADINEVENT/KNIGHT_ERRANT.POWERSETS",
+  "icon": "knight_errant_set.png",
+  "requires": "",
+  "power_names": [
+    "PaladinEvent.Knight_Errant.Tesla_Cage"
+  ],
+  "power_display_names": [
+    "Tesla Cage"
+  ],
+  "power_short_helps": [
+    "Sleep - End"
+  ]
+}

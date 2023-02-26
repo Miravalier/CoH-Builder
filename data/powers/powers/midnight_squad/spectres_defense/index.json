@@ -1,0 +1,30 @@
+{
+  "name": "Spectres_Defense",
+  "display_name": "Spectres_Defense",
+  "display_fullname": "Midnight Squad.Spectres Defense",
+  "display_help": "Circle of Thorns",
+  "display_short_help": "Circle of Thorns",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHT_SQUAD/SPECTRES_DEFENSE.POWERSETS",
+  "icon": "spectres_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Midnight_Squad.Spectres_Defense.Resistance",
+    "Midnight_Squad.Spectres_Defense.Ethereal",
+    "Midnight_Squad.Spectres_Defense.Fly"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Ethereal",
+    "Fly"
+  ],
+  "power_short_helps": [
+    "Auto Res Smash, Lethal, Negative, Immobilize",
+    "Self Invisible, Invulnerable",
+    "Self Travel"
+  ]
+}

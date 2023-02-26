@@ -1,0 +1,22 @@
+{
+  "name": "Player_Count",
+  "display_name": "Player_Count",
+  "display_fullname": "GenericVillains.Player Count",
+  "display_help": "Special",
+  "display_short_help": "Special",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/PLAYER_COUNT.POWERSETS",
+  "icon": "player_count_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Player_Count.Player_Count"
+  ],
+  "power_display_names": [
+    "Player Count"
+  ],
+  "power_short_helps": [
+    "Special"
+  ]
+}

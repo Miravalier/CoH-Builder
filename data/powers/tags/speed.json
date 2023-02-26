@@ -1,0 +1,18 @@
+{
+  "tag": "Speed",
+  "bears": [
+    [
+      "Scrapper Defense.Ninjitsu.Kuji-In Rin",
+      "scrapper_defense.ninjitsu.kuji-in_rin"
+    ],
+    [
+      "Sentinel Defense.Ninjitsu.Kuji-In Rin",
+      "sentinel_defense.ninjitsu.kuji-in_rin"
+    ],
+    [
+      "Stalker Defense.Ninjitsu.Kuji-In Rin",
+      "stalker_defense.ninjitsu.kuji-in_rin"
+    ]
+  ],
+  "affects": []
+}

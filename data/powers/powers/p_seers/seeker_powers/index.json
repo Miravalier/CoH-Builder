@@ -1,0 +1,34 @@
+{
+  "name": "Seeker_Powers",
+  "display_name": "Seeker Powers",
+  "display_fullname": "P Seers.Seeker Powers",
+  "display_help": "Seeker",
+  "display_short_help": "Seeker",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/P_SEERS/SEEKER_POWERS.POWERSETS",
+  "icon": "seeker_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "P_Seers.Seeker_Powers.Mental_Blast",
+    "P_Seers.Seeker_Powers.Soothe_Mind",
+    "P_Seers.Seeker_Powers.Fortitude",
+    "P_Seers.Seeker_Powers.Fortune"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Soothe Mind",
+    "Fortitude",
+    "Fortune"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), Target -Recharge",
+    "Ally Heal",
+    "Ally +DEF, +DMG, +ACC",
+    "PBAoE, Team +To Hit, Res(Status Effects)"
+  ]
+}

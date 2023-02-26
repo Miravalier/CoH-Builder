@@ -1,0 +1,42 @@
+{
+  "name": "Elder_Mamba",
+  "display_name": "Elder Mamba",
+  "display_fullname": "V Snakes.Elder Mamba",
+  "display_help": "Snakes",
+  "display_short_help": "Snakes",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_SNAKES/ELDER_MAMBA.POWERSETS",
+  "icon": "elder_mamba_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Snakes.Elder_Mamba.Snap_Shot",
+    "V_Snakes.Elder_Mamba.Aimed_Shot",
+    "V_Snakes.Elder_Mamba.Fistful_of_Arrows",
+    "V_Snakes.Elder_Mamba.Snake_Arrow",
+    "V_Snakes.Elder_Mamba.Poison_Bite",
+    "V_Snakes.Elder_Mamba.Positioning"
+  ],
+  "power_display_names": [
+    "Snap Shot",
+    "Aimed Shot",
+    "Fistful of Arrows",
+    "Snake Arrow",
+    "Poison Bite",
+    "Positioning"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Lethal), DoT(Toxic)",
+    "Ranged, Moderate DMG(Lethal), DoT(Toxic)",
+    "Ranged (Cone), Moderate DMG(Lethal), DoT(Toxic)",
+    "Ranged, Hold, DoT(Smashing)",
+    "Melee(Lethal), DoT(Toxic)",
+    "Positioning"
+  ]
+}

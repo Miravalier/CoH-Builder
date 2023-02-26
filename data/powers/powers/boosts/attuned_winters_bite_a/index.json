@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Winters_Bite_A",
+  "display_name": "Attuned Winters Bite A",
+  "display_fullname": "Boosts.Attuned Winters Bite A",
+  "display_help": "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character. Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}%. This enhancement can only be slotted by Blasters and may be slotted into any Blaster damage power.",
+  "display_short_help": "Set: Winter's Bite",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_WINTERS_BITE_A.POWERSETS",
+  "icon": "attuned_winters_bite_a_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Winters_Bite_A.Attuned_Winters_Bite_A"
+  ],
+  "power_display_names": [
+    "Winter's Bite: Accuracy/Damage"
+  ],
+  "power_short_helps": [
+    "Enhances Accuracy and Damage"
+  ]
+}

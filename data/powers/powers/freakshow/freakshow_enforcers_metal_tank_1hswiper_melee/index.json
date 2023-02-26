@@ -1,0 +1,22 @@
+{
+  "name": "Freakshow_Enforcers_Metal_Tank_1HSwiper_Melee",
+  "display_name": "Freakshow_Enforcers_Metal_Tank_1HSwiper_Melee",
+  "display_fullname": "Freakshow.Freakshow Enforcers Metal Tank 1HSwiper Melee",
+  "display_help": "Freakshow",
+  "display_short_help": "Freakshow",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/FREAKSHOW/FREAKSHOW_ENFORCERS_METAL_TANK_1HSWIPER_MELEE.POWERSETS",
+  "icon": "freakshow_enforcers_metal_tank_1hswiper_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Freakshow.Freakshow_Enforcers_Metal_Tank_1HSwiper_Melee.Cybernetic_Blade"
+  ],
+  "power_display_names": [
+    "Cybernetic Blade"
+  ],
+  "power_short_helps": [
+    "Melee Lethal"
+  ]
+}

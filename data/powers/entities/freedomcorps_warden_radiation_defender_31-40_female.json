@@ -1,0 +1,110 @@
+{
+  "name": "FreedomCorps_Warden_Radiation_Defender_31-40_Female",
+  "gender": "GENDER_FEMALE",
+  "group_name": "FreedomCorps",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": "Hero",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 31,
+    "max_level": 40,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_grunt",
+    "description": "It's said the defeat of the villain Chernobyl lead to the powers granted the Radiation Wardens. Longbow's nerds were somehow able to turn his blood sample into a powerful serum that grants one these unusual powers--without the usual side-effects.",
+    "group_description": "Longbow",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.25,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_GenericHeroes.Radiation_Defender_Low.Neutrino_Bolt",
+      "V_GenericHeroes.Radiation_Defender_Low.X-Ray_Beam",
+      "V_GenericHeroes.Radiation_Defender_Low.Enervating__Field",
+      "V_GenericHeroes.Radiation_Defender_Low.Electron_Haze",
+      "V_GenericHeroes.Radiation_Defender_Low.Lingering_Radiation",
+      "V_GenericHeroes.Radiation_Defender_Low.Cosmic_Burst",
+      "V_GenericHeroes.Radiation_Defender_Mid.Choking_Cloud",
+      "V_GenericHeroes.Radiation_Defender_Mid.Neutron_Bomb",
+      "V_GenericHeroes.Hero_Flight.Fly",
+      "V_GenericHeroes.Hero_Flight.Fly_fx"
+    ],
+    "power_display_names": [
+      "Neutrino Bolt",
+      "X-Ray Beam",
+      "Enervating Field",
+      "Electron Haze",
+      "Lingering Radiation",
+      "Cosmic Burst",
+      "Choking Cloud",
+      "Neutron Bomb",
+      "Fly",
+      "Fly fx"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Radiation_Defender_Low",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Radiation_Defender_Mid",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericHeroes",
+        "power_set": "Hero_Flight",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 31,
+      "max_level": 40,
+      "experience": 0,
+      "display_names": [
+        "Longbow Warden"
+      ],
+      "costumes": [
+        "Longbow_Female_Boss_03",
+        "Longbow_Female_Boss_05"
+      ]
+    }
+  ]
+}

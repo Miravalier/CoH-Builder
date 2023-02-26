@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Men_Ranged",
+  "display_name": "Hydra_Men_Ranged",
+  "display_fullname": "Hydra.Hydra Men Ranged",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_MEN_RANGED.POWERSETS",
+  "icon": "hydra_men_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Men_Ranged.Spit"
+  ],
+  "power_display_names": [
+    "Spit"
+  ],
+  "power_short_helps": [
+    "DoT(Toxic), -Fly"
+  ]
+}

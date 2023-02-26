@@ -1,0 +1,22 @@
+{
+  "name": "Hydra_Man_Defense",
+  "display_name": "Hydra_Man_Defense",
+  "display_fullname": "Hydra.Hydra Man Defense",
+  "display_help": "Hydra",
+  "display_short_help": "Hydra",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/HYDRA/HYDRA_MAN_DEFENSE.POWERSETS",
+  "icon": "hydra_man_defense_set.png",
+  "requires": "",
+  "power_names": [
+    "Hydra.Hydra_Man_Defense.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Auto Res Smash"
+  ]
+}

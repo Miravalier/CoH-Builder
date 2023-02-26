@@ -1,0 +1,22 @@
+{
+  "name": "Illusion_Controller_High",
+  "display_name": "Illusion Controller High",
+  "display_fullname": "V GenericHeroes.Illusion Controller High",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ILLUSION_CONTROLLER_HIGH.POWERSETS",
+  "icon": "illusion_controller_high_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Illusion_Controller_High.Repulsion_Bomb"
+  ],
+  "power_display_names": [
+    "Repulsion Bomb"
+  ],
+  "power_short_helps": [
+    "Ranged (Targeted Ally AoE), Foe Knockback, Disorient"
+  ]
+}

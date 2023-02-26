@@ -1,0 +1,22 @@
+{
+  "name": "Vahzilok_Reaper_All_Ranged",
+  "display_name": "Vahzilok_Reaper_All_Ranged",
+  "display_fullname": "Vahzilok.Vahzilok Reaper All Ranged",
+  "display_help": "Vahzilok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/VAHZILOK_REAPER_ALL_RANGED.POWERSETS",
+  "icon": "vahzilok_reaper_all_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Vahzilok_Reaper_All_Ranged.DartGun"
+  ],
+  "power_display_names": [
+    "DartGun"
+  ],
+  "power_short_helps": [
+    "-Recharge, -Speed"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Technology_Stun",
+  "display_name": "Technology Stun",
+  "display_fullname": "Boosts.Technology Stun",
+  "display_help": "Increases the duration of a disorient power.",
+  "display_short_help": "Cybernetics (Technology)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TECHNOLOGY_STUN.POWERSETS",
+  "icon": "technology_stun_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Technology_Stun.Technology_Stun"
+  ],
+  "power_display_names": [
+    "Benedict Tech Holey Field Generator (Stun)"
+  ],
+  "power_short_helps": [
+    "Enhances Disorient Duration"
+  ]
+}

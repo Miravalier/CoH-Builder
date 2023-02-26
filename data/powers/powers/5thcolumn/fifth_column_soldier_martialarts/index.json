@@ -1,0 +1,30 @@
+{
+  "name": "Fifth_Column_Soldier_MartialArts",
+  "display_name": "Fifth_Column_Soldier_MartialArts",
+  "display_fullname": "5thColumn.Fifth Column Soldier MartialArts",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_SOLDIER_MARTIALARTS.POWERSETS",
+  "icon": "fifth_column_soldier_martialarts_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Soldier_MartialArts.Thunder_Kick",
+    "5thColumn.Fifth_Column_Soldier_MartialArts.Crane_Kick",
+    "5thColumn.Fifth_Column_Soldier_MartialArts.Crippling_Axe_Kick"
+  ],
+  "power_display_names": [
+    "Thunder Kick",
+    "Crane Kick",
+    "Crippling Axe Kick"
+  ],
+  "power_short_helps": [
+    "Disorient",
+    "Melee Smash, High DMG, Knockback",
+    "Immobilized, -SPD"
+  ]
+}

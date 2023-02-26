@@ -1,0 +1,42 @@
+{
+  "name": "Radiation_Defender_Low",
+  "display_name": "Radiation Defender Low",
+  "display_fullname": "V GenericHeroes.Radiation Defender Low",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/RADIATION_DEFENDER_LOW.POWERSETS",
+  "icon": "radiation_defender_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Radiation_Defender_Low.Neutrino_Bolt",
+    "V_GenericHeroes.Radiation_Defender_Low.X-Ray_Beam",
+    "V_GenericHeroes.Radiation_Defender_Low.Enervating__Field",
+    "V_GenericHeroes.Radiation_Defender_Low.Electron_Haze",
+    "V_GenericHeroes.Radiation_Defender_Low.Lingering_Radiation",
+    "V_GenericHeroes.Radiation_Defender_Low.Cosmic_Burst"
+  ],
+  "power_display_names": [
+    "Neutrino Bolt",
+    "X-Ray Beam",
+    "Enervating Field",
+    "Electron Haze",
+    "Lingering Radiation",
+    "Cosmic Burst"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Energy), Foe -DEF",
+    "Ranged, Moderate DMG(Energy), Foe -DEF",
+    "Foe -DMG, -Res",
+    "Close, Moderate DMG(Energy), Foe -DEF, Knockback",
+    "Ranged (Targeted AoE), Foe -Speed, -Recharge, -Regen",
+    "Close, Extreme DMG(Energy), Foe Disorient, -DEF"
+  ]
+}

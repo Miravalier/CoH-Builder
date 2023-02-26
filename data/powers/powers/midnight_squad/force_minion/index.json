@@ -1,0 +1,22 @@
+{
+  "name": "Force_Minion",
+  "display_name": "",
+  "display_fullname": "Midnight Squad.Force Minion",
+  "display_help": "Midnight Squad",
+  "display_short_help": "Midnight Squad",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MIDNIGHT_SQUAD/FORCE_MINION.POWERSETS",
+  "icon": "force_minion_set.png",
+  "requires": "",
+  "power_names": [
+    "Midnight_Squad.Force_Minion.Crystal_Staff"
+  ],
+  "power_display_names": [
+    "Crystal Staff"
+  ],
+  "power_short_helps": [
+    "-Dam"
+  ]
+}

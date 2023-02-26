@@ -1,0 +1,58 @@
+{
+  "name": "Fire_Corruptor",
+  "display_name": "Fire Corruptor",
+  "display_fullname": "V GenericVillains.Fire Corruptor",
+  "display_help": "Villain",
+  "display_short_help": "Villain",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICVILLAINS/FIRE_CORRUPTOR.POWERSETS",
+  "icon": "fire_corruptor_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericVillains.Fire_Corruptor.Flares",
+    "V_GenericVillains.Fire_Corruptor.Fire_Blast",
+    "V_GenericVillains.Fire_Corruptor.Fire_Ball",
+    "V_GenericVillains.Fire_Corruptor.Fire_Breath",
+    "V_GenericVillains.Fire_Corruptor.Rain_of_Fire",
+    "V_GenericVillains.Fire_Corruptor.Blaze",
+    "V_GenericVillains.Fire_Corruptor.Warmth",
+    "V_GenericVillains.Fire_Corruptor.Cauterize",
+    "V_GenericVillains.Fire_Corruptor.Melt_Armor",
+    "V_GenericVillains.Fire_Corruptor.Inferno"
+  ],
+  "power_display_names": [
+    "Flares",
+    "Fire Blast",
+    "Fire Ball",
+    "Fire Breath",
+    "Rain of Fire",
+    "Blaze",
+    "Warmth",
+    "Cauterize",
+    "Melt Armor",
+    "Inferno"
+  ],
+  "power_short_helps": [
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "DoT(Fire)",
+    "Ranged (Location AoE), Minor DoT(Fire)",
+    "Close, High DMG(Fire)",
+    "PBAoE, Team +Heal",
+    "Ally Heal",
+    "Ranged (Targeted AoE), Foe -Res, -DEF",
+    "PBAoE, Extreme DMG(Fire/Smash), Self -Recovery"
+  ]
+}

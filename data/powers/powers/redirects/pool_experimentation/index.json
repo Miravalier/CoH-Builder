@@ -1,0 +1,22 @@
+{
+  "name": "Pool_Experimentation",
+  "display_name": "Experimentation",
+  "display_fullname": "Redirects.Experimentation",
+  "display_help": "Pool",
+  "display_short_help": "Illusion Control",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/REDIRECTS/POOL_EXPERIMENTATION.POWERSETS",
+  "icon": "blind_set.png",
+  "requires": "",
+  "power_names": [
+    "Redirects.Pool_Experimentation.Corrosive_Vial_Splat"
+  ],
+  "power_display_names": [
+    "Corrosive Vial"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), High DoT(Toxic), -Defense"
+  ]
+}

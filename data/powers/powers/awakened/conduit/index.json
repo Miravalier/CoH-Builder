@@ -1,0 +1,38 @@
+{
+  "name": "Conduit",
+  "display_name": "Conduit",
+  "display_fullname": "Awakened.Conduit",
+  "display_help": "The Awakened",
+  "display_short_help": "The Awakened",
+  "available_level": [
+    0,
+    0,
+    30,
+    0,
+    30
+  ],
+  "source_file": "DEFS/POWERS/AWAKENED/CONDUIT.POWERSETS",
+  "icon": "conduit_set.png",
+  "requires": "",
+  "power_names": [
+    "Awakened.Conduit.Psychic_Scream",
+    "Awakened.Conduit.Psychic_Battery",
+    "Awakened.Conduit.Psionic_Wounds",
+    "Awakened.Conduit.Nullify_Pain",
+    "Awakened.Conduit.Psionic_Fury"
+  ],
+  "power_display_names": [
+    "Psychic Scream",
+    "Psychic Battery",
+    "Psionic Wounds",
+    "Nullify Pain",
+    "Psionic Fury"
+  ],
+  "power_short_helps": [
+    "Minor DMG (Psionic), -Recharge",
+    "Overcharge",
+    "Ranged, High DMG (Psionic/Lethal), DoT (Psionic)",
+    "PBAoE, Team +Heal",
+    "Ranged (Targeted AoE), Psionic Storm"
+  ]
+}

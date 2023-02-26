@@ -1,0 +1,30 @@
+{
+  "name": "Nosferatu_Melee",
+  "display_name": "Nosferatu_Melee",
+  "display_fullname": "Council.Nosferatu Melee",
+  "display_help": "Council",
+  "display_short_help": "Council",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/COUNCIL/NOSFERATU_MELEE.POWERSETS",
+  "icon": "nosferatu_melee_set.png",
+  "requires": "",
+  "power_names": [
+    "Council.Nosferatu_Melee.Siphon_Life",
+    "Council.Nosferatu_Melee.Shadow_Punch",
+    "Council.Nosferatu_Melee.Smite"
+  ],
+  "power_display_names": [
+    "Siphon Life",
+    "Shadow Punch",
+    "Smite"
+  ],
+  "power_short_helps": [
+    "Melee Negative, -ACC, Self +HP",
+    "-ACC",
+    "-ACC"
+  ]
+}

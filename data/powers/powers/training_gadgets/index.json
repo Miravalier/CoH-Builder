@@ -1,0 +1,21 @@
+{
+  "name": "Training_Gadgets",
+  "display_name": "Gadgets",
+  "source_file": "DEFS/POWERS/TRAINING_GADGETS.CATEGORIES",
+  "archetypes": [
+    "arachnos_soldier"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "training_gadgets.bane_spider_training",
+    "training_gadgets.crab_spider_training",
+    "training_gadgets.training_and_gadgets"
+  ],
+  "powerset_display_names": [
+    "Bane Spider Training",
+    "Crab Spider Training",
+    "Training and Gadgets"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,42 @@
+{
+  "tag": "Regeneration",
+  "bears": [
+    [
+      "Boosts.Crafted Decreased Regeneration 1.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_1.crafted_decreased_regeneration_1"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 2.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_2.crafted_decreased_regeneration_2"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 3.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_3.crafted_decreased_regeneration_3"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 4.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_4.crafted_decreased_regeneration_4"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 5.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_5.crafted_decreased_regeneration_5"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 6.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_6.crafted_decreased_regeneration_6"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 7.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_7.crafted_decreased_regeneration_7"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration 8.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration_8.crafted_decreased_regeneration_8"
+    ],
+    [
+      "Boosts.Crafted Decreased Regeneration.Regeneration Decrease",
+      "boosts.crafted_decreased_regeneration.crafted_decreased_regeneration"
+    ]
+  ],
+  "affects": []
+}

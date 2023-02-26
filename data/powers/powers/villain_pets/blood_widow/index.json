@@ -1,0 +1,54 @@
+{
+  "name": "Blood_Widow",
+  "display_name": "Blood Widow",
+  "display_fullname": "Villain Pets.Blood Widow",
+  "display_help": "Soul Mastery",
+  "display_short_help": "Soul Mastery",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/VILLAIN_PETS/BLOOD_WIDOW.POWERSETS",
+  "icon": "blood_widow_set.png",
+  "requires": "",
+  "power_names": [
+    "Villain_Pets.Blood_Widow.Mental_Training",
+    "Villain_Pets.Blood_Widow.Self_Destruct",
+    "Villain_Pets.Blood_Widow.Poison_Dart",
+    "Villain_Pets.Blood_Widow.Lunge",
+    "Villain_Pets.Blood_Widow.Swipe",
+    "Villain_Pets.Blood_Widow.Strike",
+    "Villain_Pets.Blood_Widow.Slash",
+    "Villain_Pets.Blood_Widow.Eviscerate",
+    "Villain_Pets.Blood_Widow.Spin"
+  ],
+  "power_display_names": [
+    "Mental Training",
+    "Self Destruct",
+    "Poison Dart",
+    "Lunge",
+    "Swipe",
+    "Strike",
+    "Slash",
+    "Eviscerate",
+    "Spin"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Destruct",
+    "Poison: DoT(Toxic), -Regeneration",
+    "DoT(Toxic), -Recharge, -SPD",
+    "DoT(Toxic), -Recharge, -SPD",
+    "Toxic DoT, Slow",
+    "Toxic DoT, Slow",
+    "Toxic DoT, Slow",
+    "Toxic DoT, Slow"
+  ]
+}

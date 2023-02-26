@@ -1,0 +1,34 @@
+{
+  "name": "Fifth_Column_Lt_Boss_Solider_Ranged",
+  "display_name": "Fifth_Column_Lt_Boss_Solider_Ranged",
+  "display_fullname": "5thColumn.Fifth Column Lt Boss Solider Ranged",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0,
+    29,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_LT_BOSS_SOLIDER_RANGED.POWERSETS",
+  "icon": "fifth_column_lt_boss_solider_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged.12_Gauge",
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged.12_Gauge_2",
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged.Rifle_Butt",
+    "5thColumn.Fifth_Column_Lt_Boss_Solider_Ranged.Frag_Grenade"
+  ],
+  "power_display_names": [
+    "12 Gauge",
+    "12 Gauge",
+    "Rifle Butt",
+    "Frag Grenade"
+  ],
+  "power_short_helps": [
+    "Cone Lethal, Knockback +DOT(Fire)",
+    "Cone Lethal, Knockback +DOT(Fire)",
+    "Melee Smash",
+    "Targeted AoE Lethal/Fire, Knockback"
+  ]
+}

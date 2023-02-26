@@ -1,0 +1,22 @@
+{
+  "name": "Attuned_Stupefy_C",
+  "display_name": "Attuned Stupefy C",
+  "display_fullname": "Boosts.Attuned Stupefy C",
+  "display_help": "Enhances the accuracy by {Boost.Attrib.Accuracy.Scale}% and reduces the endurance cost of a power by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Stupefy",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/ATTUNED_STUPEFY_C.POWERSETS",
+  "icon": "attuned_stupefy_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Attuned_Stupefy_C.Attuned_Stupefy_C"
+  ],
+  "power_display_names": [
+    "Stupefy: Accuracy/Endurance"
+  ],
+  "power_short_helps": [
+    "+ACC, -End Cost"
+  ]
+}

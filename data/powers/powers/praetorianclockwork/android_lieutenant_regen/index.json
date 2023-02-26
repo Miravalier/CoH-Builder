@@ -1,0 +1,30 @@
+{
+  "name": "Android_Lieutenant_Regen",
+  "display_name": "Android Lieutenant Regen",
+  "display_fullname": "PraetorianClockwork.Android Lieutenant Regen",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    20,
+    37
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANCLOCKWORK/ANDROID_LIEUTENANT_REGEN.POWERSETS",
+  "icon": "android_lieutenant_regen_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianClockwork.Android_Lieutenant_Regen.Rapid_Repair_Low_Lieutenant",
+    "PraetorianClockwork.Android_Lieutenant_Regen.Rapid_Repair_Mid_Lieutenant",
+    "PraetorianClockwork.Android_Lieutenant_Regen.Rapid_Repair_High_Lieutenant"
+  ],
+  "power_display_names": [
+    "Fast Repair",
+    "Fast Repair",
+    "Fast Repair"
+  ],
+  "power_short_helps": [
+    "Auto: +Regeneration",
+    "Auto: +Regeneration",
+    "Auto: +Regeneration"
+  ]
+}

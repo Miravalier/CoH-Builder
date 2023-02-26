@@ -1,0 +1,38 @@
+{
+  "name": "Surgeon_Endgame",
+  "display_name": "Surgeon_Endgame",
+  "display_fullname": "Romans.Surgeon Endgame",
+  "display_help": "Surgeon",
+  "display_short_help": "Surgeon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/ROMANS/SURGEON_ENDGAME.POWERSETS",
+  "icon": "surgeon_set.png",
+  "requires": "",
+  "power_names": [
+    "Romans.Surgeon_Endgame.Resistance",
+    "Romans.Surgeon_Endgame.Teleport",
+    "Romans.Surgeon_Endgame.Shadow_Cloak",
+    "Romans.Surgeon_Endgame.Fortitude",
+    "Romans.Surgeon_Endgame.Adrenalin_Boost"
+  ],
+  "power_display_names": [
+    "Nictus Imbuement",
+    "Teleport",
+    "Shadow Cloak",
+    "Fortitude",
+    "Adrenalin Boost"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Self Travel",
+    "Toggle: Self Stealth, +DEF, +Perception, Res (Immobilize)",
+    "Ally +DEF(All), +DMG, +To Hit",
+    "Ranged, Ally +End, +Regeneration, +Recharge, Res (Slow)"
+  ]
+}

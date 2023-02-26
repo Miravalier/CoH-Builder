@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Devastation_B",
+  "display_name": "Crafted Devastation B",
+  "display_fullname": "Boosts.Crafted Devastation B",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.",
+  "display_short_help": "Set: Devastation",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_DEVASTATION_B.POWERSETS",
+  "icon": "crafted_devastation_b_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Devastation_B.Crafted_Devastation_B"
+  ],
+  "power_display_names": [
+    "Devastation: Damage/Endurance"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Endurance Cost"
+  ]
+}

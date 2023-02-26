@@ -1,0 +1,30 @@
+{
+  "name": "Build_Paladin_Powers",
+  "display_name": "Build_Paladin_Powers",
+  "display_fullname": "Clockwork.Build Paladin Powers",
+  "display_help": "Clockwork",
+  "display_short_help": "Clockwork",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/CLOCKWORK/BUILD_PALADIN_POWERS.POWERSETS",
+  "icon": "build_paladin_powers_set.png",
+  "requires": "",
+  "power_names": [
+    "Clockwork.Build_Paladin_Powers.Resistance",
+    "Clockwork.Build_Paladin_Powers.Build",
+    "Clockwork.Build_Paladin_Powers.Draw_Power"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Build",
+    "Draw Power"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Building",
+    "Draw Power"
+  ]
+}

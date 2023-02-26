@@ -1,0 +1,103 @@
+{
+  "name": "Arachnos_Agent_Hugo",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnos",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human"
+  ],
+  "ally": "Monster",
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 48,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_ELITE",
+    "ai_config": "Default",
+    "character_class_name": "boss_elite",
+    "description": "Hugo Figure was once just an innocent boy who dreamed of escaping the Rogue Isles with his girlfriend Gally Ido. Unfortunately, his psychic powers drew the attention of Arachnos, and he was betrayed by Westin Phipps and forced into the Bane Spiders. Recently freed from Bane Spider mind control, now he's fighting to free the other Bane Spiders and return to the girl he loves.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Agent_Hugo.Bash",
+      "V_Arachnos.Agent_Hugo.Pulverize",
+      "V_Arachnos.Agent_Hugo.Clobber",
+      "V_Arachnos.Agent_Hugo.Whirling_Mace",
+      "V_Arachnos.Agent_Hugo.Crowd_Control",
+      "V_Arachnos.Agent_Hugo.Poisonous_Ray_Burst",
+      "V_Arachnos.Agent_Hugo.Mace_Beam_Volley",
+      "V_Arachnos.Agent_Hugo.Mace_Beam_Blast",
+      "V_Arachnos.Agent_Hugo.Wide_Area_Web_Grenade",
+      "V_Arachnos.Agent_Hugo.Cocoon",
+      "V_Arachnos.Agent_Hugo.Indomitable_Will",
+      "V_Arachnos.Agent_Hugo.Mind_Over_Body"
+    ],
+    "power_display_names": [
+      "Bash",
+      "Pulverize",
+      "Clobber",
+      "Whirling Mace",
+      "Crowd Control",
+      "Poisonous Ray Burst",
+      "Mace Beam Volley",
+      "Mace Beam Blast",
+      "Wide Area Web Grenade",
+      "Cocoon",
+      "Indomitable Will",
+      "Mind Over Body"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Agent_Hugo",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 48,
+      "experience": 0,
+      "display_names": [
+        "Agent Hugo"
+      ],
+      "costumes": [
+        "Arachnos_Bane_Boss"
+      ]
+    }
+  ]
+}

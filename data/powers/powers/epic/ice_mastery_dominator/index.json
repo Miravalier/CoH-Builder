@@ -1,0 +1,38 @@
+{
+  "name": "Ice_Mastery_Dominator",
+  "display_name": "Ice Mastery",
+  "display_fullname": "Epic.Ice Mastery",
+  "display_help": "You have Mastery over Ice to blast your foes and to add some much needed armor and defense.",
+  "display_short_help": "Ice Mastery",
+  "available_level": [
+    34,
+    34,
+    37,
+    40,
+    43
+  ],
+  "source_file": "DEFS/POWERS/EPIC/ICE_MASTERY_DOMINATOR.POWERSETS",
+  "icon": "ice_mastery_dominator_set.png",
+  "requires": "",
+  "power_names": [
+    "Epic.Ice_Mastery_Dominator.Ice_Blast",
+    "Epic.Ice_Mastery_Dominator.Hibernate",
+    "Epic.Ice_Mastery_Dominator.Frozen_Armor",
+    "Epic.Ice_Mastery_Dominator.Frost_Breath",
+    "Epic.Ice_Mastery_Dominator.Ice_Storm"
+  ],
+  "power_display_names": [
+    "Sleet",
+    "Hibernate",
+    "Frozen Armor",
+    "Hoarfrost",
+    "Ice Storm"
+  ],
+  "power_short_helps": [
+    "Ranged (Location AoE), Minor DoT(Cold), Foe -Speed, -Recharge, -DEF -Res",
+    "Toggle: Self +Regeneration, +Recovery, Invulnerable; Self Hold",
+    "Toggle: Self +Def(Smash, Lethal), +Res(Cold, Fire)",
+    "Self Heal, +Max HP, Res(Toxic)",
+    "Ranged (Location AoE), Minor DoT(Cold), Foe -Recharge, -SPD"
+  ]
+}

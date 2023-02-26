@@ -1,0 +1,542 @@
+{
+  "name": "Neuronic_Shutdown",
+  "display_name": "Neuronic Shutdown",
+  "group_name": "Holds",
+  "conversion_groups": [
+    "Rarity: Rare",
+    "Category: Hold"
+  ],
+  "boost_lists": [
+    [
+      "Boosts.Crafted_Neuronic_Shutdown_A.Crafted_Neuronic_Shutdown_A",
+      "Boosts.Attuned_Neuronic_Shutdown_A.Attuned_Neuronic_Shutdown_A"
+    ],
+    [
+      "Boosts.Crafted_Neuronic_Shutdown_B.Crafted_Neuronic_Shutdown_B",
+      "Boosts.Attuned_Neuronic_Shutdown_B.Attuned_Neuronic_Shutdown_B"
+    ],
+    [
+      "Boosts.Crafted_Neuronic_Shutdown_C.Crafted_Neuronic_Shutdown_C",
+      "Boosts.Attuned_Neuronic_Shutdown_C.Attuned_Neuronic_Shutdown_C"
+    ],
+    [
+      "Boosts.Crafted_Neuronic_Shutdown_D.Crafted_Neuronic_Shutdown_D",
+      "Boosts.Attuned_Neuronic_Shutdown_D.Attuned_Neuronic_Shutdown_D"
+    ],
+    [
+      "Boosts.Crafted_Neuronic_Shutdown_E.Crafted_Neuronic_Shutdown_E",
+      "Boosts.Attuned_Neuronic_Shutdown_E.Attuned_Neuronic_Shutdown_E"
+    ],
+    [
+      "Boosts.Crafted_Neuronic_Shutdown_F.Crafted_Neuronic_Shutdown_F",
+      "Boosts.Attuned_Neuronic_Shutdown_F.Attuned_Neuronic_Shutdown_F"
+    ]
+  ],
+  "min_level": 10,
+  "max_level": 30,
+  "bonuses": [
+    {
+      "min_boosts": 2,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.lethal_smash_mez_res_2"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 3,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_health_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 4,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.accuracy_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 5,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.hold_dur_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    },
+    {
+      "min_boosts": 6,
+      "max_boosts": 6,
+      "auto_powers": [
+        "set_bonus.set_bonus.increased_melee_lethal_smash_def_3"
+      ],
+      "bonus_power": "",
+      "requres": null,
+      "is_pvp_bonus": false
+    }
+  ],
+  "computed": {
+    "boost_type": [
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold",
+      "Enhance Hold"
+    ],
+    "bonuses": [
+      [
+        [
+          "set_bonus.set_bonus.lethal_smash_mez_res_2",
+          "Small Lethal, Smash and Mez Resistance"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_health_3",
+          "Moderate Increased Health Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.accuracy_3",
+          "Moderate Accuracy Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.hold_dur_3",
+          "Moderate Hold Duration Bonus"
+        ]
+      ],
+      [
+        [
+          "set_bonus.set_bonus.increased_melee_lethal_smash_def_3",
+          "Moderate Increased Melee/Lethal/Smashing Def Bonus"
+        ]
+      ]
+    ],
+    "globals": {},
+    "icons": [
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png",
+      "e_icon_neuronicshutdown.png"
+    ],
+    "boosts": [
+      [
+        "Neuronic Shutdown: Accuracy/Recharge",
+        "Attuned Neuronic Shutdown: Accuracy/Recharge"
+      ],
+      [
+        "Neuronic Shutdown: Endurance/Hold",
+        "Attuned Neuronic Shutdown: Endurance/Hold"
+      ],
+      [
+        "Neuronic Shutdown: Accuracy/Endurance",
+        "Attuned Neuronic Shutdown: Accuracy/Endurance"
+      ],
+      [
+        "Neuronic Shutdown: Hold/Range",
+        "Attuned Neuronic Shutdown: Hold/Range"
+      ],
+      [
+        "Neuronic Shutdown: Accuracy/Hold/Recharge",
+        "Attuned Neuronic Shutdown: Accuracy/Hold/Recharge"
+      ],
+      [
+        "Neuronic Shutdown: Chance for Psionic Damage",
+        "Attuned Neuronic Shutdown: Chance for Psionic Damage"
+      ]
+    ],
+    "boost_infos": {
+      "crafted_neuronic_shutdown_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_neuronic_shutdown_a.attuned_neuronic_shutdown_a",
+          "Neuronic Shutdown: Accuracy/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Neuronic Shutdown: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "attuned_neuronic_shutdown_a": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Neuronic Shutdown: Accuracy/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "crafted_neuronic_shutdown_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_neuronic_shutdown_b.attuned_neuronic_shutdown_b",
+          "Neuronic Shutdown: Endurance/Hold"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Neuronic Shutdown: Endurance/Hold",
+        "aspects": [
+          "Endurance",
+          "Hold"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "attuned_neuronic_shutdown_b": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Neuronic Shutdown: Endurance/Hold",
+        "aspects": [
+          "Endurance",
+          "Hold"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "crafted_neuronic_shutdown_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_neuronic_shutdown_c.attuned_neuronic_shutdown_c",
+          "Neuronic Shutdown: Accuracy/Endurance"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Neuronic Shutdown: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "attuned_neuronic_shutdown_c": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Neuronic Shutdown: Accuracy/Endurance",
+        "aspects": [
+          "Accuracy",
+          "Endurance"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "crafted_neuronic_shutdown_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_neuronic_shutdown_d.attuned_neuronic_shutdown_d",
+          "Neuronic Shutdown: Hold/Range"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Neuronic Shutdown: Hold/Range",
+        "aspects": [
+          "Hold",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "attuned_neuronic_shutdown_d": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Neuronic Shutdown: Hold/Range",
+        "aspects": [
+          "Hold",
+          "Range"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "crafted_neuronic_shutdown_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": true,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_neuronic_shutdown_e.attuned_neuronic_shutdown_e",
+          "Neuronic Shutdown: Accuracy/Hold/Recharge"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Neuronic Shutdown: Accuracy/Hold/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Hold",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "attuned_neuronic_shutdown_e": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Neuronic Shutdown: Accuracy/Hold/Recharge",
+        "aspects": [
+          "Accuracy",
+          "Hold",
+          "Recharge"
+        ],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": false,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "crafted_neuronic_shutdown_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": false,
+        "catalyzes_to": [
+          "boosts.attuned_neuronic_shutdown_f.attuned_neuronic_shutdown_f",
+          "Neuronic Shutdown: Chance for Psionic Damage"
+        ],
+        "max_level": 50,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Neuronic Shutdown: Chance for Psionic Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      },
+      "attuned_neuronic_shutdown_f": {
+        "slot_requires": null,
+        "ignores_level_differences": true,
+        "bonuses_ignore_exemplar": false,
+        "combinable": false,
+        "tradeable": true,
+        "account_bound": false,
+        "boostable": false,
+        "attuned": true,
+        "catalyzes_to": null,
+        "max_level": 30,
+        "min_slot_level": 6,
+        "min_bonus_level": 3,
+        "computed_name": "Attuned Neuronic Shutdown: Chance for Psionic Damage",
+        "aspects": [],
+        "superior_scales": false,
+        "boostset_name": "neuronic_shutdown",
+        "global_bonuses": null,
+        "is_proc": true,
+        "is_unique": false,
+        "restricted_ats": null,
+        "unique_group": null,
+        "only_at_50": false,
+        "boost_type": "Enhance Hold",
+        "icon": "e_icon_neuronicshutdown.png"
+      }
+    }
+  }
+}

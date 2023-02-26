@@ -1,0 +1,54 @@
+{
+  "name": "Plant_Manipulation",
+  "display_name": "Plant Manipulation",
+  "display_fullname": "Blaster Support.Plant Manipulation",
+  "display_help": "You can call forth and control the power of plants and flora to manipulate your foes, inflict damage and protect yourself. Animate and control vines, roots and spores to entrap, attack with deadly thorns and empower your attacks with powerful toxins.",
+  "display_short_help": "Plant Manipulation",
+  "available_level": [
+    0,
+    0,
+    3,
+    9,
+    15,
+    19,
+    23,
+    27,
+    29
+  ],
+  "source_file": "DEFS/POWERS/BLASTER_SUPPORT/PLANT_MANIPULATION.POWERSETS",
+  "icon": "plant_manipulation_set.png",
+  "requires": "",
+  "power_names": [
+    "Blaster_Support.Plant_Manipulation.Entangle",
+    "Blaster_Support.Plant_Manipulation.Skewer",
+    "Blaster_Support.Plant_Manipulation.Strangler",
+    "Blaster_Support.Plant_Manipulation.Toxins",
+    "Blaster_Support.Plant_Manipulation.Spore_Cloud",
+    "Blaster_Support.Plant_Manipulation.Wild_Fortress",
+    "Blaster_Support.Plant_Manipulation.Ripper",
+    "Blaster_Support.Plant_Manipulation.Vines",
+    "Blaster_Support.Plant_Manipulation.Thorn_Burst"
+  ],
+  "power_display_names": [
+    "Entangle",
+    "Skewer",
+    "Strangler",
+    "Toxins",
+    "Spore Cloud",
+    "Wild Fortress",
+    "Ripper",
+    "Vines",
+    "Thorn Burst"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DoT(Smashing, Lethal), Foe Immobilize",
+    "Melee, High DMG(Lethal), DoT(Toxic) -DEF",
+    "Ranged, Moderate DoT(Smashing), Foe Hold",
+    "Self +To Hit, +DMG",
+    "Toggle (Targeted AoE), Foe -Dmg(All), -To Hit, -Regen",
+    "Self +Absorb, +Recovery, +Res(Toxic, Confuse)",
+    "Melee (Cone), High DMG(Lethal), DoT(Toxic) -DEF, Knockback, -SPD",
+    "Ranged (Targeted AoE), Foe Hold, Immobilize",
+    "PBAoE Melee, Light DMG(Lethal), DoT(Toxic) -DEF"
+  ]
+}

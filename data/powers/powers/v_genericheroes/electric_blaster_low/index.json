@@ -1,0 +1,34 @@
+{
+  "name": "Electric_Blaster_Low",
+  "display_name": "Electric Blaster Low",
+  "display_fullname": "V GenericHeroes.Electric Blaster Low",
+  "display_help": "Hero",
+  "display_short_help": "Hero",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_GENERICHEROES/ELECTRIC_BLASTER_LOW.POWERSETS",
+  "icon": "electric_blaster_low_set.png",
+  "requires": "",
+  "power_names": [
+    "V_GenericHeroes.Electric_Blaster_Low.Charged_Bolts",
+    "V_GenericHeroes.Electric_Blaster_Low.Charged_Brawl",
+    "V_GenericHeroes.Electric_Blaster_Low.Lightning_Bolt",
+    "V_GenericHeroes.Electric_Blaster_Low.Ball_Lightning"
+  ],
+  "power_display_names": [
+    "Charged Bolts",
+    "Charged Brawl",
+    "Lightning Bolt",
+    "Ball Lightning"
+  ],
+  "power_short_helps": [
+    "Ranged Energy, -End",
+    "Melee Smash, Energy",
+    "Ranged Energy, -End",
+    "Targeted AoE Energy, -End"
+  ]
+}

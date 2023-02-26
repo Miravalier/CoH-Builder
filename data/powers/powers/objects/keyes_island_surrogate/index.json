@@ -1,0 +1,22 @@
+{
+  "name": "Keyes_Island_Surrogate",
+  "display_name": "Keyes_Island_Surrogate",
+  "display_fullname": "Objects.Keyes Island Surrogate",
+  "display_help": "Praetorians",
+  "display_short_help": "Praetorians",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/OBJECTS/KEYES_ISLAND_SURROGATE.POWERSETS",
+  "icon": "keyes_island_surrogate_set.png",
+  "requires": "",
+  "power_names": [
+    "Objects.Keyes_Island_Surrogate.SetAntimatterMode"
+  ],
+  "power_display_names": [
+    "SetAntimatterMode"
+  ],
+  "power_short_helps": [
+    "Terminal Override"
+  ]
+}

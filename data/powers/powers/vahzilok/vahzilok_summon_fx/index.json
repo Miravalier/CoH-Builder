@@ -1,0 +1,22 @@
+{
+  "name": "Vahzilok_Summon_FX",
+  "display_name": "Vahzilok_Summon_FX",
+  "display_fullname": "Vahzilok.Vahzilok Summon FX",
+  "display_help": "Vahzilok",
+  "display_short_help": "Vahzilok",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/VAHZILOK/VAHZILOK_SUMMON_FX.POWERSETS",
+  "icon": "vahzilok_summon_fx_set.png",
+  "requires": "",
+  "power_names": [
+    "Vahzilok.Vahzilok_Summon_FX.Summon"
+  ],
+  "power_display_names": [
+    "Summon"
+  ],
+  "power_short_helps": [
+    "Summon"
+  ]
+}

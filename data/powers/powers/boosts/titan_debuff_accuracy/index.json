@@ -1,0 +1,22 @@
+{
+  "name": "Titan_DeBuff_Accuracy",
+  "display_name": "Titan DeBuff Accuracy",
+  "display_fullname": "Boosts.Titan DeBuff Accuracy",
+  "display_help": "Enhances the effectiveness of accuracy and defense debuffs and increases the accuracy of a power.",
+  "display_short_help": "Titan (All Origins)",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/TITAN_DEBUFF_ACCURACY.POWERSETS",
+  "icon": "titan_debuff_accuracy_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Titan_DeBuff_Accuracy.Titan_DeBuff_Accuracy"
+  ],
+  "power_display_names": [
+    "Titan Gypsum Shard (Acc/Def Debuff/ToHit Debuff)"
+  ],
+  "power_short_helps": [
+    "Enhances To Hit and Defense DeBuffs and Accuracy"
+  ]
+}

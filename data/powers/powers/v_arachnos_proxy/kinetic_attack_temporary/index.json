@@ -1,0 +1,22 @@
+{
+  "name": "Kinetic_Attack_Temporary",
+  "display_name": "Kinetic Attack",
+  "display_fullname": "V Arachnos Proxy.Kinetic Attack",
+  "display_help": "Kinetic Attack",
+  "display_short_help": "Kinetic Attack",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS_PROXY/KINETIC_ATTACK_TEMPORARY.POWERSETS",
+  "icon": "kinetic_attack_temporary_set.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos_Proxy.Kinetic_Attack_Temporary.Power_Siphon"
+  ],
+  "power_display_names": [
+    "Power Siphon"
+  ],
+  "power_short_helps": [
+    "Self +DMG"
+  ]
+}

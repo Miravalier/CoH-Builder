@@ -1,0 +1,22 @@
+{
+  "name": "Fifth_Column_Nightwolf_Boss_Transform",
+  "display_name": "Fifth_Column_Nightwolf_Boss_Transform",
+  "display_fullname": "5thColumn.Fifth Column Nightwolf Boss Transform",
+  "display_help": "5th Column",
+  "display_short_help": "5th Column",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/5THCOLUMN/FIFTH_COLUMN_NIGHTWOLF_BOSS_TRANSFORM.POWERSETS",
+  "icon": "fifth_column_nightwolf_boss_transform_set.png",
+  "requires": "",
+  "power_names": [
+    "5thColumn.Fifth_Column_Nightwolf_Boss_Transform.Lycanthropy"
+  ],
+  "power_display_names": [
+    "Lycanthropy"
+  ],
+  "power_short_helps": [
+    "Lycanthropy"
+  ]
+}

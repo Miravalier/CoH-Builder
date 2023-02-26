@@ -1,0 +1,30 @@
+{
+  "name": "Arachnos_Scientist",
+  "display_name": "Arachnos_Scientist",
+  "display_fullname": "V Arachnos.Arachnos Scientist",
+  "display_help": "Arachnos",
+  "display_short_help": "Arachnos",
+  "available_level": [
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_ARACHNOS/ARACHNOS_SCIENTIST.POWERSETS",
+  "icon": "macro_button_01.png",
+  "requires": "",
+  "power_names": [
+    "V_Arachnos.Arachnos_Scientist.Serum",
+    "V_Arachnos.Arachnos_Scientist.Summon_Spiderlings",
+    "V_Arachnos.Arachnos_Scientist.Call_Reinforcements"
+  ],
+  "power_display_names": [
+    "Serum",
+    "Summon Spiderlings",
+    "Call Reinforcements"
+  ],
+  "power_short_helps": [
+    "Self Heal, +Max HP",
+    "Summon Spiderlings: Ranged Moderate DMG(Lethal)",
+    "Call Reinforcements: Ranged Moderate DMG(Lethal)"
+  ]
+}

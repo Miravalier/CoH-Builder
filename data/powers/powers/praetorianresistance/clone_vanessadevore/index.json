@@ -1,0 +1,42 @@
+{
+  "name": "Clone_VanessaDeVore",
+  "display_name": "Clone_VanessaDeVore",
+  "display_fullname": "PraetorianResistance.Clone VanessaDeVore",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANRESISTANCE/CLONE_VANESSADEVORE.POWERSETS",
+  "icon": "clone_vanessadevore_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianResistance.Clone_VanessaDeVore.Subdue",
+    "PraetorianResistance.Clone_VanessaDeVore.Telekinetic_Blast",
+    "PraetorianResistance.Clone_VanessaDeVore.Psychic_Scream",
+    "PraetorianResistance.Clone_VanessaDeVore.Dominate",
+    "PraetorianResistance.Clone_VanessaDeVore.Healing_Aura",
+    "PraetorianResistance.Clone_VanessaDeVore.Resistance"
+  ],
+  "power_display_names": [
+    "Subdue",
+    "Telekinetic Blast",
+    "Psychic Scream",
+    "Dominate",
+    "Healing Aura",
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Immobilize, -Recharge",
+    "Ranged Smash/Psionic, Knockback",
+    "-Recharge",
+    "Hold",
+    "PBAoE, Team +Heal",
+    "Resistance"
+  ]
+}

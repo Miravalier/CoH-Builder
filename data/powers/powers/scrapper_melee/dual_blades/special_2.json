@@ -1,0 +1,1135 @@
+{
+  "name": "Special_2",
+  "full_name": "Scrapper_Melee.Dual_Blades.Special_2",
+  "short_name": "Special_2",
+  "type": "Click",
+  "display_name": "Sweeping Strike",
+  "display_fullname": "Scrapper Melee.Dual Blades.Sweeping Strike",
+  "display_help": "You make a sweeping strike with your blades, hitting all foes in a cone in front of you and dealing superior lethal damage to each. This power is the finishing move for the Attack Vitals combination attack.<br><br><color #ff7f00>Attack Vitals: Ablating Strike > Vengeful Slice > Sweeping Strike.</color><br><br><color #fcfc95>Damage: Superior.</color><br><color #fcfc95>Recharge: Slow.</color>",
+  "display_short_help": "Melee (Cone), Superior DMG(Lethal)",
+  "icon": "dualblades_special2.png",
+  "auto_issue": false,
+  "auto_issue_keeps_level": false,
+  "message_caster": null,
+  "message_floater": null,
+  "message_attacker_hit": null,
+  "message_target_hit": null,
+  "message_target_confirm": null,
+  "message_float_reward": null,
+  "message_defense_avoidance": null,
+  "attack_types": [
+    "Area",
+    "Lethal"
+  ],
+  "requires": "",
+  "activate_requires": "",
+  "accuracy": 1.0,
+  "number_allowed": 1,
+  "caster_near_ground": false,
+  "target_near_ground": false,
+  "cast_when_dead": "AliveOnly",
+  "cast_through": [],
+  "toggle_ignores": [],
+  "ignore_level_gained": false,
+  "works_on_untouchable": false,
+  "works_through_vision_phase": false,
+  "target_untargetable": false,
+  "interrupt_like_sleep": false,
+  "notify_ai_when": "Always",
+  "effect_area": "Cone",
+  "max_targets_hit": 5,
+  "radius": 7.0,
+  "arc": 1.5708,
+  "range": 7.0,
+  "range_secondary": 0.0,
+  "activation_time": 1.23,
+  "root_time": 1.23,
+  "interrupt_time": 0.0,
+  "recharge_time": 11.0,
+  "activate_period": 0.0,
+  "endurance_cost": 11.024,
+  "cancelable": false,
+  "self_confirm": false,
+  "confirm_requires": "",
+  "time_to_confirm": 0,
+  "chain_delay": 0.0,
+  "chain_effect_expr": "",
+  "chain_forks": [],
+  "chain_into_power_name": null,
+  "chain_into_optional": false,
+  "vec_box_offset": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "vec_box_size": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "number_of_charges": 0,
+  "max_num_charges": 0,
+  "destroy_on_last_use": true,
+  "power_lifetime": 0.0,
+  "max_power_lifetime": 0.0,
+  "power_lifetime_ingame": 0.0,
+  "max_power_lifetime_ingame": 0.0,
+  "stacking_lifetime": false,
+  "toggle_on_time": 0.0,
+  "max_toggle_on_time": 0.0,
+  "toggle_detoggle_time": 0.0,
+  "toggle_droppable": "Sometimes",
+  "ignore_toggle_max_distance": false,
+  "target_type": "Foe (Alive)",
+  "target_type_secondary": null,
+  "target_visibility": "LineOfSight",
+  "targets_affected": [
+    "Foe (Alive)"
+  ],
+  "targets_autohit": [],
+  "target_requires": "",
+  "proc_allowed": "All",
+  "boosts_allowed": [
+    "Reduce Endurance Cost",
+    "Enhance Recharge Speed",
+    "Enhance Damage",
+    "Enhance Accuracy"
+  ],
+  "allowed_boostset_cats": [
+    "Melee AoE Damage",
+    "Scrapper Archetype Sets",
+    "Universal Damage Sets"
+  ],
+  "exclusion_groups": [],
+  "modes_required": [],
+  "modes_disallowed": [
+    "Disable_All"
+  ],
+  "modes_suspended": [],
+  "recharge_groups": [],
+  "ignore_strength": false,
+  "strengths_disallowed": [
+    "Range"
+  ],
+  "global_strengths_disallowed": [],
+  "procs_only_on_main_target": false,
+  "vars_attribmods_can_reference": [],
+  "show_buff_icon": true,
+  "show_in_info": true,
+  "show_in_manage": true,
+  "show_in_inventory": "Show",
+  "deletable": false,
+  "tradeable": false,
+  "do_not_save": false,
+  "max_boosts": 6,
+  "boost_info": {
+    "slot_requires": null,
+    "ignores_level_differences": false,
+    "bonuses_ignore_exemplar": false,
+    "combinable": true,
+    "tradeable": true,
+    "account_bound": false,
+    "boostable": false,
+    "attuned": false,
+    "catalyzes_to": null,
+    "max_level": 50,
+    "min_slot_level": -3,
+    "min_bonus_level": 1,
+    "computed_name": null,
+    "aspects": [],
+    "superior_scales": false,
+    "boostset_name": null,
+    "global_bonuses": null,
+    "is_proc": false,
+    "is_unique": false,
+    "restricted_ats": null,
+    "unique_group": null,
+    "only_at_50": false,
+    "boost_type": null,
+    "icon": null
+  },
+  "instance_locked": false,
+  "is_environment_hit": false,
+  "shuffle_target_list": false,
+  "enforced_level_bought": -1,
+  "refreshes_on_active_player_change": false,
+  "highlight_expression": "Mode?(kDD_BonusDoTMode_2)",
+  "highlight_icon": null,
+  "highlight_color": "#FF7F00FF",
+  "travel_suppression_time": 1.0,
+  "server_tray_priority": 0,
+  "server_tray_requires": "",
+  "abusive_buff": true,
+  "position_center": "kModTarget_Caster",
+  "position_distance": 0.0,
+  "position_height": 0.0,
+  "position_yaw": 0.0,
+  "face_target": true,
+  "attrib_cache": [
+    "Lethal_Dmg",
+    "Fire_Dmg",
+    "Cancel_Effects"
+  ],
+  "max_targets_expression": "",
+  "chain_target_expr": "",
+  "powerset": "Scrapper_Melee.Dual_Blades",
+  "available_level": 21,
+  "archetypes": [
+    "scrapper"
+  ],
+  "redirect": [],
+  "effects": [
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'critter'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 1.7,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVE_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'player'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_PvPDamage",
+          "scale": 1.3607,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVP_ONLY"
+    },
+    {
+      "tags": [
+        "CritLarge",
+        "ScrapperCrit_AoE"
+      ],
+      "chance": 0.15,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'player'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_PvPDamage",
+          "scale": 1.3607,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage (CRITICAL).",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage (CRITICAL).",
+            "display_float": "CRITICAL",
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVP_ONLY"
+    },
+    {
+      "tags": [
+        "CritLarge",
+        "ScrapperCrit_AoE"
+      ],
+      "chance": 0.15,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "target>enttype eq 'critter'",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 1.7,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage (CRITICAL).",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage (CRITICAL).",
+            "display_float": "CRITICAL",
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        }
+      ],
+      "is_pvp": "PVE_ONLY"
+    },
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "Source.Mode?(kDD_BonusDoTMode_2)",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Lethal_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 0.2,
+          "duration": "4.1 seconds",
+          "magnitude": 1.0,
+          "delay": 0.5,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 1.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "CancelOnMiss (2)",
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Lethal damage over time (VITAL STRIKE!).",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Lethal damage over time (VITAL STRIKE!).",
+            "display_float": "VITAL STRIKE!",
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_BonusDoT2"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        }
+      ],
+      "is_pvp": "EITHER"
+    },
+    {
+      "tags": [
+        "FieryEmbrace"
+      ],
+      "chance": 0.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Fire_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 0.765,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Fire damage.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Fire damage.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": {
+            "continuing_bits": [],
+            "continuing_fx": "POWERS/FIRECONTROL/CINDERSHIT.FX",
+            "conditional_bits": [],
+            "conditional_fx": null
+          }
+        }
+      ],
+      "is_pvp": "EITHER"
+    },
+    {
+      "tags": [
+        "FieryEmbrace"
+      ],
+      "chance": 0.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "Source.Mode?(kDD_BonusDoTMode_2)",
+      "flags": [],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Fire_Dmg"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Absolute",
+          "target": "AnyAffected",
+          "table": "Melee_Damage",
+          "scale": 0.09,
+          "duration": "4.1 seconds",
+          "magnitude": 1.0,
+          "delay": 0.5,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 1.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": {
+            "display_attacker_hit": "You hit {PlayerDest} with your {PowerName} for {Damage} points of Fire damage over time.",
+            "display_victim_hit": "{PlayerSource} hits you with their {PowerName} for {Damage} points of Fire damage over time.",
+            "display_float": null,
+            "display_defense_float": null
+          },
+          "suppress_events": [],
+          "required_events": [],
+          "params": null,
+          "fx": {
+            "continuing_bits": [],
+            "continuing_fx": "POWERS/FIRECONTROL/CINDERSHIT.FX",
+            "conditional_bits": [],
+            "conditional_fx": null
+          }
+        }
+      ],
+      "is_pvp": "EITHER"
+    },
+    {
+      "tags": [],
+      "chance": 1.0,
+      "ppm": 0.0,
+      "delay": 0.0,
+      "radius_inner": -1.0,
+      "radius_outer": -1.0,
+      "requires_expression": "",
+      "flags": [
+        "HitRollSuccess"
+      ],
+      "eval_flags": 0,
+      "child_effects": [],
+      "templates": [
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_Status1"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_Status2"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_Debuff1"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_Debuff2"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_BonusAoE1"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_BonusAoE2"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        },
+        {
+          "attribs": [
+            "Cancel_Effects"
+          ],
+          "type": "Magnitude",
+          "application_type": "OnTick",
+          "aspect": "Strength",
+          "target": "Self",
+          "table": "Melee_Ones",
+          "scale": 1.0,
+          "duration": "0 seconds",
+          "magnitude": 1.0,
+          "delay": 0.0,
+          "duration_expression": "",
+          "magnitude_expression": "",
+          "application_period": 0.0,
+          "tick_chance": 1.0,
+          "tick_mag_multiplier": 1.0,
+          "tick_mag_additive": 0.0,
+          "jit_requires": "",
+          "caster_stack": "Individual",
+          "stack": "Stack",
+          "stack_limit": 2,
+          "stack_key": null,
+          "cancel_events": [],
+          "boost_mod_allowed": "Science_Boost",
+          "flags": [
+            "ResistMagnitude (7)",
+            "CombatModMagnitude (9)"
+          ],
+          "mode_name": null,
+          "target_info": null,
+          "messages": null,
+          "suppress_events": [],
+          "required_events": [],
+          "params": {
+            "type": "EffectFilter",
+            "tags": [
+              "DB_BonusDoT1"
+            ],
+            "category_names": [],
+            "powerset_names": [],
+            "power_names": []
+          },
+          "fx": null
+        }
+      ],
+      "is_pvp": "EITHER"
+    }
+  ],
+  "activation_effects": [],
+  "fx": {
+    "source_file": "MENU/POWERS/ANIMFX/DUALBLADES_SPECIALATTACK2_NOGEO.PFX",
+    "attack_bits": [
+      20,
+      138,
+      141,
+      774,
+      403
+    ],
+    "block_bits": [
+      53
+    ],
+    "wind_up_bits": [],
+    "hit_bits": [
+      49,
+      689
+    ],
+    "death_bits": [],
+    "activation_bits": [
+      20,
+      138,
+      141,
+      195
+    ],
+    "deactivation_bits": [],
+    "initial_attack_bits": [
+      20,
+      138,
+      141,
+      774,
+      403,
+      195
+    ],
+    "continuing_bits": [],
+    "conditional_bits": [],
+    "activation_fx": "WEAPONS/CUSTOM_DUALBLADES/CUSTOMWEAPON_DUALBLADES.FX",
+    "deactivation_fx": null,
+    "attack_fx": "POWERS/MEDIEVALWEAPONS/DUALBLADES/DUALBLADES_SPECIAL2_ATTACK.FX",
+    "secondary_attack_fx": null,
+    "hit_fx": "POWERS/MEDIEVALWEAPONS/DUALBLADES/DUALBLADES_SPECIAL2_HIT.FX",
+    "wind_up_fx": null,
+    "block_fx": null,
+    "death_fx": null,
+    "initial_attack_fx": "POWERS/MEDIEVALWEAPONS/DUALBLADES/DUALBLADES_SPECIAL2_ATTACK.FX",
+    "continuing_fx": [],
+    "conditional_fx": [],
+    "mode_bits": [
+      20,
+      138,
+      141,
+      87
+    ],
+    "frames_before_hit": 15,
+    "frames_before_secondary_hit": 0,
+    "delayed_hit": false,
+    "frames_attack": 37,
+    "initial_frames_before_hit": 35,
+    "initial_attack_fx_frame_delay": 20,
+    "projectile_speed": 3.4028234663852886e38,
+    "secondary_projectile_speed": 0.0,
+    "initial_frames_before_block": 0,
+    "ignore_attack_time_errors": null,
+    "frames_before_block": 0,
+    "fx_important": false
+  },
+  "custom_fx": [
+    {
+      "display_name": null,
+      "token": "NoRedraw",
+      "alt_themes": [],
+      "category": null,
+      "palette_name": "Additive",
+      "fx": {
+        "source_file": "MENU/POWERS/ANIMFX/DUALBLADES_SPECIALATTACK2_NOGEO.PFX",
+        "attack_bits": [
+          20,
+          138,
+          141,
+          774,
+          403
+        ],
+        "block_bits": [
+          53
+        ],
+        "wind_up_bits": [],
+        "hit_bits": [
+          49,
+          689
+        ],
+        "death_bits": [],
+        "activation_bits": [
+          20,
+          138,
+          141,
+          194
+        ],
+        "deactivation_bits": [],
+        "initial_attack_bits": [
+          20,
+          138,
+          141,
+          774,
+          403
+        ],
+        "continuing_bits": [],
+        "conditional_bits": [],
+        "activation_fx": "WEAPONS/CUSTOM_DUALBLADES/CUSTOMWEAPON_DUALBLADES.FX",
+        "deactivation_fx": null,
+        "attack_fx": "POWERS/MEDIEVALWEAPONS/DUALBLADES/DUALBLADES_SPECIAL2_ATTACK.FX",
+        "secondary_attack_fx": null,
+        "hit_fx": "POWERS/MEDIEVALWEAPONS/DUALBLADES/DUALBLADES_SPECIAL2_HIT.FX",
+        "wind_up_fx": null,
+        "block_fx": null,
+        "death_fx": null,
+        "initial_attack_fx": "POWERS/MEDIEVALWEAPONS/DUALBLADES/DUALBLADES_SPECIAL2_ATTACK.FX",
+        "continuing_fx": [],
+        "conditional_fx": [],
+        "mode_bits": [
+          20,
+          138,
+          141,
+          87
+        ],
+        "frames_before_hit": 15,
+        "frames_before_secondary_hit": 0,
+        "delayed_hit": false,
+        "frames_attack": 37,
+        "initial_frames_before_hit": 15,
+        "initial_attack_fx_frame_delay": 0,
+        "projectile_speed": 3.4028234663852886e38,
+        "secondary_projectile_speed": 0.0,
+        "initial_frames_before_block": 0,
+        "ignore_attack_time_errors": null,
+        "frames_before_block": 0,
+        "fx_important": false
+      }
+    }
+  ],
+  "fx_only_on_main_target": false
+}

@@ -1,0 +1,161 @@
+{
+  "name": "TimeEchoes_Glacia",
+  "gender": "GENDER_FEMALE",
+  "group_name": "TimeEchoes",
+  "commandable_pet": 0,
+  "power_tags": [
+    "HumanSkeleton",
+    "Human",
+    "Raid"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 50,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 0,
+    "spawn_limit_mission": 0,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": true,
+    "rank": "VR_PET",
+    "ai_config": "Default_Ranged",
+    "character_class_name": "boss_archvillain",
+    "description": "This Time Echo is of Glacia, Omega Team survivor. Whatever is drawing these foes from your memories does not seem to care whether it is friend or foe it picks.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "Rularuu.Reflections.Resistance",
+      "V_GenericVillains.Ice_Corruptor.Ice_Bolt",
+      "V_GenericVillains.Ice_Corruptor.Ice_Blast",
+      "V_GenericVillains.Ice_Corruptor.Frost_Breath",
+      "V_GenericVillains.Ice_Corruptor.Freeze_Ray",
+      "V_GenericVillains.Ice_Corruptor.Ice_Storm",
+      "V_GenericVillains.Ice_Corruptor.Bitter_Ice_Blast",
+      "V_GenericVillains.Ice_Corruptor.Frostwork",
+      "V_GenericVillains.Ice_Corruptor.Bitter_Freeze_Ray",
+      "V_GenericVillains.Ice_Corruptor.Heat_Loss",
+      "V_GenericVillains.Ice_Corruptor.Blizzard"
+    ],
+    "power_display_names": [
+      "Resistance",
+      "Ice Bolt",
+      "Ice Blast",
+      "Frost Breath",
+      "Freeze Ray",
+      "Ice Storm",
+      "Bitter Ice Blast",
+      "Frostwork",
+      "Bitter Freeze Ray",
+      "Heat Loss",
+      "Blizzard"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "Rularuu",
+        "power_set": "Reflections",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Ice_Bolt",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Ice_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Frost_Breath",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Freeze_Ray",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Ice_Storm",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Bitter_Ice_Blast",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Frostwork",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Bitter_Freeze_Ray",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Heat_Loss",
+        "level": 0
+      },
+      {
+        "power_category": "V_GenericVillains",
+        "power_set": "Ice_Corruptor",
+        "power": "Blizzard",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 50,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "Echo of Glacia"
+      ],
+      "costumes": [
+        "Model_Omega_Glacia_01"
+      ]
+    }
+  ]
+}

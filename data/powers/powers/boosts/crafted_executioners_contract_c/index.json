@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Executioners_Contract_C",
+  "display_name": "Crafted Executioners Contract C",
+  "display_fullname": "Boosts.Crafted Executioners Contract C",
+  "display_help": "Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces interrupt time by {Boost.Attrib.InterruptTime.Scale}%.",
+  "display_short_help": "Set: Executioners Contract",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_EXECUTIONERS_CONTRACT_C.POWERSETS",
+  "icon": "crafted_executioners_contract_c_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Executioners_Contract_C.Crafted_Executioners_Contract_C"
+  ],
+  "power_display_names": [
+    "Executioners Contract: Damage/Interrupt"
+  ],
+  "power_short_helps": [
+    "Enhances Damage and Reduces Interrupt Time"
+  ]
+}

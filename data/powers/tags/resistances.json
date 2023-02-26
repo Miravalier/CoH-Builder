@@ -1,0 +1,26 @@
+{
+  "tag": "Resistances",
+  "bears": [
+    [
+      "Mastermind Pets.Mercenary Commando.Equip",
+      "mastermind_pets.commando_2.equip"
+    ],
+    [
+      "Mastermind Pets.Mercenary Medic.Equip",
+      "mastermind_pets.medic_2.equip"
+    ],
+    [
+      "Mastermind Pets.Mercenary Soldier.Equip",
+      "mastermind_pets.soldier_2.equip"
+    ],
+    [
+      "Mastermind Pets.Mercenary Spec Ops.Equip",
+      "mastermind_pets.spec_ops_2.equip"
+    ],
+    [
+      "Mastermind Summon.Mercenaries.Serum",
+      "mastermind_summon.mercenaries.serum"
+    ]
+  ],
+  "affects": []
+}

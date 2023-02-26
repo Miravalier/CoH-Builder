@@ -1,0 +1,42 @@
+{
+  "name": "Umbral_Blast",
+  "display_name": "Umbral Blast",
+  "display_fullname": "Kheldian Pets.Umbral Blast",
+  "display_help": "Masters of the void, Warshades can manipulate dark energy, gravity and matter to blast and dominate their foes. The gravimetric nature of most Umbral Blast powers often slows the targets attack and movement speed.",
+  "display_short_help": "Umbral Blast",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    9,
+    9
+  ],
+  "source_file": "DEFS/POWERS/KHELDIAN_PETS/UMBRAL_BLAST.POWERSETS",
+  "icon": "umbral_blast_set.png",
+  "requires": "",
+  "power_names": [
+    "Kheldian_Pets.Umbral_Blast.Shadow_Bolt",
+    "Kheldian_Pets.Umbral_Blast.Dwarf_Shadow_Bolt",
+    "Kheldian_Pets.Umbral_Blast.Ebon_Eye",
+    "Kheldian_Pets.Umbral_Blast.Nova_Ebon_Eye",
+    "Kheldian_Pets.Umbral_Blast.Shadow_Recall",
+    "Kheldian_Pets.Umbral_Blast.Starless_Step"
+  ],
+  "power_display_names": [
+    "Shadow Bolt",
+    "Dwarf Shadow Bolt",
+    "Ebon Eye",
+    "Nova Ebon Eye",
+    "Shadow Recall",
+    "Starless Step"
+  ],
+  "power_short_helps": [
+    "Ranged, Minor DMG(Negative), Foe -Recharge, -SPD",
+    "Ranged, Minor DMG(Negative), Foe -Recharge, -SPD",
+    "Ranged, Moderate DMG(Negative), Foe -Recharge, -SPD",
+    "Ranged, Minor DMG(Negative), Foe -Recharge, -SPD",
+    "Zone-Range: Teleport Teammate",
+    "Ranged, Teleport Foe"
+  ]
+}

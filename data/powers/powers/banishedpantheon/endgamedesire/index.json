@@ -1,0 +1,46 @@
+{
+  "name": "EndgameDesire",
+  "display_name": "EndgameDesire",
+  "display_fullname": "BanishedPantheon.EndgameDesire",
+  "display_help": "Banished Pantheon",
+  "display_short_help": "Banished Pantheon",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "source_file": "DEFS/POWERS/BANISHEDPANTHEON/ENDGAMEDESIRE.POWERSETS",
+  "icon": "endgamedesire_set.png",
+  "requires": "",
+  "power_names": [
+    "BanishedPantheon.EndgameDesire.Mental_Blast",
+    "BanishedPantheon.EndgameDesire.Psychic_Scream",
+    "BanishedPantheon.EndgameDesire.Telekinetic_Blast",
+    "BanishedPantheon.EndgameDesire.Terrify",
+    "BanishedPantheon.EndgameDesire.Drain_Psyche",
+    "BanishedPantheon.EndgameDesire.Spectral_Wounds",
+    "BanishedPantheon.EndgameDesire.Domination"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Psychic Scream",
+    "Telekinetic Blast",
+    "Terrify",
+    "Drain Psyche",
+    "Spectral Wounds",
+    "Domination"
+  ],
+  "power_short_helps": [
+    "Ranged, Moderate DMG(Psionic), -Rech(Foe)",
+    "Ranged (Cone), Moderate DMG(Psionic), -Rech(Foe)",
+    "Ranged, Moderate DMG(Smashing/Psionic), Chance for Knockback(Foe)",
+    "Ranged (Cone), Minor DMG(Psionic), Fear(Foe)",
+    "PBAoE, +Regen(Self), +Rec(Self), -Regen(Foe), -Rec(Foe)",
+    "Ranged, High DMG(Psionic), Minor DoT(Lethal)",
+    "Ranged, Moderate DMG(Psionic), Hold(Foe)"
+  ]
+}

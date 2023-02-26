@@ -1,0 +1,101 @@
+{
+  "name": "Blackwing_LT_PEACE_Medic",
+  "gender": "GENDER_MALE",
+  "group_name": "Blackwing",
+  "commandable_pet": 0,
+  "power_tags": [],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 40,
+    "max_level": 54,
+    "requires": "",
+    "spawn_limit": 1,
+    "spawn_limit_mission": 1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_LIEUTENANT",
+    "ai_config": "BWI_Medic",
+    "character_class_name": "lt_grunt",
+    "description": "Blackwing Industries is a private military company which has been contracted by Paragon City to replace the police in Kallisti Wharf.<br><br><b>P.E.A.C.E.</b> <i>(Police Emergency Action & Crisis Engagement)</i> is their heavy response division.<br><br>Clad in white and red, the Medics are the primary medical support unit for P.E.A.C.E. units. Whether friend or foe, these EMTs will always be there to tend to the injured after the action is over.",
+    "group_description": "Blackwing Industries",
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 0.0,
+    "additional_rewards": [],
+    "power_full_names": [
+      "BlackwingIndustries.Medic.Military_Training",
+      "BlackwingIndustries.Medic.Triage_Beacon",
+      "BlackwingIndustries.Medic.Healing_Aura",
+      "BlackwingIndustries.Medic.Heal_Other",
+      "BlackwingIndustries.Medic.Resurrect",
+      "BlackwingIndustries.Medic.Fortitude",
+      "BlackwingIndustries.Medic.Adrenalin_Boost",
+      "BlackwingIndustries.Excelsion_Armor_Medium.Medium_ExcelsionArmor"
+    ],
+    "power_display_names": [
+      "Military Training",
+      "Triage Beacon",
+      "Healing Aura",
+      "Heal Other",
+      "Resurrect",
+      "Fortitude",
+      "Adrenalin Boost",
+      "Medium Excelsion Armor"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "BlackwingIndustries",
+        "power_set": "Medic",
+        "power": "*",
+        "level": 0
+      },
+      {
+        "power_category": "BlackwingIndustries",
+        "power_set": "Excelsion_Armor_Medium",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 40,
+      "max_level": 54,
+      "experience": 0,
+      "display_names": [
+        "P.E.A.C.E. Medic"
+      ],
+      "costumes": [
+        "BWI_SpecLTMed_F1",
+        "BWI_SpecLTMed_F2",
+        "BWI_SpecLTMed_F3",
+        "BWI_SpecLTMed_F4",
+        "BWI_SpecLTMed_M1",
+        "BWI_SpecLTMed_M2",
+        "BWI_SpecLTMed_M3",
+        "BWI_SpecLTMed_M4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Caltrops",
+  "display_name": "Caltrops",
+  "display_fullname": "Mission Maker Pets.Caltrops",
+  "display_help": "Devices",
+  "display_short_help": "Devices",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/MISSION_MAKER_PETS/CALTROPS.POWERSETS",
+  "icon": "caltrops_set.png",
+  "requires": "",
+  "power_names": [
+    "Mission_Maker_Pets.Caltrops.Caltrops"
+  ],
+  "power_display_names": [
+    "Caltrops"
+  ],
+  "power_short_helps": [
+    "-Speed, Low Lethal"
+  ]
+}

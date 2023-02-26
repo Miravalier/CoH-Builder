@@ -1,0 +1,17 @@
+{
+  "name": "WISDOM",
+  "display_name": "WISDOM",
+  "source_file": "DEFS/POWERS/WISDOM.CATEGORIES",
+  "archetypes": [],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "wisdom.foreshadow",
+    "wisdom.mirror_spirit"
+  ],
+  "powerset_display_names": [
+    "Foreshadow",
+    "Mirror Spirit"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Stern",
+  "display_name": "Stern",
+  "display_fullname": "PraetorianPolice.Stern",
+  "display_help": "Fiery Melee allows you to attack with fire, and even conjure up flaming melee weapons. Fiery Melee powers tend to set foes ablaze for added Damage Over Time.",
+  "display_short_help": "Stern",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANPOLICE/STERN.POWERSETS",
+  "icon": "stern_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianPolice.Stern.Scorch",
+    "PraetorianPolice.Stern.Fire_Blast",
+    "PraetorianPolice.Stern.Cremate",
+    "PraetorianPolice.Stern.Deflection",
+    "PraetorianPolice.Stern.True_Grit",
+    "PraetorianPolice.Stern.Against_All_Odds"
+  ],
+  "power_display_names": [
+    "Scorch",
+    "Fire Blast",
+    "Cremate",
+    "Deflection",
+    "True Grit",
+    "Against All Odds"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Fire)",
+    "Ranged, Moderate DMG(Fire)",
+    "Melee, High DMG(Smash/Fire)",
+    "Toggle: Self +DEF(Melee), +Res(Lethal, Smashing)",
+    "Auto: Self +Res (Cold, Energy, Fire, Negative Energy, Toxic), +MaxHealth",
+    "Toggle: Self +DMG, Foe -DMG"
+  ]
+}

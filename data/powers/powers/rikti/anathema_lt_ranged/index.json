@@ -1,0 +1,38 @@
+{
+  "name": "Anathema_Lt_Ranged",
+  "display_name": "Anathema_Lt_Ranged",
+  "display_fullname": "Rikti.Anathema Lt Ranged",
+  "display_help": "The Lost",
+  "display_short_help": "The Lost",
+  "available_level": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/RIKTI/ANATHEMA_LT_RANGED.POWERSETS",
+  "icon": "anathema_lt_ranged_set.png",
+  "requires": "",
+  "power_names": [
+    "Rikti.Anathema_Lt_Ranged.Mental_Blast",
+    "Rikti.Anathema_Lt_Ranged.Psychic_Scream",
+    "Rikti.Anathema_Lt_Ranged.Telekinetic_blast",
+    "Rikti.Anathema_Lt_Ranged.Subdue",
+    "Rikti.Anathema_Lt_Ranged.Will_Domination"
+  ],
+  "power_display_names": [
+    "Mental Blast",
+    "Psychic Scream",
+    "Telekinetic blast",
+    "Subdue",
+    "Will Domination"
+  ],
+  "power_short_helps": [
+    "-Recharge",
+    "-Recharge",
+    "Ranged Smash/Psionic, Knockback",
+    "Immobilize",
+    "Sleep"
+  ]
+}

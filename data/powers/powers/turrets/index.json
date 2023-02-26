@@ -1,0 +1,51 @@
+{
+  "name": "Turrets",
+  "display_name": "Turrets",
+  "source_file": "DEFS/POWERS/TURRETS.CATEGORIES",
+  "archetypes": [
+    "boss_grunt"
+  ],
+  "display_help": null,
+  "display_short_help": null,
+  "powerset_names": [
+    "turrets.bafconsole",
+    "turrets.bafconsole2",
+    "turrets.bafturret",
+    "turrets.dual_turret",
+    "turrets.evil_turret_flamethrower",
+    "turrets.force_field",
+    "turrets.frag_missile_turret",
+    "turrets.frag_missile_turret_rv",
+    "turrets.gas_missile_turret",
+    "turrets.good_turret_flamethrower",
+    "turrets.gun_turret",
+    "turrets.incendiary_missile_turret",
+    "turrets.popup_turret",
+    "turrets.popup_turret_hover",
+    "turrets.popup_turret_rv",
+    "turrets.quad_turret",
+    "turrets.turret_gas",
+    "turrets.turret_inherent"
+  ],
+  "powerset_display_names": [
+    "BAFConsole",
+    "BAFConsole2",
+    "BAFTurret",
+    "Dual Turret",
+    "Evil_Turret_FlameThrower",
+    "Force Field",
+    "Frag Missile Turret",
+    "Frag Missile Turret",
+    "Gas Missile Turret",
+    "Good_Turret_FlameThrower",
+    "Gun Turret",
+    "Incendiary Missile Turret",
+    "PopUp Turret",
+    "PopUp Turret Hover",
+    "PopUp Turret RV",
+    "Quad Turret",
+    "Turret Gas",
+    "Turret Inherent"
+  ],
+  "powersets_with_requirements": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Supervillain_Resistance",
+  "display_name": "Supervillain Resistance",
+  "display_fullname": "GenericVillains.Supervillain Resistance",
+  "display_help": "Incarnate",
+  "display_short_help": "Incarnate",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/GENERICVILLAINS/SUPERVILLAIN_RESISTANCE.POWERSETS",
+  "icon": "supervillain_resistance_set.png",
+  "requires": "",
+  "power_names": [
+    "GenericVillains.Supervillain_Resistance.Resistance"
+  ],
+  "power_display_names": [
+    "Resistance"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

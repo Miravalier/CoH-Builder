@@ -1,0 +1,34 @@
+{
+  "name": "StreetJustice_MN",
+  "display_name": "StreetJustice_MN",
+  "display_fullname": "Family.StreetJustice MN",
+  "display_help": "Family",
+  "display_short_help": "Family",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/FAMILY/STREETJUSTICE_MN.POWERSETS",
+  "icon": "streetjustice_mn_set.png",
+  "requires": "",
+  "power_names": [
+    "Family.StreetJustice_MN.Assault_Strike",
+    "Family.StreetJustice_MN.Heavy_Blow",
+    "Family.StreetJustice_MN.Throwing_Knives",
+    "Family.StreetJustice_MN.Agile_Cross"
+  ],
+  "power_display_names": [
+    "Assault Strike",
+    "Heavy Blow",
+    "Throwing Knives",
+    "Agile Cross"
+  ],
+  "power_short_helps": [
+    "Melee, Minor DMG(Smashing), Minor DoT (Toxic), -DEF(Foe,All)",
+    "Melee, Moderate DMG(Smashing), Minor DoT (Toxic), Chance for Knockdown(Foe)",
+    "Ranged, Minor DMG(Lethal), Minor DoT (Toxic), Minor DoT(Lethal)",
+    "Melee (Cone), High DMG (Smashing), Minor DoT (Toxic), Chance for -Regen(Foe), -Rec(Foe)"
+  ]
+}

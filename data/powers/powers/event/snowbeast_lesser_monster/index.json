@@ -1,0 +1,26 @@
+{
+  "name": "Snowbeast_Lesser_Monster",
+  "display_name": "Snowbeast Lesser Monster",
+  "display_fullname": "Event.Snowbeast Lesser Monster",
+  "display_help": "Winter Horde",
+  "display_short_help": "Winter Horde",
+  "available_level": [
+    0,
+    1
+  ],
+  "source_file": "DEFS/POWERS/EVENT/SNOWBEAST_LESSER_MONSTER.POWERSETS",
+  "icon": "snowbeast_lesser_monster_set.png",
+  "requires": "",
+  "power_names": [
+    "Event.Snowbeast_Lesser_Monster.Resistance",
+    "Event.Snowbeast_Lesser_Monster.Frostbite"
+  ],
+  "power_display_names": [
+    "Resistance",
+    "Frostbite"
+  ],
+  "power_short_helps": [
+    "Resistance",
+    "Immobilize, -SPD, -Recharge, -Fly"
+  ]
+}

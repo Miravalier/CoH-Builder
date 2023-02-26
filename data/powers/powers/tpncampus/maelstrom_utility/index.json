@@ -1,0 +1,34 @@
+{
+  "name": "Maelstrom_Utility",
+  "display_name": "Maelstrom_Utility",
+  "display_fullname": "TPNCampus.Maelstrom Utility",
+  "display_help": "Maelstrom",
+  "display_short_help": "Maelstrom",
+  "available_level": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/TPNCAMPUS/MAELSTROM_UTILITY.POWERSETS",
+  "icon": "maelstrom_utility_set.png",
+  "requires": "",
+  "power_names": [
+    "TPNCampus.Maelstrom_Utility.Grant_Badge_Timer",
+    "TPNCampus.Maelstrom_Utility.Badge_Timer",
+    "TPNCampus.Maelstrom_Utility.Whirlwind_Burst_Tell",
+    "TPNCampus.Maelstrom_Utility.Whirlwind_Burst"
+  ],
+  "power_display_names": [
+    "Grant Badge Timer",
+    "Badge Timer",
+    "Whirlwind Burst Tell",
+    "Whirlwind Burst"
+  ],
+  "power_short_helps": [
+    "Special",
+    "Special",
+    "Melee, High DMG(Smashing), Foe Knockback",
+    "Melee, High DMG(Smashing), Foe Knockback"
+  ]
+}

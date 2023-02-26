@@ -1,0 +1,22 @@
+{
+  "name": "Crafted_Induced_Coma_F",
+  "display_name": "Crafted Induced Coma F",
+  "display_fullname": "Boosts.Crafted Induced Coma F",
+  "display_help": "Gives a small chance of slowing targets recharge times by 20%. This effect will trigger roughly 3.5 times per minute.",
+  "display_short_help": "Set: Induced Coma",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/CRAFTED_INDUCED_COMA_F.POWERSETS",
+  "icon": "crafted_induced_coma_f_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Crafted_Induced_Coma_F.Crafted_Induced_Coma_F"
+  ],
+  "power_display_names": [
+    "Induced Coma: Chance for Recharge Slow"
+  ],
+  "power_short_helps": [
+    "Chance for -Rech"
+  ]
+}

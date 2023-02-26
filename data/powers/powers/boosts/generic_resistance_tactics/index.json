@@ -1,0 +1,22 @@
+{
+  "name": "Generic_Resistance_Tactics",
+  "display_name": "Generic Resistance Tactics",
+  "display_fullname": "Boosts.Generic Resistance Tactics",
+  "display_help": "Enhances the damage and recharge of a power while providing a 12% chance to deal minor Smashing damage.",
+  "display_short_help": "Resistance Tactics",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/BOOSTS/GENERIC_RESISTANCE_TACTICS.POWERSETS",
+  "icon": "generic_resistance_tactics_set.png",
+  "requires": "",
+  "power_names": [
+    "Boosts.Generic_Resistance_Tactics.Generic_Resistance_Tactics"
+  ],
+  "power_display_names": [
+    "Resistance Tactics: Damage/Recharge/Chance for Smashing damage"
+  ],
+  "power_short_helps": [
+    "Enhances Damage, Recharge and has a chance to deal minor Smashing damage"
+  ]
+}

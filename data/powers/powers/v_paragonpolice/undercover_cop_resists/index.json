@@ -1,0 +1,22 @@
+{
+  "name": "Undercover_Cop_Resists",
+  "display_name": "Undercover Cop Resists",
+  "display_fullname": "V ParagonPolice.Undercover Cop Resists",
+  "display_help": "Paragon Police",
+  "display_short_help": "Paragon Police",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/V_PARAGONPOLICE/UNDERCOVER_COP_RESISTS.POWERSETS",
+  "icon": "undercover_cop_resists_set.png",
+  "requires": "",
+  "power_names": [
+    "V_ParagonPolice.Undercover_Cop_Resists.Bulletproof_Vest"
+  ],
+  "power_display_names": [
+    "Bulletproof Vest"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}

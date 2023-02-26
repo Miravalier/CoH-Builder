@@ -1,0 +1,91 @@
+{
+  "name": "Arachnoids_Super_Arachnoid_Low",
+  "gender": "GENDER_MALE",
+  "group_name": "Arachnoids",
+  "commandable_pet": 0,
+  "power_tags": [
+    "Humanoid",
+    "HumanSkeleton"
+  ],
+  "ally": null,
+  "gang": null,
+  "game_exclusion": "None",
+  "inactive_state_weapon": null,
+  "copy_creator_mods": false,
+  "can_zone": false,
+  "custom_badge_stat": null,
+  "badge_stat_flags": "DefaultBadgeStat",
+  "defaults": {
+    "min_level": 30,
+    "max_level": 39,
+    "requires": "",
+    "spawn_limit": -1,
+    "spawn_limit_mission": -1,
+    "ignore_combat_mods": false,
+    "ignore_av_to_eb_scaling": false,
+    "rank": "VR_BOSS",
+    "ai_config": "Default_Melee",
+    "character_class_name": "boss_grunt",
+    "description": "Lord Recluse guards the secrets of the Arachnoids closely, but what is known is that they were created in Project Fury. Some speculate this experimental program was designed to create soldiers in Lord Recluse's image, but if this is true, the results so far are hideously flawed.",
+    "group_description": null,
+    "display_class_name": null,
+    "display_name": null,
+    "costume": null,
+    "reward_scale": 1.5,
+    "additional_rewards": [],
+    "power_full_names": [
+      "V_Arachnos.Super_Arachnoid.Claw_1",
+      "V_Arachnos.Super_Arachnoid.Claw_2",
+      "V_Arachnos.Super_Arachnoid.Barb_1",
+      "V_Arachnos.Super_Arachnoid.Barb_2",
+      "V_Arachnos.Super_Arachnoid.Neurotoxic_Breath",
+      "V_Arachnos.Super_Arachnoid.Super_Jumping",
+      "V_Arachnos.Super_Arachnoid.Web",
+      "V_Arachnos.Super_Arachnoid.Resistance"
+    ],
+    "power_display_names": [
+      "Claw",
+      "Claw",
+      "Venom Barb",
+      "Venom Barb",
+      "Neurotoxic Breath",
+      "Super Jumping",
+      "Web",
+      "Resistance"
+    ],
+    "power_levels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_dynamic": false,
+    "powers": [
+      {
+        "power_category": "V_Arachnos",
+        "power_set": "Super_Arachnoid",
+        "power": "*",
+        "level": 0
+      }
+    ],
+    "condition_hash": null
+  },
+  "conditions": [],
+  "levels": [
+    {
+      "min_level": 30,
+      "max_level": 39,
+      "experience": 0,
+      "display_names": [
+        "Super Arachnoid"
+      ],
+      "costumes": [
+        "Arachnos_Arachnoid_03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "IceStorm_Sentinel",
+  "display_name": "Ice Storm",
+  "display_fullname": "Pets.Ice Storm",
+  "display_help": "Ice Blast",
+  "display_short_help": "Ice Blast",
+  "available_level": [
+    0,
+    0
+  ],
+  "source_file": "DEFS/POWERS/PETS/ICESTORM_SENTINEL.POWERSETS",
+  "icon": "icestorm_sentinel_set.png",
+  "requires": "",
+  "power_names": [
+    "Pets.IceStorm_Sentinel.IceStorm",
+    "Pets.IceStorm_Sentinel.Avoid"
+  ],
+  "power_display_names": [
+    "IceStorm",
+    "Avoid"
+  ],
+  "power_short_helps": [
+    "Cold",
+    "Avoid"
+  ]
+}

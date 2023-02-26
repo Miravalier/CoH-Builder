@@ -1,0 +1,22 @@
+{
+  "name": "LT_Heavy",
+  "display_name": "LT_Heavy",
+  "display_fullname": "PraetorianResistance.LT Heavy",
+  "display_help": "Resistance",
+  "display_short_help": "Resistance",
+  "available_level": [
+    0
+  ],
+  "source_file": "DEFS/POWERS/PRAETORIANRESISTANCE/LT_HEAVY.POWERSETS",
+  "icon": "lt_heavy_set.png",
+  "requires": "",
+  "power_names": [
+    "PraetorianResistance.LT_Heavy.Resist_Physical_Damage"
+  ],
+  "power_display_names": [
+    "Resist Physical Damage"
+  ],
+  "power_short_helps": [
+    "Resistance"
+  ]
+}
