@@ -1,0 +1,18 @@
+version: "3.5"
+
+networks:
+    cohbuilder:
+        external: false
+
+services:
+    server:
+        build: .
+        image: cohbuilder_api
+        container_name: cohbuilder_api
+        networks:
+            - cohbuilder
+        volumes:
+            - /var/cohbuilder:/data
+            - /var/www/cohbuilder:/frontend
+        ports:
+            - "${HTTP_PORT}:80"
