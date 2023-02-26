@@ -1,6 +1,6 @@
 DOMAIN = cohbuilder.internal
 
-.PHONY: help frontend backend nginx
+.PHONY: help frontend frontend-data backend nginx
 
 help:
 	@echo "make help"
@@ -8,6 +8,9 @@ help:
 	@echo
 	@echo "make frontend"
 	@echo "  Copy the front-end files into the nginx root"
+	@echo
+	@echo "make frontend-data"
+	@echo "  Copy the front-end data into the nginx root"
 	@echo
 	@echo "make backend"
 	@echo "  Run the API server (requires docker and docker-compose)"
@@ -17,12 +20,14 @@ help:
 
 
 frontend:
-	@if [ ! -f .env ]; then \
-		echo "No .env found in $$PWD; copy example.env to .env and edit it"; \
-		exit 1; \
-	fi
-	rm -rf /var/www/coh-builder
-	cp -r ./src/frontend /var/www/coh-builder
+	mkdir -p /var/www/coh-builder/
+	cp -r ./src/frontend/* ./deps/* /var/www/coh-builder/
+
+
+frontend-data:
+	mkdir -p /var/www/coh-builder/
+	rm -rf /var/www/coh-builder/data/
+	cp -r data /var/www/coh-builder/data/
 
 
 backend:
