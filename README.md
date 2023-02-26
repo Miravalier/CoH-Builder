@@ -1,6 +1,6 @@
 # Overview
 
-A City of Heroes (CoH) build planner webapp, written in vanilla JS. Inspired by Mids' Hero Designer and SuckerPunch's Online Planner.
+A Homecoming: City of Heroes (HC CoH) build planner webapp, written in vanilla JS. Inspired by Mids' Hero Designer and SuckerPunch's Online Planner. This app has no affiliation with the Homecoming team or any data source.
 
 # Data Sources
 
