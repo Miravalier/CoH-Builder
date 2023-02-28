@@ -1,4 +1,4 @@
-export function RetrieveBinary(url) {
+export function RetrieveFile(url) {
     return new Promise(function (resolve, reject) {
         let xhr = new XMLHttpRequest();
         xhr.open("GET", url);

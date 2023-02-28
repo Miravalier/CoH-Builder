@@ -12,7 +12,7 @@ services:
         networks:
             - cohbuilder
         volumes:
-            - /var/cohbuilder:/data
-            - /var/www/cohbuilder:/frontend
+            - /var/coh-builder:/data
+            - /var/www/coh-builder:/frontend
         ports:
             - "${HTTP_PORT}:80"
