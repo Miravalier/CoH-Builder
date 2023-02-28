@@ -4,3 +4,12 @@ export const ALIGNMENT_VIGILANTE = 2;
 export const ALIGNMENT_VILLAIN = 3;
 export const ALIGNMENT_LOYALIST = 4;
 export const ALIGNMENT_RESISTANCE = 5;
+
+export const ENH_MUTEX_NONE = 0;
+export const ENH_MUTEX_STEALTH = 1;
+export const ENH_MUTEX_A = 2;
+export const ENH_MUTEX_B = 3;
+export const ENH_MUTEX_C = 4;
+export const ENH_MUTEX_D = 5;
+export const ENH_MUTEX_E = 6;
+export const ENH_MUTEX_F = 7;

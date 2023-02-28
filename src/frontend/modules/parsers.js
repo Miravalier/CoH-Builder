@@ -7,7 +7,7 @@ import * as Enums from "./enums.js";
  *
  * @param {String} saveString
  */
-export function LoadMxd(saveString) {
+export function LoadMxdCharacter(saveString) {
     const character = {};
 
     saveString = saveString.replace(/[\s|]+/g, "");
@@ -140,10 +140,10 @@ export function LoadMxd(saveString) {
         if (version == 32) {
             slot.inherent = stream.readBoolean();
         }
-        slot.enhancement = ReadEnhancement(stream, qualifiedNames);
+        slot.enhancement = ReadMxdEnhancement(stream, qualifiedNames);
         console.log("Enhancement", slot.enhancement);
         if (stream.readBoolean()) {
-            slot.flippedEnhancement = ReadEnhancement(stream, qualifiedNames);
+            slot.flippedEnhancement = ReadMxdEnhancement(stream, qualifiedNames);
         }
         slots.push(slot);
     }
@@ -159,7 +159,7 @@ export function LoadMxd(saveString) {
  * @param {StreamReader} stream
  * @param {boolean} qualifiedNames
  */
-function ReadEnhancement(stream, qualifiedNames) {
+function ReadMxdEnhancement(stream, qualifiedNames) {
     const enhancement = {};
     if (qualifiedNames) {
         enhancement.name = stream.readString();
@@ -173,17 +173,230 @@ function ReadEnhancement(stream, qualifiedNames) {
 }
 
 
+function LoadEnhDbEffect(stream) {
+    const effect = {};
+    effect.powerFullName = stream.readString();
+    effect.uniqueId = stream.readInt32();
+    effect.effectClass = stream.readInt32();
+    effect.effectType = stream.readInt32();
+    effect.damageType = stream.readInt32();
+    effect.mezType = stream.readInt32();
+    effect.modifiesEffectType = stream.readInt32();
+    effect.summon = stream.readString();
+    effect.delayedTime = stream.readFloat();
+    effect.ticks = stream.readInt32();
+    effect.stacking = stream.readInt32();
+    effect.baseProbability = stream.readFloat();
+    effect.suppresion = stream.readInt32();
+    effect.buffable = stream.readBoolean();
+    effect.resistable = stream.readBoolean();
+    effect.specialCase = stream.readInt32();
+    effect.variableModifiedOverride = stream.readBoolean();
+    effect.ignoreScaling = stream.readBoolean();
+    effect.pvMode = stream.readInt32();
+    effect.toWhom = stream.readInt32();
+    effect.displayPercentageOverride = stream.readInt32();
+    effect.scale = stream.readFloat();
+    effect.nMagnitude = stream.readFloat();
+    effect.nDuration = stream.readFloat();
+    effect.attribType = stream.readInt32();
+    effect.aspect = stream.readInt32();
+    effect.modifierTable = stream.readString();
+    effect.nearGround = stream.readBoolean();
+    effect.cancelOnMiss = stream.readBoolean();
+    effect.requiresHitCheck = stream.readBoolean();
+    effect.uidClassName = stream.readString();
+    effect.nidClassName = stream.readInt32();
+    effect.expressions = {
+        duration: stream.readString(),
+        magnitude: stream.readString(),
+        probability: stream.readString(),
+    };
+    effect.reward = stream.readString();
+    effect.effectId = stream.readString();
+    effect.ignoreEd = stream.readBoolean();
+    effect.override = stream.readString();
+    effect.procsPerMinute = stream.readFloat();
+    effect.powerAttribs = stream.readInt32();
+    effect.atrOrigAccuracy = stream.readFloat();
+    effect.atrOrigActivatePeriod = stream.readFloat();
+    effect.atrOrigArc = stream.readInt32();
+    effect.atrOrigCastTime = stream.readFloat();
+    effect.atrOrigEffectArea = stream.readInt32();
+    effect.atrOrigEnduranceCost = stream.readFloat();
+    effect.atrOrigInterruptTime = stream.readFloat();
+    effect.atrOrigMaxTargets = stream.readInt32();
+    effect.atrOrigRadius = stream.readFloat();
+    effect.atrOrigRange = stream.readFloat();
+    effect.atrOrigRechargeTime = stream.readFloat();
+    effect.atrOrigSecondaryRange = stream.readFloat();
+    effect.atrModAccuracy = stream.readFloat();
+    effect.atrModActivatePeriod = stream.readFloat();
+    effect.atrModArc = stream.readInt32();
+    effect.atrModCastTime = stream.readFloat();
+    effect.atrModEffectArea = stream.readInt32();
+    effect.atrModEnduranceCost = stream.readFloat();
+    effect.atrModInterruptTime = stream.readFloat();
+    effect.atrModMaxTargets = stream.readInt32();
+    effect.atrModRadius = stream.readFloat();
+    effect.atrModRange = stream.readFloat();
+    effect.atrModRechargeTime = stream.readFloat();
+    effect.atrModSecondaryRange = stream.readFloat();
+    const conditionalCount = stream.readInt32();
+    effect.conditionals = {};
+    for (let i = 0; i < conditionalCount; i++) {
+        const conditionalKey = stream.readString();
+        const conditionalValue = stream.readString();
+        effect.conditionals[conditionalKey] = conditionalValue;
+    }
+    return effect;
+}
+
+
+/**
+ * @param {StreamReader} stream
+ */
+function LoadEnhDbEnhancement(stream) {
+    const enhancement = {};
+    enhancement.recipeIndex = -1;
+    enhancement.staticIndex = stream.readInt32();
+    enhancement.name = stream.readString();
+    enhancement.shortName = stream.readString();
+    enhancement.description = stream.readString();
+    enhancement.typeId = stream.readInt32();
+    enhancement.subtypeId = stream.readInt32();
+    const classIdCount = stream.readInt32() + 1;
+    enhancement.classes = [];
+    for (let i = 0; i < classIdCount; i++) {
+        enhancement.classes.push(stream.readInt32());
+    }
+    enhancement.image = stream.readString();
+    enhancement.nidSet = stream.readInt32();
+    enhancement.uidSet = stream.readString();
+    enhancement.effectChance = stream.readFloat();
+    enhancement.minLevel = stream.readInt32();
+    enhancement.maxLevel = stream.readInt32();
+    enhancement.unique = stream.readBoolean();
+    enhancement.mutExId = stream.readInt32();
+    if (enhancement.mutExId < Enums.ENH_MUTEX_NONE) {
+        enhancement.mutExId = Enums.ENH_MUTEX_NONE;
+    }
+    enhancement.buffMode = stream.readInt32();
+    const effectCount = stream.readInt32() + 1;
+    enhancement.effects = [];
+    for (let i = 0; i < effectCount; i++) {
+        const effect = {};
+        effect.mode = stream.readInt32();
+        effect.buffMode = stream.readInt32();
+        effect.enhancementId = stream.readInt32();
+        effect.enhancementSubId = stream.readInt32();
+        effect.schedule = stream.readInt32();
+        effect.multiplier = stream.readFloat();
+        if (!stream.readBoolean()) {
+            effect.fx = null;
+        }
+        else {
+            effect.fx = LoadEnhDbEffect(stream);
+        }
+        enhancement.effects.push(effect);
+    }
+    enhancement.uid = stream.readString();
+    enhancement.recipeName = stream.readString();
+    enhancement.superior = stream.readBoolean();
+    enhancement.isProc = stream.readBoolean();
+    enhancement.isScalable = stream.readBoolean();
+    return enhancement;
+}
+
+/**
+ * @param {StreamReader} reader
+ */
+function LoadEnhDbEnhancementSet(reader) {
+    const enhancementSet = {};
+
+    enhancementSet.displayName = reader.readString();
+    enhancementSet.shortName = reader.readString();
+    enhancementSet.uid = reader.readString();
+    enhancementSet.description = reader.readString();
+    enhancementSet.setType = reader.readInt32();
+    enhancementSet.image = reader.readString();
+    enhancementSet.minLevel = reader.readInt32();
+    enhancementSet.maxLevel = reader.readInt32();
+
+    const enhancementCount = reader.readInt32() + 1;
+    enhancementSet.enhancements = [];
+    for (let i = 0; i < enhancementCount; i++) {
+        enhancementSet.enhancements.push(reader.readInt32());
+    }
+
+    const bonusCount = reader.readInt32() + 1;
+    enhancementSet.bonuses = [];
+    for (let i = 0; i < bonusCount; i++) {
+        const bonus = {};
+        bonus.special = reader.readInt32();
+        bonus.altString = reader.readString();
+        bonus.pvMode = reader.readInt32();
+        bonus.slotted = reader.readInt32();
+        const nameCount = reader.readInt32() + 1;
+        bonus.names = [];
+        bonus.indexes = [];
+        for (let j = 0; j < nameCount; j++) {
+            bonus.names.push(reader.readString());
+            bonus.indexes.push(reader.readInt32());
+        }
+        enhancementSet.bonuses.push(bonus);
+    }
+
+    const specialBonusCount = reader.readInt32() + 1;
+    enhancementSet.specialBonuses = [];
+    for (let i = 0; i < specialBonusCount; i++) {
+        const specialBonus = {};
+        specialBonus.special = reader.readInt32();
+        specialBonus.altString = reader.readString();
+        const nameCount = reader.readInt32() + 1;
+        specialBonus.names = [];
+        specialBonus.indexes = [];
+        for (let j = 0; j < nameCount; j++) {
+            specialBonus.names.push(reader.readString());
+            specialBonus.indexes.push(reader.readInt32());
+        }
+        enhancementSet.specialBonuses.push(specialBonus);
+    }
+
+    return enhancementSet;
+}
+
+
 /**
  * @brief Loads a list of enhancement sets from the Mids' Reborn enhancement database.
  *
  * @param {ArrayBufferLike} buffer
  */
-export function LoadEnhDB(buffer) {
+export function LoadEnhDb(buffer) {
     const db = {};
     const stream = new StreamReader(buffer);
 
     const header = stream.readString();
-    console.log("Header", header);
+    console.log(`Header: ${header}`);
+
+    const unknownField = stream.readFloat();
+    console.log(`Unknown Field: ${unknownField}`);
+
+    const enhancementCount = stream.readInt32() + 1;
+    db.enhancements = [];
+    for (let i = 0; i < enhancementCount; i++) {
+        const enhancement = LoadEnhDbEnhancement(stream);
+        console.log(`Enhancement ${i}/${enhancementCount}:`, enhancement);
+        db.enhancements.push(enhancement);
+    }
+
+    const enhancementSetCount = stream.readInt32() + 1;
+    db.enhancementSets = [];
+    for (let i = 0; i < enhancementSetCount; i++) {
+        const enhancementSet = LoadEnhDbEnhancementSet(stream);
+        console.log(`EnhancementSet ${i}/${enhancementSetCount}:`, enhancementSet);
+        db.enhancementSets.push(enhancementSet);
+    }
 
     return db;
 }
