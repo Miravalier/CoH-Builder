@@ -43,6 +43,18 @@ export class StreamReader {
         return result;
     }
 
+    readInt64() {
+        const result = this.view.getBigInt64(this.offset, true);
+        this.offset += 8;
+        return result;
+    }
+
+    readUint64() {
+        const result = this.view.getBigUint64(this.offset, true);
+        this.offset += 8;
+        return result;
+    }
+
     readBoolean() {
         const byte = this.view.getUint8(this.offset);
         this.offset += 1;

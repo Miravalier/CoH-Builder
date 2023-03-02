@@ -13,3 +13,9 @@ export const ENH_MUTEX_C = 4;
 export const ENH_MUTEX_D = 5;
 export const ENH_MUTEX_E = 6;
 export const ENH_MUTEX_F = 7;
+
+export const ENH_TYPE_NONE = 0;
+export const ENH_TYPE_NORMAL = 0;
+export const ENH_TYPE_IO = 0;
+export const ENH_TYPE_SPECIAL = 0;
+export const ENH_TYPE_SET_IO = 0;
