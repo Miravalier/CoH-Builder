@@ -54,89 +54,78 @@ export class Database {
         stream.readBytes(4); // Magic bytes
 
         const version = Math.round(stream.readFloat() * 10);
-        console.log(`Version: ${version}`);
 
         if (version > 32) {
             throw new Error(`MxD version too new, ${version} > 3.2`);
         }
 
         const qualifiedNames = stream.readBoolean();
-        console.log(`Qualified Names: ${qualifiedNames ? "True" : "False"}`);
-
         const hasSubPower = stream.readBoolean();
-        console.log(`Has Sub Power: ${hasSubPower ? "True" : "False"}`);
-
         character.class = stream.readString();
-        console.log(`Class: ${character.class}`);
-
         character.origin = stream.readString();
-        console.log(`Origin: ${character.origin}`);
 
         character.alignment = Enums.ALIGNMENT_HERO;
         if (version > 10) {
             character.alignment = stream.readInt32();
         }
-        console.log(`Alignment: ${character.alignment}`);
 
         character.name = stream.readString();
-        console.log(`Name: ${character.name}`);
 
         const powerSetCount = stream.readInt32() + 1;
         character.powerSets = [];
         for (let i = 0; i < powerSetCount; i++) {
             character.powerSets.push(stream.readString());
         }
-        console.log("Power Sets", character.powerSets);
 
-        const lastPowerIndex = stream.readInt32() - 1;
-        console.log("Last Power Index", lastPowerIndex);
+        character.lastPowerIndex = stream.readInt32() - 1;
         const powerCount = stream.readInt32() + 1;
+
 
         const powerEntries = [];
         for (let i = 0; i < powerCount; i++) {
             const powerEntry = {};
             if (qualifiedNames) {
-                powerEntry.name = stream.readString();
-                powerEntry.power = this.powersByUid[powerEntry.name];
+                const powerName = stream.readString();
+                powerEntry.power = this.powersByUid[powerName];
             }
             else {
-                powerEntry.id = stream.readInt32();
-                powerEntry.power = this.powersBySid[powerEntry.id];
+                const powerId = stream.readInt32();
+                powerEntry.power = this.powersBySid[powerId];
             }
 
-            if (!powerEntry.power) continue;
+            if (powerEntry.power) {
+                powerEntry.level = stream.readInt8();
+                powerEntry.statInclude = stream.readBoolean();
+                if (version == 32) {
+                    powerEntry.procInclude = stream.readBoolean();
+                    powerEntry.variableValue = stream.readInt32();
+                    powerEntry.inherentSlotsUsed = stream.readInt32();
+                }
+                else if (version == 31) {
+                    powerEntry.procInclude = stream.readBoolean();
+                    powerEntry.variableValue = stream.readInt32();
+                }
+                else {
+                    powerEntry.variableValue = stream.readInt32();
+                }
 
-            powerEntry.level = stream.readInt8();
-            powerEntry.statInclude = stream.readBoolean();
-            if (version == 32) {
-                powerEntry.procInclude = stream.readBoolean();
-                powerEntry.variableValue = stream.readInt32();
-                powerEntry.inherentSlotsUsed = stream.readInt32();
-            }
-            else if (version == 31) {
-                powerEntry.procInclude = stream.readBoolean();
-                powerEntry.variableValue = stream.readInt32();
-            }
-            else {
-                powerEntry.variableValue = stream.readInt32();
-            }
-
-            if (hasSubPower) {
-                powerEntry.subPowers = [];
-                const subPowerCount = stream.readInt8() + 1;
-                for (let j = 0; j < subPowerCount; j++) {
-                    const subPower = {};
-                    if (qualifiedNames) {
-                        subPower.name = stream.readString();
-                        subPower.power = this.powersByUid[subPower.name];
+                if (hasSubPower) {
+                    powerEntry.subPowers = [];
+                    const subPowerCount = stream.readInt8() + 1;
+                    for (let j = 0; j < subPowerCount; j++) {
+                        const subPower = {};
+                        if (qualifiedNames) {
+                            const subPowerName = stream.readString();
+                            subPower.power = this.powersByUid[subPowerName];
+                        }
+                        else {
+                            const subPowerId = stream.readInt32();
+                            subPower.power = this.powersBySid[subPowerId];
+                        }
+                        subPower.statInclude = stream.readBoolean();
+                        if (!subPower.power) continue;
+                        powerEntry.subPowers.push(subPower);
                     }
-                    else {
-                        subPower.id = stream.readInt32();
-                        subPower.power = this.powersBySid[subPower.id];
-                    }
-                    subPower.statInclude = stream.readBoolean();
-                    if (!subPower.power) continue;
-                    powerEntry.subPowers.push(subPower);
                 }
             }
 
@@ -149,17 +138,13 @@ export class Database {
                     slot.inherent = stream.readBoolean();
                 }
                 slot.enhancement = this.LoadMxdEnhancement(stream, version, qualifiedNames);
-                //console.log("Enhancement", slot.enhancement);
                 if (stream.readBoolean()) {
                     slot.flippedEnhancement = this.LoadMxdEnhancement(stream, version, qualifiedNames);
                 }
                 slots.push(slot);
-                //console.log("Slot", slot);
             }
             powerEntry.slots = slots;
-
             powerEntries.push(powerEntry);
-            console.log(i, "Power", powerEntry);
         }
         character.powers = powerEntries;
         return character;
@@ -188,13 +173,13 @@ export class Database {
 
         const typeId = enhancementInstance.enhancement.typeId;
         if (typeId == Enums.ENH_TYPE_NORMAL || typeId == Enums.ENH_TYPE_SPECIAL) {
-            enhancementInstance.relativeLevel = reader.readInt8();
-            enhancementInstance.grade = reader.readInt8();
+            enhancementInstance.relativeLevel = stream.readInt8();
+            enhancementInstance.grade = stream.readInt8();
         }
         else if (typeId == Enums.ENH_TYPE_IO || typeId == Enums.ENH_TYPE_SET_IO) {
-            enhancementInstance.ioLevel = reader.readInt8();
+            enhancementInstance.ioLevel = stream.readInt8();
             if (version > 10) {
-                enhancementInstance.relativeLevel = reader.readInt8();
+                enhancementInstance.relativeLevel = stream.readInt8();
             }
         }
         return enhancementInstance;
@@ -660,10 +645,7 @@ export function LoadI12(buffer) {
     const stream = new StreamReader(buffer);
 
     const fileHeader = stream.readString();
-    console.log("Header:", fileHeader);
-
     const version = stream.readString();
-    console.log("Version:", version);
 
     const year = stream.readInt32();
     if (year > 0) {
