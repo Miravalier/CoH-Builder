@@ -1,9 +1,15 @@
 import { StreamReader } from "./streams.js";
+import { RetrieveArrayBuffer } from "./requests.js";
 import * as Enums from "./enums.js";
 
 
 export class Database {
     constructor(enhDb, i12) {
+        this.enhancementSets = enhDb.enhancementSets;
+        this.enhancementSetsByUid = {};
+        for (let enhancementSet of enhDb.enhancementSets) {
+            this.enhancementSetsByUid[enhancementSet.uid] = enhancementSet;
+        }
         this.enhancements = enhDb.enhancements;
         this.enhancementsByUid = {};
         this.enhancementsBySid = {};
@@ -12,6 +18,10 @@ export class Database {
             this.enhancementsBySid[enhancement.staticIndex] = enhancement;
         }
         this.classes = i12.classes;
+        this.classesByUid = {};
+        for (let _class of this.classes) {
+            this.classesByUid[_class.name] = _class;
+        }
         this.powersets = i12.powersets;
         this.powers = i12.powers;
         this.powersByUid = {};
@@ -23,14 +33,16 @@ export class Database {
     }
 
     /**
-     * @brief Loads a character from an MxD save string (Mids' Reborn)
+     * @brief Loads a character from an MxD file (Mids' Reborn Build File)
      *
-     * @param {String} saveString
+     * @param {String} fileContent
      */
-    LoadMxdCharacter(saveString) {
+    LoadMxdCharacter(fileContent) {
+        const saveStringStart = fileContent.indexOf("MxDz");
+        let saveString = fileContent.substring(saveStringStart);
         const character = {};
 
-        saveString = saveString.replace(/[\s|]+/g, "");
+        saveString = saveString.replace(/[\s|-]+/g, "");
 
         const stringParts = saveString.split(";");
         if (stringParts.length != 6) {
@@ -144,7 +156,10 @@ export class Database {
                 slots.push(slot);
             }
             powerEntry.slots = slots;
-            powerEntries.push(powerEntry);
+
+            if (powerEntry.power) {
+                powerEntries.push(powerEntry);
+            }
         }
         character.powers = powerEntries;
         return character;
@@ -640,7 +655,7 @@ function LoadI12Summons(stream) {
  *
  * @param {ArrayBufferLike} buffer
  */
-export function LoadI12(buffer) {
+function LoadI12(buffer) {
     const db = {};
     const stream = new StreamReader(buffer);
 
@@ -693,7 +708,7 @@ export function LoadI12(buffer) {
  *
  * @param {ArrayBufferLike} buffer
  */
-export function LoadEnhDb(buffer) {
+function LoadEnhDb(buffer) {
     const db = {};
     const stream = new StreamReader(buffer);
 
@@ -716,3 +731,8 @@ export function LoadEnhDb(buffer) {
 
     return db;
 }
+
+
+const enhDbBuffer = await RetrieveArrayBuffer("/Data/Homecoming/EnhDB.mhd");
+const i12Buffer = await RetrieveArrayBuffer("/Data/Homecoming/I12.mhd");
+export const database = new Database(LoadEnhDb(enhDbBuffer), LoadI12(i12Buffer));

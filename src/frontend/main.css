@@ -1,0 +1,86 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+span.label {
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+}
+
+
+span.grey {
+    color: grey;
+}
+
+
+#pageHeader {
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 0.5em;
+    width: 24em;
+}
+
+
+#mainDisplay {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+
+.character {
+    margin: 4px;
+    padding: 0.5em;
+}
+
+
+.character .box {
+    border-radius: 8px;
+}
+
+
+.character .power.box {
+    background: lightblue;
+}
+
+
+.character .slot.box {
+    background: rgba(79, 91, 102, 0.3);
+}
+
+
+.character .power {
+    margin: 4px;
+    padding: 0.5em;
+}
+
+
+.character .power .powerHeader {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+
+.character .power .powerHeader .powerLevel {
+    margin: 0 4px;
+}
+
+
+.character .power .slot {
+    margin: 4px;
+    padding: 0.5em;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+
+.character .power .slot .enhancementLevel {
+    margin: 0 4px;
+}
