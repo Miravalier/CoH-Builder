@@ -26,8 +26,8 @@ frontend:
 
 frontend-data:
 	mkdir -p /var/www/coh-builder/
-	rm -rf /var/www/coh-builder/Data/
-	cp -r Data /var/www/coh-builder/
+	rm -rf /var/www/coh-builder/Data/ /var/www/coh-builder/Images/
+	cp -r Data Images /var/www/coh-builder/
 
 
 backend:
