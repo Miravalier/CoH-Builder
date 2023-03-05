@@ -1,20 +1,7 @@
-import { exampleBuild3 } from "./modules/example_data.js";
+import { ReadFile } from "./modules/utils.js";
 import { database } from "./modules/database.js";
 import { RenderCharacter } from "./modules/render.js";
 
-
-async function ReadFile(file) {
-    return new Promise(function (resolve, reject) {
-        const reader = new FileReader();
-        reader.addEventListener("load", () => {
-            resolve(reader.result);
-        });
-        reader.addEventListener("error", () => {
-            reject("error");
-        });
-        reader.readAsText(file);
-    });
-}
 
 let character = null;
 

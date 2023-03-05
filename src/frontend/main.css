@@ -39,9 +39,12 @@ span.grey {
     z-index: 10;
 }
 
-
 #tooltip .enhancementName {
     font-weight: bold;
+}
+
+#tooltip .inactive {
+    color: lightslategrey;
 }
 
 

@@ -2,14 +2,52 @@ import { database } from "./database.js";
 import * as Enums from "./enums.js";
 
 
-function RenderEnhancementTooltip(enhancement) {
+function RenderEnhancementTooltip(powerEntry, enhancement) {
     let enhancementName = enhancement.name;
     if (enhancement.uidSet) {
         enhancementName = `${enhancement.uidSet.replaceAll("_", " ")}: ${enhancementName}`;
     }
+
+    //console.log("Enhancement", enhancement);
+    //console.log("PowerEntry", powerEntry);
+
+    let enhancementDescription = "";
+    const enhancementSet = database.enhancementSetsByUid[enhancement.uidSet];
+    if (enhancementSet) {
+        //console.log("Enhancement Set", enhancementSet);
+        let enhancementsInSet = 0;
+        for (let slot of powerEntry.slots) {
+            if (!slot.enhancement) {
+                continue;
+            }
+            if (slot.enhancement.enhancement.uidSet == enhancementSet.uid) {
+                enhancementsInSet += 1;
+            }
+        }
+
+        const effectStrings = [];
+        let requirementCount = 1;
+        for (let bonus of enhancementSet.bonuses) {
+            for (let boostName of bonus.names) {
+                const boost = database.powersByUid[boostName];
+                if (boost.setName != "PVP_Set_Bonus") {
+                    requirementCount += 1;
+                }
+                if (enhancementsInSet >= requirementCount) {
+                    effectStrings.push(`<div class="active">(${requirementCount}) ${boost.description}</div>`);
+                }
+                else {
+                    effectStrings.push(`<div class="inactive">(${requirementCount}) ${boost.description}</div>`);
+                }
+                //console.log("Enh Boost Power", boost);
+            }
+        }
+        enhancementDescription = effectStrings.join("");
+    }
+
     return `
-        <span class="enhancementName">${enhancementName}</span>
-        <span class="enhancementDescription"></span>
+        <div class="enhancementName">${enhancementName}</div>
+        <div class="enhancementDescription">${enhancementDescription}</div>
     `
 }
 
@@ -51,7 +89,7 @@ function RenderSlots(power, viewStyle) {
                 frame = "HO.png";
             }
             htmlElements.push(`
-                <div class="slot box" data-uid="${slot.enhancement.enhancement.uid}">
+                <div class="slot box" data-enhancement="${slot.enhancement.enhancement.uid}" data-power="${power.id}">
                     <img class="enhancementFrame" src="/Images/Overlay/${frame}" alt="Enhancement Frame" width="32" height="32">
                     <img class="enhancementIcon" src="/Images/Enhancements/${image}" alt="${enhancementName}" width="32" height="32">
                     <div class="enhancementLevel">
@@ -84,7 +122,6 @@ function RenderPowers(character, viewStyle) {
 
     const htmlElements = [];
     for (let power of powers) {
-        console.log(power);
         let powerLevel = "";
         if (viewStyle == "compact") {
             powerLevel = power.level + 1;
@@ -140,7 +177,11 @@ export function RenderCharacter(character, viewStyle) {
 
     for (let slot of display.querySelectorAll(".character .slot")) {
         slot.addEventListener("mouseover", ev => {
-            const enhancement = database.enhancementsByUid[ev.target.dataset.uid];
+            const power = character.powersById[ev.target.dataset.power];
+            if (!power) {
+                return;
+            }
+            const enhancement = database.enhancementsByUid[ev.target.dataset.enhancement];
             if (!enhancement) {
                 return;
             }
@@ -166,7 +207,7 @@ export function RenderCharacter(character, viewStyle) {
             tooltip.style.display = "flex";
 
             tooltip.innerHTML = "";
-            tooltip.insertAdjacentHTML("afterbegin", RenderEnhancementTooltip(enhancement));
+            tooltip.insertAdjacentHTML("afterbegin", RenderEnhancementTooltip(power, enhancement));
         });
 
         slot.addEventListener("mouseout", ev => {

@@ -1,3 +1,4 @@
+import { GenerateID } from "./utils.js";
 import { StreamReader } from "./streams.js";
 import { RetrieveArrayBuffer } from "./requests.js";
 import * as Enums from "./enums.js";
@@ -27,7 +28,7 @@ export class Database {
         this.powersByUid = {};
         this.powersBySid = {};
         for (let power of i12.powers) {
-            this.powersByUid[power.uid] = power;
+            this.powersByUid[power.fullName] = power;
             this.powersBySid[power.staticIndex] = power;
         }
     }
@@ -41,6 +42,7 @@ export class Database {
         const saveStringStart = fileContent.indexOf("MxDz");
         let saveString = fileContent.substring(saveStringStart);
         const character = {};
+        character.powersById = {};
 
         saveString = saveString.replace(/[\s|-]+/g, "");
 
@@ -104,6 +106,9 @@ export class Database {
                 const powerId = stream.readInt32();
                 powerEntry.power = this.powersBySid[powerId];
             }
+
+            powerEntry.id = GenerateID();
+            character.powersById[powerEntry.id] = powerEntry;
 
             if (powerEntry.power) {
                 powerEntry.level = stream.readInt8();
