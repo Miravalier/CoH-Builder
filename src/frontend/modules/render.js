@@ -186,7 +186,7 @@ export function RenderCharacter(character, viewStyle) {
                 return;
             }
 
-            if (ev.clientX > screen.width / 2) {
+            if (ev.clientX > document.body.clientWidth / 2) {
                 tooltip.style.left = null;
                 tooltip.style.right = document.body.clientWidth - ev.pageX;
             }
@@ -195,7 +195,7 @@ export function RenderCharacter(character, viewStyle) {
                 tooltip.style.right = null;
             }
 
-            if (ev.clientY > screen.height / 2) {
+            if (ev.clientY > document.body.clientHeight / 2) {
                 tooltip.style.top = null;
                 tooltip.style.bottom = document.body.clientHeight - ev.pageY;
             }
