@@ -24,8 +24,10 @@ function RenderSlots(power) {
             else if (slot.enhancement.relativeLevel) {
                 enhancementLevel = `+${slot.enhancement.relativeLevel}`;
             }
+            const image = slot.enhancement.enhancement.image;
             htmlElements.push(`
                 <div class="slot box">
+                    <img src="/Images/Enhancements/${image}" alt="${enhancementName}" width="32" height="32">
                     <div class="enhancementLevel">
                         (${enhancementLevel})
                     </div>
