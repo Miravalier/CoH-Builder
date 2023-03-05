@@ -85,3 +85,11 @@ span.grey {
 .character .power .slot .enhancementLevel {
     margin: 0 4px;
 }
+
+.character .power .slot .enhancementFrame {
+    position: absolute;
+}
+
+.character .power .slot .enhancementIcon {
+    z-index: 1;
+}

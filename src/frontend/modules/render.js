@@ -1,4 +1,5 @@
 import { database } from "./database.js";
+import * as Enums from "./enums.js";
 
 function RenderSlots(power) {
     const htmlElements = [];
@@ -25,9 +26,18 @@ function RenderSlots(power) {
                 enhancementLevel = `+${slot.enhancement.relativeLevel}`;
             }
             const image = slot.enhancement.enhancement.image;
+            const typeId = slot.enhancement.enhancement.typeId;
+            let frame = "Inc.png";
+            if (typeId == Enums.ENH_TYPE_SET_IO || typeId == Enums.ENH_TYPE_IO) {
+                frame = "IO.png";
+            }
+            else if (typeId == Enums.ENH_TYPE_SPECIAL) {
+                frame = "HO.png";
+            }
             htmlElements.push(`
                 <div class="slot box">
-                    <img src="/Images/Enhancements/${image}" alt="${enhancementName}" width="32" height="32">
+                    <img class="enhancementFrame" src="/Images/Overlay/${frame}" alt="Enhancement Frame" width="32" height="32">
+                    <img class="enhancementIcon" src="/Images/Enhancements/${image}" alt="${enhancementName}" width="32" height="32">
                     <div class="enhancementLevel">
                         (${enhancementLevel})
                     </div>
