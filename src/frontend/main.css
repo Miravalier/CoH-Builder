@@ -21,13 +21,45 @@ span.grey {
 }
 
 
+#tooltip {
+    display: none;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+
+    color: white;
+    text-shadow: 1px 1px black;
+    padding: 4px;
+    background: rgb(99, 108, 116);
+    border-radius: 4px;
+    border: 2px solid rgb(29, 55, 80);
+
+    z-index: 10;
+}
+
+
+#tooltip .enhancementName {
+    font-weight: bold;
+}
+
+
 #pageHeader {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#pageHeader .container {
     display: flex;
     flex-flow: column nowrap;
     padding: 0.5em;
-    width: 24em;
+    justify-content: center;
+    align-items: center;
 }
-
 
 #mainDisplay {
     display: flex;
@@ -56,6 +88,12 @@ span.grey {
 }
 
 
+.character .powers {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
 .character .power {
     margin: 4px;
     padding: 0.5em;
@@ -65,6 +103,8 @@ span.grey {
 .character .power .powerHeader {
     display: flex;
     flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -73,23 +113,72 @@ span.grey {
 }
 
 
-.character .power .slot {
+.character .slot {
     margin: 4px;
     padding: 0.5em;
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
+    user-select: none;
 }
 
 
-.character .power .slot .enhancementLevel {
+.character .slot .enhancementLevel {
     margin: 0 4px;
 }
 
-.character .power .slot .enhancementFrame {
+.character .slot .enhancementFrame {
+    pointer-events: none;
     position: absolute;
 }
 
-.character .power .slot .enhancementIcon {
+.character .slot .enhancementIcon {
+    pointer-events: none;
     z-index: 1;
+}
+
+.character .slot .enhancementName {
+    pointer-events: none;
+}
+
+
+.character.compact .power {
+    flex: 1 1 200px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.character.compact .power .powerLevel {
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+
+.character.compact .slots {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.character.compact .slot {
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+}
+
+.character.compact .slot .enhancementName {
+    display: none;
+}
+
+.character.compact .slot .enhancementLevel {
+    pointer-events: none;
+    position: absolute;
+    color: white;
+    text-shadow: 2px 2px black;
+    z-index: 2;
+    transform: translateY(14px);
 }

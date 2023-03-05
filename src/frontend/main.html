@@ -12,10 +12,19 @@
 </head>
 
 <body>
+    <div id="tooltip">Lorem ipsum</div>
     <div id="pageHeader">
-        <span class="label">View a Mids' Reborn Build</span>
-        <input type="file" id="midsFile">
-        <button type="button" id="midsLoadButton">Load</button>
+        <div class="loadFile container">
+            <span class="label">View a Mids' Reborn Build</span>
+            <input type="file" id="midsFile">
+            <button type="button" id="midsLoadButton">Load</button>
+        </div>
+        <div class="settings container">
+            <select id="viewStyle">
+                <option value="compact">Compact View</option>
+                <option value="expanded">Expanded View</option>
+            </select>
+        </div>
     </div>
     <div id="mainDisplay"></div>
 </body>

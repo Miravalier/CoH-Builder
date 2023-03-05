@@ -16,6 +16,7 @@ async function ReadFile(file) {
     });
 }
 
+let character = null;
 
 function Main() {
     console.log("Database", database);
@@ -23,17 +24,28 @@ function Main() {
 
     const loadButton = document.getElementById("midsLoadButton");
     const midsFilePicker = document.getElementById("midsFile");
+    const viewStyleSelect = document.getElementById("viewStyle");
+    const tooltip = document.getElementById("tooltip");
 
-    loadButton.addEventListener("click", async ev => {
-        const midsFile = midsFilePicker.files[0];
-        const midsFileContent = await ReadFile(midsFile);
-        const character = database.LoadMxdCharacter(midsFileContent);
-        console.log("Character", character);
-        RenderCharacter(character);
+    tooltip.addEventListener("mouseout", ev => {
+        tooltip.style.display = "none";
     });
 
+    loadButton.addEventListener("click", async ev => {
+        // Update global character ref
+        const midsFile = midsFilePicker.files[0];
+        const midsFileContent = await ReadFile(midsFile);
+        character = database.LoadMxdCharacter(midsFileContent);
+        // Re-render
+        console.log("Rendering Character", character);
+        RenderCharacter(character, viewStyleSelect.value);
+    });
 
-
+    viewStyleSelect.addEventListener("change", async ev => {
+        // Re-render
+        console.log("Rendering Character", character);
+        RenderCharacter(character, viewStyleSelect.value);
+    });
 }
 
 if (document.readyState === "complete") {
