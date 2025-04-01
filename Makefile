@@ -1,60 +1,18 @@
-DOMAIN = cohbuilder.internal
-
-.PHONY: help frontend frontend-data backend nginx
-
-help:
-	@echo "make help"
-	@echo "  Display this message"
-	@echo
-	@echo "make frontend"
-	@echo "  Copy the front-end files into the nginx root"
-	@echo
-	@echo "make frontend-data"
-	@echo "  Copy the front-end data into the nginx root"
-	@echo
-	@echo "make backend"
-	@echo "  Run the API server (requires docker and docker-compose)"
-	@echo
-	@echo "sudo make nginx"
-	@echo "  Serve the application on the provided DOMAIN."
+.PHONY: all
+all: build run
 
 
-frontend:
-	mkdir -p /var/www/coh-builder/
-	cp -r ./src/frontend/* ./deps/* /var/www/coh-builder/
+.PHONY: build
+build:
+	yarn
+	yarn vite build
 
 
-frontend-data:
-	mkdir -p /var/www/coh-builder/
-	rm -rf /var/www/coh-builder/Data/ /var/www/coh-builder/Images/
-	cp -r Data Images /var/www/coh-builder/
+.PHONY: run
+run:
+	docker compose up -d
 
 
-backend:
-	@if [ ! -f .env ]; then \
-		echo "No .env found in $$PWD; copy example.env to .env and edit it"; \
-		exit 1; \
-	fi
-	docker-compose down
-	docker-compose build
-	docker-compose up -d
-
-
-SITE_AVAILABLE := /etc/nginx/sites-available/$(DOMAIN)
-SITE_ENABLED := /etc/nginx/sites-enabled/$(DOMAIN)
-RAND_OCTET=$(shell python3 -c 'import secrets; print(secrets.randbelow(256))')
-nginx:
-	@if [ ! -f .env ]; then \
-			echo "No .env found in $$PWD; copy example.env to .env and edit it"; \
-			exit 1; \
-		fi
-	@rm -f "$(SITE_ENABLED)"
-	@if [ -z "$$(grep "$(DOMAIN)" /etc/hosts)" ]; then \
-			echo "127.$(RAND_OCTET).$(RAND_OCTET).$(RAND_OCTET) $(DOMAIN)" >> /etc/hosts; \
-		fi
-	cp nginx.site "$(SITE_AVAILABLE)"
-	. ./.env; sed -i "s/{HTTP_PORT}/$$HTTP_PORT/" "$(SITE_AVAILABLE)"
-	sed -i "s/{DOMAIN}/$(DOMAIN)/" "$(SITE_AVAILABLE)"
-	ln -s "$(SITE_AVAILABLE)" "$(SITE_ENABLED)"
-	service nginx restart
-	@echo "Frontend reachable at http://$(DOMAIN)/"
+.PHONY: down
+down:
+	docker compose down

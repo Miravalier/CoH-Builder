@@ -1,18 +1,12 @@
-version: "3.5"
-
-networks:
-    cohbuilder:
-        external: false
-
 services:
-    server:
-        build: .
-        image: cohbuilder_api
-        container_name: cohbuilder_api
-        networks:
-            - cohbuilder
-        volumes:
-            - /var/coh-builder:/data
-            - /var/www/coh-builder:/frontend
-        ports:
-            - "${HTTP_PORT}:80"
+  coh_builder_frontend:
+    image: nginx
+    container_name: coh_builder_frontend
+    volumes:
+      - "./default.conf.template:/etc/nginx/templates/default.conf.template"
+      - "./dist:/var/www/coh-builder:ro"
+    ports:
+      - ${WEB_PORT}:80
+    environment:
+      - API_PORT=8080
+      - NGINX_ENVSUBST_FILTER=^(API_PORT)$$

@@ -1,0 +1,21 @@
+map $http_upgrade $connection_upgrade {
+    default upgrade;
+    ''      close;
+}
+
+server {
+    listen       80;
+    server_name  _;
+    index main.html;
+    root   /var/www/coh-builder;
+
+    include mime.types;
+    types
+    {
+        application/javascript mjs;
+    }
+
+    location / {
+        try_files $uri $uri.html $uri/ =404;
+    }
+}
