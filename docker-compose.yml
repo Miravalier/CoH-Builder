@@ -1,12 +1,30 @@
+
+networks:
+  coh_builder:
+
 services:
   coh_builder_frontend:
-    image: nginx
+    image: nginx:1.27
     container_name: coh_builder_frontend
     volumes:
-      - "./default.conf.template:/etc/nginx/templates/default.conf.template"
+      - "./nginx.conf:/etc/nginx/nginx.conf:ro"
+      - "./default.conf.template:/etc/nginx/templates/default.conf.template:ro"
       - "./dist:/var/www/coh-builder:ro"
+      - "${COH_DATA_PATH}:/var/CoH-Data"
     ports:
       - ${WEB_PORT}:80
     environment:
-      - API_PORT=8080
-      - NGINX_ENVSUBST_FILTER=^(API_PORT)$$
+      - WEB_PORT=${WEB_PORT}
+      - NGINX_ENVSUBST_FILTER=^(WEB_PORT)$$
+    networks:
+      - coh_builder
+    depends_on:
+      - coh_builder_backend
+
+  coh_builder_backend:
+    build: .
+    container_name: coh_builder_backend
+    volumes:
+      - "${COH_DATA_PATH}:/var/CoH-Data"
+    networks:
+      - coh_builder

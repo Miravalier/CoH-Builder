@@ -10,7 +10,8 @@ build:
 
 .PHONY: run
 run:
-	docker compose up -d
+	docker compose down
+	docker compose up --build -d
 
 
 .PHONY: down
