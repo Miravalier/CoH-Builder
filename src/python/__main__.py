@@ -20,7 +20,9 @@ async def post_file(request: UploadRequest):
     if not path.startswith(str(data_root)):
         raise ValueError("invalid path")
     
-    with open(path, "wb") as f:
+    print("Uploading", request)
+    
+    with open(path, "w") as f:
         f.write(request.contents)
 
 

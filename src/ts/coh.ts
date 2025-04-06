@@ -1,5 +1,7 @@
 import * as popup from "./popup";
 import { addContextOption } from "./context";
+import { jsonRequest } from "./request";
+import { Expression } from "./expressions";
 
 
 export const baseUrl = "/CoH-Data";
@@ -203,9 +205,10 @@ export async function saveObject(obj: DataObject) {
     while (cursor.parent) {
         cursor = cursor.parent;
     }
-
-    console.log(cursor.label);
-    console.log(serializeObject(obj));
+    await jsonRequest("POST", "/upload", {
+        path: cursor.label,
+        contents: serializeObject(cursor),
+    });
 }
 
 
@@ -373,6 +376,10 @@ export function objectToHtml(object: DataObject): HTMLDivElement {
         container.dataset.path = object.label;
     }
 
+    addContextOption(container, "Upload Changes", async () => {
+        await saveObject(object);
+    });
+
     // Add header to container
     const header = container.appendChild(document.createElement("div"));
     header.classList.add("header");
@@ -409,7 +416,17 @@ export function objectToHtml(object: DataObject): HTMLDivElement {
         const attributeValue = attribute.appendChild(document.createElement("div"));
         attributeValue.classList.add("value");
         attributeValue.textContent = value;
-        if (value == "kTrue" || value == "kFalse") {
+        if (object.dataType == "AttribMod" && key == "Requires") {
+            attributeValue.textContent = Expression.fromRpn(value).toString();
+            addContextOption(attributeValue, "Edit Expression", async () => {
+                const expr = Expression.fromString(
+                    await popup.getValue(key, Expression.fromRpn(object.attributes[key]).toString())
+                );
+                object.attributes[key] = expr.toRpn();
+                attributeValue.textContent = expr.toString();
+            });
+        }
+        else if (value == "kTrue" || value == "kFalse") {
             addContextOption(attributeValue, "Set to False", () => {
                 object.attributes[key] = "kFalse";
                 attributeValue.textContent = "kFalse";

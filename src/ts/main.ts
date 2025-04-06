@@ -32,8 +32,6 @@ async function Main() {
         groupContainer.appendChild(CoH.objectToHtml(primaries));
         groupContainer.appendChild(CoH.objectToHtml(secondaries));
     }
-
-    CoH.saveObject(CoH.classes["Blaster"].primaries.children["PowerSet"][0]);
 }
 
 
